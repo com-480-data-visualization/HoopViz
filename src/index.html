@@ -1,3 +1,5 @@
+<html>
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -7,16 +9,25 @@
 </head>
 
 <body>
-  <main>
-    <div class="stacked" id="viewport">
-      <div id="bubbles-container">
-        <a class="bubble" id="measure-bubble"></a>
+  <section id="teams">
+    <div class="stacked overlay">
+      <div class="year-slider-container">
+        <div class="year-ticks">
+        </div>
+        <input type="range" class="year-slider">
+        <span class="current-year">2024</span>
       </div>
     </div>
 
-    <div class="stacked" id="stats">
+    <div class="stacked viewport">
+      <div class="bubbles-container">
+        <a class="bubble measure-bubble"></a>
+      </div>
     </div>
-  </main>
+
+    <div class="stacked stats">
+    </div>
+  </section>
 
   <div id="disclaimer">
     This project is not affiliated with, maintained by, or endorsed by the National Basketball Association (NBA).
@@ -27,8 +38,10 @@
     const MAX_ZOOM = 15;
     const MIN_ZOOM = 1;
 
-    const viewport = document.getElementById("viewport");
-    const bubblesContainer = document.getElementById("bubbles-container");
+    const viewport = document.querySelector("#teams .viewport");
+    const bubblesContainer = document.querySelector("#teams .bubbles-container");
+    const measureBubble = document.querySelector("#teams .measure-bubble");
+    const stats = document.querySelector("#teams .stats");
 
     const transform = {scale: 1, x: 0, y: 0};
     const dragOrigin = {x: 0, y: 0};
@@ -53,6 +66,7 @@
     }
 
     viewport.addEventListener("mousedown", (e) => {
+      bubblesContainer.classList.remove("transition")
       e.preventDefault();
 
       isDragging = true;
@@ -91,6 +105,7 @@
     viewport.addEventListener("mouseleave", endDrag);
 
     viewport.addEventListener("wheel", (e) => {
+      bubblesContainer.classList.remove("transition")
       e.preventDefault();
       const zoomFactor = e.deltaY < 0 ? ZOOM_SPEED : 1 / ZOOM_SPEED;
       const newScale = clamp(transform.scale * zoomFactor, MIN_ZOOM, MAX_ZOOM);
@@ -111,9 +126,7 @@
         e.stopImmediatePropagation();
       }
     }, true);
-  </script>
 
-  <script>
     const teams = [
       {id: "ATL", name: "Atlanta Hawks", color: "#C1272D"},
       {id: "BOS", name: "Boston Celtics", color: "#007A33"},
@@ -147,8 +160,6 @@
       {id: "WAS", name: "Washington Wizards", color: "#002B5C"},
     ];
 
-    const container = document.getElementById("bubbles-container");
-
     let layoutPx = {
       width: 0,
       height: 0,
@@ -156,9 +167,8 @@
     };
 
     function updateLayout() {
-      const containerStyles = getComputedStyle(container);
+      const containerStyles = getComputedStyle(bubblesContainer);
 
-      const measureBubble = document.getElementById("measure-bubble");
       layoutPx.maxBubbleSize = parseFloat(getComputedStyle(measureBubble).width);
 
       const padLeft = parseFloat(containerStyles.paddingLeft);
@@ -166,8 +176,8 @@
       const padTop = parseFloat(containerStyles.paddingTop);
       const padBottom = parseFloat(containerStyles.paddingBottom);
 
-      layoutPx.width = container.clientWidth - (padLeft + padRight);
-      layoutPx.height = container.clientHeight - (padTop + padBottom);
+      layoutPx.width = bubblesContainer.clientWidth - (padLeft + padRight);
+      layoutPx.height = bubblesContainer.clientHeight - (padTop + padBottom);
     }
 
     function getTeamsPosition() {
@@ -250,6 +260,9 @@
     }
 
     function repositionBubbles(positions) {
+      bubblesContainer.classList.add("transition")
+      transform.scale = 1;
+      applyTransform();
       updateLayout();
       const realPositions = collisionAvoidance(positions);
 
@@ -277,28 +290,26 @@
         if (dragHasMoved) return;
         e.preventDefault();
 
-        const statDiv = document.getElementById("stats");
-
         const rect = bubble.getBoundingClientRect();
         const cx = rect.left + rect.width / 2;
         const cy = rect.top + rect.height / 2;
 
-        statDiv.style.backgroundColor = team.color;
-        statDiv.innerHTML = `<h1>${team.name} Stats</h1><p style="margin-top: 20px; font-size: 0.8rem; cursor: pointer;">Click anywhere to close</p>`;
+        stats.style.backgroundColor = team.color;
+        stats.innerHTML = `<h1>${team.name} Stats</h1><p style="margin-top: 20px; font-size: 0.8rem; cursor: pointer;">Click anywhere to close</p>`;
 
-        statDiv.style.clipPath = `circle(0px at ${cx}px ${cy}px)`;
-        statDiv.style.transition = "none";
+        stats.style.clipPath = `circle(0px at ${cx}px ${cy}px)`;
+        stats.style.transition = "none";
 
-        void statDiv.offsetWidth;
-        statDiv.style.transition = "clip-path 0.8s ease-out, opacity 0.2s ease-out";
-        statDiv.style.clipPath = `circle(150vmax at ${cx}px ${cy}px)`;
-        statDiv.classList.add("active");
+        void stats.offsetWidth;
+        stats.style.transition = "clip-path 0.8s ease-out, opacity 0.2s ease-out";
+        stats.style.clipPath = `circle(150vmax at ${cx}px ${cy}px)`;
+        stats.classList.add("active");
       });
 
-      container.appendChild(bubble);
+      bubblesContainer.appendChild(bubble);
     });
 
-    document.getElementById("stats").addEventListener("click", (e) => {
+    stats.addEventListener("click", (e) => {
       const statDiv = e.currentTarget;
       statDiv.classList.remove("active");
     });
@@ -309,7 +320,7 @@
     const resizeObserver = new ResizeObserver(() => {
       repositionBubbles(positions);
     });
-    resizeObserver.observe(container);
+    resizeObserver.observe(bubblesContainer);
 
     document.addEventListener("keydown", (event) => {
       if (event.key === "a") {
@@ -319,9 +330,49 @@
     });
 
     setTimeout(() => {
-      document.querySelectorAll(".bubble:not(#measure-bubble)").forEach(b => b.classList.add("ready"));
+      document.querySelectorAll(".bubble:not(.measure-bubble)").forEach(b => b.classList.add("transition"));
     }, 200);
+
+    const slider = document.querySelector("#teams .year-slider");
+    const label = document.querySelector("#teams .current-year");
+    const yearTicks = document.querySelector("#teams .year-ticks");
+
+    const min = 1990, max = 2025;
+    slider.min = min;
+    slider.max = max;
+    slider.value = max;
+    for (let year = min; year <= max; year++) {
+      if (year % 5 === 0) {
+        const span = document.createElement("span");
+        const pct = (year - min) / (max - min) * 100;
+        span.style.left = `${pct}%`;
+        span.textContent = year;
+        yearTicks.appendChild(span);
+      }
+    }
+
+    function updateThumbLabel() {
+        const min = +slider.min;
+        const max = +slider.max;
+        const val = +slider.value;
+
+        // Calculate % position along the track
+        const pct = (val - min) / (max - min);
+        const thumbWidth = 28;
+        const trackWidth = slider.offsetWidth;
+        const offset = pct * (trackWidth - thumbWidth) + thumbWidth / 2;
+
+        label.textContent = val;
+        label.style.left = `${offset}px`;
+        label.style.transform = 'translateX(-50%)';
+    }
+
+    slider.addEventListener("input", updateThumbLabel);
+    window.addEventListener("resize", updateThumbLabel);
+    updateThumbLabel();
   </script>
 </body>
+
+<!-- TODO top bar with hoopviz name and link to github -->
 
 </html>
