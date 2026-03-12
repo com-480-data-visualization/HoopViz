@@ -138,6 +138,26 @@ const teams = [
 const minYear = 1990;
 const maxYear = 2025;
 
+const positions = {};
+for (let year = minYear; year <= maxYear; year++) {
+  positions[year] = {};
+  teams.forEach((team) => {
+    positions[year][team.id] = {
+      size: Math.random() * 0.7 + 0.2,
+      targetX: Math.random(),
+      targetY: Math.random(),
+    };
+  });
+}
+
+const sliderArea = document.querySelector("#teams .slider-area");
+const slider = sliderArea.querySelector(".slider");
+const step = parseFloat(slider.step);
+
+slider.min = minYear;
+slider.max = maxYear;
+slider.value = maxYear;
+
 let layoutPx = {
   width: 0,
   height: 0,
@@ -238,12 +258,12 @@ function collisionAvoidance(positions) {
   return realPositions;
 }
 
-function repositionBubbles(positions) {
+function repositionBubbles() {
   bubblesContainer.classList.add("transition");
   transform.scale = 1;
   applyTransform();
   updateLayout();
-  const realPositions = collisionAvoidance(positions);
+  const realPositions = collisionAvoidance(positions[slider.value]);
 
   teams.forEach((team) => {
     const bubble = document.getElementById(`team-${team.id}`);
@@ -293,17 +313,9 @@ stats.addEventListener("click", (e) => {
   statDiv.classList.remove("active");
 });
 
-let positions = getTeamsPosition();
-repositionBubbles(positions);
-
-window.addEventListener("resize", () => {repositionBubbles(positions)});
-
-document.addEventListener("keydown", (event) => {
-  if (event.key === "a") {
-    positions = getTeamsPosition();
-    repositionBubbles(positions);
-  }
-});
+repositionBubbles();
+window.addEventListener("resize", () => {repositionBubbles(); });
+slider.addEventListener("input", () => { repositionBubbles(); });
 
 setTimeout(() => {
   document
@@ -311,13 +323,8 @@ setTimeout(() => {
     .forEach((b) => b.classList.add("transition"));
 }, 200);
 
-const slider = document.querySelector("#teams .year-slider");
-const thumbLabel = document.querySelector("#teams .current-year");
-const yearTicks = document.querySelector("#teams .year-ticks");
-
-slider.min = minYear;
-slider.max = maxYear;
-slider.value = maxYear;
+const sliderLabel = document.querySelector("#teams .slider-label");
+const sliderTicks = document.querySelector("#teams .slider-ticks");
 
 for (let year = minYear; year <= maxYear; year++) {
   if (year % 5 === 0) {
@@ -325,25 +332,54 @@ for (let year = minYear; year <= maxYear; year++) {
     const pct = ((year - minYear) / (maxYear - minYear)) * 100;
     span.style.left = `${pct}%`;
     span.textContent = year;
-    yearTicks.appendChild(span);
+    sliderTicks.appendChild(span);
   }
 }
 
 function updateThumbLabel() {
-  const min = +slider.min;
-  const max = +slider.max;
-  const val = +slider.value;
+  sliderLabel.textContent = slider.value;
 
-  thumbLabel.textContent = val;
-
-  const pct = (val - min) / (max - min);
+  const percent = (slider.value - slider.min) / (slider.max - slider.min);
   const trackWidth = slider.offsetWidth;
   const thumbSize = parseFloat(getComputedStyle(slider).getPropertyValue("--thumb-size"));
-  const offset = pct * (trackWidth - thumbSize);
+  const offset = percent * (trackWidth - thumbSize);
 
-  thumbLabel.style.left = `${offset}px`;
+  sliderLabel.style.left = `${offset}px`;
 }
 
+const sliderObserver = new ResizeObserver(() => {
+  updateThumbLabel();
+});
+sliderObserver.observe(slider);
+
 slider.addEventListener("input", updateThumbLabel);
-window.addEventListener("resize", updateThumbLabel);
-updateThumbLabel();
+
+window.addEventListener("keydown", (e) => {
+  if (["input", "textarea"].includes(document.activeElement.tagName.toLowerCase())) {
+    return;
+  }
+
+  if (e.key === "Escape") {
+    stats.classList.remove("active");
+  }
+
+  let currentValue = parseFloat(slider.value);
+
+  if (e.key === "ArrowRight") {
+    slider.value = currentValue + step;
+    slider.dispatchEvent(new Event("input"));
+  } else if (e.key === "ArrowLeft") {
+    slider.value = currentValue - step;
+    slider.dispatchEvent(new Event("input"));
+  }
+});
+
+sliderArea.querySelector(".slider-controller:first-child").addEventListener("click", () => {
+    slider.value = parseFloat(slider.value) - step;
+    slider.dispatchEvent(new Event("input"));
+});
+
+sliderArea.querySelector(".slider-controller:last-child").addEventListener("click", () => {
+    slider.value = parseFloat(slider.value) + step;
+    slider.dispatchEvent(new Event("input"));
+});

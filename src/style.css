@@ -161,24 +161,52 @@ main {
     padding-top: 10px;
 }
 
-.year-slider-container {
+.slider-area {
     --thumb-size: 28px;
-    --pad: 15px;
     --slider-height: 8px;
+    --y-margin: 15px;
+    --x-margin: 5px;
 
-    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+
+    width: 70%;
     height: fit-content;
-    padding: var(--pad);
+
+    border: 2px solid rgba(255, 255, 255, 0.2);
     border-radius: 10px;
+
+    background-color: rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(10px);
+}
+
+.slider-container {
+    flex-grow: 1;
+    position: relative;
     display: flex;
     flex-direction: column;
     align-items: center;
-    backdrop-filter: blur(10px);
-    background-color: rgba(0, 0, 0, 0.2);
-    border: 2px solid rgba(255, 255, 255, 0.2);
+    margin: var(--y-margin) 8px;
 }
 
-.year-slider {
+.slider-controller {
+    color: white;
+    margin-bottom: calc(var(--y-margin) + var(--slider-height) / 2);
+    transform: translateY(50%);
+    cursor: pointer;
+    pointer-events: auto;
+    user-select: none;
+}
+
+.slider-area .slider-controller:first-child {
+    margin-left: var(--x-margin);
+}
+.slider-area .slider-controller:last-child {
+    margin-right: var(--x-margin);
+}
+
+.slider {
     width: 100%;
     height: var(--slider-height);
     -webkit-appearance: none;
@@ -190,7 +218,7 @@ main {
     pointer-events: auto;
 }
 
-/*.year-slider::-webkit-slider-thumb {
+/*.slider::-webkit-slider-thumb {
     -webkit-appearance: none;
     appearance: none;
     width: var(--thumb-size);
@@ -201,9 +229,9 @@ main {
     position: relative;
 }*/
 
-.current-year {
+.slider-label {
     position: absolute;
-    bottom: calc(var(--pad) + var(--slider-height) / 2);
+    bottom: calc(var(--slider-height) / 2);
     background: #333;
     color: white;
     padding: 3px 6px;
@@ -212,11 +240,11 @@ main {
     font-family: sans-serif;
     font-size: 14px;
     font-weight: bold;
-    transform: translateX(calc(-50% + var(--pad) + var(--thumb-size) / 2)) translateY(50%);
+    transform: translateX(calc(-50% + var(--thumb-size) / 2)) translateY(50%);
     cursor: pointer;
 }
 
-.year-ticks {
+.slider-ticks {
     width: calc(100% - var(--thumb-size));
     height: 30px;
     position: relative;
@@ -229,7 +257,7 @@ main {
     padding-bottom: 5px;
 }
 
-.year-ticks span {
+.slider-ticks span {
     position: absolute;
     top: 0px;
     transform: translateX(-50%);
@@ -238,15 +266,11 @@ main {
     align-items: center;
 }
 
-.year-ticks span::after {
+.slider-ticks span::after {
     content: '';
     display: block;
     width: 2px;
     height: 10px;
     background: white;
     padding-bottom: 5px;
-}
-
-.year-slider-container {
-    position: relative;
 }
