@@ -135,6 +135,9 @@ const teams = [
   { id: "WAS", name: "Washington Wizards", color: "#002B5C" },
 ];
 
+const minYear = 1990;
+const maxYear = 2025;
+
 let layoutPx = {
   width: 0,
   height: 0,
@@ -293,10 +296,7 @@ stats.addEventListener("click", (e) => {
 let positions = getTeamsPosition();
 repositionBubbles(positions);
 
-const resizeObserver = new ResizeObserver(() => {
-  repositionBubbles(positions);
-});
-resizeObserver.observe(bubblesContainer);
+window.addEventListener("resize", () => {repositionBubbles(positions)});
 
 document.addEventListener("keydown", (event) => {
   if (event.key === "a") {
@@ -315,17 +315,14 @@ const slider = document.querySelector("#teams .year-slider");
 const thumbLabel = document.querySelector("#teams .current-year");
 const yearTicks = document.querySelector("#teams .year-ticks");
 
-const min = 1990;
-const max = 2025;
+slider.min = minYear;
+slider.max = maxYear;
+slider.value = maxYear;
 
-slider.min = min;
-slider.max = max;
-slider.value = max;
-
-for (let year = min; year <= max; year++) {
+for (let year = minYear; year <= maxYear; year++) {
   if (year % 5 === 0) {
     const span = document.createElement("span");
-    const pct = ((year - min) / (max - min)) * 100;
+    const pct = ((year - minYear) / (maxYear - minYear)) * 100;
     span.style.left = `${pct}%`;
     span.textContent = year;
     yearTicks.appendChild(span);
@@ -337,14 +334,14 @@ function updateThumbLabel() {
   const max = +slider.max;
   const val = +slider.value;
 
-  const pct = (val - min) / (max - min);
-  const thumbWidth = parseFloat(getComputedStyle(thumbLabel).width);
-  const trackWidth = slider.offsetWidth;
-  const offset = pct * (trackWidth - thumbWidth) + thumbWidth / 2;
-
   thumbLabel.textContent = val;
+
+  const pct = (val - min) / (max - min);
+  const trackWidth = slider.offsetWidth;
+  const thumbSize = parseFloat(getComputedStyle(slider).getPropertyValue("--thumb-size"));
+  const offset = pct * (trackWidth - thumbSize);
+
   thumbLabel.style.left = `${offset}px`;
-  thumbLabel.style.transform = "translateX(-50%)";
 }
 
 slider.addEventListener("input", updateThumbLabel);
