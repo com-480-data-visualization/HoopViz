@@ -164,7 +164,6 @@ main {
     position: relative;
 
     padding: 10px;
-    z-index: 10;
 
     pointer-events: none;
 }
@@ -189,6 +188,8 @@ main {
 
     font-size: 14px;
     font-weight: bold;
+
+    z-index: 10;
 }
 
 .axis.x {
@@ -271,6 +272,7 @@ main {
     width: 70%;
     height: fit-content;
 
+    position: relative;
     z-index: 20;
 }
 
