@@ -1,8 +1,12 @@
-# Project of Data Visualization (COM-480)
+# HoopViz 🏀
+
+Project of Data Visualization (COM-480) - 2026
+
+**Live demo: <https://com-480-data-visualization.github.io/Hoopviz/>**
 
 | Student's name | SCIPER |
 | -------------- | ------ |
-| | |
+| Lucas Jung | 324724 |
 | | |
 | | |
 
@@ -56,4 +60,3 @@ Please, fill the following sections about your project.
 
 - < 24h: 80% of the grade for the milestone
 - < 48h: 70% of the grade for the milestone
-
