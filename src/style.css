@@ -133,7 +133,7 @@ main {
 
     clip-path: circle(0px at 50% 50%);
 
-    z-index: 10;
+    z-index: 15;
     opacity: 0;
     pointer-events: none;
     transition: clip-path 5s ease-in-out, opacity 0s ease-in-out;
@@ -161,11 +161,101 @@ main {
 .overlay {
     display: flex;
     justify-content: center;
+    position: relative;
 
     padding: 10px;
+    z-index: 10;
 
-    z-index: 20;
     pointer-events: none;
+}
+
+.overlay > div {
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+
+    background-color: rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(10px);
+
+    color: white;
+}
+
+.axis {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+
+    position: absolute;
+
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.axis.x {
+    width: 80%;
+    height: 35px;
+
+    padding-inline: 20px;
+
+    bottom: 30px;
+}
+
+.axis.y {
+    flex-direction: column;
+
+    width: 35px;
+    height: 80%;
+
+    padding-block: 20px;
+
+    left: 30px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.axis.x::before, .axis.x::after, .axis.y::before, .axis.y::after {
+    content: '';
+    flex-grow: 1;
+    background-color: white;
+}
+
+.axis.x::before, .axis.x::after {
+    height: 2px;
+}
+.axis.y::before, .axis.y::after {
+    width: 2px;
+}
+
+.axis span {
+  display: inline-block;
+  white-space: nowrap;
+}
+
+.axis.y span {
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+}
+
+.axis .arrow-head {
+    width: 10px;
+    height: 10px;
+
+    position: absolute;
+
+    border-top: 2px solid white;
+    border-right: 2px solid white;
+}
+
+.axis.x .arrow-head {
+    right: 20px;
+    transform: rotate(45deg);
+}
+
+.axis.y .arrow-head {
+    left: 50%;
+    top: 20px;
+
+    transform: translateX(-50%) rotate(-45deg);
 }
 
 .slider-area {
@@ -181,11 +271,7 @@ main {
     width: 70%;
     height: fit-content;
 
-    border: 2px solid rgba(255, 255, 255, 0.2);
-    border-radius: 10px;
-
-    background-color: rgba(0, 0, 0, 0.2);
-    backdrop-filter: blur(10px);
+    z-index: 20;
 }
 
 .slider-container {
@@ -199,8 +285,6 @@ main {
 }
 
 .slider-controller {
-    color: white;
-
     margin-bottom: calc(var(--y-margin) + var(--slider-height) / 2);
     transform: translateY(50%);
 
