@@ -2,6 +2,7 @@
 *::before,
 *::after {
     box-sizing: border-box;
+    font-family: sans-serif;
 }
 
 * {
@@ -69,29 +70,30 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
+
     color: white;
-    font-family: sans-serif;
     font-weight: bold;
     text-decoration: none;
-    user-select: none;
 
     --width: calc(var(--size) * var(--max-bubble-size));
     width: var(--width);
     height: var(--width);
     font-size: calc(var(--width) / 4);
 
+    border-radius: 50%;
+
     position: absolute;
     --add: calc(var(--pad) - (var(--width) / 2));
     left: calc(var(--add) + (var(--x) * (100% - 2 * var(--pad))));
     top: calc(var(--add) + (var(--y) * (100% - 2 * var(--pad))));
 
-    border-radius: 50%;
-
     cursor: pointer;
+    user-select: none;
 }
 
 .bubble.transition {
-    transition: left var(--transition-time) cubic-bezier(0.45, 0, 0.55, 1),
+    transition:
+        left var(--transition-time) cubic-bezier(0.45, 0, 0.55, 1),
         top var(--transition-time) cubic-bezier(0.45, 0, 0.55, 1),
         width var(--transition-time) cubic-bezier(0.45, 0, 0.55, 1),
         height var(--transition-time) cubic-bezier(0.45, 0, 0.55, 1),
@@ -102,9 +104,10 @@ main {
 }
 
 .bubble:hover {
+    z-index: 5;
+
     transform: scale(1.2);
     filter: brightness(1.1);
-    z-index: 5;
     box-shadow:
         0 5px 10px rgba(0, 0, 0, 0.3),
         inset 0 0 0 5px rgba(255, 255, 255, 0.4);
@@ -121,19 +124,19 @@ main {
 
 
 .stats {
-    z-index: 10;
-    opacity: 0;
-    pointer-events: none;
-    transition: clip-path 5s ease-in-out, opacity 0s ease-in-out;
-
-    clip-path: circle(0px at 50% 50%);
-
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+
     color: #fff;
-    font-family: sans-serif;
+
+    clip-path: circle(0px at 50% 50%);
+
+    z-index: 10;
+    opacity: 0;
+    pointer-events: none;
+    transition: clip-path 5s ease-in-out, opacity 0s ease-in-out;
 }
 
 .stats.active {
@@ -144,21 +147,25 @@ main {
 #disclaimer {
     position: fixed;
     bottom: 10px;
+
     width: 100%;
-    text-align: center;
-    font-family: sans-serif;
+
     font-size: 12px;
+    text-align: center;
+
     color: #666;
-    pointer-events: none;
     z-index: 100;
+    pointer-events: none;
 }
 
 .overlay {
-    z-index: 20;
-    pointer-events: none;
     display: flex;
     justify-content: center;
-    padding-top: 10px;
+
+    padding: 10px;
+
+    z-index: 20;
+    pointer-events: none;
 }
 
 .slider-area {
@@ -182,18 +189,21 @@ main {
 }
 
 .slider-container {
-    flex-grow: 1;
-    position: relative;
     display: flex;
     flex-direction: column;
     align-items: center;
+    flex-grow: 1;
+
+    position: relative;
     margin: var(--y-margin) 8px;
 }
 
 .slider-controller {
     color: white;
+
     margin-bottom: calc(var(--y-margin) + var(--slider-height) / 2);
     transform: translateY(50%);
+
     cursor: pointer;
     pointer-events: auto;
     user-select: none;
@@ -209,10 +219,12 @@ main {
 .slider {
     width: 100%;
     height: var(--slider-height);
-    -webkit-appearance: none;
+
+    border-radius: 4px;
+
     appearance: none;
     background: white;
-    border-radius: 4px;
+
     outline: none;
     cursor: pointer;
     pointer-events: auto;
@@ -221,56 +233,68 @@ main {
 /*.slider::-webkit-slider-thumb {
     -webkit-appearance: none;
     appearance: none;
+
+    position: relative;
     width: var(--thumb-size);
     height: var(--thumb-size);
+
     border-radius: 50%;
     background: #333;
+
     cursor: pointer;
-    position: relative;
 }*/
 
 .slider-label {
     position: absolute;
+
     bottom: calc(var(--slider-height) / 2);
+    transform: translateX(calc(-50% + var(--thumb-size) / 2)) translateY(50%);
+
     background: #333;
     color: white;
+
     padding: 3px 6px;
     border-radius: 4px;
-    pointer-events: none;
-    font-family: sans-serif;
+
     font-size: 14px;
     font-weight: bold;
-    transform: translateX(calc(-50% + var(--thumb-size) / 2)) translateY(50%);
+
     cursor: pointer;
+    pointer-events: none;
 }
 
 .slider-ticks {
-    width: calc(100% - var(--thumb-size));
-    height: 30px;
-    position: relative;
     display: flex;
     justify-content: space-between;
-    font-family: sans-serif;
+    position: relative;
+
+    width: calc(100% - var(--thumb-size));
+    height: 30px;
+
     font-size: 12px;
     font-weight: bold;
+
     color: white;
     padding-bottom: 5px;
 }
 
 .slider-ticks span {
-    position: absolute;
-    top: 0px;
-    transform: translateX(-50%);
     display: flex;
     flex-direction: column;
     align-items: center;
+
+    position: absolute;
+    top: 0px;
+    transform: translateX(-50%);
 }
 
 .slider-ticks span::after {
-    content: '';
     display: block;
+    content: '';
+
     width: 2px;
     height: 10px;
-    background: white;
+
     padding-bottom: 5px;
+    background: white;
 }
