@@ -1,0 +1,55 @@
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>HoopViz</title>
+
+  <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/889/889455.png">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0">
+
+  <link href="style.css" rel="stylesheet">
+  <script type="module" src="js/main.js" defer></script>
+</head>
+
+<body>
+  <section id="teams">
+    <div class="stacked overlay">
+      <div class="slider-area">
+        <span class="material-symbols-outlined slider-controller">keyboard_arrow_left</span>
+        <div class="slider-container">
+          <div class="slider-ticks"></div>
+          <input type="range" class="slider" step="1">
+          <span class="slider-label"></span>
+        </div>
+        <span class="slider-controller material-symbols-outlined">keyboard_arrow_right</span>
+      </div>
+      <div class="axis y">
+        <span>Points per game</span>
+        <span class="arrow-head"></span>
+      </div>
+      <div class="axis x" >
+        <span>% of wins</span>
+        <span class="arrow-head"></span>
+      </div>
+    </div>
+
+    <div class="stacked viewport">
+      <div class="bubbles-container">
+        <a class="bubble measure-bubble"></a>
+      </div>
+    </div>
+
+    <div class="stacked stats">
+    </div>
+  </section>
+
+  <div id="disclaimer">
+    This project is not affiliated with, maintained by, or endorsed by the National Basketball Association (NBA).
+  </div>
+</body>
+
+<!-- TODO top bar with hoopviz name and link to github -->
+
+</html>
