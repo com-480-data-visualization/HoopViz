@@ -53,27 +53,15 @@ Here's what we found.
 
 **Note**: You can check our full [data exploration notebook](../scripts/data_exploration/exploration.ipynb), but we also reported the main results below for your convenience.
 
-- **Player statistics**: The dataset contains over 1.6 million rows, covering games from November 1946 all the way to the current 2025-26 season. Each row represents a single player's performance in a single game, with 35 columns including points, assists, rebounds, shooting percentages, and +/- impact. As a quick sanity check, looking at the 2015-16 season, Stephen Curry tops the scoring chart at 30.1 PPG, followed by James Harden and Kevin Durant — which matches historical records perfectly.
+- **Player statistics**: The dataset contains over 1.6 million rows, covering games from November 1946 all the way to the current 2025-26 season. Each row represents a single player's performance in a single game, with 35 columns including points, assists, rebounds, shooting percentages, and +/- impact. As a quick sanity check, looking at the 2015-16 season, Stephen Curry tops the scoring chart at 30.1 PPG, followed by James Harden and Kevin Durant — which matches historical records perfectly.</br><img src="../scripts/data_exploration/images/2015_players_table.png" width="600">
 
-<img src="../scripts/data_exploration/images/2015_player_table.png" width="600">
+- **Team statistics**: Around 145'000 rows, also starting from 1946, with 48 columns per game entry. This includes all the usual box score stats plus richer game level data like fast break points, paint points, biggest lead, and lead changes. The 2015-16 Warriors season stands out immediately with 73 wins, the all-time regular season record.</br><img src="../scripts/data_exploration/images/2015_teams_table.png" width="600">
 
-- **Team statistics**: Around 145'000 rows, also starting from 1946, with 48 columns per game entry. This includes all the usual box score stats plus richer game level data like fast break points, paint points, biggest lead, and lead changes. The 2015-16 Warriors season stands out immediately with 73 wins, the all-time regular season record.
+- **Shot Details**: This dataset only starts from the 1996 season (when the NBA began tracking spatial shot data), but it's by far the richest one in terms of granularity. For the 2015-16 season alone there are ~208'000 shot attempts, each with court coordinates (`LOC_X`, `LOC_Y`), shot zone, distance, and whether it went in. Shot locations are centered on the basket, with x coordinates ranging from -250 to 250 (in tenths of a foot) and y from slightly negative (behind the backboard) up to the half-court line.</br><img src="../scripts/data_exploration/images/2015_barplot_shot_details.png" width="600">
 
-<img src="../scripts/data_exploration/images/2015_team_table.png" width="600">
+- **Awards**: The awards dataset has 3'465 entries across MVP, Defensive Player of the Year, Rookie of the Year, and more, going back to the 1956 season. It also includes vote share, so we can see not just who won but how dominant the win was (e.g. Nikola Jokić's 2021 MVP at 96.1% of votes). The All-Star selections go back to 1951 with 2'058 entries, and the End of Season Teams (All-NBA, All-Defensive, All-Rookie) cover 2'222 entries since 1947.</br><img src="../scripts/data_exploration/images/awards_table.png" width="600">
 
-- **Shot Details**: This dataset only starts from the 1996 season (when the NBA began tracking spatial shot data), but it's by far the richest one in terms of granularity. For the 2015-16 season alone there are ~208'000 shot attempts, each with court coordinates (`LOC_X`, `LOC_Y`), shot zone, distance, and whether it went in. Shot locations are centered on the basket, with x coordinates ranging from -250 to 250 (in tenths of a foot) and y from slightly negative (behind the backboard) up to the half-court line.
-
-<img src="../scripts/data_exploration/images/barplot_shot_details.png" width="600">
-
-- **Awards**: The awards dataset has 3'465 entries across MVP, Defensive Player of the Year, Rookie of the Year, and more, going back to the 1956 season. It also includes vote share, so we can see not just who won but how dominant the win was (e.g. Nikola Jokić's 2021 MVP at 96.1% of votes). The All-Star selections go back to 1951 with 2'058 entries, and the End of Season Teams (All-NBA, All-Defensive, All-Rookie) cover 2'222 entries since 1947.
-
-<img src="../scripts/data_exploration/images/awards_table.png" width="600">
-
-- **Key plots**: The heatmaps below illustrate the coverage and density of the data nicely. The player heatmap shows career scoring totals by season for the top 50 all-time scorers, with Wilt Chamberlain peaking at 4'029 points in a single season, a staggering number. The team heatmap shows win totals by franchise across every season, making historical dominant runs (the 80s Celtics/Lakers, the 90s Bulls, the mid-2010s Warriors) immediately visible.
-
-<img src="../scripts/data_exploration/images/heatmap_players.png" width="600">
-
-<img src="../scripts/data_exploration/images/heatmap_teams.png" width="600">
+- **Key plots**: The heatmaps below illustrate the coverage and density of the data nicely. The player heatmap shows career scoring totals by season for the top 50 all-time scorers, with Wilt Chamberlain peaking at 4'029 points in a single season, a staggering number. The team heatmap shows win totals by franchise across every season, making historical dominant runs (the 80s Celtics/Lakers, the 90s Bulls, the mid-2010s Warriors) immediately visible.</br><img src="../scripts/data_exploration/images/heatmap_players.png" width="600"></br><img src="../scripts/data_exploration/images/heatmap_teams.png" width="600">
 
 Overall, the **data is in great shape** with very **high quality**.
 There are some minor typing differences we need to be aware of, but nothing that requires heavy cleaning.
