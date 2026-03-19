@@ -132,7 +132,7 @@ Beyond basketball, some of our strongest design inspirations come from **totally
 - The Agar.io game <https://agar.io/> might seem like an odd reference, but its **fluid bubble physics** and the way entities of different sizes coexist in a shared space is a surprisingly good mental model for how we want teams or players to feel on our platform..
 - Finally, <https://earth.nullschool.net/> blew us away with how it turns dense and complex raw atmospheric data into something meditative and almost poetic, proof that even **very large and unintuitive datasets can feel immersive and fun** to explore if the interaction is done right.
 
-## 5 Extra work
+## 5 - Extra work
 
 We already jumped ahead and started programming a **small prototype** (or proof of concept) of our "selection in visualization" system using **bubbles**.
 
