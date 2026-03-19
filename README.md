@@ -12,8 +12,8 @@ Project of Data Visualization (EPFL COM-480) - 2026
 | Student's name | SCIPER |
 | -------------- | ------ |
 | Lucas Jung | 324724 |
-| | |
-| | |
+| Anasse El Boudiri | 374212 |
+| Sam Lee | 375535 |
 
 ## Deliverables
 
