@@ -23,7 +23,7 @@ Our focus will really be on the three main datasets above, and we'll use additio
 
 The data in those datasets is already of **high quality** and **won't require heavy data processing**.
 For the actual end product website we're going to produce, we might just need to do some **data aggregation** and **shaping** from the multiple datasets but nothing major.
-Our data pre-processing pipeline will be done in **Python** with a **clear and reproducible system** from the actual datasets will be **explained on the repository** along with our generation scripts.
+Our data pre-processing pipeline will be done in **Python**, and we will use a **clear and reproducible system** from the actual datasets that will be **documented on the repository** along with our generation scripts.
 
 ## 2 - Problematic
 
@@ -128,23 +128,23 @@ We already jumped ahead and started programming a **small prototype** (or proof 
 
 <img src="./images/ms1-prototype.png" width="600">
 
-The idea is to use a **2D positioning grid** on which you can zoom and pan around, that way every bubble already contains **three valuable insights**: the x position, the y position, it's size.
+The idea is to use a **2D positioning grid** on which you can zoom and pan around, that way every bubble already contains **three valuable insights**: the x position, the y position, and its size.
 Each insight can later be mapped to a specific statistic, like bubble size could be the number of team wins, the x position could be the number of points, and the y position could be the percentage of ball possession in a game.
 Then the user can **explore the data right away** and later click on any bubble to reveal that team's specific statistics (not yet implemented).
 An interesting idea is to give the user the **choice among a few pre-defined statistics** (like point scored, number of wins, shot percentage, percentage of 3 points, ...) for all the three bubble parameters, so that they can create a **unique visualization** that tailors to their curiosity and area of interests.
-We could also **randomize the default ones** on page load, such that every time the user visits the website they are presented with a brand new view on the data that they might never have seen before!
+We could also **randomize the default ones** on page load, such that every time the user visits the website they are presented with a brand new view of the data that they might never have seen before!
 
 The most interesting part here begins when you start noticing the **time traveling slider** at the top of the website.
 You can use it to change the year and see with **transitions** how the data/bubbles evolve over time!
 You can also use your keyboard’s arrow keys (or arrow buttons on the slider) to change year by year, or jump multiple years by directly clicking anywhere on the slider.
-At this point, all the data on the prototype is just randomly generated but the setup to get it dynamically from actual files later is already in the JavaScript.
+At this point, all the data on the prototype is just randomly generated but the setup to get it dynamically from actual files is already in the JavaScript.
 
 Later we would like to have a way for the user to actually **customize** the x and y axis and the size of the bubbles to other parameters.
-The goal here is really to come up with a **dynamic**, **playful** and **interactive** way to visualize the data without displaying difficult tables or preselecting which data we want to see :)
+Again, the goal here is really to come up with a **dynamic**, **playful** and **interactive** way to visualize the data without displaying difficult tables or preselecting which data we want to see :)
 
 At this point, the prototype website was built without any external tool or library, it's plain vanilla HTML CSS and JS.
 We plan to use D3js later to display interactive charts.
 
 We also put a nice **devops effort** by setting up the GitHub repository properly, with a README, a deliverables directory for ease of access to Milestones, a protected main branch, an automatic CI job to deploy the static website to GitHub pages, and a system for mandatory peer review of every pull requests (that way all the members of the group stay on track with what is going on).
 
-We can't wait to move forward with the project and see what it will become, and how it will reveal interesting insights about the NBA!
+We can't wait to move forward with the project, see what it will become, and how it will reveal interesting insights about the NBA!
