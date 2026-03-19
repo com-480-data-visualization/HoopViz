@@ -1,7 +1,7 @@
 # HoopViz 🏀
 
 HoopViz is an **interactive**, **web based**, **data visualization** project designed to turn decades of dry **NBA statistics** into a **dynamic**, **interactive** and **visual** story.
-While most basketball statistics sites feel like looking at a tax return, we want our platform to mirror the fast-paced and playful energy of the game itself.
+While most basketball statistics sites feel like looking at a tax return, we want our project to mirror the fast-paced and playful energy of the game itself.
 
 By using multiple seasons of data, we are building a "time-traveling" experience where users can slide through history to see how the league has evolved over the years with interesting transitions.
 

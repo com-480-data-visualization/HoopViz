@@ -1,3 +1,3 @@
-# MS3
+# HoopViz - Milestone 3
 
 TODO
