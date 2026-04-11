@@ -67,8 +67,31 @@ TODO
 
 == Tools
 
+To implement our visualization project, we plan on using a standard technical stack.
+We will be using #link("https://d3js.org/")[D3.js] for the graphs visualization and custom HTML, CSS and vanilla JavaScript for the bubbles visualization and other non-standard graphs.
+
+Additionally our website will be static, built and deployed automatically to GitHub pages hosting using a Continuous Integration/Deployment script.
+
 == Relevant Lectures
+
+Most lectures will be very relevant for our implementation.
+However, the following lectures are the most important for our project: 4.1 Data, 4.2 D3.js, 5.1 & 5.2 Interactivity, 7.1 Design for data viz, 7.2 Do's and don’ts, 10 Graph visualization, 12.1 Storytelling.
 
 == Minimal Viable Product
 
+Our minimal viable product will consist of an implementation of all our features listed in the _Main Goals_ section.
+It will mostly consist of the teams and players main landing page and its bubbles map visualization supporting scrolling and panning, with customizable metrics and detailed statistics on click.
+
+*Functional project prototype*: #link("https://com-480-data-visualization.github.io/HoopViz/")
+
 == Sketches
+
+The sketches below aim to illustrate the content of the final website.
+There will be two bubbles map, that share the same look, one for teams and one for players.
+From there, the user can pan around and explore the data through the position and sizes of each bubble.
+When they want to learn more about a specific bubble, they can click on it and they will be shown a full screen dashboard about the bubble they clicked, containing multiple visualizations.
+Additionally, we can clearly see the time machine slider at the top of every page that will let the user explore all of what they are currently seeing across all the available NBA seasons, as well as see animated transitions of the evolution for each team and player, across all visualizations.
+
+#align(center)[
+  #image("images/sketches.png", width: 100%)
+]
