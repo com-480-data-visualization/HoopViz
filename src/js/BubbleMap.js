@@ -11,12 +11,15 @@ export class BubbleMap {
     this.container = document.querySelector(options.containerSelector);
     this.dataLoader = options.dataLoader;
     this.containerIdPrefix = `${this.container.id}-`;
+    this.statsUpdate = options.statsUpdate;
 
     // DOM elements
     this.viewport = this.container.querySelector(".viewport");
     this.bubblesContainer = this.container.querySelector(".bubbles-container");
     this.measureBubble = this.container.querySelector(".measure-bubble");
     this.stats = this.container.querySelector(".stats");
+    this.statsArea = this.stats.querySelector(".stats-area");
+    this.statsClose = this.statsArea.querySelector(".stats-close");
     this.sliderArea = this.container.querySelector(".slider-area");
     this.slider = this.sliderArea.querySelector(".slider");
     this.sliderLabel = this.container.querySelector(".slider-label");
@@ -36,6 +39,8 @@ export class BubbleMap {
     this.attributeX = ["win_norm", parseFloat];
     this.attributeY = ["blocks_norm", parseFloat];
 
+    this.statsItem = null;
+
     this.init();
   }
 
@@ -45,7 +50,6 @@ export class BubbleMap {
     const years = this.dataLoader.getYears();
     this.minYear = Math.min(...years);
     this.maxYear = Math.max(...years);
-    this.currentYear = this.maxYear;
 
     this.bindMapEvents();
     this.setupSlider();
@@ -233,26 +237,29 @@ export class BubbleMap {
       bubble.textContent = item;
       bubble.style.background = "#005ce6";
 
-      // // TODO bubble open stats screen
-      // bubble.addEventListener("click", (e) => {
-      //   if (this.dragHasMoved) return;
-      //   e.preventDefault();
+      // TODO bubble open stats screen
+      bubble.addEventListener("click", (e) => {
+        if (this.dragHasMoved) return;
+        e.preventDefault();
 
-      //   const rect = bubble.getBoundingClientRect();
-      //   const cx = rect.left + rect.width / 2;
-      //   const cy = rect.top + rect.height / 2;
+        this.statsItem = item;
+        this.statsUpdate(this.stats, this.dataLoader, this.slider.value, item);
 
-      //   this.stats.style.backgroundColor = item.color;
-      //   this.stats.innerHTML = `<h1>${item.name} Stats</h1><p style="margin-top: 20px; font-size: 0.8rem; cursor: pointer;">Click anywhere to close</p>`;
+        this.stats.classList.add("active");
+        // const rect = bubble.getBoundingClientRect();
+        // const cx = rect.left + rect.width / 2;
+        // const cy = rect.top + rect.height / 2;
 
-      //   this.stats.style.clipPath = `circle(0px at ${cx}px ${cy}px)`;
-      //   this.stats.style.transition = "none";
+        // this.stats.style.backgroundColor = item.color;
+        // this.stats.innerHTML = `<h1>${item.name} Stats</h1><p style="margin-top: 20px; font-size: 0.8rem; cursor: pointer;">Click anywhere to close</p>`;
 
-      //   void this.stats.offsetWidth;
-      //   this.stats.style.transition = "clip-path 0.8s ease-out, opacity 0.2s ease-out";
-      //   this.stats.style.clipPath = `circle(150vmax at ${cx}px ${cy}px)`;
-      //   this.stats.classList.add("active");
-      // });
+        // this.stats.style.clipPath = `circle(0px at ${cx}px ${cy}px)`;
+        // this.stats.style.transition = "none";
+
+        // void this.stats.offsetWidth;
+        // this.stats.style.transition = "clip-path 0.8s ease-out, opacity 0.2s ease-out";
+        // this.stats.style.clipPath = `circle(150vmax at ${cx}px ${cy}px)`;
+      });
 
       this.bubblesContainer.appendChild(bubble);
     });
@@ -284,6 +291,11 @@ export class BubbleMap {
     const offset = percent * (trackWidth - thumbSize);
 
     this.sliderLabel.style.left = `${offset}px`;
+  }
+
+  closeStats() {
+    this.stats.classList.remove("active");
+    this.statsItem = null;
   }
 
   bindMapEvents() {
@@ -348,13 +360,24 @@ export class BubbleMap {
     }, true);
 
     // close stats
+    this.statsClose.addEventListener("click", (_) => {
+      this.closeStats()
+    });
     this.stats.addEventListener("click", (e) => {
-      e.currentTarget.classList.remove("active");
+      if (e.target === e.currentTarget) {
+        this.closeStats()
+      }
+    });
+    this.statsArea.addEventListener("click", (e) => {
+      e.stopPropagation();
     });
 
     // slider
     this.slider.addEventListener("input", () => {
       this.updateThumbLabel();
+      if (this.statsItem != null) {
+        this.statsUpdate(this.stats, this.dataLoader, this.slider.value, this.statsItem);
+      }
       this.updateBubbles();
     });
 
@@ -379,7 +402,7 @@ export class BubbleMap {
       if (["input", "textarea"].includes(document.activeElement.tagName.toLowerCase())) return;
 
       if (e.key === "Escape") {
-        this.stats.classList.remove("active");
+        this.closeStats()
       }
 
       // TODO: will update all instances, need logic to check which section is currently in the viewport
