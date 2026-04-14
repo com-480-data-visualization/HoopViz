@@ -2,10 +2,10 @@ export class DataLoader {
   #data = [];
   #csvUrl;
 
-  constructor(csvFileName, displayName) {
-    this.csvFileName = csvFileName;
+  constructor(csvUrl, displayName) {
+    this.csvFileName = csvUrl;
     this.displayName = displayName;
-    this.#csvUrl = `./${csvFileName}`;
+    this.#csvUrl = csvUrl;
   }
 
   async load() {

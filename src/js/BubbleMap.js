@@ -9,12 +9,7 @@ export class BubbleMap {
   constructor(options) {
     // init
     this.container = document.querySelector(options.containerSelector);
-    this.items = options.items;
-    this.positions = options.positions;
-
-    const years = Object.keys(this.positions).map(Number);
-    this.minYear = Math.min(...years);
-    this.maxYear = Math.max(...years);
+    this.dataLoader = options.dataLoader;
 
     // DOM elements
     this.viewport = this.container.querySelector(".viewport");
@@ -36,24 +31,37 @@ export class BubbleMap {
     this.isDragging = false;
     this.dragHasMoved = false;
 
+    this.attributeSize = ["win_norm", parseFloat];
+    this.attributeX = ["threePointersPercentage_norm", parseFloat];
+    this.attributeY = ["blocks_norm", parseFloat];
+
     this.init();
   }
 
-  init() {
+  async init() {
+    await this.dataLoader.load();
+
+    const years = this.dataLoader.getYears();
+    this.minYear = Math.min(...years);
+    this.maxYear = Math.max(...years);
+    this.currentYear = this.maxYear;
+
+    this.bindMapEvents();
     this.setupSlider();
-    this.createBubbles();
-    this.bindEvents();
-    this.repositionBubbles();
+
+    this.updateBubbles();
 
     // enable bubble transitions after initial layout
-    setTimeout(() => {
-      this.container
-        .querySelectorAll(".bubble:not(.measure-bubble)")
-        .forEach((b) => b.classList.add("transition"));
-    }, 200);
+    // setTimeout(() => {
+    //   this.container
+    //     .querySelectorAll(".bubble:not(.measure-bubble)")
+    //     .forEach((b) => b.classList.add("transition"));
+    // }, 200);
   }
 
   updateLayout() {
+    this.applyTransform();
+
     const containerStyles = getComputedStyle(this.bubblesContainer);
     this.layoutPx.maxBubbleSize = parseFloat(getComputedStyle(this.measureBubble).width);
 
@@ -80,12 +88,12 @@ export class BubbleMap {
     const placedBubbles = [];
     const realPositions = {};
 
-    const sortedItems = [...this.items].sort((a, b) => {
-      return positions[b.id].size - positions[a.id].size;
+    const sortedItems = [...Object.keys(positions)].sort((a, b) => {
+      return positions[b].size - positions[a].size;
     });
 
     sortedItems.forEach((item) => {
-      const initialPosition = positions[item.id];
+      const initialPosition = positions[item];
       const size = initialPosition.size;
       const radiusPx = (size * this.layoutPx.maxBubbleSize) / 2;
 
@@ -132,7 +140,7 @@ export class BubbleMap {
 
       placedBubbles.push({ x: finalX, y: finalY, radius: radiusPx });
 
-      realPositions[item.id] = {
+      realPositions[item] = {
         size: size,
         x: this.layoutPx.width > 0 ? (finalX / this.layoutPx.width).toFixed(4) : 0,
         y: this.layoutPx.height > 0 ? (finalY / this.layoutPx.height).toFixed(4) : 0,
@@ -142,33 +150,51 @@ export class BubbleMap {
     return realPositions;
   }
 
-  repositionBubbles() {
-    this.bubblesContainer.classList.add("transition");
+  updateBubbles() {
+    // TODO transitions
+    // this.bubblesContainer.classList.add("transition");
     this.transform.scale = 1;
-
-    this.applyTransform();
     this.updateLayout();
 
-    const realPositions = this.collisionAvoidance(this.positions[this.slider.value]);
+    const data = this.dataLoader.getData(parseFloat(this.slider.value), this.attributeSize, this.attributeX, this.attributeY);
+    console.log(data);
 
-    this.items.forEach((item) => {
-      const bubble = document.getElementById(`${this.container.id}-${item.id}`);
+    this.createBubbles(data.keys());
+
+    const positions = {}
+    data.forEach((values, teamId) => {
+      positions[teamId] = {
+        size: values[0] * 0.7 + 0.2,
+        targetX: values[1],
+        targetY: values[2],
+      };
+    });
+
+    const realPositions = this.collisionAvoidance(positions);
+
+    data.keys().forEach((item) => {
+      const bubble = document.getElementById(`${this.container.id}-${item}`);
       if (!bubble) return;
 
-      bubble.style.setProperty("--x", realPositions[item.id].x);
-      bubble.style.setProperty("--y", realPositions[item.id].y);
-      bubble.style.setProperty("--size", realPositions[item.id].size);
+      bubble.style.setProperty("--x", realPositions[item].x);
+      bubble.style.setProperty("--y", realPositions[item].y);
+      bubble.style.setProperty("--size", realPositions[item].size);
     });
   }
 
-  createBubbles() {
-    this.items.forEach((item) => {
+  createBubbles(items) {
+    const existingBubbles = this.bubblesContainer.querySelectorAll(".bubble:not(.measure-bubble)");
+    existingBubbles.forEach(bubble => bubble.remove());
+
+    items.forEach((item) => {
       const bubble = document.createElement("button");
       bubble.className = "bubble";
-      bubble.id = `${this.container.id}-${item.id}`;
-      bubble.title = item.name;
-      bubble.style.background = item.color;
-      bubble.textContent = item.id;
+
+      // TODO get metadata
+      bubble.id = `${this.container.id}-${item}`;
+      bubble.title = item;
+      bubble.style.background = "#005ce6";
+      bubble.textContent = item;
 
       bubble.addEventListener("click", (e) => {
         if (this.dragHasMoved) return;
@@ -222,7 +248,7 @@ export class BubbleMap {
     this.sliderLabel.style.left = `${offset}px`;
   }
 
-  bindEvents() {
+  bindMapEvents() {
     this.viewport.addEventListener("mousedown", (e) => {
       e.preventDefault();
       this.bubblesContainer.classList.remove("transition");
@@ -291,7 +317,7 @@ export class BubbleMap {
     // slider
     this.slider.addEventListener("input", () => {
       this.updateThumbLabel();
-      this.repositionBubbles();
+      this.updateBubbles();
     });
 
     const step = parseFloat(this.slider.step);
@@ -309,7 +335,7 @@ export class BubbleMap {
     sliderObserver.observe(this.slider);
 
     // window listeners
-    window.addEventListener("resize", () => this.repositionBubbles());
+    window.addEventListener("resize", () => this.updateBubbles());
 
     window.addEventListener("keydown", (e) => {
       if (["input", "textarea"].includes(document.activeElement.tagName.toLowerCase())) return;
