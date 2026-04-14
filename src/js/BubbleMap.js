@@ -10,6 +10,7 @@ export class BubbleMap {
     // init
     this.container = document.querySelector(options.containerSelector);
     this.dataLoader = options.dataLoader;
+    this.containerIdPrefix = `${this.container.id}-`;
 
     // DOM elements
     this.viewport = this.container.querySelector(".viewport");
@@ -31,8 +32,8 @@ export class BubbleMap {
     this.isDragging = false;
     this.dragHasMoved = false;
 
-    this.attributeSize = ["win_norm", parseFloat];
-    this.attributeX = ["threePointersPercentage_norm", parseFloat];
+    this.attributeSize = ["threePointersPercentage_norm", parseFloat];
+    this.attributeX = ["win_norm", parseFloat];
     this.attributeY = ["blocks_norm", parseFloat];
 
     this.init();
@@ -151,19 +152,20 @@ export class BubbleMap {
   }
 
   updateBubbles() {
-    // TODO transitions
-    // this.bubblesContainer.classList.add("transition");
     this.transform.scale = 1;
     this.updateLayout();
 
     const data = this.dataLoader.getData(parseFloat(this.slider.value), this.attributeSize, this.attributeX, this.attributeY);
-    console.log(data);
+    const items = [...data.keys()];
+    console.log(JSON.stringify(Object.fromEntries(data)));
 
-    this.createBubbles(data.keys());
+    this.bubblesContainer.classList.add("transition");
+
+    this.createBubbles(items);
 
     const positions = {}
-    data.forEach((values, teamId) => {
-      positions[teamId] = {
+    data.forEach((values, itemId) => {
+      positions[itemId] = {
         size: values[0] * 0.7 + 0.2,
         targetX: values[1],
         targetY: values[2],
@@ -172,49 +174,85 @@ export class BubbleMap {
 
     const realPositions = this.collisionAvoidance(positions);
 
-    data.keys().forEach((item) => {
-      const bubble = document.getElementById(`${this.container.id}-${item}`);
+    items.forEach((item) => {
+      const bubble = document.getElementById(`${this.containerIdPrefix}${item}`);
       if (!bubble) return;
 
       bubble.style.setProperty("--x", realPositions[item].x);
       bubble.style.setProperty("--y", realPositions[item].y);
       bubble.style.setProperty("--size", realPositions[item].size);
     });
+
+    // bring (back) new bubbles to life
+    void this.bubblesContainer.offsetWidth;
+    items.forEach((item) => {
+      const bubble = document.getElementById(`${this.containerIdPrefix}${item}`);
+      if (!bubble) return;
+
+      bubble.classList.add("transition");
+      bubble.style.setProperty("--visible", 1);
+    });
   }
 
   createBubbles(items) {
-    const existingBubbles = this.bubblesContainer.querySelectorAll(".bubble:not(.measure-bubble)");
-    existingBubbles.forEach(bubble => bubble.remove());
+    const itemsSet = new Set(items);
 
-    items.forEach((item) => {
+    const existingBubbles = this.bubblesContainer.querySelectorAll(".bubble:not(.measure-bubble)");
+
+    // hide or delete old bubbles
+    existingBubbles.forEach(bubble => {
+      const itemId = bubble.id.replace(this.containerIdPrefix, "");
+
+      if (itemsSet.has(itemId)) {
+        itemsSet.delete(itemId);
+        if (bubble.style.getPropertyValue("--visible") === "0") {
+          // disable transitioning from past position for ghost bubbles
+          bubble.classList.remove("transition");
+        }
+      } else {
+        if (bubble.style.getPropertyValue("--visible") === "0") {
+          // already hidden, can be deleted
+          bubble.remove();
+        } else {
+          // was visible, just hide it
+          bubble.style.setProperty("--visible", 0);
+        }
+      }
+    });
+
+    // create the new bubbles
+    itemsSet.forEach((item) => {
       const bubble = document.createElement("button");
       bubble.className = "bubble";
+      bubble.classList.add("transition");
+      bubble.id = `${this.containerIdPrefix}${item}`;
 
       // TODO get metadata
-      bubble.id = `${this.container.id}-${item}`;
-      bubble.title = item;
-      bubble.style.background = "#005ce6";
       bubble.textContent = item;
+      bubble.title = item;
+      bubble.textContent = item;
+      bubble.style.background = "#005ce6";
 
-      bubble.addEventListener("click", (e) => {
-        if (this.dragHasMoved) return;
-        e.preventDefault();
+      // // TODO bubble open stats screen
+      // bubble.addEventListener("click", (e) => {
+      //   if (this.dragHasMoved) return;
+      //   e.preventDefault();
 
-        const rect = bubble.getBoundingClientRect();
-        const cx = rect.left + rect.width / 2;
-        const cy = rect.top + rect.height / 2;
+      //   const rect = bubble.getBoundingClientRect();
+      //   const cx = rect.left + rect.width / 2;
+      //   const cy = rect.top + rect.height / 2;
 
-        this.stats.style.backgroundColor = item.color;
-        this.stats.innerHTML = `<h1>${item.name} Stats</h1><p style="margin-top: 20px; font-size: 0.8rem; cursor: pointer;">Click anywhere to close</p>`;
+      //   this.stats.style.backgroundColor = item.color;
+      //   this.stats.innerHTML = `<h1>${item.name} Stats</h1><p style="margin-top: 20px; font-size: 0.8rem; cursor: pointer;">Click anywhere to close</p>`;
 
-        this.stats.style.clipPath = `circle(0px at ${cx}px ${cy}px)`;
-        this.stats.style.transition = "none";
+      //   this.stats.style.clipPath = `circle(0px at ${cx}px ${cy}px)`;
+      //   this.stats.style.transition = "none";
 
-        void this.stats.offsetWidth;
-        this.stats.style.transition = "clip-path 0.8s ease-out, opacity 0.2s ease-out";
-        this.stats.style.clipPath = `circle(150vmax at ${cx}px ${cy}px)`;
-        this.stats.classList.add("active");
-      });
+      //   void this.stats.offsetWidth;
+      //   this.stats.style.transition = "clip-path 0.8s ease-out, opacity 0.2s ease-out";
+      //   this.stats.style.clipPath = `circle(150vmax at ${cx}px ${cy}px)`;
+      //   this.stats.classList.add("active");
+      // });
 
       this.bubblesContainer.appendChild(bubble);
     });

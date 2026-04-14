@@ -75,7 +75,8 @@ main {
     font-weight: bold;
     text-decoration: none;
 
-    --width: calc(var(--size) * var(--max-bubble-size));
+    --visible: 0;
+    --width: calc(var(--visible) * var(--size) * var(--max-bubble-size));
     width: var(--width);
     height: var(--width);
     font-size: calc(var(--width) / 4);
@@ -117,6 +118,7 @@ main {
     visibility: hidden;
     transition: none !important;
 
+    --visible: 1;
     --size: 1;
     --x: 0;
     --y: 0;
