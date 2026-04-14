@@ -26,6 +26,16 @@ export class BubbleMap {
     this.sliderTicks = this.container.querySelector(".slider-ticks");
     this.sliderPrevious = this.sliderArea.querySelector(".slider-controller:first-child");
     this.sliderNext = this.sliderArea.querySelector(".slider-controller:last-child");
+    this.overlay = this.container.querySelector(".overlay");
+
+    this.axisX = this.container.querySelector(".axis.x");
+    this.axisY = this.container.querySelector(".axis.y");
+    this.axisSize = this.container.querySelector(".axis.size");
+    this.selectorX = this.container.querySelector(".selector.x");
+    this.selectorY = this.container.querySelector(".selector.y");
+    this.selectorSize = this.container.querySelector(".selector.size");
+    this.selectors = [this.selectorX, this.selectorY, this.selectorSize];
+    this.axisSelectors = [[this.axisX, this.selectorX], [this.axisY, this.selectorY], [this.axisSize, this.selectorSize]];
 
     // state
     this.transform = { scale: 1, x: 0, y: 0 };
@@ -35,9 +45,11 @@ export class BubbleMap {
     this.isDragging = false;
     this.dragHasMoved = false;
 
-    this.attributeSize = ["threePointersPercentage_norm", parseFloat];
-    this.attributeX = ["win_norm", parseFloat];
-    this.attributeY = ["blocks_norm", parseFloat];
+    this.attributes = options.attributes;
+    const initialAttributes = Utils.getRandomThree(this.attributes);
+    this.attributeSize = initialAttributes[0];
+    this.attributeX = initialAttributes[1];
+    this.attributeY = initialAttributes[2];
 
     this.statsItem = null;
 
@@ -54,6 +66,7 @@ export class BubbleMap {
     this.bindMapEvents();
     this.setupSlider();
 
+    this.updateSelectors();
     this.updateBubbles();
 
     // enable bubble transitions after initial layout
@@ -159,7 +172,7 @@ export class BubbleMap {
     this.transform.scale = 1;
     this.updateLayout();
 
-    const data = this.dataLoader.getData(parseFloat(this.slider.value), this.attributeSize, this.attributeX, this.attributeY);
+    const data = this.dataLoader.getData(parseFloat(this.slider.value), this.attributeSize[1], this.attributeX[1], this.attributeY[1]);
     const items = [...data.keys()];
     console.log(JSON.stringify(Object.fromEntries(data)));
 
@@ -265,6 +278,43 @@ export class BubbleMap {
     });
   }
 
+  updateSelectors() {
+    const selectorAttributes = [
+      [this.selectorX, this.attributeX, (v) => this.attributeX = v],
+      [this.selectorY, this.attributeY, (v) => this.attributeY = v],
+      [this.selectorSize, this.attributeSize, (v) => this.attributeSize = v],
+    ];
+
+    selectorAttributes.forEach(([selector, attribute, setter]) => {
+      selector.innerHTML = "";
+      this.attributes.forEach((a) => {
+        const span = document.createElement("span");
+        span.innerText = a[0];
+        if (attribute[0] === a[0]) {
+          span.classList.add("selected");
+          span.addEventListener("click", (_) => {
+            this.selectors.forEach((sel) => sel.classList.remove("active"));
+          });
+        } else if (selectorAttributes.map((a) => a[1][0]).includes(a[0])) {
+          span.classList.add("disabled");
+        } else {
+          span.addEventListener("click", (_) => {
+            this.selectors.forEach((sel) => sel.classList.remove("active"));
+            setter(a);
+            this.updateSelectors();
+            this.updateBubbles();
+          });
+        }
+        selector.appendChild(span);
+      });
+    });
+
+    const axisAttributes = [[this.axisX, this.attributeX], [this.axisY, this.attributeY], [this.axisSize, this.attributeSize]];
+    axisAttributes.forEach(([axis, attribute]) => {
+      axis.querySelector("span").innerText = attribute[0];
+    });
+  }
+
   setupSlider() {
     this.slider.min = this.minYear;
     this.slider.max = this.maxYear;
@@ -353,6 +403,8 @@ export class BubbleMap {
 
     // avoid opening bubble when dragging
     this.viewport.addEventListener("click", (e) => {
+      this.selectors.forEach((sel) => sel.classList.remove("active"));
+
       if (this.dragHasMoved) {
         e.preventDefault();
         e.stopImmediatePropagation();
@@ -394,6 +446,15 @@ export class BubbleMap {
 
     const sliderObserver = new ResizeObserver(() => this.updateThumbLabel());
     sliderObserver.observe(this.slider);
+
+    // selectors
+    this.axisSelectors.forEach(([axis, selector]) => axis.addEventListener("click", (_) => {
+      const wasActive = selector.classList.contains("active");
+      this.selectors.forEach((sel) => sel.classList.remove("active"));
+      if (!wasActive) {
+        selector.classList.add("active");
+      }
+    }));
 
     // window listeners
     window.addEventListener("resize", () => this.updateBubbles());

@@ -57,7 +57,7 @@ export class DataLoader {
       if (row.season === season) {
         const name = this.displayName(row);
         if (name) {
-          const values = attributeKeys.map(([key, parse]) => parse(row[key]));
+          const values = attributeKeys.map((parse) => parse(row));
           result.set(name, values);
         }
       }

@@ -1,3 +1,6 @@
+/* TODO cross-browser compatibility */
+/* TODO stats pop up animation */
+
 *,
 *::before,
 *::after {
@@ -187,28 +190,32 @@ main {
     font-weight: bold;
 
     z-index: 10;
+    cursor: pointer;
+    pointer-events: auto;
+
+    user-select: none;
 }
 
 .axis.x {
-    width: 80%;
     height: 35px;
 
     padding-inline: 20px;
 
     bottom: 30px;
+    left: 150px;
+    right: 50px;
 }
 
 .axis.y {
     flex-direction: column;
 
     width: 35px;
-    height: 80%;
 
     padding-block: 20px;
 
     left: 30px;
-    top: 50%;
-    transform: translateY(-50%);
+    top: 100px;
+    bottom: 150px;
 }
 
 .axis.x::before, .axis.x::after, .axis.y::before, .axis.y::after {
@@ -229,7 +236,7 @@ main {
   white-space: nowrap;
 }
 
-.axis.y span {
+.axis.y > span {
     writing-mode: vertical-rl;
     transform: rotate(180deg);
 }
@@ -254,6 +261,75 @@ main {
     top: 20px;
 
     transform: translateX(-50%) rotate(-45deg);
+}
+
+.axis.size {
+    width: 80px;
+    height: 80px;
+
+    padding-block: 20px;
+
+    border-radius: 50%;
+
+    left: 30px;
+    bottom: 30px;
+}
+
+.selector {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 3px;
+
+    padding: 10px;
+    position: absolute;
+
+    z-index: 10;
+    opacity: 0;
+
+    pointer-events: auto;
+    cursor: default;
+    user-select: none;
+}
+
+.selector.active {
+    opacity: 1;
+}
+
+.selector span {
+    display: block;
+    font-weight: normal;
+
+    pointer-events: auto;
+    cursor: pointer;
+}
+
+.selector span.selected {
+    font-weight: bold;
+}
+
+.selector span.disabled {
+    pointer-events: auto;
+    cursor: not-allowed;
+    opacity: 0.5;
+}
+
+.selector.x {
+    bottom: 70px;
+    left: calc(150px + (100% - 50px - 150px) / 2);
+    transform: translateX(-50%);
+}
+
+.selector.y {
+    left: 70px;
+    top: calc(100px + (100% - 100px - 150px) / 2);
+    transform: translateY(-50%);
+}
+
+.selector.size {
+    left: 100px;
+    bottom: 100px;
 }
 
 .slider-area {
