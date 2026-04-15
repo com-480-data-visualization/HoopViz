@@ -61,8 +61,6 @@ main {
     background-color: #e0e0e0;
     transform-origin: 0 0;
     position: relative;
-
-    transition: transform 0.05s ease-in-out;
 }
 
 .bubbles-container.transition {
@@ -82,7 +80,7 @@ main {
     --width: calc(var(--visible) * var(--size) * var(--max-bubble-size));
     width: var(--width);
     height: var(--width);
-    font-size: calc(var(--width) / 4);
+    font-size: calc(var(--width) / 5);
 
     border-radius: 50%;
 
@@ -137,10 +135,16 @@ main {
     z-index: 15;
     opacity: 0;
     pointer-events: none;
+
+    transform: scale(0.6);
+    transition:
+        opacity 0.3s ease-in,
+        transform 0.3s ease-in-out;
 }
 
 .stats.active {
     opacity: 1;
+    transform: scale(1);
     pointer-events: auto;
 }
 
@@ -236,6 +240,11 @@ main {
   white-space: nowrap;
 }
 
+.axis.size span {
+  text-align: center;
+  white-space: wrap;
+}
+
 .axis.y > span {
     writing-mode: vertical-rl;
     transform: rotate(180deg);
@@ -276,7 +285,7 @@ main {
 }
 
 .selector {
-    display: flex;
+    display: none;
     flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
@@ -286,7 +295,6 @@ main {
     position: absolute;
 
     z-index: 10;
-    opacity: 0;
 
     pointer-events: auto;
     cursor: default;
@@ -294,7 +302,7 @@ main {
 }
 
 .selector.active {
-    opacity: 1;
+  display: flex;
 }
 
 .selector span {

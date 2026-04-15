@@ -9,7 +9,7 @@ export class BubbleMap {
   constructor(options) {
     // init
     this.container = document.querySelector(options.containerSelector);
-    this.dataLoader = options.dataLoader;
+    this.seasonsLoader = options.seasonsLoader;
     this.containerIdPrefix = `${this.container.id}-`;
     this.statsUpdate = options.statsUpdate;
 
@@ -57,9 +57,9 @@ export class BubbleMap {
   }
 
   async init() {
-    await this.dataLoader.load();
+    await this.seasonsLoader.load();
 
-    const years = this.dataLoader.getYears();
+    const years = this.seasonsLoader.getYears();
     this.minYear = Math.min(...years);
     this.maxYear = Math.max(...years);
 
@@ -169,23 +169,31 @@ export class BubbleMap {
   }
 
   updateBubbles() {
+    this.bubblesContainer.classList.add("transition");
     this.transform.scale = 1;
     this.updateLayout();
 
-    const data = this.dataLoader.getData(parseFloat(this.slider.value), this.attributeSize[1], this.attributeX[1], this.attributeY[1]);
-    const items = [...data.keys()];
-    console.log(JSON.stringify(Object.fromEntries(data)));
+    let data = this.seasonsLoader.getData(parseFloat(this.slider.value), this.attributeSize[1], this.attributeX[1], this.attributeY[1]);
+    let items = [...data.keys()];
+    // console.log(data);
+    // console.log(JSON.stringify(Object.fromEntries(data)));
 
-    this.bubblesContainer.classList.add("transition");
+    // filter items with error values
+    const filteredEntries = [...data.entries()].filter(([_, values]) =>
+      !values.includes(null) && !values.includes(undefined) && !values.includes(NaN)
+    );
+    data = new Map(filteredEntries);
+    items = [...data.keys()];
+    // console.log(JSON.stringify(Object.fromEntries(data)));
 
     this.createBubbles(items);
 
     const positions = {}
     data.forEach((values, itemId) => {
       positions[itemId] = {
-        size: values[0] * 0.7 + 0.2,
-        targetX: values[1],
-        targetY: values[2],
+        targetX: values[0],
+        targetY: values[1],
+        size: values[2] * 0.7 + 0.2,
       };
     });
 
@@ -250,28 +258,14 @@ export class BubbleMap {
       bubble.textContent = item;
       bubble.style.background = "#005ce6";
 
-      // TODO bubble open stats screen
       bubble.addEventListener("click", (e) => {
         if (this.dragHasMoved) return;
         e.preventDefault();
 
         this.statsItem = item;
-        this.statsUpdate(this.stats, this.dataLoader, this.slider.value, item);
+        this.statsUpdate(this.stats, this.seasonsLoader, this.slider.value, item);
 
         this.stats.classList.add("active");
-        // const rect = bubble.getBoundingClientRect();
-        // const cx = rect.left + rect.width / 2;
-        // const cy = rect.top + rect.height / 2;
-
-        // this.stats.style.backgroundColor = item.color;
-        // this.stats.innerHTML = `<h1>${item.name} Stats</h1><p style="margin-top: 20px; font-size: 0.8rem; cursor: pointer;">Click anywhere to close</p>`;
-
-        // this.stats.style.clipPath = `circle(0px at ${cx}px ${cy}px)`;
-        // this.stats.style.transition = "none";
-
-        // void this.stats.offsetWidth;
-        // this.stats.style.transition = "clip-path 0.8s ease-out, opacity 0.2s ease-out";
-        // this.stats.style.clipPath = `circle(150vmax at ${cx}px ${cy}px)`;
       });
 
       this.bubblesContainer.appendChild(bubble);
@@ -428,7 +422,7 @@ export class BubbleMap {
     this.slider.addEventListener("input", () => {
       this.updateThumbLabel();
       if (this.statsItem != null) {
-        this.statsUpdate(this.stats, this.dataLoader, this.slider.value, this.statsItem);
+        this.statsUpdate(this.stats, this.seasonsLoader, this.slider.value, this.statsItem);
       }
       this.updateBubbles();
     });

@@ -1,10 +1,10 @@
-export class DataLoader {
+export class SeasonsLoader {
   #data = [];
   #csvUrl;
 
-  constructor(csvUrl, displayName) {
+  constructor(csvUrl, keyName) {
     this.csvFileName = csvUrl;
-    this.displayName = displayName;
+    this.displayName = keyName;
     this.#csvUrl = csvUrl;
   }
 
@@ -25,7 +25,11 @@ export class DataLoader {
       headers.forEach((header, index) => {
         row[header.trim()] = values[index]?.trim() ?? "";
       });
-      this.#data.push(row);
+
+      // filter only regular season
+      if (row.gameType === "Regular Season") {
+        this.#data.push(row);
+      }
     }
   }
 

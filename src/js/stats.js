@@ -1,4 +1,4 @@
-export function updateTeamStats(container, dataLoader, currentYear, currentItem) {
+export function updateTeamStats(container, seasonsLoader, currentYear, currentItem) {
   const name = container.querySelector(".name");
   const year = container.querySelector(".year");
 
