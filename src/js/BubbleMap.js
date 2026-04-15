@@ -1,4 +1,5 @@
 import * as Utils from "./utils.js";
+import * as Data from "./data.js";
 
 export class BubbleMap {
   ZOOM_SPEED = 1.03;
@@ -47,9 +48,9 @@ export class BubbleMap {
 
     this.attributes = options.attributes;
     const initialAttributes = Utils.getRandomThree(this.attributes);
-    this.attributeSize = initialAttributes[0];
-    this.attributeX = initialAttributes[1];
-    this.attributeY = initialAttributes[2];
+    this.attributeX = initialAttributes[0];
+    this.attributeY = initialAttributes[1];
+    this.attributeSize = initialAttributes[2];
 
     this.statsItem = null;
 
@@ -173,18 +174,30 @@ export class BubbleMap {
     this.transform.scale = 1;
     this.updateLayout();
 
-    let data = this.seasonsLoader.getData(parseFloat(this.slider.value), this.attributeSize[1], this.attributeX[1], this.attributeY[1]);
-    let items = [...data.keys()];
-    // console.log(data);
-    // console.log(JSON.stringify(Object.fromEntries(data)));
+    let data = Data.filter_error_values(this.seasonsLoader.getData(parseFloat(this.slider.value),
+      this.attributeX[1], this.attributeY[1], this.attributeSize[1]));
+    // rank filter
+    // data = Data.applyData(
+    //   data,
+    //   [
+    //     null,
+    //     null,
+    //     [
+    //       (values) => [...values].sort((a, b) => b - a),
+    //       (sortedValues, value) => [sortedValues.indexOf(value), value]
+    //     ],
+    //   ],
+    //   (newValues) => newValues[0] < 10
+    // );
+    data = Data.applyData(
+      data, [
+      Data.min_max_norm_shaper,
+      Data.min_max_norm_shaper,
+      Data.min_max_norm_shaper,
+    ], null);
 
-    // filter items with error values
-    const filteredEntries = [...data.entries()].filter(([_, values]) =>
-      !values.includes(null) && !values.includes(undefined) && !values.includes(NaN)
-    );
-    data = new Map(filteredEntries);
-    items = [...data.keys()];
-    // console.log(JSON.stringify(Object.fromEntries(data)));
+    const items = [...data.keys()];
+    console.log(JSON.stringify(Object.fromEntries(data)));
 
     this.createBubbles(items);
 
@@ -289,12 +302,21 @@ export class BubbleMap {
           span.addEventListener("click", (_) => {
             this.selectors.forEach((sel) => sel.classList.remove("active"));
           });
-        } else if (selectorAttributes.map((a) => a[1][0]).includes(a[0])) {
-          span.classList.add("disabled");
         } else {
           span.addEventListener("click", (_) => {
             this.selectors.forEach((sel) => sel.classList.remove("active"));
             setter(a);
+
+            // if selected one that was already selected by another axis, pick a random one for the other axis
+            selectorAttributes.forEach(([_, attribute, setter]) => {
+              if (attribute[0] === a[0]) {
+                const currentlyActive = [this.attributeX[0], this.attributeY[0], this.attributeSize[0]];
+                const unselected = this.attributes.filter(attr => !currentlyActive.includes(attr[0]));
+                const randomNewAttr = unselected[Math.floor(Math.random() * unselected.length)];
+                setter(randomNewAttr);
+              }
+            });
+
             this.updateSelectors();
             this.updateBubbles();
           });

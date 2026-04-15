@@ -5,16 +5,17 @@ import * as Stats from "./stats.js";
 // Team Bubble Map
 new BubbleMap({
   containerSelector: "#teams",
-  seasonsLoader: new SeasonsLoader("./team_seasons.csv", (row) => row.teamName),
+  seasonsLoader: new SeasonsLoader("./data/team_seasons.csv", (row) => row.teamName),
   statsUpdate: Stats.updateTeamStats,
   attributes: [
-    ["Wins", (r) => parseFloat(r["win_norm"])],
-    ["Win %", (r) => parseFloat(r["win"]) / parseFloat(r["gamesPlayed"])],
-    ["Average points", (r) => parseFloat(r["teamScore_norm"])],
-    ["Three points %", (r) => parseFloat(r["threePointersPercentage_norm"])],
-    ["Assists", (r) => parseFloat(r["assists_norm"])],
-    ["Rebounds", (r) => parseFloat(r["rebounds_norm"])],
-    ["Blocks", (r) => parseFloat(r["blocks_norm"])],
-    ["Steals", (r) => parseFloat(r["steals_norm"])],
+    // display name, row to value function, aggregation function
+    ["Wins", (r) => parseFloat(r["win"])],
+    ["Average points", (r) => parseFloat(r["teamScore"])],
+    ["Three points %", (r) => parseFloat(r["threePointersPercentage"])],
+    ["Assists", (r) => parseFloat(r["assists"])],
+    ["Rebounds", (r) => parseFloat(r["rebounds"])],
+    ["Blocks", (r) => parseFloat(r["blocks"])],
+    ["Steals", (r) => parseFloat(r["steals"])],
+    // ["Win %", (r) => parseFloat(r["win"]) / parseFloat(r["gamesPlayed"])],
   ],
 });
