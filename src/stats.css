@@ -1,0 +1,18 @@
+.stats-area {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    background: #91bdff;
+
+    width: 85%;
+    height: 80%;
+
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.stats-close {
+  cursor: pointer;
+}
