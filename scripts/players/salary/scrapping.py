@@ -2,8 +2,8 @@
 """
 NBA Salary Scraper — eu.hoopshype.com
 Outputs one CSV per season in:
-  nba_salaries/players/YYYY-YYYY+1.csv   →  player, salary_usd, season
-  nba_salaries/teams/YYYY-YYYY+1.csv    →  team,   salary_usd, season
+  scraped_data/players/YYYY-YYYY+1.csv   →  player, salary_usd, season
+  scraped_data/teams/YYYY-YYYY+1.csv    →  team,   salary_usd, season
 
 Real table structure (3 columns only):
   td[0] : rank
@@ -26,7 +26,7 @@ from pathlib import Path
 
 START_YEAR     = 2020
 END_YEAR       = 2020
-OUTPUT_DIR     = "scraped_data"
+OUTPUT_DIR     = "data/nba_salary/scraped_data"
 
 SCRAPE_PLAYERS = True
 SCRAPE_TEAMS   = True

@@ -1,7 +1,7 @@
 import pandas as pd
 from pathlib import Path
 
-BASE_DIR = Path("./")
+BASE_DIR = Path("data/nba_salary/scraped_data/")
 
 def merge_folder(folder, output_file):
     csvs = sorted(folder.glob("*.csv"))
@@ -26,7 +26,7 @@ def merge_folder(folder, output_file):
     print(f"Total rows: {len(df):,}")
     print(f"Seasons: {df.iloc[:, 2].nunique()}\n")  
 
-merge_folder(BASE_DIR / "players", "player_salaries.csv")
+merge_folder(BASE_DIR / "players", "data/nba_salary/player_salaries.csv")
 
 for f in sorted(BASE_DIR / "players").glob("*.csv"):
     df = pd.read_csv(f)
@@ -36,4 +36,4 @@ for f in sorted(BASE_DIR / "players").glob("*.csv"):
         print(f"⚠  Non-unique players in {f.name}:")
         print(non_unique)
 
-merge_folder(BASE_DIR / "teams",   "team_salaries.csv")
+merge_folder(BASE_DIR / "teams", "data/nba_salary/team_salaries.csv")

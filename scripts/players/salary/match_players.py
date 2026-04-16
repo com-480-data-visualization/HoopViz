@@ -24,13 +24,13 @@ import pandas as pd
 from unidecode import unidecode
 from rapidfuzz import process, fuzz
 
+# NOTE: run it from the root of the project (where the data/ and scripts/ folders are) so paths work correctly
 #  CONFIG
 
-SCRAPED_FILE     = "player_salaries.csv" # player, salary_usd, season
-REFERENCE_FILE   = "../nba_database/PlayerStatistics.csv" # personId, firstName, lastName, gameDateTimeEst, ...
+SCRAPED_FILE     = "data/scraped_data/player_salaries.csv" # player, salary_usd, season
+REFERENCE_FILE   = "data/nba_database/PlayerStatistics.csv" # personId, firstName, lastName, gameDateTimeEst, ...
 
-OUTPUT_MATCHED   = "matched_salaries.csv"
-OUTPUT_UNMATCHED = "unmatched_salaries.csv"
+OUTPUT_MATCHED   = "data/scraped_data/matched_salaries.csv"
 
 SCRAPED_NAME_COL = "player"
 
@@ -182,7 +182,6 @@ def main():
     print(f"     ")
     print(f"     Total         : {total:>6,}")
     print(f"\n     Matched   → {OUTPUT_MATCHED}")
-    print(f"     Unmatched → {OUTPUT_UNMATCHED}  ← review manually")
     print("=" * 55)
 
 
