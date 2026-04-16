@@ -10,5 +10,7 @@ This folder contains the datasets that we will be using for our project. We have
 
 - nba_salary/ : Contains player/team salary data for the NBA from 1990 to 2026, scraped from HoopsHype (https://eu.hoopshype.com/salaries/players/ & https://eu.hoopshype.com/salaries/teams/) using the script in the folder (scrapping for each year, then merge into one csv, finally match to the personId with the player database for future use). It includes player names, seasons, and corresponding salaries : https://drive.google.com/drive/folders/1AI6Z8fIpP7RxhImdtOexrn6dgmB05izz?usp=share_link
 
+- nba_team_colors/ : Contains the main color palette for each NBA team (source: https://www.trucolor.net/portfolio/national-basketball-association-official-colors-franchise-records-1946-1947-through-present/) : https://drive.google.com/drive/folders/1-yfOkoxvzeTDWPNqtZtBHt1_TOxrQw8o?usp=sharing
+
 - processed/ : Contains the processed data files that are used for visualization. The files in this folder are generated from the raw datasets after cleaning, transforming, and aggregating the data to make it suitable for analysis and visualization : https://drive.google.com/drive/folders/1fipeswQbiNC3rnPsH2NQ-axi6x91Rk9n?usp=share_link
 
