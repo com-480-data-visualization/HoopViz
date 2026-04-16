@@ -1,3 +1,6 @@
+/* TODO cross-browser compatibility */
+/* TODO stats pop up animation */
+
 *,
 *::before,
 *::after {
@@ -26,12 +29,12 @@ main {
 }
 
 .stacked {
-    width: 100%;
-    height: 100%;
-
     position: absolute;
     top: 0;
     left: 0;
+
+    width: 100%;
+    height: 100%;
 
     pointer-events: none;
 }
@@ -50,7 +53,7 @@ main {
 .bubbles-container {
     --transition-time: 1s;
     --max-bubble-size: 15vw;
-    --pad: calc(10px + var(--max-bubble-size) / 2);
+    --pad: calc(40px + var(--max-bubble-size) / 2);
 
     height: 100%;
     padding: var(--pad);
@@ -58,12 +61,10 @@ main {
     background-color: #e0e0e0;
     transform-origin: 0 0;
     position: relative;
-
-    transition: transform 0.05s ease-out;
 }
 
 .bubbles-container.transition {
-    transition: transform calc(var(--transition-time) / 1.5) ease-out;
+    transition: transform calc(var(--transition-time) / 1.5) ease-in-out;
 }
 
 .bubble {
@@ -75,17 +76,18 @@ main {
     font-weight: bold;
     text-decoration: none;
 
-    --width: calc(var(--size) * var(--max-bubble-size));
+    --visible: 0;
+    --width: calc(var(--visible) * var(--size) * var(--max-bubble-size));
     width: var(--width);
     height: var(--width);
-    font-size: calc(var(--width) / 4);
+    font-size: calc(var(--width) / 5);
 
     border-radius: 50%;
 
     position: absolute;
     --add: calc(var(--pad) - (var(--width) / 2));
     left: calc(var(--add) + (var(--x) * (100% - 2 * var(--pad))));
-    top: calc(var(--add) + (var(--y) * (100% - 2 * var(--pad))));
+    bottom: calc(var(--add) + (var(--y) * (100% - 2 * var(--pad))));
 
     cursor: pointer;
     user-select: none;
@@ -93,14 +95,14 @@ main {
 
 .bubble.transition {
     transition:
-        left var(--transition-time) cubic-bezier(0.45, 0, 0.55, 1),
-        top var(--transition-time) cubic-bezier(0.45, 0, 0.55, 1),
-        width var(--transition-time) cubic-bezier(0.45, 0, 0.55, 1),
-        height var(--transition-time) cubic-bezier(0.45, 0, 0.55, 1),
-        font-size var(--transition-time) cubic-bezier(0.45, 0, 0.55, 1),
-        transform 0.2s ease-out,
-        filter 0.2s ease-out,
-        box-shadow 0.2s ease-out;
+        left var(--transition-time) ease-in-out,
+        bottom var(--transition-time) ease-in-out,
+        width var(--transition-time) ease-in-out,
+        height var(--transition-time) ease-in-out,
+        font-size var(--transition-time) ease-in-out,
+        transform 0.2s ease-in-out,
+        filter 0.2s ease-in-out,
+        box-shadow 0.2s ease-in-out;
 }
 
 .bubble:hover {
@@ -117,6 +119,7 @@ main {
     visibility: hidden;
     transition: none !important;
 
+    --visible: 1;
     --size: 1;
     --x: 0;
     --y: 0;
@@ -129,18 +132,19 @@ main {
     align-items: center;
     justify-content: center;
 
-    color: #fff;
-
-    clip-path: circle(0px at 50% 50%);
-
     z-index: 15;
     opacity: 0;
     pointer-events: none;
-    transition: clip-path 5s ease-in-out, opacity 0s ease-in-out;
+
+    transform: scale(0.6);
+    transition:
+        opacity 0.3s ease-in,
+        transform 0.3s ease-in-out;
 }
 
 .stats.active {
     opacity: 1;
+    transform: scale(1);
     pointer-events: auto;
 }
 
@@ -190,28 +194,32 @@ main {
     font-weight: bold;
 
     z-index: 10;
+    cursor: pointer;
+    pointer-events: auto;
+
+    user-select: none;
 }
 
 .axis.x {
-    width: 80%;
     height: 35px;
 
     padding-inline: 20px;
 
     bottom: 30px;
+    left: 150px;
+    right: 50px;
 }
 
 .axis.y {
     flex-direction: column;
 
     width: 35px;
-    height: 80%;
 
     padding-block: 20px;
 
     left: 30px;
-    top: 50%;
-    transform: translateY(-50%);
+    top: 100px;
+    bottom: 150px;
 }
 
 .axis.x::before, .axis.x::after, .axis.y::before, .axis.y::after {
@@ -232,7 +240,12 @@ main {
   white-space: nowrap;
 }
 
-.axis.y span {
+.axis.size span {
+  text-align: center;
+  white-space: wrap;
+}
+
+.axis.y > span {
     writing-mode: vertical-rl;
     transform: rotate(180deg);
 }
@@ -257,6 +270,80 @@ main {
     top: 20px;
 
     transform: translateX(-50%) rotate(-45deg);
+}
+
+.axis.size {
+    width: 80px;
+    height: 80px;
+
+    padding-block: 20px;
+
+    border-radius: 50%;
+
+    left: 30px;
+    bottom: 30px;
+}
+
+.selector {
+    display: none;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 4px;
+
+    padding: 10px;
+    position: absolute;
+
+    z-index: 10;
+
+    pointer-events: auto;
+    cursor: default;
+    user-select: none;
+}
+
+.selector.active {
+  display: flex;
+}
+
+.selector > span {
+    display: block;
+    font-weight: normal;
+    width: 100%;
+    text-align: center;
+
+    pointer-events: auto;
+    cursor: pointer;
+}
+
+.selector > span.selected {
+    font-weight: bold;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 4px;
+    padding: 3px 6px;
+    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.35);
+}
+
+.selector > span.disabled {
+    pointer-events: auto;
+    cursor: not-allowed;
+    opacity: 0.5;
+}
+
+.selector.x {
+    bottom: 70px;
+    left: calc(150px + (100% - 50px - 150px) / 2);
+    transform: translateX(-50%);
+}
+
+.selector.y {
+    left: 70px;
+    top: calc(100px + (100% - 100px - 150px) / 2);
+    transform: translateY(-50%);
+}
+
+.selector.size {
+    left: 100px;
+    bottom: 100px;
 }
 
 .slider-area {
