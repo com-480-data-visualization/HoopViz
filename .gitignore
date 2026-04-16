@@ -18,4 +18,11 @@
 .ionide
 
 .DS_Store
+
+# Data files
 data/*
+data/**/*
+!data/**/
+!data/*.md
+!data/processed/*.md
+!data/**/.gitkeep
