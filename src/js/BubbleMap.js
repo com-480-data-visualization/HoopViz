@@ -404,14 +404,19 @@ export class BubbleMap {
     this.viewport.addEventListener("wheel", (e) => {
       this.bubblesContainer.classList.remove("transition");
       e.preventDefault();
+
+      const rect = this.viewport.getBoundingClientRect();
+      const mouseX = e.clientX - rect.left;
+      const mouseY = e.clientY - rect.top;
+
       const zoomFactor = e.deltaY < 0 ? this.ZOOM_SPEED : 1 / this.ZOOM_SPEED;
       const newScale = Utils.clamp(this.transform.scale * zoomFactor, this.MIN_ZOOM, this.MAX_ZOOM);
 
-      const originX = (e.clientX - this.transform.x) / this.transform.scale;
-      const originY = (e.clientY - this.transform.y) / this.transform.scale;
+      const originX = (mouseX - this.transform.x) / this.transform.scale;
+      const originY = (mouseY - this.transform.y) / this.transform.scale;
 
-      this.transform.x = e.clientX - originX * newScale;
-      this.transform.y = e.clientY - originY * newScale;
+      this.transform.x = mouseX - originX * newScale;
+      this.transform.y = mouseY - originY * newScale;
       this.transform.scale = newScale;
 
       this.applyTransform();
