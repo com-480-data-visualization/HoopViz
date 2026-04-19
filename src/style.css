@@ -14,8 +14,7 @@
 }
 
 html,
-body,
-section {
+body {
     height: 100%;
 }
 
@@ -26,6 +25,7 @@ button {
 
 body {
     --nav-height: 60px;
+    --screen-swipe-transition-time: 0.5s;
 }
 
 main {
@@ -42,9 +42,12 @@ nav {
 
     background: #000;
 
-    position: relative;
     z-index: 100;
+    position: relative;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+
+    --tab-selector-width: 85px;
+    --tab-selector-gap: 8px;
 }
 
 nav h1 {
@@ -64,26 +67,51 @@ nav a.github:hover {
 
 nav .screen-selector {
     display: flex;
-    gap: 8px;
+    gap: var(--tab-selector-gap);
     padding: 4px;
 
     background: #222;
 
     border-radius: 50px;
     border: 2px solid #333;
+
+    position: relative;
+    z-index: 1;
 }
 
 nav .screen-selector span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
     font-size: 15px;
     font-weight: 600;
     color: #888;
 
-    padding: 6px 18px;
+    width: var(--tab-selector-width);
+    padding: 6px 0px;
     border-radius: 50px;
 
     cursor: pointer;
     user-select: none;
     transition: all 0.2s ease-in-out;
+}
+
+nav .screen-selector::before {
+    content: "";
+    position: absolute;
+    top: 4px;
+    bottom: 4px;
+    left: 4px;
+    width: var(--tab-selector-width);
+    background: #ef6c32;
+    border-radius: 50px;
+    transition: transform var(--screen-swipe-transition-time) cubic-bezier(0.4, 0, 0.2, 1);
+    z-index: -1;
+}
+
+nav .screen-selector:has(span:nth-child(2).selected)::before {
+    transform: translateX(calc(100% + var(--tab-selector-gap)));
 }
 
 nav .screen-selector span:not(.selected):hover {
@@ -93,14 +121,17 @@ nav .screen-selector span:not(.selected):hover {
 
 nav .screen-selector span.selected {
     color: white;
-    background: #ef6c32;
 }
 
-#screens section {
+#screens {
+    width: 100%;
     height: calc(100% - var(--nav-height));
+
+    overflow: hidden;
+    position: relative;
 }
 
-.stacked {
+.stacked, #screens > section {
     position: absolute;
     top: 0;
     left: 0;
@@ -109,6 +140,24 @@ nav .screen-selector span.selected {
     height: 100%;
 
     pointer-events: none;
+}
+
+#screens > section {
+    transition: transform var(--screen-swipe-transition-time) ease-in-out;
+}
+
+section#teams.selected {
+    transform: translateX(0);
+}
+section#teams:not(.selected) {
+    transform: translateX(-100%);
+}
+
+section#players.selected {
+    transform: translateX(0);
+}
+section#players:not(.selected) {
+    transform: translateX(100%);
 }
 
 .viewport {
@@ -123,7 +172,7 @@ nav .screen-selector span.selected {
 }
 
 .bubbles-container {
-    --transition-time: 1s;
+    --transition-time: 1.3s;
     --max-bubble-size: 15vw;
     --pad: calc(40px + var(--max-bubble-size) / 2);
 
@@ -196,7 +245,6 @@ nav .screen-selector span.selected {
     --x: 0;
     --y: 0;
 }
-
 
 .stats {
     display: flex;
@@ -361,7 +409,7 @@ nav .screen-selector span.selected {
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
-    gap: 4px;
+    gap: 2px;
 
     padding: 10px;
     position: absolute;
@@ -380,8 +428,12 @@ nav .screen-selector span.selected {
 .selector > span {
     display: block;
     font-weight: normal;
+
     width: 100%;
     text-align: center;
+
+    padding: 3px 6px;
+    border-radius: 4px;
 
     pointer-events: auto;
     cursor: pointer;
@@ -390,9 +442,11 @@ nav .screen-selector span.selected {
 .selector > span.selected {
     font-weight: bold;
     background-color: rgba(255, 255, 255, 0.2);
-    border-radius: 4px;
-    padding: 3px 6px;
-    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.35);
+    box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.35);
+}
+
+.selector > span:not(.selected):not(.disabled):hover {
+    box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.3);
 }
 
 .selector > span.disabled {
