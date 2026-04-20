@@ -16,6 +16,10 @@ export class BubbleMap {
     this.containerIdPrefix = `${this.container.id}-`;
     this.statsUpdate = options.statsUpdate;
 
+    this.metadataLoader = options.metadataLoader;
+    this.bubbleContent = options.bubbleContent;
+    this.bubbleColor = options.bubbleColor;
+
     // DOM elements
     this.viewport = this.container.querySelector(".viewport");
     this.bubblesContainer = this.container.querySelector(".bubbles-container");
@@ -56,6 +60,7 @@ export class BubbleMap {
 
   async init() {
     await this.seasonsLoader.load();
+    await this.metadataLoader.load();
 
     this.bindMapEvents();
     this.updateSelectors();
@@ -255,11 +260,8 @@ export class BubbleMap {
       bubble.classList.add("transition");
       bubble.id = `${this.containerIdPrefix}${item}`;
 
-      // TODO get metadata
-      bubble.textContent = item;
-      bubble.title = item;
-      bubble.textContent = item;
-      bubble.style.background = "#005ce6";
+      bubble.textContent = this.metadataLoader.getValue(item, this.bubbleContent);
+      bubble.style.background = this.metadataLoader.getValue(item, this.bubbleColor);
 
       bubble.addEventListener("click", (e) => {
         if (this.dragHasMoved) return;
