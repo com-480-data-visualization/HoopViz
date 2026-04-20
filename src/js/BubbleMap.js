@@ -7,6 +7,8 @@ export class BubbleMap {
   MIN_ZOOM = 1;
   DRAG_THRESHOLD = 5;
 
+  MAX_RANK_FILTER = 50;
+
   constructor(options) {
     // init
     this.container = document.querySelector(options.containerSelector);
@@ -165,18 +167,18 @@ export class BubbleMap {
     let data = Data.filter_error_values(this.seasonsLoader.getData(this.currentYear,
       this.attributeX[1], this.attributeY[1], this.attributeSize[1]));
     // rank filter
-    // data = Data.applyData(
-    //   data,
-    //   [
-    //     null,
-    //     null,
-    //     [
-    //       (values) => [...values].sort((a, b) => b - a),
-    //       (sortedValues, value) => [sortedValues.indexOf(value), value]
-    //     ],
-    //   ],
-    //   (newValues) => newValues[0] < 10
-    // );
+    data = Data.applyData(
+      data,
+      [
+        null,
+        null,
+        [
+          (values) => [...values].sort((a, b) => b - a),
+          (sortedValues, value) => [sortedValues.indexOf(value), value]
+        ],
+      ],
+      (filterValues) => filterValues[2] < this.MAX_RANK_FILTER
+    );
     data = Data.applyData(
       data, [
       Data.min_max_norm_shaper,

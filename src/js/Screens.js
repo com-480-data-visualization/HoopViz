@@ -6,6 +6,8 @@ export class Screens {
     this.maxYear = options.maxYear;
     this.leftBubbleMap = options.leftBubbleMap;
     this.rightBubbleMap = options.rightBubbleMap;
+    this.bubbleMaps = [this.leftBubbleMap, this.rightBubbleMap];
+    this.selectedBubbleMap = 0;
 
     // DOM elements
     this.sliderArea = this.container.querySelector(".slider-area");
@@ -98,9 +100,11 @@ export class Screens {
     sliderObserver.observe(this.slider);
 
     // tabs switch
-    this.screenTabs.forEach(tab => {
+    this.screenTabs.forEach((tab, index) => {
       tab.addEventListener("click", () => {
         if (tab.classList.contains("selected")) return;
+
+        this.selectedBubbleMap = index;
 
         this.screenTabs.forEach(t => t.classList.remove("selected"));
         tab.classList.add("selected");
@@ -118,7 +122,7 @@ export class Screens {
       if (["input", "textarea"].includes(document.activeElement.tagName.toLowerCase())) return;
 
       if (e.key === "Escape") {
-        this.closeStats()
+        this.bubbleMaps[this.selectedBubbleMap].closeStats()
       }
 
       let currentValue = parseFloat(this.slider.value);
