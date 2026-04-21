@@ -4,7 +4,7 @@ import * as Data from "./data.js";
 // TODO set all attributes
 
 export const TEAM_ATTRIBUTES = [
-  // display name, row to value function
+  // [display name, row to value function]
   ["Wins", (r) => parseFloat(r["win"])],
   ["Average points", (r) => parseFloat(r["teamScore"])],
   ["Three points %", (r) => parseFloat(r["threePointersPercentage"])],
@@ -16,7 +16,7 @@ export const TEAM_ATTRIBUTES = [
 ];
 
 export const PLAYER_ATTRIBUTES = [
-  // display name, row to value function
+  // [display name, row to value function]
   ["Wins", (r) => parseFloat(r["win"])],
   ["Average points", (r) => parseFloat(r["points"])],
   ["Three points %", (r) => parseFloat(r["threePointersPercentage"])],

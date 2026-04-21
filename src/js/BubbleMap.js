@@ -149,8 +149,8 @@ export class BubbleMap {
 
       realPositions[item] = {
         size: size,
-        x: this.layoutPx.width > 0 ? (finalX / this.layoutPx.width).toFixed(4) : 0,
-        y: this.layoutPx.height > 0 ? (finalY / this.layoutPx.height).toFixed(4) : 0,
+        x: finalX.toFixed(2) + "px",
+        y: finalY.toFixed(2) + "px",
       };
     });
 

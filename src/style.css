@@ -197,29 +197,28 @@ section#players:not(.selected) {
     text-decoration: none;
 
     --visible: 0;
-    --width: calc(var(--visible) * var(--size) * var(--max-bubble-size));
-    width: var(--width);
-    height: var(--width);
-    font-size: calc(var(--width) / 5);
+    /* --width: calc(var(--visible) * var(--size) * var(--max-bubble-size)); */
+    width: var(--max-bubble-size);
+    height: var(--max-bubble-size);
+    font-size: calc(var(--max-bubble-size) / 5);
 
     border-radius: 50%;
 
     position: absolute;
-    --add: calc(var(--pad) - (var(--width) / 2));
-    left: calc(var(--add) + (var(--x) * (100% - 2 * var(--pad))));
-    bottom: calc(var(--add) + (var(--y) * (100% - 2 * var(--pad))));
+    left: var(--pad);
+    bottom: var(--pad);
+
+    translate: calc(var(--x) - 50%) calc(-1 * var(--y) + 50%);
+    scale: calc(var(--visible) * var(--size));
 
     cursor: pointer;
     user-select: none;
 }
 
 .bubble.transition {
-    transition:
-        left var(--transition-time) ease-in-out,
-        bottom var(--transition-time) ease-in-out,
-        width var(--transition-time) ease-in-out,
-        height var(--transition-time) ease-in-out,
-        font-size var(--transition-time) ease-in-out,
+  transition:
+        translate var(--transition-time) ease-in-out,
+        scale var(--transition-time) ease-in-out,
         transform 0.2s ease-in-out,
         filter 0.2s ease-in-out,
         box-shadow 0.2s ease-in-out;
@@ -229,6 +228,7 @@ section#players:not(.selected) {
     z-index: 5;
 
     transform: scale(1.2);
+
     filter: brightness(1.1);
     box-shadow:
         0 5px 10px rgba(0, 0, 0, 0.3),
@@ -241,8 +241,8 @@ section#players:not(.selected) {
 
     --visible: 1;
     --size: 1;
-    --x: 0;
-    --y: 0;
+    --x: 0px;
+    --y: 0px;
 }
 
 .stats {
