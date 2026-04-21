@@ -7,12 +7,18 @@ export class BubbleMap {
   MIN_ZOOM = 1;
   DRAG_THRESHOLD = 5;
 
+  MAX_RANK_FILTER = 50;
+
   constructor(options) {
     // init
     this.container = document.querySelector(options.containerSelector);
     this.seasonsLoader = options.seasonsLoader;
     this.containerIdPrefix = `${this.container.id}-`;
     this.statsUpdate = options.statsUpdate;
+
+    this.metadataLoader = options.metadataLoader;
+    this.bubbleContent = options.bubbleContent;
+    this.bubbleColor = options.bubbleColor;
 
     // DOM elements
     this.viewport = this.container.querySelector(".viewport");
@@ -21,12 +27,6 @@ export class BubbleMap {
     this.stats = this.container.querySelector(".stats");
     this.statsArea = this.stats.querySelector(".stats-area");
     this.statsClose = this.statsArea.querySelector(".stats-close");
-    this.sliderArea = this.container.querySelector(".slider-area");
-    this.slider = this.sliderArea.querySelector(".slider");
-    this.sliderLabel = this.container.querySelector(".slider-label");
-    this.sliderTicks = this.container.querySelector(".slider-ticks");
-    this.sliderPrevious = this.sliderArea.querySelector(".slider-controller:first-child");
-    this.sliderNext = this.sliderArea.querySelector(".slider-controller:last-child");
     this.overlay = this.container.querySelector(".overlay");
 
     this.axisX = this.container.querySelector(".axis.x");
@@ -53,29 +53,17 @@ export class BubbleMap {
     this.attributeSize = initialAttributes[2];
 
     this.statsItem = null;
+    this.currentYear = null;
 
-    this.init();
+    this.ready = this.init();
   }
 
   async init() {
     await this.seasonsLoader.load();
-
-    const years = this.seasonsLoader.getYears();
-    this.minYear = Math.min(...years);
-    this.maxYear = Math.max(...years);
+    await this.metadataLoader.load();
 
     this.bindMapEvents();
-    this.setupSlider();
-
     this.updateSelectors();
-    this.updateBubbles();
-
-    // enable bubble transitions after initial layout
-    // setTimeout(() => {
-    //   this.container
-    //     .querySelectorAll(".bubble:not(.measure-bubble)")
-    //     .forEach((b) => b.classList.add("transition"));
-    // }, 200);
   }
 
   updateLayout() {
@@ -161,12 +149,23 @@ export class BubbleMap {
 
       realPositions[item] = {
         size: size,
-        x: this.layoutPx.width > 0 ? (finalX / this.layoutPx.width).toFixed(4) : 0,
-        y: this.layoutPx.height > 0 ? (finalY / this.layoutPx.height).toFixed(4) : 0,
+        x: finalX.toFixed(2) + "px",
+        y: finalY.toFixed(2) + "px",
       };
     });
 
     return realPositions;
+  }
+
+  updateYear(year) {
+    if (year === this.currentYear) return;
+    this.currentYear = year;
+
+    if (this.statsItem != null) {
+        this.statsUpdate(this.stats, this.seasonsLoader, this.metadataLoader, this.currentYear, this.statsItem);
+    }
+
+    this.updateBubbles();
   }
 
   updateBubbles() {
@@ -174,21 +173,21 @@ export class BubbleMap {
     this.transform.scale = 1;
     this.updateLayout();
 
-    let data = Data.filter_error_values(this.seasonsLoader.getData(parseFloat(this.slider.value),
+    let data = Data.filter_error_values(this.seasonsLoader.getData(this.currentYear,
       this.attributeX[1], this.attributeY[1], this.attributeSize[1]));
     // rank filter
-    // data = Data.applyData(
-    //   data,
-    //   [
-    //     null,
-    //     null,
-    //     [
-    //       (values) => [...values].sort((a, b) => b - a),
-    //       (sortedValues, value) => [sortedValues.indexOf(value), value]
-    //     ],
-    //   ],
-    //   (newValues) => newValues[0] < 10
-    // );
+    data = Data.applyData(
+      data,
+      [
+        null,
+        null,
+        [
+          (values) => [...values].sort((a, b) => b - a),
+          (sortedValues, value) => [sortedValues.indexOf(value), value]
+        ],
+      ],
+      (filterValues) => filterValues[2] < this.MAX_RANK_FILTER
+    );
     data = Data.applyData(
       data, [
       Data.min_max_norm_shaper,
@@ -197,7 +196,7 @@ export class BubbleMap {
     ], null);
 
     const items = [...data.keys()];
-    console.log(JSON.stringify(Object.fromEntries(data)));
+    // console.log(JSON.stringify(Object.fromEntries(data)));
 
     this.createBubbles(items);
 
@@ -265,18 +264,15 @@ export class BubbleMap {
       bubble.classList.add("transition");
       bubble.id = `${this.containerIdPrefix}${item}`;
 
-      // TODO get metadata
-      bubble.textContent = item;
-      bubble.title = item;
-      bubble.textContent = item;
-      bubble.style.background = "#005ce6";
+      bubble.textContent = this.metadataLoader.getValue(item, this.bubbleContent);
+      bubble.style.background = this.metadataLoader.getValue(item, this.bubbleColor);
 
       bubble.addEventListener("click", (e) => {
         if (this.dragHasMoved) return;
         e.preventDefault();
 
         this.statsItem = item;
-        this.statsUpdate(this.stats, this.seasonsLoader, this.slider.value, item);
+        this.statsUpdate(this.stats, this.seasonsLoader, this.metadataLoader, this.currentYear, item);
 
         this.stats.classList.add("active");
       });
@@ -331,34 +327,6 @@ export class BubbleMap {
     });
   }
 
-  setupSlider() {
-    this.slider.min = this.minYear;
-    this.slider.max = this.maxYear;
-    this.slider.value = this.maxYear;
-
-    for (let year = this.minYear; year <= this.maxYear; year++) {
-      if (year % 5 === 0) {
-        const span = document.createElement("span");
-        const percent = ((year - this.minYear) / (this.maxYear - this.minYear)) * 100;
-        span.style.left = `${percent}%`;
-        span.textContent = year;
-        this.sliderTicks.appendChild(span);
-      }
-    }
-
-    this.updateThumbLabel();
-  }
-
-  updateThumbLabel() {
-    this.sliderLabel.textContent = this.slider.value;
-    const percent = (this.slider.value - this.slider.min) / (this.slider.max - this.slider.min);
-    const trackWidth = this.slider.offsetWidth;
-    const thumbSize = parseFloat(getComputedStyle(this.slider).getPropertyValue("--thumb-size"));
-    const offset = percent * (trackWidth - thumbSize);
-
-    this.sliderLabel.style.left = `${offset}px`;
-  }
-
   closeStats() {
     this.stats.classList.remove("active");
     this.statsItem = null;
@@ -404,14 +372,19 @@ export class BubbleMap {
     this.viewport.addEventListener("wheel", (e) => {
       this.bubblesContainer.classList.remove("transition");
       e.preventDefault();
+
+      const rect = this.viewport.getBoundingClientRect();
+      const mouseX = e.clientX - rect.left;
+      const mouseY = e.clientY - rect.top;
+
       const zoomFactor = e.deltaY < 0 ? this.ZOOM_SPEED : 1 / this.ZOOM_SPEED;
       const newScale = Utils.clamp(this.transform.scale * zoomFactor, this.MIN_ZOOM, this.MAX_ZOOM);
 
-      const originX = (e.clientX - this.transform.x) / this.transform.scale;
-      const originY = (e.clientY - this.transform.y) / this.transform.scale;
+      const originX = (mouseX - this.transform.x) / this.transform.scale;
+      const originY = (mouseY - this.transform.y) / this.transform.scale;
 
-      this.transform.x = e.clientX - originX * newScale;
-      this.transform.y = e.clientY - originY * newScale;
+      this.transform.x = mouseX - originX * newScale;
+      this.transform.y = mouseY - originY * newScale;
       this.transform.scale = newScale;
 
       this.applyTransform();
@@ -440,29 +413,6 @@ export class BubbleMap {
       e.stopPropagation();
     });
 
-    // slider
-    this.slider.addEventListener("input", () => {
-      this.updateThumbLabel();
-      if (this.statsItem != null) {
-        this.statsUpdate(this.stats, this.seasonsLoader, this.slider.value, this.statsItem);
-      }
-      this.updateBubbles();
-    });
-
-    const step = parseFloat(this.slider.step);
-
-    this.sliderPrevious.addEventListener("click", () => {
-      this.slider.value = parseFloat(this.slider.value) - step;
-      this.slider.dispatchEvent(new Event("input"));
-    });
-    this.sliderNext.addEventListener("click", () => {
-      this.slider.value = parseFloat(this.slider.value) + step;
-      this.slider.dispatchEvent(new Event("input"));
-    });
-
-    const sliderObserver = new ResizeObserver(() => this.updateThumbLabel());
-    sliderObserver.observe(this.slider);
-
     // selectors
     this.axisSelectors.forEach(([axis, selector]) => axis.addEventListener("click", (_) => {
       const wasActive = selector.classList.contains("active");
@@ -473,23 +423,9 @@ export class BubbleMap {
     }));
 
     // window listeners
-    window.addEventListener("resize", () => this.updateBubbles());
-
-    window.addEventListener("keydown", (e) => {
-      if (["input", "textarea"].includes(document.activeElement.tagName.toLowerCase())) return;
-
-      if (e.key === "Escape") {
-        this.closeStats()
-      }
-
-      // TODO: will update all instances, need logic to check which section is currently in the viewport
-      let currentValue = parseFloat(this.slider.value);
-      if (e.key === "ArrowRight") {
-        this.slider.value = currentValue + step;
-        this.slider.dispatchEvent(new Event("input"));
-      } else if (e.key === "ArrowLeft") {
-        this.slider.value = currentValue - step;
-        this.slider.dispatchEvent(new Event("input"));
+    window.addEventListener("resize", () => {
+      if (this.currentYear != null) {
+        this.updateBubbles();
       }
     });
   }

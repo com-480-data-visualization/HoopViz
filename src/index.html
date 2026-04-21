@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>HoopViz</title>
+  <meta name="description" content="Explore and compare NBA teams and players performance through interactive data visualizations. HoopViz displays basketball statistics using dynamic bubble charts and emphasises historical trends.">
 
   <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/889/889455.png">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0">
@@ -15,7 +16,93 @@
 </head>
 
 <body>
-  <section id="teams">
+  <nav>
+    <h1>HoopViz 🏀</h1>
+    <div class="screen-selector" id="screen-select">
+      <span class="selected" data-target-id="teams">Teams</span>
+      <span data-target-id="players">Players</span>
+    </div>
+    <a class="github" href="https://github.com/com-480-data-visualization/HoopViz" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.simpleicons.org/github/white" alt="GitHub Repository" width="32" height="32">
+    </a>
+  </nav>
+  <main id="screens">
+    <section id="teams" class="selected">
+      <div class="stacked overlay">
+        <div class="axis y">
+          <span>Loading...</span>
+          <span class="arrow-head"></span>
+        </div>
+        <div class="selector y">
+        </div>
+        <div class="axis x">
+          <span>Loading...</span>
+          <span class="arrow-head"></span>
+        </div>
+        <div class="selector x">
+        </div>
+        <div class="axis size">
+          <span>Loading...</span>
+        </div>
+        <div class="selector size">
+        </div>
+      </div>
+
+      <div class="stacked viewport">
+        <div class="bubbles-container">
+          <a class="bubble measure-bubble"></a>
+        </div>
+      </div>
+
+      <div class="stacked stats">
+        <div class="stats-area">
+          <span class="stats-close material-symbols-outlined">close</span>
+          <h1 class="name"></h1>
+          <h2 class="year"></h2>
+          <p class="content"></p>
+          <svg id="team-chart" width="500" height="150" style="border: 1px solid #ccc"></svg>
+        </div>
+      </div>
+    </section>
+
+    <section id="players">
+      <div class="stacked overlay">
+        <div class="axis y">
+          <span>Loading...</span>
+          <span class="arrow-head"></span>
+        </div>
+        <div class="selector y">
+        </div>
+        <div class="axis x">
+          <span>Loading...</span>
+          <span class="arrow-head"></span>
+        </div>
+        <div class="selector x">
+        </div>
+        <div class="axis size">
+          <span>Loading...</span>
+        </div>
+        <div class="selector size">
+        </div>
+      </div>
+
+      <div class="stacked viewport">
+        <div class="bubbles-container">
+          <a class="bubble measure-bubble"></a>
+        </div>
+      </div>
+
+      <div class="stacked stats">
+        <div class="stats-area">
+          <span class="stats-close material-symbols-outlined">close</span>
+          <h1 class="name"></h1>
+          <h2 class="year"></h2>
+          <p class="content"></p>
+          <svg id="player-chart" width="500" height="150" style="border: 1px solid #ccc"></svg>
+        </div>
+      </div>
+    </section>
+
     <div class="stacked overlay">
       <div class="slider-area">
         <span class="material-symbols-outlined slider-controller">keyboard_arrow_left</span>
@@ -26,45 +113,12 @@
         </div>
         <span class="slider-controller material-symbols-outlined">keyboard_arrow_right</span>
       </div>
-      <div class="axis y">
-        <span>Loading...</span>
-        <span class="arrow-head"></span>
-      </div>
-      <div class="selector y">
-      </div>
-      <div class="axis x">
-        <span>Loading...</span>
-        <span class="arrow-head"></span>
-      </div>
-      <div class="selector x">
-      </div>
-      <div class="axis size">
-        <span>Loading...</span>
-      </div>
-      <div class="selector size">
-      </div>
     </div>
 
-    <div class="stacked viewport">
-      <div class="bubbles-container">
-        <a class="bubble measure-bubble"></a>
-      </div>
+    <div id="disclaimer">
+      This project is not affiliated with, maintained by, or endorsed by the National Basketball Association (NBA).
     </div>
-
-    <div class="stacked stats">
-      <div class="stats-area">
-        <span class="stats-close material-symbols-outlined">close</span>
-        <h1 class="name"></h1>
-        <h2 class="year"></h2>
-      </div>
-    </div>
-  </section>
-
-  <div id="disclaimer">
-    This project is not affiliated with, maintained by, or endorsed by the National Basketball Association (NBA).
-  </div>
+  </main>
 </body>
-
-<!-- TODO top bar with hoopviz name and link to github -->
 
 </html>

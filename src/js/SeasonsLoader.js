@@ -3,7 +3,6 @@ export class SeasonsLoader {
   #csvUrl;
 
   constructor(csvUrl, keyName) {
-    this.csvFileName = csvUrl;
     this.displayName = keyName;
     this.#csvUrl = csvUrl;
   }
@@ -54,11 +53,10 @@ export class SeasonsLoader {
   }
 
   getData(year, ...attributeKeys) {
-    const season = year.toString() + "-" + (year + 1).toString();
     const result = new Map();
 
     for (const row of this.#data) {
-      if (row.season === season) {
+      if (row.season === year.toString()) {
         const name = this.displayName(row);
         if (name) {
           const values = attributeKeys.map((parse) => parse(row));
