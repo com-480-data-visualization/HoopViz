@@ -4,12 +4,10 @@ import { SeasonsLoader } from "./SeasonsLoader.js";
 import { MetadataLoader } from "./MetadataLoader.js";
 import * as Stats from "./stats.js";
 
-// TODO set all attributes
-
 new Screens({
   containerSelector: "#screens",
   screenSelector: "#screen-select",
-  minYear: 1980,
+  minYear: 1985,
   maxYear: 2025,
   // teams BubbleMap
   leftBubbleMap: new BubbleMap({
@@ -19,17 +17,7 @@ new Screens({
     bubbleContent: (row) => row["teamAbbrev"],
     bubbleColor: (row) => row["Color1"],
     statsUpdate: Stats.updateTeamStats,
-    attributes: [
-      // display name, row to value function
-      ["Wins", (r) => parseFloat(r["win"])],
-      ["Average points", (r) => parseFloat(r["teamScore"])],
-      ["Three points %", (r) => parseFloat(r["threePointersPercentage"])],
-      ["Assists", (r) => parseFloat(r["assists"])],
-      ["Rebounds", (r) => parseFloat(r["rebounds"])],
-      ["Blocks", (r) => parseFloat(r["blocks"])],
-      ["Steals", (r) => parseFloat(r["steals"])],
-      // ["Win %", (r) => parseFloat(r["win"]) / parseFloat(r["gamesPlayed"])],
-    ],
+    attributes: Stats.TEAM_ATTRIBUTES,
   }),
   // players BubbleMap
   rightBubbleMap: new BubbleMap({
@@ -39,16 +27,6 @@ new Screens({
     bubbleContent: (row) => row["firstName"] + " " + row["lastName"],
     bubbleColor: (row) => "#005ce6",
     statsUpdate: Stats.updatePlayerStats,
-    attributes: [
-      // display name, row to value function
-      ["Wins", (r) => parseFloat(r["win"])],
-      ["Average points", (r) => parseFloat(r["points"])],
-      ["Three points %", (r) => parseFloat(r["threePointersPercentage"])],
-      ["Free throws %", (r) => parseFloat(r["freeThrowsPercentage"])],
-      ["Assists", (r) => parseFloat(r["assists"])],
-      ["Rebounds", (r) => parseFloat(r["rebounds"])],
-      ["Blocks", (r) => parseFloat(r["blocks"])],
-      ["Steals", (r) => parseFloat(r["steals"])],
-    ],
+    attributes: Stats.PLAYER_ATTRIBUTES,
   }),
 })

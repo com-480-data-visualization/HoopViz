@@ -172,7 +172,7 @@ section#players:not(.selected) {
 
 .bubbles-container {
     --transition-time: 1.3s;
-    --max-bubble-size: 15vw;
+    --max-bubble-size: 10vw;
     --pad: calc(40px + var(--max-bubble-size) / 2);
 
     height: 100%;
