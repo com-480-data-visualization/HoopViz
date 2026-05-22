@@ -1,21 +1,246 @@
-<html>
+<!DOCTYPE html>
 
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>HoopViz</title>
+  <meta name="description" content="Explore and compare NBA teams and players performance through interactive data visualizations. HoopViz displays basketball statistics using dynamic bubble charts and emphasises historical trends.">
 
   <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/889/889455.png">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0">
 
-  <link href="style.css" rel="stylesheet">
-  <link href="stats.css" rel="stylesheet">
+  <link href="css/style.css" rel="stylesheet">
+  <link href="css/stats.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/cal-heatmap/dist/cal-heatmap.css">
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://unpkg.com/cal-heatmap/dist/cal-heatmap.min.js"></script>
+
   <script type="module" src="js/main.js" defer></script>
 </head>
 
 <body>
-  <section id="teams">
+  <nav>
+    <h1>HoopViz 🏀</h1>
+    <div class="screen-selector" id="screen-select">
+      <span class="selected" data-target-id="teams">Teams</span>
+      <span data-target-id="players">Players</span>
+    </div>
+    <div class="screen-selector" id="game-type-select">
+      <span class="selected" data-game-type="Regular Season">Regular</span>
+      <span data-game-type="Playoffs">Playoffs</span>
+    </div>
+    <a class="github" href="https://github.com/com-480-data-visualization/HoopViz" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.simpleicons.org/github/white" alt="GitHub Repository" width="32" height="32">
+    </a>
+  </nav>
+  <main id="screens">
+    <section id="teams" class="selected">
+      <div class="stacked overlay">
+        <div class="axis y">
+          <span>Loading...</span>
+          <span class="arrow-head"></span>
+        </div>
+        <div class="selector y">
+        </div>
+        <div class="axis x">
+          <span>Loading...</span>
+          <span class="arrow-head"></span>
+        </div>
+        <div class="selector x">
+        </div>
+        <div class="axis size">
+          <span>Loading...</span>
+        </div>
+        <div class="selector size">
+        </div>
+      </div>
+
+      <div class="stacked viewport">
+        <div class="bubbles-container">
+          <a class="bubble measure-bubble"></a>
+        </div>
+      </div>
+
+      <div class="stacked stats">
+        <div class="stats-area">
+          <h1 class="name"></h1>
+          <h2 class="year"></h2>
+          <p class="content"></p>
+
+          <div class="stats-layout">
+            <div class="team-identity-card info-card">
+              <img class="stats-logo" alt="Team logo" hidden>
+              <div class="team-identity-info">
+                <h2 class="team-fullname"></h2>
+                <div class="team-record-list">
+                  <div class="summary-item">
+                    <span class="summary-label">Regular season</span>
+                    <span class="summary-value summary-rank-regular">--</span>
+                  </div>
+                  <div class="summary-item">
+                    <span class="summary-label">Playoffs</span>
+                    <span class="summary-value summary-rank-playoffs">--</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="radar-card">
+              <div class="radar-legend">
+                <span class="legend-item team">Selected team</span>
+                <span class="legend-item average">Teams average</span>
+              </div>
+              <div class="radar" id="team-radar"></div>
+            </div>
+            <div class="team-season-stats-col">
+              <div class="player-stats-title">Season Stats</div>
+              <div class="team-averages"></div>
+            </div>
+            <div class="evolution">
+              <div class="evolution-header">
+                <span class="evolution-title">Season evolution</span>
+                <div class="evolution-controls">
+                  <div class="radar-labels evo-ctrl-wrap">
+                    <div class="radar-label evo-ctrl-btn evo-ctrl-a">
+                      <span class="evo-label-text">Points</span>
+                    </div>
+                    <div class="radar-selector evolution-chart-selector evo-selector-a"></div>
+                  </div>
+                  <div class="radar-labels evo-ctrl-wrap">
+                    <div class="radar-label evo-ctrl-btn evo-ctrl-b">
+                      <span class="evo-label-text">Assists</span>
+                    </div>
+                    <div class="radar-selector evolution-chart-selector evo-selector-b"></div>
+                  </div>
+                </div>
+              </div>
+              <svg class="evolution-chart" id="team-evolution-chart" width="480" height="180"></svg>
+            </div>
+            <div class="stats-right">
+              <div class="matchup-card win">
+                <div class="matchup-title">Best opponents</div>
+                <div class="matchup-grid">
+                  <div class="matchup-slot"></div>
+                  <div class="matchup-slot"></div>
+                  <div class="matchup-slot"></div>
+                  <div class="matchup-slot"></div>
+                </div>
+              </div>
+              <div class="matchup-card lose">
+                <div class="matchup-title">Worst opponents</div>
+                <div class="matchup-grid">
+                  <div class="matchup-slot"></div>
+                  <div class="matchup-slot"></div>
+                  <div class="matchup-slot"></div>
+                  <div class="matchup-slot"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="players">
+      <div class="stacked overlay">
+        <div class="axis y">
+          <span>Loading...</span>
+          <span class="arrow-head"></span>
+        </div>
+        <div class="selector y">
+        </div>
+        <div class="axis x">
+          <span>Loading...</span>
+          <span class="arrow-head"></span>
+        </div>
+        <div class="selector x">
+        </div>
+        <div class="axis size">
+          <span>Loading...</span>
+        </div>
+        <div class="selector size">
+        </div>
+      </div>
+
+      <div class="stacked viewport">
+        <div class="bubbles-container">
+          <a class="bubble measure-bubble"></a>
+        </div>
+      </div>
+
+      <div class="stacked stats">
+        <div class="stats-area">
+          <div class="player-main-team-logos-bar"></div>
+          <div class="player-panel">
+            <div class="player-left-col">
+              <div class="player-top">
+                <div class="player-headshot-card">
+                  <img class="player-headshot" alt="Player photo" hidden>
+                  <h1 class="name player-name-label"></h1>
+                  <div class="player-awards-container"></div>
+                </div>
+                <div class="player-radar-card">
+                  <div class="radar-legend player-radar-legend">
+                    <span class="legend-item team">Selected player</span>
+                    <span class="legend-item average">Players average</span>
+                  </div>
+                  <div class="radar" id="player-radar"></div>
+                </div>
+                <div class="player-stats-col">
+                  <div class="player-stats-title">Season Stats</div>
+                  <div class="player-averages"></div>
+                </div>
+              </div>
+              <div class="player-history-card">
+                <div class="player-card-title">Game History</div>
+                <div class="games-chart-wrapper">
+                  <svg id="player-games-chart"></svg>
+                  <div class="game-metric-selector-wrapper">
+                    <div class="game-metric-selector">
+                      <span id="game-metric-display">Points</span>
+                      <div class="game-metric-dropdown">
+                        <span data-value="points">Points</span>
+                        <span data-value="assists">Assists</span>
+                        <span data-value="rebounds">Rebounds</span>
+                        <span data-value="blocks">Blocks</span>
+                        <span data-value="steals">Steals</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="player-shot-chart-card">
+              <div class="shot-chart-filters">
+                <div class="shot-filter-group">
+                  <span class="shot-filter-label">Result</span>
+                  <div class="shot-filter-pills" id="shot-filter-made">
+                    <span class="shot-filter-btn active" data-value="all">All</span>
+                    <span class="shot-filter-btn" data-value="made">Made</span>
+                    <span class="shot-filter-btn" data-value="missed">Missed</span>
+                  </div>
+                </div>
+                <div class="shot-filter-group">
+                  <span class="shot-filter-label">Shot Value</span>
+                  <div class="shot-filter-pills" id="shot-filter-value">
+                    <span class="shot-filter-btn active" data-value="all">All</span>
+                    <span class="shot-filter-btn" data-value="2">2PT</span>
+                    <span class="shot-filter-btn" data-value="3">3PT</span>
+                  </div>
+                </div>
+              </div>
+              <svg id="player-chart"></svg>
+              <p class="shot-chart-attribution">Court diagram: <a href="https://www.snater.com" target="_blank" rel="noopener">snater.com</a> (CC BY-SA 4.0) via Wikimedia Commons. Modified.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div class="stacked stats-close-layer">
+      <span class="stats-close material-symbols-outlined">close</span>
+    </div>
+
     <div class="stacked overlay">
       <div class="slider-area">
         <span class="material-symbols-outlined slider-controller">keyboard_arrow_left</span>
@@ -26,45 +251,12 @@
         </div>
         <span class="slider-controller material-symbols-outlined">keyboard_arrow_right</span>
       </div>
-      <div class="axis y">
-        <span>Loading...</span>
-        <span class="arrow-head"></span>
-      </div>
-      <div class="selector y">
-      </div>
-      <div class="axis x">
-        <span>Loading...</span>
-        <span class="arrow-head"></span>
-      </div>
-      <div class="selector x">
-      </div>
-      <div class="axis size">
-        <span>Loading...</span>
-      </div>
-      <div class="selector size">
-      </div>
     </div>
 
-    <div class="stacked viewport">
-      <div class="bubbles-container">
-        <a class="bubble measure-bubble"></a>
-      </div>
-    </div>
-
-    <div class="stacked stats">
-      <div class="stats-area">
-        <span class="stats-close material-symbols-outlined">close</span>
-        <h1 class="name"></h1>
-        <h2 class="year"></h2>
-      </div>
-    </div>
-  </section>
-
+  </main>
   <div id="disclaimer">
     This project is not affiliated with, maintained by, or endorsed by the National Basketball Association (NBA).
   </div>
 </body>
-
-<!-- TODO top bar with hoopviz name and link to github -->
 
 </html>

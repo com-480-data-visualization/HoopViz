@@ -1,0 +1,771 @@
+personId,season,gameId,gameDateTimeEst,playerteamCity,playerteamName,opponentteamCity,opponentteamName,gameType,home,win,numMinutes,points,assists,reboundsTotal,reboundsDefensive,reboundsOffensive,blocks,steals,turnovers,foulsPersonal,plusMinusPoints,fieldGoalsAttempted,fieldGoalsMade,fieldGoalsPercentage,threePointersAttempted,threePointersMade,threePointersPercentage,freeThrowsAttempted,freeThrowsMade,freeThrowsPercentage,homeScore,awayScore,attendance
+77414,1953,25300002,1953-10-30 19:00:00,Minneapolis,Lakers,Milwaukee,Hawks,Regular Season,0,0,0.0,3,0,0,0,0,0,0,0,4,0,0,0,0.0,0,0,0.0,6,3,0.5,69,59,0
+77414,1953,25300005,1953-10-31 19:00:00,Minneapolis,Lakers,New York,Knicks,Regular Season,0,0,0.0,5,0,0,0,0,0,0,0,2,0,0,2,0.0,0,0,0.0,1,1,1.0,91,67,0
+77414,1953,25300006,1953-11-01 19:00:00,Minneapolis,Lakers,Boston,Celtics,Regular Season,0,1,7.0,4,0,0,0,0,0,0,0,0,0,0,2,0.0,0,0,0.0,1,0,0.0,79,84,0
+77414,1953,25300001,1953-11-05 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Regular Season,0,1,14.0,7,0,4,0,0,0,0,0,1,0,5,3,0.599,0,0,0.0,2,1,0.5,65,77,0
+77414,1953,25300017,1953-11-07 19:00:00,Minneapolis,Lakers,New York,Knicks,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,2,0,5,0,0.0,0,0,0.0,2,0,0.0,70,62,0
+77414,1953,25300022,1953-11-10 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,0,0,0.0,5,0,0,0,0,0,0,0,5,0,0,2,0.0,0,0,0.0,2,1,0.5,78,62,0
+77414,1953,25300027,1953-11-13 19:00:00,Minneapolis,Lakers,Milwaukee,Hawks,Regular Season,0,1,0.0,1,0,0,0,0,0,0,0,4,0,0,0,0.0,0,0,0.0,2,1,0.5,84,92,0
+77414,1953,25300028,1953-11-14 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,0,0,0.0,5,0,0,0,0,0,0,0,1,0,0,2,0.0,0,0,0.0,1,1,1.0,98,91,0
+77414,1953,25300033,1953-11-15 19:00:00,Minneapolis,Lakers,Boston,Celtics,Regular Season,1,1,0.0,9,0,0,0,0,0,0,0,4,0,0,4,0.0,0,0,0.0,1,1,1.0,89,74,0
+77414,1953,25300037,1953-11-17 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,1,1,0.0,19,0,0,0,0,0,0,0,0,0,0,8,0.0,0,0,0.0,5,3,0.599,83,66,0
+77414,1953,25300041,1953-11-19 19:00:00,Minneapolis,Lakers,Philadelphia,Warriors,Regular Season,0,1,0.0,11,0,8,0,0,0,0,0,5,0,12,5,0.416,0,0,0.0,1,1,1.0,79,107,0
+77414,1953,25300046,1953-11-21 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,1,1,0.0,3,0,0,0,0,0,0,0,3,0,4,1,0.25,0,0,0.0,2,1,0.5,76,70,0
+77414,1953,25300051,1953-11-22 19:00:00,Minneapolis,Lakers,Milwaukee,Hawks,Regular Season,1,1,0.0,2,0,0,0,0,0,0,0,4,0,0,1,0.0,0,0,0.0,1,0,0.0,57,55,0
+77414,1953,25300059,1953-11-26 19:00:00,Minneapolis,Lakers,Philadelphia,Warriors,Regular Season,1,1,0.0,2,0,0,0,0,0,0,0,5,0,4,1,0.25,0,0,0.0,1,0,0.0,88,80,0
+77414,1953,25300067,1953-11-29 19:00:00,Minneapolis,Lakers,Boston,Celtics,Regular Season,1,1,0.0,2,0,0,0,0,0,0,0,3,0,0,1,0.0,0,0,0.0,0,0,0.0,95,82,0
+77414,1953,25300075,1953-12-03 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Regular Season,1,1,16.0,13,1,8,0,0,0,0,0,2,0,12,6,0.5,0,0,0.0,1,1,1.0,87,74,0
+77414,1953,25300077,1953-12-05 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Regular Season,1,1,12.0,11,0,4,0,0,0,0,0,6,0,6,3,0.5,0,0,0.0,6,5,0.832,90,80,0
+77414,1953,25300093,1953-12-12 19:00:00,Minneapolis,Lakers,New York,Knicks,Regular Season,1,1,0.0,13,0,0,0,0,0,0,0,1,0,12,6,0.5,0,0,0.0,2,1,0.5,71,67,0
+77414,1953,25300096,1953-12-13 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,0,0,0.0,8,0,0,0,0,0,0,0,4,0,11,3,0.273,0,0,0.0,3,2,0.667,87,70,0
+77414,1953,25300098,1953-12-15 19:00:00,Minneapolis,Lakers,New York,Knicks,Regular Season,0,0,0.0,1,0,0,0,0,0,0,0,3,0,0,0,0.0,0,0,0.0,1,1,1.0,80,79,0
+77414,1953,25300102,1953-12-16 19:00:00,Minneapolis,Lakers,Milwaukee,Hawks,Regular Season,1,1,0.0,1,0,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0.0,1,1,1.0,69,63,0
+77414,1953,25300106,1953-12-19 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,0,1,0.0,13,0,0,0,0,0,0,0,3,0,0,6,0.0,0,0,0.0,2,1,0.5,78,91,0
+77414,1953,25300110,1953-12-20 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Regular Season,0,0,16.0,3,1,6,0,0,0,0,0,5,0,5,1,0.2,0,0,0.0,1,1,1.0,81,76,0
+77414,1953,25300120,1953-12-26 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,1,1,0.0,8,0,0,0,0,0,0,0,2,0,11,4,0.363,0,0,0.0,0,0,0.0,77,71,0
+77414,1953,25300123,1953-12-27 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,0,1,0.0,3,0,0,0,0,0,0,0,3,0,0,1,0.0,0,0,0.0,1,1,1.0,75,79,0
+77414,1953,25300129,1953-12-30 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,1,0,0.0,15,0,0,0,0,0,0,0,3,0,8,5,0.625,0,0,0.0,5,5,1.0,80,97,0
+77414,1953,25300139,1954-01-02 19:00:00,Minneapolis,Lakers,New York,Knicks,Regular Season,1,1,0.0,11,0,0,0,0,0,0,0,2,0,8,4,0.5,0,0,0.0,4,3,0.75,78,74,0
+77414,1953,25300144,1954-01-04 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,0,0,0.0,3,0,0,0,0,0,0,0,2,0,0,1,0.0,0,0,0.0,1,1,1.0,85,84,0
+77414,1953,25300151,1954-01-07 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,1,1,0.0,8,0,0,0,0,0,0,0,4,0,7,3,0.428,0,0,0.0,4,2,0.5,89,71,0
+77414,1953,25300156,1954-01-09 19:00:00,Minneapolis,Lakers,Milwaukee,Hawks,Regular Season,0,1,0.0,17,0,0,0,0,0,0,0,5,0,0,8,0.0,0,0,0.0,2,1,0.5,67,78,0
+77414,1953,25300157,1954-01-10 19:00:00,Minneapolis,Lakers,Boston,Celtics,Regular Season,1,1,0.0,3,0,0,0,0,0,0,0,4,0,3,1,0.333,0,0,0.0,2,1,0.5,99,85,0
+77414,1953,25300163,1954-01-13 19:00:00,Minneapolis,Lakers,Boston,Celtics,Regular Season,0,0,23.0,8,1,0,0,0,0,0,0,3,0,11,3,0.273,0,0,0.0,2,2,1.0,88,84,0
+77414,1953,25300168,1954-01-14 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Regular Season,0,0,28.0,8,0,9,0,0,0,0,0,2,0,11,2,0.181,0,0,0.0,7,4,0.57,96,71,0
+77414,1953,25300172,1954-01-16 19:00:00,Minneapolis,Lakers,Milwaukee,Hawks,Regular Season,1,0,0.0,12,0,0,0,0,0,0,0,3,0,7,5,0.713,0,0,0.0,2,2,1.0,58,64,0
+77414,1953,25300174,1954-01-17 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,0,0,0.0,6,0,0,0,0,0,0,0,4,0,0,3,0.0,0,0,0.0,0,0,0.0,86,83,0
+77414,1953,25300177,1954-01-18 19:00:00,Minneapolis,Lakers,Milwaukee,Hawks,Regular Season,1,1,0.0,16,0,0,0,0,0,0,0,2,0,0,8,0.0,0,0,0.0,0,0,0.0,91,72,0
+77414,1953,25300183,1954-01-23 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,1,1,0.0,11,0,0,0,0,0,0,0,1,0,7,5,0.713,0,0,0.0,1,1,1.0,75,72,0
+77414,1953,25300192,1954-01-26 19:00:00,Minneapolis,Lakers,Milwaukee,Hawks,Regular Season,0,1,0.0,14,0,0,0,0,0,0,0,4,0,0,7,0.0,0,0,0.0,0,0,0.0,69,84,0
+77414,1953,25300204,1954-01-30 19:00:00,Minneapolis,Lakers,Milwaukee,Hawks,Regular Season,1,1,0.0,6,0,0,0,0,0,0,0,5,0,6,2,0.333,0,0,0.0,2,2,1.0,80,64,0
+77414,1953,25300207,1954-01-31 19:00:00,Minneapolis,Lakers,Boston,Celtics,Regular Season,1,1,0.0,14,0,0,0,0,0,0,0,3,0,14,5,0.356,0,0,0.0,6,4,0.667,82,67,0
+77414,1953,25300208,1954-02-02 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,0,1,0.0,8,0,0,0,0,0,0,0,3,0,0,2,0.0,0,0,0.0,6,4,0.667,78,87,0
+77414,1953,25300211,1954-02-03 19:00:00,Minneapolis,Lakers,New York,Knicks,Regular Season,1,1,0.0,15,0,0,0,0,0,0,0,3,0,0,5,0.0,0,0,0.0,5,5,1.0,91,79,0
+77414,1953,25300218,1954-02-06 19:00:00,Minneapolis,Lakers,Philadelphia,Warriors,Regular Season,1,1,0.0,7,0,0,0,0,0,0,0,0,0,8,3,0.375,0,0,0.0,2,1,0.5,97,94,0
+77414,1953,25300222,1954-02-07 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,0,0,0.0,6,0,0,0,0,0,0,0,4,0,0,3,0.0,0,0,0.0,0,0,0.0,90,83,0
+77414,1953,25300226,1954-02-08 19:00:00,Minneapolis,Lakers,Philadelphia,Warriors,Regular Season,1,1,0.0,13,0,0,0,0,0,0,0,4,0,10,5,0.5,0,0,0.0,3,3,1.0,106,91,0
+77414,1953,25300229,1954-02-09 19:00:00,Minneapolis,Lakers,Philadelphia,Warriors,Regular Season,1,1,0.0,8,0,0,0,0,0,0,0,1,0,6,4,0.667,0,0,0.0,0,0,0.0,70,67,0
+77414,1953,25300239,1954-02-12 19:00:00,Minneapolis,Lakers,Milwaukee,Hawks,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,2,0,3,0,0.0,0,0,0.0,2,0,0.0,71,62,0
+77414,1953,25300242,1954-02-13 19:00:00,Minneapolis,Lakers,Philadelphia,Warriors,Regular Season,1,1,0.0,6,0,0,0,0,0,0,0,1,0,0,2,0.0,0,0,0.0,2,2,1.0,86,77,0
+77414,1953,25300246,1954-02-14 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,1,1,0.0,15,0,0,0,0,0,0,0,2,0,11,5,0.455,0,0,0.0,5,5,1.0,105,77,0
+77414,1953,25300249,1954-02-16 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,1,1,0.0,10,0,0,0,0,0,0,0,3,0,8,5,0.625,0,0,0.0,0,0,0.0,85,79,0
+77414,1953,25300253,1954-02-18 19:00:00,Minneapolis,Lakers,Boston,Celtics,Regular Season,1,0,0.0,12,0,0,0,0,0,0,0,3,0,11,6,0.545,0,0,0.0,1,0,0.0,92,105,0
+77414,1953,25300259,1954-02-20 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Regular Season,1,1,0.0,13,0,0,0,0,0,0,0,0,0,14,4,0.285,0,0,0.0,6,5,0.832,83,68,0
+77414,1953,25300263,1954-02-21 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Regular Season,0,0,31.0,14,3,7,0,0,0,0,0,4,0,0,7,0.0,0,0,0.0,1,0,0.0,100,73,0
+77414,1953,25300267,1954-02-22 19:00:00,Minneapolis,Lakers,Philadelphia,Warriors,Regular Season,0,0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,1,1,1.0,79,72,0
+77414,1953,25300268,1954-02-23 19:00:00,Minneapolis,Lakers,New York,Knicks,Regular Season,0,1,0.0,17,0,0,0,0,0,0,0,4,0,0,6,0.0,0,0,0.0,8,5,0.625,82,100,0
+77414,1953,25300274,1954-02-25 19:00:00,Minneapolis,Lakers,Philadelphia,Warriors,Regular Season,0,0,0.0,4,0,7,0,0,0,0,0,1,0,0,1,0.0,0,0,0.0,5,2,0.4,81,72,0
+77414,1953,25300283,1954-02-28 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,0,0,0.0,15,0,0,0,0,0,0,0,6,0,0,7,0.0,0,0,0.0,1,1,1.0,94,77,0
+77414,1953,25300287,1954-03-02 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Regular Season,1,1,0.0,11,0,0,0,0,0,0,0,1,0,9,5,0.556,0,0,0.0,1,1,1.0,91,87,0
+77414,1953,25300295,1954-03-05 19:00:00,Minneapolis,Lakers,Boston,Celtics,Regular Season,0,0,23.0,6,2,0,0,0,0,0,0,3,0,9,2,0.222,0,0,0.0,2,2,1.0,128,106,0
+77414,1953,25300300,1954-03-06 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,0,0,0.0,7,0,0,0,0,0,0,0,2,0,8,2,0.25,0,0,0.0,4,3,0.75,74,59,0
+77414,1953,25300304,1954-03-07 19:00:00,Minneapolis,Lakers,Milwaukee,Hawks,Regular Season,1,1,0.0,3,0,0,0,0,0,0,0,2,0,5,1,0.2,0,0,0.0,3,1,0.333,65,63,0
+77414,1953,25300309,1954-03-09 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,0,0,0.0,9,0,0,0,0,0,0,0,3,0,0,4,0.0,0,0,0.0,1,1,1.0,70,61,0
+77414,1953,25300311,1954-03-10 19:00:00,Minneapolis,Lakers,New York,Knicks,Regular Season,1,0,0.0,8,0,0,0,0,0,0,0,4,0,8,3,0.375,0,0,0.0,2,2,1.0,76,85,0
+77414,1953,25300319,1954-03-13 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,1,1,0.0,9,0,0,0,0,0,0,0,2,0,10,4,0.4,0,0,0.0,1,1,1.0,93,66,0
+77414,1953,45300951,1954-03-17 19:00:00,Minneapolis,Lakers,Rochester,Royals,Playoffs,1,1,0.0,18,0,0,0,0,0,0,0,4,0,9,8,0.889,0,0,0.0,4,2,0.5,109,88,0
+77414,1953,45300961,1954-03-18 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Playoffs,0,1,0.0,7,0,0,0,0,0,0,0,5,0,0,3,0.0,0,0,0.0,3,1,0.333,85,90,0
+77414,1953,45300962,1954-03-20 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Playoffs,1,1,0.0,12,0,0,0,0,0,0,0,4,0,10,4,0.4,0,0,0.0,4,4,1.0,78,73,0
+77414,1953,45300311,1954-03-24 19:00:00,Minneapolis,Lakers,Rochester,Royals,Playoffs,1,1,0.0,6,0,0,0,0,0,0,0,4,0,8,3,0.375,0,0,0.0,4,0,0.0,89,76,0
+77414,1953,45300312,1954-03-27 19:00:00,Minneapolis,Lakers,Rochester,Royals,Playoffs,0,0,0.0,4,0,0,0,0,0,0,0,3,0,0,1,0.0,0,0,0.0,3,2,0.667,74,73,0
+77414,1953,45300313,1954-03-28 19:00:00,Minneapolis,Lakers,Rochester,Royals,Playoffs,1,1,0.0,16,0,0,0,0,0,0,0,2,0,15,5,0.333,0,0,0.0,10,6,0.599,82,72,0
+77414,1953,45300411,1954-03-31 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Playoffs,1,1,21.0,16,1,8,0,0,0,0,0,2,0,14,7,0.5,0,0,0.0,3,2,0.667,79,68,0
+77414,1953,45300002,1954-04-03 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Playoffs,1,0,25.0,11,1,10,0,0,0,0,0,2,0,12,4,0.333,0,0,0.0,4,3,0.75,60,62,0
+77414,1953,45300413,1954-04-04 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Playoffs,0,1,13.0,9,0,8,0,0,0,0,0,1,0,7,3,0.428,0,0,0.0,3,3,1.0,67,81,0
+77414,1953,45300414,1954-04-08 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Playoffs,0,0,19.0,7,0,4,0,0,0,0,0,1,0,12,3,0.25,0,0,0.0,3,1,0.333,80,69,0
+77414,1953,45300415,1954-04-10 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Playoffs,0,1,19.0,14,0,13,0,0,0,0,0,3,0,15,6,0.4,0,0,0.0,5,2,0.4,73,84,0
+77414,1953,45300416,1954-04-11 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Playoffs,1,0,0.0,2,0,0,0,0,0,0,0,2,0,4,1,0.25,0,0,0.0,2,0,0.0,63,65,0
+77414,1953,45300417,1954-04-12 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Playoffs,1,1,29.0,14,0,4,0,0,0,0,0,4,0,8,6,0.75,0,0,0.0,6,2,0.333,87,80,0
+77414,1954,25400002,1954-10-30 19:00:00,Minneapolis,Lakers,New York,Knicks,Regular Season,0,0,0.0,18,0,0,0,0,0,0,0,5,0,0,8,0.0,0,0,0.0,4,2,0.5,94,83,0
+77414,1954,25400004,1954-10-31 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Regular Season,0,1,0.0,22,1,14,0,0,0,0,0,6,0,0,7,0.0,0,0,0.0,10,8,0.8,94,97,0
+77414,1954,25400009,1954-11-06 19:00:00,Minneapolis,Lakers,Milwaukee,Hawks,Regular Season,1,1,0.0,18,0,0,0,0,0,0,0,4,0,0,7,0.0,0,0,0.0,6,4,0.667,79,67,0
+77414,1954,25400010,1954-11-07 19:00:00,Minneapolis,Lakers,New York,Knicks,Regular Season,1,0,0.0,16,0,0,0,0,0,0,0,5,0,27,7,0.259,0,0,0.0,3,2,0.667,93,103,0
+77414,1954,25400020,1954-11-14 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Regular Season,1,1,16.0,16,0,6,0,0,0,0,0,3,0,13,7,0.538,0,0,0.0,4,2,0.5,99,92,0
+77414,1954,25400036,1954-11-25 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,1,1,0.0,10,0,0,0,0,0,0,0,5,0,18,5,0.278,0,0,0.0,1,0,0.0,95,84,0
+77414,1954,25400038,1954-11-27 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,0,0,0.0,5,0,0,0,0,0,0,0,6,0,0,2,0.0,0,0,0.0,2,1,0.5,97,81,0
+77414,1954,25400040,1954-11-28 19:00:00,Minneapolis,Lakers,Boston,Celtics,Regular Season,1,1,0.0,29,0,0,0,0,0,0,0,5,0,22,12,0.545,0,0,0.0,6,5,0.832,115,108,0
+77414,1954,25400045,1954-11-30 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,0,0,0.0,16,0,0,0,0,0,0,0,4,0,0,7,0.0,0,0,0.0,4,2,0.5,92,90,0
+77414,1954,25400048,1954-12-01 19:00:00,Minneapolis,Lakers,Philadelphia,Warriors,Regular Season,0,1,0.0,13,1,12,0,0,0,0,0,5,0,0,6,0.0,0,0,0.0,2,1,0.5,88,91,0
+77414,1954,25400050,1954-12-02 19:00:00,Minneapolis,Lakers,Milwaukee,Hawks,Regular Season,0,0,0.0,29,0,0,0,0,0,0,0,4,0,0,11,0.0,0,0,0.0,8,7,0.875,117,108,0
+77414,1954,25400056,1954-12-04 19:00:00,Minneapolis,Lakers,Milwaukee,Hawks,Regular Season,0,0,0.0,18,0,0,0,0,0,0,0,6,0,0,7,0.0,0,0,0.0,8,4,0.5,95,88,0
+77414,1954,25400058,1954-12-05 19:00:00,Minneapolis,Lakers,Milwaukee,Hawks,Regular Season,1,1,0.0,13,0,0,0,0,0,0,0,6,0,15,5,0.333,0,0,0.0,6,3,0.5,104,102,0
+77414,1954,25400062,1954-12-07 19:00:00,Minneapolis,Lakers,New York,Knicks,Regular Season,0,0,0.0,24,0,0,0,0,0,0,0,2,0,0,11,0.0,0,0,0.0,2,2,1.0,97,89,0
+77414,1954,25400065,1954-12-08 19:00:00,Minneapolis,Lakers,Boston,Celtics,Regular Season,0,1,39.0,24,2,0,0,0,0,0,0,5,0,23,9,0.391,0,0,0.0,7,6,0.856,99,101,0
+77414,1954,25400073,1954-12-11 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,0,1,0.0,12,0,0,0,0,0,0,0,4,0,0,6,0.0,0,0,0.0,0,0,0.0,83,91,0
+77414,1954,25400077,1954-12-12 19:00:00,Minneapolis,Lakers,New York,Knicks,Regular Season,1,1,0.0,22,0,0,0,0,0,0,0,4,0,0,8,0.0,0,0,0.0,6,6,1.0,80,73,0
+77414,1954,25400078,1954-12-14 19:00:00,Minneapolis,Lakers,Boston,Celtics,Regular Season,0,0,0.0,18,0,0,0,0,0,0,0,4,0,0,7,0.0,0,0,0.0,8,4,0.5,115,108,0
+77414,1954,25400087,1954-12-18 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Regular Season,1,1,40.0,26,2,15,0,0,0,0,0,4,0,19,9,0.473,0,0,0.0,9,8,0.889,86,83,0
+77414,1954,25400088,1954-12-19 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Regular Season,0,0,29.0,16,2,8,0,0,0,0,0,4,0,0,6,0.0,0,0,0.0,4,4,1.0,108,93,0
+77414,1954,25400095,1954-12-25 19:00:00,Minneapolis,Lakers,Philadelphia,Warriors,Regular Season,1,1,0.0,16,0,0,0,0,0,0,0,3,0,20,6,0.299,0,0,0.0,9,4,0.444,99,91,0
+77414,1954,25400099,1954-12-26 19:00:00,Minneapolis,Lakers,Boston,Celtics,Regular Season,1,1,0.0,16,0,0,0,0,0,0,0,2,0,15,6,0.4,0,0,0.0,5,4,0.8,87,82,0
+77414,1954,25400102,1954-12-29 19:00:00,Minneapolis,Lakers,Boston,Celtics,Regular Season,0,1,0.0,24,0,0,0,0,0,0,0,4,0,13,8,0.614,0,0,0.0,9,8,0.889,118,129,0
+77414,1954,25400105,1954-12-30 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,0,0,0.0,15,0,0,0,0,0,0,0,2,0,12,5,0.416,0,0,0.0,11,5,0.455,93,76,0
+77414,1954,25400107,1954-12-31 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,0,1,0.0,27,0,0,0,0,0,0,0,4,0,0,8,0.0,0,0,0.0,13,11,0.845,91,103,0
+77414,1954,25400112,1955-01-02 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,1,0,0.0,20,0,0,0,0,0,0,0,2,0,0,7,0.0,0,0,0.0,7,6,0.856,100,102,0
+77414,1954,25400116,1955-01-03 19:00:00,Minneapolis,Lakers,Philadelphia,Warriors,Regular Season,1,1,0.0,21,0,0,0,0,0,0,0,2,0,0,8,0.0,0,0,0.0,8,5,0.625,76,74,0
+77414,1954,25400117,1955-01-04 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,0,0,0.0,11,0,0,0,0,0,0,0,3,0,0,5,0.0,0,0,0.0,2,1,0.5,93,92,0
+77414,1954,25400121,1955-01-05 19:00:00,Minneapolis,Lakers,Philadelphia,Warriors,Regular Season,0,0,0.0,7,0,7,0,0,0,0,0,5,0,9,3,0.333,0,0,0.0,2,1,0.5,106,85,0
+77414,1954,25400122,1955-01-06 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Regular Season,0,1,23.0,16,1,6,0,0,0,0,0,4,0,0,7,0.0,0,0,0.0,3,2,0.667,106,117,0
+77414,1954,25400128,1955-01-08 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Regular Season,1,0,32.0,17,0,14,0,0,0,0,0,3,0,20,8,0.4,0,0,0.0,3,1,0.333,97,100,0
+77414,1954,25400131,1955-01-09 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,0,0,0.0,18,0,0,0,0,0,0,0,6,0,0,5,0.0,0,0,0.0,10,8,0.8,89,86,0
+77414,1954,25400136,1955-01-11 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Regular Season,1,1,37.0,19,0,11,0,0,0,0,0,2,0,0,6,0.0,0,0,0.0,12,7,0.582,93,82,0
+77414,1954,25400137,1955-01-12 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,0,1,0.0,23,0,0,0,0,0,0,0,2,0,0,7,0.0,0,0,0.0,9,9,1.0,88,102,0
+77414,1954,25400139,1955-01-13 19:00:00,Minneapolis,Lakers,Philadelphia,Warriors,Regular Season,0,0,0.0,15,2,22,0,0,0,0,0,3,0,20,6,0.299,0,0,0.0,5,3,0.599,102,96,0
+77414,1954,25400141,1955-01-14 19:00:00,Minneapolis,Lakers,Boston,Celtics,Regular Season,0,0,0.0,24,0,0,0,0,0,0,0,1,0,0,11,0.0,0,0,0.0,3,2,0.667,100,95,0
+77414,1954,25400144,1955-01-15 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,0,0,0.0,12,0,0,0,0,0,0,0,2,0,0,4,0.0,0,0,0.0,5,4,0.8,93,90,0
+77414,1954,25400148,1955-01-16 19:00:00,Minneapolis,Lakers,Philadelphia,Warriors,Regular Season,1,1,0.0,21,0,0,0,0,0,0,0,4,0,0,7,0.0,0,0,0.0,8,7,0.875,106,98,0
+77414,1954,25400154,1955-01-19 19:00:00,Minneapolis,Lakers,Milwaukee,Hawks,Regular Season,1,1,0.0,37,0,0,0,0,0,0,0,5,0,0,15,0.0,0,0,0.0,10,7,0.699,95,81,0
+77414,1954,25400155,1955-01-20 19:00:00,Minneapolis,Lakers,Milwaukee,Hawks,Regular Season,1,1,0.0,23,0,0,0,0,0,0,0,3,0,0,10,0.0,0,0,0.0,4,3,0.75,97,90,0
+77414,1954,25400157,1955-01-21 19:00:00,Minneapolis,Lakers,Milwaukee,Hawks,Regular Season,1,1,0.0,20,0,0,0,0,0,0,0,4,0,0,7,0.0,0,0,0.0,9,6,0.667,100,92,0
+77414,1954,25400165,1955-01-23 19:00:00,Minneapolis,Lakers,Milwaukee,Hawks,Regular Season,1,1,0.0,16,0,0,0,0,0,0,0,3,0,0,6,0.0,0,0,0.0,8,4,0.5,82,79,0
+77414,1954,25400174,1955-01-27 19:00:00,Minneapolis,Lakers,Milwaukee,Hawks,Regular Season,0,0,0.0,17,0,0,0,0,0,0,0,4,0,0,6,0.0,0,0,0.0,7,5,0.713,85,79,0
+77414,1954,25400178,1955-01-29 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,1,1,0.0,30,0,0,0,0,0,0,0,1,0,19,12,0.632,0,0,0.0,6,6,1.0,100,91,0
+77414,1954,25400180,1955-01-30 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,0,0,0.0,14,0,0,0,0,0,0,0,4,0,0,6,0.0,0,0,0.0,3,2,0.667,99,92,0
+77414,1954,25400186,1955-02-02 19:00:00,Minneapolis,Lakers,New York,Knicks,Regular Season,1,1,0.0,13,0,0,0,0,0,0,0,4,0,15,6,0.4,0,0,0.0,1,1,1.0,96,81,0
+77414,1954,25400190,1955-02-03 19:00:00,Minneapolis,Lakers,New York,Knicks,Regular Season,1,1,0.0,19,0,0,0,0,0,0,0,5,0,0,9,0.0,0,0,0.0,2,1,0.5,90,83,0
+77414,1954,25400196,1955-02-05 19:00:00,Minneapolis,Lakers,Milwaukee,Hawks,Regular Season,1,1,0.0,18,0,0,0,0,0,0,0,4,0,0,9,0.0,0,0,0.0,0,0,0.0,103,87,0
+77414,1954,25400198,1955-02-06 19:00:00,Minneapolis,Lakers,Milwaukee,Hawks,Regular Season,1,0,0.0,30,0,0,0,0,0,0,0,4,0,14,10,0.713,0,0,0.0,15,10,0.667,99,101,0
+77414,1954,25400201,1955-02-08 19:00:00,Minneapolis,Lakers,New York,Knicks,Regular Season,0,0,0.0,27,0,0,0,0,0,0,0,2,0,0,11,0.0,0,0,0.0,7,5,0.713,98,95,0
+77414,1954,25400204,1955-02-09 19:00:00,Minneapolis,Lakers,New York,Knicks,Regular Season,0,0,0.0,14,0,0,0,0,0,0,0,3,0,0,6,0.0,0,0,0.0,5,2,0.4,118,112,0
+77414,1954,25400208,1955-02-10 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Regular Season,0,0,32.0,26,4,17,0,0,0,0,0,5,0,21,12,0.57,0,0,0.0,2,2,1.0,85,81,0
+77414,1954,25400211,1955-02-12 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,0,1,0.0,25,0,0,0,0,0,0,0,4,0,0,10,0.0,0,0,0.0,5,5,1.0,95,96,0
+77414,1954,25400215,1955-02-13 19:00:00,Minneapolis,Lakers,Philadelphia,Warriors,Regular Season,1,1,0.0,20,0,0,0,0,0,0,0,4,0,10,6,0.599,0,0,0.0,8,8,1.0,103,93,0
+77414,1954,25400228,1955-02-19 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,1,1,0.0,24,0,0,0,0,0,0,0,6,0,15,10,0.667,0,0,0.0,6,4,0.667,98,92,0
+77414,1954,25400232,1955-02-20 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,1,1,0.0,18,0,0,0,0,0,0,0,4,0,0,8,0.0,0,0,0.0,4,2,0.5,105,92,0
+77414,1954,25400235,1955-02-21 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,1,1,0.0,26,0,0,0,0,0,0,0,3,0,21,12,0.57,0,0,0.0,4,2,0.5,112,110,0
+77414,1954,25400240,1955-02-23 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,0,0,0.0,14,0,0,0,0,0,0,0,3,0,0,5,0.0,0,0,0.0,6,4,0.667,120,97,0
+77414,1954,25400242,1955-02-24 19:00:00,Minneapolis,Lakers,Boston,Celtics,Regular Season,1,1,0.0,23,0,0,0,0,0,0,0,4,0,0,8,0.0,0,0,0.0,12,7,0.582,112,98,0
+77414,1954,25400246,1955-02-25 19:00:00,Minneapolis,Lakers,Boston,Celtics,Regular Season,0,0,0.0,6,0,0,0,0,0,0,0,2,0,11,2,0.181,0,0,0.0,3,2,0.667,107,104,0
+77414,1954,25400250,1955-02-27 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,1,1,0.0,12,0,0,0,0,0,0,0,1,0,0,5,0.0,0,0,0.0,3,2,0.667,93,84,0
+77414,1954,25400254,1955-02-28 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,1,0,0.0,7,0,0,0,0,0,0,0,5,0,0,3,0.0,0,0,0.0,2,1,0.5,88,90,0
+77414,1954,25400263,1955-03-03 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,0,0,0.0,12,0,0,0,0,0,0,0,4,0,0,4,0.0,0,0,0.0,9,4,0.444,83,76,0
+77414,1954,25400264,1955-03-04 19:00:00,Minneapolis,Lakers,Boston,Celtics,Regular Season,0,1,0.0,19,0,0,0,0,0,0,0,3,0,0,8,0.0,0,0,0.0,8,3,0.375,106,121,0
+77414,1954,25400267,1955-03-05 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,0,1,0.0,30,0,0,0,0,0,0,0,4,0,0,13,0.0,0,0,0.0,7,4,0.57,104,107,0
+77414,1954,25400271,1955-03-06 19:00:00,Minneapolis,Lakers,Milwaukee,Hawks,Regular Season,1,0,0.0,12,0,0,0,0,0,0,0,5,0,12,3,0.25,0,0,0.0,7,6,0.856,98,100,0
+77414,1954,25400273,1955-03-07 19:00:00,Minneapolis,Lakers,New York,Knicks,Regular Season,1,1,0.0,12,0,0,0,0,0,0,0,3,0,0,6,0.0,0,0,0.0,1,0,0.0,97,96,0
+77414,1954,25400278,1955-03-09 19:00:00,Minneapolis,Lakers,Philadelphia,Warriors,Regular Season,0,0,0.0,12,0,7,0,0,0,0,0,3,0,0,5,0.0,0,0,0.0,4,2,0.5,102,89,0
+77414,1954,25400280,1955-03-10 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Regular Season,0,1,25.0,27,0,15,0,0,0,0,0,3,0,24,12,0.5,0,0,0.0,5,3,0.599,93,96,0
+77414,1954,25400285,1955-03-12 19:00:00,Minneapolis,Lakers,Philadelphia,Warriors,Regular Season,1,1,0.0,19,0,0,0,0,0,0,0,3,0,0,9,0.0,0,0,0.0,3,1,0.333,86,78,0
+77414,1954,45400211,1955-03-16 19:00:00,Minneapolis,Lakers,Rochester,Royals,Playoffs,1,1,0.0,26,0,0,0,0,0,0,0,4,0,23,10,0.434,0,0,0.0,7,6,0.856,82,78,0
+77414,1954,45400212,1955-03-18 19:00:00,Minneapolis,Lakers,Rochester,Royals,Playoffs,0,0,0.0,19,0,0,0,0,0,0,0,5,0,0,8,0.0,0,0,0.0,5,3,0.599,94,92,0
+77414,1954,45400213,1955-03-19 19:00:00,Minneapolis,Lakers,Rochester,Royals,Playoffs,1,1,0.0,7,0,0,0,0,0,0,0,5,0,10,3,0.299,0,0,0.0,2,1,0.5,119,110,0
+77414,1954,45400311,1955-03-20 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Playoffs,0,0,0.0,18,0,0,0,0,0,0,0,3,0,0,7,0.0,0,0,0.0,7,4,0.57,96,79,0
+77414,1954,45400312,1955-03-22 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Playoffs,0,0,0.0,6,0,0,0,0,0,0,0,5,0,0,2,0.0,0,0,0.0,3,2,0.667,98,97,0
+77414,1954,45400313,1955-03-23 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Playoffs,1,1,0.0,16,0,0,0,0,0,0,0,6,0,11,6,0.545,0,0,0.0,5,4,0.8,99,91,0
+77414,1954,45400314,1955-03-27 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Playoffs,1,0,0.0,25,0,0,0,0,0,0,0,4,0,14,8,0.57,0,0,0.0,12,9,0.75,96,105,0
+77414,1955,25500003,1955-11-05 19:00:00,Minneapolis,Lakers,St. Louis,Hawks,Regular Season,0,0,0.0,27,0,0,0,0,0,0,0,4,0,0,9,0.0,0,0,0.0,15,9,0.599,101,89,0
+77414,1955,25500005,1955-11-06 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,0,1,0.0,31,0,0,0,0,0,0,0,3,0,19,11,0.578,0,0,0.0,13,9,0.691,95,96,0
+77414,1955,25500007,1955-11-09 19:00:00,Minneapolis,Lakers,Philadelphia,Warriors,Regular Season,0,0,0.0,21,2,8,0,0,0,0,0,4,0,15,10,0.667,0,0,0.0,3,1,0.333,117,106,0
+77414,1955,25500008,1955-11-10 19:00:00,Minneapolis,Lakers,New York,Knicks,Regular Season,0,0,0.0,22,0,0,0,0,0,0,0,4,0,0,9,0.0,0,0,0.0,4,4,1.0,112,105,0
+77414,1955,25500011,1955-11-12 19:00:00,Minneapolis,Lakers,Philadelphia,Warriors,Regular Season,0,0,0.0,11,1,13,0,0,0,0,0,1,0,20,3,0.149,0,0,0.0,5,5,1.0,100,89,0
+77414,1955,25500014,1955-11-12 19:00:00,Minneapolis,Lakers,Boston,Celtics,Regular Season,0,0,28.0,9,2,0,0,0,0,0,0,4,0,10,4,0.4,0,0,0.0,3,1,0.333,119,75,0
+77414,1955,25500018,1955-11-16 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Regular Season,0,0,37.0,10,6,15,0,0,0,0,0,5,0,17,4,0.234,0,0,0.0,3,2,0.667,105,91,0
+77414,1955,25500024,1955-11-19 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,0,1,0.0,26,0,0,0,0,0,0,0,2,0,0,11,0.0,0,0,0.0,5,4,0.8,90,91,0
+77414,1955,25500026,1955-11-20 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,1,0,0.0,21,0,0,0,0,0,0,0,6,0,0,9,0.0,0,0,0.0,4,3,0.75,96,104,0
+77414,1955,25500032,1955-11-24 19:00:00,Minneapolis,Lakers,St. Louis,Hawks,Regular Season,1,1,0.0,19,0,0,0,0,0,0,0,5,0,0,5,0.0,0,0,0.0,11,9,0.817,107,99,0
+77414,1955,25500037,1955-11-26 19:00:00,Minneapolis,Lakers,St. Louis,Hawks,Regular Season,0,0,0.0,25,0,0,0,0,0,0,0,1,0,0,9,0.0,0,0,0.0,10,7,0.699,104,95,0
+77414,1955,25500040,1955-11-27 19:00:00,Minneapolis,Lakers,Philadelphia,Warriors,Regular Season,1,1,0.0,25,0,15,0,0,0,0,0,2,0,18,9,0.5,0,0,0.0,10,7,0.699,99,94,0
+77414,1955,25500045,1955-11-30 19:00:00,Minneapolis,Lakers,St. Louis,Hawks,Regular Season,0,0,0.0,20,0,0,0,0,0,0,0,5,0,0,7,0.0,0,0,0.0,7,6,0.856,99,97,0
+77414,1955,25500048,1955-12-01 19:00:00,Minneapolis,Lakers,New York,Knicks,Regular Season,1,1,0.0,21,2,14,0,0,0,0,0,5,0,23,8,0.347,0,0,0.0,6,5,0.832,97,90,0
+77414,1955,25500050,1955-12-03 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Regular Season,0,0,34.0,25,4,14,0,0,0,0,0,4,0,18,11,0.61,0,0,0.0,5,3,0.599,114,103,0
+77414,1955,25500053,1955-12-04 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Regular Season,1,0,35.0,26,4,18,0,0,0,0,0,6,0,21,10,0.475,0,0,0.0,10,6,0.599,96,102,0
+77414,1955,25500057,1955-12-06 19:00:00,Minneapolis,Lakers,Philadelphia,Warriors,Regular Season,0,0,0.0,27,1,13,0,0,0,0,0,3,0,19,7,0.367,0,0,0.0,16,13,0.812,116,103,0
+77414,1955,25500065,1955-12-10 19:00:00,Minneapolis,Lakers,Boston,Celtics,Regular Season,0,0,35.0,21,0,16,0,0,0,0,0,3,0,22,8,0.363,0,0,0.0,8,5,0.625,118,102,0
+77414,1955,25500071,1955-12-13 19:00:00,Minneapolis,Lakers,New York,Knicks,Regular Season,0,0,0.0,31,0,0,0,0,0,0,0,3,0,0,11,0.0,0,0,0.0,9,9,1.0,98,91,0
+77414,1955,25500074,1955-12-14 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,1,1,0.0,22,0,0,0,0,0,0,0,5,0,0,9,0.0,0,0,0.0,4,4,1.0,98,85,0
+77414,1955,25500075,1955-12-15 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Regular Season,0,1,50.0,30,4,17,0,0,0,0,0,6,0,21,13,0.618,0,0,0.0,6,4,0.667,133,135,0
+77414,1955,25500080,1955-12-17 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,1,1,0.0,21,0,0,0,0,0,0,0,4,0,0,6,0.0,0,0,0.0,13,9,0.691,94,92,0
+77414,1955,25500082,1955-12-18 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,0,0,0.0,13,0,0,0,0,0,0,0,6,0,0,3,0.0,0,0,0.0,9,7,0.778,96,86,0
+77414,1955,25500085,1955-12-20 19:00:00,Minneapolis,Lakers,Boston,Celtics,Regular Season,0,0,0.0,20,0,0,0,0,0,0,0,5,0,0,9,0.0,0,0,0.0,3,2,0.667,111,104,0
+77414,1955,25500088,1955-12-25 19:00:00,Minneapolis,Lakers,Boston,Celtics,Regular Season,1,0,0.0,35,7,18,0,0,0,0,0,3,0,0,14,0.0,0,0,0.0,10,7,0.699,112,115,0
+77414,1955,25500098,1955-12-28 19:00:00,Minneapolis,Lakers,St. Louis,Hawks,Regular Season,1,0,0.0,26,0,22,0,0,0,0,0,5,0,0,10,0.0,0,0,0.0,7,6,0.856,90,111,0
+77414,1955,25500101,1955-12-29 19:00:00,Minneapolis,Lakers,St. Louis,Hawks,Regular Season,1,1,0.0,17,0,0,0,0,0,0,0,4,0,0,6,0.0,0,0,0.0,5,5,1.0,74,71,0
+77414,1955,25500108,1956-01-01 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Regular Season,1,0,43.0,23,2,22,0,0,0,0,0,1,0,28,10,0.356,0,0,0.0,3,3,1.0,80,85,0
+77414,1955,25500111,1956-01-02 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,1,1,0.0,14,0,0,0,0,0,0,0,4,0,12,3,0.25,0,0,0.0,9,8,0.889,95,89,0
+77414,1955,25500118,1956-01-04 19:00:00,Minneapolis,Lakers,St. Louis,Hawks,Regular Season,1,1,0.0,28,0,0,0,0,0,0,0,4,0,0,11,0.0,0,0,0.0,7,6,0.856,94,76,0
+77414,1955,25500123,1956-01-07 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,0,0,0.0,32,0,0,0,0,0,0,0,3,0,21,15,0.713,0,0,0.0,5,2,0.4,103,98,0
+77414,1955,25500127,1956-01-08 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Regular Season,1,1,37.0,26,5,11,0,0,0,0,0,3,0,15,10,0.667,0,0,0.0,7,6,0.856,99,91,0
+77414,1955,25500131,1956-01-10 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Regular Season,1,1,43.0,16,2,16,0,0,0,0,0,3,0,14,6,0.428,0,0,0.0,4,4,1.0,90,79,0
+77414,1955,25500132,1956-01-11 19:00:00,Minneapolis,Lakers,Boston,Celtics,Regular Season,1,1,0.0,24,0,0,0,0,0,0,0,4,0,0,10,0.0,0,0,0.0,5,4,0.8,114,110,0
+77414,1955,25500140,1956-01-14 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,1,1,0.0,22,0,0,0,0,0,0,0,4,0,23,10,0.434,0,0,0.0,3,2,0.667,117,94,0
+77414,1955,25500143,1956-01-15 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,0,0,0.0,13,0,0,0,0,0,0,0,5,0,0,5,0.0,0,0,0.0,3,3,1.0,104,99,0
+77414,1955,25500147,1956-01-17 19:00:00,Minneapolis,Lakers,St. Louis,Hawks,Regular Season,1,1,0.0,22,0,0,0,0,0,0,0,4,0,0,10,0.0,0,0,0.0,9,2,0.222,97,86,0
+77414,1955,25500150,1956-01-18 19:00:00,Minneapolis,Lakers,Philadelphia,Warriors,Regular Season,1,1,0.0,31,4,17,0,0,0,0,0,1,0,19,12,0.632,0,0,0.0,9,7,0.778,105,94,0
+77414,1955,25500152,1956-01-19 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Regular Season,0,0,35.0,17,3,9,0,0,0,0,0,2,0,17,8,0.47,0,0,0.0,1,1,1.0,122,100,0
+77414,1955,25500155,1956-01-20 19:00:00,Minneapolis,Lakers,New York,Knicks,Regular Season,0,0,0.0,27,0,0,0,0,0,0,0,3,0,0,11,0.0,0,0,0.0,6,5,0.832,122,109,0
+77414,1955,25500159,1956-01-21 19:00:00,Minneapolis,Lakers,New York,Knicks,Regular Season,0,1,0.0,19,0,0,0,0,0,0,0,5,0,0,9,0.0,0,0,0.0,3,1,0.333,89,109,0
+77414,1955,25500162,1956-01-22 19:00:00,Minneapolis,Lakers,New York,Knicks,Regular Season,1,0,0.0,15,0,0,0,0,0,0,0,5,0,0,5,0.0,0,0,0.0,7,5,0.713,95,100,0
+77414,1955,35500001,1956-01-24 19:00:00,West NBA All Stars,West,East NBA All Stars,East,All-Star Game,0,1,0.0,7,0,10,0,0,0,0,0,4,0,10,3,0.3,0,0,0.0,3,1,0.333,0,0,0
+77414,1955,25500168,1956-01-25 19:00:00,Minneapolis,Lakers,New York,Knicks,Regular Season,1,1,0.0,21,0,0,0,0,0,0,0,3,0,0,8,0.0,0,0,0.0,10,5,0.5,104,95,0
+77414,1955,25500175,1956-01-28 19:00:00,Minneapolis,Lakers,Philadelphia,Warriors,Regular Season,1,0,0.0,14,0,12,0,0,0,0,0,2,0,12,5,0.416,0,0,0.0,5,4,0.8,85,108,0
+77414,1955,25500176,1956-01-29 19:00:00,Minneapolis,Lakers,St. Louis,Hawks,Regular Season,1,0,0.0,18,0,0,0,0,0,0,0,3,0,0,6,0.0,0,0,0.0,12,6,0.5,107,114,0
+77414,1955,25500182,1956-01-31 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,1,1,0.0,20,0,0,0,0,0,0,0,3,0,25,9,0.359,0,0,0.0,5,2,0.4,92,86,0
+77414,1955,25500183,1956-02-01 19:00:00,Minneapolis,Lakers,Boston,Celtics,Regular Season,1,1,0.0,21,0,0,0,0,0,0,0,2,0,0,8,0.0,0,0,0.0,6,5,0.832,107,106,0
+77414,1955,25500187,1956-02-02 19:00:00,Minneapolis,Lakers,Boston,Celtics,Regular Season,0,0,0.0,21,0,0,0,0,0,0,0,2,0,15,8,0.533,0,0,0.0,8,5,0.625,102,101,0
+77414,1955,25500194,1956-02-05 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,1,0,0.0,25,0,0,0,0,0,0,0,5,0,0,10,0.0,0,0,0.0,7,5,0.713,109,121,0
+77414,1955,25500203,1956-02-08 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,1,1,0.0,20,0,0,0,0,0,0,0,1,0,0,8,0.0,0,0,0.0,4,4,1.0,106,82,0
+77414,1955,25500208,1956-02-11 19:00:00,Minneapolis,Lakers,Philadelphia,Warriors,Regular Season,1,0,0.0,32,1,17,0,0,0,0,0,4,0,28,14,0.5,0,0,0.0,5,4,0.8,102,117,0
+77414,1955,25500213,1956-02-12 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,0,0,0.0,16,0,0,0,0,0,0,0,4,0,0,6,0.0,0,0,0.0,6,4,0.667,82,78,0
+77414,1955,25500217,1956-02-14 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,1,1,0.0,22,0,0,0,0,0,0,0,3,0,0,9,0.0,0,0,0.0,4,4,1.0,110,79,0
+77414,1955,25500218,1956-02-15 19:00:00,Minneapolis,Lakers,New York,Knicks,Regular Season,1,1,0.0,20,0,0,0,0,0,0,0,2,0,0,8,0.0,0,0,0.0,5,4,0.8,113,102,0
+77414,1955,25500221,1956-02-17 19:00:00,Minneapolis,Lakers,Philadelphia,Warriors,Regular Season,0,0,0.0,24,2,22,0,0,0,0,0,0,0,22,10,0.455,0,0,0.0,6,4,0.667,134,111,0
+77414,1955,25500224,1956-02-18 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,0,1,0.0,12,0,0,0,0,0,0,0,2,0,0,3,0.0,0,0,0.0,6,6,1.0,99,119,0
+77414,1955,25500228,1956-02-19 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,1,1,0.0,19,0,0,0,0,0,0,0,4,0,0,6,0.0,0,0,0.0,9,7,0.778,100,93,0
+77414,1955,25500236,1956-02-22 19:00:00,Minneapolis,Lakers,Boston,Celtics,Regular Season,1,0,0.0,18,0,0,0,0,0,0,0,1,0,0,7,0.0,0,0,0.0,6,4,0.667,90,93,0
+77414,1955,25500243,1956-02-26 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,1,0,0.0,14,0,0,0,0,0,0,0,3,0,0,6,0.0,0,0,0.0,4,2,0.5,90,95,0
+77414,1955,25500251,1956-02-29 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Regular Season,1,1,39.0,30,3,23,0,0,0,0,0,5,0,33,13,0.394,0,0,0.0,6,4,0.667,98,94,0
+77414,1955,25500253,1956-03-01 19:00:00,Minneapolis,Lakers,Philadelphia,Warriors,Regular Season,0,1,0.0,24,2,16,0,0,0,0,0,6,0,15,11,0.732,0,0,0.0,5,2,0.4,100,102,0
+77414,1955,25500256,1956-03-02 19:00:00,Minneapolis,Lakers,Boston,Celtics,Regular Season,0,0,31.0,23,3,0,0,0,0,0,0,2,0,11,7,0.636,0,0,0.0,10,9,0.9,119,113,0
+77414,1955,25500259,1956-03-03 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,0,0,0.0,22,0,0,0,0,0,0,0,1,0,0,9,0.0,0,0,0.0,4,4,1.0,94,90,0
+77414,1955,25500264,1956-03-04 19:00:00,Minneapolis,Lakers,St. Louis,Hawks,Regular Season,1,1,0.0,24,0,0,0,0,0,0,0,2,0,0,11,0.0,0,0,0.0,5,2,0.4,113,84,0
+77414,1955,25500268,1956-03-07 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,1,1,0.0,25,0,0,0,0,0,0,0,6,0,0,9,0.0,0,0,0.0,8,7,0.875,98,95,0
+77414,1955,25500273,1956-03-08 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,0,0,0.0,9,0,0,0,0,0,0,0,3,0,0,3,0.0,0,0,0.0,3,3,1.0,100,82,0
+77414,1955,25500274,1956-03-09 19:00:00,Minneapolis,Lakers,St. Louis,Hawks,Regular Season,0,0,0.0,20,0,0,0,0,0,0,0,3,0,0,6,0.0,0,0,0.0,12,8,0.667,103,102,0
+77414,1955,25500276,1956-03-10 19:00:00,Minneapolis,Lakers,St. Louis,Hawks,Regular Season,0,0,0.0,20,0,0,0,0,0,0,0,2,0,0,8,0.0,0,0,0.0,7,4,0.57,105,97,0
+77414,1955,25500280,1956-03-11 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,1,1,0.0,24,0,0,0,0,0,0,0,4,0,0,10,0.0,0,0,0.0,7,4,0.57,126,98,0
+77414,1955,25500285,1956-03-13 19:00:00,Minneapolis,Lakers,New York,Knicks,Regular Season,1,1,0.0,19,0,0,0,0,0,0,0,3,0,0,9,0.0,0,0,0.0,2,1,0.5,102,89,0
+77414,1955,25500288,1956-03-14 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,1,1,0.0,19,0,0,0,0,0,0,0,5,0,0,8,0.0,0,0,0.0,3,3,1.0,100,96,0
+77414,1955,25500290,1956-03-16 19:00:00,Minneapolis,Lakers,St. Louis,Hawks,Regular Season,0,1,0.0,17,0,0,0,0,0,0,0,6,0,14,6,0.428,0,0,0.0,7,5,0.713,97,103,0
+77414,1955,45500211,1956-03-17 19:00:00,Minneapolis,Lakers,St. Louis,Hawks,Playoffs,0,0,0.0,13,0,0,0,0,0,0,0,4,0,8,2,0.25,0,0,0.0,14,9,0.643,116,115,0
+77414,1955,45500212,1956-03-19 19:00:00,Minneapolis,Lakers,St. Louis,Hawks,Playoffs,1,1,0.0,13,0,0,0,0,0,0,0,6,0,11,6,0.545,0,0,0.0,2,1,0.5,133,75,0
+77414,1955,45500213,1956-03-21 19:00:00,Minneapolis,Lakers,St. Louis,Hawks,Playoffs,1,0,0.0,31,0,0,0,0,0,0,0,3,0,20,11,0.55,0,0,0.0,16,9,0.562,115,116,0
+77414,1956,25600004,1956-10-27 19:00:00,Minneapolis,Lakers,St. Louis,Hawks,Regular Season,0,0,0.0,16,0,0,0,0,0,0,0,3,0,0,6,0.0,0,0,0.0,7,4,0.57,97,75,0
+77414,1956,25600005,1956-10-28 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,0,0,0.0,19,0,0,0,0,0,0,0,5,0,0,7,0.0,0,0,0.0,7,5,0.713,94,88,0
+77414,1956,25600007,1956-11-01 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,1,1,0.0,17,0,0,0,0,0,0,0,5,0,0,7,0.0,0,0,0.0,4,3,0.75,97,88,0
+77414,1956,25600009,1956-11-03 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,0,1,0.0,20,0,0,0,0,0,0,0,3,0,0,8,0.0,0,0,0.0,5,4,0.8,85,95,0
+77414,1956,25600012,1956-11-04 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,1,1,0.0,23,0,0,0,0,0,0,0,4,0,0,10,0.0,0,0,0.0,7,3,0.428,88,87,0
+77414,1956,25600018,1956-11-10 19:00:00,Minneapolis,Lakers,Boston,Celtics,Regular Season,0,0,35.0,26,1,9,0,0,0,0,0,5,0,25,10,0.4,0,0,0.0,11,6,0.545,117,110,0
+77414,1956,25600024,1956-11-11 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,0,0,0.0,18,0,0,0,0,0,0,0,1,0,0,7,0.0,0,0,0.0,6,4,0.667,94,82,0
+77414,1956,25600027,1956-11-14 19:00:00,Minneapolis,Lakers,Boston,Celtics,Regular Season,1,1,0.0,19,0,0,0,0,0,0,0,6,0,0,8,0.0,0,0,0.0,5,3,0.599,113,97,0
+77414,1956,25600029,1956-11-15 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Regular Season,0,1,0.0,28,0,14,0,0,0,0,0,4,0,21,12,0.57,0,0,0.0,4,4,1.0,96,103,0
+77414,1956,25600032,1956-11-16 19:00:00,Minneapolis,Lakers,Philadelphia,Warriors,Regular Season,0,0,0.0,25,0,16,0,0,0,0,0,3,0,24,11,0.458,0,0,0.0,4,3,0.75,123,97,0
+77414,1956,25600036,1956-11-18 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,1,0,0.0,24,0,0,0,0,0,0,0,5,0,0,9,0.0,0,0,0.0,10,6,0.599,107,111,0
+77414,1956,25600046,1956-11-22 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Regular Season,1,1,0.0,22,0,0,0,0,0,0,0,4,0,0,10,0.0,0,0,0.0,2,2,1.0,111,78,0
+77414,1956,25600047,1956-11-24 19:00:00,Minneapolis,Lakers,St. Louis,Hawks,Regular Season,0,1,0.0,16,0,0,0,0,0,0,0,5,0,0,6,0.0,0,0,0.0,5,4,0.8,102,104,0
+77414,1956,25600051,1956-11-25 19:00:00,Minneapolis,Lakers,St. Louis,Hawks,Regular Season,1,0,0.0,10,0,0,0,0,0,0,0,6,0,0,4,0.0,0,0,0.0,4,2,0.5,94,95,0
+77414,1956,25600055,1956-11-27 19:00:00,Minneapolis,Lakers,Philadelphia,Warriors,Regular Season,1,1,0.0,26,1,22,0,0,0,0,0,2,0,32,11,0.343,0,0,0.0,7,4,0.57,113,98,0
+77414,1956,25600058,1956-11-28 19:00:00,Minneapolis,Lakers,Boston,Celtics,Regular Season,0,0,0.0,22,0,0,0,0,0,0,0,4,0,0,10,0.0,0,0,0.0,4,2,0.5,105,93,0
+77414,1956,25600065,1956-12-01 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,0,0,0.0,24,0,0,0,0,0,0,0,5,0,0,8,0.0,0,0,0.0,12,8,0.667,95,83,0
+77414,1956,25600067,1956-12-02 19:00:00,Minneapolis,Lakers,Philadelphia,Warriors,Regular Season,1,1,0.0,19,3,16,0,0,0,0,0,4,0,19,6,0.316,0,0,0.0,8,7,0.875,106,96,0
+77414,1956,25600070,1956-12-04 19:00:00,Minneapolis,Lakers,New York,Knicks,Regular Season,0,0,0.0,21,0,0,0,0,0,0,0,3,0,0,7,0.0,0,0,0.0,9,7,0.778,101,88,0
+77414,1956,25600072,1956-12-06 19:00:00,Minneapolis,Lakers,St. Louis,Hawks,Regular Season,1,1,0.0,20,0,0,0,0,0,0,0,5,0,0,6,0.0,0,0,0.0,11,8,0.726,103,96,0
+77414,1956,25600075,1956-12-07 19:00:00,Minneapolis,Lakers,Boston,Celtics,Regular Season,0,0,39.0,24,3,17,0,0,0,0,0,4,0,21,10,0.475,0,0,0.0,4,4,1.0,121,114,0
+77414,1956,25600082,1956-12-09 19:00:00,Minneapolis,Lakers,New York,Knicks,Regular Season,1,0,0.0,17,0,0,0,0,0,0,0,4,0,0,7,0.0,0,0,0.0,5,3,0.599,91,100,0
+77414,1956,25600084,1956-12-11 19:00:00,Minneapolis,Lakers,Philadelphia,Warriors,Regular Season,0,0,0.0,28,3,14,0,0,0,0,0,3,0,21,9,0.428,0,0,0.0,10,10,1.0,114,111,0
+77414,1956,25600086,1956-12-12 19:00:00,Minneapolis,Lakers,New York,Knicks,Regular Season,1,1,0.0,29,0,20,0,0,0,0,0,4,0,0,11,0.0,0,0,0.0,9,7,0.778,121,103,0
+77414,1956,25600093,1956-12-16 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,1,1,0.0,26,0,0,0,0,0,0,0,2,0,0,11,0.0,0,0,0.0,5,4,0.8,101,97,0
+77414,1956,25600098,1956-12-20 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,1,1,0.0,33,0,0,0,0,0,0,0,3,0,0,9,0.0,0,0,0.0,19,15,0.789,105,103,0
+77414,1956,25600099,1956-12-22 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,0,0,0.0,17,0,0,0,0,0,0,0,4,0,0,6,0.0,0,0,0.0,7,5,0.713,115,101,0
+77414,1956,25600101,1956-12-23 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Regular Season,0,0,43.0,23,2,22,0,0,0,0,0,5,0,17,9,0.529,0,0,0.0,7,5,0.713,107,97,0
+77414,1956,25600106,1956-12-25 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,1,1,0.0,23,0,0,0,0,0,0,0,3,0,0,10,0.0,0,0,0.0,6,3,0.5,100,89,0
+77414,1956,25600111,1956-12-27 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,0,0,0.0,19,0,0,0,0,0,0,0,0,0,0,7,0.0,0,0,0.0,8,5,0.625,120,93,0
+77414,1956,25600115,1956-12-29 19:00:00,Minneapolis,Lakers,St. Louis,Hawks,Regular Season,1,0,0.0,22,0,0,0,0,0,0,0,4,0,20,9,0.45,0,0,0.0,8,4,0.5,92,95,0
+77414,1956,25600118,1956-12-30 19:00:00,Minneapolis,Lakers,St. Louis,Hawks,Regular Season,0,0,0.0,19,0,5,0,0,0,0,0,6,0,0,6,0.0,0,0,0.0,8,7,0.875,100,93,0
+77414,1956,25600125,1957-01-03 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,0,0,0.0,24,0,0,0,0,0,0,0,4,0,0,9,0.0,0,0,0.0,7,6,0.856,104,102,0
+77414,1956,25600132,1957-01-06 19:00:00,Minneapolis,Lakers,New York,Knicks,Regular Season,1,0,0.0,29,0,0,0,0,0,0,0,4,0,0,11,0.0,0,0,0.0,7,7,1.0,101,111,0
+77414,1956,25600137,1957-01-08 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,0,0,0.0,23,0,0,0,0,0,0,0,3,0,0,10,0.0,0,0,0.0,5,3,0.599,87,86,0
+77414,1956,25600138,1957-01-09 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Regular Season,1,1,0.0,14,0,0,0,0,0,0,0,5,0,0,6,0.0,0,0,0.0,3,2,0.667,93,86,0
+77414,1956,25600139,1957-01-10 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Regular Season,0,1,0.0,29,0,23,0,0,0,0,0,3,0,0,13,0.0,0,0,0.0,6,3,0.5,110,118,0
+77414,1956,25600145,1957-01-12 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,1,1,0.0,24,0,0,0,0,0,0,0,4,0,0,11,0.0,0,0,0.0,2,2,1.0,105,87,0
+77414,1956,25600160,1957-01-20 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,1,1,0.0,18,0,0,0,0,0,0,0,5,0,0,7,0.0,0,0,0.0,4,4,1.0,114,107,0
+77414,1956,25600167,1957-01-23 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,1,1,0.0,8,0,0,0,0,0,0,0,4,0,0,2,0.0,0,0,0.0,5,4,0.8,107,99,0
+77414,1956,25600172,1957-01-25 19:00:00,Minneapolis,Lakers,Boston,Celtics,Regular Season,0,0,35.0,2,2,0,0,0,0,0,0,5,0,11,1,0.09,0,0,0.0,0,0,0.0,115,106,0
+77414,1956,25600174,1957-01-26 19:00:00,Minneapolis,Lakers,New York,Knicks,Regular Season,0,0,0.0,30,0,0,0,0,0,0,0,4,0,0,13,0.0,0,0,0.0,5,4,0.8,122,107,0
+77414,1956,25600178,1957-01-27 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Regular Season,0,0,0.0,20,0,0,0,0,0,0,0,5,0,0,8,0.0,0,0,0.0,5,4,0.8,94,93,0
+77414,1956,25600181,1957-01-28 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Regular Season,0,0,0.0,17,0,0,0,0,0,0,0,3,0,0,7,0.0,0,0,0.0,5,3,0.599,112,96,0
+77414,1956,25600184,1957-01-29 19:00:00,Minneapolis,Lakers,Boston,Celtics,Regular Season,0,0,0.0,29,0,0,0,0,0,0,0,5,0,0,14,0.0,0,0,0.0,5,1,0.2,103,91,0
+77414,1956,25600188,1957-01-31 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,1,0,0.0,26,0,0,0,0,0,0,0,4,0,0,11,0.0,0,0,0.0,6,4,0.667,107,111,0
+77414,1956,25600194,1957-02-02 19:00:00,Minneapolis,Lakers,St. Louis,Hawks,Regular Season,1,0,0.0,15,0,0,0,0,0,0,0,6,0,19,5,0.263,0,0,0.0,6,5,0.832,97,106,0
+77414,1956,25600199,1957-02-03 19:00:00,Minneapolis,Lakers,St. Louis,Hawks,Regular Season,0,0,36.0,20,0,12,0,0,0,0,0,3,0,0,7,0.0,0,0,0.0,7,6,0.856,102,85,0
+77414,1956,25600204,1957-02-06 19:00:00,Minneapolis,Lakers,Philadelphia,Warriors,Regular Season,1,1,0.0,22,0,0,0,0,0,0,0,2,0,22,10,0.455,0,0,0.0,3,2,0.667,101,100,0
+77414,1956,25600212,1957-02-09 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,1,1,0.0,7,0,0,0,0,0,0,0,3,0,0,3,0.0,0,0,0.0,3,1,0.333,99,92,0
+77414,1956,25600215,1957-02-10 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,0,0,0.0,22,0,0,0,0,0,0,0,3,0,19,10,0.526,0,0,0.0,3,2,0.667,113,100,0
+77414,1956,25600219,1957-02-12 19:00:00,Minneapolis,Lakers,St. Louis,Hawks,Regular Season,0,1,0.0,15,0,10,0,0,0,0,0,2,0,0,4,0.0,0,0,0.0,8,7,0.875,105,110,0
+77414,1956,25600220,1957-02-13 19:00:00,Minneapolis,Lakers,Boston,Celtics,Regular Season,1,1,0.0,20,0,0,0,0,0,0,0,4,0,0,8,0.0,0,0,0.0,4,4,1.0,115,114,0
+77414,1956,25600224,1957-02-14 19:00:00,Minneapolis,Lakers,New York,Knicks,Regular Season,1,1,0.0,22,0,0,0,0,0,0,0,2,0,0,10,0.0,0,0,0.0,4,2,0.5,99,97,0
+77414,1956,25600227,1957-02-15 19:00:00,Minneapolis,Lakers,Philadelphia,Warriors,Regular Season,0,0,0.0,21,0,15,0,0,0,0,0,3,0,21,7,0.333,0,0,0.0,10,7,0.699,105,104,0
+77414,1956,25600228,1957-02-16 19:00:00,Minneapolis,Lakers,New York,Knicks,Regular Season,0,0,0.0,21,0,0,0,0,0,0,0,2,0,0,9,0.0,0,0,0.0,4,3,0.75,120,112,0
+77414,1956,25600230,1957-02-17 19:00:00,Minneapolis,Lakers,St. Louis,Hawks,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,115,118,0
+77414,1956,25600236,1957-02-20 19:00:00,Minneapolis,Lakers,Rochester,Royals,Regular Season,1,1,0.0,19,0,0,0,0,0,0,0,2,0,0,5,0.0,0,0,0.0,13,9,0.691,111,103,0
+77414,1956,25600242,1957-02-23 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Regular Season,1,0,0.0,26,0,0,0,0,0,0,0,5,0,0,13,0.0,0,0,0.0,0,0,0.0,101,103,0
+77414,1956,25600245,1957-02-24 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,1,1,0.0,25,0,0,0,0,0,0,0,4,0,0,11,0.0,0,0,0.0,8,3,0.375,123,115,0
+77414,1956,25600250,1957-02-25 19:00:00,Minneapolis,Lakers,St. Louis,Hawks,Regular Season,0,0,0.0,17,0,0,0,0,0,0,0,1,0,0,8,0.0,0,0,0.0,1,1,1.0,110,94,0
+77414,1956,25600251,1957-02-26 19:00:00,Minneapolis,Lakers,Syracuse,Nationals,Regular Season,0,0,0.0,14,0,0,0,0,0,0,0,4,0,0,7,0.0,0,0,0.0,0,0,0.0,120,108,0
+77414,1956,25600258,1957-02-28 19:00:00,Minneapolis,Lakers,Philadelphia,Warriors,Regular Season,0,0,0.0,18,1,16,0,0,0,0,0,1,0,18,7,0.389,0,0,0.0,8,4,0.5,129,112,0
+77414,1956,25600264,1957-03-03 19:00:00,Minneapolis,Lakers,New York,Knicks,Regular Season,1,1,0.0,19,0,0,0,0,0,0,0,4,0,0,8,0.0,0,0,0.0,5,3,0.599,119,108,0
+77414,1956,25600273,1957-03-07 19:00:00,Minneapolis,Lakers,Boston,Celtics,Regular Season,1,1,0.0,22,0,0,0,0,0,0,0,4,0,0,9,0.0,0,0,0.0,5,4,0.8,109,104,0
+77414,1956,25600276,1957-03-08 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Regular Season,0,1,0.0,17,0,0,0,0,0,0,0,4,0,0,7,0.0,0,0,0.0,5,3,0.599,97,101,0
+77414,1956,25600280,1957-03-10 19:00:00,Minneapolis,Lakers,St. Louis,Hawks,Regular Season,1,1,0.0,32,0,0,0,0,0,0,0,4,0,33,15,0.455,0,0,0.0,2,2,1.0,117,104,0
+77414,1956,25600284,1957-03-12 19:00:00,Minneapolis,Lakers,Philadelphia,Warriors,Regular Season,1,1,0.0,25,0,0,0,0,0,0,0,4,0,19,9,0.473,0,0,0.0,7,7,1.0,100,94,0
+77414,1956,25600286,1957-03-13 19:00:00,Minneapolis,Lakers,Philadelphia,Warriors,Regular Season,1,1,0.0,23,3,4,0,0,0,0,0,2,0,18,9,0.5,0,0,0.0,5,5,1.0,114,97,0
+77414,1956,25600290,1957-03-16 19:00:00,Minneapolis,Lakers,St. Louis,Hawks,Regular Season,0,0,45.0,30,0,12,0,0,0,0,0,1,0,29,11,0.379,0,0,0.0,11,8,0.726,114,111,0
+77414,1956,45600211,1957-03-17 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Playoffs,1,1,0.0,30,0,0,0,0,0,0,0,5,0,29,13,0.448,0,0,0.0,6,4,0.667,131,127,0
+77414,1956,45600212,1957-03-19 19:00:00,Minneapolis,Lakers,Ft. Wayne Zollner,Pistons,Playoffs,0,1,0.0,16,0,0,0,0,0,0,0,5,0,0,8,0.0,0,0,0.0,0,0,0.0,108,110,0
+77414,1956,45600311,1957-03-21 19:00:00,Minneapolis,Lakers,St. Louis,Hawks,Playoffs,0,0,0.0,20,0,11,0,0,0,0,0,3,0,16,6,0.375,0,0,0.0,9,8,0.889,118,109,0
+77414,1956,45600312,1957-03-24 19:00:00,Minneapolis,Lakers,St. Louis,Hawks,Playoffs,0,0,38.0,33,0,9,0,0,0,0,0,2,0,24,14,0.582,0,0,0.0,8,5,0.625,106,104,0
+77414,1956,45600313,1957-03-25 19:00:00,Minneapolis,Lakers,St. Louis,Hawks,Playoffs,1,0,0.0,22,0,0,0,0,0,0,0,6,0,28,10,0.356,0,0,0.0,2,2,1.0,135,143,0
+77414,1957,25700007,1957-10-26 19:00:00,Cincinnati,Royals,Syracuse,Nationals,Regular Season,1,1,0.0,25,0,0,0,0,0,0,0,5,0,0,11,0.0,0,0,0.0,4,3,0.75,110,100,0
+77414,1957,25700012,1957-11-01 19:00:00,Cincinnati,Royals,St. Louis,Hawks,Regular Season,1,1,0.0,26,0,0,0,0,0,0,0,4,0,0,11,0.0,0,0,0.0,4,4,1.0,99,92,0
+77414,1957,25700014,1957-11-02 19:00:00,Cincinnati,Royals,St. Louis,Hawks,Regular Season,0,0,0.0,10,0,0,0,0,0,0,0,1,0,0,3,0.0,0,0,0.0,6,4,0.667,102,93,0
+77414,1957,25700018,1957-11-03 19:00:00,Cincinnati,Royals,Detroit,Pistons,Regular Season,1,0,0.0,9,0,0,0,0,0,0,0,3,0,0,4,0.0,0,0,0.0,1,1,1.0,88,94,0
+77414,1957,25700023,1957-11-08 19:00:00,Cincinnati,Royals,Boston,Celtics,Regular Season,1,0,0.0,22,0,0,0,0,0,0,0,4,0,0,10,0.0,0,0,0.0,3,2,0.667,110,122,0
+77414,1957,25700027,1957-11-10 19:00:00,Cincinnati,Royals,Philadelphia,Warriors,Regular Season,1,0,0.0,22,1,18,0,0,0,0,0,4,0,24,8,0.333,0,0,0.0,7,6,0.856,101,106,0
+77414,1957,25700034,1957-11-15 19:00:00,Cincinnati,Royals,New York,Knicks,Regular Season,1,1,0.0,33,0,0,0,0,0,0,0,6,0,0,13,0.0,0,0,0.0,9,7,0.778,101,99,0
+77414,1957,25700040,1957-11-17 19:00:00,Cincinnati,Royals,St. Louis,Hawks,Regular Season,1,0,0.0,12,1,20,0,0,0,0,0,0,0,0,5,0.0,0,0,0.0,5,2,0.4,97,98,0
+77414,1957,25700043,1957-11-19 19:00:00,Cincinnati,Royals,Detroit,Pistons,Regular Season,1,1,0.0,25,0,0,0,0,0,0,0,4,0,0,11,0.0,0,0,0.0,5,3,0.599,92,75,0
+77414,1957,25700045,1957-11-20 19:00:00,Cincinnati,Royals,Philadelphia,Warriors,Regular Season,0,1,0.0,30,4,16,0,0,0,0,0,2,0,23,14,0.608,0,0,0.0,4,2,0.5,89,99,0
+77414,1957,25700048,1957-11-22 19:00:00,Cincinnati,Royals,Syracuse,Nationals,Regular Season,0,1,39.0,30,0,11,0,0,0,0,0,2,0,25,13,0.52,0,0,0.0,4,4,1.0,98,102,0
+77414,1957,25700057,1957-11-27 19:00:00,Cincinnati,Royals,Minneapolis,Lakers,Regular Season,1,1,0.0,22,0,0,0,0,0,0,0,5,0,0,8,0.0,0,0,0.0,11,6,0.545,107,106,0
+77414,1957,25700060,1957-11-28 19:00:00,Cincinnati,Royals,St. Louis,Hawks,Regular Season,0,0,0.0,18,0,0,0,0,0,0,0,3,0,0,9,0.0,0,0,0.0,1,0,0.0,112,96,0
+77414,1957,25700062,1957-11-29 19:00:00,Cincinnati,Royals,Detroit,Pistons,Regular Season,1,1,0.0,19,0,0,0,0,0,0,0,5,0,0,8,0.0,0,0,0.0,4,3,0.75,99,96,0
+77414,1957,25700065,1957-11-30 19:00:00,Cincinnati,Royals,Detroit,Pistons,Regular Season,0,0,0.0,30,0,0,0,0,0,0,0,5,0,0,12,0.0,0,0,0.0,8,6,0.75,100,96,0
+77414,1957,25700069,1957-12-01 19:00:00,Cincinnati,Royals,Minneapolis,Lakers,Regular Season,1,1,0.0,23,0,0,0,0,0,0,0,2,0,0,9,0.0,0,0,0.0,8,5,0.625,90,89,0
+77414,1957,25700072,1957-12-03 19:00:00,Cincinnati,Royals,New York,Knicks,Regular Season,0,0,0.0,27,0,0,0,0,0,0,0,5,0,0,10,0.0,0,0,0.0,10,7,0.699,110,104,0
+77414,1957,25700076,1957-12-05 19:00:00,Cincinnati,Royals,Detroit,Pistons,Regular Season,1,1,0.0,14,3,6,0,0,0,0,0,4,0,13,5,0.385,0,0,0.0,5,4,0.8,109,99,0
+77414,1957,25700078,1957-12-06 19:00:00,Cincinnati,Royals,New York,Knicks,Regular Season,1,0,0.0,21,0,0,0,0,0,0,0,4,0,0,7,0.0,0,0,0.0,10,7,0.699,97,112,0
+77414,1957,25700082,1957-12-07 19:00:00,Cincinnati,Royals,Detroit,Pistons,Regular Season,0,0,0.0,31,0,0,0,0,0,0,0,3,0,0,11,0.0,0,0,0.0,11,9,0.817,109,105,0
+77414,1957,25700084,1957-12-08 19:00:00,Cincinnati,Royals,Philadelphia,Warriors,Regular Season,1,1,0.0,18,3,7,0,0,0,0,0,2,0,21,7,0.333,0,0,0.0,5,4,0.8,99,88,0
+77414,1957,25700088,1957-12-10 19:00:00,Cincinnati,Royals,St. Louis,Hawks,Regular Season,0,0,0.0,30,0,0,0,0,0,0,0,4,0,0,9,0.0,0,0,0.0,15,12,0.8,102,90,0
+77414,1957,25700090,1957-12-11 19:00:00,Cincinnati,Royals,Boston,Celtics,Regular Season,0,0,41.0,26,0,11,0,0,0,0,0,1,0,22,10,0.455,0,0,0.0,9,6,0.667,116,104,0
+77414,1957,25700095,1957-12-14 19:00:00,Cincinnati,Royals,Syracuse,Nationals,Regular Season,0,0,0.0,31,0,0,0,0,0,0,0,4,0,0,13,0.0,0,0,0.0,7,5,0.713,104,100,0
+77414,1957,25700099,1957-12-15 19:00:00,Cincinnati,Royals,Syracuse,Nationals,Regular Season,0,0,40.0,23,2,13,0,0,0,0,0,3,0,22,11,0.5,0,0,0.0,3,1,0.333,109,83,0
+77414,1957,25700103,1957-12-20 19:00:00,Cincinnati,Royals,Syracuse,Nationals,Regular Season,1,0,0.0,24,0,0,0,0,0,0,0,4,0,0,9,0.0,0,0,0.0,7,6,0.856,113,122,0
+77414,1957,25700106,1957-12-21 19:00:00,Cincinnati,Royals,Detroit,Pistons,Regular Season,0,0,0.0,28,0,0,0,0,0,0,0,2,0,0,13,0.0,0,0,0.0,2,2,1.0,112,101,0
+77414,1957,25700109,1957-12-22 19:00:00,Cincinnati,Royals,Boston,Celtics,Regular Season,1,0,0.0,26,0,0,0,0,0,0,0,3,0,0,11,0.0,0,0,0.0,6,4,0.667,98,116,0
+77414,1957,25700116,1957-12-26 19:00:00,Cincinnati,Royals,Syracuse,Nationals,Regular Season,0,0,0.0,32,0,0,0,0,0,0,0,6,0,29,14,0.482,0,0,0.0,5,4,0.8,104,100,0
+77414,1957,25700119,1957-12-27 19:00:00,Cincinnati,Royals,St. Louis,Hawks,Regular Season,1,0,0.0,24,0,0,0,0,0,0,0,5,0,0,11,0.0,0,0,0.0,2,2,1.0,96,97,0
+77414,1957,25700123,1957-12-28 19:00:00,Cincinnati,Royals,Minneapolis,Lakers,Regular Season,0,1,0.0,23,0,0,0,0,0,0,0,5,0,0,10,0.0,0,0,0.0,5,3,0.599,101,112,0
+77414,1957,25700124,1957-12-29 19:00:00,Cincinnati,Royals,Minneapolis,Lakers,Regular Season,1,0,0.0,32,0,0,0,0,0,0,0,4,0,0,14,0.0,0,0,0.0,4,4,1.0,103,111,0
+77414,1957,25700128,1957-12-31 19:00:00,Cincinnati,Royals,Detroit,Pistons,Regular Season,1,1,0.0,26,0,0,0,0,0,0,0,1,0,0,12,0.0,0,0,0.0,4,2,0.5,130,96,0
+77414,1957,25700132,1958-01-03 19:00:00,Cincinnati,Royals,Philadelphia,Warriors,Regular Season,1,1,0.0,25,3,12,0,0,0,0,0,3,0,24,12,0.5,0,0,0.0,1,1,1.0,106,94,0
+77414,1957,25700135,1958-01-05 19:00:00,Cincinnati,Royals,New York,Knicks,Regular Season,0,1,0.0,23,0,0,0,0,0,0,0,1,0,0,10,0.0,0,0,0.0,5,3,0.599,100,101,0
+77414,1957,25700140,1958-01-07 19:00:00,Cincinnati,Royals,Detroit,Pistons,Regular Season,1,1,0.0,18,0,0,0,0,0,0,0,5,0,0,7,0.0,0,0,0.0,5,4,0.8,114,99,0
+77414,1957,25700142,1958-01-08 19:00:00,Cincinnati,Royals,New York,Knicks,Regular Season,0,0,0.0,18,0,0,0,0,0,0,0,3,0,0,8,0.0,0,0,0.0,6,2,0.333,123,105,0
+77414,1957,25700147,1958-01-10 19:00:00,Cincinnati,Royals,New York,Knicks,Regular Season,1,1,0.0,34,0,20,0,0,0,0,0,4,0,0,12,0.0,0,0,0.0,13,10,0.769,107,104,0
+77414,1957,25700150,1958-01-11 19:00:00,Cincinnati,Royals,Syracuse,Nationals,Regular Season,1,1,0.0,10,0,0,0,0,0,0,0,0,0,0,5,0.0,0,0,0.0,0,0,0.0,105,100,0
+77414,1957,25700155,1958-01-12 19:00:00,Cincinnati,Royals,Boston,Celtics,Regular Season,1,1,0.0,19,0,0,0,0,0,0,0,2,0,0,9,0.0,0,0,0.0,2,1,0.5,115,97,0
+77414,1957,25700160,1958-01-16 19:00:00,Cincinnati,Royals,Minneapolis,Lakers,Regular Season,1,1,0.0,30,0,0,0,0,0,0,0,3,0,0,12,0.0,0,0,0.0,6,6,1.0,124,108,0
+77414,1957,25700165,1958-01-17 19:00:00,Cincinnati,Royals,Detroit,Pistons,Regular Season,0,0,0.0,23,0,0,0,0,0,0,0,2,0,0,6,0.0,0,0,0.0,14,11,0.786,115,94,0
+77414,1957,25700172,1958-01-19 19:00:00,Cincinnati,Royals,St. Louis,Hawks,Regular Season,0,0,0.0,26,0,0,0,0,0,0,0,5,0,0,9,0.0,0,0,0.0,12,8,0.667,108,90,0
+77414,1957,25700173,1958-01-22 19:00:00,Cincinnati,Royals,Syracuse,Nationals,Regular Season,0,1,35.0,27,1,12,0,0,0,0,0,4,0,27,13,0.48,0,0,0.0,4,1,0.25,109,115,0
+77414,1957,25700179,1958-01-24 19:00:00,Cincinnati,Royals,Philadelphia,Warriors,Regular Season,1,0,0.0,21,2,13,0,0,0,0,0,4,0,22,10,0.455,0,0,0.0,2,1,0.5,92,102,0
+77414,1957,25700185,1958-01-26 19:00:00,Cincinnati,Royals,Detroit,Pistons,Regular Season,1,1,0.0,25,0,0,0,0,0,0,0,4,0,0,10,0.0,0,0,0.0,7,5,0.713,107,103,0
+77414,1957,25700192,1958-01-30 19:00:00,Cincinnati,Royals,Minneapolis,Lakers,Regular Season,0,0,0.0,24,0,0,0,0,0,0,0,3,0,19,10,0.526,0,0,0.0,5,4,0.8,105,104,0
+77414,1957,25700197,1958-01-31 19:00:00,Cincinnati,Royals,St. Louis,Hawks,Regular Season,1,1,0.0,25,0,0,0,0,0,0,0,5,0,0,7,0.0,0,0,0.0,12,11,0.917,100,92,0
+77414,1957,25700200,1958-02-01 19:00:00,Cincinnati,Royals,St. Louis,Hawks,Regular Season,0,0,0.0,13,0,0,0,0,0,0,0,1,0,0,6,0.0,0,0,0.0,1,1,1.0,127,88,0
+77414,1957,25700205,1958-02-02 19:00:00,Cincinnati,Royals,Minneapolis,Lakers,Regular Season,0,0,0.0,14,0,0,0,0,0,0,0,2,0,0,7,0.0,0,0,0.0,0,0,0.0,106,95,0
+77414,1957,25700209,1958-02-04 19:00:00,Cincinnati,Royals,Boston,Celtics,Regular Season,0,0,0.0,20,0,0,0,0,0,0,0,4,0,0,10,0.0,0,0,0.0,1,0,0.0,107,87,0
+77414,1957,25700211,1958-02-05 19:00:00,Cincinnati,Royals,Boston,Celtics,Regular Season,0,0,32.0,16,0,12,0,0,0,0,0,3,0,17,7,0.411,0,0,0.0,2,2,1.0,116,89,0
+77414,1957,25700214,1958-02-07 19:00:00,Cincinnati,Royals,Philadelphia,Warriors,Regular Season,0,1,0.0,26,0,10,0,0,0,0,0,3,0,23,10,0.434,0,0,0.0,7,6,0.856,100,103,0
+77414,1957,25700218,1958-02-08 19:00:00,Cincinnati,Royals,Boston,Celtics,Regular Season,0,0,0.0,17,0,0,0,0,0,0,0,2,0,0,8,0.0,0,0,0.0,2,1,0.5,109,91,0
+77414,1957,25700219,1958-02-09 19:00:00,Cincinnati,Royals,Minneapolis,Lakers,Regular Season,1,1,0.0,34,0,0,0,0,0,0,0,2,0,0,15,0.0,0,0,0.0,5,4,0.8,121,104,0
+77414,1957,25700224,1958-02-11 19:00:00,Cincinnati,Royals,Minneapolis,Lakers,Regular Season,1,1,0.0,21,0,0,0,0,0,0,0,4,0,20,9,0.45,0,0,0.0,3,3,1.0,106,103,0
+77414,1957,25700233,1958-02-14 19:00:00,Cincinnati,Royals,New York,Knicks,Regular Season,1,0,0.0,21,0,0,0,0,0,0,0,3,0,0,8,0.0,0,0,0.0,5,5,1.0,92,103,0
+77414,1957,25700235,1958-02-15 19:00:00,Cincinnati,Royals,New York,Knicks,Regular Season,0,0,0.0,24,0,0,0,0,0,0,0,5,0,0,11,0.0,0,0,0.0,2,2,1.0,99,97,0
+77414,1957,25700237,1958-02-16 19:00:00,Cincinnati,Royals,Syracuse,Nationals,Regular Season,0,0,34.0,30,3,11,0,0,0,0,0,0,0,19,12,0.632,0,0,0.0,6,6,1.0,113,105,0
+77414,1957,25700247,1958-02-20 19:00:00,Cincinnati,Royals,Boston,Celtics,Regular Season,0,0,42.0,25,0,10,0,0,0,0,0,5,0,23,10,0.434,0,0,0.0,5,5,1.0,94,92,0
+77414,1957,25700249,1958-02-21 19:00:00,Cincinnati,Royals,Detroit,Pistons,Regular Season,1,0,0.0,17,0,0,0,0,0,0,0,6,0,0,7,0.0,0,0,0.0,4,3,0.75,107,109,0
+77414,1957,25700253,1958-02-22 19:00:00,Cincinnati,Royals,Minneapolis,Lakers,Regular Season,0,0,0.0,13,0,0,0,0,0,0,0,4,0,0,6,0.0,0,0,0.0,3,1,0.333,100,81,0
+77414,1957,25700255,1958-02-23 19:00:00,Cincinnati,Royals,Minneapolis,Lakers,Regular Season,1,1,0.0,25,0,0,0,0,0,0,0,3,0,0,9,0.0,0,0,0.0,7,7,1.0,111,93,0
+77414,1957,25700260,1958-02-26 19:00:00,Cincinnati,Royals,St. Louis,Hawks,Regular Season,0,0,0.0,27,0,0,0,0,0,0,0,6,0,0,8,0.0,0,0,0.0,16,11,0.687,105,103,0
+77414,1957,25700267,1958-03-01 19:00:00,Cincinnati,Royals,Philadelphia,Warriors,Regular Season,0,1,0.0,29,0,19,0,0,0,0,0,1,0,25,12,0.479,0,0,0.0,6,5,0.832,88,101,0
+77414,1957,25700269,1958-03-02 19:00:00,Cincinnati,Royals,St. Louis,Hawks,Regular Season,0,0,0.0,15,0,0,0,0,0,0,0,2,0,0,5,0.0,0,0,0.0,6,5,0.832,103,93,0
+77414,1957,25700272,1958-03-04 19:00:00,Cincinnati,Royals,Philadelphia,Warriors,Regular Season,0,0,0.0,29,2,12,0,0,0,0,0,2,0,26,13,0.5,0,0,0.0,4,3,0.75,97,91,0
+77414,1957,25700276,1958-03-06 19:00:00,Cincinnati,Royals,Philadelphia,Warriors,Regular Season,0,1,0.0,37,0,8,0,0,0,0,0,4,0,22,13,0.59,0,0,0.0,13,11,0.845,108,110,0
+77414,1957,25700280,1958-03-09 19:00:00,Cincinnati,Royals,Boston,Celtics,Regular Season,0,1,37.0,22,0,13,0,0,0,0,0,5,0,21,8,0.381,0,0,0.0,6,6,1.0,107,121,0
+77414,1957,25700284,1958-03-10 19:00:00,Cincinnati,Royals,St. Louis,Hawks,Regular Season,1,1,0.0,23,0,0,0,0,0,0,0,2,0,0,10,0.0,0,0,0.0,4,3,0.75,122,84,0
+77414,1957,25700289,1958-03-12 19:00:00,Cincinnati,Royals,Minneapolis,Lakers,Regular Season,0,1,0.0,21,0,0,0,0,0,0,0,4,0,0,9,0.0,0,0,0.0,4,3,0.75,89,96,0
+77414,1957,45700221,1958-03-15 19:00:00,Cincinnati,Royals,Detroit,Pistons,Playoffs,0,0,0.0,15,0,0,0,0,0,0,0,4,0,0,6,0.0,0,0,0.0,5,3,0.599,100,93,0
+77414,1957,45700222,1958-03-16 19:00:00,Cincinnati,Royals,Detroit,Pistons,Playoffs,1,0,0.0,18,0,0,0,0,0,0,0,5,0,0,6,0.0,0,0,0.0,9,6,0.667,104,124,0
+77414,1958,25800003,1958-10-23 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,1,1,21.0,16,0,13,0,0,0,0,0,5,0,12,6,0.5,0,0,0.0,8,4,0.5,104,103,0
+77414,1958,25800005,1958-10-25 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,0,0,0.0,7,0,0,0,0,0,0,0,4,0,0,3,0.0,0,0,0.0,1,1,1.0,117,112,0
+77414,1958,25800010,1958-10-29 19:00:00,St. Louis,Hawks,Minneapolis,Lakers,Regular Season,0,1,0.0,8,0,0,0,0,0,0,0,2,0,0,3,0.0,0,0,0.0,4,2,0.5,100,112,0
+77414,1958,25800013,1958-11-01 19:00:00,St. Louis,Hawks,Minneapolis,Lakers,Regular Season,1,0,0.0,12,0,0,0,0,0,0,0,2,0,0,3,0.0,0,0,0.0,6,6,1.0,101,108,0
+77414,1958,25800017,1958-11-02 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,0,1,0.0,24,0,0,0,0,0,0,0,4,0,0,8,0.0,0,0,0.0,10,8,0.8,90,97,0
+77414,1958,25800024,1958-11-08 19:00:00,St. Louis,Hawks,Boston,Celtics,Regular Season,1,1,0.0,14,0,17,0,0,0,0,0,4,0,24,7,0.291,0,0,0.0,0,0,0.0,87,84,0
+77414,1958,25800031,1958-11-13 19:00:00,St. Louis,Hawks,New York,Knicks,Regular Season,0,0,0.0,18,0,0,0,0,0,0,0,2,0,0,8,0.0,0,0,0.0,2,2,1.0,119,102,0
+77414,1958,25800033,1958-11-14 19:00:00,St. Louis,Hawks,Philadelphia,Warriors,Regular Season,1,1,0.0,20,0,9,0,0,0,0,0,3,0,14,8,0.57,0,0,0.0,4,4,1.0,110,100,0
+77414,1958,25800037,1958-11-15 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,1,1,0.0,19,0,0,0,0,0,0,0,5,0,0,9,0.0,0,0,0.0,1,1,1.0,102,91,0
+77414,1958,25800040,1958-11-18 19:00:00,St. Louis,Hawks,Syracuse,Nationals,Regular Season,1,0,0.0,9,0,0,0,0,0,0,0,1,0,0,3,0.0,0,0,0.0,3,3,1.0,94,120,0
+77414,1958,25800045,1958-11-22 19:00:00,St. Louis,Hawks,Minneapolis,Lakers,Regular Season,1,1,0.0,18,0,19,0,0,0,0,0,5,0,0,6,0.0,0,0,0.0,7,6,0.856,114,109,0
+77414,1958,25800051,1958-11-23 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,0,1,0.0,24,0,10,0,0,0,0,0,5,0,0,11,0.0,0,0,0.0,2,2,1.0,89,100,0
+77414,1958,25800054,1958-11-25 19:00:00,St. Louis,Hawks,Philadelphia,Warriors,Regular Season,0,0,0.0,6,0,4,0,0,0,0,0,1,0,6,3,0.5,0,0,0.0,0,0,0.0,106,105,0
+77414,1958,25800057,1958-11-26 19:00:00,St. Louis,Hawks,Syracuse,Nationals,Regular Season,0,1,20.0,11,0,2,0,0,0,0,0,6,0,10,4,0.4,0,0,0.0,3,3,1.0,107,112,0
+77414,1958,25800059,1958-11-27 19:00:00,St. Louis,Hawks,Syracuse,Nationals,Regular Season,1,1,0.0,20,0,0,0,0,0,0,0,4,0,0,10,0.0,0,0,0.0,0,0,0.0,107,98,0
+77414,1958,25800066,1958-11-29 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,1,1,0.0,20,0,0,0,0,0,0,0,1,0,0,8,0.0,0,0,0.0,4,4,1.0,98,86,0
+77414,1958,25800071,1958-12-02 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,1,1,0.0,16,0,0,0,0,0,0,0,2,0,0,6,0.0,0,0,0.0,4,4,1.0,105,81,0
+77414,1958,25800072,1958-12-03 19:00:00,St. Louis,Hawks,Boston,Celtics,Regular Season,0,1,29.0,16,5,11,0,0,0,0,0,4,0,18,7,0.389,0,0,0.0,4,2,0.5,110,119,0
+77414,1958,25800075,1958-12-04 19:00:00,St. Louis,Hawks,Philadelphia,Warriors,Regular Season,0,1,25.0,18,2,13,0,0,0,0,0,2,0,19,9,0.473,0,0,0.0,0,0,0.0,92,107,0
+77414,1958,25800078,1958-12-06 19:00:00,St. Louis,Hawks,Philadelphia,Warriors,Regular Season,1,1,0.0,16,2,14,0,0,0,0,0,3,0,18,8,0.444,0,0,0.0,0,0,0.0,107,97,0
+77414,1958,25800087,1958-12-10 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,0,0,0.0,5,0,0,0,0,0,0,0,3,0,0,1,0.0,0,0,0.0,3,3,1.0,89,82,0
+77414,1958,25800092,1958-12-12 19:00:00,St. Louis,Hawks,New York,Knicks,Regular Season,0,0,0.0,21,0,0,0,0,0,0,0,4,0,0,10,0.0,0,0,0.0,4,1,0.25,106,104,0
+77414,1958,25800095,1958-12-13 19:00:00,St. Louis,Hawks,New York,Knicks,Regular Season,1,1,0.0,6,0,0,0,0,0,0,0,1,0,8,3,0.375,0,0,0.0,0,0,0.0,108,94,0
+77414,1958,25800100,1958-12-17 19:00:00,St. Louis,Hawks,New York,Knicks,Regular Season,1,1,0.0,15,0,0,0,0,0,0,0,0,0,0,4,0.0,0,0,0.0,8,7,0.875,136,122,0
+77414,1958,25800106,1958-12-20 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,0,1,0.0,17,0,0,0,0,0,0,0,0,0,0,6,0.0,0,0,0.0,7,5,0.713,104,111,0
+77414,1958,25800109,1958-12-21 19:00:00,St. Louis,Hawks,Philadelphia,Warriors,Regular Season,1,1,29.0,27,2,10,0,0,0,0,0,4,0,16,11,0.687,0,0,0.0,5,5,1.0,98,86,0
+77414,1958,25800112,1958-12-25 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,0,1,0.0,21,0,0,0,0,0,0,0,4,0,0,8,0.0,0,0,0.0,5,5,1.0,92,100,0
+77414,1958,25800116,1958-12-27 19:00:00,St. Louis,Hawks,Philadelphia,Warriors,Regular Season,0,0,0.0,30,2,17,0,0,0,0,0,5,0,23,11,0.477,0,0,0.0,8,8,1.0,114,108,0
+77414,1958,25800120,1958-12-29 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,1,1,0.0,14,0,0,0,0,0,0,0,4,0,0,7,0.0,0,0,0.0,4,0,0.0,124,112,0
+77414,1958,25800125,1958-12-30 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,0,1,17.0,7,0,11,0,0,0,0,0,2,0,11,3,0.273,0,0,0.0,1,1,1.0,104,119,0
+77414,1958,25800131,1959-01-03 19:00:00,St. Louis,Hawks,Boston,Celtics,Regular Season,1,1,0.0,17,0,0,0,0,0,0,0,2,0,21,7,0.333,0,0,0.0,3,3,1.0,116,110,0
+77414,1958,25800133,1959-01-04 19:00:00,St. Louis,Hawks,New York,Knicks,Regular Season,1,0,0.0,13,0,0,0,0,0,0,0,5,0,0,5,0.0,0,0,0.0,6,3,0.5,114,122,0
+77414,1958,25800141,1959-01-06 19:00:00,St. Louis,Hawks,Minneapolis,Lakers,Regular Season,1,1,0.0,9,0,0,0,0,0,0,0,1,0,0,4,0.0,0,0,0.0,2,1,0.5,112,95,0
+77414,1958,25800143,1959-01-07 19:00:00,St. Louis,Hawks,Minneapolis,Lakers,Regular Season,1,1,0.0,4,0,0,0,0,0,0,0,1,0,0,2,0.0,0,0,0.0,0,0,0.0,89,78,0
+77414,1958,25800146,1959-01-08 19:00:00,St. Louis,Hawks,Minneapolis,Lakers,Regular Season,0,0,0.0,2,0,0,0,0,0,0,0,3,0,0,1,0.0,0,0,0.0,0,0,0.0,95,93,0
+77414,1958,25800147,1959-01-09 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,1,1,0.0,10,0,0,0,0,0,0,0,2,0,0,5,0.0,0,0,0.0,0,0,0.0,112,101,0
+77414,1958,25800154,1959-01-11 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,1,1,21.0,12,0,8,0,0,0,0,0,5,0,17,5,0.293,0,0,0.0,2,2,1.0,111,100,0
+77414,1958,25800156,1959-01-13 19:00:00,St. Louis,Hawks,Minneapolis,Lakers,Regular Season,1,1,0.0,11,0,0,0,0,0,0,0,6,0,0,3,0.0,0,0,0.0,6,5,0.832,110,95,0
+77414,1958,25800159,1959-01-14 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,0,1,0.0,8,0,1,0,0,0,0,0,2,0,9,3,0.333,0,0,0.0,3,2,0.667,108,114,0
+77414,1958,25800165,1959-01-16 19:00:00,St. Louis,Hawks,Syracuse,Nationals,Regular Season,1,1,0.0,17,0,0,0,0,0,0,0,3,0,0,7,0.0,0,0,0.0,3,3,1.0,102,89,0
+77414,1958,25800169,1959-01-18 19:00:00,St. Louis,Hawks,Boston,Celtics,Regular Season,0,0,24.0,16,0,5,0,0,0,0,0,2,0,18,7,0.389,0,0,0.0,2,2,1.0,139,117,0
+77414,1958,25800172,1959-01-20 19:00:00,St. Louis,Hawks,Boston,Celtics,Regular Season,1,1,26.0,9,0,9,0,0,0,0,0,4,0,12,4,0.333,0,0,0.0,1,1,1.0,119,114,0
+77414,1958,25800181,1959-01-25 19:00:00,St. Louis,Hawks,New York,Knicks,Regular Season,1,1,0.0,13,0,0,0,0,0,0,0,4,0,0,6,0.0,0,0,0.0,2,1,0.5,115,111,0
+77414,1958,25800185,1959-01-27 19:00:00,St. Louis,Hawks,New York,Knicks,Regular Season,0,1,0.0,6,0,0,0,0,0,0,0,3,0,0,2,0.0,0,0,0.0,2,2,1.0,111,112,0
+77414,1958,25800188,1959-01-28 19:00:00,St. Louis,Hawks,Boston,Celtics,Regular Season,0,0,34.0,21,0,14,0,0,0,0,0,5,0,18,8,0.444,0,0,0.0,5,5,1.0,120,111,0
+77414,1958,25800192,1959-01-30 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,1,1,0.0,13,0,0,0,0,0,0,0,4,0,0,6,0.0,0,0,0.0,1,1,1.0,118,87,0
+77414,1958,25800196,1959-01-31 19:00:00,St. Louis,Hawks,Minneapolis,Lakers,Regular Season,1,1,0.0,14,0,0,0,0,0,0,0,1,0,0,4,0.0,0,0,0.0,7,6,0.856,120,96,0
+77414,1958,25800200,1959-02-01 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,1,1,26.0,15,0,11,0,0,0,0,0,4,0,8,6,0.75,0,0,0.0,3,3,1.0,130,96,0
+77414,1958,25800203,1959-02-03 19:00:00,St. Louis,Hawks,Boston,Celtics,Regular Season,0,0,21.0,3,0,6,0,0,0,0,0,3,0,5,1,0.2,0,0,0.0,1,1,1.0,104,97,0
+77414,1958,25800206,1959-02-04 19:00:00,St. Louis,Hawks,Syracuse,Nationals,Regular Season,0,1,0.0,30,0,7,0,0,0,0,0,2,0,16,12,0.75,0,0,0.0,7,6,0.856,111,113,0
+77414,1958,25800208,1959-02-05 19:00:00,St. Louis,Hawks,Philadelphia,Warriors,Regular Season,0,0,0.0,8,0,3,0,0,0,0,0,1,0,6,4,0.667,0,0,0.0,0,0,0.0,106,95,0
+77414,1958,25800210,1959-02-06 19:00:00,St. Louis,Hawks,Boston,Celtics,Regular Season,0,0,8.0,2,0,1,0,0,0,0,0,2,0,4,1,0.25,0,0,0.0,0,0,0.0,122,95,0
+77414,1958,25800216,1959-02-08 19:00:00,St. Louis,Hawks,Philadelphia,Warriors,Regular Season,1,1,0.0,11,1,8,0,0,0,0,0,2,0,11,5,0.455,0,0,0.0,4,1,0.25,100,93,0
+77414,1958,25800220,1959-02-09 19:00:00,St. Louis,Hawks,Syracuse,Nationals,Regular Season,1,1,20.0,10,0,7,0,0,0,0,0,2,0,13,3,0.231,0,0,0.0,6,4,0.667,99,94,0
+77414,1958,25800226,1959-02-12 19:00:00,St. Louis,Hawks,New York,Knicks,Regular Season,1,1,0.0,6,0,0,0,0,0,0,0,1,0,0,2,0.0,0,0,0.0,3,2,0.667,106,105,0
+77414,1958,25800229,1959-02-14 19:00:00,St. Louis,Hawks,Minneapolis,Lakers,Regular Season,1,1,0.0,11,0,0,0,0,0,0,0,2,0,8,4,0.5,0,0,0.0,3,3,1.0,139,96,0
+77414,1958,25800232,1959-02-15 19:00:00,St. Louis,Hawks,Minneapolis,Lakers,Regular Season,0,0,0.0,12,0,0,0,0,0,0,0,3,0,13,6,0.462,0,0,0.0,0,0,0.0,109,98,0
+77414,1958,25800243,1959-02-21 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,1,1,28.0,26,0,11,0,0,0,0,0,3,0,13,8,0.614,0,0,0.0,15,10,0.667,121,120,0
+77414,1958,25800248,1959-02-22 19:00:00,St. Louis,Hawks,Minneapolis,Lakers,Regular Season,1,1,21.0,17,0,8,0,0,0,0,0,3,0,7,4,0.57,0,0,0.0,10,9,0.9,120,106,0
+77414,1958,25800253,1959-02-25 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,0,1,0.0,18,0,4,0,0,0,0,0,5,0,13,7,0.538,0,0,0.0,4,4,1.0,100,104,0
+77414,1958,25800255,1959-02-26 19:00:00,St. Louis,Hawks,Syracuse,Nationals,Regular Season,0,0,29.0,16,0,10,0,0,0,0,0,2,0,15,5,0.333,0,0,0.0,8,6,0.75,130,111,0
+77414,1958,25800259,1959-02-27 19:00:00,St. Louis,Hawks,Syracuse,Nationals,Regular Season,1,1,16.0,17,0,0,0,0,0,0,0,2,0,8,6,0.75,0,0,0.0,5,5,1.0,128,113,0
+77414,1958,25800260,1959-02-28 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,0,0,0.0,27,0,0,0,0,0,0,0,4,0,0,10,0.0,0,0,0.0,9,7,0.778,124,122,0
+77414,1958,25800263,1959-03-01 19:00:00,St. Louis,Hawks,Boston,Celtics,Regular Season,1,1,0.0,10,0,7,0,0,0,0,0,2,0,9,5,0.556,0,0,0.0,2,0,0.0,104,102,0
+77414,1958,25800269,1959-03-03 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,1,1,28.0,22,0,9,0,0,0,0,0,4,0,14,10,0.713,0,0,0.0,2,2,1.0,113,102,0
+77414,1958,25800273,1959-03-04 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,0,0,0.0,17,0,9,0,0,0,0,0,3,0,12,6,0.5,0,0,0.0,7,5,0.713,127,97,0
+77414,1958,25800276,1959-03-05 19:00:00,St. Louis,Hawks,Philadelphia,Warriors,Regular Season,0,0,0.0,15,0,7,0,0,0,0,0,2,0,11,4,0.363,0,0,0.0,8,7,0.875,106,101,0
+77414,1958,25800279,1959-03-07 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,1,1,0.0,18,0,0,0,0,0,0,0,5,0,0,8,0.0,0,0,0.0,2,2,1.0,137,128,0
+77414,1958,25800283,1959-03-08 19:00:00,St. Louis,Hawks,Minneapolis,Lakers,Regular Season,0,0,0.0,8,0,0,0,0,0,0,0,3,0,0,3,0.0,0,0,0.0,2,2,1.0,120,104,0
+77414,1958,25800287,1959-03-11 19:00:00,St. Louis,Hawks,Syracuse,Nationals,Regular Season,0,1,0.0,20,0,0,0,0,0,0,0,5,0,0,9,0.0,0,0,0.0,2,2,1.0,130,132,0
+77414,1958,45800311,1959-03-21 19:00:00,St. Louis,Hawks,Minneapolis,Lakers,Playoffs,1,1,0.0,18,0,0,0,0,0,0,0,3,0,15,7,0.467,0,0,0.0,5,4,0.8,124,90,0
+77414,1958,45800312,1959-03-22 19:00:00,St. Louis,Hawks,Minneapolis,Lakers,Playoffs,0,0,0.0,12,0,4,0,0,0,0,0,2,0,5,4,0.8,0,0,0.0,4,4,1.0,106,98,0
+77414,1958,45800313,1959-03-24 19:00:00,St. Louis,Hawks,Minneapolis,Lakers,Playoffs,1,1,22.0,7,0,8,0,0,0,0,0,3,0,10,3,0.299,0,0,0.0,1,1,1.0,127,97,0
+77414,1958,45800314,1959-03-26 19:00:00,St. Louis,Hawks,Minneapolis,Lakers,Playoffs,0,0,0.0,16,0,6,0,0,0,0,0,4,0,13,7,0.538,0,0,0.0,5,2,0.4,108,98,0
+77414,1958,45800315,1959-03-28 19:00:00,St. Louis,Hawks,Minneapolis,Lakers,Playoffs,1,0,0.0,21,0,7,0,0,0,0,0,6,0,13,9,0.691,0,0,0.0,3,3,1.0,97,98,0
+77414,1958,45800316,1959-03-29 19:00:00,St. Louis,Hawks,Minneapolis,Lakers,Playoffs,0,0,0.0,18,0,15,0,0,0,0,0,5,0,14,5,0.356,0,0,0.0,10,8,0.8,106,104,0
+77414,1959,25900006,1959-10-24 19:00:00,St. Louis,Hawks,Minneapolis,Lakers,Regular Season,1,0,0.0,15,0,18,0,0,0,0,0,4,0,11,6,0.545,0,0,0.0,3,3,1.0,87,94,0
+77414,1959,25900013,1959-10-31 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,1,1,0.0,33,0,13,0,0,0,0,0,2,0,0,13,0.0,0,0,0.0,8,7,0.875,109,102,0
+77414,1959,25900015,1959-11-01 19:00:00,St. Louis,Hawks,Minneapolis,Lakers,Regular Season,0,1,0.0,16,0,0,0,0,0,0,0,1,0,0,5,0.0,0,0,0.0,7,6,0.856,101,138,0
+77414,1959,25900016,1959-11-03 19:00:00,St. Louis,Hawks,Boston,Celtics,Regular Season,1,0,0.0,12,0,11,0,0,0,0,0,3,0,21,6,0.285,0,0,0.0,0,0,0.0,98,103,0
+77414,1959,25900021,1959-11-07 19:00:00,St. Louis,Hawks,New York,Knicks,Regular Season,1,1,0.0,13,0,0,0,0,0,0,0,3,0,0,5,0.0,0,0,0.0,4,3,0.75,117,113,0
+77414,1959,25900030,1959-11-10 19:00:00,St. Louis,Hawks,Minneapolis,Lakers,Regular Season,1,1,0.0,17,0,23,0,0,0,0,0,2,0,17,5,0.293,0,0,0.0,8,7,0.875,134,105,0
+77414,1959,25900036,1959-11-14 19:00:00,St. Louis,Hawks,Boston,Celtics,Regular Season,0,0,34.0,20,0,12,0,0,0,0,0,3,0,18,7,0.389,0,0,0.0,7,6,0.856,113,111,0
+77414,1959,25900045,1959-11-17 19:00:00,St. Louis,Hawks,New York,Knicks,Regular Season,0,0,0.0,11,0,0,0,0,0,0,0,1,0,0,4,0.0,0,0,0.0,4,3,0.75,105,97,0
+77414,1959,25900050,1959-11-20 19:00:00,St. Louis,Hawks,Philadelphia,Warriors,Regular Season,0,1,0.0,24,2,6,0,0,0,0,0,5,0,21,9,0.428,0,0,0.0,8,6,0.75,117,118,0
+77414,1959,25900054,1959-11-21 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,1,0,0.0,16,0,0,0,0,0,0,0,6,0,0,5,0.0,0,0,0.0,8,6,0.75,107,109,0
+77414,1959,25900080,1959-12-04 19:00:00,St. Louis,Hawks,Philadelphia,Warriors,Regular Season,0,0,0.0,17,2,8,0,0,0,0,0,5,0,19,7,0.367,0,0,0.0,6,3,0.5,124,112,0
+77414,1959,25900083,1959-12-05 19:00:00,St. Louis,Hawks,Philadelphia,Warriors,Regular Season,1,1,0.0,20,1,11,0,0,0,0,0,5,0,20,8,0.4,0,0,0.0,6,4,0.667,113,112,0
+77414,1959,25900087,1959-12-06 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,0,1,0.0,14,0,6,0,0,0,0,0,2,0,0,6,0.0,0,0,0.0,2,2,1.0,104,118,0
+77414,1959,25900090,1959-12-08 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,0,0,0.0,7,0,7,0,0,0,0,0,4,0,0,2,0.0,0,0,0.0,4,3,0.75,105,101,0
+77414,1959,25900096,1959-12-10 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,1,1,0.0,15,0,0,0,0,0,0,0,5,0,0,7,0.0,0,0,0.0,2,1,0.5,129,111,0
+77414,1959,25900098,1959-12-11 19:00:00,St. Louis,Hawks,Boston,Celtics,Regular Season,0,0,25.0,19,0,13,0,0,0,0,0,4,0,15,8,0.533,0,0,0.0,4,3,0.75,122,99,0
+77414,1959,25900103,1959-12-13 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,1,1,0.0,12,0,10,0,0,0,0,0,3,0,11,3,0.273,0,0,0.0,6,6,1.0,118,98,0
+77414,1959,25900104,1959-12-15 19:00:00,St. Louis,Hawks,New York,Knicks,Regular Season,0,1,0.0,25,0,0,0,0,0,0,0,3,0,0,9,0.0,0,0,0.0,8,7,0.875,110,119,0
+77414,1959,25900107,1959-12-16 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,0,1,0.0,17,0,6,0,0,0,0,0,6,0,11,7,0.636,0,0,0.0,3,3,1.0,106,107,0
+77414,1959,25900113,1959-12-19 19:00:00,St. Louis,Hawks,Philadelphia,Warriors,Regular Season,1,1,0.0,14,2,13,0,0,0,0,0,5,0,19,6,0.316,0,0,0.0,4,2,0.5,102,89,0
+77414,1959,25900116,1959-12-20 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,1,1,0.0,18,0,13,0,0,0,0,0,4,0,12,7,0.582,0,0,0.0,5,4,0.8,102,86,0
+77414,1959,25900122,1959-12-25 19:00:00,St. Louis,Hawks,Minneapolis,Lakers,Regular Season,1,1,0.0,9,0,13,0,0,0,0,0,1,0,11,4,0.363,0,0,0.0,2,1,0.5,112,96,0
+77414,1959,25900125,1959-12-26 19:00:00,St. Louis,Hawks,Syracuse,Nationals,Regular Season,0,0,0.0,23,0,0,0,0,0,0,0,1,0,0,10,0.0,0,0,0.0,3,3,1.0,117,104,0
+77414,1959,25900128,1959-12-28 19:00:00,St. Louis,Hawks,Syracuse,Nationals,Regular Season,1,1,0.0,16,0,10,0,0,0,0,0,4,0,13,7,0.538,0,0,0.0,3,2,0.667,120,106,0
+77414,1959,25900134,1959-12-30 19:00:00,St. Louis,Hawks,Boston,Celtics,Regular Season,1,0,0.0,17,0,16,0,0,0,0,0,2,0,20,4,0.2,0,0,0.0,9,9,1.0,82,96,0
+77414,1959,25900137,1960-01-01 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,0,0,0.0,22,0,0,0,0,0,0,0,2,0,0,8,0.0,0,0,0.0,8,6,0.75,119,107,0
+77414,1959,25900141,1960-01-02 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,1,1,0.0,21,0,0,0,0,0,0,0,3,0,0,7,0.0,0,0,0.0,7,7,1.0,114,113,0
+77414,1959,25900144,1960-01-03 19:00:00,St. Louis,Hawks,New York,Knicks,Regular Season,1,1,0.0,37,0,0,0,0,0,0,0,3,0,0,15,0.0,0,0,0.0,9,7,0.778,110,108,0
+77414,1959,25900150,1960-01-06 19:00:00,St. Louis,Hawks,Philadelphia,Warriors,Regular Season,0,0,28.0,18,0,3,0,0,0,0,0,4,0,20,9,0.45,0,0,0.0,0,0,0.0,121,101,0
+77414,1959,25900154,1960-01-08 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,0,0,0.0,25,0,8,0,0,0,0,0,4,0,0,10,0.0,0,0,0.0,7,5,0.713,112,102,0
+77414,1959,25900158,1960-01-10 19:00:00,St. Louis,Hawks,Boston,Celtics,Regular Season,1,1,0.0,29,0,15,0,0,0,0,0,5,0,19,10,0.526,0,0,0.0,11,9,0.817,121,111,0
+77414,1959,25900164,1960-01-12 19:00:00,St. Louis,Hawks,Philadelphia,Warriors,Regular Season,0,0,0.0,25,3,13,0,0,0,0,0,3,0,22,12,0.545,0,0,0.0,1,1,1.0,126,108,0
+77414,1959,25900167,1960-01-13 19:00:00,St. Louis,Hawks,Boston,Celtics,Regular Season,0,0,29.0,26,0,11,0,0,0,0,0,3,0,14,9,0.643,0,0,0.0,10,8,0.8,134,112,0
+77414,1959,25900169,1960-01-14 19:00:00,St. Louis,Hawks,Syracuse,Nationals,Regular Season,0,0,0.0,15,0,0,0,0,0,0,0,5,0,0,7,0.0,0,0,0.0,1,1,1.0,119,112,0
+77414,1959,25900170,1960-01-15 19:00:00,St. Louis,Hawks,Syracuse,Nationals,Regular Season,1,1,0.0,36,0,15,0,0,0,0,0,6,0,27,14,0.519,0,0,0.0,10,8,0.8,141,140,0
+77414,1959,25900176,1960-01-17 19:00:00,St. Louis,Hawks,Minneapolis,Lakers,Regular Season,1,1,0.0,16,0,12,0,0,0,0,0,3,0,16,5,0.313,0,0,0.0,6,6,1.0,135,119,0
+77414,1959,25900182,1960-01-20 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,0,1,0.0,18,0,2,0,0,0,0,0,5,0,12,8,0.667,0,0,0.0,2,2,1.0,108,119,0
+77414,1959,35900001,1960-01-22 19:00:00,West NBA All Stars,West,East NBA All Stars,East,All-Star Game,0,0,0.0,12,1,8,0,0,0,0,0,1,0,11,6,0.545,0,0,0.0,0,0,0.0,0,0,0
+77414,1959,25900186,1960-01-23 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,1,1,0.0,17,0,7,0,0,0,0,0,4,0,0,8,0.0,0,0,0.0,1,1,1.0,108,100,0
+77414,1959,25900187,1960-01-24 19:00:00,St. Louis,Hawks,New York,Knicks,Regular Season,1,1,0.0,39,4,10,0,0,0,0,0,4,0,32,15,0.468,0,0,0.0,12,9,0.75,155,129,0
+77414,1959,25900191,1960-01-26 19:00:00,St. Louis,Hawks,New York,Knicks,Regular Season,0,0,0.0,26,0,5,0,0,0,0,0,6,0,18,10,0.556,0,0,0.0,8,6,0.75,123,119,0
+77414,1959,25900194,1960-01-27 19:00:00,St. Louis,Hawks,Boston,Celtics,Regular Season,0,0,42.0,29,2,14,0,0,0,0,0,2,0,26,13,0.5,0,0,0.0,5,3,0.599,127,114,0
+77414,1959,25900197,1960-01-29 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,1,1,0.0,30,0,19,0,0,0,0,0,5,0,25,13,0.52,0,0,0.0,6,4,0.667,130,125,0
+77414,1959,25900202,1960-01-30 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,0,0,0.0,17,0,5,0,0,0,0,0,0,0,0,6,0.0,0,0,0.0,5,5,1.0,117,107,0
+77414,1959,25900205,1960-01-31 19:00:00,St. Louis,Hawks,Syracuse,Nationals,Regular Season,1,1,0.0,39,9,23,0,0,0,0,0,5,0,29,15,0.517,0,0,0.0,10,9,0.9,117,110,0
+77414,1959,25900208,1960-02-02 19:00:00,St. Louis,Hawks,Boston,Celtics,Regular Season,1,1,0.0,25,0,13,0,0,0,0,0,4,0,21,10,0.475,0,0,0.0,5,5,1.0,114,113,0
+77414,1959,25900211,1960-02-03 19:00:00,St. Louis,Hawks,New York,Knicks,Regular Season,1,1,0.0,29,0,0,0,0,0,0,0,3,0,0,10,0.0,0,0,0.0,11,9,0.817,125,115,0
+77414,1959,25900223,1960-02-07 19:00:00,St. Louis,Hawks,Philadelphia,Warriors,Regular Season,1,1,0.0,18,1,9,0,0,0,0,0,5,0,15,8,0.533,0,0,0.0,2,2,1.0,130,108,0
+77414,1959,25900227,1960-02-09 19:00:00,St. Louis,Hawks,New York,Knicks,Regular Season,1,1,0.0,16,0,10,0,0,0,0,0,4,0,12,5,0.416,0,0,0.0,7,6,0.856,114,104,0
+77414,1959,25900231,1960-02-10 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,0,1,0.0,31,0,10,0,0,0,0,0,4,0,0,11,0.0,0,0,0.0,11,9,0.817,110,120,0
+77414,1959,25900233,1960-02-11 19:00:00,St. Louis,Hawks,Philadelphia,Warriors,Regular Season,0,0,0.0,15,0,3,0,0,0,0,0,1,0,9,5,0.556,0,0,0.0,6,5,0.832,139,120,0
+77414,1959,25900239,1960-02-13 19:00:00,St. Louis,Hawks,New York,Knicks,Regular Season,0,0,0.0,16,0,0,0,0,0,0,0,2,0,0,6,0.0,0,0,0.0,6,4,0.667,122,104,0
+77414,1959,25900242,1960-02-14 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,1,1,0.0,33,0,12,0,0,0,0,0,5,0,24,14,0.582,0,0,0.0,10,5,0.5,107,105,0
+77414,1959,25900246,1960-02-16 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,0,1,0.0,24,0,9,0,0,0,0,0,2,0,19,9,0.473,0,0,0.0,8,6,0.75,104,111,0
+77414,1959,25900247,1960-02-17 19:00:00,St. Louis,Hawks,Minneapolis,Lakers,Regular Season,1,1,0.0,22,0,0,0,0,0,0,0,1,0,21,9,0.428,0,0,0.0,4,4,1.0,131,127,0
+77414,1959,25900252,1960-02-19 19:00:00,St. Louis,Hawks,Minneapolis,Lakers,Regular Season,0,0,0.0,26,0,0,0,0,0,0,0,4,0,0,9,0.0,0,0,0.0,11,8,0.726,111,101,0
+77414,1959,25900256,1960-02-20 19:00:00,St. Louis,Hawks,Boston,Celtics,Regular Season,1,1,0.0,18,0,0,0,0,0,0,0,4,0,22,8,0.363,0,0,0.0,4,2,0.5,121,105,0
+77414,1959,25900260,1960-02-21 19:00:00,St. Louis,Hawks,Minneapolis,Lakers,Regular Season,0,0,0.0,16,0,0,0,0,0,0,0,2,0,0,3,0.0,0,0,0.0,10,10,1.0,112,98,0
+77414,1959,25900261,1960-02-22 19:00:00,St. Louis,Hawks,Minneapolis,Lakers,Regular Season,1,1,0.0,14,0,0,0,0,0,0,0,2,0,0,3,0.0,0,0,0.0,8,8,1.0,113,103,0
+77414,1959,25900265,1960-02-24 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,0,0,0.0,26,0,8,0,0,0,0,0,5,0,21,13,0.618,0,0,0.0,0,0,0.0,124,122,0
+77414,1959,25900270,1960-02-25 19:00:00,St. Louis,Hawks,Syracuse,Nationals,Regular Season,0,0,0.0,26,0,13,0,0,0,0,0,4,0,0,10,0.0,0,0,0.0,8,6,0.75,110,105,0
+77414,1959,25900273,1960-02-27 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,1,0,0.0,34,0,20,0,0,0,0,0,4,0,28,12,0.428,0,0,0.0,11,10,0.909,114,116,0
+77414,1959,25900278,1960-02-28 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,1,1,0.0,20,0,10,0,0,0,0,0,6,0,18,9,0.5,0,0,0.0,4,2,0.5,122,105,0
+77414,1959,25900281,1960-03-01 19:00:00,St. Louis,Hawks,Minneapolis,Lakers,Regular Season,1,1,0.0,20,0,16,0,0,0,0,0,6,0,17,9,0.529,0,0,0.0,2,2,1.0,109,101,0
+77414,1959,25900284,1960-03-02 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,0,0,0.0,23,0,8,0,0,0,0,0,5,0,12,9,0.75,0,0,0.0,5,5,1.0,116,100,0
+77414,1959,25900290,1960-03-05 19:00:00,St. Louis,Hawks,Minneapolis,Lakers,Regular Season,0,1,0.0,10,0,15,0,0,0,0,0,5,0,16,4,0.25,0,0,0.0,2,2,1.0,106,107,0
+77414,1959,25900293,1960-03-06 19:00:00,St. Louis,Hawks,Philadelphia,Warriors,Regular Season,1,1,0.0,24,0,8,0,0,0,0,0,4,0,21,11,0.524,0,0,0.0,2,2,1.0,128,109,0
+77414,1959,25900295,1960-03-08 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,1,1,0.0,17,0,13,0,0,0,0,0,1,0,16,5,0.313,0,0,0.0,7,7,1.0,122,101,0
+77414,1959,25900299,1960-03-09 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,0,1,0.0,8,0,7,0,0,0,0,0,4,0,0,4,0.0,0,0,0.0,0,0,0.0,116,123,0
+77414,1959,45900311,1960-03-16 19:00:00,St. Louis,Hawks,Minneapolis,Lakers,Playoffs,1,1,0.0,12,0,7,0,0,0,0,0,4,0,15,5,0.333,0,0,0.0,2,2,1.0,112,99,0
+77414,1959,45900312,1960-03-17 19:00:00,St. Louis,Hawks,Minneapolis,Lakers,Playoffs,1,0,0.0,30,0,13,0,0,0,0,0,2,0,25,10,0.4,0,0,0.0,10,10,1.0,113,120,0
+77414,1959,45900313,1960-03-19 19:00:00,St. Louis,Hawks,Minneapolis,Lakers,Playoffs,0,1,23.0,6,0,8,0,0,0,0,0,5,0,15,2,0.133,0,0,0.0,2,2,1.0,89,93,0
+77414,1959,45900314,1960-03-20 19:00:00,St. Louis,Hawks,Minneapolis,Lakers,Playoffs,0,0,0.0,21,0,15,0,0,0,0,0,5,0,17,7,0.411,0,0,0.0,10,7,0.699,103,101,0
+77414,1959,45900315,1960-03-22 19:00:00,St. Louis,Hawks,Minneapolis,Lakers,Playoffs,1,0,0.0,17,0,16,0,0,0,0,0,5,0,16,3,0.188,0,0,0.0,15,11,0.732,110,117,0
+77414,1959,45900316,1960-03-24 19:00:00,St. Louis,Hawks,Minneapolis,Lakers,Playoffs,0,1,0.0,29,0,11,0,0,0,0,0,3,0,17,12,0.705,0,0,0.0,6,5,0.832,96,117,0
+77414,1959,45900317,1960-03-26 19:00:00,St. Louis,Hawks,Minneapolis,Lakers,Playoffs,1,1,0.0,16,0,10,0,0,0,0,0,2,0,9,6,0.667,0,0,0.0,5,4,0.8,97,86,0
+77414,1959,45900411,1960-03-27 19:00:00,St. Louis,Hawks,Boston,Celtics,Playoffs,0,0,25.0,16,3,7,0,0,0,0,0,2,0,21,8,0.381,0,0,0.0,1,0,0.0,140,122,0
+77414,1959,45900412,1960-03-29 19:00:00,St. Louis,Hawks,Boston,Celtics,Playoffs,0,1,28.0,21,3,11,0,0,0,0,0,5,0,21,8,0.381,0,0,0.0,6,5,0.832,103,113,0
+77414,1959,45900413,1960-04-02 19:00:00,St. Louis,Hawks,Boston,Celtics,Playoffs,1,0,29.0,15,6,14,0,0,0,0,0,5,0,12,5,0.416,0,0,0.0,5,5,1.0,86,102,0
+77414,1959,45900414,1960-04-03 19:00:00,St. Louis,Hawks,Boston,Celtics,Playoffs,1,1,29.0,16,2,10,0,0,0,0,0,3,0,15,8,0.533,0,0,0.0,0,0,0.0,106,96,0
+77414,1959,45900415,1960-04-05 19:00:00,St. Louis,Hawks,Boston,Celtics,Playoffs,0,0,30.0,11,2,7,0,0,0,0,0,3,0,19,5,0.263,0,0,0.0,1,1,1.0,127,102,0
+77414,1959,45900416,1960-04-07 19:00:00,St. Louis,Hawks,Boston,Celtics,Playoffs,1,1,37.0,18,7,15,0,0,0,0,0,5,0,21,8,0.381,0,0,0.0,2,2,1.0,105,102,0
+77414,1959,45900417,1960-04-09 19:00:00,St. Louis,Hawks,Boston,Celtics,Playoffs,0,0,41.0,18,4,7,0,0,0,0,0,4,0,19,8,0.42,0,0,0.0,3,2,0.667,122,103,0
+77414,1960,26000006,1960-10-22 19:00:00,St. Louis,Hawks,Los Angeles,Lakers,Regular Season,1,1,0.0,28,0,0,0,0,0,0,0,5,0,22,11,0.5,0,0,0.0,6,6,1.0,112,96,0
+77414,1960,26000007,1960-10-23 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,0,0,0.0,23,0,8,0,0,0,0,0,4,0,0,11,0.0,0,0,0.0,2,1,0.5,114,103,0
+77414,1960,26000010,1960-10-25 19:00:00,St. Louis,Hawks,Syracuse,Nationals,Regular Season,1,1,0.0,15,0,10,0,0,0,0,0,3,0,15,4,0.267,0,0,0.0,8,7,0.875,123,100,0
+77414,1960,26000018,1960-10-29 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,1,1,0.0,12,0,10,0,0,0,0,0,3,0,0,4,0.0,0,0,0.0,6,4,0.667,113,97,0
+77414,1960,26000020,1960-11-02 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,0,1,0.0,15,0,0,0,0,0,0,0,5,0,0,6,0.0,0,0,0.0,3,3,1.0,117,132,0
+77414,1960,26000026,1960-11-05 19:00:00,St. Louis,Hawks,New York,Knicks,Regular Season,1,1,0.0,23,0,0,0,0,0,0,0,3,0,12,7,0.582,0,0,0.0,9,9,1.0,119,104,0
+77414,1960,26000038,1960-11-12 19:00:00,St. Louis,Hawks,Philadelphia,Warriors,Regular Season,1,1,0.0,24,1,16,0,0,0,0,0,3,0,26,11,0.422,0,0,0.0,2,2,1.0,107,105,0
+77414,1960,26000044,1960-11-16 19:00:00,St. Louis,Hawks,Boston,Celtics,Regular Season,0,0,28.0,14,1,0,0,0,0,0,0,2,0,15,6,0.4,0,0,0.0,2,2,1.0,124,106,0
+77414,1960,26000047,1960-11-17 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,1,1,0.0,26,4,7,0,0,0,0,0,3,0,30,11,0.366,0,0,0.0,4,4,1.0,112,105,0
+77414,1960,26000048,1960-11-18 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,0,0,0.0,26,0,6,0,0,0,0,0,3,0,0,10,0.0,0,0,0.0,7,6,0.856,129,128,0
+77414,1960,26000051,1960-11-19 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,1,1,0.0,33,0,13,0,0,0,0,0,3,0,25,11,0.44,0,0,0.0,9,11,1.221,121,120,0
+77414,1960,26000056,1960-11-22 19:00:00,St. Louis,Hawks,New York,Knicks,Regular Season,0,1,0.0,32,0,8,0,0,0,0,0,4,0,21,13,0.618,0,0,0.0,11,6,0.545,119,120,0
+77414,1960,26000063,1960-11-24 19:00:00,St. Louis,Hawks,Syracuse,Nationals,Regular Season,1,1,31.0,19,0,9,0,0,0,0,0,1,0,13,8,0.614,0,0,0.0,3,3,1.0,132,97,0
+77414,1960,26000067,1960-11-26 19:00:00,St. Louis,Hawks,Los Angeles,Lakers,Regular Season,1,1,0.0,22,0,0,0,0,0,0,0,4,0,18,9,0.5,0,0,0.0,4,4,1.0,126,113,0
+77414,1960,26000074,1960-11-29 19:00:00,St. Louis,Hawks,Boston,Celtics,Regular Season,1,0,34.0,12,0,10,0,0,0,0,0,4,0,15,6,0.4,0,0,0.0,0,0,0.0,109,119,0
+77414,1960,26000077,1960-11-30 19:00:00,St. Louis,Hawks,Syracuse,Nationals,Regular Season,0,0,0.0,23,0,0,0,0,0,0,0,5,0,24,9,0.375,0,0,0.0,7,5,0.713,135,126,0
+77414,1960,26000082,1960-12-02 19:00:00,St. Louis,Hawks,New York,Knicks,Regular Season,0,1,34.0,25,0,11,0,0,0,0,0,4,0,19,10,0.526,0,0,0.0,5,5,1.0,133,139,0
+77414,1960,26000084,1960-12-03 19:00:00,St. Louis,Hawks,Philadelphia,Warriors,Regular Season,0,1,0.0,23,1,9,0,0,0,0,0,6,0,20,11,0.55,0,0,0.0,1,1,1.0,127,131,0
+77414,1960,26000090,1960-12-06 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,1,1,19.0,18,0,6,0,0,0,0,0,3,0,0,8,0.0,0,0,0.0,3,2,0.667,146,110,0
+77414,1960,26000094,1960-12-07 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,0,0,24.0,8,0,7,0,0,0,0,0,4,0,9,2,0.222,0,0,0.0,5,4,0.8,113,83,0
+77414,1960,26000098,1960-12-09 19:00:00,St. Louis,Hawks,Syracuse,Nationals,Regular Season,1,1,0.0,21,0,0,0,0,0,0,0,3,0,0,8,0.0,0,0,0.0,5,5,1.0,131,118,0
+77414,1960,26000099,1960-12-10 19:00:00,St. Louis,Hawks,Los Angeles,Lakers,Regular Season,1,1,38.0,29,0,10,0,0,0,0,0,4,0,27,12,0.444,0,0,0.0,6,5,0.832,111,108,0
+77414,1960,26000103,1960-12-12 19:00:00,St. Louis,Hawks,Los Angeles,Lakers,Regular Season,0,1,0.0,20,0,12,0,0,0,0,0,5,0,21,9,0.428,0,0,0.0,2,2,1.0,103,114,0
+77414,1960,26000109,1960-12-14 19:00:00,St. Louis,Hawks,Los Angeles,Lakers,Regular Season,0,0,0.0,19,0,13,0,0,0,0,0,1,0,12,8,0.667,0,0,0.0,4,3,0.75,124,113,0
+77414,1960,26000112,1960-12-16 19:00:00,St. Louis,Hawks,Philadelphia,Warriors,Regular Season,1,1,42.0,24,1,11,0,0,0,0,0,5,0,22,11,0.5,0,0,0.0,3,2,0.667,112,107,0
+77414,1960,26000115,1960-12-17 19:00:00,St. Louis,Hawks,New York,Knicks,Regular Season,1,1,0.0,22,0,0,0,0,0,0,0,3,0,17,9,0.529,0,0,0.0,5,4,0.8,116,103,0
+77414,1960,26000117,1960-12-18 19:00:00,St. Louis,Hawks,Syracuse,Nationals,Regular Season,0,1,0.0,16,0,0,0,0,0,0,0,5,0,0,8,0.0,0,0,0.0,1,0,0.0,103,104,0
+77414,1960,26000123,1960-12-21 19:00:00,St. Louis,Hawks,Boston,Celtics,Regular Season,0,0,0.0,16,0,0,0,0,0,0,0,2,0,0,8,0.0,0,0,0.0,0,0,0.0,120,108,0
+77414,1960,26000130,1960-12-26 19:00:00,St. Louis,Hawks,Syracuse,Nationals,Regular Season,1,1,28.0,22,0,10,0,0,0,0,0,4,0,21,10,0.475,0,0,0.0,4,2,0.5,133,112,0
+77414,1960,26000135,1960-12-28 19:00:00,St. Louis,Hawks,Boston,Celtics,Regular Season,1,1,40.0,24,0,15,0,0,0,0,0,6,0,21,12,0.57,0,0,0.0,1,0,0.0,105,99,0
+77414,1960,26000142,1960-12-30 19:00:00,St. Louis,Hawks,Los Angeles,Lakers,Regular Season,1,1,36.0,24,0,19,0,0,0,0,0,3,0,23,10,0.434,0,0,0.0,5,4,0.8,107,99,0
+77414,1960,26000143,1961-01-01 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,0,0,0.0,20,0,7,0,0,0,0,0,0,0,19,8,0.42,0,0,0.0,5,4,0.8,114,112,0
+77414,1960,26000156,1961-01-05 19:00:00,St. Louis,Hawks,Los Angeles,Lakers,Regular Season,0,0,0.0,17,0,9,0,0,0,0,0,3,0,0,5,0.0,0,0,0.0,8,7,0.875,110,96,0
+77414,1960,26000157,1961-01-06 19:00:00,St. Louis,Hawks,Los Angeles,Lakers,Regular Season,0,1,0.0,21,7,16,0,0,0,0,0,3,0,0,6,0.0,0,0,0.0,11,9,0.817,104,108,0
+77414,1960,26000162,1961-01-08 19:00:00,St. Louis,Hawks,Boston,Celtics,Regular Season,1,1,36.0,23,0,10,0,0,0,0,0,4,0,21,9,0.428,0,0,0.0,5,5,1.0,133,104,0
+77414,1960,26000163,1961-01-10 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,1,1,29.0,12,0,7,0,0,0,0,0,2,0,13,4,0.307,0,0,0.0,6,4,0.667,119,110,0
+77414,1960,26000166,1961-01-11 19:00:00,St. Louis,Hawks,Syracuse,Nationals,Regular Season,0,0,0.0,31,0,6,0,0,0,0,0,6,0,24,15,0.625,0,0,0.0,3,1,0.333,133,128,0
+77414,1960,26000171,1961-01-12 19:00:00,St. Louis,Hawks,Philadelphia,Warriors,Regular Season,0,0,0.0,29,1,16,0,0,0,0,0,5,0,21,12,0.57,0,0,0.0,6,5,0.832,111,102,0
+77414,1960,26000176,1961-01-14 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,1,1,0.0,19,0,0,0,0,0,0,0,5,0,19,9,0.473,0,0,0.0,2,1,0.5,135,113,0
+77414,1960,26000178,1961-01-15 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,0,0,25.0,16,0,11,0,0,0,0,0,4,0,11,4,0.363,0,0,0.0,8,8,1.0,137,122,0
+77414,1960,36000001,1961-01-17 19:00:00,West NBA All Stars,West,East NBA All Stars,East,All-Star Game,0,1,0.0,21,3,10,0,0,0,0,0,4,0,19,10,0.526,0,0,0.0,1,1,1.0,0,0,0
+77414,1960,26000183,1961-01-18 19:00:00,St. Louis,Hawks,Boston,Celtics,Regular Season,0,1,45.0,28,2,14,0,0,0,0,0,6,0,27,11,0.406,0,0,0.0,7,6,0.856,114,125,0
+77414,1960,26000184,1961-01-19 19:00:00,St. Louis,Hawks,Philadelphia,Warriors,Regular Season,0,0,36.0,25,4,13,0,0,0,0,0,4,0,33,12,0.363,0,0,0.0,1,1,1.0,129,127,0
+77414,1960,26000195,1961-01-24 19:00:00,St. Louis,Hawks,Philadelphia,Warriors,Regular Season,1,1,0.0,20,3,11,0,0,0,0,0,4,0,23,10,0.434,0,0,0.0,0,0,0.0,114,112,0
+77414,1960,26000201,1961-01-25 19:00:00,St. Louis,Hawks,New York,Knicks,Regular Season,1,1,34.0,25,0,8,0,0,0,0,0,3,0,0,11,0.0,0,0,0.0,4,3,0.75,116,109,0
+77414,1960,26000206,1961-01-28 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,1,1,24.0,17,0,7,0,0,0,0,0,3,0,15,8,0.533,0,0,0.0,4,1,0.25,136,116,0
+77414,1960,26000210,1961-01-29 19:00:00,St. Louis,Hawks,Syracuse,Nationals,Regular Season,1,1,31.0,25,0,10,0,0,0,0,0,4,0,19,10,0.526,0,0,0.0,5,5,1.0,125,108,0
+77414,1960,26000215,1961-01-31 19:00:00,St. Louis,Hawks,Boston,Celtics,Regular Season,1,0,36.0,22,0,13,0,0,0,0,0,5,0,28,8,0.285,0,0,0.0,7,6,0.856,103,109,0
+77414,1960,26000216,1961-02-01 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,1,1,0.0,21,0,0,0,0,0,0,0,4,0,0,9,0.0,0,0,0.0,3,3,1.0,137,131,0
+77414,1960,26000220,1961-02-02 19:00:00,St. Louis,Hawks,Los Angeles,Lakers,Regular Season,0,0,34.0,24,1,7,0,0,0,0,0,5,0,20,10,0.5,0,0,0.0,5,4,0.8,116,115,0
+77414,1960,26000224,1961-02-04 19:00:00,St. Louis,Hawks,New York,Knicks,Regular Season,0,1,0.0,19,1,9,0,0,0,0,0,2,0,17,6,0.352,0,0,0.0,7,7,1.0,111,128,0
+77414,1960,26000227,1961-02-05 19:00:00,St. Louis,Hawks,Boston,Celtics,Regular Season,0,0,32.0,29,0,0,0,0,0,0,0,3,0,21,10,0.475,0,0,0.0,9,9,1.0,123,121,0
+77414,1960,26000231,1961-02-07 19:00:00,St. Louis,Hawks,Philadelphia,Warriors,Regular Season,1,1,40.0,29,3,15,0,0,0,0,0,5,0,24,12,0.5,0,0,0.0,5,5,1.0,127,124,0
+77414,1960,26000236,1961-02-08 19:00:00,St. Louis,Hawks,Los Angeles,Lakers,Regular Season,0,0,0.0,23,0,7,0,0,0,0,0,2,0,17,7,0.411,0,0,0.0,10,9,0.9,120,103,0
+77414,1960,26000239,1961-02-09 19:00:00,St. Louis,Hawks,Los Angeles,Lakers,Regular Season,0,1,0.0,22,0,10,0,0,0,0,0,5,0,17,8,0.47,0,0,0.0,7,6,0.856,113,123,0
+77414,1960,26000242,1961-02-11 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,1,1,0.0,25,0,8,0,0,0,0,0,4,0,22,7,0.318,0,0,0.0,14,11,0.786,123,122,0
+77414,1960,26000248,1961-02-12 19:00:00,St. Louis,Hawks,Los Angeles,Lakers,Regular Season,1,0,30.0,24,0,1,0,0,0,0,0,3,0,22,10,0.455,0,0,0.0,5,4,0.8,95,105,0
+77414,1960,26000250,1961-02-14 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,1,1,31.0,27,0,5,0,0,0,0,0,3,0,22,11,0.5,0,0,0.0,7,5,0.713,135,134,0
+77414,1960,26000265,1961-02-19 19:00:00,St. Louis,Hawks,New York,Knicks,Regular Season,1,0,26.0,24,0,9,0,0,0,0,0,4,0,16,10,0.625,0,0,0.0,6,4,0.667,100,123,0
+77414,1960,26000268,1961-02-21 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,1,1,24.0,14,0,7,0,0,0,0,0,2,0,11,5,0.455,0,0,0.0,5,4,0.8,126,114,0
+77414,1960,26000274,1961-02-23 19:00:00,St. Louis,Hawks,Syracuse,Nationals,Regular Season,0,0,0.0,26,0,0,0,0,0,0,0,5,0,0,11,0.0,0,0,0.0,5,4,0.8,144,116,0
+77414,1960,26000276,1961-02-24 19:00:00,St. Louis,Hawks,New York,Knicks,Regular Season,0,1,0.0,28,0,7,0,0,0,0,0,4,0,18,11,0.61,0,0,0.0,7,6,0.856,119,122,0
+77414,1960,26000278,1961-02-25 19:00:00,St. Louis,Hawks,Boston,Celtics,Regular Season,1,0,41.0,17,0,15,0,0,0,0,0,4,0,19,8,0.42,0,0,0.0,1,1,1.0,109,122,0
+77414,1960,26000279,1961-02-26 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,0,1,0.0,30,0,12,0,0,0,0,0,3,0,0,13,0.0,0,0,0.0,4,4,1.0,122,148,0
+77414,1960,26000286,1961-02-28 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,0,0,24.0,15,0,5,0,0,0,0,0,3,0,20,6,0.299,0,0,0.0,4,3,0.75,131,105,0
+77414,1960,26000290,1961-03-01 19:00:00,St. Louis,Hawks,Boston,Celtics,Regular Season,0,1,48.0,18,2,21,0,0,0,0,0,3,0,27,8,0.295,0,0,0.0,4,2,0.5,97,110,0
+77414,1960,26000296,1961-03-04 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,1,1,0.0,27,0,0,0,0,0,0,0,2,0,20,11,0.55,0,0,0.0,5,5,1.0,104,102,0
+77414,1960,26000313,1961-03-11 19:00:00,St. Louis,Hawks,Philadelphia,Warriors,Regular Season,1,1,28.0,21,3,12,0,0,0,0,0,5,0,18,10,0.556,0,0,0.0,1,1,1.0,130,87,0
+77414,1960,46000311,1961-03-21 19:00:00,St. Louis,Hawks,Los Angeles,Lakers,Playoffs,1,0,39.0,24,0,11,0,0,0,0,0,5,0,20,9,0.45,0,0,0.0,11,6,0.545,118,122,0
+77414,1960,46000312,1961-03-22 19:00:00,St. Louis,Hawks,Los Angeles,Lakers,Playoffs,1,1,27.0,28,0,7,0,0,0,0,0,2,0,18,10,0.556,0,0,0.0,10,8,0.8,121,106,0
+77414,1960,46000313,1961-03-24 19:00:00,St. Louis,Hawks,Los Angeles,Lakers,Playoffs,0,0,25.0,8,0,8,0,0,0,0,0,0,0,10,4,0.4,0,0,0.0,3,0,0.0,118,112,0
+77414,1960,46000314,1961-03-25 19:00:00,St. Louis,Hawks,Los Angeles,Lakers,Playoffs,0,1,26.0,18,0,8,0,0,0,0,0,4,0,15,6,0.4,0,0,0.0,7,6,0.856,117,118,0
+77414,1960,46000315,1961-03-27 19:00:00,St. Louis,Hawks,Los Angeles,Lakers,Playoffs,1,0,11.0,3,0,3,0,0,0,0,0,0,0,6,1,0.167,0,0,0.0,2,1,0.5,112,121,0
+77414,1960,46000413,1961-04-08 19:00:00,St. Louis,Hawks,Boston,Celtics,Playoffs,1,1,20.0,16,1,3,0,0,0,0,0,4,0,13,6,0.462,0,0,0.0,5,4,0.8,124,120,0
+77414,1960,46000414,1961-04-09 19:00:00,St. Louis,Hawks,Boston,Celtics,Playoffs,1,0,18.0,11,2,9,0,0,0,0,0,5,0,15,4,0.267,0,0,0.0,6,3,0.5,104,119,0
+77414,1960,46000415,1961-04-11 19:00:00,St. Louis,Hawks,Boston,Celtics,Playoffs,0,0,25.0,15,1,3,0,0,0,0,0,3,0,17,6,0.352,0,0,0.0,3,3,1.0,121,112,0
+77414,1961,26100005,1961-10-21 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,1,0,34.0,16,0,8,0,0,0,0,0,2,0,15,7,0.467,0,0,0.0,2,2,1.0,129,138,0
+77414,1961,26100010,1961-10-24 19:00:00,St. Louis,Hawks,New York,Knicks,Regular Season,0,0,25.0,20,0,6,0,0,0,0,0,6,0,9,8,0.889,0,0,0.0,6,4,0.667,112,110,0
+77414,1961,26100013,1961-10-26 19:00:00,St. Louis,Hawks,Syracuse,Nationals,Regular Season,0,1,36.0,28,0,9,0,0,0,0,0,2,0,23,11,0.477,0,0,0.0,12,6,0.5,107,110,0
+77414,1961,26100016,1961-10-27 19:00:00,St. Louis,Hawks,Chicago,Packers,Regular Season,0,0,0.0,22,0,0,0,0,0,0,0,5,0,0,11,0.0,0,0,0.0,0,0,0.0,117,106,0
+77414,1961,26100020,1961-10-28 19:00:00,St. Louis,Hawks,Chicago,Packers,Regular Season,1,1,28.0,19,0,11,0,0,0,0,0,2,0,13,7,0.538,0,0,0.0,7,5,0.713,122,95,0
+77414,1961,26100023,1961-10-31 19:00:00,St. Louis,Hawks,Syracuse,Nationals,Regular Season,1,0,41.0,26,0,11,0,0,0,0,0,3,0,18,10,0.556,0,0,0.0,7,6,0.856,90,107,0
+77414,1961,26100029,1961-11-03 19:00:00,St. Louis,Hawks,Syracuse,Nationals,Regular Season,0,1,25.0,19,0,9,0,0,0,0,0,4,0,17,8,0.47,0,0,0.0,3,3,1.0,94,106,0
+77414,1961,26100032,1961-11-04 19:00:00,St. Louis,Hawks,New York,Knicks,Regular Season,1,1,31.0,25,0,7,0,0,0,0,0,6,0,21,11,0.524,0,0,0.0,6,3,0.5,112,111,0
+77414,1961,26100034,1961-11-07 19:00:00,St. Louis,Hawks,Los Angeles,Lakers,Regular Season,1,0,32.0,32,0,12,0,0,0,0,0,4,0,23,12,0.522,0,0,0.0,9,8,0.889,110,127,0
+77414,1961,26100037,1961-11-08 19:00:00,St. Louis,Hawks,Los Angeles,Lakers,Regular Season,0,0,43.0,33,0,8,0,0,0,0,0,2,0,25,15,0.599,0,0,0.0,3,3,1.0,124,118,0
+77414,1961,26100044,1961-11-11 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,1,1,0.0,23,0,10,0,0,0,0,0,5,0,23,9,0.391,0,0,0.0,6,5,0.832,132,119,0
+77414,1961,26100047,1961-11-12 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,0,0,0.0,24,0,11,0,0,0,0,0,5,0,25,10,0.4,0,0,0.0,4,4,1.0,136,126,0
+77414,1961,26100051,1961-11-14 19:00:00,St. Louis,Hawks,Boston,Celtics,Regular Season,1,0,16.0,2,0,6,0,0,0,0,0,4,0,10,1,0.1,0,0,0.0,0,0,0.0,117,119,0
+77414,1961,26100054,1961-11-15 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,0,0,43.0,25,0,13,0,0,0,0,0,3,0,20,8,0.4,0,0,0.0,10,9,0.9,127,122,0
+77414,1961,26100060,1961-11-18 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,1,1,36.0,31,0,9,0,0,0,0,0,4,0,20,12,0.599,0,0,0.0,8,7,0.875,136,133,0
+77414,1961,26100069,1961-11-22 19:00:00,St. Louis,Hawks,Boston,Celtics,Regular Season,0,0,38.0,21,2,6,0,0,0,0,0,4,0,19,10,0.526,0,0,0.0,1,1,1.0,141,121,0
+77414,1961,26100071,1961-11-23 19:00:00,St. Louis,Hawks,Los Angeles,Lakers,Regular Season,1,0,30.0,24,0,18,0,0,0,0,0,5,0,20,10,0.5,0,0,0.0,6,4,0.667,114,122,0
+77414,1961,26100074,1961-11-24 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,0,0,0.0,20,0,0,0,0,0,0,0,4,0,0,8,0.0,0,0,0.0,4,4,1.0,142,135,0
+77414,1961,26100077,1961-11-25 19:00:00,St. Louis,Hawks,Syracuse,Nationals,Regular Season,1,1,22.0,18,0,5,0,0,0,0,0,3,0,12,8,0.667,0,0,0.0,2,2,1.0,141,108,0
+77414,1961,26100085,1961-11-28 19:00:00,St. Louis,Hawks,Philadelphia,Warriors,Regular Season,1,0,31.0,16,2,8,0,0,0,0,0,6,0,20,8,0.4,0,0,0.0,0,0,0.0,111,121,0
+77414,1961,26100091,1961-12-01 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,1,1,31.0,28,0,7,0,0,0,0,0,3,0,18,12,0.667,0,0,0.0,4,4,1.0,119,116,0
+77414,1961,26100095,1961-12-02 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,0,0,0.0,14,0,0,0,0,0,0,0,4,0,0,6,0.0,0,0,0.0,2,2,1.0,118,109,0
+77414,1961,26100100,1961-12-05 19:00:00,St. Louis,Hawks,Chicago,Packers,Regular Season,0,0,26.0,17,0,9,0,0,0,0,0,6,0,17,6,0.352,0,0,0.0,5,5,1.0,101,99,0
+77414,1961,26100101,1961-12-06 19:00:00,St. Louis,Hawks,Philadelphia,Warriors,Regular Season,0,1,0.0,22,3,13,0,0,0,0,0,4,0,29,10,0.344,0,0,0.0,2,2,1.0,132,137,0
+77414,1961,26100106,1961-12-08 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,0,0,0.0,25,0,10,0,0,0,0,0,1,0,19,9,0.473,0,0,0.0,7,7,1.0,128,123,0
+77414,1961,26100112,1961-12-09 19:00:00,St. Louis,Hawks,New York,Knicks,Regular Season,1,1,18.0,9,0,4,0,0,0,0,0,2,0,9,4,0.444,0,0,0.0,2,1,0.5,102,91,0
+77414,1961,26100115,1961-12-11 19:00:00,St. Louis,Hawks,Los Angeles,Lakers,Regular Season,0,0,35.0,32,0,11,0,0,0,0,0,2,0,17,12,0.705,0,0,0.0,9,8,0.889,132,119,0
+77414,1961,26100119,1961-12-13 19:00:00,St. Louis,Hawks,Los Angeles,Lakers,Regular Season,0,0,44.0,34,0,13,0,0,0,0,0,5,0,30,15,0.5,0,0,0.0,6,4,0.667,137,136,0
+77414,1961,26100126,1961-12-15 19:00:00,St. Louis,Hawks,New York,Knicks,Regular Season,1,1,33.0,20,0,15,0,0,0,0,0,3,0,17,9,0.529,0,0,0.0,4,2,0.5,120,108,0
+77414,1961,26100129,1961-12-16 19:00:00,St. Louis,Hawks,Boston,Celtics,Regular Season,0,0,34.0,18,3,13,0,0,0,0,0,4,0,19,9,0.473,0,0,0.0,0,0,0.0,130,113,0
+77414,1961,26100135,1961-12-19 19:00:00,St. Louis,Hawks,New York,Knicks,Regular Season,0,0,31.0,15,0,10,0,0,0,0,0,3,0,16,3,0.188,0,0,0.0,10,9,0.9,128,111,0
+77414,1961,26100141,1961-12-23 19:00:00,St. Louis,Hawks,Los Angeles,Lakers,Regular Season,1,0,34.0,20,0,6,0,0,0,0,0,1,0,14,6,0.428,0,0,0.0,8,8,1.0,126,129,0
+77414,1961,26100148,1961-12-26 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,1,0,23.0,19,0,7,0,0,0,0,0,0,0,16,8,0.5,0,0,0.0,3,3,1.0,118,129,0
+77414,1961,26100153,1961-12-27 19:00:00,St. Louis,Hawks,Cincinnati,Royals,Regular Season,0,0,0.0,15,0,4,0,0,0,0,0,3,0,17,7,0.411,0,0,0.0,1,1,1.0,142,117,0
+77414,1961,26100157,1961-12-28 19:00:00,St. Louis,Hawks,Boston,Celtics,Regular Season,1,0,26.0,19,0,12,0,0,0,0,0,1,0,15,6,0.4,0,0,0.0,7,7,1.0,109,117,0
+77414,1961,26100165,1961-12-30 19:00:00,St. Louis,Hawks,Chicago,Packers,Regular Season,1,1,0.0,31,0,0,0,0,0,0,0,5,0,0,12,0.0,0,0,0.0,9,7,0.778,101,92,0
+77414,1961,26100166,1962-01-01 19:00:00,St. Louis,Hawks,Detroit,Pistons,Regular Season,0,1,20.0,21,0,4,0,0,0,0,0,5,0,17,8,0.47,0,0,0.0,6,5,0.832,139,145,0
+77414,1961,26100171,1962-01-02 19:00:00,St. Louis,Hawks,Boston,Celtics,Regular Season,0,0,29.0,8,0,8,0,0,0,0,0,1,0,15,4,0.267,0,0,0.0,0,0,0.0,136,99,0
+77414,1961,26100176,1962-01-05 19:00:00,St. Louis,Hawks,Philadelphia,Warriors,Regular Season,0,0,0.0,26,2,10,0,0,0,0,0,4,0,25,11,0.44,0,0,0.0,5,4,0.8,134,116,0
+77414,1961,26100252,1962-02-03 19:00:00,St. Louis,Hawks,Los Angeles,Lakers,Regular Season,1,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,1,0,0.0,124,127,0
+77414,1962,26200004,1962-10-20 19:00:00,Boston,Celtics,New York,Knicks,Regular Season,1,1,20.0,13,2,12,0,0,0,0,0,4,0,12,5,0.416,0,0,0.0,3,3,1.0,149,116,0
+77414,1962,26200016,1962-10-26 19:00:00,Boston,Celtics,New York,Knicks,Regular Season,0,1,0.0,2,0,0,0,0,0,0,0,2,0,0,1,0.0,0,0,0.0,0,0,0.0,108,133,0
+77414,1962,26200021,1962-10-27 19:00:00,Boston,Celtics,Syracuse,Nationals,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0.0,0,0,0.0,118,98,0
+77414,1962,26200024,1962-10-30 19:00:00,Boston,Celtics,St. Louis,Hawks,Regular Season,0,0,3.0,0,0,0,0,0,0,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,98,97,0
+77414,1962,26200026,1962-10-31 19:00:00,Boston,Celtics,Detroit,Pistons,Regular Season,0,1,0.0,6,0,0,0,0,0,0,0,4,0,0,3,0.0,0,0,0.0,0,0,0.0,100,115,0
+77414,1962,26200031,1962-11-03 19:00:00,Boston,Celtics,Detroit,Pistons,Regular Season,1,1,7.0,3,0,0,0,0,0,0,0,3,0,5,1,0.2,0,0,0.0,2,1,0.5,125,114,0
+77414,1962,26200040,1962-11-09 19:00:00,Boston,Celtics,Los Angeles,Lakers,Regular Season,1,0,5.0,7,0,0,0,0,0,0,0,3,0,4,3,0.75,0,0,0.0,1,1,1.0,120,133,0
+77414,1962,26200048,1962-11-11 19:00:00,Boston,Celtics,New York,Knicks,Regular Season,1,1,0.0,6,0,0,0,0,0,0,0,2,0,0,3,0.0,0,0,0.0,1,0,0.0,117,98,0
+77414,1962,26200049,1962-11-12 19:00:00,Boston,Celtics,Cincinnati,Royals,Regular Season,1,1,11.0,10,0,3,0,0,0,0,0,3,0,7,4,0.57,0,0,0.0,2,2,1.0,137,126,0
+77414,1962,26200059,1962-11-16 19:00:00,Boston,Celtics,Syracuse,Nationals,Regular Season,0,0,0.0,4,0,0,0,0,0,0,0,3,0,0,1,0.0,0,0,0.0,2,2,1.0,113,105,0
+77414,1962,26200062,1962-11-17 19:00:00,Boston,Celtics,San Francisco,Warriors,Regular Season,1,1,7.0,2,0,3,0,0,0,0,0,5,0,4,0,0.0,0,0,0.0,4,2,0.5,127,109,0
+77414,1962,26200067,1962-11-20 19:00:00,Boston,Celtics,Chicago,Zephyrs,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,113,106,0
+77414,1962,26200072,1962-11-21 19:00:00,Boston,Celtics,St. Louis,Hawks,Regular Season,1,1,0.0,4,0,0,0,0,0,0,0,2,0,0,2,0.0,0,0,0.0,0,0,0.0,115,106,0
+77414,1962,26200073,1962-11-22 19:00:00,Boston,Celtics,Syracuse,Nationals,Regular Season,0,0,0.0,4,0,0,0,0,0,0,0,0,0,0,2,0.0,0,0,0.0,0,0,0.0,130,120,0
+77414,1962,26200083,1962-11-24 19:00:00,Boston,Celtics,St. Louis,Hawks,Regular Season,0,0,0.0,8,0,0,0,0,0,0,0,5,0,0,3,0.0,0,0,0.0,2,2,1.0,97,95,0
+77414,1962,26200087,1962-11-27 19:00:00,Boston,Celtics,Detroit,Pistons,Regular Season,1,1,28.0,16,0,0,0,0,0,0,0,4,0,0,6,0.0,0,0,0.0,5,4,0.8,125,115,0
+77414,1962,26200099,1962-12-02 19:00:00,Boston,Celtics,Cincinnati,Royals,Regular Season,0,1,0.0,6,0,1,0,0,0,0,0,2,0,3,2,0.667,0,0,0.0,2,2,1.0,127,128,0
+77414,1962,26200105,1962-12-05 19:00:00,Boston,Celtics,Detroit,Pistons,Regular Season,0,1,0.0,10,0,0,0,0,0,0,0,2,0,0,5,0.0,0,0,0.0,1,0,0.0,93,106,0
+77414,1962,26200110,1962-12-07 19:00:00,Boston,Celtics,Los Angeles,Lakers,Regular Season,1,1,11.0,7,1,2,0,0,0,0,0,1,0,7,3,0.428,0,0,0.0,1,1,1.0,126,112,0
+77414,1962,26200113,1962-12-08 19:00:00,Boston,Celtics,Syracuse,Nationals,Regular Season,0,0,0.0,2,0,0,0,0,0,0,0,0,0,0,1,0.0,0,0,0.0,0,0,0.0,102,97,0
+77414,1962,26200121,1962-12-11 19:00:00,Boston,Celtics,New York,Knicks,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,95,87,0
+77414,1962,26200129,1962-12-15 19:00:00,Boston,Celtics,Cincinnati,Royals,Regular Season,1,0,5.0,6,0,3,0,0,0,0,0,4,0,7,3,0.428,0,0,0.0,0,0,0.0,120,124,0
+77414,1962,26200148,1962-12-22 19:00:00,Boston,Celtics,New York,Knicks,Regular Season,1,0,4.0,4,0,1,0,0,0,0,0,1,0,3,2,0.667,0,0,0.0,2,0,0.0,106,120,0
+77414,1962,26200153,1962-12-26 19:00:00,Boston,Celtics,San Francisco,Warriors,Regular Season,1,1,10.0,10,0,6,0,0,0,0,0,5,0,6,4,0.667,0,0,0.0,2,2,1.0,116,113,0
+77414,1962,26200155,1962-12-27 19:00:00,Boston,Celtics,San Francisco,Warriors,Regular Season,1,1,11.0,2,0,2,0,0,0,0,0,1,0,3,0,0.0,0,0,0.0,2,2,1.0,108,102,0
+77414,1962,26200162,1962-12-29 19:00:00,Boston,Celtics,St. Louis,Hawks,Regular Season,0,0,0.0,10,0,0,0,0,0,0,0,3,0,0,5,0.0,0,0,0.0,0,0,0.0,102,100,0
+77414,1962,26200166,1963-01-02 19:00:00,Boston,Celtics,San Francisco,Warriors,Regular Season,0,1,6.0,4,1,2,0,0,0,0,0,2,0,5,2,0.4,0,0,0.0,0,0,0.0,120,135,0
+77414,1962,26200171,1963-01-04 19:00:00,Boston,Celtics,Los Angeles,Lakers,Regular Season,0,0,0.0,2,0,1,0,0,0,0,0,2,0,2,1,0.5,0,0,0.0,1,0,0.0,125,123,0
+77414,1962,26200176,1963-01-05 19:00:00,Boston,Celtics,Los Angeles,Lakers,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,1,0,2,0,0.0,0,0,0.0,0,0,0.0,106,104,0
+77414,1962,26200183,1963-01-08 19:00:00,Boston,Celtics,San Francisco,Warriors,Regular Season,0,1,8.0,4,1,5,0,0,0,0,0,2,0,3,2,0.667,0,0,0.0,0,0,0.0,112,118,0
+77414,1962,26200186,1963-01-09 19:00:00,Boston,Celtics,Chicago,Zephyrs,Regular Season,0,0,0.0,16,0,0,0,0,0,0,0,5,0,0,6,0.0,0,0,0.0,5,4,0.8,131,123,0
+77414,1962,26200192,1963-01-11 19:00:00,Boston,Celtics,Syracuse,Nationals,Regular Season,1,1,5.0,2,0,0,0,0,0,0,0,2,0,2,1,0.5,0,0,0.0,0,0,0.0,134,117,0
+77414,1962,26200201,1963-01-13 19:00:00,Boston,Celtics,Chicago,Zephyrs,Regular Season,1,1,28.0,24,4,6,0,0,0,0,0,5,0,19,11,0.578,0,0,0.0,4,2,0.5,143,99,0
+77414,1962,26200204,1963-01-17 19:00:00,Boston,Celtics,Chicago,Zephyrs,Regular Season,1,1,0.0,11,0,0,0,0,0,0,0,4,0,0,5,0.0,0,0,0.0,1,1,1.0,110,93,0
+77414,1962,26200207,1963-01-19 19:00:00,Boston,Celtics,Syracuse,Nationals,Regular Season,0,0,0.0,9,0,0,0,0,0,0,0,3,0,0,4,0.0,0,0,0.0,2,1,0.5,149,148,0
+77414,1962,26200215,1963-01-22 19:00:00,Boston,Celtics,New York,Knicks,Regular Season,0,1,0.0,10,0,0,0,0,0,0,0,1,0,0,4,0.0,0,0,0.0,2,2,1.0,100,124,0
+77414,1962,26200221,1963-01-24 19:00:00,Boston,Celtics,St. Louis,Hawks,Regular Season,1,1,4.0,4,0,0,0,0,0,0,0,2,0,2,1,0.5,0,0,0.0,2,2,1.0,111,109,0
+77414,1962,26200225,1963-01-25 19:00:00,Boston,Celtics,St. Louis,Hawks,Regular Season,1,1,16.0,12,0,9,0,0,0,0,0,4,0,13,4,0.307,0,0,0.0,4,4,1.0,113,98,0
+77414,1962,26200230,1963-01-27 19:00:00,Boston,Celtics,New York,Knicks,Regular Season,1,1,21.0,14,1,0,0,0,0,0,0,2,0,14,7,0.5,0,0,0.0,0,0,0.0,123,110,0
+77414,1962,26200234,1963-01-29 19:00:00,Boston,Celtics,Chicago,Zephyrs,Regular Season,1,1,0.0,4,0,0,0,0,0,0,0,1,0,0,2,0.0,0,0,0.0,0,0,0.0,100,99,0
+77414,1962,26200236,1963-01-30 19:00:00,Boston,Celtics,San Francisco,Warriors,Regular Season,1,1,6.0,10,0,2,0,0,0,0,0,4,0,7,5,0.713,0,0,0.0,0,0,0.0,125,111,0
+77414,1962,26200243,1963-02-01 19:00:00,Boston,Celtics,Syracuse,Nationals,Regular Season,1,0,4.0,2,0,0,0,0,0,0,0,3,0,4,1,0.25,0,0,0.0,0,0,0.0,111,125,0
+77414,1962,26200247,1963-02-03 19:00:00,Boston,Celtics,Detroit,Pistons,Regular Season,1,1,5.0,3,0,0,0,0,0,0,0,1,0,2,0,0.0,0,0,0.0,3,3,1.0,137,128,0
+77414,1962,26200256,1963-02-06 19:00:00,Boston,Celtics,Syracuse,Nationals,Regular Season,0,0,0.0,12,0,0,0,0,0,0,0,4,0,0,6,0.0,0,0,0.0,1,0,0.0,126,109,0
+77414,1962,26200261,1963-02-08 19:00:00,Boston,Celtics,New York,Knicks,Regular Season,0,1,0.0,14,0,0,0,0,0,0,0,3,0,0,4,0.0,0,0,0.0,7,6,0.856,97,129,0
+77414,1962,26200264,1963-02-09 19:00:00,Boston,Celtics,San Francisco,Warriors,Regular Season,1,1,17.0,18,2,2,0,0,0,0,0,5,0,10,7,0.699,0,0,0.0,4,4,1.0,118,112,0
+77414,1962,26200266,1963-02-10 19:00:00,Boston,Celtics,New York,Knicks,Regular Season,1,1,5.0,4,0,0,0,0,0,0,0,1,0,4,2,0.5,0,0,0.0,0,0,0.0,129,123,0
+77414,1962,26200272,1963-02-12 19:00:00,Boston,Celtics,Los Angeles,Lakers,Regular Season,1,1,0.0,7,0,2,0,0,0,0,0,0,0,3,3,1.0,0,0,0.0,1,1,1.0,120,93,0
+77414,1962,26200285,1963-02-16 19:00:00,Boston,Celtics,St. Louis,Hawks,Regular Season,0,1,7.0,3,0,4,0,0,0,0,0,1,0,2,0,0.0,0,0,0.0,3,3,1.0,94,114,0
+77414,1962,26200287,1963-02-17 19:00:00,Boston,Celtics,Chicago,Zephyrs,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,107,110,0
+77414,1962,26200289,1963-02-19 19:00:00,Boston,Celtics,Cincinnati,Royals,Regular Season,1,1,5.0,4,0,0,0,0,0,0,0,2,0,2,2,1.0,0,0,0.0,1,0,0.0,129,126,0
+77414,1962,26200293,1963-02-20 19:00:00,Boston,Celtics,Detroit,Pistons,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,113,117,0
+77414,1962,26200295,1963-02-21 19:00:00,Boston,Celtics,San Francisco,Warriors,Regular Season,0,1,16.0,13,1,4,0,0,0,0,0,1,0,12,6,0.5,0,0,0.0,2,1,0.5,118,135,0
+77414,1962,26200299,1963-02-22 19:00:00,Boston,Celtics,Los Angeles,Lakers,Regular Season,0,0,0.0,10,0,5,0,0,0,0,0,5,0,11,4,0.363,0,0,0.0,3,2,0.667,113,105,0
+77414,1962,26200306,1963-02-24 19:00:00,Boston,Celtics,Los Angeles,Lakers,Regular Season,0,1,0.0,1,0,4,0,0,0,0,0,3,0,5,0,0.0,0,0,0.0,3,1,0.333,109,119,0
+77414,1962,26200310,1963-02-26 19:00:00,Boston,Celtics,San Francisco,Warriors,Regular Season,0,0,5.0,4,0,0,0,0,0,0,0,0,0,2,1,0.5,0,0,0.0,2,2,1.0,128,112,0
+77414,1962,26200326,1963-03-03 19:00:00,Boston,Celtics,New York,Knicks,Regular Season,0,1,7.0,6,0,1,0,0,0,0,0,1,0,5,2,0.4,0,0,0.0,2,2,1.0,95,102,0
+77414,1962,26200337,1963-03-08 19:00:00,Boston,Celtics,Chicago,Zephyrs,Regular Season,0,0,0.0,6,0,0,0,0,0,0,0,0,0,0,1,0.0,0,0,0.0,4,4,1.0,110,109,0
+77414,1962,26200341,1963-03-10 19:00:00,Boston,Celtics,Cincinnati,Royals,Regular Season,1,1,14.0,12,1,3,0,0,0,0,0,2,0,10,4,0.4,0,0,0.0,6,4,0.667,149,117,0
+77414,1962,26200354,1963-03-16 19:00:00,Boston,Celtics,Syracuse,Nationals,Regular Season,0,1,0.0,2,0,0,0,0,0,0,0,1,0,0,1,0.0,0,0,0.0,3,0,0.0,121,125,0
+77414,1962,26200357,1963-03-17 19:00:00,Boston,Celtics,Syracuse,Nationals,Regular Season,1,1,8.0,6,0,0,0,0,0,0,0,2,0,5,3,0.599,0,0,0.0,0,0,0.0,125,116,0
+77414,1962,46200312,1963-03-29 19:00:00,Boston,Celtics,Cincinnati,Royals,Playoffs,0,1,7.0,5,0,1,0,0,0,0,0,2,0,5,2,0.4,0,0,0.0,2,1,0.5,102,125,0
+77414,1962,46200313,1963-03-31 19:00:00,Boston,Celtics,Cincinnati,Royals,Playoffs,1,0,5.0,0,0,0,0,0,0,0,0,0,0,2,0,0.0,0,0,0.0,0,0,0.0,116,121,0
+77414,1962,46200316,1963-04-07 19:00:00,Boston,Celtics,Cincinnati,Royals,Playoffs,0,0,10.0,7,0,2,0,0,0,0,0,4,0,8,3,0.375,0,0,0.0,2,1,0.5,109,99,0
+77414,1962,46200411,1963-04-14 19:00:00,Boston,Celtics,Los Angeles,Lakers,Playoffs,1,1,9.0,4,1,1,0,0,0,0,0,4,0,6,1,0.167,0,0,0.0,2,2,1.0,117,114,0
+77414,1962,46200412,1963-04-16 19:00:00,Boston,Celtics,Los Angeles,Lakers,Playoffs,1,1,4.0,2,0,1,0,0,0,0,0,2,0,1,1,1.0,0,0,0.0,0,0,0.0,113,106,0
+77414,1962,46200413,1963-04-17 19:00:00,Boston,Celtics,Los Angeles,Lakers,Playoffs,0,0,5.0,0,0,0,0,0,0,0,0,1,0,4,0,0.0,0,0,0.0,0,0,0.0,119,99,0
+77414,1963,26300002,1963-10-16 19:00:00,Boston,Celtics,Baltimore,Bullets,Regular Season,0,1,0.0,6,0,0,0,0,0,0,0,3,0,0,3,0.0,0,0,0.0,0,0,0.0,95,109,0
+77414,1963,26300017,1963-10-26 19:00:00,Boston,Celtics,Baltimore,Bullets,Regular Season,1,1,3.0,7,0,0,0,0,0,0,0,2,0,4,3,0.75,0,0,0.0,2,1,0.5,123,108,0
+77414,1963,26300030,1963-11-02 19:00:00,Boston,Celtics,Detroit,Pistons,Regular Season,1,1,6.0,2,1,1,0,0,0,0,0,2,0,4,1,0.25,0,0,0.0,0,0,0.0,117,109,0
+77414,1963,26300035,1963-11-06 19:00:00,Boston,Celtics,Cincinnati,Royals,Regular Season,1,1,13.0,9,1,6,0,0,0,0,0,1,0,8,3,0.375,0,0,0.0,4,3,0.75,139,121,0
+77414,1963,26300048,1963-11-11 19:00:00,Boston,Celtics,St. Louis,Hawks,Regular Season,1,1,10.0,5,0,2,0,0,0,0,0,1,0,7,2,0.285,0,0,0.0,2,1,0.5,116,110,0
+77414,1963,26300066,1963-11-19 19:00:00,Boston,Celtics,New York,Knicks,Regular Season,0,1,0.0,11,0,0,0,0,0,0,0,4,0,0,5,0.0,0,0,0.0,2,1,0.5,98,126,0
+77414,1963,26300080,1963-11-27 19:00:00,Boston,Celtics,Los Angeles,Lakers,Regular Season,1,1,10.0,6,0,4,0,0,0,0,0,1,0,6,3,0.5,0,0,0.0,1,0,0.0,114,78,0
+77414,1963,26300086,1963-11-29 19:00:00,Boston,Celtics,Philadelphia,76ers,Regular Season,1,1,11.0,13,0,9,0,0,0,0,0,2,0,7,5,0.713,0,0,0.0,3,3,1.0,112,78,0
+77414,1963,26300090,1963-11-30 19:00:00,Boston,Celtics,San Francisco,Warriors,Regular Season,1,1,9.0,2,0,1,0,0,0,0,0,1,0,6,1,0.167,0,0,0.0,0,0,0.0,109,96,0
+77414,1963,26300105,1963-12-07 19:00:00,Boston,Celtics,Baltimore,Bullets,Regular Season,0,1,0.0,11,0,0,0,0,0,0,0,3,0,0,4,0.0,0,0,0.0,3,3,1.0,97,114,0
+77414,1963,26300109,1963-12-10 19:00:00,Boston,Celtics,New York,Knicks,Regular Season,0,1,0.0,2,0,0,0,0,0,0,0,3,0,0,1,0.0,0,0,0.0,1,0,0.0,113,132,0
+77414,1963,26300118,1963-12-13 19:00:00,Boston,Celtics,Philadelphia,76ers,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,2,0,2,0,0.0,0,0,0.0,0,0,0.0,84,111,0
+77414,1963,26300121,1963-12-14 19:00:00,Boston,Celtics,Cincinnati,Royals,Regular Season,1,0,4.0,0,0,0,0,0,0,0,0,1,0,4,0,0.0,0,0,0.0,0,0,0.0,105,108,0
+77414,1963,26300128,1963-12-18 19:00:00,Boston,Celtics,New York,Knicks,Regular Season,1,1,6.0,4,0,2,0,0,0,0,0,3,0,5,2,0.4,0,0,0.0,0,0,0.0,133,111,0
+77414,1963,26300132,1963-12-19 19:00:00,Boston,Celtics,New York,Knicks,Regular Season,1,1,18.0,20,1,7,0,0,0,0,0,4,0,14,8,0.57,0,0,0.0,4,4,1.0,143,140,0
+77414,1963,26300135,1963-12-21 19:00:00,Boston,Celtics,New York,Knicks,Regular Season,0,0,0.0,24,0,0,0,0,0,0,0,5,0,0,10,0.0,0,0,0.0,4,4,1.0,127,117,0
+77414,1963,26300144,1963-12-26 19:00:00,Boston,Celtics,Los Angeles,Lakers,Regular Season,1,1,9.0,10,1,2,0,0,0,0,0,2,0,10,5,0.5,0,0,0.0,0,0,0.0,126,110,0
+77414,1963,26300162,1964-01-03 19:00:00,Boston,Celtics,San Francisco,Warriors,Regular Season,0,1,8.0,2,1,0,0,0,0,0,0,1,0,5,1,0.2,0,0,0.0,1,0,0.0,101,111,0
+77414,1963,26300172,1964-01-07 19:00:00,Boston,Celtics,San Francisco,Warriors,Regular Season,0,0,8.0,2,0,0,0,0,0,0,0,1,0,5,1,0.2,0,0,0.0,0,0,0.0,92,89,0
+77414,1963,26300181,1964-01-11 19:00:00,Boston,Celtics,Philadelphia,76ers,Regular Season,0,0,0.0,6,0,5,0,0,0,0,0,1,0,6,2,0.333,0,0,0.0,2,2,1.0,115,108,0
+77414,1963,26300185,1964-01-12 19:00:00,Boston,Celtics,Philadelphia,76ers,Regular Season,1,1,10.0,7,0,1,0,0,0,0,0,3,0,6,3,0.5,0,0,0.0,1,1,1.0,123,112,0
+77414,1963,26300195,1964-01-17 19:00:00,Boston,Celtics,Los Angeles,Lakers,Regular Season,1,1,4.0,0,0,0,0,0,0,0,0,2,0,3,0,0.0,0,0,0.0,0,0,0.0,99,79,0
+77414,1963,26300197,1964-01-18 19:00:00,Boston,Celtics,Detroit,Pistons,Regular Season,0,1,0.0,2,0,0,0,0,0,0,0,0,0,0,1,0.0,0,0,0.0,1,0,0.0,115,121,0
+77414,1963,26300210,1964-01-22 19:00:00,Boston,Celtics,Cincinnati,Royals,Regular Season,0,0,0.0,2,0,5,0,0,0,0,0,2,0,6,1,0.167,0,0,0.0,0,0,0.0,109,92,0
+77414,1963,26300216,1964-01-24 19:00:00,Boston,Celtics,St. Louis,Hawks,Regular Season,1,1,14.0,12,1,6,0,0,0,0,0,4,0,12,6,0.5,0,0,0.0,0,0,0.0,119,99,0
+77414,1963,26300235,1964-01-31 19:00:00,Boston,Celtics,Philadelphia,76ers,Regular Season,1,1,8.0,4,1,1,0,0,0,0,0,3,0,5,2,0.4,0,0,0.0,1,0,0.0,114,97,0
+77414,1963,26300241,1964-02-02 19:00:00,Boston,Celtics,Cincinnati,Royals,Regular Season,1,0,5.0,2,0,0,0,0,0,0,0,2,0,2,0,0.0,0,0,0.0,2,2,1.0,117,119,0
+77414,1963,26300244,1964-02-04 19:00:00,Boston,Celtics,St. Louis,Hawks,Regular Season,1,1,1.0,2,0,0,0,0,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,113,101,0
+77414,1963,26300253,1964-02-07 19:00:00,Boston,Celtics,New York,Knicks,Regular Season,1,1,16.0,14,0,9,0,0,0,0,0,4,0,10,4,0.4,0,0,0.0,9,6,0.667,133,112,0
+77414,1963,26300255,1964-02-08 19:00:00,Boston,Celtics,New York,Knicks,Regular Season,0,1,0.0,4,0,0,0,0,0,0,0,3,0,0,2,0.0,0,0,0.0,0,0,0.0,114,135,0
+77414,1963,26300269,1964-02-13 19:00:00,Boston,Celtics,San Francisco,Warriors,Regular Season,0,0,12.0,4,1,2,0,0,0,0,0,4,0,5,2,0.4,0,0,0.0,0,0,0.0,106,95,0
+77414,1963,26300275,1964-02-15 19:00:00,Boston,Celtics,San Francisco,Warriors,Regular Season,0,1,9.0,8,0,1,0,0,0,0,0,1,0,5,4,0.8,0,0,0.0,0,0,0.0,87,96,0
+77414,1963,26300283,1964-02-18 19:00:00,Boston,Celtics,Philadelphia,76ers,Regular Season,0,1,0.0,2,0,2,0,0,0,0,0,1,0,3,1,0.333,0,0,0.0,0,0,0.0,93,103,0
+77414,1963,26300288,1964-02-20 19:00:00,Boston,Celtics,Baltimore,Bullets,Regular Season,1,1,21.0,15,5,3,0,0,0,0,0,5,0,15,7,0.467,0,0,0.0,1,1,1.0,129,113,0
+77414,1963,26300290,1964-02-21 19:00:00,Boston,Celtics,Philadelphia,76ers,Regular Season,0,0,0.0,8,1,3,0,0,0,0,0,1,0,8,3,0.375,0,0,0.0,3,2,0.667,144,119,0
+77414,1963,26300302,1964-02-25 19:00:00,Boston,Celtics,New York,Knicks,Regular Season,0,1,0.0,7,0,0,0,0,0,0,0,0,0,0,3,0.0,0,0,0.0,1,1,1.0,102,114,0
+77414,1963,26300310,1964-02-28 19:00:00,Boston,Celtics,San Francisco,Warriors,Regular Season,1,1,2.0,0,0,1,0,0,0,0,0,2,0,2,0,0.0,0,0,0.0,0,0,0.0,107,92,0
+77414,1963,26300316,1964-03-01 19:00:00,Boston,Celtics,Philadelphia,76ers,Regular Season,1,1,6.0,2,2,2,0,0,0,0,0,1,0,0,1,0.0,0,0,0.0,0,0,0.0,108,93,0
+77414,1963,26300321,1964-03-03 19:00:00,Boston,Celtics,Philadelphia,76ers,Regular Season,1,1,0.0,2,0,0,0,0,0,0,0,0,0,0,1,0.0,0,0,0.0,0,0,0.0,108,94,0
+77414,1963,26300327,1964-03-05 19:00:00,Boston,Celtics,Cincinnati,Royals,Regular Season,0,0,7.0,3,0,0,0,0,0,0,0,2,0,5,1,0.2,0,0,0.0,1,1,1.0,111,101,0
+77414,1963,26300331,1964-03-07 19:00:00,Boston,Celtics,Detroit,Pistons,Regular Season,0,1,7.0,5,0,1,0,0,0,0,0,0,0,5,2,0.4,0,0,0.0,1,1,1.0,94,112,0
+77414,1963,26300341,1964-03-12 19:00:00,Boston,Celtics,Detroit,Pistons,Regular Season,1,1,17.0,21,0,10,0,0,0,0,0,4,0,19,8,0.42,0,0,0.0,5,5,1.0,140,120,0
+77414,1963,26300351,1964-03-15 19:00:00,Boston,Celtics,Baltimore,Bullets,Regular Season,1,1,30.0,24,1,6,0,0,0,0,0,3,0,19,12,0.632,0,0,0.0,1,0,0.0,129,105,0
+77414,1963,26300355,1964-03-17 19:00:00,Boston,Celtics,New York,Knicks,Regular Season,1,1,8.0,4,0,3,0,0,0,0,0,1,0,7,1,0.142,0,0,0.0,2,2,1.0,127,121,0
+77414,1963,26300359,1964-03-18 19:00:00,Boston,Celtics,Baltimore,Bullets,Regular Season,0,0,0.0,4,0,0,0,0,0,0,0,0,0,0,2,0.0,0,0,0.0,0,0,0.0,108,95,0
+77414,1963,46300321,1964-03-31 19:00:00,Boston,Celtics,Cincinnati,Royals,Playoffs,1,1,4.0,2,0,0,0,0,0,0,0,0,0,3,1,0.333,0,0,0.0,0,0,0.0,103,87,0
+77414,1963,46300322,1964-04-02 19:00:00,Boston,Celtics,Cincinnati,Royals,Playoffs,1,1,3.0,2,0,0,0,0,0,0,0,0,0,4,1,0.25,0,0,0.0,0,0,0.0,101,90,0
+77414,1963,46300411,1964-04-18 19:00:00,Boston,Celtics,San Francisco,Warriors,Playoffs,1,1,16.0,8,1,4,0,0,0,0,0,3,0,16,4,0.25,0,0,0.0,0,0,0.0,108,96,0
+77414,1963,46300412,1964-04-20 19:00:00,Boston,Celtics,San Francisco,Warriors,Playoffs,1,1,11.0,8,1,1,0,0,0,0,0,5,0,7,2,0.285,0,0,0.0,4,4,1.0,124,101,0
+77414,1963,46300413,1964-04-22 19:00:00,Boston,Celtics,San Francisco,Warriors,Playoffs,0,0,6.0,0,0,2,0,0,0,0,0,0,0,4,0,0.0,0,0,0.0,0,0,0.0,115,91,0

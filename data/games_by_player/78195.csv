@@ -1,0 +1,932 @@
+personId,season,gameId,gameDateTimeEst,playerteamCity,playerteamName,opponentteamCity,opponentteamName,gameType,home,win,numMinutes,points,assists,reboundsTotal,reboundsDefensive,reboundsOffensive,blocks,steals,turnovers,foulsPersonal,plusMinusPoints,fieldGoalsAttempted,fieldGoalsMade,fieldGoalsPercentage,threePointersAttempted,threePointersMade,threePointersPercentage,freeThrowsAttempted,freeThrowsMade,freeThrowsPercentage,homeScore,awayScore,attendance
+78195,1980,28000001,1980-10-10 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,11.0,0,0,5,2,3,0,0,0,1,0,2,0,0.0,0,0,0.0,0,0,0.0,121,101,0
+78195,1980,28000015,1980-10-11 20:00:00,Golden State,Warriors,San Diego,Clippers,Regular Season,1,1,27.0,10,2,9,5,4,0,1,3,4,0,8,5,0.625,0,0,0.0,0,0,0.0,104,91,0
+78195,1980,28000028,1980-10-15 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,25.0,9,2,14,5,9,1,1,2,3,0,9,4,0.444,0,0,0.0,1,1,1.0,95,92,0
+78195,1980,28000053,1980-10-18 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,1,14.0,4,1,5,4,1,0,1,0,3,0,3,2,0.667,0,0,0.0,0,0,0.0,108,101,0
+78195,1980,28000055,1980-10-19 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,24.0,16,2,6,4,2,0,1,1,3,0,9,7,0.778,0,0,0.0,7,2,0.285,125,107,0
+78195,1980,28000062,1980-10-21 20:00:00,Golden State,Warriors,Kansas City,Kings,Regular Season,0,1,15.0,6,0,4,3,1,0,0,2,6,0,3,2,0.667,0,0,0.0,2,2,1.0,111,116,0
+78195,1980,28000071,1980-10-23 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,0,0,27.0,12,1,9,4,5,2,1,3,3,0,6,3,0.5,0,0,0.0,9,6,0.667,128,109,0
+78195,1980,28000085,1980-10-25 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,1,1,37.0,12,2,10,4,6,1,0,3,3,0,8,5,0.625,0,0,0.0,5,2,0.4,86,79,0
+78195,1980,28000101,1980-10-28 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,0,16.0,13,0,9,3,6,1,0,1,5,0,9,3,0.333,0,0,0.0,8,7,0.875,119,102,0
+78195,1980,28000103,1980-10-29 20:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,1,1,45.0,22,2,22,14,8,0,0,2,4,0,15,7,0.467,0,0,0.0,9,8,0.889,115,109,0
+78195,1980,28000118,1980-10-31 20:00:00,Golden State,Warriors,San Diego,Clippers,Regular Season,0,0,17.0,2,1,7,5,2,0,0,4,6,0,2,0,0.0,0,0,0.0,2,2,1.0,120,104,0
+78195,1980,28000122,1980-11-01 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,1,1,20.0,8,2,9,5,4,0,0,1,4,0,5,4,0.8,0,0,0.0,0,0,0.0,123,108,0
+78195,1980,28000140,1980-11-05 20:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,1,1,27.0,7,0,10,5,5,0,0,1,2,0,5,3,0.599,0,0,0.0,3,1,0.333,106,98,0
+78195,1980,28000150,1980-11-07 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,21.0,8,1,9,6,3,1,2,4,3,0,6,2,0.333,0,0,0.0,4,4,1.0,122,113,0
+78195,1980,28000162,1980-11-08 20:00:00,Golden State,Warriors,Indiana,Pacers,Regular Season,1,1,31.0,12,3,22,12,10,1,0,1,4,0,9,3,0.333,0,0,0.0,9,6,0.667,118,111,0
+78195,1980,28000185,1980-11-12 20:00:00,Golden State,Warriors,Kansas City,Kings,Regular Season,1,1,31.0,9,0,13,8,5,0,0,2,6,0,8,4,0.5,0,0,0.0,2,1,0.5,111,101,0
+78195,1980,28000202,1980-11-15 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,1,35.0,6,3,16,7,9,0,0,3,2,0,6,2,0.333,0,0,0.0,2,2,1.0,119,108,0
+78195,1980,28000219,1980-11-18 20:00:00,Golden State,Warriors,Washington,Bullets,Regular Season,0,1,41.0,14,2,14,8,6,1,1,2,4,0,10,6,0.599,0,0,0.0,4,2,0.5,97,103,0
+78195,1980,28000221,1980-11-19 20:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,0,0,27.0,2,1,7,3,4,0,0,1,4,0,4,1,0.25,0,0,0.0,2,0,0.0,110,101,0
+78195,1980,28000234,1980-11-21 20:00:00,Golden State,Warriors,Boston,Celtics,Regular Season,0,0,32.0,7,2,15,9,6,0,1,4,2,0,7,3,0.428,0,0,0.0,4,1,0.25,108,106,0
+78195,1980,28000240,1980-11-22 20:00:00,Golden State,Warriors,New York,Knicks,Regular Season,0,1,21.0,8,0,4,3,1,0,1,2,5,0,4,4,1.0,0,0,0.0,0,0,0.0,110,116,0
+78195,1980,28000261,1980-11-27 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,0,15.0,4,0,2,2,0,0,0,0,2,0,4,2,0.5,0,0,0.0,0,0,0.0,119,128,0
+78195,1980,28000275,1980-11-29 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,0,21.0,4,0,7,2,5,0,1,2,2,0,4,2,0.5,0,0,0.0,2,0,0.0,108,113,0
+78195,1980,28000281,1980-11-30 20:00:00,Golden State,Warriors,San Diego,Clippers,Regular Season,0,0,25.0,5,2,7,6,1,2,0,1,4,0,4,2,0.5,0,0,0.0,2,1,0.5,120,100,0
+78195,1980,28000298,1980-12-03 20:00:00,Golden State,Warriors,New Jersey,Nets,Regular Season,1,1,29.0,16,1,6,3,3,3,1,1,4,0,6,6,1.0,0,0,0.0,8,4,0.5,131,108,0
+78195,1980,28000311,1980-12-05 20:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,0,1,44.0,15,2,20,12,8,0,2,2,4,0,10,4,0.4,0,0,0.0,8,7,0.875,114,119,0
+78195,1980,28000320,1980-12-06 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,1,30.0,8,1,11,6,5,1,1,2,3,0,6,4,0.667,0,0,0.0,0,0,0.0,119,103,0
+78195,1980,28000322,1980-12-07 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,18.0,4,0,4,2,2,0,2,0,0,0,6,1,0.167,0,0,0.0,4,2,0.5,106,88,0
+78195,1980,28000336,1980-12-10 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,0,28.0,11,1,13,6,7,2,0,2,4,0,8,5,0.625,0,0,0.0,4,1,0.25,103,108,0
+78195,1980,28000357,1980-12-13 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,0,35.0,4,1,9,3,6,0,0,2,3,0,9,2,0.222,0,0,0.0,0,0,0.0,97,99,0
+78195,1980,28000366,1980-12-14 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,20.0,2,1,6,3,3,1,2,1,0,0,4,1,0.25,0,0,0.0,2,0,0.0,122,113,0
+78195,1980,28000375,1980-12-17 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,0,20.0,6,1,6,2,4,0,0,2,4,0,5,3,0.599,0,0,0.0,0,0,0.0,113,115,0
+78195,1980,28000389,1980-12-19 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,0,0,31.0,10,1,10,5,5,0,1,2,4,0,7,4,0.57,0,0,0.0,4,2,0.5,126,111,0
+78195,1980,28000396,1980-12-20 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,0,1,39.0,9,1,15,7,8,1,0,2,4,0,12,3,0.25,0,0,0.0,3,3,1.0,98,101,0
+78195,1980,28000413,1980-12-23 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,1,28.0,8,0,9,4,5,0,1,2,3,0,5,4,0.8,0,0,0.0,0,0,0.0,99,114,0
+78195,1980,28000417,1980-12-25 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,32.0,15,2,14,7,7,6,2,0,6,0,8,6,0.75,0,0,0.0,4,3,0.75,115,114,0
+78195,1980,28000425,1980-12-26 20:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,0,1,28.0,6,0,9,6,3,0,0,3,2,0,5,3,0.599,0,0,0.0,2,0,0.0,109,110,0
+78195,1980,28000430,1980-12-27 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,1,21.0,8,0,14,6,8,1,0,0,4,0,9,3,0.333,0,0,0.0,2,2,1.0,104,98,0
+78195,1980,28000447,1980-12-30 20:00:00,Golden State,Warriors,Kansas City,Kings,Regular Season,0,1,32.0,8,1,13,0,0,1,0,0,5,0,6,3,0.5,0,0,0.0,7,2,0.285,104,106,0
+78195,1980,28000463,1981-01-02 20:00:00,Golden State,Warriors,Boston,Celtics,Regular Season,1,1,31.0,13,1,11,7,4,0,0,2,3,0,9,4,0.444,0,0,0.0,9,5,0.556,121,106,0
+78195,1980,28000468,1981-01-03 20:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,1,0,25.0,6,0,8,2,6,0,0,2,3,0,5,3,0.599,0,0,0.0,0,0,0.0,105,119,0
+78195,1980,28000481,1981-01-07 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,1,0,25.0,6,0,13,9,4,0,0,1,6,0,5,3,0.599,0,0,0.0,0,0,0.0,109,111,0
+78195,1980,28000502,1981-01-10 20:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,1,1,37.0,4,0,13,8,5,3,1,1,4,0,4,2,0.5,0,0,0.0,0,0,0.0,105,103,0
+78195,1980,28000512,1981-01-11 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,1,33.0,8,0,10,6,4,1,4,0,6,0,7,3,0.428,0,0,0.0,2,2,1.0,98,106,0
+78195,1980,28000524,1981-01-14 20:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,1,0,21.0,2,0,11,5,6,0,0,1,2,0,4,0,0.0,0,0,0.0,4,2,0.5,107,110,0
+78195,1980,28000533,1981-01-16 20:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,1,0,21.0,8,1,15,0,0,1,0,0,3,0,7,3,0.428,0,0,0.0,4,2,0.5,110,111,0
+78195,1980,28000563,1981-01-21 20:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,1,0,28.0,6,1,9,7,2,0,0,3,5,0,5,2,0.4,0,0,0.0,3,2,0.667,98,105,0
+78195,1980,28000578,1981-01-23 20:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,0,1,22.0,4,0,2,0,2,0,1,0,2,0,2,1,0.5,0,0,0.0,2,2,1.0,101,103,0
+78195,1980,28000585,1981-01-24 20:00:00,Golden State,Warriors,New York,Knicks,Regular Season,1,1,30.0,8,2,9,7,2,1,1,3,5,0,4,3,0.75,0,0,0.0,3,2,0.667,117,110,0
+78195,1980,28000604,1981-01-27 20:00:00,Golden State,Warriors,Chicago,Bulls,Regular Season,0,0,24.0,0,0,6,4,2,2,2,0,3,0,2,0,0.0,0,0,0.0,0,0,0.0,118,101,0
+78195,1980,28000605,1981-01-28 20:00:00,Golden State,Warriors,Indiana,Pacers,Regular Season,0,0,46.0,18,0,19,12,7,3,0,0,3,0,10,8,0.8,0,0,0.0,4,2,0.5,108,102,0
+78195,1980,28000615,1981-01-29 20:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,0,1,40.0,14,2,18,14,4,1,1,1,4,0,8,6,0.75,0,0,0.0,8,2,0.25,112,117,0
+78195,1980,28000635,1981-02-04 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,40.0,8,2,25,12,13,1,1,2,2,0,13,2,0.153,0,0,0.0,9,4,0.444,115,100,0
+78195,1980,28000639,1981-02-06 20:00:00,Golden State,Warriors,Washington,Bullets,Regular Season,1,0,38.0,12,3,16,9,7,0,3,2,6,0,9,5,0.556,0,0,0.0,5,2,0.4,110,116,0
+78195,1980,28000649,1981-02-07 20:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,0,0,40.0,12,4,22,16,6,0,0,2,5,0,12,5,0.416,0,0,0.0,2,2,1.0,135,125,0
+78195,1980,28000661,1981-02-08 20:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,1,1,37.0,8,0,16,7,9,1,1,3,4,0,8,4,0.5,0,0,0.0,0,0,0.0,107,101,0
+78195,1980,28000664,1981-02-10 20:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,0,0,43.0,12,2,16,10,6,0,1,2,4,0,7,4,0.57,0,0,0.0,6,4,0.667,116,108,0
+78195,1980,28000686,1981-02-13 20:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,0,1,40.0,12,1,16,10,6,1,1,5,4,0,5,5,1.0,0,0,0.0,2,2,1.0,106,110,0
+78195,1980,28000690,1981-02-14 20:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,0,0,31.0,2,0,8,4,4,2,1,1,4,0,5,0,0.0,0,0,0.0,2,2,1.0,108,90,0
+78195,1980,28000702,1981-02-15 20:00:00,Golden State,Warriors,New Jersey,Nets,Regular Season,0,0,33.0,16,0,14,9,5,0,2,2,4,0,6,6,1.0,0,0,0.0,5,4,0.8,134,132,0
+78195,1980,28000706,1981-02-17 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,45.0,14,0,11,6,5,2,2,1,4,0,7,6,0.856,0,0,0.0,4,2,0.5,118,109,0
+78195,1980,28000714,1981-02-18 20:00:00,Golden State,Warriors,Chicago,Bulls,Regular Season,1,1,24.0,7,2,6,2,4,0,0,1,6,0,5,2,0.4,0,0,0.0,5,3,0.599,103,100,0
+78195,1980,28000729,1981-02-20 20:00:00,Golden State,Warriors,San Diego,Clippers,Regular Season,1,0,44.0,15,2,17,10,7,0,2,2,5,0,6,5,0.832,0,0,0.0,9,5,0.556,114,115,0
+78195,1980,28000736,1981-02-22 20:00:00,Golden State,Warriors,Kansas City,Kings,Regular Season,1,1,35.0,8,1,15,10,5,0,3,5,5,0,7,4,0.57,0,0,0.0,0,0,0.0,104,96,0
+78195,1980,28000747,1981-02-24 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,0,0,34.0,18,0,10,5,5,3,2,2,6,0,10,6,0.599,0,0,0.0,8,6,0.75,131,126,0
+78195,1980,28000758,1981-02-27 20:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,0,0,30.0,10,1,4,3,1,2,2,6,5,0,6,4,0.667,0,0,0.0,3,2,0.667,137,130,0
+78195,1980,28000768,1981-02-28 20:00:00,Golden State,Warriors,Kansas City,Kings,Regular Season,0,1,33.0,12,0,7,5,2,0,1,1,3,0,11,5,0.455,0,0,0.0,4,2,0.5,101,110,0
+78195,1980,28000790,1981-03-04 20:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,1,1,41.0,14,1,16,9,7,1,0,1,3,0,10,4,0.4,0,0,0.0,10,6,0.599,107,105,0
+78195,1980,28000803,1981-03-06 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,1,1,37.0,16,4,13,7,6,0,0,2,4,0,7,7,1.0,0,0,0.0,4,2,0.5,115,109,0
+78195,1980,28000807,1981-03-07 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,1,42.0,14,1,19,9,10,0,1,3,3,0,14,6,0.428,0,0,0.0,4,2,0.5,106,103,0
+78195,1980,28000812,1981-03-08 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,43.0,8,1,23,13,10,2,2,3,5,0,5,3,0.599,0,0,0.0,4,2,0.5,120,112,0
+78195,1980,28000828,1981-03-11 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,0,44.0,11,1,15,0,0,0,0,0,4,0,8,4,0.5,0,0,0.0,6,3,0.5,109,92,0
+78195,1980,28000833,1981-03-12 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,0,0,41.0,13,0,14,8,6,1,1,1,4,0,10,6,0.599,0,0,0.0,4,1,0.25,120,118,0
+78195,1980,28000848,1981-03-15 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,1,0,43.0,9,1,14,12,2,1,1,4,5,0,6,4,0.667,0,0,0.0,4,1,0.25,112,114,0
+78195,1980,28000873,1981-03-18 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,1,41.0,14,1,15,6,9,1,2,1,5,0,13,5,0.385,0,0,0.0,4,4,1.0,118,117,0
+78195,1980,28000876,1981-03-19 20:00:00,Golden State,Warriors,San Diego,Clippers,Regular Season,0,0,27.0,18,2,4,2,2,0,0,1,3,0,12,8,0.667,0,0,0.0,2,2,1.0,139,113,0
+78195,1980,28000888,1981-03-21 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,1,35.0,11,0,10,7,3,2,2,0,5,0,9,5,0.556,0,0,0.0,2,1,0.5,114,105,0
+78195,1980,28000896,1981-03-22 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,0,41.0,13,1,24,15,9,1,1,0,5,0,8,4,0.5,0,0,0.0,6,5,0.832,118,120,0
+78195,1980,28000901,1981-03-24 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,45.0,7,4,12,6,6,2,2,1,5,0,4,1,0.25,0,0,0.0,8,5,0.625,110,103,0
+78195,1980,28000915,1981-03-25 20:00:00,Golden State,Warriors,San Diego,Clippers,Regular Season,1,1,42.0,9,2,24,11,13,1,2,1,3,0,13,3,0.231,0,0,0.0,5,3,0.599,120,114,0
+78195,1980,28000932,1981-03-28 20:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,1,0,45.0,23,5,31,17,14,0,1,1,5,0,19,10,0.526,0,0,0.0,8,3,0.375,139,142,0
+78195,1980,28000939,1981-03-29 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,0,41.0,12,2,19,13,6,1,0,4,6,0,11,5,0.455,0,0,0.0,2,2,1.0,96,92,0
+78195,1981,28100082,1981-11-13 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,1,16.0,2,1,5,4,1,1,0,2,1,0,1,1,1.0,0,0,0.0,0,0,0.0,100,102,0
+78195,1981,28100090,1981-11-14 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,0,1,21.0,4,1,8,6,2,0,0,2,1,0,1,1,1.0,0,0,0.0,2,2,1.0,112,118,0
+78195,1981,28100106,1981-11-18 20:00:00,Golden State,Warriors,New Jersey,Nets,Regular Season,1,1,25.0,15,0,11,8,3,1,1,0,3,0,9,7,0.778,0,0,0.0,2,1,0.5,121,107,0
+78195,1981,28100112,1981-11-19 20:00:00,Golden State,Warriors,San Diego,Clippers,Regular Season,0,1,30.0,13,4,12,8,4,1,2,2,3,0,7,4,0.57,0,0,0.0,8,5,0.625,100,105,0
+78195,1981,28100122,1981-11-21 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,1,1,27.0,6,1,12,12,0,1,1,3,5,0,3,3,1.0,0,0,0.0,0,0,0.0,129,122,0
+78195,1981,28100134,1981-11-24 20:00:00,Golden State,Warriors,Washington,Bullets,Regular Season,0,0,26.0,8,3,14,9,5,1,1,1,1,0,4,3,0.75,0,0,0.0,4,2,0.5,107,88,0
+78195,1981,28100140,1981-11-25 20:00:00,Golden State,Warriors,Boston,Celtics,Regular Season,0,0,19.0,2,0,6,4,2,0,1,0,3,0,5,1,0.2,0,0,0.0,0,0,0.0,122,101,0
+78195,1981,28100152,1981-11-27 20:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,0,1,32.0,11,1,9,5,4,0,1,0,5,0,5,4,0.8,0,0,0.0,6,3,0.5,96,113,0
+78195,1981,28100165,1981-11-29 20:00:00,Golden State,Warriors,Kansas City,Kings,Regular Season,0,0,31.0,5,0,10,6,4,0,1,2,5,0,8,2,0.25,0,0,0.0,4,1,0.25,104,100,0
+78195,1981,28100185,1981-12-02 20:00:00,Golden State,Warriors,Chicago,Bulls,Regular Season,1,1,20.0,6,0,8,4,4,0,3,0,5,0,4,2,0.5,0,0,0.0,2,2,1.0,120,119,0
+78195,1981,28100199,1981-12-05 20:00:00,Golden State,Warriors,San Diego,Clippers,Regular Season,1,1,23.0,12,1,11,4,7,1,0,0,3,0,7,5,0.713,0,0,0.0,9,2,0.222,138,113,0
+78195,1981,28100206,1981-12-08 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,1,28.0,5,2,14,9,5,1,0,0,4,0,3,2,0.667,0,0,0.0,1,1,1.0,108,122,0
+78195,1981,28100220,1981-12-09 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,1,23.0,7,2,13,8,5,0,0,0,6,0,5,3,0.599,0,0,0.0,2,1,0.5,134,127,0
+78195,1981,28100238,1981-12-12 20:00:00,Golden State,Warriors,Kansas City,Kings,Regular Season,1,1,15.0,1,0,6,4,2,0,0,2,4,0,0,0,0.0,0,0,0.0,2,1,0.5,98,96,0
+78195,1981,28100245,1981-12-13 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,16.0,4,1,10,5,5,1,1,0,2,0,4,2,0.5,0,0,0.0,2,0,0.0,122,118,0
+78195,1981,28100249,1981-12-15 20:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,1,0,21.0,2,0,5,3,2,0,0,0,2,0,4,1,0.25,0,0,0.0,0,0,0.0,104,108,0
+78195,1981,28100261,1981-12-17 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,1,32.0,12,0,14,9,5,1,0,2,3,0,10,5,0.5,0,0,0.0,5,2,0.4,120,115,0
+78195,1981,28100273,1981-12-19 20:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,1,1,21.0,6,2,7,0,0,1,0,0,4,0,4,3,0.75,0,0,0.0,0,0,0.0,126,109,0
+78195,1981,28100292,1981-12-23 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,23.0,4,2,8,5,3,0,0,2,5,0,2,2,1.0,0,0,0.0,0,0,0.0,118,103,0
+78195,1981,28100307,1981-12-26 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,1,30.0,8,1,10,8,2,0,0,1,3,0,5,3,0.599,0,0,0.0,6,2,0.333,112,96,0
+78195,1981,28100315,1981-12-28 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,0,35.0,6,0,9,6,3,0,1,1,5,0,5,3,0.599,0,0,0.0,0,0,0.0,104,100,0
+78195,1981,28100317,1981-12-29 20:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,1,0,22.0,6,0,7,2,5,1,0,0,6,0,4,3,0.75,0,0,0.0,0,0,0.0,135,142,0
+78195,1981,28100335,1982-01-01 20:00:00,Golden State,Warriors,Kansas City,Kings,Regular Season,1,1,28.0,10,3,18,16,2,2,2,3,4,0,4,4,1.0,0,0,0.0,3,2,0.667,125,93,0
+78195,1981,28100343,1982-01-02 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,1,1,33.0,1,1,4,3,1,5,0,3,4,0,0,0,0.0,0,0,0.0,2,1,0.5,119,100,0
+78195,1981,28100355,1982-01-05 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,0,31.0,7,1,11,7,4,0,0,2,4,0,6,3,0.5,0,0,0.0,2,1,0.5,111,112,0
+78195,1981,28100367,1982-01-07 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,1,0,36.0,10,2,13,8,5,0,0,1,6,0,10,5,0.5,0,0,0.0,0,0,0.0,112,123,0
+78195,1981,28100378,1982-01-09 20:00:00,Golden State,Warriors,Indiana,Pacers,Regular Season,1,1,37.0,14,1,23,12,11,0,0,2,1,0,12,7,0.582,0,0,0.0,1,0,0.0,115,106,0
+78195,1981,28100395,1982-01-12 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,27.0,9,1,9,6,3,0,2,3,6,0,4,3,0.75,1,0,0.0,4,3,0.75,133,121,0
+78195,1981,28100398,1982-01-13 20:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,1,1,41.0,13,2,14,6,8,1,0,2,3,0,9,6,0.667,0,0,0.0,1,1,1.0,143,128,0
+78195,1981,28100412,1982-01-15 20:00:00,Golden State,Warriors,New York,Knicks,Regular Season,1,1,41.0,8,2,16,8,8,1,1,1,5,0,9,2,0.222,0,0,0.0,5,4,0.8,104,102,0
+78195,1981,28100443,1982-01-17 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,0,30.0,6,0,11,8,3,0,1,0,4,0,2,2,1.0,0,0,0.0,2,2,1.0,122,97,0
+78195,1981,28100442,1982-01-20 20:00:00,Golden State,Warriors,San Diego,Clippers,Regular Season,1,0,40.0,8,1,21,11,10,2,3,3,4,0,10,3,0.299,0,0,0.0,6,2,0.333,99,108,0
+78195,1981,28100463,1982-01-23 20:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,1,1,17.0,4,2,10,7,3,1,1,0,4,0,4,2,0.5,0,0,0.0,0,0,0.0,119,113,0
+78195,1981,28100478,1982-01-27 20:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,0,0,22.0,4,1,6,4,2,1,0,1,5,0,2,2,1.0,0,0,0.0,0,0,0.0,110,106,0
+78195,1981,28100482,1982-01-28 20:00:00,Golden State,Warriors,Chicago,Bulls,Regular Season,0,1,31.0,6,1,11,7,4,0,2,1,4,0,4,2,0.5,0,0,0.0,2,2,1.0,110,111,0
+78195,1981,28100493,1982-02-02 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,1,27.0,2,2,8,5,3,0,6,0,3,0,4,1,0.25,0,0,0.0,0,0,0.0,119,117,0
+78195,1981,28100507,1982-02-03 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,1,33.0,8,1,14,8,6,1,2,4,5,0,9,4,0.444,0,0,0.0,0,0,0.0,88,90,0
+78195,1981,28100510,1982-02-05 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,0,20.0,3,0,5,4,1,2,1,3,6,0,1,1,1.0,0,0,0.0,1,1,1.0,99,108,0
+78195,1981,28100528,1982-02-07 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,1,1,39.0,6,1,13,9,4,0,0,0,5,0,6,3,0.5,0,0,0.0,0,0,0.0,116,111,0
+78195,1981,28100535,1982-02-09 20:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,0,0,27.0,5,2,12,8,4,3,0,0,5,0,6,2,0.333,0,0,0.0,2,1,0.5,123,107,0
+78195,1981,28100550,1982-02-11 20:00:00,Golden State,Warriors,New York,Knicks,Regular Season,0,0,23.0,8,2,7,3,4,1,0,2,5,0,5,3,0.599,0,0,0.0,2,2,1.0,120,117,0
+78195,1981,28100555,1982-02-12 20:00:00,Golden State,Warriors,New Jersey,Nets,Regular Season,0,0,37.0,5,1,10,5,5,0,1,2,5,0,9,2,0.222,0,0,0.0,2,1,0.5,109,98,0
+78195,1981,28100582,1982-02-17 20:00:00,Golden State,Warriors,Boston,Celtics,Regular Season,1,1,32.0,8,0,17,13,4,0,1,3,4,0,6,4,0.667,0,0,0.0,0,0,0.0,121,105,0
+78195,1981,28100593,1982-02-19 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,14.0,0,2,3,2,1,1,0,1,1,0,0,0,0.0,0,0,0.0,0,0,0.0,126,106,0
+78195,1981,28100600,1982-02-20 20:00:00,Golden State,Warriors,Washington,Bullets,Regular Season,1,1,28.0,4,1,8,6,2,0,1,4,4,0,3,1,0.333,0,0,0.0,2,2,1.0,110,102,0
+78195,1981,28100617,1982-02-23 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,0,0,28.0,8,0,9,4,5,0,1,1,2,0,7,2,0.285,0,0,0.0,4,4,1.0,143,123,0
+78195,1981,28100627,1982-02-25 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,0,1,26.0,4,1,6,4,2,1,1,1,5,0,5,2,0.4,0,0,0.0,0,0,0.0,104,106,0
+78195,1981,28100636,1982-02-26 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,0,39.0,8,0,16,7,9,1,1,1,5,0,13,4,0.307,0,0,0.0,2,0,0.0,111,95,0
+78195,1981,28100643,1982-02-28 20:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,0,1,38.0,3,2,14,11,3,1,0,0,3,0,3,1,0.333,0,0,0.0,1,1,1.0,77,105,0
+78195,1981,28100659,1982-03-02 20:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,1,1,32.0,9,2,16,11,5,1,1,2,4,0,6,4,0.667,0,0,0.0,2,1,0.5,117,108,0
+78195,1981,28100670,1982-03-04 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,1,1,21.0,0,0,11,6,5,1,0,2,4,0,5,0,0.0,0,0,0.0,2,0,0.0,104,98,0
+78195,1981,28100677,1982-03-05 20:00:00,Golden State,Warriors,San Diego,Clippers,Regular Season,0,1,37.0,5,3,9,7,2,1,1,3,5,0,3,2,0.667,0,0,0.0,2,1,0.5,116,117,0
+78195,1981,28100684,1982-03-07 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,0,37.0,6,1,11,7,4,1,2,2,5,0,4,2,0.5,0,0,0.0,2,2,1.0,102,106,0
+78195,1981,28100694,1982-03-09 20:00:00,Golden State,Warriors,Indiana,Pacers,Regular Season,0,1,38.0,8,0,20,13,7,4,1,2,2,0,9,4,0.444,0,0,0.0,0,0,0.0,85,92,0
+78195,1981,28100705,1982-03-10 20:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,0,0,20.0,4,1,4,2,2,0,1,0,3,0,5,2,0.4,0,0,0.0,0,0,0.0,134,114,0
+78195,1981,28100712,1982-03-12 20:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,0,0,25.0,4,2,7,5,2,2,0,0,6,0,2,2,1.0,0,0,0.0,0,0,0.0,121,117,0
+78195,1981,28100730,1982-03-14 20:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,0,0,38.0,20,0,12,11,1,1,0,4,5,0,12,9,0.75,0,0,0.0,2,2,1.0,127,101,0
+78195,1981,28100740,1982-03-17 20:00:00,Golden State,Warriors,Kansas City,Kings,Regular Season,1,0,40.0,13,1,14,7,7,0,2,0,3,0,9,4,0.444,0,0,0.0,5,5,1.0,116,117,0
+78195,1981,28100748,1982-03-18 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,31.0,18,1,12,7,5,0,1,0,3,0,14,8,0.57,0,0,0.0,3,2,0.667,109,95,0
+78195,1981,28100764,1982-03-21 20:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,1,1,36.0,11,0,15,13,2,0,0,2,4,0,7,5,0.713,0,0,0.0,3,1,0.333,113,102,0
+78195,1981,28100773,1982-03-23 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,1,39.0,11,0,15,12,3,0,4,3,4,0,6,4,0.667,0,0,0.0,3,3,1.0,95,91,0
+78195,1981,28100788,1982-03-25 20:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,0,1,37.0,5,2,13,11,2,1,2,2,4,0,2,2,1.0,0,0,0.0,3,1,0.333,105,107,0
+78195,1981,28100795,1982-03-26 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,35.0,9,2,16,12,4,0,1,3,4,0,5,4,0.8,0,0,0.0,2,1,0.5,102,89,0
+78195,1981,28100810,1982-03-28 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,0,25.0,4,0,5,5,0,0,0,1,5,0,3,2,0.667,0,0,0.0,0,0,0.0,92,94,0
+78195,1981,28100819,1982-03-30 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,0,1,36.0,12,0,9,8,1,0,0,0,4,0,5,3,0.599,0,0,0.0,9,6,0.667,107,113,0
+78195,1981,28100836,1982-04-01 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,0,41.0,6,3,15,10,5,1,2,2,3,0,8,2,0.25,0,0,0.0,4,2,0.5,104,101,0
+78195,1981,28100857,1982-04-06 20:00:00,Golden State,Warriors,San Diego,Clippers,Regular Season,0,1,40.0,7,1,12,8,4,0,2,1,4,0,5,3,0.599,0,0,0.0,2,1,0.5,96,110,0
+78195,1981,28100869,1982-04-07 20:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,1,0,42.0,11,1,12,6,6,1,1,1,5,0,7,4,0.57,0,0,0.0,6,3,0.5,121,129,0
+78195,1981,28100889,1982-04-10 20:00:00,Golden State,Warriors,San Diego,Clippers,Regular Season,1,1,42.0,10,1,19,12,7,2,0,2,4,0,11,5,0.455,0,0,0.0,2,0,0.0,132,119,0
+78195,1981,28100895,1982-04-11 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,29.0,9,0,7,5,2,0,0,0,6,0,8,4,0.5,0,0,0.0,1,1,1.0,116,106,0
+78195,1981,28100908,1982-04-13 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,1,39.0,11,2,18,14,4,1,1,0,3,0,7,5,0.713,0,0,0.0,4,1,0.25,106,101,0
+78195,1981,28100917,1982-04-14 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,1,23.0,2,0,4,3,1,0,1,1,4,0,2,1,0.5,0,0,0.0,0,0,0.0,93,104,0
+78195,1981,28100931,1982-04-16 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,26.0,4,3,10,7,3,2,1,3,3,0,5,2,0.4,0,0,0.0,0,0,0.0,125,109,0
+78195,1981,28100934,1982-04-17 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,0,43.0,12,2,9,6,3,0,1,3,3,0,9,6,0.667,0,0,0.0,3,0,0.0,94,95,0
+78195,1982,28200010,1982-10-29 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,1,31.0,16,1,9,5,4,0,2,2,4,0,10,8,0.8,0,0,0.0,0,0,0.0,117,132,0
+78195,1982,28200014,1982-10-30 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,1,27.0,13,1,15,10,5,0,1,2,3,0,6,6,1.0,0,0,0.0,2,1,0.5,117,110,0
+78195,1982,28200047,1982-11-05 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,1,0,42.0,8,0,21,10,11,4,0,3,3,0,8,3,0.375,0,0,0.0,5,2,0.4,104,105,0
+78195,1982,28200051,1982-11-06 20:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,0,0,33.0,23,1,13,5,8,1,2,2,3,0,15,11,0.732,0,0,0.0,2,1,0.5,127,118,0
+78195,1982,28200070,1982-11-09 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,30.0,14,4,15,8,7,1,0,3,5,0,12,6,0.5,0,0,0.0,2,2,1.0,111,96,0
+78195,1982,28200077,1982-11-10 20:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,1,0,42.0,10,0,19,11,8,0,1,1,6,0,9,4,0.444,0,0,0.0,3,2,0.667,120,132,0
+78195,1982,28200094,1982-11-13 20:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,1,1,29.0,8,1,5,3,2,0,0,6,3,0,4,3,0.75,0,0,0.0,3,2,0.667,114,101,0
+78195,1982,28200106,1982-11-16 20:00:00,Golden State,Warriors,Chicago,Bulls,Regular Season,0,0,22.0,5,1,5,2,3,0,0,3,4,0,2,2,1.0,0,0,0.0,2,1,0.5,125,120,0
+78195,1982,28200111,1982-11-17 20:00:00,Golden State,Warriors,Indiana,Pacers,Regular Season,0,0,36.0,12,1,10,3,7,0,1,1,3,0,10,6,0.599,0,0,0.0,1,0,0.0,124,122,0
+78195,1982,28200120,1982-11-19 20:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,0,0,29.0,4,3,9,3,6,1,0,2,4,0,6,2,0.333,0,0,0.0,3,0,0.0,106,102,0
+78195,1982,28200129,1982-11-20 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,0,0,22.0,14,0,5,0,5,0,0,1,3,0,11,6,0.545,0,0,0.0,3,2,0.667,134,112,0
+78195,1982,28200139,1982-11-23 20:00:00,Golden State,Warriors,New Jersey,Nets,Regular Season,1,0,29.0,0,2,5,4,1,0,0,0,5,0,2,0,0.0,0,0,0.0,0,0,0.0,103,110,0
+78195,1982,28200168,1982-11-27 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,0,38.0,11,1,9,6,3,0,0,2,4,0,6,5,0.832,0,0,0.0,2,1,0.5,118,133,0
+78195,1982,28200172,1982-11-28 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,21.0,18,0,7,0,7,0,1,0,3,0,12,9,0.75,0,0,0.0,1,0,0.0,142,127,0
+78195,1982,28200181,1982-11-30 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,1,30.0,14,0,9,4,5,0,0,1,5,0,8,6,0.75,0,0,0.0,4,2,0.5,110,98,0
+78195,1982,28200191,1982-12-02 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,0,0,26.0,5,0,6,1,5,1,0,3,4,0,5,2,0.4,0,0,0.0,1,1,1.0,110,100,0
+78195,1982,28200197,1982-12-03 20:00:00,Golden State,Warriors,Kansas City,Kings,Regular Season,0,1,33.0,22,0,9,0,0,1,2,2,3,0,10,9,0.9,0,0,0.0,6,4,0.667,107,123,0
+78195,1982,28200211,1982-12-05 20:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,1,1,42.0,14,0,18,10,8,0,2,3,4,0,11,5,0.455,0,0,0.0,7,4,0.57,119,111,0
+78195,1982,28200217,1982-12-07 20:00:00,Golden State,Warriors,San Diego,Clippers,Regular Season,1,1,29.0,9,1,9,6,3,1,1,0,5,0,6,4,0.667,0,0,0.0,2,1,0.5,121,114,0
+78195,1982,28200231,1982-12-09 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,0,36.0,4,0,10,5,5,1,0,1,5,0,5,1,0.2,0,0,0.0,2,2,1.0,98,107,0
+78195,1982,28200246,1982-12-11 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,0,14.0,0,0,4,4,0,0,1,0,2,0,1,0,0.0,0,0,0.0,0,0,0.0,107,128,0
+78195,1982,28200256,1982-12-14 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,1,1,20.0,7,1,7,7,0,1,1,0,2,0,4,3,0.75,0,0,0.0,1,1,1.0,122,113,0
+78195,1982,28200265,1982-12-16 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,1,26.0,2,1,3,3,0,0,0,0,4,0,4,1,0.25,0,0,0.0,2,0,0.0,94,98,0
+78195,1982,28200285,1982-12-18 20:00:00,Golden State,Warriors,Kansas City,Kings,Regular Season,1,0,26.0,5,0,11,5,6,0,0,3,4,0,4,2,0.5,0,0,0.0,2,1,0.5,90,106,0
+78195,1982,28200298,1982-12-21 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,1,41.0,11,1,16,10,6,0,2,4,4,0,8,5,0.625,0,0,0.0,2,1,0.5,92,85,0
+78195,1982,28200309,1982-12-23 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,0,24.0,4,1,7,4,3,1,0,2,4,0,6,2,0.333,0,0,0.0,1,0,0.0,120,95,0
+78195,1982,28200324,1982-12-27 20:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,0,0,27.0,8,2,12,6,6,0,0,2,6,0,6,4,0.667,0,0,0.0,2,0,0.0,130,128,0
+78195,1982,28200336,1982-12-29 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,0,28.0,10,1,9,5,4,0,3,2,1,0,7,5,0.713,0,0,0.0,0,0,0.0,110,120,0
+78195,1982,28200353,1983-01-01 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,33.0,9,1,11,9,2,0,1,1,4,0,7,4,0.57,0,0,0.0,2,1,0.5,102,74,0
+78195,1982,28200358,1983-01-02 20:00:00,Golden State,Warriors,Indiana,Pacers,Regular Season,1,1,41.0,12,3,13,8,5,0,2,4,4,0,10,5,0.5,0,0,0.0,4,2,0.5,114,105,0
+78195,1982,28200366,1983-01-04 20:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,1,0,38.0,6,0,19,12,7,2,1,1,5,0,5,3,0.599,0,0,0.0,0,0,0.0,88,100,0
+78195,1982,28200380,1983-01-06 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,32.0,8,1,13,7,6,1,0,0,5,0,6,4,0.667,0,0,0.0,0,0,0.0,94,93,0
+78195,1982,28200391,1983-01-08 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,1,36.0,4,3,19,13,6,0,2,1,4,0,4,2,0.5,0,0,0.0,0,0,0.0,110,104,0
+78195,1982,28200403,1983-01-11 20:00:00,Golden State,Warriors,New York,Knicks,Regular Season,0,0,27.0,10,2,18,11,7,1,1,4,6,0,11,3,0.273,0,0,0.0,4,4,1.0,103,79,0
+78195,1982,28200411,1983-01-12 20:00:00,Golden State,Warriors,Boston,Celtics,Regular Season,0,0,23.0,4,3,3,3,0,0,0,1,4,0,3,2,0.667,0,0,0.0,0,0,0.0,139,117,0
+78195,1982,28200418,1983-01-14 20:00:00,Golden State,Warriors,Washington,Bullets,Regular Season,0,1,42.0,16,2,10,6,4,0,2,1,3,0,11,6,0.545,0,0,0.0,4,4,1.0,104,116,0
+78195,1982,28200439,1983-01-16 20:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,0,0,44.0,17,0,14,8,6,0,1,4,3,0,11,7,0.636,0,0,0.0,3,3,1.0,109,108,0
+78195,1982,28200446,1983-01-18 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,1,0,41.0,10,0,11,5,6,0,2,1,5,0,7,4,0.57,0,0,0.0,8,2,0.25,102,112,0
+78195,1982,28200460,1983-01-21 20:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,1,1,13.0,2,0,3,2,1,0,0,2,3,0,1,1,1.0,0,0,0.0,0,0,0.0,136,121,0
+78195,1982,28200472,1983-01-22 20:00:00,Golden State,Warriors,San Diego,Clippers,Regular Season,0,0,6.0,0,0,1,0,1,0,0,1,0,0,1,0,0.0,0,0,0.0,0,0,0.0,99,89,0
+78195,1982,28200500,1983-01-27 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,0,34.0,4,4,17,9,8,1,1,1,4,0,5,1,0.2,0,0,0.0,4,2,0.5,98,84,0
+78195,1982,28200508,1983-01-29 20:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,1,1,28.0,7,0,14,10,4,0,0,2,2,0,5,3,0.599,0,0,0.0,3,1,0.333,110,102,0
+78195,1982,28200534,1983-02-03 20:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,1,0,24.0,6,0,5,4,1,1,0,0,5,0,4,3,0.75,0,0,0.0,2,0,0.0,111,117,0
+78195,1982,28200551,1983-02-05 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,1,1,33.0,4,2,8,4,4,0,1,2,6,0,2,2,1.0,0,0,0.0,0,0,0.0,106,102,0
+78195,1982,28200555,1983-02-06 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,0,35.0,10,0,10,4,6,0,0,1,6,0,8,5,0.625,0,0,0.0,0,0,0.0,92,109,0
+78195,1982,28200572,1983-02-09 20:00:00,Golden State,Warriors,Kansas City,Kings,Regular Season,0,0,10.0,0,0,2,2,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,103,98,0
+78195,1982,28200576,1983-02-10 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,0,0,0.0,7,0,0,0,0,0,0,0,0,0,4,2,0.5,0,0,0.0,5,3,0.599,128,109,0
+78195,1982,28200585,1983-02-15 20:00:00,Golden State,Warriors,Washington,Bullets,Regular Season,1,1,0.0,2,0,0,0,0,0,0,0,0,0,2,1,0.5,0,0,0.0,0,0,0.0,111,93,0
+78195,1982,28200607,1983-02-19 20:00:00,Golden State,Warriors,Boston,Celtics,Regular Season,1,1,12.0,2,0,1,0,1,0,0,0,2,0,1,1,1.0,0,0,0.0,0,0,0.0,115,109,0
+78195,1982,28200627,1983-02-22 20:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,0,1,23.0,6,1,6,4,2,0,2,3,3,0,4,2,0.5,0,0,0.0,2,2,1.0,97,109,0
+78195,1982,28200633,1983-02-23 20:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,0,0,25.0,5,0,10,9,1,1,0,2,5,0,2,2,1.0,0,0,0.0,2,1,0.5,99,98,0
+78195,1982,28200641,1983-02-25 20:00:00,Golden State,Warriors,New Jersey,Nets,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,115,107,0
+78195,1982,28200670,1983-03-02 20:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,1,0,0.0,1,0,0,0,0,0,0,0,0,0,2,0,0.0,0,0,0.0,2,1,0.5,108,128,0
+78195,1982,28200718,1983-03-10 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,1,0.0,4,0,0,0,0,0,0,0,0,0,4,2,0.5,0,0,0.0,0,0,0.0,109,119,0
+78195,1982,28200728,1983-03-12 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,0,0,0.0,2,0,0,0,0,0,0,0,0,0,0,1,0.0,0,0,0.0,0,0,0.0,131,120,0
+78195,1982,28200742,1983-03-15 20:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,0,0,0.0,6,0,0,0,0,0,0,0,0,0,4,3,0.75,0,0,0.0,0,0,0.0,139,115,0
+78195,1982,28200772,1983-03-20 20:00:00,Golden State,Warriors,Kansas City,Kings,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,128,114,0
+78195,1982,28200780,1983-03-22 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,111,102,0
+78195,1982,28200819,1983-03-29 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,1,1,0.0,2,0,0,0,0,0,0,0,0,0,4,1,0.25,0,0,0.0,0,0,0.0,109,106,0
+78195,1982,28200863,1983-04-05 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,126,106,0
+78195,1982,28200877,1983-04-07 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,0.0,4,0,0,0,0,0,0,0,0,0,5,2,0.4,0,0,0.0,0,0,0.0,118,107,0
+78195,1982,28200880,1983-04-08 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,118,107,0
+78195,1982,28200897,1983-04-10 20:00:00,Golden State,Warriors,San Diego,Clippers,Regular Season,1,1,0.0,8,0,0,0,0,0,0,0,0,0,2,1,0.5,0,0,0.0,8,6,0.75,102,93,0
+78195,1982,28200902,1983-04-12 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,0,0.0,2,0,0,0,0,0,0,0,0,0,3,1,0.333,0,0,0.0,0,0,0.0,108,115,0
+78195,1982,28200918,1983-04-13 20:00:00,Golden State,Warriors,San Diego,Clippers,Regular Season,0,1,0.0,10,0,0,0,0,0,0,0,0,0,4,3,0.75,0,0,0.0,5,4,0.8,92,113,0
+78195,1982,28200922,1983-04-15 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,2,0,0.0,0,0,0.0,0,0,0.0,112,106,0
+78195,1983,28300004,1983-10-28 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,1,29.0,6,4,9,5,4,1,0,3,5,0,5,3,0.599,0,0,0.0,2,0,0.0,109,110,0
+78195,1983,28300013,1983-10-29 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,20.0,2,1,4,2,2,0,0,0,5,0,1,1,1.0,0,0,0.0,0,0,0.0,97,95,0
+78195,1983,28300029,1983-11-01 20:00:00,Golden State,Warriors,Kansas City,Kings,Regular Season,0,0,29.0,5,0,9,6,3,1,0,1,4,0,4,2,0.5,0,0,0.0,2,1,0.5,116,114,0
+78195,1983,28300040,1983-11-03 20:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,0,0,32.0,8,2,13,8,5,0,3,3,4,0,8,4,0.5,0,0,0.0,0,0,0.0,129,112,0
+78195,1983,28300048,1983-11-05 20:00:00,Golden State,Warriors,New York,Knicks,Regular Season,1,1,33.0,13,0,11,5,6,0,3,0,3,0,8,5,0.625,0,0,0.0,5,3,0.599,102,100,0
+78195,1983,28300060,1983-11-08 20:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,1,1,25.0,1,0,7,6,1,0,1,3,5,0,1,0,0.0,0,0,0.0,2,1,0.5,97,90,0
+78195,1983,28300076,1983-11-10 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,0,25.0,3,2,3,2,1,0,0,2,6,0,1,1,1.0,0,0,0.0,2,1,0.5,99,104,0
+78195,1983,28300087,1983-11-12 20:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,1,1,37.0,11,1,18,14,4,0,0,3,4,0,5,5,1.0,0,0,0.0,4,1,0.25,109,102,0
+78195,1983,28300097,1983-11-13 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,25.0,0,0,5,3,2,0,0,0,5,0,5,0,0.0,0,0,0.0,2,0,0.0,113,98,0
+78195,1983,28300102,1983-11-15 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,1,1,28.0,2,1,7,5,2,0,2,4,6,0,1,0,0.0,0,0,0.0,2,2,1.0,115,112,0
+78195,1983,28300111,1983-11-17 20:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,1,0,31.0,11,1,15,6,9,0,1,0,5,0,9,4,0.444,0,0,0.0,3,3,1.0,120,131,0
+78195,1983,28300130,1983-11-19 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,0,25.0,0,1,7,6,1,0,1,0,3,0,3,0,0.0,0,0,0.0,0,0,0.0,125,105,0
+78195,1983,28300138,1983-11-22 20:00:00,Golden State,Warriors,Washington,Bullets,Regular Season,0,1,35.0,14,0,13,9,4,1,0,2,5,0,9,6,0.667,0,0,0.0,3,2,0.667,101,102,0
+78195,1983,28300143,1983-11-23 20:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,0,0,34.0,8,1,9,4,5,0,0,2,2,0,8,4,0.5,0,0,0.0,0,0,0.0,118,94,0
+78195,1983,28300154,1983-11-25 20:00:00,Golden State,Warriors,Indiana,Pacers,Regular Season,0,1,28.0,14,3,15,3,12,0,2,2,4,0,14,7,0.5,0,0,0.0,0,0,0.0,105,110,0
+78195,1983,28300165,1983-11-26 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,0,0,28.0,4,1,5,3,2,0,1,3,4,0,3,2,0.667,0,0,0.0,2,0,0.0,115,109,0
+78195,1983,28300182,1983-11-29 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,0,20.0,0,0,5,4,1,0,1,1,3,0,0,0,0.0,0,0,0.0,2,0,0.0,105,111,0
+78195,1983,28300192,1983-12-01 20:00:00,Golden State,Warriors,Kansas City,Kings,Regular Season,1,1,29.0,7,1,15,9,6,0,1,1,3,0,6,2,0.333,0,0,0.0,4,3,0.75,106,95,0
+78195,1983,28300199,1983-12-02 20:00:00,Golden State,Warriors,San Diego,Clippers,Regular Season,0,0,37.0,10,2,6,4,2,1,2,2,4,0,6,4,0.667,0,0,0.0,2,2,1.0,109,108,0
+78195,1983,28300216,1983-12-06 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,1,38.0,8,2,15,10,5,1,3,0,4,0,3,3,1.0,0,0,0.0,4,2,0.5,108,103,0
+78195,1983,28300229,1983-12-08 20:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,1,1,30.0,10,1,10,6,4,1,0,1,4,0,6,4,0.667,0,0,0.0,4,2,0.5,130,129,0
+78195,1983,28300241,1983-12-10 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,1,0,26.0,5,0,7,2,5,0,0,1,4,0,6,2,0.333,0,0,0.0,2,1,0.5,123,126,0
+78195,1983,28300249,1983-12-11 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,32.0,25,2,10,3,7,1,3,2,6,0,12,9,0.75,0,0,0.0,8,7,0.875,105,101,0
+78195,1983,28300254,1983-12-13 20:00:00,Golden State,Warriors,New Jersey,Nets,Regular Season,1,0,25.0,6,0,9,6,3,0,1,1,4,0,5,3,0.599,0,0,0.0,0,0,0.0,122,133,0
+78195,1983,28300270,1983-12-15 20:00:00,Golden State,Warriors,Kansas City,Kings,Regular Season,1,1,27.0,6,0,10,7,3,0,0,0,2,0,6,3,0.5,0,0,0.0,0,0,0.0,119,116,0
+78195,1983,28300283,1983-12-17 20:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,0,0,28.0,10,0,11,4,7,0,2,3,5,0,7,5,0.713,0,0,0.0,1,0,0.0,127,111,0
+78195,1983,28300288,1983-12-18 20:00:00,Golden State,Warriors,San Diego,Clippers,Regular Season,1,1,35.0,19,3,13,7,6,0,0,3,6,0,10,7,0.699,0,0,0.0,8,5,0.625,99,97,0
+78195,1983,28300293,1983-12-20 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,0,34.0,8,4,18,12,6,1,0,1,6,0,10,4,0.4,0,0,0.0,2,0,0.0,105,109,0
+78195,1983,28300303,1983-12-22 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,1,34.0,12,3,12,6,6,0,0,2,4,0,9,5,0.556,0,0,0.0,2,2,1.0,109,102,0
+78195,1983,28300312,1983-12-23 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,28.0,18,0,7,3,4,0,3,1,2,0,10,7,0.699,0,0,0.0,6,4,0.667,123,116,0
+78195,1983,28300326,1983-12-27 20:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,1,0,38.0,15,0,19,10,9,0,0,3,5,0,16,6,0.375,0,0,0.0,3,3,1.0,102,111,0
+78195,1983,28300334,1983-12-28 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,27.0,12,1,9,7,2,0,0,3,3,0,7,4,0.57,0,0,0.0,8,4,0.5,128,105,0
+78195,1983,28300348,1983-12-30 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,1,34.0,14,2,12,6,6,0,0,1,2,0,6,3,0.5,0,0,0.0,14,8,0.57,105,116,0
+78195,1983,28300355,1984-01-03 20:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,1,1,29.0,7,0,10,7,3,0,0,2,5,0,5,3,0.599,0,0,0.0,2,1,0.5,115,106,0
+78195,1983,28300383,1984-01-07 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,1,1,23.0,4,0,5,4,1,0,1,1,3,0,2,2,1.0,0,0,0.0,0,0,0.0,154,133,0
+78195,1983,28300396,1984-01-10 20:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,0,0,34.0,10,0,10,6,4,0,2,3,3,0,8,5,0.625,0,0,0.0,0,0,0.0,103,101,0
+78195,1983,28300406,1984-01-11 20:00:00,Golden State,Warriors,Boston,Celtics,Regular Season,0,0,26.0,6,2,8,4,4,1,0,2,1,0,3,2,0.667,0,0,0.0,3,2,0.667,135,112,0
+78195,1983,28300421,1984-01-13 20:00:00,Golden State,Warriors,New Jersey,Nets,Regular Season,0,1,29.0,12,2,11,7,4,0,3,3,3,0,8,5,0.625,0,0,0.0,2,2,1.0,111,114,0
+78195,1983,28300425,1984-01-14 20:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,0,0,28.0,5,0,6,1,5,1,0,2,4,0,4,2,0.5,0,0,0.0,4,1,0.25,129,103,0
+78195,1983,28300438,1984-01-17 20:00:00,Golden State,Warriors,San Diego,Clippers,Regular Season,1,1,24.0,9,2,12,9,3,0,1,6,4,0,7,4,0.57,0,0,0.0,2,1,0.5,123,110,0
+78195,1983,28300452,1984-01-19 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,35.0,12,0,7,6,1,3,0,1,5,0,4,3,0.75,0,0,0.0,8,6,0.75,107,103,0
+78195,1983,28300471,1984-01-21 20:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,0,0,29.0,12,2,7,2,5,0,0,0,4,0,7,6,0.856,0,0,0.0,2,0,0.0,126,115,0
+78195,1983,28300480,1984-01-24 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,0,26.0,2,0,12,5,7,0,0,2,3,0,9,1,0.111,0,0,0.0,0,0,0.0,118,98,0
+78195,1983,28300487,1984-01-25 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,0,0,20.0,2,1,4,4,0,0,0,4,2,0,2,1,0.5,0,0,0.0,0,0,0.0,112,110,0
+78195,1983,28300492,1984-01-26 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,0,0,31.0,15,2,8,5,3,1,1,3,3,0,6,6,1.0,0,0,0.0,5,3,0.599,123,116,0
+78195,1983,28300515,1984-02-02 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,1,1,19.0,6,1,11,3,8,0,0,0,3,0,9,3,0.333,0,0,0.0,0,0,0.0,117,107,0
+78195,1983,28300581,1984-02-14 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,1,27.0,7,0,9,7,2,2,2,3,3,0,5,3,0.599,0,0,0.0,2,1,0.5,105,102,0
+78195,1983,28300597,1984-02-16 20:00:00,Golden State,Warriors,Boston,Celtics,Regular Season,1,0,18.0,4,1,7,2,5,0,2,0,2,0,4,2,0.5,0,0,0.0,0,0,0.0,115,125,0
+78195,1983,28300610,1984-02-18 20:00:00,Golden State,Warriors,Washington,Bullets,Regular Season,1,1,12.0,2,0,4,3,1,0,0,0,4,0,1,1,1.0,0,0,0.0,0,0,0.0,113,107,0
+78195,1983,28300619,1984-02-21 20:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,1,1,31.0,11,3,12,9,3,1,1,5,2,0,7,5,0.713,0,0,0.0,5,1,0.2,135,133,0
+78195,1983,28300637,1984-02-23 20:00:00,Golden State,Warriors,San Diego,Clippers,Regular Season,1,0,25.0,4,0,7,1,6,1,0,1,4,0,6,2,0.333,0,0,0.0,0,0,0.0,103,108,0
+78195,1983,28300648,1984-02-25 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,1,24.0,4,1,11,6,5,0,0,0,3,0,4,1,0.25,0,0,0.0,4,2,0.5,112,118,0
+78195,1983,28300666,1984-02-28 20:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,1,1,39.0,18,1,15,7,8,1,0,3,4,0,10,6,0.599,0,0,0.0,10,6,0.599,140,137,0
+78195,1983,28300686,1984-03-02 20:00:00,Golden State,Warriors,San Diego,Clippers,Regular Season,0,1,27.0,10,0,6,4,2,1,0,2,6,0,5,5,1.0,0,0,0.0,0,0,0.0,103,110,0
+78195,1983,28300692,1984-03-03 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,0,32.0,17,0,10,7,3,1,1,1,5,0,13,7,0.538,0,0,0.0,5,3,0.599,106,108,0
+78195,1983,28300706,1984-03-06 20:00:00,Golden State,Warriors,Indiana,Pacers,Regular Season,1,1,19.0,7,1,6,3,3,0,2,1,2,0,6,3,0.5,0,0,0.0,1,1,1.0,125,109,0
+78195,1983,28300727,1984-03-10 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,0,0,19.0,4,0,5,2,3,0,0,1,1,0,4,2,0.5,0,0,0.0,0,0,0.0,120,103,0
+78195,1983,28300734,1984-03-11 20:00:00,Golden State,Warriors,Kansas City,Kings,Regular Season,0,1,22.0,7,0,3,2,1,1,1,0,2,0,2,2,1.0,0,0,0.0,6,3,0.5,109,115,0
+78195,1983,28300747,1984-03-13 20:00:00,Golden State,Warriors,Chicago,Bulls,Regular Season,1,0,14.0,2,0,0,0,0,0,1,1,2,0,1,1,1.0,0,0,0.0,0,0,0.0,101,112,0
+78195,1983,28300767,1984-03-17 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,17.0,7,0,5,0,5,0,0,1,3,0,6,3,0.5,0,0,0.0,2,1,0.5,133,96,0
+78195,1983,28300776,1984-03-18 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,0,24.0,2,1,3,2,1,0,2,1,2,0,3,1,0.333,0,0,0.0,0,0,0.0,126,99,0
+78195,1983,28300785,1984-03-20 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,1,33.0,4,2,10,8,2,0,0,1,4,0,2,2,1.0,0,0,0.0,0,0,0.0,103,102,0
+78195,1983,28300807,1984-03-23 20:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,0,1,26.0,4,0,9,6,3,0,1,3,5,0,3,2,0.667,0,0,0.0,0,0,0.0,104,115,0
+78195,1983,28300814,1984-03-24 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,0,28.0,6,0,4,4,0,0,0,3,5,0,3,2,0.667,0,0,0.0,2,2,1.0,94,106,0
+78195,1983,28300829,1984-03-27 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,0,0,38.0,8,2,9,7,2,0,1,2,4,0,8,4,0.5,0,0,0.0,0,0,0.0,117,116,0
+78195,1983,28300841,1984-03-29 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,29.0,4,1,8,6,2,0,0,3,4,0,4,2,0.5,0,0,0.0,0,0,0.0,124,119,0
+78195,1983,28300844,1984-03-30 20:00:00,Golden State,Warriors,San Diego,Clippers,Regular Season,0,0,27.0,8,0,1,0,1,0,0,0,3,0,9,4,0.444,0,0,0.0,0,0,0.0,124,112,0
+78195,1983,28300860,1984-04-01 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,31.0,7,1,13,7,6,0,3,2,3,0,6,3,0.5,0,0,0.0,2,1,0.5,121,110,0
+78195,1983,28300865,1984-04-03 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,1,33.0,10,0,13,4,9,0,2,1,4,0,10,5,0.5,0,0,0.0,0,0,0.0,99,92,0
+78195,1983,28300881,1984-04-05 20:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,0,1,36.0,12,3,9,9,0,0,1,1,3,0,8,6,0.75,0,0,0.0,0,0,0.0,124,128,0
+78195,1983,28300892,1984-04-07 20:00:00,Golden State,Warriors,Kansas City,Kings,Regular Season,1,1,31.0,6,2,18,13,5,0,2,0,2,0,6,3,0.5,0,0,0.0,0,0,0.0,98,89,0
+78195,1983,28300910,1984-04-10 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,1,24.0,4,0,6,3,3,0,0,1,5,0,3,2,0.667,0,0,0.0,2,0,0.0,117,115,0
+78195,1983,28300923,1984-04-12 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,0,23.0,4,1,4,3,1,0,1,0,2,0,3,2,0.667,0,0,0.0,0,0,0.0,105,100,0
+78195,1983,28300926,1984-04-13 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,20.0,4,1,7,5,2,0,0,2,3,0,5,2,0.4,0,0,0.0,0,0,0.0,102,101,0
+78195,1983,28300938,1984-04-15 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,1,1,23.0,6,0,9,4,5,0,0,2,2,0,5,3,0.599,0,0,0.0,0,0,0.0,98,96,0
+78195,1984,28400006,1984-10-26 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,0,25.0,6,1,8,0,0,1,0,2,5,0,4,3,0.75,0,0,0.0,0,0,0.0,114,122,0
+78195,1984,28400008,1984-10-27 20:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,0,0,25.0,13,1,10,5,5,0,3,3,2,0,12,6,0.5,0,0,0.0,3,1,0.333,125,121,0
+78195,1984,28400020,1984-10-30 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,31.0,12,1,12,4,8,0,2,1,1,0,12,5,0.416,0,0,0.0,3,2,0.667,144,110,0
+78195,1984,28400039,1984-11-01 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,1,0,36.0,10,2,15,7,8,0,1,4,4,0,12,5,0.416,0,0,0.0,4,0,0.0,108,123,0
+78195,1984,28400051,1984-11-03 20:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,1,1,28.0,11,2,10,7,3,0,0,0,3,0,8,5,0.625,0,0,0.0,4,1,0.25,112,107,0
+78195,1984,28400075,1984-11-08 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,1,28.0,15,2,16,10,6,0,0,0,3,0,8,7,0.875,0,0,0.0,2,1,0.5,122,106,0
+78195,1984,28400080,1984-11-09 20:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,0,0,41.0,18,0,15,8,7,1,3,2,5,0,12,8,0.667,0,0,0.0,3,2,0.667,125,117,0
+78195,1984,28400091,1984-11-11 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,37.0,11,2,12,10,2,2,1,3,3,0,5,4,0.8,0,0,0.0,5,3,0.599,109,97,0
+78195,1984,28400101,1984-11-13 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,0,27.0,11,3,4,3,1,1,1,2,5,0,6,3,0.5,0,0,0.0,7,5,0.713,109,102,0
+78195,1984,28400110,1984-11-15 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,1,1,40.0,6,2,12,7,5,0,0,4,2,0,9,3,0.333,0,0,0.0,4,0,0.0,117,112,0
+78195,1984,28400119,1984-11-17 20:00:00,Golden State,Warriors,New Jersey,Nets,Regular Season,1,0,26.0,6,1,6,4,2,0,1,1,3,0,5,3,0.599,0,0,0.0,0,0,0.0,114,131,0
+78195,1984,28400131,1984-11-20 20:00:00,Golden State,Warriors,New York,Knicks,Regular Season,0,0,33.0,5,0,9,5,4,2,2,7,4,0,5,2,0.4,0,0,0.0,4,1,0.25,106,101,0
+78195,1984,28400143,1984-11-21 20:00:00,Golden State,Warriors,Boston,Celtics,Regular Season,0,0,28.0,12,2,10,2,8,0,1,3,4,0,14,6,0.428,0,0,0.0,2,0,0.0,135,91,0
+78195,1984,28400152,1984-11-23 20:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,0,1,33.0,12,0,11,7,4,0,1,1,1,0,8,5,0.625,0,0,0.0,2,2,1.0,106,107,0
+78195,1984,28400155,1984-11-24 20:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,0,0,34.0,6,1,9,4,5,0,0,0,5,0,11,3,0.273,0,0,0.0,0,0,0.0,103,97,0
+78195,1984,28400171,1984-11-27 20:00:00,Golden State,Warriors,Chicago,Bulls,Regular Season,1,1,38.0,16,1,15,8,7,0,1,3,2,0,11,7,0.636,0,0,0.0,4,2,0.5,109,103,0
+78195,1984,28400186,1984-11-29 20:00:00,Golden State,Warriors,Kansas City,Kings,Regular Season,1,1,29.0,4,2,10,6,4,1,4,1,4,0,5,2,0.4,0,0,0.0,0,0,0.0,110,107,0
+78195,1984,28400203,1984-12-01 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,24.0,6,2,4,1,3,1,3,1,4,0,3,3,1.0,0,0,0.0,0,0,0.0,115,103,0
+78195,1984,28400212,1984-12-04 20:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,1,0,34.0,10,0,15,6,9,1,0,1,4,0,7,5,0.713,0,0,0.0,2,0,0.0,105,107,0
+78195,1984,28400222,1984-12-06 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,1,32.0,4,1,8,2,6,0,2,2,4,0,4,2,0.5,0,0,0.0,0,0,0.0,114,113,0
+78195,1984,28400239,1984-12-08 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,0,27.0,2,2,13,7,6,0,0,1,3,0,10,1,0.1,0,0,0.0,0,0,0.0,98,102,0
+78195,1984,28400254,1984-12-11 20:00:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,1,0,30.0,2,2,13,9,4,0,0,1,3,0,4,1,0.25,0,0,0.0,0,0,0.0,104,116,0
+78195,1984,28400259,1984-12-12 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,19.0,5,0,5,2,3,0,0,1,4,0,7,2,0.285,0,0,0.0,2,1,0.5,131,107,0
+78195,1984,28400272,1984-12-14 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,38.0,19,5,13,7,6,2,3,4,3,0,10,7,0.699,0,0,0.0,6,5,0.832,105,92,0
+78195,1984,28400284,1984-12-16 20:00:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,0,0,42.0,10,0,13,7,6,2,0,1,5,0,10,4,0.4,0,0,0.0,4,2,0.5,103,85,0
+78195,1984,28400294,1984-12-18 20:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,1,0,26.0,11,4,10,7,3,0,3,1,6,0,8,5,0.625,0,0,0.0,2,1,0.5,122,126,0
+78195,1984,28400313,1984-12-21 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,1,31.0,10,1,14,6,8,0,0,2,3,0,11,4,0.363,0,0,0.0,4,2,0.5,94,91,0
+78195,1984,28400325,1984-12-25 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,27.0,5,2,10,6,4,0,0,4,5,0,4,2,0.5,0,0,0.0,1,1,1.0,106,97,0
+78195,1984,28400338,1984-12-27 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,1,36.0,13,3,7,5,2,2,4,2,4,0,8,6,0.75,0,0,0.0,3,1,0.333,98,101,0
+78195,1984,28400358,1984-12-29 20:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,1,0,27.0,4,0,7,2,5,0,2,2,3,0,5,2,0.4,0,0,0.0,0,0,0.0,95,109,0
+78195,1984,28400373,1985-01-03 20:00:00,Golden State,Warriors,Indiana,Pacers,Regular Season,1,0,25.0,5,0,10,1,9,0,0,2,1,0,8,2,0.25,0,0,0.0,4,1,0.25,96,112,0
+78195,1984,28400384,1985-01-05 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,0,35.0,5,0,10,5,5,0,1,0,5,0,3,2,0.667,0,0,0.0,2,1,0.5,94,103,0
+78195,1984,28400395,1985-01-07 20:00:00,Golden State,Warriors,Kansas City,Kings,Regular Season,0,0,35.0,15,2,11,9,2,0,3,3,6,0,10,7,0.699,0,0,0.0,2,1,0.5,110,101,0
+78195,1984,28400400,1985-01-08 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,0,0,24.0,12,0,6,2,4,0,0,2,4,0,9,5,0.556,0,0,0.0,4,2,0.5,139,94,0
+78195,1984,28400410,1985-01-10 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,0,28.0,4,2,11,10,1,1,0,2,2,0,2,2,1.0,0,0,0.0,1,0,0.0,86,89,0
+78195,1984,28400424,1985-01-12 20:00:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,1,0,41.0,18,1,23,10,13,1,2,1,5,0,16,8,0.5,0,0,0.0,6,2,0.333,102,104,0
+78195,1984,28400440,1985-01-15 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,1,0,25.0,13,0,6,3,3,0,1,0,3,0,12,6,0.5,0,0,0.0,2,1,0.5,104,149,0
+78195,1984,28400446,1985-01-16 20:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,0,0,33.0,13,1,14,8,6,1,0,3,5,0,12,5,0.416,0,0,0.0,4,3,0.75,115,107,0
+78195,1984,28400462,1985-01-19 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,0,25.0,4,0,8,5,3,0,1,2,2,0,5,1,0.2,0,0,0.0,3,2,0.667,109,139,0
+78195,1984,28400472,1985-01-21 20:00:00,Golden State,Warriors,Indiana,Pacers,Regular Season,0,0,43.0,15,2,19,10,9,0,0,3,6,0,11,5,0.455,0,0,0.0,7,5,0.713,129,127,0
+78195,1984,28400476,1985-01-22 20:00:00,Golden State,Warriors,Washington,Bullets,Regular Season,0,0,32.0,19,0,9,5,4,0,0,5,3,0,12,8,0.667,0,0,0.0,3,3,1.0,109,104,0
+78195,1984,28400490,1985-01-24 20:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,0,0,38.0,15,1,17,11,6,0,0,3,4,0,11,7,0.636,0,0,0.0,4,1,0.25,137,118,0
+78195,1984,28400499,1985-01-26 20:00:00,Golden State,Warriors,Kansas City,Kings,Regular Season,0,0,36.0,15,1,6,5,1,1,1,2,5,0,9,4,0.444,0,0,0.0,8,7,0.875,120,111,0
+78195,1984,28400514,1985-01-29 20:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,1,0,18.0,4,0,7,5,2,0,0,1,3,0,4,2,0.5,0,0,0.0,0,0,0.0,101,108,0
+78195,1984,28400526,1985-01-31 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,0,33.0,11,1,7,4,3,1,0,1,3,0,10,5,0.5,0,0,0.0,1,1,1.0,109,129,0
+78195,1984,28400543,1985-02-02 20:00:00,Golden State,Warriors,New York,Knicks,Regular Season,1,1,32.0,12,1,11,9,2,1,1,3,3,0,6,4,0.667,0,0,0.0,4,4,1.0,114,98,0
+78195,1984,28400550,1985-02-04 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,0,0,32.0,14,2,15,8,7,1,2,1,5,0,10,5,0.5,0,0,0.0,4,4,1.0,114,109,0
+78195,1984,28400565,1985-02-06 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,0,0,34.0,18,0,10,5,5,0,2,3,5,0,10,8,0.8,0,0,0.0,2,2,1.0,129,103,0
+78195,1984,28400571,1985-02-07 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,0,35.0,15,1,16,9,7,0,0,1,4,0,12,6,0.5,0,0,0.0,4,3,0.75,112,105,0
+78195,1984,28400578,1985-02-12 20:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,1,0,4.0,0,0,1,0,1,0,0,1,1,0,3,0,0.0,0,0,0.0,0,0,0.0,110,122,0
+78195,1984,28400610,1985-02-17 20:00:00,Golden State,Warriors,Washington,Bullets,Regular Season,1,1,24.0,5,2,9,7,2,0,0,4,2,0,2,2,1.0,0,0,0.0,1,1,1.0,125,121,0
+78195,1984,28400623,1985-02-19 20:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,0,0,22.0,14,1,8,4,4,1,0,3,2,0,8,6,0.75,0,0,0.0,4,2,0.5,107,104,0
+78195,1984,28400631,1985-02-20 20:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,0,0,27.0,10,0,11,4,7,0,2,2,3,0,9,4,0.444,0,0,0.0,4,2,0.5,137,116,0
+78195,1984,28400640,1985-02-22 20:00:00,Golden State,Warriors,New Jersey,Nets,Regular Season,0,1,31.0,11,4,5,2,3,0,1,1,2,0,9,4,0.444,0,0,0.0,4,3,0.75,127,131,0
+78195,1984,28400647,1985-02-23 20:00:00,Golden State,Warriors,Chicago,Bulls,Regular Season,0,0,38.0,13,0,9,4,5,0,1,1,1,0,8,5,0.625,0,0,0.0,6,3,0.5,140,125,0
+78195,1984,28400660,1985-02-26 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,1,29.0,7,0,11,6,5,1,1,2,4,0,5,2,0.4,0,0,0.0,4,3,0.75,128,119,0
+78195,1984,28400673,1985-02-28 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,36.0,8,0,16,10,6,2,0,2,2,0,6,1,0.167,0,0,0.0,6,6,1.0,124,120,0
+78195,1984,28400687,1985-03-02 20:00:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,1,1,24.0,8,1,9,3,6,2,2,1,1,0,10,4,0.4,0,0,0.0,0,0,0.0,108,102,0
+78195,1984,28400696,1985-03-04 20:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,1,0,42.0,16,1,20,8,12,2,2,3,5,0,12,5,0.416,0,0,0.0,10,6,0.599,104,108,0
+78195,1984,28400714,1985-03-06 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,16.0,6,0,4,2,2,1,1,0,4,0,6,3,0.5,0,0,0.0,0,0,0.0,145,119,0
+78195,1984,28400727,1985-03-09 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,1,34.0,9,2,11,7,4,0,1,4,4,0,5,3,0.599,0,0,0.0,3,3,1.0,115,118,0
+78195,1984,28400743,1985-03-12 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,1,1,32.0,16,1,8,3,5,0,0,0,2,0,11,5,0.455,0,0,0.0,8,6,0.75,145,122,0
+78195,1984,28400754,1985-03-14 20:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,1,0,29.0,12,0,11,2,9,2,0,1,2,0,11,6,0.545,0,0,0.0,2,0,0.0,112,120,0
+78195,1984,28400767,1985-03-15 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,32.0,7,2,9,5,4,1,2,1,5,0,9,3,0.333,0,0,0.0,4,1,0.25,126,101,0
+78195,1984,28400778,1985-03-17 20:00:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,0,1,45.0,13,4,16,6,10,3,0,3,2,0,10,4,0.4,0,0,0.0,7,5,0.713,100,109,0
+78195,1984,28400783,1985-03-18 20:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,0,0,34.0,15,2,14,8,6,4,1,5,4,0,11,6,0.545,0,0,0.0,4,3,0.75,136,125,0
+78195,1984,28400793,1985-03-20 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,0,21.0,6,1,7,6,1,0,0,1,5,0,7,3,0.428,0,0,0.0,0,0,0.0,123,109,0
+78195,1984,28400800,1985-03-21 20:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,1,0,33.0,14,2,9,5,4,0,2,0,3,0,7,6,0.856,0,0,0.0,4,2,0.5,113,122,0
+78195,1984,28400814,1985-03-23 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,1,37.0,15,1,11,5,6,2,1,1,4,0,9,6,0.667,0,0,0.0,3,3,1.0,123,109,0
+78195,1984,28400824,1985-03-26 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,0,0,32.0,18,2,8,5,3,1,0,5,4,0,8,8,1.0,0,0,0.0,3,2,0.667,134,107,0
+78195,1984,28400836,1985-03-27 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,0,0,33.0,21,0,10,5,5,0,1,3,6,0,11,7,0.636,0,0,0.0,7,7,1.0,121,120,0
+78195,1984,28400850,1985-03-29 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,0,31.0,18,2,11,5,6,0,1,6,4,0,13,9,0.691,0,0,0.0,4,0,0.0,121,116,0
+78195,1984,28400854,1985-03-30 20:00:00,Golden State,Warriors,Kansas City,Kings,Regular Season,0,0,35.0,19,1,11,7,4,3,0,1,3,0,10,7,0.699,0,0,0.0,7,5,0.713,137,121,0
+78195,1984,28400871,1985-04-02 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,1,0,36.0,18,2,14,9,5,1,1,0,5,0,12,8,0.667,0,0,0.0,5,2,0.4,121,127,0
+78195,1984,28400883,1985-04-04 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,1,30.0,21,1,16,7,9,3,1,2,4,0,16,8,0.5,0,0,0.0,6,5,0.832,113,108,0
+78195,1984,28400895,1985-04-06 20:00:00,Golden State,Warriors,Kansas City,Kings,Regular Season,1,1,32.0,10,1,15,0,0,1,0,0,3,0,6,4,0.667,0,0,0.0,2,2,1.0,141,125,0
+78195,1984,28400898,1985-04-07 20:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,0,0,36.0,18,1,8,5,3,0,1,1,4,0,12,7,0.582,0,0,0.0,7,4,0.57,130,125,0
+78195,1984,28400918,1985-04-11 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,0,40.0,14,0,15,6,9,1,2,2,5,0,15,7,0.467,0,0,0.0,0,0,0.0,130,137,0
+78195,1984,28400932,1985-04-13 20:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,1,0,39.0,14,0,12,6,6,0,1,2,3,0,9,7,0.778,0,0,0.0,2,0,0.0,120,127,0
+78195,1984,28400944,1985-04-14 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,37.0,13,2,18,8,10,0,0,1,6,0,12,5,0.416,0,0,0.0,3,3,1.0,124,111,0
+78195,1985,28500008,1985-10-25 20:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,1,0,30.0,19,0,13,4,9,0,0,1,6,0,11,7,0.636,0,0,0.0,10,5,0.5,105,119,0
+78195,1985,28500021,1985-10-27 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,33.0,12,2,8,3,5,0,1,1,5,0,12,5,0.416,0,0,0.0,4,2,0.5,116,99,0
+78195,1985,28500023,1985-10-29 20:00:00,Golden State,Warriors,Chicago,Bulls,Regular Season,1,0,38.0,14,0,10,6,4,1,0,1,3,0,12,4,0.333,1,0,0.0,8,6,0.75,105,111,0
+78195,1985,28500036,1985-10-31 20:00:00,Golden State,Warriors,New York,Knicks,Regular Season,1,1,25.0,12,0,13,7,6,0,0,3,5,0,8,6,0.75,0,0,0.0,0,0,0.0,111,104,0
+78195,1985,28500046,1985-11-02 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,0,40.0,9,1,10,7,3,1,1,2,4,0,6,3,0.5,0,0,0.0,7,3,0.428,116,120,0
+78195,1985,28500940,1985-11-05 20:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,0,0,30.0,2,0,7,4,3,0,2,0,3,0,8,1,0.125,0,0,0.0,1,0,0.0,118,99,0
+78195,1985,28500067,1985-11-06 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,1,31.0,8,0,8,5,3,1,0,2,4,0,4,3,0.75,0,0,0.0,4,2,0.5,105,101,0
+78195,1985,28500076,1985-11-08 20:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,1,1,32.0,11,1,9,6,3,1,0,1,3,0,6,3,0.5,0,0,0.0,6,5,0.832,130,119,0
+78195,1985,28500091,1985-11-10 20:00:00,Golden State,Warriors,Sacramento,Kings,Regular Season,1,1,28.0,21,1,8,6,2,0,0,2,4,0,9,7,0.778,0,0,0.0,10,7,0.699,117,111,0
+78195,1985,28500097,1985-11-12 20:00:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,1,1,32.0,6,3,7,3,4,1,0,3,2,0,8,3,0.375,0,0,0.0,0,0,0.0,127,115,0
+78195,1985,28500110,1985-11-14 20:00:00,Golden State,Warriors,Sacramento,Kings,Regular Season,0,0,30.0,10,3,12,9,3,0,1,2,4,0,5,3,0.599,0,0,0.0,6,4,0.667,112,103,0
+78195,1985,28500122,1985-11-16 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,1,29.0,9,1,7,4,3,0,0,2,3,0,5,4,0.8,0,0,0.0,2,1,0.5,118,105,0
+78195,1985,28500131,1985-11-19 20:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,0,1,27.0,4,0,9,7,2,0,1,1,4,0,5,2,0.4,0,0,0.0,0,0,0.0,104,110,0
+78195,1985,28500138,1985-11-20 20:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,0,0,36.0,16,2,13,5,8,0,1,3,3,0,14,7,0.5,0,0,0.0,6,2,0.333,117,113,0
+78195,1985,28500149,1985-11-22 20:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,0,0,31.0,11,1,9,5,4,1,0,1,1,0,5,3,0.599,0,0,0.0,8,5,0.625,115,96,0
+78195,1985,28500159,1985-11-23 20:00:00,Golden State,Warriors,Chicago,Bulls,Regular Season,0,0,29.0,6,2,7,3,4,0,2,0,2,0,7,3,0.428,0,0,0.0,1,0,0.0,135,108,0
+78195,1985,28500173,1985-11-26 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,0,33.0,19,1,11,2,9,1,3,1,3,0,10,7,0.699,0,0,0.0,8,5,0.625,130,108,0
+78195,1985,28500179,1985-11-27 20:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,1,1,32.0,6,1,10,4,6,0,2,2,3,0,5,2,0.4,0,0,0.0,4,2,0.5,104,102,0
+78195,1985,28500203,1985-11-30 20:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,1,0,25.0,4,0,9,4,5,1,1,1,3,0,6,1,0.167,0,0,0.0,4,2,0.5,88,89,0
+78195,1985,28500211,1985-12-02 20:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,0,0,25.0,10,1,10,7,3,3,2,3,1,0,6,5,0.832,0,0,0.0,3,0,0.0,103,100,0
+78195,1985,28500216,1985-12-03 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,1,0,33.0,4,0,10,5,5,0,0,1,2,0,6,2,0.333,0,0,0.0,0,0,0.0,100,107,0
+78195,1985,28500228,1985-12-05 20:00:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,1,1,32.0,12,3,13,5,8,1,0,1,5,0,9,5,0.556,0,0,0.0,2,2,1.0,121,104,0
+78195,1985,28500246,1985-12-07 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,0,0,34.0,2,4,10,5,5,1,1,3,4,0,4,1,0.25,0,0,0.0,0,0,0.0,120,110,0
+78195,1985,28500247,1985-12-08 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,0,0,24.0,5,1,7,5,2,0,0,2,5,0,2,1,0.5,0,0,0.0,7,3,0.428,121,114,0
+78195,1985,28500256,1985-12-10 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,27.0,4,0,7,4,3,1,1,5,2,0,4,0,0.0,0,0,0.0,4,4,1.0,94,92,0
+78195,1985,28500265,1985-12-11 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,0,32.0,12,0,10,7,3,2,0,2,5,0,10,6,0.599,0,0,0.0,0,0,0.0,113,123,0
+78195,1985,28500276,1985-12-13 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,0,38.0,16,0,17,9,8,0,2,1,5,0,10,7,0.699,0,0,0.0,4,2,0.5,124,127,0
+78195,1985,28500285,1985-12-15 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,1,19.0,4,0,5,2,3,0,0,1,1,0,5,2,0.4,0,0,0.0,0,0,0.0,112,105,0
+78195,1985,28500299,1985-12-18 20:00:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,0,0,26.0,2,2,4,3,1,1,1,2,2,0,2,1,0.5,0,0,0.0,0,0,0.0,103,99,0
+78195,1985,28500316,1985-12-21 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,23.0,10,1,11,4,7,1,0,4,5,0,6,4,0.667,0,0,0.0,4,2,0.5,115,98,0
+78195,1985,28500333,1985-12-26 20:00:00,Golden State,Warriors,Sacramento,Kings,Regular Season,1,1,33.0,7,2,11,3,8,0,2,2,1,0,5,3,0.599,0,0,0.0,4,1,0.25,131,121,0
+78195,1985,28500343,1985-12-27 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,0,22.0,8,0,7,4,3,0,0,1,3,0,5,4,0.8,0,0,0.0,0,0,0.0,114,102,0
+78195,1985,28500353,1985-12-29 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,1,35.0,16,2,14,8,6,0,0,2,3,0,10,7,0.699,0,0,0.0,2,2,1.0,122,130,0
+78195,1985,28500366,1986-01-02 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,0,41.0,17,1,19,13,6,0,1,3,4,0,11,8,0.726,0,0,0.0,4,1,0.25,115,120,0
+78195,1985,28500376,1986-01-04 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,1,0,37.0,11,0,9,3,6,0,0,4,4,0,7,4,0.57,0,0,0.0,6,3,0.5,116,122,0
+78195,1985,28500419,1986-01-11 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,0,0,35.0,4,3,15,7,8,0,2,1,5,0,7,2,0.285,0,0,0.0,2,0,0.0,127,123,0
+78195,1985,28500425,1986-01-13 20:00:00,Golden State,Warriors,Indiana,Pacers,Regular Season,1,1,38.0,7,1,12,7,5,1,2,2,4,0,6,3,0.5,0,0,0.0,2,1,0.5,119,108,0
+78195,1985,28500001,1986-01-15 20:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,1,1,28.0,12,1,16,12,4,1,0,1,2,0,9,6,0.667,0,0,0.0,0,0,0.0,150,104,0
+78195,1985,28500445,1986-01-17 20:00:00,Golden State,Warriors,Sacramento,Kings,Regular Season,1,0,32.0,2,3,17,11,6,2,0,0,3,0,5,1,0.2,0,0,0.0,2,0,0.0,111,125,0
+78195,1985,28500464,1986-01-19 20:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,0,0,26.0,4,2,6,4,2,1,1,2,6,0,5,2,0.4,0,0,0.0,2,0,0.0,122,109,0
+78195,1985,28500474,1986-01-21 20:00:00,Golden State,Warriors,New York,Knicks,Regular Season,0,0,37.0,14,3,17,8,9,1,1,0,3,0,14,6,0.428,0,0,0.0,2,2,1.0,121,114,0
+78195,1985,28500476,1986-01-22 20:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,0,0,32.0,12,0,10,6,4,0,2,2,3,0,9,6,0.667,0,0,0.0,0,0,0.0,131,100,0
+78195,1985,28500486,1986-01-24 20:00:00,Golden State,Warriors,Boston,Celtics,Regular Season,0,0,34.0,11,2,12,6,6,0,0,2,4,0,9,4,0.444,0,0,0.0,4,3,0.75,135,114,0
+78195,1985,28500499,1986-01-25 20:00:00,Golden State,Warriors,Indiana,Pacers,Regular Season,0,0,32.0,11,1,11,5,6,0,2,3,3,0,10,5,0.5,0,0,0.0,5,1,0.2,124,101,0
+78195,1985,28500515,1986-01-28 20:00:00,Golden State,Warriors,New Jersey,Nets,Regular Season,1,0,30.0,5,1,13,10,3,0,1,0,5,0,4,2,0.5,0,0,0.0,2,1,0.5,113,117,0
+78195,1985,28500522,1986-01-30 20:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,1,0,29.0,4,1,8,7,1,0,2,2,4,0,4,2,0.5,0,0,0.0,2,0,0.0,108,120,0
+78195,1985,28500542,1986-02-01 20:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,1,1,39.0,10,1,18,6,12,0,3,4,5,0,11,4,0.363,0,0,0.0,4,2,0.5,125,121,0
+78195,1985,28500550,1986-02-04 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,29.0,10,4,9,6,3,2,1,3,3,0,9,5,0.556,0,0,0.0,0,0,0.0,127,118,0
+78195,1985,28500577,1986-02-11 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,1,34.0,16,0,15,9,6,1,1,0,5,0,10,8,0.8,0,0,0.0,0,0,0.0,137,113,0
+78195,1985,28500585,1986-02-13 20:00:00,Golden State,Warriors,Washington,Bullets,Regular Season,1,1,37.0,10,0,15,7,8,1,1,1,3,0,9,5,0.556,0,0,0.0,2,0,0.0,109,105,0
+78195,1985,28500600,1986-02-15 20:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,0,0,28.0,6,1,4,4,0,0,2,1,4,0,3,3,1.0,0,0,0.0,2,0,0.0,113,100,0
+78195,1985,28500609,1986-02-17 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,0,36.0,10,3,16,11,5,2,0,3,6,0,8,5,0.625,0,0,0.0,0,0,0.0,110,116,0
+78195,1985,28500625,1986-02-19 20:00:00,Golden State,Warriors,Boston,Celtics,Regular Season,1,0,34.0,5,0,12,11,1,1,0,1,3,0,4,2,0.5,0,0,0.0,1,1,1.0,100,115,0
+78195,1985,28500633,1986-02-21 20:00:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,0,1,28.0,13,0,11,5,6,0,1,2,5,0,11,6,0.545,0,0,0.0,1,1,1.0,123,125,0
+78195,1985,28500650,1986-02-23 20:00:00,Golden State,Warriors,Sacramento,Kings,Regular Season,0,0,39.0,12,1,8,5,3,2,0,2,4,0,9,6,0.667,0,0,0.0,2,0,0.0,127,124,0
+78195,1985,28500659,1986-02-25 20:00:00,Golden State,Warriors,New Jersey,Nets,Regular Season,0,1,36.0,10,0,11,5,6,0,1,3,5,0,10,4,0.4,0,0,0.0,4,2,0.5,109,116,0
+78195,1985,28500671,1986-02-27 20:00:00,Golden State,Warriors,Washington,Bullets,Regular Season,0,0,32.0,5,2,16,9,7,1,0,3,3,0,7,2,0.285,0,0,0.0,5,1,0.2,114,102,0
+78195,1985,28500689,1986-03-01 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,0,0,31.0,10,4,12,4,8,0,1,4,4,0,7,4,0.57,0,0,0.0,2,2,1.0,119,110,0
+78195,1985,28500694,1986-03-03 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,35.0,16,6,11,5,6,0,1,2,3,0,9,7,0.778,0,0,0.0,4,2,0.5,127,117,0
+78195,1985,28500702,1986-03-04 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,1,1,40.0,14,0,11,6,5,3,0,0,4,0,14,7,0.5,0,0,0.0,0,0,0.0,129,126,0
+78195,1985,28500713,1986-03-06 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,0,37.0,7,1,15,10,5,0,0,0,5,0,6,3,0.5,0,0,0.0,2,1,0.5,111,112,0
+78195,1985,28500729,1986-03-08 20:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,1,1,24.0,10,3,5,3,2,0,2,0,5,0,6,4,0.667,0,0,0.0,6,2,0.333,138,128,0
+78195,1985,28500738,1986-03-10 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,0,32.0,9,1,12,6,6,2,0,2,4,0,5,4,0.8,0,0,0.0,4,1,0.25,108,111,0
+78195,1985,28500749,1986-03-12 20:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,0,1,29.0,12,1,10,4,6,0,2,1,6,0,8,4,0.5,0,0,0.0,4,4,1.0,111,118,0
+78195,1985,28500774,1986-03-16 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,1,29.0,7,1,8,3,5,1,0,1,3,0,7,3,0.428,0,0,0.0,2,1,0.5,130,112,0
+78195,1985,28500786,1986-03-18 20:00:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,1,1,33.0,16,0,14,8,6,1,0,3,6,0,9,8,0.889,0,0,0.0,4,0,0.0,126,122,0
+78195,1985,28500803,1986-03-20 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,0,30.0,6,1,11,6,5,1,0,1,4,0,6,3,0.5,0,0,0.0,0,0,0.0,116,104,0
+78195,1985,28500821,1986-03-23 20:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,1,1,32.0,6,2,23,7,16,1,2,2,2,0,14,3,0.213,0,0,0.0,2,0,0.0,113,111,0
+78195,1985,28500829,1986-03-25 20:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,1,1,32.0,5,0,10,10,0,0,1,2,1,0,7,2,0.285,0,0,0.0,3,1,0.333,125,121,0
+78195,1985,28500843,1986-03-27 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,1,1,36.0,14,3,14,9,5,1,0,1,4,0,8,6,0.75,0,0,0.0,2,2,1.0,121,118,0
+78195,1985,28500852,1986-03-29 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,34.0,16,1,11,6,5,1,0,1,5,0,9,7,0.778,0,0,0.0,2,2,1.0,130,129,0
+78195,1985,28500860,1986-03-30 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,34.0,13,1,12,9,3,0,1,0,4,0,12,6,0.5,0,0,0.0,2,1,0.5,124,117,0
+78195,1985,28500867,1986-04-01 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,0,33.0,11,2,14,7,7,2,0,1,2,0,11,5,0.455,0,0,0.0,6,1,0.167,125,121,0
+78195,1985,28500895,1986-04-05 20:00:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,0,1,29.0,7,0,8,4,4,0,3,4,4,0,7,2,0.285,0,0,0.0,4,3,0.75,106,107,0
+78195,1985,28500907,1986-04-08 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,1,1,29.0,9,1,11,8,3,3,0,3,1,0,7,4,0.57,0,0,0.0,3,1,0.333,129,115,0
+78195,1985,28500922,1986-04-11 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,0,32.0,14,0,8,4,4,0,1,1,6,0,8,7,0.875,0,0,0.0,0,0,0.0,130,131,0
+78195,1985,28500929,1986-04-12 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,0,31.0,6,1,20,11,9,0,0,1,3,0,5,2,0.4,0,0,0.0,2,2,1.0,121,101,0
+78195,1986,28600009,1986-10-31 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,13.0,0,0,3,3,0,0,1,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,127,123,0
+78195,1986,28600015,1986-11-01 20:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,1,1,22.0,8,1,11,4,7,0,0,5,2,0,7,4,0.57,0,0,0.0,0,0,0.0,131,109,0
+78195,1986,28600024,1986-11-03 20:00:00,Golden State,Warriors,New York,Knicks,Regular Season,1,1,23.0,3,0,10,7,3,1,0,1,3,0,3,1,0.333,0,0,0.0,2,1,0.5,104,95,0
+78195,1986,28600034,1986-11-05 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,19.0,2,1,6,5,1,2,0,0,5,0,4,1,0.25,0,0,0.0,0,0,0.0,102,92,0
+78195,1986,28600047,1986-11-07 20:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,1,0,28.0,0,2,11,8,3,0,0,3,4,0,2,0,0.0,0,0,0.0,0,0,0.0,114,115,0
+78195,1986,28600064,1986-11-11 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,19.0,6,0,8,4,4,0,0,0,1,0,4,3,0.75,0,0,0.0,0,0,0.0,126,108,0
+78195,1986,28600077,1986-11-13 20:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,1,1,28.0,11,0,19,15,4,1,1,2,4,0,10,4,0.4,0,0,0.0,3,3,1.0,112,104,0
+78195,1986,28600089,1986-11-15 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,0,20.0,6,1,10,7,3,0,0,0,3,0,5,3,0.599,0,0,0.0,1,0,0.0,121,127,0
+78195,1986,28600102,1986-11-18 20:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,0,0,16.0,4,0,2,2,0,0,0,3,1,0,2,2,1.0,0,0,0.0,0,0,0.0,111,85,0
+78195,1986,28600110,1986-11-19 20:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,0,1,29.0,16,1,17,9,8,3,1,3,3,0,13,8,0.614,0,0,0.0,0,0,0.0,104,112,0
+78195,1986,28600119,1986-11-21 20:00:00,Golden State,Warriors,Boston,Celtics,Regular Season,0,0,22.0,2,1,7,3,4,0,0,1,4,0,2,1,0.5,0,0,0.0,0,0,0.0,135,120,0
+78195,1986,28600126,1986-11-22 20:00:00,Golden State,Warriors,New York,Knicks,Regular Season,0,1,30.0,3,1,12,9,3,0,1,3,4,0,4,1,0.25,0,0,0.0,2,1,0.5,93,97,0
+78195,1986,28600136,1986-11-25 20:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,1,1,33.0,6,1,12,8,4,0,0,3,5,0,4,3,0.75,0,0,0.0,0,0,0.0,111,106,0
+78195,1986,28600161,1986-11-28 20:00:00,Golden State,Warriors,Sacramento,Kings,Regular Season,0,1,23.0,7,5,8,5,3,1,4,0,3,0,4,3,0.75,0,0,0.0,2,1,0.5,97,103,0
+78195,1986,28600166,1986-11-29 20:00:00,Golden State,Warriors,Chicago,Bulls,Regular Season,1,1,30.0,13,0,11,9,2,0,0,3,3,0,6,5,0.832,0,0,0.0,4,3,0.75,113,106,0
+78195,1986,28600173,1986-12-02 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,1,29.0,4,0,11,9,2,0,0,0,3,0,3,1,0.333,0,0,0.0,2,2,1.0,104,99,0
+78195,1986,28600190,1986-12-04 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,1,24.0,4,1,7,4,3,1,2,0,2,0,5,2,0.4,1,0,0.0,0,0,0.0,116,106,0
+78195,1986,28600199,1986-12-06 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,1,0,26.0,10,2,13,5,8,0,2,0,2,0,9,5,0.556,0,0,0.0,1,0,0.0,104,109,0
+78195,1986,28600206,1986-12-07 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,19.0,4,1,9,2,7,1,1,0,2,0,3,1,0.333,0,0,0.0,2,2,1.0,132,100,0
+78195,1986,28600213,1986-12-09 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,0,30.0,4,4,12,11,1,1,0,2,3,0,4,1,0.25,0,0,0.0,2,2,1.0,94,109,0
+78195,1986,28600224,1986-12-11 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,1,34.0,7,3,10,6,4,0,1,4,3,0,6,3,0.5,0,0,0.0,1,1,1.0,104,111,0
+78195,1986,28600238,1986-12-13 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,0,1,25.0,2,2,10,6,4,1,0,2,6,0,3,1,0.333,0,0,0.0,2,0,0.0,102,117,0
+78195,1986,28600251,1986-12-16 20:00:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,0,1,27.0,11,0,11,8,3,0,0,2,4,0,6,5,0.832,0,0,0.0,4,1,0.25,117,119,0
+78195,1986,28600263,1986-12-18 20:00:00,Golden State,Warriors,Washington,Bullets,Regular Season,1,0,25.0,13,2,9,5,4,0,0,1,3,0,6,5,0.832,0,0,0.0,3,3,1.0,110,128,0
+78195,1986,28600279,1986-12-20 20:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,0,0,23.0,12,1,15,11,4,0,0,1,3,0,6,5,0.832,0,0,0.0,2,2,1.0,128,112,0
+78195,1986,28600285,1986-12-21 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,1,31.0,12,1,11,5,6,2,3,5,5,0,8,4,0.5,0,0,0.0,5,4,0.8,112,121,0
+78195,1986,28600294,1986-12-23 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,33.0,10,2,14,6,8,0,1,4,5,0,9,4,0.444,0,0,0.0,2,2,1.0,112,111,0
+78195,1986,28600306,1986-12-26 20:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,0,0,31.0,12,1,13,5,8,1,3,2,2,0,11,6,0.545,0,0,0.0,2,0,0.0,121,106,0
+78195,1986,28600314,1986-12-27 20:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,0,0,32.0,5,0,14,6,8,1,0,1,3,0,9,2,0.222,0,0,0.0,4,1,0.25,119,108,0
+78195,1986,28600321,1986-12-29 20:00:00,Golden State,Warriors,Washington,Bullets,Regular Season,0,0,30.0,10,0,13,5,8,0,0,1,4,0,7,5,0.713,0,0,0.0,4,0,0.0,125,105,0
+78195,1986,28600328,1986-12-30 20:00:00,Golden State,Warriors,Chicago,Bulls,Regular Season,0,1,37.0,4,1,13,5,8,2,1,1,6,0,4,2,0.5,0,0,0.0,0,0,0.0,99,102,0
+78195,1986,28600342,1987-01-02 20:00:00,Golden State,Warriors,Sacramento,Kings,Regular Season,1,1,37.0,8,5,11,3,8,1,2,0,5,0,9,4,0.444,0,0,0.0,0,0,0.0,115,109,0
+78195,1986,28600353,1987-01-04 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,0,23.0,8,2,11,6,5,0,1,0,6,0,4,4,1.0,0,0,0.0,0,0,0.0,101,104,0
+78195,1986,28600358,1987-01-06 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,1,34.0,0,0,5,2,3,1,1,3,5,0,5,0,0.0,0,0,0.0,0,0,0.0,118,100,0
+78195,1986,28600371,1987-01-08 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,0,32.0,6,1,9,4,5,0,0,2,3,0,7,3,0.428,0,0,0.0,0,0,0.0,108,115,0
+78195,1986,28600388,1987-01-10 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,1,31.0,11,1,10,4,6,1,2,1,5,0,7,5,0.713,0,0,0.0,2,1,0.5,124,109,0
+78195,1986,28600404,1987-01-13 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,1,1,30.0,6,1,10,7,3,3,2,1,3,0,5,3,0.599,0,0,0.0,0,0,0.0,111,109,0
+78195,1986,28600413,1987-01-15 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,9.0,4,0,2,1,1,0,0,0,2,0,3,2,0.667,0,0,0.0,0,0,0.0,129,109,0
+78195,1986,28600421,1987-01-16 20:00:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,1,1,37.0,14,0,17,11,6,1,0,1,4,0,8,4,0.5,0,0,0.0,8,6,0.75,118,106,0
+78195,1986,28600432,1987-01-18 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,1,18.0,2,0,7,6,1,1,0,2,4,0,2,1,0.5,0,0,0.0,0,0,0.0,103,116,0
+78195,1986,28600442,1987-01-20 20:00:00,Golden State,Warriors,Sacramento,Kings,Regular Season,0,0,23.0,6,1,10,6,4,0,0,3,4,0,8,3,0.375,0,0,0.0,0,0,0.0,123,114,0
+78195,1986,28600449,1987-01-21 20:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,0,0,23.0,1,1,7,7,0,0,0,3,3,0,2,0,0.0,0,0,0.0,2,1,0.5,129,112,0
+78195,1986,28600457,1987-01-23 20:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,0,0,34.0,7,0,17,13,4,1,3,3,1,0,5,2,0.4,0,0,0.0,6,3,0.5,123,100,0
+78195,1986,28600476,1987-01-27 20:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,1,0,32.0,15,1,17,10,7,3,0,1,5,0,10,6,0.599,0,0,0.0,4,3,0.75,115,119,0
+78195,1986,28600483,1987-01-28 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,26.0,4,2,7,4,3,2,1,1,5,0,4,2,0.5,0,0,0.0,0,0,0.0,131,104,0
+78195,1986,28600508,1987-02-01 20:00:00,Golden State,Warriors,New Jersey,Nets,Regular Season,1,1,32.0,10,1,9,7,2,0,2,2,6,0,7,5,0.713,0,0,0.0,0,0,0.0,150,147,0
+78195,1986,28600524,1987-02-03 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,0,0,32.0,11,1,12,4,8,1,3,0,5,0,9,4,0.444,0,0,0.0,4,3,0.75,111,103,0
+78195,1986,28600532,1987-02-05 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,0,25.0,9,1,6,5,1,0,1,4,4,0,7,4,0.57,0,0,0.0,1,1,1.0,120,110,0
+78195,1986,28600540,1987-02-10 20:00:00,Golden State,Warriors,Indiana,Pacers,Regular Season,1,0,41.0,2,2,9,6,3,0,1,1,5,0,4,1,0.25,0,0,0.0,0,0,0.0,125,126,0
+78195,1986,28600555,1987-02-12 20:00:00,Golden State,Warriors,Boston,Celtics,Regular Season,1,0,24.0,6,1,10,6,4,0,0,1,4,0,5,3,0.599,0,0,0.0,0,0,0.0,112,134,0
+78195,1986,28600570,1987-02-14 20:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,1,1,30.0,5,2,12,6,6,2,0,2,4,0,6,1,0.167,0,0,0.0,4,3,0.75,103,96,0
+78195,1986,28600583,1987-02-16 20:00:00,Golden State,Warriors,Indiana,Pacers,Regular Season,0,0,30.0,10,0,13,8,5,0,0,2,3,0,9,5,0.556,0,0,0.0,0,0,0.0,112,93,0
+78195,1986,28600587,1987-02-18 20:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,0,0,33.0,12,0,11,7,4,2,2,0,5,0,6,5,0.832,0,0,0.0,4,2,0.5,114,103,0
+78195,1986,28600595,1987-02-19 20:00:00,Golden State,Warriors,New Jersey,Nets,Regular Season,0,1,29.0,12,1,7,4,3,4,2,0,6,0,9,4,0.444,0,0,0.0,6,4,0.667,106,110,0
+78195,1986,28600604,1987-02-21 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,0,0,37.0,17,0,16,12,4,1,0,1,6,0,9,7,0.778,0,0,0.0,4,3,0.75,122,111,0
+78195,1986,28600616,1987-02-23 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,1,0,34.0,5,4,12,7,5,0,2,1,2,0,5,1,0.2,0,0,0.0,4,3,0.75,95,121,0
+78195,1986,28600636,1987-02-26 20:00:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,1,1,38.0,13,1,20,16,4,2,1,2,2,0,11,6,0.545,0,0,0.0,5,1,0.2,129,108,0
+78195,1986,28600666,1987-03-03 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,0,26.0,10,0,7,2,5,0,0,1,5,0,10,5,0.5,0,0,0.0,0,0,0.0,109,114,0
+78195,1986,28600676,1987-03-05 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,1,39.0,15,2,12,6,6,0,2,1,5,0,10,5,0.5,0,0,0.0,5,5,1.0,105,96,0
+78195,1986,28600696,1987-03-08 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,1,1,26.0,10,3,10,4,6,0,1,2,3,0,9,5,0.556,0,0,0.0,0,0,0.0,137,111,0
+78195,1986,28600706,1987-03-10 20:00:00,Golden State,Warriors,Sacramento,Kings,Regular Season,1,1,33.0,13,0,14,7,7,0,1,1,5,0,7,6,0.856,0,0,0.0,4,1,0.25,125,114,0
+78195,1986,28600708,1987-03-11 20:00:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,0,1,37.0,13,0,10,7,3,0,2,5,5,0,8,6,0.75,0,0,0.0,2,1,0.5,111,121,0
+78195,1986,28600733,1987-03-15 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,34.0,23,1,15,9,6,0,1,2,5,0,10,7,0.699,0,0,0.0,13,9,0.691,119,108,0
+78195,1986,28600742,1987-03-17 20:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,0,0,27.0,12,0,17,8,9,0,1,0,4,0,10,5,0.5,0,0,0.0,4,2,0.5,118,103,0
+78195,1986,28600756,1987-03-19 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,40.0,5,0,15,10,5,0,2,1,4,0,6,2,0.333,0,0,0.0,2,1,0.5,125,124,0
+78195,1986,28600771,1987-03-21 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,1,38.0,9,6,11,9,2,1,3,1,3,0,7,3,0.428,0,0,0.0,9,3,0.333,102,105,0
+78195,1986,28600793,1987-03-25 20:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,1,1,39.0,8,3,19,11,8,1,1,0,4,0,7,3,0.428,0,0,0.0,2,2,1.0,127,115,0
+78195,1986,28600804,1987-03-27 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,1,39.0,12,0,15,7,8,1,1,3,4,0,8,6,0.75,0,0,0.0,2,0,0.0,105,106,0
+78195,1986,28600811,1987-03-28 20:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,1,1,36.0,14,1,24,16,8,0,0,2,4,0,13,7,0.538,0,0,0.0,0,0,0.0,116,110,0
+78195,1986,28600837,1987-04-02 20:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,0,0,22.0,11,0,14,5,9,1,0,4,1,0,9,5,0.556,0,0,0.0,4,1,0.25,132,96,0
+78195,1986,28600846,1987-04-03 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,0,0,35.0,21,1,10,5,5,0,1,2,4,0,9,6,0.667,0,0,0.0,13,9,0.691,136,116,0
+78195,1986,28600860,1987-04-05 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,0,1,42.0,19,2,19,13,6,2,2,2,3,0,14,9,0.643,0,0,0.0,7,1,0.142,119,120,0
+78195,1986,28600870,1987-04-07 20:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,1,0,38.0,15,0,16,13,3,0,0,1,6,0,10,7,0.699,0,0,0.0,2,1,0.5,126,129,0
+78195,1986,28600881,1987-04-09 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,1,0,34.0,9,0,9,6,3,0,1,5,2,0,8,4,0.5,0,0,0.0,4,1,0.25,100,125,0
+78195,1986,28600893,1987-04-11 20:00:00,Golden State,Warriors,Sacramento,Kings,Regular Season,0,1,41.0,12,2,16,9,7,3,0,1,5,0,10,4,0.4,0,0,0.0,6,4,0.667,118,124,0
+78195,1986,28600898,1987-04-12 20:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,1,0,39.0,9,4,14,11,3,1,1,2,4,0,4,3,0.75,0,0,0.0,4,3,0.75,107,109,0
+78195,1986,28600908,1987-04-14 20:00:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,0,1,28.0,14,0,8,4,4,2,2,2,1,0,11,7,0.636,0,0,0.0,2,0,0.0,108,117,0
+78195,1986,28600919,1987-04-15 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,0,35.0,10,0,10,6,4,0,1,1,3,0,9,5,0.556,0,0,0.0,0,0,0.0,116,119,0
+78195,1986,28600933,1987-04-18 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,1,34.0,18,0,11,6,5,0,0,3,5,0,10,6,0.599,0,0,0.0,7,6,0.856,127,132,0
+78195,1986,28600942,1987-04-19 20:00:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,1,1,27.0,10,6,12,8,4,0,0,3,1,0,10,5,0.5,0,0,0.0,1,0,0.0,105,85,0
+78195,1986,48600002,1987-04-23 20:00:00,Golden State,Warriors,Utah,Jazz,Playoffs,0,0,26.0,5,0,8,5,3,0,0,3,4,0,5,2,0.4,0,0,0.0,1,1,1.0,99,85,0
+78195,1986,48600009,1987-04-25 20:00:00,Golden State,Warriors,Utah,Jazz,Playoffs,0,0,30.0,4,4,12,8,4,0,0,1,5,0,2,2,1.0,0,0,0.0,0,0,0.0,103,100,0
+78195,1986,48600023,1987-04-29 20:00:00,Golden State,Warriors,Utah,Jazz,Playoffs,1,1,29.0,10,1,17,11,6,1,2,1,4,0,10,5,0.5,0,0,0.0,0,0,0.0,110,95,0
+78195,1986,48600028,1987-05-01 20:00:00,Golden State,Warriors,Utah,Jazz,Playoffs,1,1,37.0,3,1,8,4,4,0,2,1,5,0,2,0,0.0,0,0,0.0,4,3,0.75,98,94,0
+78195,1986,48600033,1987-05-03 20:00:00,Golden State,Warriors,Utah,Jazz,Playoffs,0,1,26.0,12,1,14,6,8,0,0,2,5,0,7,4,0.57,0,0,0.0,4,4,1.0,113,118,0
+78195,1986,48600035,1987-05-05 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Playoffs,0,0,30.0,17,3,11,7,4,1,0,1,3,0,10,7,0.699,0,0,0.0,5,3,0.599,125,116,0
+78195,1986,48600040,1987-05-07 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Playoffs,0,0,37.0,18,3,13,4,9,0,3,1,2,0,15,8,0.533,0,0,0.0,2,2,1.0,116,101,0
+78195,1986,48600044,1987-05-09 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Playoffs,1,0,36.0,14,1,15,6,9,1,0,1,3,0,13,6,0.462,0,0,0.0,4,2,0.5,108,133,0
+78195,1986,48600046,1987-05-10 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Playoffs,1,1,37.0,4,0,16,14,2,0,3,1,4,0,5,1,0.2,0,0,0.0,4,2,0.5,129,121,0
+78195,1986,48600049,1987-05-12 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Playoffs,0,0,41.0,16,3,23,11,12,3,2,2,4,0,12,8,0.667,0,0,0.0,0,0,0.0,118,106,0
+78195,1987,28700048,1987-11-13 20:00:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,0,0,26.0,8,1,10,6,4,0,1,2,2,0,5,4,0.8,0,0,0.0,1,0,0.0,97,94,0
+78195,1987,28700057,1987-11-14 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,0,21.0,2,0,4,4,0,0,0,0,4,0,5,1,0.2,0,0,0.0,0,0,0.0,110,118,0
+78195,1987,28700067,1987-11-17 20:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,0,0,19.0,4,4,6,3,3,1,0,1,5,0,5,2,0.4,0,0,0.0,0,0,0.0,120,108,0
+78195,1987,28700190,1987-12-09 20:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,1,1,32.0,13,0,12,5,7,1,1,1,4,0,9,6,0.667,0,0,0.0,4,1,0.25,113,112,0
+78195,1987,28700199,1987-12-11 20:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,1,0,23.0,8,0,10,4,6,0,0,0,3,0,6,4,0.667,0,0,0.0,0,0,0.0,93,109,0
+78195,1987,28700206,1987-12-12 20:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,0,0,14.0,0,1,5,3,2,0,0,1,3,0,0,0,0.0,0,0,0.0,0,0,0.0,127,93,0
+78195,1987,28700232,1987-12-17 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,0,29.0,7,2,15,13,2,0,0,2,2,0,7,3,0.428,0,0,0.0,2,1,0.5,106,113,0
+78195,1987,28700321,1988-01-05 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,1,1,15.0,4,1,4,2,2,1,0,3,3,0,3,2,0.667,0,0,0.0,0,0,0.0,129,119,0
+78195,1987,28700338,1988-01-07 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,0,24.0,17,0,11,7,4,0,0,0,1,0,9,7,0.778,0,0,0.0,5,3,0.599,113,120,0
+78195,1987,28700346,1988-01-09 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,1,0,15.0,2,1,9,3,6,0,0,1,2,0,5,1,0.2,0,0,0.0,2,0,0.0,99,115,0
+78195,1987,28700359,1988-01-12 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,34.0,14,2,16,8,8,0,0,3,2,0,11,7,0.636,0,0,0.0,0,0,0.0,117,113,0
+78195,1987,28700368,1988-01-13 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,0,27.0,9,0,13,6,7,0,0,2,2,0,10,2,0.2,1,0,0.0,8,5,0.625,144,115,0
+78195,1987,28700527,1988-02-13 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,1,23.0,2,1,6,3,3,0,0,1,4,0,3,1,0.333,0,0,0.0,0,0,0.0,109,95,0
+78195,1987,28700540,1988-02-15 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,0,1,20.0,5,2,5,2,3,2,1,0,3,0,6,2,0.333,0,0,0.0,2,1,0.5,122,126,0
+78195,1987,28700546,1988-02-16 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,0,31.0,4,3,12,7,5,1,2,5,4,0,7,2,0.285,0,0,0.0,0,0,0.0,121,116,0
+78195,1987,28700564,1988-02-19 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,0,0,38.0,6,4,16,11,5,3,1,5,3,0,7,3,0.428,0,0,0.0,0,0,0.0,113,100,0
+78195,1987,28700580,1988-02-22 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,1,1,35.0,10,2,13,9,4,1,4,1,4,0,8,5,0.625,0,0,0.0,0,0,0.0,123,111,0
+78195,1987,28700592,1988-02-24 20:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,1,0,20.0,2,0,4,1,3,1,0,2,6,0,5,1,0.2,0,0,0.0,0,0,0.0,93,107,0
+78195,1987,28700604,1988-02-26 20:00:00,Golden State,Warriors,New York,Knicks,Regular Season,1,0,30.0,8,1,7,3,4,0,1,4,2,0,9,4,0.444,0,0,0.0,1,0,0.0,119,125,0
+78195,1987,28700612,1988-02-27 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,0,23.0,2,0,4,3,1,0,1,2,4,0,3,1,0.333,0,0,0.0,2,0,0.0,114,111,0
+78195,1988,28800021,1988-11-05 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,1,32.0,10,2,9,6,3,1,0,2,1,0,7,5,0.713,0,0,0.0,1,0,0.0,117,104,0
+78195,1988,28800029,1988-11-08 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,0,20.0,6,0,5,2,3,0,1,0,3,0,6,3,0.5,0,0,0.0,0,0,0.0,102,114,0
+78195,1988,28800039,1988-11-09 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,1,17.0,8,0,9,6,3,0,1,1,4,0,6,4,0.667,0,0,0.0,0,0,0.0,108,113,0
+78195,1988,28800049,1988-11-11 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,29.0,2,0,5,4,1,0,0,1,3,0,3,1,0.333,0,0,0.0,0,0,0.0,141,103,0
+78195,1988,28800058,1988-11-12 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,19.0,2,1,8,5,3,0,0,0,4,0,3,1,0.333,0,0,0.0,0,0,0.0,107,100,0
+78195,1988,28800065,1988-11-14 20:00:00,Golden State,Warriors,New Jersey,Nets,Regular Season,0,1,27.0,3,1,7,6,1,1,0,0,4,0,4,1,0.25,0,0,0.0,2,1,0.5,96,100,0
+78195,1988,28800078,1988-11-16 20:00:00,Golden State,Warriors,Boston,Celtics,Regular Season,0,0,22.0,4,0,5,4,1,0,1,0,3,0,3,2,0.667,0,0,0.0,0,0,0.0,107,104,0
+78195,1988,28800088,1988-11-18 20:00:00,Golden State,Warriors,Miami,Heat,Regular Season,0,1,31.0,10,1,8,3,5,2,1,0,4,0,7,5,0.713,0,0,0.0,0,0,0.0,117,123,0
+78195,1988,28800096,1988-11-19 20:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,0,0,21.0,2,1,4,3,1,0,0,0,2,0,2,1,0.5,0,0,0.0,0,0,0.0,111,92,0
+78195,1988,28800119,1988-11-23 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,0,29.0,6,1,13,5,8,0,0,1,4,0,8,3,0.375,0,0,0.0,0,0,0.0,85,93,0
+78195,1988,28800144,1988-11-26 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,0,28.0,12,0,13,4,9,1,0,1,4,0,13,6,0.462,0,0,0.0,0,0,0.0,109,119,0
+78195,1988,28800147,1988-11-27 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,21.0,5,0,5,5,0,0,0,3,3,0,4,2,0.5,0,0,0.0,2,1,0.5,109,94,0
+78195,1988,28800150,1988-11-29 20:00:00,Golden State,Warriors,Chicago,Bulls,Regular Season,1,1,29.0,10,1,7,4,3,0,0,2,4,0,6,4,0.667,0,0,0.0,2,2,1.0,109,99,0
+78195,1988,28800175,1988-12-02 20:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,0,0,19.0,11,2,7,4,3,0,2,2,1,0,7,5,0.713,0,0,0.0,1,1,1.0,129,102,0
+78195,1988,28800180,1988-12-03 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,0,27.0,9,0,5,3,2,0,0,2,4,0,7,4,0.57,0,0,0.0,5,1,0.2,136,106,0
+78195,1988,28800197,1988-12-06 20:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,1,1,31.0,2,1,9,7,2,0,1,3,5,0,3,1,0.333,0,0,0.0,0,0,0.0,114,103,0
+78195,1988,28800217,1988-12-09 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,26.0,2,4,9,8,1,0,0,3,5,0,1,1,1.0,0,0,0.0,0,0,0.0,110,105,0
+78195,1988,28800229,1988-12-10 20:00:00,Golden State,Warriors,Washington,Bullets,Regular Season,1,1,30.0,10,0,5,2,3,1,2,3,3,0,5,5,1.0,0,0,0.0,0,0,0.0,109,102,0
+78195,1988,28800235,1988-12-13 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,0,0,26.0,12,1,10,4,6,0,0,2,2,0,11,6,0.545,0,0,0.0,0,0,0.0,117,111,0
+78195,1988,28800252,1988-12-15 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,0,26.0,4,0,6,4,2,1,0,2,6,0,3,2,0.667,0,0,0.0,0,0,0.0,124,115,0
+78195,1988,28800263,1988-12-17 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,0,1,25.0,8,1,8,5,3,0,0,4,5,0,4,4,1.0,0,0,0.0,0,0,0.0,113,123,0
+78195,1988,28800278,1988-12-20 20:00:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,1,1,24.0,4,1,4,2,2,1,1,1,2,0,5,2,0.4,0,0,0.0,0,0,0.0,113,111,0
+78195,1988,28800294,1988-12-22 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,0,32.0,13,1,5,2,3,2,0,3,2,0,10,6,0.599,0,0,0.0,4,1,0.25,109,117,0
+78195,1988,28800303,1988-12-23 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,36.0,4,2,8,6,2,1,2,1,4,0,3,2,0.667,0,0,0.0,0,0,0.0,111,107,0
+78195,1988,28800316,1988-12-27 20:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,1,1,36.0,10,2,14,9,5,0,2,3,5,0,9,5,0.556,0,0,0.0,0,0,0.0,119,112,0
+78195,1988,28800358,1989-01-04 20:00:00,Golden State,Warriors,Miami,Heat,Regular Season,1,1,30.0,6,1,8,6,2,1,1,4,3,0,5,3,0.599,0,0,0.0,1,0,0.0,109,100,0
+78195,1988,28800362,1989-01-05 20:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,0,0,29.0,4,6,9,6,3,1,0,1,3,0,5,2,0.4,0,0,0.0,2,0,0.0,131,129,0
+78195,1988,28800379,1989-01-07 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,1,0,38.0,9,0,18,9,9,0,0,1,5,0,8,4,0.5,0,0,0.0,2,1,0.5,102,104,0
+78195,1988,28800386,1989-01-09 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,1,32.0,6,2,11,5,6,0,0,0,2,0,12,3,0.25,0,0,0.0,0,0,0.0,130,124,0
+78195,1988,28800396,1989-01-11 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,1,1,33.0,2,3,13,13,0,1,3,4,5,0,2,1,0.5,0,0,0.0,0,0,0.0,107,106,0
+78195,1988,28800408,1989-01-13 20:00:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,0,1,28.0,13,2,11,6,5,3,1,1,4,0,8,6,0.75,0,0,0.0,2,1,0.5,113,127,0
+78195,1988,28800415,1989-01-14 20:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,1,1,30.0,10,2,13,6,7,1,2,2,5,0,8,5,0.625,0,0,0.0,0,0,0.0,131,105,0
+78195,1988,28800434,1989-01-16 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,1,31.0,14,5,14,5,9,1,0,2,4,0,11,7,0.636,0,0,0.0,0,0,0.0,146,117,0
+78195,1988,28800443,1989-01-18 20:00:00,Golden State,Warriors,New York,Knicks,Regular Season,1,1,24.0,0,2,8,5,3,1,1,2,5,0,3,0,0.0,0,0,0.0,0,0,0.0,133,119,0
+78195,1988,28800455,1989-01-20 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,1,26.0,5,4,11,7,4,0,3,2,3,0,5,2,0.4,0,0,0.0,3,1,0.333,121,114,0
+78195,1988,28800466,1989-01-21 20:00:00,Golden State,Warriors,Sacramento,Kings,Regular Season,0,1,19.0,6,4,10,6,4,2,1,1,1,0,4,3,0.75,0,0,0.0,0,0,0.0,111,136,0
+78195,1988,28800471,1989-01-23 20:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,0,0,21.0,2,2,8,5,3,1,1,2,1,0,3,1,0.333,0,0,0.0,0,0,0.0,142,109,0
+78195,1988,28800480,1989-01-25 20:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,0,0,17.0,2,1,7,5,2,0,0,0,4,0,4,1,0.25,0,0,0.0,0,0,0.0,105,104,0
+78195,1988,28800498,1989-01-27 20:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,0,0,30.0,6,1,12,6,6,0,2,0,4,0,3,3,1.0,0,0,0.0,0,0,0.0,113,112,0
+78195,1988,28800511,1989-01-30 20:00:00,Golden State,Warriors,Miami,Heat,Regular Season,0,1,28.0,2,3,7,3,4,0,1,5,3,0,3,1,0.333,0,0,0.0,0,0,0.0,98,105,0
+78195,1988,28800529,1989-02-02 20:00:00,Golden State,Warriors,New Jersey,Nets,Regular Season,1,1,23.0,15,3,9,3,6,0,0,1,3,0,9,7,0.778,0,0,0.0,2,1,0.5,127,113,0
+78195,1988,28800545,1989-02-04 20:00:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,1,1,27.0,4,4,16,9,7,0,0,0,2,0,13,2,0.153,0,0,0.0,0,0,0.0,116,107,0
+78195,1988,28800570,1989-02-08 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,1,21.0,2,1,3,2,1,0,0,3,6,0,2,1,0.5,0,0,0.0,0,0,0.0,118,121,0
+78195,1988,28800572,1989-02-09 20:00:00,Golden State,Warriors,Sacramento,Kings,Regular Season,0,0,22.0,18,0,5,1,4,2,0,0,1,0,13,9,0.691,0,0,0.0,1,0,0.0,142,117,0
+78195,1988,28800596,1989-02-15 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,1,1,23.0,10,2,7,5,2,0,2,1,3,0,11,5,0.455,0,0,0.0,1,0,0.0,133,96,0
+78195,1988,28800598,1989-02-16 20:00:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,0,1,21.0,10,0,4,1,3,0,0,2,4,0,9,5,0.556,0,0,0.0,0,0,0.0,138,143,0
+78195,1988,28800610,1989-02-18 20:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,1,1,22.0,5,1,7,6,1,1,1,1,3,0,3,2,0.667,0,0,0.0,2,1,0.5,121,119,0
+78195,1988,28800631,1989-02-21 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,16.0,4,0,5,5,0,1,0,0,3,0,2,2,1.0,0,0,0.0,2,0,0.0,139,121,0
+78195,1988,28800641,1989-02-22 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,0,1,27.0,12,1,10,5,5,0,2,3,3,0,5,5,1.0,0,0,0.0,3,2,0.667,107,118,0
+78195,1988,28800648,1989-02-24 20:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,0,1,19.0,4,2,7,4,3,1,0,0,4,0,4,2,0.5,0,0,0.0,0,0,0.0,92,127,0
+78195,1988,28800670,1989-02-27 20:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,1,1,16.0,8,2,5,3,2,0,2,2,2,0,5,4,0.8,0,0,0.0,0,0,0.0,141,132,0
+78195,1988,28800684,1989-03-01 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,18.0,2,3,5,1,4,0,2,0,2,0,4,1,0.25,0,0,0.0,0,0,0.0,142,121,0
+78195,1988,28800686,1989-03-02 20:00:00,Golden State,Warriors,Indiana,Pacers,Regular Season,1,0,17.0,4,1,7,6,1,0,2,2,4,0,3,2,0.667,0,0,0.0,0,0,0.0,127,131,0
+78195,1988,28800703,1989-03-04 20:00:00,Golden State,Warriors,Sacramento,Kings,Regular Season,1,1,19.0,0,4,10,9,1,1,2,2,2,0,4,0,0.0,0,0,0.0,2,0,0.0,155,143,0
+78195,1988,28800712,1989-03-05 20:00:00,Golden State,Warriors,Sacramento,Kings,Regular Season,0,0,23.0,6,1,11,6,5,0,2,1,2,0,4,3,0.75,0,0,0.0,0,0,0.0,110,96,0
+78195,1988,28800721,1989-03-07 20:00:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,1,1,22.0,14,1,12,5,7,0,1,0,2,0,10,7,0.699,0,0,0.0,0,0,0.0,138,112,0
+78195,1988,28800735,1989-03-09 20:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,1,1,22.0,2,0,6,4,2,4,0,2,2,0,2,1,0.5,0,0,0.0,2,0,0.0,120,114,0
+78195,1988,28800737,1989-03-10 20:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,0,0,24.0,10,1,3,2,1,1,1,1,5,0,6,5,0.832,0,0,0.0,2,0,0.0,126,112,0
+78195,1988,28800752,1989-03-12 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,0,19.0,4,1,9,4,5,1,0,0,3,0,3,2,0.667,0,0,0.0,0,0,0.0,115,126,0
+78195,1988,28800766,1989-03-14 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,10.0,3,0,3,2,1,0,1,1,0,0,1,1,1.0,0,0,0.0,2,1,0.5,139,110,0
+78195,1988,28800788,1989-03-17 20:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,1,1,17.0,2,0,9,3,6,0,1,1,4,0,4,1,0.25,0,0,0.0,0,0,0.0,127,118,0
+78195,1988,28800800,1989-03-19 20:00:00,Golden State,Warriors,Charlotte,Hornets,Regular Season,1,1,14.0,4,2,10,5,5,0,0,0,3,0,6,2,0.333,0,0,0.0,0,0,0.0,124,117,0
+78195,1988,28800812,1989-03-21 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,25.0,4,4,15,10,5,0,0,4,5,0,3,2,0.667,0,0,0.0,0,0,0.0,151,127,0
+78195,1988,28800822,1989-03-23 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,0,17.0,2,2,4,2,2,2,0,2,2,0,1,1,1.0,0,0,0.0,0,0,0.0,124,154,0
+78195,1988,28800840,1989-03-25 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,0,22.0,2,1,10,5,5,0,0,0,3,0,4,1,0.25,0,0,0.0,0,0,0.0,144,104,0
+78195,1988,28800849,1989-03-27 20:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,0,0,18.0,6,1,7,5,2,3,1,1,4,0,6,3,0.5,0,0,0.0,1,0,0.0,121,109,0
+78195,1988,28800856,1989-03-28 20:00:00,Golden State,Warriors,Chicago,Bulls,Regular Season,0,0,25.0,2,2,13,10,3,1,0,3,2,0,3,1,0.333,0,0,0.0,2,0,0.0,115,106,0
+78195,1988,28800866,1989-03-30 20:00:00,Golden State,Warriors,Charlotte,Hornets,Regular Season,0,1,16.0,0,0,3,3,0,3,1,2,2,0,2,0,0.0,0,0,0.0,0,0,0.0,104,113,0
+78195,1988,28800874,1989-03-31 20:00:00,Golden State,Warriors,New York,Knicks,Regular Season,0,1,24.0,9,2,5,1,4,1,1,0,1,0,4,4,1.0,0,0,0.0,2,1,0.5,114,134,0
+78195,1988,28800886,1989-04-02 20:00:00,Golden State,Warriors,Washington,Bullets,Regular Season,0,0,16.0,0,1,4,4,0,0,0,1,4,0,1,0,0.0,0,0,0.0,0,0,0.0,120,103,0
+78195,1988,28800903,1989-04-04 20:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,1,0,12.0,7,1,6,1,5,0,0,1,0,0,5,3,0.599,0,0,0.0,3,1,0.333,118,124,0
+78195,1988,28800906,1989-04-06 20:00:00,Golden State,Warriors,Boston,Celtics,Regular Season,1,1,21.0,8,0,10,3,7,0,0,1,4,0,4,4,1.0,0,0,0.0,0,0,0.0,132,118,0
+78195,1988,28800928,1989-04-08 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,1,14.0,0,0,7,6,1,0,0,1,2,0,2,0,0.0,0,0,0.0,2,0,0.0,122,116,0
+78195,1988,28800943,1989-04-11 20:00:00,Golden State,Warriors,Miami,Heat,Regular Season,1,1,24.0,0,5,9,7,2,0,2,0,3,0,1,0,0.0,0,0,0.0,0,0,0.0,114,98,0
+78195,1988,28800952,1989-04-13 20:00:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,0,0,22.0,2,1,7,4,3,1,1,1,2,0,1,1,1.0,0,0,0.0,0,0,0.0,128,126,0
+78195,1988,28800971,1989-04-15 20:00:00,Golden State,Warriors,Sacramento,Kings,Regular Season,1,0,26.0,2,0,7,6,1,0,1,0,3,0,1,1,1.0,0,0,0.0,0,0,0.0,110,114,0
+78195,1988,28800979,1989-04-17 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,0,16.0,2,2,4,3,1,2,0,1,0,0,2,1,0.5,0,0,0.0,0,0,0.0,109,116,0
+78195,1988,28800987,1989-04-18 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,0,20.0,3,2,14,5,9,3,0,0,4,0,6,1,0.167,0,0,0.0,2,1,0.5,122,118,0
+78195,1988,28801006,1989-04-21 20:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,1,0,34.0,4,3,9,5,4,2,4,1,2,0,2,2,1.0,0,0,0.0,0,0,0.0,121,139,0
+78195,1988,28801016,1989-04-22 20:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,0,0,24.0,4,0,7,3,4,1,1,1,3,0,2,2,1.0,0,0,0.0,0,0,0.0,111,95,0
+78195,1988,48800004,1989-04-27 20:00:00,Golden State,Warriors,Utah,Jazz,Playoffs,0,1,25.0,4,6,11,7,4,4,1,1,5,0,5,2,0.4,0,0,0.0,0,0,0.0,119,123,0
+78195,1988,48800009,1989-04-29 20:00:00,Golden State,Warriors,Utah,Jazz,Playoffs,0,1,19.0,0,1,2,2,0,1,1,1,5,0,1,0,0.0,0,0,0.0,0,0,0.0,91,99,0
+78195,1988,48800020,1989-05-02 20:00:00,Golden State,Warriors,Utah,Jazz,Playoffs,1,1,18.0,0,3,2,1,1,3,0,0,3,0,1,0,0.0,0,0,0.0,0,0,0.0,120,106,0
+78195,1988,48800028,1989-05-06 20:00:00,Golden State,Warriors,Phoenix,Suns,Playoffs,0,0,19.0,2,1,8,4,4,1,2,0,4,0,2,1,0.5,0,0,0.0,0,0,0.0,130,103,0
+78195,1988,48800033,1989-05-09 20:00:00,Golden State,Warriors,Phoenix,Suns,Playoffs,0,1,26.0,0,2,4,2,2,0,1,2,5,0,1,0,0.0,0,0,0.0,0,0,0.0,122,127,0
+78195,1988,48800036,1989-05-11 20:00:00,Golden State,Warriors,Phoenix,Suns,Playoffs,1,0,14.0,0,0,1,1,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,104,113,0
+78195,1988,48800040,1989-05-13 20:00:00,Golden State,Warriors,Phoenix,Suns,Playoffs,1,0,7.0,0,1,3,2,1,0,1,0,1,0,2,0,0.0,0,0,0.0,0,0,0.0,99,135,0
+78195,1988,48800047,1989-05-16 20:00:00,Golden State,Warriors,Phoenix,Suns,Playoffs,0,0,20.0,2,2,9,4,5,2,0,2,0,0,4,1,0.25,0,0,0.0,0,0,0.0,116,104,0
+78195,1989,28900001,1989-11-03 20:00:00,Houston,Rockets,Los Angeles,Clippers,Regular Season,0,0,23.0,2,0,4,4,0,0,1,1,4,0,3,1,0.333,0,0,0.0,0,0,0.0,102,88,0
+78195,1989,28900014,1989-11-04 20:00:00,Houston,Rockets,Golden State,Warriors,Regular Season,0,1,27.0,2,0,10,7,3,0,0,2,3,0,1,1,1.0,0,0,0.0,0,0,0.0,105,132,0
+78195,1989,28900027,1989-11-07 20:00:00,Houston,Rockets,Portland,Trail Blazers,Regular Season,1,1,22.0,4,1,9,4,5,0,0,3,5,0,5,2,0.4,0,0,0.0,1,0,0.0,109,86,0
+78195,1989,28900044,1989-11-09 20:00:00,Houston,Rockets,Denver,Nuggets,Regular Season,1,0,20.0,2,2,6,5,1,0,0,0,4,0,2,0,0.0,0,0,0.0,2,2,1.0,127,128,0
+78195,1989,28900058,1989-11-11 20:00:00,Houston,Rockets,Utah,Jazz,Regular Season,1,1,20.0,0,0,4,1,3,0,0,0,6,0,1,0,0.0,0,0,0.0,0,0,0.0,100,92,0
+78195,1989,28900078,1989-11-14 20:00:00,Houston,Rockets,Miami,Heat,Regular Season,0,0,24.0,6,3,9,7,2,2,4,5,5,0,3,2,0.667,0,0,0.0,2,2,1.0,101,99,0
+78195,1989,28900093,1989-11-16 20:00:00,Houston,Rockets,Los Angeles,Clippers,Regular Season,1,1,18.0,2,2,8,1,7,0,0,1,3,0,4,1,0.25,0,0,0.0,0,0,0.0,94,82,0
+78195,1989,28900112,1989-11-18 20:00:00,Houston,Rockets,Denver,Nuggets,Regular Season,0,0,12.0,2,1,4,3,1,1,1,0,2,0,2,0,0.0,0,0,0.0,2,2,1.0,141,111,0
+78195,1989,28900114,1989-11-19 20:00:00,Houston,Rockets,Miami,Heat,Regular Season,1,1,29.0,6,2,14,10,4,1,2,2,4,0,4,3,0.75,0,0,0.0,0,0,0.0,132,94,0
+78195,1989,28900120,1989-11-21 20:00:00,Houston,Rockets,New York,Knicks,Regular Season,0,0,21.0,2,2,7,2,5,1,0,1,5,0,4,1,0.25,0,0,0.0,0,0,0.0,114,106,0
+78195,1989,28900128,1989-11-22 20:00:00,Houston,Rockets,Boston,Celtics,Regular Season,0,0,18.0,5,1,7,4,3,0,0,1,4,0,6,2,0.333,0,0,0.0,1,1,1.0,109,97,0
+78195,1989,28900142,1989-11-24 20:00:00,Houston,Rockets,Charlotte,Hornets,Regular Season,0,1,13.0,0,0,6,5,1,0,0,1,3,0,2,0,0.0,0,0,0.0,0,0,0.0,81,85,0
+78195,1989,28900154,1989-11-25 20:00:00,Houston,Rockets,Cleveland,Cavaliers,Regular Season,0,1,27.0,4,1,16,12,4,0,0,0,3,0,5,2,0.4,0,0,0.0,0,0,0.0,75,85,0
+78195,1989,28900164,1989-11-28 20:00:00,Houston,Rockets,Los Angeles,Lakers,Regular Season,1,1,14.0,6,1,6,4,2,1,1,0,1,0,3,3,1.0,0,0,0.0,2,0,0.0,110,104,0
+78195,1989,28900182,1989-11-30 20:00:00,Houston,Rockets,Charlotte,Hornets,Regular Season,1,1,21.0,5,1,6,3,3,0,2,0,4,0,3,2,0.667,0,0,0.0,4,1,0.25,113,101,0
+78195,1989,28900195,1989-12-02 20:00:00,Houston,Rockets,Dallas,Mavericks,Regular Season,1,0,19.0,0,2,3,3,0,0,3,0,3,0,0,0,0.0,0,0,0.0,0,0,0.0,103,106,0
+78195,1989,28900206,1989-12-05 20:00:00,Houston,Rockets,Seattle,SuperSonics,Regular Season,0,0,14.0,4,0,1,1,0,0,0,0,1,0,2,2,1.0,0,0,0.0,0,0,0.0,133,123,0
+78195,1989,28900231,1989-12-08 20:00:00,Houston,Rockets,New Jersey,Nets,Regular Season,1,0,8.0,2,0,1,0,1,0,0,0,1,0,2,1,0.5,0,0,0.0,0,0,0.0,94,99,0
+78195,1989,28900236,1989-12-09 20:00:00,Houston,Rockets,Utah,Jazz,Regular Season,0,0,32.0,4,2,8,5,3,0,1,0,5,0,2,1,0.5,0,0,0.0,3,2,0.667,104,90,0
+78195,1989,28900251,1989-12-12 20:00:00,Houston,Rockets,Phoenix,Suns,Regular Season,1,1,6.0,0,0,2,1,1,0,0,0,2,0,1,0,0.0,0,0,0.0,0,0,0.0,105,83,0
+78195,1989,28900337,1989-12-26 20:00:00,Houston,Rockets,Milwaukee,Bucks,Regular Season,0,0,14.0,0,0,1,1,0,0,0,0,2,0,0,0,0.0,0,0,0.0,2,0,0.0,103,96,0
+78195,1989,28900348,1989-12-27 20:00:00,Houston,Rockets,Minnesota,Timberwolves,Regular Season,0,0,5.0,0,0,2,2,0,0,0,1,1,0,0,0,0.0,0,0,0.0,0,0,0.0,108,91,0
+78195,1989,28900361,1989-12-29 20:00:00,Houston,Rockets,Indiana,Pacers,Regular Season,0,0,4.0,2,0,0,0,0,0,0,0,1,0,1,1,1.0,0,0,0.0,0,0,0.0,103,97,0
+78195,1989,28900387,1990-01-03 20:00:00,Houston,Rockets,Indiana,Pacers,Regular Season,1,1,12.0,0,0,2,0,2,0,1,1,1,0,2,0,0.0,0,0,0.0,0,0,0.0,111,103,0
+78195,1989,28900411,1990-01-06 20:00:00,Houston,Rockets,Philadelphia,76ers,Regular Season,1,1,16.0,2,0,7,6,1,2,0,2,6,0,1,1,1.0,0,0,0.0,0,0,0.0,124,119,0
+78195,1989,28900424,1990-01-09 20:00:00,Houston,Rockets,Seattle,SuperSonics,Regular Season,1,1,12.0,0,0,1,0,1,0,1,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,97,90,0
+78195,1989,28900442,1990-01-11 20:00:00,Houston,Rockets,Sacramento,Kings,Regular Season,0,1,13.0,0,1,7,3,4,0,1,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,87,90,0
+78195,1989,28900450,1990-01-12 20:00:00,Houston,Rockets,Los Angeles,Lakers,Regular Season,0,0,20.0,6,1,8,4,4,1,1,2,2,0,3,3,1.0,0,0,0.0,1,0,0.0,107,98,0
+78195,1989,28900466,1990-01-15 20:00:00,Houston,Rockets,Seattle,SuperSonics,Regular Season,0,0,13.0,0,0,1,1,0,0,0,2,0,0,0,0,0.0,0,0,0.0,0,0,0.0,105,101,0
+78195,1989,28900480,1990-01-17 20:00:00,Houston,Rockets,Cleveland,Cavaliers,Regular Season,1,1,9.0,0,1,3,2,1,0,0,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,107,98,0
+78195,1989,28900506,1990-01-20 20:00:00,Houston,Rockets,Washington,Bullets,Regular Season,1,1,20.0,8,0,4,3,1,0,0,1,3,0,4,4,1.0,0,0,0.0,0,0,0.0,127,107,0
+78195,1989,28900516,1990-01-22 20:00:00,Houston,Rockets,Denver,Nuggets,Regular Season,1,1,22.0,6,4,8,4,4,1,3,1,3,0,5,3,0.599,0,0,0.0,0,0,0.0,116,104,0
+78195,1989,28900534,1990-01-25 20:00:00,Houston,Rockets,Los Angeles,Clippers,Regular Season,1,1,15.0,2,0,7,5,2,1,1,2,2,0,1,1,1.0,0,0,0.0,0,0,0.0,102,101,0
+78195,1989,28900551,1990-01-27 20:00:00,Houston,Rockets,Dallas,Mavericks,Regular Season,1,0,19.0,0,1,2,1,1,0,0,0,5,0,1,0,0.0,0,0,0.0,0,0,0.0,92,99,0
+78195,1989,28900574,1990-01-31 20:00:00,Houston,Rockets,Dallas,Mavericks,Regular Season,0,0,6.0,0,0,1,0,1,0,0,2,0,0,1,0,0.0,0,0,0.0,0,0,0.0,98,91,0
+78195,1989,28900579,1990-02-01 20:00:00,Houston,Rockets,Chicago,Bulls,Regular Season,1,1,19.0,2,0,5,4,1,0,0,4,1,0,4,1,0.25,0,0,0.0,0,0,0.0,139,112,0
+78195,1989,28900596,1990-02-03 20:00:00,Houston,Rockets,Phoenix,Suns,Regular Season,0,0,12.0,2,2,2,2,0,1,0,1,2,0,1,1,1.0,0,0,0.0,1,0,0.0,130,105,0
+78195,1989,28900612,1990-02-06 20:00:00,Houston,Rockets,Minnesota,Timberwolves,Regular Season,1,1,12.0,4,0,7,4,3,1,1,0,1,0,5,2,0.4,0,0,0.0,0,0,0.0,108,101,0
+78195,1989,28900631,1990-02-08 20:00:00,Houston,Rockets,Atlanta,Hawks,Regular Season,1,0,13.0,2,0,3,2,1,0,2,0,3,0,1,1,1.0,0,0,0.0,0,0,0.0,108,110,0
+78195,1989,28900639,1990-02-13 20:00:00,Houston,Rockets,Boston,Celtics,Regular Season,1,0,12.0,0,0,5,4,1,0,1,0,2,0,3,0,0.0,0,0,0.0,0,0,0.0,94,107,0
+78195,1989,28900653,1990-02-15 20:00:00,Houston,Rockets,New York,Knicks,Regular Season,1,1,14.0,4,0,14,8,6,0,0,3,4,0,6,2,0.333,0,0,0.0,0,0,0.0,124,105,0
+78195,1989,28900669,1990-02-17 20:00:00,Houston,Rockets,San Antonio,Spurs,Regular Season,1,0,18.0,2,1,6,3,3,0,1,0,3,0,2,1,0.5,0,0,0.0,2,0,0.0,102,104,0
+78195,1989,28900680,1990-02-19 20:00:00,Houston,Rockets,Chicago,Bulls,Regular Season,0,0,10.0,0,1,3,2,1,1,0,0,0,0,0,0,0.0,0,0,0.0,2,0,0.0,107,102,0
+78195,1989,28900687,1990-02-20 20:00:00,Houston,Rockets,Minnesota,Timberwolves,Regular Season,0,0,19.0,2,4,5,3,2,0,2,0,2,0,2,1,0.5,0,0,0.0,0,0,0.0,97,92,0
+78195,1989,28900711,1990-02-23 20:00:00,Houston,Rockets,New Jersey,Nets,Regular Season,0,1,30.0,4,1,9,6,3,3,2,2,4,0,4,1,0.25,0,0,0.0,2,2,1.0,115,125,0
+78195,1989,28900717,1990-02-24 20:00:00,Houston,Rockets,Atlanta,Hawks,Regular Season,0,0,16.0,2,0,7,5,2,0,1,2,3,0,1,1,1.0,0,0,0.0,0,0,0.0,104,96,0
+78195,1989,28900741,1990-02-27 20:00:00,Houston,Rockets,Detroit,Pistons,Regular Season,0,0,17.0,2,0,5,3,2,0,0,0,5,0,3,1,0.333,0,0,0.0,2,0,0.0,106,102,0
+78195,1989,28900748,1990-03-01 20:00:00,Houston,Rockets,Phoenix,Suns,Regular Season,1,1,11.0,2,0,3,1,2,1,0,1,1,0,3,1,0.333,0,0,0.0,0,0,0.0,112,104,0
+78195,1989,28900767,1990-03-03 20:00:00,Houston,Rockets,Golden State,Warriors,Regular Season,1,1,8.0,4,0,5,3,2,0,0,1,3,0,4,1,0.25,1,0,0.0,2,2,1.0,129,109,0
+78195,1989,28900779,1990-03-05 20:00:00,Houston,Rockets,San Antonio,Spurs,Regular Season,0,1,20.0,4,1,6,4,2,1,5,0,2,0,3,2,0.667,0,0,0.0,0,0,0.0,105,109,0
+78195,1989,28900788,1990-03-06 20:00:00,Houston,Rockets,Los Angeles,Lakers,Regular Season,1,1,17.0,2,1,7,4,3,0,0,0,3,0,3,1,0.333,0,0,0.0,0,0,0.0,112,95,0
+78195,1989,28900797,1990-03-08 20:00:00,Houston,Rockets,Seattle,SuperSonics,Regular Season,1,1,29.0,7,4,16,7,9,0,2,3,4,0,6,3,0.5,0,0,0.0,2,1,0.5,111,97,0
+78195,1989,28900810,1990-03-10 20:00:00,Houston,Rockets,Dallas,Mavericks,Regular Season,1,1,17.0,0,0,7,5,2,0,1,2,4,0,1,0,0.0,0,0,0.0,0,0,0.0,105,95,0
+78195,1989,28900829,1990-03-13 20:00:00,Houston,Rockets,Denver,Nuggets,Regular Season,0,0,26.0,4,3,7,5,2,1,1,1,6,0,4,2,0.5,0,0,0.0,0,0,0.0,117,114,0
+78195,1989,28900843,1990-03-15 20:00:00,Houston,Rockets,Sacramento,Kings,Regular Season,0,1,14.0,4,0,8,3,5,0,1,0,0,0,7,2,0.285,0,0,0.0,1,0,0.0,86,92,0
+78195,1989,28900850,1990-03-16 20:00:00,Houston,Rockets,Los Angeles,Clippers,Regular Season,0,0,25.0,10,1,9,4,5,1,1,1,5,0,7,5,0.713,0,0,0.0,2,0,0.0,118,95,0
+78195,1989,28900863,1990-03-18 20:00:00,Houston,Rockets,Portland,Trail Blazers,Regular Season,0,0,16.0,2,0,4,2,2,0,0,1,2,0,4,1,0.25,0,0,0.0,3,0,0.0,109,96,0
+78195,1989,28900879,1990-03-20 20:00:00,Houston,Rockets,Portland,Trail Blazers,Regular Season,1,0,22.0,2,0,6,3,3,0,2,2,4,0,4,1,0.25,0,0,0.0,0,0,0.0,110,120,0
+78195,1989,28900890,1990-03-22 20:00:00,Houston,Rockets,Detroit,Pistons,Regular Season,1,1,14.0,2,2,2,2,0,0,0,1,2,0,1,1,1.0,0,0,0.0,0,0,0.0,115,110,0
+78195,1989,28900912,1990-03-24 20:00:00,Houston,Rockets,Golden State,Warriors,Regular Season,1,0,10.0,2,0,3,1,2,0,2,1,2,0,2,1,0.5,0,0,0.0,0,0,0.0,97,102,0
+78195,1989,28900919,1990-03-26 20:00:00,Houston,Rockets,San Antonio,Spurs,Regular Season,1,1,23.0,6,2,8,3,5,3,2,0,2,0,4,3,0.75,0,0,0.0,0,0,0.0,113,95,0
+78195,1989,28900938,1990-03-29 20:00:00,Houston,Rockets,Milwaukee,Bucks,Regular Season,1,1,17.0,6,3,7,4,3,0,1,1,1,0,3,3,1.0,0,0,0.0,0,0,0.0,120,94,0
+78195,1989,28900957,1990-03-31 20:00:00,Houston,Rockets,Minnesota,Timberwolves,Regular Season,1,1,11.0,6,0,5,3,2,0,0,1,1,0,3,3,1.0,0,0,0.0,1,0,0.0,106,98,0
+78195,1989,28900969,1990-04-03 20:00:00,Houston,Rockets,Philadelphia,76ers,Regular Season,0,0,23.0,4,1,10,6,4,0,0,1,2,0,3,1,0.333,0,0,0.0,2,2,1.0,133,112,0
+78195,1989,28900989,1990-04-06 20:00:00,Houston,Rockets,Washington,Bullets,Regular Season,0,0,23.0,2,0,7,6,1,1,0,2,4,0,2,1,0.5,0,0,0.0,0,0,0.0,121,110,0
+78195,1989,28901007,1990-04-08 20:00:00,Houston,Rockets,Orlando,Magic,Regular Season,0,1,14.0,4,0,8,5,3,1,0,1,2,0,3,2,0.667,0,0,0.0,0,0,0.0,123,146,0
+78195,1989,28901018,1990-04-10 20:00:00,Houston,Rockets,Charlotte,Hornets,Regular Season,0,1,17.0,11,1,10,4,6,0,0,0,1,0,7,5,0.713,0,0,0.0,3,1,0.333,112,115,0
+78195,1989,28901037,1990-04-12 20:00:00,Houston,Rockets,Charlotte,Hornets,Regular Season,1,1,19.0,4,0,7,5,2,1,2,1,4,0,6,2,0.333,0,0,0.0,0,0,0.0,117,110,0
+78195,1989,28901047,1990-04-14 20:00:00,Houston,Rockets,Utah,Jazz,Regular Season,0,1,22.0,4,2,4,2,2,0,0,2,4,0,4,2,0.5,0,0,0.0,1,0,0.0,99,103,0
+78195,1989,28901054,1990-04-15 20:00:00,Houston,Rockets,Los Angeles,Lakers,Regular Season,0,0,17.0,2,0,5,4,1,1,0,0,3,0,3,1,0.333,0,0,0.0,0,0,0.0,113,102,0
+78195,1989,28901066,1990-04-17 20:00:00,Houston,Rockets,Sacramento,Kings,Regular Season,1,1,23.0,2,2,9,5,4,0,0,1,4,0,3,0,0.0,0,0,0.0,2,2,1.0,112,97,0
+78195,1989,28901080,1990-04-19 20:00:00,Houston,Rockets,Denver,Nuggets,Regular Season,1,0,24.0,4,2,6,4,2,0,1,1,5,0,5,2,0.4,0,0,0.0,0,0,0.0,127,130,0
+78195,1989,28901085,1990-04-20 20:00:00,Houston,Rockets,Dallas,Mavericks,Regular Season,0,0,24.0,8,4,9,3,6,0,1,0,2,0,5,4,0.8,0,0,0.0,3,0,0.0,121,120,0
+78195,1989,28901107,1990-04-22 20:00:00,Houston,Rockets,Utah,Jazz,Regular Season,1,1,34.0,4,2,18,14,4,0,1,1,4,0,6,2,0.333,1,0,0.0,4,0,0.0,100,88,0
+78195,1989,48900008,1990-04-27 20:00:00,Houston,Rockets,Los Angeles,Lakers,Playoffs,0,0,21.0,6,3,3,2,1,0,3,1,3,0,3,3,1.0,0,0,0.0,0,0,0.0,101,89,0
+78195,1989,48900015,1990-04-29 20:00:00,Houston,Rockets,Los Angeles,Lakers,Playoffs,0,0,11.0,4,0,3,1,2,0,0,0,1,0,2,2,1.0,0,0,0.0,0,0,0.0,104,100,0
+78195,1989,48900018,1990-05-01 20:00:00,Houston,Rockets,Los Angeles,Lakers,Playoffs,1,1,20.0,0,1,1,0,1,0,0,3,5,0,0,0,0.0,0,0,0.0,0,0,0.0,114,108,0
+78195,1989,48900026,1990-05-03 20:00:00,Houston,Rockets,Los Angeles,Lakers,Playoffs,1,0,21.0,2,1,6,3,3,0,1,1,2,0,3,1,0.333,0,0,0.0,0,0,0.0,88,109,0
+78195,1990,29000001,1990-11-02 20:00:00,Houston,Rockets,Portland,Trail Blazers,Regular Season,0,0,28.0,7,1,7,1,6,1,0,1,3,0,7,3,0.428,0,0,0.0,2,1,0.5,90,89,0
+78195,1990,29000022,1990-11-03 20:00:00,Houston,Rockets,Seattle,SuperSonics,Regular Season,0,0,14.0,2,2,2,0,2,0,1,1,3,0,1,1,1.0,0,0,0.0,0,0,0.0,118,106,0
+78195,1990,29000030,1990-11-06 20:00:00,Houston,Rockets,Denver,Nuggets,Regular Season,1,1,8.0,0,1,5,4,1,0,0,1,1,0,1,0,0.0,0,0,0.0,0,0,0.0,145,135,0
+78195,1990,29000044,1990-11-08 20:00:00,Houston,Rockets,Orlando,Magic,Regular Season,1,1,11.0,2,0,1,0,1,0,0,2,1,0,1,1,1.0,0,0,0.0,0,0,0.0,103,99,0
+78195,1990,29000057,1990-11-10 20:00:00,Houston,Rockets,San Antonio,Spurs,Regular Season,0,0,29.0,4,0,10,5,5,0,4,0,4,0,5,2,0.4,0,0,0.0,0,0,0.0,111,110,0
+78195,1990,29000067,1990-11-11 20:00:00,Houston,Rockets,Utah,Jazz,Regular Season,1,1,26.0,4,0,10,4,6,0,1,2,5,0,5,2,0.4,0,0,0.0,2,0,0.0,110,90,0
+78195,1990,29000071,1990-11-13 20:00:00,Houston,Rockets,Minnesota,Timberwolves,Regular Season,1,1,15.0,8,0,7,2,5,0,0,3,2,0,5,4,0.8,0,0,0.0,0,0,0.0,90,88,0
+78195,1990,29000093,1990-11-15 20:00:00,Houston,Rockets,Los Angeles,Lakers,Regular Season,1,0,12.0,0,0,1,1,0,0,0,0,4,0,0,0,0.0,0,0,0.0,0,0,0.0,103,108,0
+78195,1990,29000107,1990-11-17 20:00:00,Houston,Rockets,Miami,Heat,Regular Season,1,1,8.0,2,1,0,0,0,0,0,2,1,0,2,1,0.5,0,0,0.0,0,0,0.0,117,100,0
+78195,1990,29000127,1990-11-20 20:00:00,Houston,Rockets,New York,Knicks,Regular Season,0,1,17.0,2,1,10,6,4,0,0,1,3,0,2,1,0.5,0,0,0.0,0,0,0.0,88,115,0
+78195,1990,29000130,1990-11-21 20:00:00,Houston,Rockets,Boston,Celtics,Regular Season,0,0,17.0,2,0,4,2,2,0,0,0,2,0,1,1,1.0,0,0,0.0,0,0,0.0,108,95,0
+78195,1990,29000142,1990-11-23 20:00:00,Houston,Rockets,Indiana,Pacers,Regular Season,0,0,7.0,0,0,1,1,0,0,0,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,112,111,0
+78195,1990,29000158,1990-11-25 20:00:00,Houston,Rockets,Minnesota,Timberwolves,Regular Season,0,1,7.0,0,0,3,2,1,1,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,91,107,0
+78195,1990,29000165,1990-11-27 20:00:00,Houston,Rockets,Los Angeles,Clippers,Regular Season,1,1,15.0,0,0,3,2,1,0,2,0,1,0,2,0,0.0,0,0,0.0,0,0,0.0,107,102,0
+78195,1990,29000181,1990-11-28 20:00:00,Houston,Rockets,Utah,Jazz,Regular Season,0,0,12.0,2,1,5,2,3,0,0,1,3,0,3,1,0.333,0,0,0.0,0,0,0.0,103,92,0
+78195,1990,29000200,1990-12-01 20:00:00,Houston,Rockets,Sacramento,Kings,Regular Season,1,1,24.0,2,3,6,4,2,0,1,0,3,0,2,1,0.5,0,0,0.0,0,0,0.0,117,93,0
+78195,1990,29000215,1990-12-04 20:00:00,Houston,Rockets,Atlanta,Hawks,Regular Season,1,0,8.0,0,0,2,2,0,0,0,1,2,0,1,0,0.0,0,0,0.0,0,0,0.0,110,113,0
+78195,1990,29000229,1990-12-06 20:00:00,Houston,Rockets,Charlotte,Hornets,Regular Season,1,1,13.0,4,1,5,2,3,0,0,0,2,0,3,2,0.667,0,0,0.0,0,0,0.0,116,110,0
+78195,1990,29000244,1990-12-08 20:00:00,Houston,Rockets,Dallas,Mavericks,Regular Season,0,1,4.0,0,0,2,1,1,0,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,107,113,0
+78195,1990,29000250,1990-12-10 20:00:00,Houston,Rockets,Boston,Celtics,Regular Season,1,0,11.0,2,0,3,2,1,0,1,0,3,0,2,1,0.5,0,0,0.0,0,0,0.0,95,107,0
+78195,1990,29000265,1990-12-12 20:00:00,Houston,Rockets,Philadelphia,76ers,Regular Season,0,1,24.0,6,1,10,6,4,0,2,1,4,0,4,3,0.75,0,0,0.0,2,0,0.0,100,108,0
+78195,1990,29000276,1990-12-14 20:00:00,Houston,Rockets,Washington,Bullets,Regular Season,0,0,14.0,0,1,4,2,2,0,4,1,4,0,1,0,0.0,0,0,0.0,0,0,0.0,106,93,0
+78195,1990,29000280,1990-12-15 20:00:00,Houston,Rockets,Charlotte,Hornets,Regular Season,0,1,10.0,0,1,3,3,0,0,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,97,100,0
+78195,1990,29000303,1990-12-18 20:00:00,Houston,Rockets,San Antonio,Spurs,Regular Season,1,0,16.0,0,0,3,1,2,0,1,0,3,0,0,0,0.0,0,0,0.0,0,0,0.0,95,96,0
+78195,1990,29000314,1990-12-20 20:00:00,Houston,Rockets,Orlando,Magic,Regular Season,1,1,23.0,2,1,8,3,5,2,2,0,3,0,4,1,0.25,0,0,0.0,0,0,0.0,128,126,0
+78195,1990,29000329,1990-12-22 20:00:00,Houston,Rockets,Phoenix,Suns,Regular Season,1,1,21.0,6,3,9,7,2,0,0,0,3,0,6,3,0.5,0,0,0.0,0,0,0.0,122,102,0
+78195,1990,29000351,1990-12-26 20:00:00,Houston,Rockets,Orlando,Magic,Regular Season,0,0,22.0,6,1,8,4,4,0,4,1,4,0,5,3,0.599,0,0,0.0,0,0,0.0,109,103,0
+78195,1990,29000363,1990-12-28 20:00:00,Houston,Rockets,New Jersey,Nets,Regular Season,0,1,12.0,2,0,5,5,0,0,1,1,4,0,1,1,1.0,0,0,0.0,0,0,0.0,99,101,0
+78195,1990,29000367,1990-12-29 20:00:00,Houston,Rockets,Detroit,Pistons,Regular Season,0,0,22.0,0,0,5,3,2,0,0,0,2,0,1,0,0.0,0,0,0.0,0,0,0.0,99,84,0
+78195,1990,29000394,1991-01-03 20:00:00,Houston,Rockets,Chicago,Bulls,Regular Season,1,1,23.0,0,0,5,3,2,0,1,2,0,0,2,0,0.0,0,0,0.0,2,0,0.0,114,92,0
+78195,1990,29000408,1991-01-05 20:00:00,Houston,Rockets,Indiana,Pacers,Regular Season,1,1,21.0,4,3,10,5,5,0,1,2,3,0,5,2,0.4,0,0,0.0,2,0,0.0,112,99,0
+78195,1990,29000431,1991-01-08 20:00:00,Houston,Rockets,Portland,Trail Blazers,Regular Season,1,0,30.0,4,0,11,8,3,1,0,2,5,0,2,2,1.0,0,0,0.0,0,0,0.0,97,123,0
+78195,1990,29000441,1991-01-10 20:00:00,Houston,Rockets,Denver,Nuggets,Regular Season,0,1,31.0,11,4,10,4,6,2,3,3,1,0,7,5,0.713,0,0,0.0,2,1,0.5,133,156,0
+78195,1990,29000446,1991-01-11 20:00:00,Houston,Rockets,Phoenix,Suns,Regular Season,0,0,40.0,9,3,14,6,8,3,2,2,5,0,7,4,0.57,0,0,0.0,2,1,0.5,114,110,0
+78195,1990,29000465,1991-01-13 20:00:00,Houston,Rockets,Los Angeles,Lakers,Regular Season,0,0,34.0,4,1,11,3,8,1,0,1,4,0,8,2,0.25,0,0,0.0,0,0,0.0,116,97,0
+78195,1990,29000469,1991-01-14 20:00:00,Houston,Rockets,Los Angeles,Clippers,Regular Season,0,0,36.0,4,1,10,8,2,0,2,1,4,0,4,2,0.5,0,0,0.0,0,0,0.0,130,126,0
+78195,1990,29000487,1991-01-17 20:00:00,Houston,Rockets,Detroit,Pistons,Regular Season,1,0,48.0,9,0,23,16,7,0,3,0,6,0,5,4,0.8,0,0,0.0,2,1,0.5,91,97,0
+78195,1990,29000507,1991-01-19 20:00:00,Houston,Rockets,Los Angeles,Clippers,Regular Season,1,1,43.0,8,1,20,12,8,0,2,1,3,0,9,4,0.444,0,0,0.0,0,0,0.0,107,96,0
+78195,1990,29000515,1991-01-21 20:00:00,Houston,Rockets,Sacramento,Kings,Regular Season,0,0,40.0,2,4,12,3,9,0,3,1,5,0,2,1,0.5,0,0,0.0,0,0,0.0,97,94,0
+78195,1990,29000517,1991-01-22 20:00:00,Houston,Rockets,Golden State,Warriors,Regular Season,0,0,37.0,0,1,12,7,5,0,3,1,5,0,4,0,0.0,0,0,0.0,0,0,0.0,123,116,0
+78195,1990,29000531,1991-01-24 20:00:00,Houston,Rockets,Minnesota,Timberwolves,Regular Season,1,1,40.0,10,5,23,13,10,0,2,4,2,0,10,5,0.5,0,0,0.0,0,0,0.0,118,94,0
+78195,1990,29000550,1991-01-26 20:00:00,Houston,Rockets,Cleveland,Cavaliers,Regular Season,1,1,39.0,2,2,17,12,5,0,5,3,5,0,3,1,0.333,0,0,0.0,0,0,0.0,103,97,0
+78195,1990,29000565,1991-01-29 20:00:00,Houston,Rockets,San Antonio,Spurs,Regular Season,1,1,24.0,2,0,7,5,2,0,1,1,6,0,1,1,1.0,0,0,0.0,0,0,0.0,91,89,0
+78195,1990,29000575,1991-01-31 20:00:00,Houston,Rockets,Seattle,SuperSonics,Regular Season,1,0,33.0,8,1,12,4,8,1,1,1,6,0,4,4,1.0,0,0,0.0,2,0,0.0,94,97,0
+78195,1990,29000591,1991-02-02 20:00:00,Houston,Rockets,San Antonio,Spurs,Regular Season,0,1,32.0,5,1,10,7,3,1,1,3,5,0,2,2,1.0,0,0,0.0,2,1,0.5,94,100,0
+78195,1990,29000599,1991-02-03 20:00:00,Houston,Rockets,Golden State,Warriors,Regular Season,1,1,43.0,3,1,25,18,7,0,1,1,5,0,5,1,0.2,0,0,0.0,4,1,0.25,143,135,0
+78195,1990,29000617,1991-02-06 20:00:00,Houston,Rockets,Milwaukee,Bucks,Regular Season,0,1,34.0,2,2,10,6,4,0,0,1,6,0,5,1,0.2,0,0,0.0,0,0,0.0,109,111,0
+78195,1990,29000626,1991-02-07 20:00:00,Houston,Rockets,Cleveland,Cavaliers,Regular Season,0,1,31.0,2,3,8,5,3,0,2,0,6,0,4,1,0.25,0,0,0.0,0,0,0.0,92,96,0
+78195,1990,29000632,1991-02-12 20:00:00,Houston,Rockets,Utah,Jazz,Regular Season,0,0,22.0,0,0,5,4,1,0,0,2,5,0,2,0,0.0,0,0,0.0,0,0,0.0,113,92,0
+78195,1990,29000646,1991-02-14 20:00:00,Houston,Rockets,Washington,Bullets,Regular Season,1,1,42.0,6,2,20,7,13,1,1,3,4,0,5,3,0.599,0,0,0.0,0,0,0.0,129,117,0
+78195,1990,29000661,1991-02-16 20:00:00,Houston,Rockets,Phoenix,Suns,Regular Season,1,1,37.0,12,2,25,10,15,0,2,2,3,0,11,6,0.545,0,0,0.0,0,0,0.0,100,91,0
+78195,1990,29000685,1991-02-19 20:00:00,Houston,Rockets,Los Angeles,Lakers,Regular Season,1,0,34.0,2,0,10,5,5,0,0,2,5,0,3,1,0.333,0,0,0.0,0,0,0.0,103,112,0
+78195,1990,29000695,1991-02-21 20:00:00,Houston,Rockets,Milwaukee,Bucks,Regular Season,1,1,38.0,6,3,21,13,8,2,4,2,4,0,5,3,0.599,0,0,0.0,0,0,0.0,92,90,0
+78195,1990,29000722,1991-02-24 20:00:00,Houston,Rockets,Minnesota,Timberwolves,Regular Season,0,1,41.0,5,1,23,17,6,2,0,0,1,0,3,2,0.667,0,0,0.0,4,1,0.25,91,100,0
+78195,1990,29000734,1991-02-26 20:00:00,Houston,Rockets,Denver,Nuggets,Regular Season,0,1,29.0,12,2,11,6,5,1,3,4,2,0,11,6,0.545,0,0,0.0,2,0,0.0,99,129,0
+78195,1990,29000743,1991-02-28 20:00:00,Houston,Rockets,Los Angeles,Clippers,Regular Season,0,0,23.0,0,0,8,5,3,0,1,3,5,0,1,0,0.0,0,0,0.0,0,0,0.0,83,80,0
+78195,1990,29000770,1991-03-03 20:00:00,Houston,Rockets,Los Angeles,Lakers,Regular Season,0,1,41.0,10,0,22,14,8,1,1,1,4,0,7,5,0.713,0,0,0.0,0,0,0.0,95,104,0
+78195,1990,29000794,1991-03-07 20:00:00,Houston,Rockets,Dallas,Mavericks,Regular Season,1,1,26.0,2,1,8,7,1,0,0,3,2,0,1,1,1.0,0,0,0.0,0,0,0.0,122,90,0
+78195,1990,29000809,1991-03-09 20:00:00,Houston,Rockets,Philadelphia,76ers,Regular Season,1,1,32.0,4,2,15,8,7,0,3,0,1,0,7,2,0.285,0,0,0.0,0,0,0.0,97,80,0
+78195,1990,29000822,1991-03-12 20:00:00,Houston,Rockets,Seattle,SuperSonics,Regular Season,1,1,30.0,2,1,12,7,5,0,0,4,3,0,1,1,1.0,0,0,0.0,0,0,0.0,93,91,0
+78195,1990,29000839,1991-03-14 20:00:00,Houston,Rockets,Orlando,Magic,Regular Season,1,1,17.0,4,1,6,3,3,0,2,0,3,0,2,2,1.0,0,0,0.0,0,0,0.0,119,95,0
+78195,1990,29000851,1991-03-15 20:00:00,Houston,Rockets,Phoenix,Suns,Regular Season,0,1,27.0,2,1,7,3,4,0,2,0,6,0,1,1,1.0,0,0,0.0,0,0,0.0,128,135,0
+78195,1990,29000862,1991-03-17 20:00:00,Houston,Rockets,Golden State,Warriors,Regular Season,1,1,13.0,0,0,0,0,0,0,0,1,5,0,0,0,0.0,0,0,0.0,0,0,0.0,123,119,0
+78195,1990,29000877,1991-03-19 20:00:00,Houston,Rockets,Minnesota,Timberwolves,Regular Season,0,1,18.0,2,0,3,1,2,0,0,1,2,0,3,1,0.333,0,0,0.0,0,0,0.0,85,98,0
+78195,1990,29000889,1991-03-21 20:00:00,Houston,Rockets,Sacramento,Kings,Regular Season,1,1,17.0,2,0,8,6,2,0,1,4,3,0,2,1,0.5,0,0,0.0,0,0,0.0,98,87,0
+78195,1990,29000912,1991-03-23 20:00:00,Houston,Rockets,New York,Knicks,Regular Season,1,1,22.0,2,3,7,4,3,0,0,1,4,0,1,1,1.0,0,0,0.0,2,0,0.0,111,98,0
+78195,1990,29000917,1991-03-25 20:00:00,Houston,Rockets,Chicago,Bulls,Regular Season,0,1,18.0,2,1,7,5,2,0,0,1,3,0,2,1,0.5,0,0,0.0,0,0,0.0,90,100,0
+78195,1990,29000934,1991-03-28 20:00:00,Houston,Rockets,Atlanta,Hawks,Regular Season,0,1,15.0,6,1,5,4,1,1,2,2,4,0,3,3,1.0,0,0,0.0,0,0,0.0,111,112,0
+78195,1990,29000955,1991-03-30 20:00:00,Houston,Rockets,Orlando,Magic,Regular Season,0,0,27.0,7,0,13,7,6,0,1,0,5,0,6,2,0.333,0,0,0.0,7,3,0.428,114,82,0
+78195,1990,29000957,1991-03-31 20:00:00,Houston,Rockets,Miami,Heat,Regular Season,0,1,20.0,8,1,10,6,4,0,1,1,2,0,5,4,0.8,0,0,0.0,0,0,0.0,103,123,0
+78195,1990,29000977,1991-04-03 20:00:00,Houston,Rockets,Dallas,Mavericks,Regular Season,1,1,18.0,2,1,9,5,4,0,0,1,3,0,2,1,0.5,0,0,0.0,0,0,0.0,102,86,0
+78195,1990,29000993,1991-04-05 20:00:00,Houston,Rockets,Denver,Nuggets,Regular Season,0,1,16.0,2,0,2,2,0,0,1,0,1,0,2,1,0.5,0,0,0.0,0,0,0.0,120,126,0
+78195,1990,29001001,1991-04-06 20:00:00,Houston,Rockets,Utah,Jazz,Regular Season,1,1,25.0,2,0,11,7,4,0,0,1,5,0,2,1,0.5,0,0,0.0,0,0,0.0,97,88,0
+78195,1990,29001016,1991-04-09 20:00:00,Houston,Rockets,Portland,Trail Blazers,Regular Season,1,0,19.0,2,1,7,4,3,0,0,1,5,0,3,1,0.333,0,0,0.0,0,0,0.0,93,103,0
+78195,1990,29001029,1991-04-11 20:00:00,Houston,Rockets,Golden State,Warriors,Regular Season,0,0,17.0,0,1,2,1,1,0,0,0,2,0,0,0,0.0,0,0,0.0,6,0,0.0,111,99,0
+78195,1990,29001046,1991-04-13 20:00:00,Houston,Rockets,Sacramento,Kings,Regular Season,0,1,21.0,0,5,6,4,2,0,0,2,3,0,0,0,0.0,0,0,0.0,0,0,0.0,94,95,0
+78195,1990,29001058,1991-04-15 20:00:00,Houston,Rockets,Seattle,SuperSonics,Regular Season,0,1,17.0,4,0,3,1,2,0,0,1,3,0,3,2,0.667,0,0,0.0,0,0,0.0,93,97,0
+78195,1990,29001068,1991-04-16 20:00:00,Houston,Rockets,Portland,Trail Blazers,Regular Season,0,0,21.0,2,1,12,8,4,0,0,0,3,0,3,1,0.333,0,0,0.0,2,0,0.0,115,96,0
+78195,1990,29001079,1991-04-18 20:00:00,Houston,Rockets,San Antonio,Spurs,Regular Season,1,0,22.0,0,1,3,3,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,95,102,0
+78195,1990,29001088,1991-04-19 20:00:00,Houston,Rockets,Dallas,Mavericks,Regular Season,0,0,22.0,0,2,7,3,4,1,0,0,4,0,4,0,0.0,0,0,0.0,0,0,0.0,113,107,0
+78195,1990,29001107,1991-04-21 20:00:00,Houston,Rockets,Denver,Nuggets,Regular Season,1,1,27.0,4,2,9,5,4,0,1,0,4,0,5,1,0.2,0,0,0.0,3,2,0.667,131,125,0
+78195,1990,49000005,1991-04-25 20:00:00,Houston,Rockets,Los Angeles,Lakers,Playoffs,0,0,16.0,0,1,4,3,1,0,0,0,5,0,2,0,0.0,0,0,0.0,1,0,0.0,94,92,0
+78195,1990,49000012,1991-04-27 20:00:00,Houston,Rockets,Los Angeles,Lakers,Playoffs,0,0,16.0,0,2,4,2,2,0,0,1,3,0,0,0,0.0,0,0,0.0,0,0,0.0,109,98,0
+78195,1990,49000022,1991-04-30 20:00:00,Houston,Rockets,Los Angeles,Lakers,Playoffs,1,0,25.0,2,1,5,2,3,1,1,1,3,0,2,1,0.5,1,0,0.0,0,0,0.0,90,94,0
+78195,1991,29100012,1991-11-01 20:00:00,Houston,Rockets,Los Angeles,Lakers,Regular Season,1,1,28.0,6,0,9,4,5,0,0,0,6,0,3,3,1.0,0,0,0.0,0,0,0.0,126,121,0
+78195,1991,29100013,1991-11-02 20:00:00,Houston,Rockets,Denver,Nuggets,Regular Season,0,0,22.0,2,1,8,7,1,0,2,2,3,0,2,1,0.5,0,0,0.0,0,0,0.0,109,101,0
+78195,1991,29100029,1991-11-05 20:00:00,Houston,Rockets,Portland,Trail Blazers,Regular Season,1,1,12.0,0,0,2,0,2,1,0,1,2,0,0,0,0.0,0,0,0.0,0,0,0.0,106,99,0
+78195,1991,29100047,1991-11-07 20:00:00,Houston,Rockets,Cleveland,Cavaliers,Regular Season,1,1,15.0,4,0,6,5,1,0,0,2,3,0,2,2,1.0,0,0,0.0,0,0,0.0,105,86,0
+78195,1991,29100067,1991-11-09 20:00:00,Houston,Rockets,Phoenix,Suns,Regular Season,1,1,11.0,0,1,8,5,3,0,0,1,2,0,2,0,0.0,0,0,0.0,0,0,0.0,96,95,0
+78195,1991,29100078,1991-11-12 20:00:00,Houston,Rockets,Dallas,Mavericks,Regular Season,0,1,10.0,0,2,2,1,1,0,0,0,1,0,2,0,0.0,0,0,0.0,0,0,0.0,92,98,0
+78195,1991,29100100,1991-11-15 20:00:00,Houston,Rockets,Los Angeles,Lakers,Regular Season,0,0,6.0,2,0,3,1,2,0,0,0,2,0,2,1,0.5,0,0,0.0,0,0,0.0,86,74,0
+78195,1991,29100106,1991-11-16 20:00:00,Houston,Rockets,Sacramento,Kings,Regular Season,0,1,7.0,2,0,3,2,1,0,0,1,1,0,1,1,1.0,0,0,0.0,0,0,0.0,93,102,0
+78195,1991,29100139,1991-11-21 20:00:00,Houston,Rockets,Minnesota,Timberwolves,Regular Season,1,1,34.0,10,4,16,7,9,2,2,2,5,0,8,5,0.625,0,0,0.0,0,0,0.0,106,102,0
+78195,1991,29100152,1991-11-23 20:00:00,Houston,Rockets,Minnesota,Timberwolves,Regular Season,0,0,20.0,4,3,8,5,3,0,2,0,2,0,5,2,0.4,0,0,0.0,0,0,0.0,102,89,0
+78195,1991,29100626,1992-02-06 20:00:00,Houston,Rockets,New York,Knicks,Regular Season,0,0,12.0,0,0,4,3,1,0,0,0,3,0,1,0,0.0,0,0,0.0,0,0,0.0,102,85,0
+78195,1991,29100633,1992-02-11 20:00:00,Houston,Rockets,Seattle,SuperSonics,Regular Season,0,0,11.0,0,0,2,1,1,0,0,1,2,0,0,0,0.0,0,0,0.0,0,0,0.0,105,99,0
+78195,1991,29100646,1992-02-12 20:00:00,Houston,Rockets,Los Angeles,Clippers,Regular Season,0,0,17.0,5,0,4,2,2,0,1,0,2,0,2,2,1.0,0,0,0.0,2,1,0.5,97,95,0
+78195,1991,29100664,1992-02-14 20:00:00,Houston,Rockets,Boston,Celtics,Regular Season,1,1,15.0,4,0,6,4,2,0,2,1,3,0,2,2,1.0,0,0,0.0,0,0,0.0,105,99,0
+78195,1991,29100667,1992-02-15 20:00:00,Houston,Rockets,Dallas,Mavericks,Regular Season,0,0,10.0,0,0,6,3,3,0,1,2,1,0,2,0,0.0,0,0,0.0,2,0,0.0,103,99,0
+78195,1991,29100683,1992-02-17 20:00:00,Houston,Rockets,Minnesota,Timberwolves,Regular Season,1,0,4.0,0,0,1,0,1,0,0,1,0,0,1,0,0.0,0,0,0.0,0,0,0.0,122,124,0
+78195,1991,29100703,1992-02-20 20:00:00,Houston,Rockets,Philadelphia,76ers,Regular Season,1,1,15.0,2,0,8,3,5,0,0,1,1,0,2,1,0.5,0,0,0.0,0,0,0.0,110,101,0
+78195,1991,29100708,1992-02-21 20:00:00,Houston,Rockets,Utah,Jazz,Regular Season,0,0,22.0,4,0,5,3,2,0,0,1,3,0,2,2,1.0,0,0,0.0,0,0,0.0,124,97,0
+78195,1991,29100726,1992-02-23 20:00:00,Houston,Rockets,San Antonio,Spurs,Regular Season,1,1,13.0,2,0,4,3,1,0,0,1,2,0,1,1,1.0,0,0,0.0,0,0,0.0,90,83,0
+78195,1991,29100757,1992-02-28 20:00:00,Houston,Rockets,Denver,Nuggets,Regular Season,0,1,31.0,4,0,7,6,1,0,0,0,5,0,2,2,1.0,0,0,0.0,0,0,0.0,81,84,0
+78195,1991,29100774,1992-03-01 20:00:00,Houston,Rockets,Los Angeles,Lakers,Regular Season,0,1,22.0,2,0,4,2,2,0,0,2,5,0,2,1,0.5,0,0,0.0,0,0,0.0,97,105,0
+78195,1991,29100784,1992-03-03 20:00:00,Houston,Rockets,Phoenix,Suns,Regular Season,0,0,25.0,2,2,5,4,1,1,0,0,3,0,2,1,0.5,0,0,0.0,0,0,0.0,112,107,0
+78195,1991,29100800,1992-03-05 20:00:00,Houston,Rockets,Miami,Heat,Regular Season,1,1,15.0,0,2,2,1,1,0,3,0,4,0,0,0,0.0,0,0,0.0,0,0,0.0,114,93,0
+78195,1991,29100816,1992-03-07 20:00:00,Houston,Rockets,Golden State,Warriors,Regular Season,0,0,8.0,2,0,0,0,0,0,0,0,2,0,1,1,1.0,0,0,0.0,0,0,0.0,110,100,0
+78195,1991,29100825,1992-03-08 20:00:00,Houston,Rockets,Sacramento,Kings,Regular Season,0,1,20.0,4,1,7,3,4,0,0,0,3,0,5,2,0.4,0,0,0.0,0,0,0.0,108,109,0
+78195,1991,29100831,1992-03-10 20:00:00,Houston,Rockets,Dallas,Mavericks,Regular Season,1,1,19.0,0,1,3,3,0,0,0,2,1,0,2,0,0.0,0,0,0.0,0,0,0.0,116,93,0
+78195,1991,29100845,1992-03-12 20:00:00,Houston,Rockets,San Antonio,Spurs,Regular Season,0,0,16.0,2,0,4,0,4,0,0,1,0,0,1,1,1.0,0,0,0.0,0,0,0.0,104,98,0
+78195,1991,29100850,1992-03-13 20:00:00,Houston,Rockets,Charlotte,Hornets,Regular Season,1,1,14.0,4,0,5,4,1,0,1,0,4,0,2,2,1.0,0,0,0.0,0,0,0.0,118,100,0
+78195,1991,29100868,1992-03-15 20:00:00,Houston,Rockets,Utah,Jazz,Regular Season,1,1,14.0,0,0,4,3,1,0,0,1,6,0,0,0,0.0,0,0,0.0,0,0,0.0,106,97,0
+78195,1991,29100878,1992-03-17 20:00:00,Houston,Rockets,Los Angeles,Clippers,Regular Season,1,1,19.0,0,0,7,5,2,0,1,2,2,0,0,0,0.0,0,0,0.0,0,0,0.0,100,92,0
+78195,1991,29100892,1992-03-19 20:00:00,Houston,Rockets,Seattle,SuperSonics,Regular Season,1,0,23.0,3,0,12,8,4,0,0,1,2,0,3,1,0.333,0,0,0.0,4,1,0.25,91,112,0
+78195,1991,29100911,1992-03-21 20:00:00,Houston,Rockets,Sacramento,Kings,Regular Season,1,0,33.0,6,3,18,13,5,1,1,1,6,0,4,3,0.75,0,0,0.0,0,0,0.0,97,100,0
+78195,1991,29100928,1992-03-24 20:00:00,Houston,Rockets,Seattle,SuperSonics,Regular Season,0,0,26.0,0,1,3,2,1,0,1,0,2,0,1,0,0.0,0,0,0.0,0,0,0.0,128,106,0
+78195,1991,29100941,1992-03-26 20:00:00,Houston,Rockets,Los Angeles,Clippers,Regular Season,0,0,24.0,4,2,5,2,3,0,0,0,4,0,3,2,0.667,0,0,0.0,0,0,0.0,109,95,0
+78195,1991,29100956,1992-03-28 20:00:00,Houston,Rockets,Portland,Trail Blazers,Regular Season,0,0,29.0,0,1,10,7,3,1,1,4,4,0,3,0,0.0,0,0,0.0,0,0,0.0,115,95,0
+78195,1991,29100971,1992-03-31 20:00:00,Houston,Rockets,Los Angeles,Lakers,Regular Season,1,0,20.0,0,0,5,2,3,1,0,3,2,0,0,0,0.0,0,0,0.0,0,0,0.0,101,107,0
+78195,1991,29100988,1992-04-02 20:00:00,Houston,Rockets,Denver,Nuggets,Regular Season,1,1,18.0,15,1,8,2,6,0,1,4,2,0,7,7,1.0,0,0,0.0,1,1,1.0,137,114,0
+78195,1991,29101001,1992-04-04 20:00:00,Houston,Rockets,Orlando,Magic,Regular Season,1,1,20.0,0,2,5,4,1,0,0,2,3,0,1,0,0.0,0,0,0.0,0,0,0.0,110,101,0
+78195,1991,29101016,1992-04-07 20:00:00,Houston,Rockets,San Antonio,Spurs,Regular Season,0,1,19.0,2,0,4,3,1,0,0,0,1,0,2,1,0.5,0,0,0.0,0,0,0.0,92,95,0
+78195,1991,29101036,1992-04-09 20:00:00,Houston,Rockets,Minnesota,Timberwolves,Regular Season,0,1,18.0,0,2,5,3,2,0,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,102,117,0
+78195,1991,29101050,1992-04-11 20:00:00,Houston,Rockets,Dallas,Mavericks,Regular Season,1,0,13.0,0,0,5,3,2,0,1,1,3,0,2,0,0.0,0,0,0.0,0,0,0.0,92,99,0
+78195,1991,29101071,1992-04-14 20:00:00,Houston,Rockets,Portland,Trail Blazers,Regular Season,1,1,19.0,2,3,4,2,2,0,0,0,5,0,1,1,1.0,0,0,0.0,0,0,0.0,108,96,0
+78195,1991,29101080,1992-04-15 20:00:00,Houston,Rockets,Utah,Jazz,Regular Season,0,0,21.0,2,0,6,4,2,0,0,1,4,0,3,1,0.333,0,0,0.0,0,0,0.0,130,98,0
+78195,1991,29101093,1992-04-17 20:00:00,Houston,Rockets,Dallas,Mavericks,Regular Season,0,0,18.0,2,1,4,1,3,0,1,2,3,0,3,1,0.333,1,0,0.0,0,0,0.0,109,106,0
+78195,1991,29101107,1992-04-19 20:00:00,Houston,Rockets,Phoenix,Suns,Regular Season,1,0,12.0,1,0,9,3,6,0,0,0,0,0,1,0,0.0,0,0,0.0,2,1,0.5,97,100,0
+78195,1992,29200003,1992-11-06 20:00:00,San Antonio,Spurs,Sacramento,Kings,Regular Season,0,0,5.0,0,0,1,1,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,114,106,0
+78195,1992,29200018,1992-11-07 20:00:00,San Antonio,Spurs,Denver,Nuggets,Regular Season,0,0,22.0,0,1,10,4,6,1,0,1,5,0,0,0,0.0,0,0,0.0,0,0,0.0,125,121,0
+78195,1992,29200027,1992-11-10 20:00:00,San Antonio,Spurs,Milwaukee,Bucks,Regular Season,1,1,31.0,0,3,8,5,3,0,0,2,4,0,1,0,0.0,0,0,0.0,0,0,0.0,104,98,0
+78195,1992,29200048,1992-11-12 20:00:00,San Antonio,Spurs,Atlanta,Hawks,Regular Season,1,0,9.0,0,0,3,2,1,1,1,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,97,104,0
+78195,1992,29200058,1992-11-14 20:00:00,San Antonio,Spurs,Houston,Rockets,Regular Season,1,0,3.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,87,93,0
+78195,1992,29200083,1992-11-17 20:00:00,San Antonio,Spurs,Cleveland,Cavaliers,Regular Season,1,1,6.0,0,0,2,2,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,106,95,0
+78195,1992,29200087,1992-11-19 20:00:00,San Antonio,Spurs,Dallas,Mavericks,Regular Season,1,1,9.0,0,0,3,3,0,0,2,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,123,95,0
+78195,1992,29200102,1992-11-21 20:00:00,San Antonio,Spurs,Houston,Rockets,Regular Season,0,0,15.0,4,0,6,2,4,0,0,1,2,0,2,2,1.0,0,0,0.0,0,0,0.0,103,100,0
+78195,1992,29200123,1992-11-24 20:00:00,San Antonio,Spurs,Portland,Trail Blazers,Regular Season,0,0,7.0,2,1,1,1,0,0,0,1,1,0,1,1,1.0,0,0,0.0,0,0,0.0,95,91,0
+78195,1992,29200131,1992-11-25 20:00:00,San Antonio,Spurs,Utah,Jazz,Regular Season,0,1,8.0,0,0,4,4,0,0,0,0,3,0,0,0,0.0,0,0,0.0,2,0,0.0,102,128,0
+78195,1992,29200155,1992-11-28 20:00:00,San Antonio,Spurs,Seattle,SuperSonics,Regular Season,1,1,10.0,0,0,4,4,0,0,1,0,2,0,0,0,0.0,0,0,0.0,0,0,0.0,104,97,0
+78195,1992,29200166,1992-12-01 20:00:00,San Antonio,Spurs,Washington,Bullets,Regular Season,0,0,10.0,2,0,4,2,2,0,0,0,1,0,1,1,1.0,0,0,0.0,0,0,0.0,119,106,0
+78195,1992,29200177,1992-12-02 20:00:00,San Antonio,Spurs,Philadelphia,76ers,Regular Season,0,1,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,82,98,0
+78195,1992,29200212,1992-12-08 20:00:00,San Antonio,Spurs,Utah,Jazz,Regular Season,1,1,22.0,0,1,9,4,5,0,2,0,1,0,2,0,0.0,0,0,0.0,0,0,0.0,121,103,0
+78195,1992,29200228,1992-12-10 20:00:00,San Antonio,Spurs,Miami,Heat,Regular Season,1,1,30.0,2,1,9,6,3,0,2,1,3,0,2,1,0.5,0,0,0.0,0,0,0.0,101,91,0
+78195,1992,29200241,1992-12-12 20:00:00,San Antonio,Spurs,Dallas,Mavericks,Regular Season,0,1,17.0,4,0,6,5,1,1,0,2,4,0,3,2,0.667,0,0,0.0,0,0,0.0,91,113,0
+78195,1992,29200254,1992-12-15 20:00:00,San Antonio,Spurs,Los Angeles,Lakers,Regular Season,1,0,27.0,3,0,8,6,2,0,3,0,5,0,1,1,1.0,0,0,0.0,2,1,0.5,101,107,0
+78195,1992,29200273,1992-12-17 20:00:00,San Antonio,Spurs,Houston,Rockets,Regular Season,0,0,21.0,0,0,3,2,1,0,0,0,2,0,2,0,0.0,0,0,0.0,0,0,0.0,121,109,0
+78195,1992,29200274,1992-12-18 20:00:00,San Antonio,Spurs,Dallas,Mavericks,Regular Season,1,1,33.0,4,3,12,10,2,0,0,2,4,0,2,2,1.0,0,0,0.0,1,0,0.0,122,101,0
+78195,1992,29200306,1992-12-22 20:00:00,San Antonio,Spurs,Denver,Nuggets,Regular Season,1,1,19.0,0,0,5,4,1,0,0,1,3,0,1,0,0.0,0,0,0.0,0,0,0.0,113,108,0
+78195,1992,29200317,1992-12-25 20:00:00,San Antonio,Spurs,Los Angeles,Clippers,Regular Season,0,1,4.0,0,0,1,0,1,1,1,1,1,0,0,0,0.0,0,0,0.0,0,0,0.0,94,103,0
+78195,1992,29200319,1992-12-26 20:00:00,San Antonio,Spurs,Los Angeles,Lakers,Regular Season,0,1,10.0,2,0,5,3,2,0,0,0,1,0,2,1,0.5,0,0,0.0,0,0,0.0,92,104,0
+78195,1992,29200336,1992-12-28 20:00:00,San Antonio,Spurs,Golden State,Warriors,Regular Season,1,0,5.0,5,0,2,1,1,0,1,0,0,0,0,0,0.0,0,0,0.0,12,5,0.416,105,106,0
+78195,1992,29200347,1992-12-30 20:00:00,San Antonio,Spurs,Denver,Nuggets,Regular Season,0,1,18.0,0,2,2,1,1,0,0,0,4,0,1,0,0.0,0,0,0.0,0,0,0.0,94,114,0
+78195,1992,29200370,1993-01-03 20:00:00,San Antonio,Spurs,Phoenix,Suns,Regular Season,1,1,7.0,0,0,1,1,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,114,113,0
+78195,1992,29200377,1993-01-05 20:00:00,San Antonio,Spurs,Utah,Jazz,Regular Season,0,0,16.0,2,0,7,3,4,2,1,1,2,0,3,1,0.333,0,0,0.0,0,0,0.0,113,87,0
+78195,1992,29200394,1993-01-07 20:00:00,San Antonio,Spurs,Utah,Jazz,Regular Season,1,1,11.0,0,1,2,1,1,0,0,0,2,0,3,0,0.0,0,0,0.0,0,0,0.0,109,99,0
+78195,1992,29200413,1993-01-09 20:00:00,San Antonio,Spurs,Portland,Trail Blazers,Regular Season,1,1,8.0,2,1,2,2,0,0,1,2,2,0,1,1,1.0,0,0,0.0,0,0,0.0,109,93,0
+78195,1992,29200419,1993-01-11 20:00:00,San Antonio,Spurs,Detroit,Pistons,Regular Season,0,1,10.0,2,0,6,2,4,0,0,0,0,0,3,0,0.0,0,0,0.0,2,2,1.0,91,109,0
+78195,1992,29200435,1993-01-13 20:00:00,San Antonio,Spurs,Minnesota,Timberwolves,Regular Season,0,1,9.0,2,1,2,1,1,0,0,1,2,0,2,1,0.5,0,0,0.0,0,0,0.0,81,89,0
+78195,1992,29200461,1993-01-16 20:00:00,San Antonio,Spurs,Charlotte,Hornets,Regular Season,1,1,14.0,2,1,3,1,2,0,0,0,3,0,1,1,1.0,0,0,0.0,0,0,0.0,124,111,0
+78195,1992,29200471,1993-01-19 20:00:00,San Antonio,Spurs,Denver,Nuggets,Regular Season,1,1,13.0,0,1,4,4,0,0,0,0,4,0,1,0,0.0,0,0,0.0,0,0,0.0,121,110,0
+78195,1992,29200489,1993-01-22 20:00:00,San Antonio,Spurs,Detroit,Pistons,Regular Season,1,1,4.0,2,0,1,0,1,0,0,0,1,0,1,1,1.0,0,0,0.0,0,0,0.0,123,109,0
+78195,1992,29200509,1993-01-24 20:00:00,San Antonio,Spurs,Chicago,Bulls,Regular Season,1,1,5.0,0,0,1,1,0,0,0,2,1,0,0,0,0.0,0,0,0.0,0,0,0.0,103,99,0
+78195,1992,29200536,1993-01-29 20:00:00,San Antonio,Spurs,Phoenix,Suns,Regular Season,0,0,6.0,0,0,1,1,0,0,0,0,2,0,0,0,0.0,0,0,0.0,0,0,0.0,125,110,0
+78195,1992,29200544,1993-01-30 20:00:00,San Antonio,Spurs,Sacramento,Kings,Regular Season,1,1,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,129,124,0
+78195,1992,29200565,1993-02-02 20:00:00,San Antonio,Spurs,New Jersey,Nets,Regular Season,1,1,9.0,2,0,5,1,4,0,0,1,0,0,2,1,0.5,0,0,0.0,0,0,0.0,111,93,0
+78195,1992,29200591,1993-02-06 20:00:00,San Antonio,Spurs,Minnesota,Timberwolves,Regular Season,1,1,8.0,4,0,3,2,1,0,0,2,2,0,3,2,0.667,0,0,0.0,0,0,0.0,104,95,0
+78195,1992,29200606,1993-02-09 20:00:00,San Antonio,Spurs,Los Angeles,Clippers,Regular Season,1,1,13.0,4,0,5,3,2,1,0,2,1,0,4,2,0.5,0,0,0.0,0,0,0.0,112,97,0
+78195,1992,29200624,1993-02-11 20:00:00,San Antonio,Spurs,Washington,Bullets,Regular Season,1,1,5.0,0,0,2,1,1,0,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,105,95,0
+78195,1992,29200650,1993-02-15 20:00:00,San Antonio,Spurs,Los Angeles,Clippers,Regular Season,0,1,7.0,0,0,5,3,2,0,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,99,102,0
+78195,1992,29200654,1993-02-16 20:00:00,San Antonio,Spurs,Golden State,Warriors,Regular Season,0,0,27.0,6,0,11,7,4,1,0,1,3,0,5,3,0.599,0,0,0.0,1,0,0.0,133,112,0
+78195,1992,29200668,1993-02-18 20:00:00,San Antonio,Spurs,Philadelphia,76ers,Regular Season,1,1,12.0,0,0,6,4,2,1,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,103,98,0
+78195,1992,29200698,1993-02-25 20:00:00,San Antonio,Spurs,Charlotte,Hornets,Regular Season,0,0,14.0,0,1,2,2,0,1,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,111,104,0
+78195,1992,29200707,1993-02-26 20:00:00,San Antonio,Spurs,Miami,Heat,Regular Season,0,0,6.0,0,0,4,3,1,0,0,0,2,0,1,0,0.0,0,0,0.0,0,0,0.0,93,86,0
+78195,1992,29200720,1993-02-28 20:00:00,San Antonio,Spurs,Orlando,Magic,Regular Season,0,1,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,90,94,0
+78195,1992,29200735,1993-03-02 20:00:00,San Antonio,Spurs,Indiana,Pacers,Regular Season,0,0,21.0,6,1,13,5,8,0,0,0,3,0,5,3,0.599,0,0,0.0,0,0,0.0,109,95,0
+78195,1992,29200739,1993-03-03 20:00:00,San Antonio,Spurs,Boston,Celtics,Regular Season,0,0,20.0,0,1,7,5,2,1,0,4,4,0,1,0,0.0,0,0,0.0,0,0,0.0,132,91,0
+78195,1992,29200783,1993-03-09 20:00:00,San Antonio,Spurs,Dallas,Mavericks,Regular Season,1,1,14.0,6,0,6,2,4,0,2,3,0,0,4,3,0.75,0,0,0.0,0,0,0.0,119,84,0
+78195,1992,29200811,1993-03-13 20:00:00,San Antonio,Spurs,Portland,Trail Blazers,Regular Season,1,1,7.0,0,1,3,1,2,1,1,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,108,99,0
+78195,1992,29200817,1993-03-15 20:00:00,San Antonio,Spurs,Los Angeles,Lakers,Regular Season,1,0,12.0,0,1,3,3,0,0,0,2,3,0,1,0,0.0,0,0,0.0,0,0,0.0,87,92,0
+78195,1992,29200843,1993-03-19 20:00:00,San Antonio,Spurs,Orlando,Magic,Regular Season,1,1,5.0,0,0,1,0,1,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,96,93,0
+78195,1992,29200864,1993-03-21 20:00:00,San Antonio,Spurs,New York,Knicks,Regular Season,0,0,17.0,4,0,4,2,2,0,0,0,4,0,2,2,1.0,0,0,0.0,0,0,0.0,115,96,0
+78195,1992,29200873,1993-03-23 20:00:00,San Antonio,Spurs,Cleveland,Cavaliers,Regular Season,0,0,17.0,0,0,7,5,2,1,1,0,1,0,4,0,0.0,0,0,0.0,0,0,0.0,127,90,0
+78195,1992,29200885,1993-03-24 20:00:00,San Antonio,Spurs,Minnesota,Timberwolves,Regular Season,0,1,17.0,2,1,5,4,1,0,0,0,3,0,1,1,1.0,0,0,0.0,0,0,0.0,92,105,0
+78195,1992,29200911,1993-03-28 20:00:00,San Antonio,Spurs,Dallas,Mavericks,Regular Season,0,1,19.0,4,0,7,3,4,0,1,0,3,0,2,2,1.0,0,0,0.0,0,0,0.0,107,114,0
+78195,1992,29200919,1993-03-30 20:00:00,San Antonio,Spurs,Seattle,SuperSonics,Regular Season,1,1,23.0,2,2,0,0,0,0,1,0,3,0,1,1,1.0,0,0,0.0,0,0,0.0,99,97,0
+78195,1992,29200939,1993-04-02 20:00:00,San Antonio,Spurs,Minnesota,Timberwolves,Regular Season,1,1,26.0,0,0,6,4,2,2,0,0,3,0,0,0,0.0,0,0,0.0,0,0,0.0,108,101,0
+78195,1992,29200959,1993-04-04 20:00:00,San Antonio,Spurs,New York,Knicks,Regular Season,1,0,25.0,2,0,12,10,2,0,1,1,6,0,2,1,0.5,0,0,0.0,0,0,0.0,103,108,0
+78195,1992,29200964,1993-04-06 20:00:00,San Antonio,Spurs,Golden State,Warriors,Regular Season,1,0,14.0,2,0,3,1,2,0,1,1,3,0,2,1,0.5,0,0,0.0,0,0,0.0,111,125,0
+78195,1992,29200995,1993-04-10 20:00:00,San Antonio,Spurs,Houston,Rockets,Regular Season,0,0,7.0,0,0,2,1,1,0,0,0,4,0,1,0,0.0,0,0,0.0,0,0,0.0,98,88,0
+78195,1992,29201018,1993-04-13 20:00:00,San Antonio,Spurs,Sacramento,Kings,Regular Season,0,1,7.0,1,1,1,0,1,0,0,1,1,0,3,0,0.0,0,0,0.0,2,1,0.5,100,110,0
+78195,1992,29201053,1993-04-18 20:00:00,San Antonio,Spurs,Portland,Trail Blazers,Regular Season,0,0,3.0,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,105,101,0
+78195,1992,29201057,1993-04-19 20:00:00,San Antonio,Spurs,Seattle,SuperSonics,Regular Season,0,0,10.0,0,1,2,1,1,0,0,1,2,0,1,0,0.0,0,0,0.0,0,0,0.0,96,89,0
+78195,1992,29201079,1993-04-22 20:00:00,San Antonio,Spurs,Denver,Nuggets,Regular Season,1,1,10.0,0,0,3,2,1,1,0,1,6,0,1,0,0.0,0,0,0.0,0,0,0.0,131,111,0
+78195,1992,29201106,1993-04-25 20:00:00,San Antonio,Spurs,Houston,Rockets,Regular Season,1,1,6.0,0,1,2,1,1,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,119,117,0
+78195,1992,49200001,1993-04-29 20:00:00,San Antonio,Spurs,Portland,Trail Blazers,Playoffs,0,1,11.0,2,0,6,5,1,0,0,0,4,0,1,1,1.0,0,0,0.0,0,0,0.0,86,87,0
+78195,1992,49200043,1993-05-13 20:00:00,San Antonio,Spurs,Phoenix,Suns,Playoffs,0,0,7.0,4,0,2,0,2,0,1,0,3,0,2,1,0.5,0,0,0.0,2,2,1.0,109,103,0
+78195,1992,49200047,1993-05-15 20:00:00,San Antonio,Spurs,Phoenix,Suns,Playoffs,1,1,13.0,0,1,5,2,3,1,2,1,3,0,0,0,0.0,0,0,0.0,0,0,0.0,111,96,0
+78195,1992,49200049,1993-05-16 20:00:00,San Antonio,Spurs,Phoenix,Suns,Playoffs,1,1,9.0,1,0,3,1,2,0,1,0,3,0,0,0,0.0,0,0,0.0,2,1,0.5,117,103,0
+78195,1992,49200054,1993-05-18 20:00:00,San Antonio,Spurs,Phoenix,Suns,Playoffs,0,0,6.0,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0,0,0.0,0,0,0.0,109,97,0
+78195,1992,49200055,1993-05-20 20:00:00,San Antonio,Spurs,Phoenix,Suns,Playoffs,1,0,4.0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,100,102,0

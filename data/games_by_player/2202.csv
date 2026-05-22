@@ -1,0 +1,1015 @@
+personId,season,gameId,gameDateTimeEst,playerteamCity,playerteamName,opponentteamCity,opponentteamName,gameType,home,win,numMinutes,points,assists,reboundsTotal,reboundsDefensive,reboundsOffensive,blocks,steals,turnovers,foulsPersonal,plusMinusPoints,fieldGoalsAttempted,fieldGoalsMade,fieldGoalsPercentage,threePointersAttempted,threePointersMade,threePointersPercentage,freeThrowsAttempted,freeThrowsMade,freeThrowsPercentage,homeScore,awayScore,attendance
+2202,0,10900011,,Phoenix,,,,Pre Season,0,0,22.0,15,4,4,4,0,0,3,1,2,0,11,6,0.545,4,1,0.25,2,2,1.0,0,0,0
+2202,2001,20100017,2001-10-31 22:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,16.0,6,2,3,3,0,0,0,1,2,0,6,2,0.333,0,0,0.0,2,2,1.0,92,87,0
+2202,2001,20100025,2001-11-01 22:30:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,0,17.0,1,3,0,0,0,0,0,1,1,0,4,0,0.0,0,0,0.0,2,1,0.5,101,107,0
+2202,2001,20100044,2001-11-03 22:30:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,0,1,29.0,12,0,4,2,2,1,1,2,4,1,14,5,0.357,5,2,0.4,1,0,0.0,108,110,0
+2202,2001,20100049,2001-11-04 21:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,20.0,6,2,5,2,3,0,0,0,0,2,8,3,0.375,2,0,0.0,2,0,0.0,96,86,0
+2202,2001,20100064,2001-11-07 19:00:00,Golden State,Warriors,Toronto,Raptors,Regular Season,0,0,29.0,16,2,2,2,0,1,1,0,2,1,9,5,0.556,1,1,1.0,6,5,0.833,109,92,0
+2202,2001,20100078,2001-11-09 19:00:00,Golden State,Warriors,Washington,Wizards,Regular Season,0,1,17.0,5,0,1,1,0,0,3,2,1,0,2,2,1.0,1,1,1.0,2,0,0.0,100,109,0
+2202,2001,20100086,2001-11-10 19:30:00,Golden State,Warriors,New York,Knicks,Regular Season,0,1,25.0,15,5,4,3,1,0,0,0,1,8,11,4,0.364,3,2,0.667,6,5,0.833,71,90,0
+2202,2001,20100098,2001-11-12 20:00:00,Golden State,Warriors,Memphis,Grizzlies,Regular Season,0,1,20.0,8,2,6,5,1,1,3,2,3,-5,6,4,0.667,1,0,0.0,0,0,0.0,79,86,0
+2202,2001,20100115,2001-11-14 22:30:00,Golden State,Warriors,Toronto,Raptors,Regular Season,1,0,22.0,6,3,8,5,3,0,1,2,1,7,9,3,0.333,2,0,0.0,2,0,0.0,82,89,0
+2202,2001,20100129,2001-11-16 22:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,0,27.0,12,4,9,4,5,0,2,2,1,-6,11,5,0.455,2,1,0.5,2,1,0.5,100,91,0
+2202,2001,20100139,2001-11-17 22:30:00,Golden State,Warriors,Chicago,Bulls,Regular Season,1,1,35.0,23,8,8,6,2,0,1,1,4,12,15,8,0.533,7,4,0.571,4,3,0.75,93,88,0
+2202,2001,20100153,2001-11-20 22:30:00,Golden State,Warriors,New York,Knicks,Regular Season,1,0,26.0,8,4,2,0,2,1,2,0,1,-23,13,4,0.308,2,0,0.0,0,0,0.0,70,94,0
+2202,2001,20100178,2001-11-23 22:30:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,22.0,11,0,6,1,5,1,0,2,3,-20,12,4,0.333,2,1,0.5,4,2,0.5,106,90,0
+2202,2001,20100191,2001-11-25 21:00:00,Golden State,Warriors,New Jersey,Nets,Regular Season,1,1,35.0,12,4,6,2,4,1,3,1,0,15,15,5,0.333,6,1,0.167,2,1,0.5,101,85,0
+2202,2001,20100201,2001-11-27 20:30:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,0,0,36.0,11,2,5,4,1,0,2,1,5,-24,12,5,0.417,5,1,0.2,0,0,0.0,116,106,0
+2202,2001,20100208,2001-11-28 20:30:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,0,0,26.0,7,1,0,0,0,0,2,1,2,-6,9,3,0.333,3,1,0.333,0,0,0.0,94,83,0
+2202,2001,20100236,2001-12-01 22:30:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,1,0,25.0,2,4,5,5,0,0,0,1,3,-22,6,1,0.167,1,0,0.0,2,0,0.0,82,111,0
+2202,2001,20100244,2001-12-03 21:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,20.0,2,1,4,2,2,1,0,2,1,-10,9,1,0.111,1,0,0.0,0,0,0.0,110,93,0
+2202,2001,20100260,2001-12-05 22:30:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,1,1,19.0,0,1,4,0,4,0,2,1,1,-5,6,0,0.0,0,0,0.0,0,0,0.0,93,87,0
+2202,2001,20100274,2001-12-07 22:30:00,Golden State,Warriors,Charlotte,Hornets,Regular Season,1,0,14.0,6,3,1,0,1,0,0,1,0,-12,8,3,0.375,0,0,0.0,0,0,0.0,89,106,0
+2202,2001,20100283,2001-12-08 21:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,0,0,26.0,18,1,3,3,0,0,1,0,0,3,9,7,0.778,2,1,0.5,5,3,0.6,111,101,0
+2202,2001,20100294,2001-12-11 20:00:00,Golden State,Warriors,Minnesota,Timberwolves,Regular Season,0,0,22.0,6,3,4,2,2,1,0,2,0,-15,11,3,0.273,1,0,0.0,0,0,0.0,107,86,0
+2202,2001,20100312,2001-12-13 21:00:00,Golden State,Warriors,Orlando,Magic,Regular Season,1,0,28.0,11,1,3,2,1,0,0,1,3,6,14,5,0.357,1,0,0.0,3,1,0.333,100,105,0
+2202,2001,20100330,2001-12-15 22:30:00,Golden State,Warriors,Memphis,Grizzlies,Regular Season,1,1,32.0,13,3,3,1,2,0,2,4,3,16,11,5,0.455,2,1,0.5,4,2,0.5,93,84,0
+2202,2001,20100336,2001-12-16 21:30:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,28.0,16,3,2,1,1,0,0,2,4,-8,10,6,0.6,3,1,0.333,4,3,0.75,101,85,0
+2202,2001,20100356,2001-12-19 22:30:00,Golden State,Warriors,Detroit,Pistons,Regular Season,1,1,36.0,18,1,5,3,2,1,3,0,1,11,13,7,0.538,0,0,0.0,5,4,0.8,101,88,0
+2202,2001,20100370,2001-12-21 22:30:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,0,41.0,24,4,8,5,3,1,3,5,4,1,14,10,0.714,3,2,0.667,5,2,0.4,108,111,0
+2202,2001,20100378,2001-12-22 21:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,0,1,34.0,13,4,8,6,2,0,3,1,1,4,14,4,0.286,1,0,0.0,7,5,0.714,101,105,0
+2202,2001,20100399,2001-12-26 22:30:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,1,30.0,20,2,7,5,2,3,2,5,1,6,16,8,0.5,0,0,0.0,5,4,0.8,101,90,0
+2202,2001,20100414,2001-12-28 22:30:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,0,33.0,9,3,6,1,5,0,0,0,3,-4,13,4,0.308,2,0,0.0,2,1,0.5,93,100,0
+2202,2001,20100435,2002-01-02 19:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,0,0,31.0,13,3,1,0,1,1,0,0,2,-8,12,4,0.333,1,1,1.0,4,4,1.0,113,98,0
+2202,2001,20100444,2002-01-03 19:00:00,Golden State,Warriors,Charlotte,Hornets,Regular Season,0,0,26.0,18,2,2,0,2,0,0,0,5,6,15,9,0.6,0,0,0.0,2,0,0.0,114,102,0
+2202,2001,20100459,2002-01-05 19:30:00,Golden State,Warriors,Orlando,Magic,Regular Season,0,0,37.0,14,8,2,2,0,0,3,0,2,2,12,5,0.417,1,0,0.0,4,4,1.0,118,109,0
+2202,2001,20100470,2002-01-06 19:30:00,Golden State,Warriors,Miami,Heat,Regular Season,0,0,38.0,12,0,4,2,2,0,0,2,2,-8,14,4,0.286,2,0,0.0,4,4,1.0,92,84,0
+2202,2001,20100487,2002-01-08 22:30:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,1,0,32.0,10,0,3,3,0,1,0,1,2,-12,13,3,0.231,1,0,0.0,5,4,0.8,97,113,0
+2202,2001,20100526,2002-01-14 22:30:00,Golden State,Warriors,Miami,Heat,Regular Season,1,0,27.0,4,3,2,2,0,0,1,2,4,2,6,2,0.333,2,0,0.0,0,0,0.0,79,85,0
+2202,2001,20100543,2002-01-16 22:30:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,1,1,36.0,15,3,3,0,3,1,4,1,3,21,16,6,0.375,2,0,0.0,4,3,0.75,117,88,0
+2202,2001,20100555,2002-01-18 22:00:00,Golden State,Warriors,Sacramento,Kings,Regular Season,0,0,39.0,19,4,4,3,1,0,3,3,2,-10,19,7,0.368,4,1,0.25,6,4,0.667,121,97,0
+2202,2001,20100569,2002-01-19 22:30:00,Golden State,Warriors,Minnesota,Timberwolves,Regular Season,1,0,36.0,9,5,2,2,0,0,0,4,6,-9,14,4,0.286,3,0,0.0,1,1,1.0,102,105,0
+2202,2001,20100576,2002-01-21 16:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,1,0,35.0,17,6,5,4,1,0,2,4,2,-4,14,7,0.5,2,1,0.5,3,2,0.667,99,101,0
+2202,2001,20100596,2002-01-23 22:30:00,Golden State,Warriors,Memphis,Grizzlies,Regular Season,1,1,37.0,13,6,3,2,1,0,1,2,0,8,14,6,0.429,3,1,0.333,0,0,0.0,107,95,0
+2202,2001,20100620,2002-01-26 22:30:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,1,0,31.0,11,4,5,4,1,0,0,3,2,-6,13,5,0.385,3,1,0.333,0,0,0.0,82,90,0
+2202,2001,20100631,2002-01-29 20:30:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,0,37.0,16,4,2,1,1,1,2,3,4,5,14,7,0.5,4,2,0.5,1,0,0.0,100,96,0
+2202,2001,20100655,2002-02-01 21:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,38.0,22,2,5,2,3,0,5,3,1,-11,20,10,0.5,6,2,0.333,0,0,0.0,104,98,0
+2202,2001,20100671,2002-02-03 21:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,0,36.0,11,2,1,1,0,0,2,0,4,-1,12,4,0.333,5,2,0.4,4,1,0.25,97,98,0
+2202,2001,20100685,2002-02-05 22:30:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,0,38.0,7,3,6,5,1,0,1,3,0,-15,10,3,0.3,2,0,0.0,2,1,0.5,87,113,0
+2202,2001,20100715,2002-02-13 22:30:00,Golden State,Warriors,Boston,Celtics,Regular Season,1,1,37.0,19,2,10,4,6,0,0,3,4,12,22,9,0.409,5,1,0.2,0,0,0.0,92,75,0
+2202,2001,20100731,2002-02-15 22:30:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,1,0,37.0,28,3,4,3,1,0,0,2,5,-1,19,11,0.579,7,3,0.429,5,3,0.6,99,108,0
+2202,2001,20100744,2002-02-17 21:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,1,0,34.0,20,3,5,5,0,0,2,2,2,-3,15,6,0.4,5,2,0.4,10,6,0.6,94,100,0
+2202,2001,20100753,2002-02-19 19:30:00,Golden State,Warriors,New Jersey,Nets,Regular Season,0,0,41.0,25,4,7,4,3,0,1,1,5,4,21,11,0.524,5,1,0.2,4,2,0.5,123,115,0
+2202,2001,20100759,2002-02-20 19:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,0,0,42.0,16,3,4,3,1,0,3,7,5,-11,15,5,0.333,6,3,0.5,4,3,0.75,114,107,0
+2202,2001,20100780,2002-02-22 20:30:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,0,0,42.0,35,5,3,1,2,1,0,1,2,4,22,16,0.727,5,3,0.6,0,0,0.0,116,112,0
+2202,2001,20100786,2002-02-23 20:30:00,Golden State,Warriors,Chicago,Bulls,Regular Season,0,0,36.0,11,3,1,1,0,1,1,2,1,-1,13,4,0.308,3,1,0.333,2,2,1.0,105,91,0
+2202,2001,20100801,2002-02-25 22:30:00,Golden State,Warriors,Indiana,Pacers,Regular Season,1,0,40.0,14,3,5,3,2,0,1,0,5,-20,21,6,0.286,6,2,0.333,0,0,0.0,97,102,0
+2202,2001,20100817,2002-02-27 22:30:00,Golden State,Warriors,Denver,Nuggets,Regular Season,1,1,40.0,23,2,3,2,1,0,2,5,3,18,14,9,0.643,4,2,0.5,4,3,0.75,110,93,0
+2202,2001,20100831,2002-03-01 22:30:00,Golden State,Warriors,Sacramento,Kings,Regular Season,1,0,20.0,7,6,2,0,2,1,1,0,1,-12,9,2,0.222,4,1,0.25,2,2,1.0,108,116,0
+2202,2001,20100837,2002-03-02 22:30:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,109,95,0
+2202,2001,20100859,2002-03-05 20:30:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,109,88,0
+2202,2001,20100881,2002-03-08 20:30:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,1,36.0,32,4,7,6,1,0,2,6,4,10,17,10,0.588,4,2,0.5,11,10,0.909,95,108,0
+2202,2001,20100889,2002-03-09 20:30:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,0,0,38.0,21,4,7,5,2,1,2,5,2,-2,17,9,0.529,6,3,0.5,0,0,0.0,107,105,0
+2202,2001,20100901,2002-03-11 19:30:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,0,0,35.0,12,3,3,3,0,1,1,1,2,-15,12,4,0.333,2,0,0.0,5,4,0.8,121,96,0
+2202,2001,20100907,2002-03-12 19:00:00,Golden State,Warriors,Indiana,Pacers,Regular Season,0,0,42.0,19,1,2,2,0,0,1,6,2,-13,16,8,0.5,6,1,0.167,2,2,1.0,115,101,0
+2202,2001,20100926,2002-03-14 22:30:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,0,42.0,23,1,5,4,1,1,3,2,2,-8,22,9,0.409,5,2,0.4,4,3,0.75,102,110,0
+2202,2001,20100943,2002-03-16 22:30:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,1,0,41.0,13,2,5,4,1,0,2,3,2,-27,17,6,0.353,5,1,0.2,0,0,0.0,100,117,0
+2202,2001,20100955,2002-03-18 22:30:00,Golden State,Warriors,Washington,Wizards,Regular Season,1,0,40.0,21,2,9,7,2,1,1,3,5,2,16,8,0.5,6,2,0.333,4,3,0.75,96,99,0
+2202,2001,20100964,2002-03-19 22:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,0,30.0,10,0,1,1,0,0,1,1,3,-18,10,5,0.5,2,0,0.0,0,0,0.0,110,93,0
+2202,2001,20100978,2002-03-21 22:30:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,1,0,43.0,14,2,8,5,3,0,0,1,4,-18,18,5,0.278,4,1,0.25,4,3,0.75,96,116,0
+2202,2001,20100991,2002-03-23 21:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,0,0,33.0,16,1,2,0,2,0,1,5,3,-14,16,7,0.438,4,1,0.25,1,1,1.0,112,103,0
+2202,2001,20101001,2002-03-24 21:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,0,36.0,14,4,2,1,1,0,1,2,2,-13,18,7,0.389,3,0,0.0,0,0,0.0,104,116,0
+2202,2001,20101013,2002-03-26 20:00:00,Golden State,Warriors,Minnesota,Timberwolves,Regular Season,0,1,37.0,13,7,6,5,1,1,2,2,3,7,13,6,0.462,3,0,0.0,2,1,0.5,106,115,0
+2202,2001,20101017,2002-03-27 19:00:00,Golden State,Warriors,Boston,Celtics,Regular Season,0,0,35.0,18,3,3,2,1,0,2,0,2,-10,18,7,0.389,7,4,0.571,0,0,0.0,102,99,0
+2202,2001,20101037,2002-03-29 20:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,0,0,36.0,16,1,2,2,0,1,2,2,3,-7,14,6,0.429,5,2,0.4,2,2,1.0,110,103,0
+2202,2001,20101043,2002-03-30 20:00:00,Golden State,Warriors,Memphis,Grizzlies,Regular Season,0,0,30.0,14,2,6,3,3,0,0,1,1,-9,15,4,0.267,2,0,0.0,9,6,0.667,105,99,0
+2202,2001,20101066,2002-04-02 22:30:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,39.0,26,1,7,6,1,1,3,2,1,12,21,12,0.571,2,1,0.5,2,1,0.5,107,91,0
+2202,2001,20101092,2002-04-05 22:30:00,Golden State,Warriors,Denver,Nuggets,Regular Season,1,1,39.0,22,4,6,4,2,1,0,3,4,4,21,10,0.476,5,1,0.2,3,1,0.333,108,104,0
+2202,2001,20101098,2002-04-06 22:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,21.0,5,5,2,2,0,0,1,0,0,-16,9,2,0.222,3,0,0.0,3,1,0.333,113,86,0
+2202,2001,20101112,2002-04-08 22:30:00,Golden State,Warriors,Minnesota,Timberwolves,Regular Season,1,0,40.0,21,3,4,3,1,0,0,3,3,-5,18,9,0.5,5,3,0.6,0,0,0.0,93,100,0
+2202,2001,20101130,2002-04-10 22:30:00,Golden State,Warriors,Sacramento,Kings,Regular Season,1,0,39.0,6,5,10,7,3,1,1,2,2,-1,15,3,0.2,4,0,0.0,0,0,0.0,116,118,0
+2202,2001,20101145,2002-04-12 21:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,0,0,39.0,11,6,5,3,2,2,2,9,5,0,9,4,0.444,2,1,0.5,2,2,1.0,97,89,0
+2202,2001,20101153,2002-04-13 22:30:00,Golden State,Warriors,Utah,Jazz,Regular Season,1,0,29.0,15,3,4,2,2,0,0,1,4,-18,11,6,0.545,3,3,1.0,0,0,0.0,101,109,0
+2202,2001,20101174,2002-04-16 22:00:00,Golden State,Warriors,Sacramento,Kings,Regular Season,0,0,40.0,40,2,2,1,1,0,3,3,6,-5,28,18,0.643,5,2,0.4,2,2,1.0,120,106,0
+2202,2001,20101189,2002-04-17 22:30:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,1,1,37.0,23,5,6,3,3,0,3,0,0,7,20,8,0.4,3,2,0.667,6,5,0.833,107,103,0
+2202,2002,20200017,2002-10-30 22:30:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,1,1,43.0,22,8,8,6,2,2,4,4,3,15,19,8,0.421,3,2,0.667,6,4,0.667,106,98,0
+2202,2002,20200030,2002-11-01 22:30:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,0,34.0,9,3,3,3,0,0,0,3,2,-12,16,4,0.25,4,0,0.0,3,1,0.333,93,106,0
+2202,2002,20200040,2002-11-02 21:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,0,0,31.0,8,3,4,4,0,0,1,2,2,1,15,2,0.133,4,1,0.25,4,3,0.75,101,92,0
+2202,2002,20200050,2002-11-04 20:30:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,0,0,42.0,39,2,8,8,0,0,1,0,3,5,27,12,0.444,9,6,0.667,11,9,0.818,107,100,0
+2202,2002,20200057,2002-11-05 20:30:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,0,0,31.0,14,1,3,1,2,0,0,1,3,-17,15,5,0.333,2,0,0.0,4,4,1.0,93,73,0
+2202,2002,20200077,2002-11-08 20:30:00,Golden State,Warriors,New Orleans,Hornets,Regular Season,0,0,48.0,31,3,4,3,1,0,2,6,2,-6,22,11,0.5,0,0,0.0,10,9,0.9,110,104,0
+2202,2002,20200089,2002-11-09 20:30:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,0,45.0,28,5,13,7,6,0,4,6,4,-8,26,8,0.308,6,1,0.167,13,11,0.846,111,104,0
+2202,2002,20200096,2002-11-11 20:00:00,Golden State,Warriors,Memphis,Grizzlies,Regular Season,0,1,21.0,9,3,2,1,1,0,0,2,3,-6,9,3,0.333,3,2,0.667,2,1,0.5,101,108,0
+2202,2002,20200113,2002-11-13 21:30:00,Golden State,Warriors,Sacramento,Kings,Regular Season,1,0,37.0,16,6,6,4,2,0,1,0,2,-11,21,7,0.333,6,2,0.333,0,0,0.0,93,104,0
+2202,2002,20200127,2002-11-15 22:30:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,44.0,11,8,4,1,3,0,1,2,5,-2,17,5,0.294,5,1,0.2,0,0,0.0,96,89,0
+2202,2002,20200137,2002-11-16 22:30:00,Golden State,Warriors,Orlando,Magic,Regular Season,1,1,32.0,18,5,3,2,1,0,0,4,2,27,11,7,0.636,1,0,0.0,5,4,0.8,135,92,0
+2202,2002,20200147,2002-11-18 22:30:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,1,0,27.0,4,3,5,2,3,0,0,3,0,-19,8,1,0.125,0,0,0.0,4,2,0.5,89,99,0
+2202,2002,20200165,2002-11-20 22:30:00,Golden State,Warriors,Chicago,Bulls,Regular Season,1,1,36.0,12,3,5,3,2,0,0,2,3,8,16,4,0.25,1,0,0.0,4,4,1.0,100,94,0
+2202,2002,20200179,2002-11-22 22:30:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,1,0,40.0,21,3,5,4,1,0,2,5,4,-6,16,6,0.375,8,3,0.375,7,6,0.857,91,95,0
+2202,2002,20200215,2002-11-27 22:30:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,0,36.0,17,2,8,5,3,1,1,3,3,-9,21,7,0.333,7,3,0.429,0,0,0.0,84,91,0
+2202,2002,20200224,2002-11-29 21:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,0,1,26.0,2,3,3,1,2,0,2,1,1,-9,7,0,0.0,1,0,0.0,2,2,1.0,82,92,0
+2202,2002,20200237,2002-11-30 22:30:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,1,38.0,12,2,5,5,0,0,1,2,2,4,14,5,0.357,3,1,0.333,2,1,0.5,100,90,0
+2202,2002,20200255,2002-12-03 22:30:00,Golden State,Warriors,Denver,Nuggets,Regular Season,1,1,25.0,11,4,3,3,0,0,0,3,0,11,7,4,0.571,1,1,1.0,3,2,0.667,110,89,0
+2202,2002,20200268,2002-12-05 22:00:00,Golden State,Warriors,Minnesota,Timberwolves,Regular Season,1,0,37.0,22,3,6,5,1,0,2,2,3,-13,16,8,0.5,6,3,0.5,3,3,1.0,98,114,0
+2202,2002,20200288,2002-12-07 22:30:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,1,0,31.0,22,2,4,2,2,0,1,0,5,-2,14,8,0.571,6,3,0.5,3,3,1.0,116,121,0
+2202,2002,20200305,2002-12-10 22:30:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,1,44.0,26,4,3,3,0,1,2,3,0,5,17,10,0.588,6,6,1.0,0,0,0.0,106,102,0
+2202,2002,20200317,2002-12-13 19:00:00,Golden State,Warriors,Orlando,Magic,Regular Season,0,0,18.0,4,2,0,0,0,0,0,1,3,-20,3,1,0.333,3,1,0.333,2,1,0.5,111,85,0
+2202,2002,20200331,2002-12-14 20:00:00,Golden State,Warriors,Miami,Heat,Regular Season,0,0,30.0,17,1,3,3,0,0,1,5,4,-16,12,6,0.5,8,4,0.5,2,1,0.5,101,92,0
+2202,2002,20200345,2002-12-16 20:00:00,Golden State,Warriors,Memphis,Grizzlies,Regular Season,0,0,10.0,6,4,4,2,2,0,0,1,3,4,7,2,0.286,1,0,0.0,4,2,0.5,104,91,0
+2202,2002,20200366,2002-12-18 22:30:00,Golden State,Warriors,New Orleans,Hornets,Regular Season,1,1,35.0,9,4,3,3,0,1,0,0,1,0,8,2,0.25,2,1,0.5,4,4,1.0,111,106,0
+2202,2002,20200380,2002-12-20 22:30:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,0,39.0,23,4,5,4,1,0,2,3,3,-4,19,10,0.526,6,3,0.5,0,0,0.0,111,113,0
+2202,2002,20200394,2002-12-22 21:00:00,Golden State,Warriors,Sacramento,Kings,Regular Season,0,0,29.0,18,1,6,5,1,0,3,2,2,-6,15,6,0.4,7,4,0.571,4,2,0.5,103,88,0
+2202,2002,20200416,2002-12-27 22:30:00,Golden State,Warriors,Toronto,Raptors,Regular Season,1,1,37.0,11,6,8,6,2,0,1,0,4,5,12,4,0.333,5,2,0.4,1,1,1.0,101,96,0
+2202,2002,20200428,2002-12-28 22:30:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,0,1,38.0,20,4,3,2,1,1,1,2,4,24,19,9,0.474,2,0,0.0,3,2,0.667,92,99,0
+2202,2002,20200441,2002-12-30 22:30:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,1,1,38.0,26,2,4,3,1,0,0,4,3,13,18,7,0.389,9,3,0.333,12,9,0.75,104,98,0
+2202,2002,20200461,2003-01-03 20:30:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,0,0,24.0,4,0,4,3,1,0,2,2,1,-11,8,1,0.125,3,0,0.0,2,2,1.0,98,95,0
+2202,2002,20200469,2003-01-04 20:30:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,1,24.0,8,2,3,2,1,0,0,2,1,-4,7,3,0.429,0,0,0.0,2,2,1.0,84,86,0
+2202,2002,20200486,2003-01-06 22:30:00,Golden State,Warriors,Miami,Heat,Regular Season,1,1,20.0,10,2,1,1,0,0,0,1,2,2,8,3,0.375,3,1,0.333,3,3,1.0,99,85,0
+2202,2002,20200496,2003-01-08 20:00:00,Golden State,Warriors,Minnesota,Timberwolves,Regular Season,0,0,41.0,32,2,5,5,0,1,0,3,3,-11,23,12,0.522,7,5,0.714,4,3,0.75,102,95,0
+2202,2002,20200505,2003-01-10 19:00:00,Golden State,Warriors,Washington,Wizards,Regular Season,0,1,25.0,9,2,1,1,0,0,0,3,2,0,8,4,0.5,2,1,0.5,0,0,0.0,99,104,0
+2202,2002,20200519,2003-01-11 19:00:00,Golden State,Warriors,Indiana,Pacers,Regular Season,0,0,24.0,14,4,1,1,0,0,1,2,3,-14,14,5,0.357,4,1,0.25,3,3,1.0,116,104,0
+2202,2002,20200536,2003-01-13 22:30:00,Golden State,Warriors,Memphis,Grizzlies,Regular Season,1,0,19.0,9,2,5,2,3,0,0,2,1,-11,10,3,0.3,1,0,0.0,3,3,1.0,108,110,0
+2202,2002,20200552,2003-01-15 22:30:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,1,1,36.0,16,1,4,3,1,0,0,1,2,25,16,6,0.375,4,2,0.5,2,2,1.0,108,80,0
+2202,2002,20200565,2003-01-17 22:30:00,Golden State,Warriors,Minnesota,Timberwolves,Regular Season,1,1,21.0,9,1,3,1,2,0,0,2,4,-5,10,3,0.3,3,1,0.333,2,2,1.0,107,98,0
+2202,2002,20200582,2003-01-20 16:00:00,Golden State,Warriors,Sacramento,Kings,Regular Season,1,0,36.0,28,2,6,4,2,0,2,2,2,-22,24,10,0.417,10,2,0.2,8,6,0.75,80,102,0
+2202,2002,20200602,2003-01-22 22:30:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,1,34.0,17,2,5,4,1,1,0,1,2,8,11,6,0.545,3,1,0.333,4,4,1.0,110,114,0
+2202,2002,20200605,2003-01-23 22:00:00,Golden State,Warriors,New Jersey,Nets,Regular Season,1,1,26.0,13,3,1,1,0,0,0,1,3,-1,10,5,0.5,2,1,0.5,2,2,1.0,105,97,0
+2202,2002,20200623,2003-01-25 22:30:00,Golden State,Warriors,Utah,Jazz,Regular Season,1,1,39.0,15,6,6,6,0,0,0,2,1,19,14,6,0.429,3,0,0.0,4,3,0.75,108,95,0
+2202,2002,20200642,2003-01-28 22:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,0,27.0,7,1,8,6,2,0,1,3,4,8,10,3,0.3,4,1,0.25,2,0,0.0,91,88,0
+2202,2002,20200664,2003-01-31 21:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,0,0,34.0,15,4,7,4,3,0,1,2,4,-5,17,7,0.412,2,1,0.5,0,0,0.0,102,94,0
+2202,2002,20200674,2003-02-01 21:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,40.0,19,6,6,5,1,0,1,3,4,-7,17,9,0.529,6,1,0.167,0,0,0.0,116,107,0
+2202,2002,20200688,2003-02-03 22:30:00,Golden State,Warriors,Memphis,Grizzlies,Regular Season,1,1,29.0,11,1,3,1,2,1,2,0,2,5,11,4,0.364,3,1,0.333,2,2,1.0,101,91,0
+2202,2002,20200704,2003-02-05 22:30:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,1,0,32.0,16,1,6,4,2,0,0,2,0,-6,17,6,0.353,4,1,0.25,4,3,0.75,99,103,0
+2202,2002,20200711,2003-02-11 19:30:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,0,1,32.0,24,2,4,3,1,0,0,2,2,-1,17,8,0.471,6,3,0.5,6,5,0.833,113,116,0
+2202,2002,20200723,2003-02-12 19:30:00,Golden State,Warriors,New York,Knicks,Regular Season,0,1,33.0,18,2,6,6,0,0,1,4,3,-3,14,8,0.571,2,1,0.5,2,1,0.5,107,113,0
+2202,2002,20200732,2003-02-14 19:00:00,Golden State,Warriors,Toronto,Raptors,Regular Season,0,1,38.0,25,0,8,4,4,0,2,1,4,9,18,9,0.5,4,2,0.5,8,5,0.625,114,118,0
+2202,2002,20200751,2003-02-16 15:30:00,Golden State,Warriors,Minnesota,Timberwolves,Regular Season,0,0,34.0,18,1,2,1,1,2,0,1,1,-13,13,7,0.538,7,4,0.571,0,0,0.0,109,102,0
+2202,2002,20200770,2003-02-18 22:30:00,Golden State,Warriors,Boston,Celtics,Regular Season,1,0,33.0,9,4,6,3,3,1,0,4,4,-6,10,3,0.3,5,1,0.2,2,2,1.0,117,125,0
+2202,2002,20200777,2003-02-19 22:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,18.0,6,3,2,2,0,0,0,2,2,-24,10,3,0.3,3,0,0.0,0,0,0.0,125,98,0
+2202,2002,20200791,2003-02-21 22:30:00,Golden State,Warriors,New York,Knicks,Regular Season,1,1,30.0,11,3,8,3,5,1,1,2,4,9,17,5,0.294,2,1,0.5,0,0,0.0,111,107,0
+2202,2002,20200804,2003-02-23 21:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,1,1,30.0,20,0,7,5,2,0,2,2,0,5,15,8,0.533,3,1,0.333,4,3,0.75,115,93,0
+2202,2002,20200811,2003-02-24 21:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,0,1,21.0,5,3,3,0,3,0,1,0,0,-8,9,2,0.222,1,0,0.0,2,1,0.5,89,94,0
+2202,2002,20200830,2003-02-26 22:30:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,0,1,29.0,13,6,5,3,2,0,3,0,1,10,14,5,0.357,2,1,0.5,2,2,1.0,94,108,0
+2202,2002,20200849,2003-03-01 22:30:00,Golden State,Warriors,Detroit,Pistons,Regular Season,1,1,35.0,8,2,6,4,2,0,1,3,3,8,11,2,0.182,4,0,0.0,6,4,0.667,92,90,0
+2202,2002,20200870,2003-03-04 22:30:00,Golden State,Warriors,Indiana,Pacers,Regular Season,1,1,35.0,20,3,8,8,0,1,1,2,2,6,13,7,0.538,3,1,0.333,7,5,0.714,107,100,0
+2202,2002,20200882,2003-03-06 20:30:00,Golden State,Warriors,Chicago,Bulls,Regular Season,0,0,26.0,5,4,1,0,1,0,2,1,3,-21,8,2,0.25,3,0,0.0,2,1,0.5,119,105,0
+2202,2002,20200896,2003-03-08 20:30:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,0,0,34.0,22,4,4,2,2,0,1,3,6,2,13,8,0.615,3,1,0.333,6,5,0.833,138,133,0
+2202,2002,20200905,2003-03-09 18:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,0,0,21.0,10,3,2,1,1,0,0,1,4,-5,11,4,0.364,2,0,0.0,4,2,0.5,107,105,0
+2202,2002,20200920,2003-03-11 22:30:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,1,31.0,13,6,1,1,0,1,2,1,2,14,15,5,0.333,5,2,0.4,1,1,1.0,113,98,0
+2202,2002,20200942,2003-03-14 22:30:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,1,0,30.0,13,2,3,2,1,0,1,1,0,-10,13,4,0.308,4,1,0.25,4,4,1.0,114,116,0
+2202,2002,20200947,2003-03-15 22:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,1,40.0,21,4,3,3,0,0,1,2,1,7,17,8,0.471,4,1,0.25,5,4,0.8,88,94,0
+2202,2002,20200969,2003-03-18 22:00:00,Golden State,Warriors,Sacramento,Kings,Regular Season,0,0,37.0,14,4,6,4,2,0,2,3,1,-20,15,6,0.4,6,2,0.333,0,0,0.0,117,91,0
+2202,2002,20200980,2003-03-19 22:30:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,1,42.0,25,3,10,8,2,1,1,3,2,10,19,9,0.474,8,2,0.25,7,5,0.714,105,99,0
+2202,2002,20200994,2003-03-21 22:30:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,0,24.0,5,0,3,3,0,0,4,2,5,-14,7,2,0.286,2,0,0.0,2,1,0.5,107,117,0
+2202,2002,20201008,2003-03-23 21:00:00,Golden State,Warriors,Washington,Wizards,Regular Season,1,1,21.0,2,4,1,0,1,0,1,0,1,-7,5,1,0.2,1,0,0.0,0,0,0.0,113,107,0
+2202,2002,20201016,2003-03-25 19:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,0,0,37.0,20,3,4,3,1,1,5,5,3,-7,13,6,0.462,7,4,0.571,6,4,0.667,124,103,0
+2202,2002,20201021,2003-03-26 19:00:00,Golden State,Warriors,Boston,Celtics,Regular Season,0,1,40.0,31,7,5,5,0,0,1,1,2,15,17,11,0.647,8,4,0.5,6,5,0.833,95,107,0
+2202,2002,20201037,2003-03-28 19:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,0,1,35.0,8,5,5,5,0,0,2,4,2,8,8,4,0.5,2,0,0.0,0,0,0.0,98,102,0
+2202,2002,20201049,2003-03-29 19:30:00,Golden State,Warriors,New Jersey,Nets,Regular Season,0,0,37.0,20,2,3,1,2,0,1,4,2,-5,19,9,0.474,4,1,0.25,2,1,0.5,109,97,0
+2202,2002,20201073,2003-04-01 22:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,35.0,18,2,3,3,0,1,3,1,2,-10,20,8,0.4,7,2,0.286,0,0,0.0,100,86,0
+2202,2002,20201096,2003-04-04 22:30:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,0,33.0,24,2,4,2,2,0,2,3,1,-21,18,10,0.556,4,2,0.5,4,2,0.5,100,122,0
+2202,2002,20201109,2003-04-06 18:30:00,Golden State,Warriors,Denver,Nuggets,Regular Season,1,1,33.0,11,6,8,8,0,0,0,5,3,11,11,4,0.364,4,0,0.0,5,3,0.6,106,99,0
+2202,2002,20201124,2003-04-08 22:30:00,Golden State,Warriors,Utah,Jazz,Regular Season,1,1,29.0,11,4,5,4,1,0,1,2,2,12,10,4,0.4,2,1,0.5,2,2,1.0,128,102,0
+2202,2002,20201148,2003-04-11 22:30:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,41.0,27,2,10,7,3,0,1,3,3,-9,21,11,0.524,8,5,0.625,0,0,0.0,117,101,0
+2202,2002,20201154,2003-04-12 20:30:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,0,0,35.0,17,2,5,3,2,1,0,4,3,-8,19,8,0.421,5,0,0.0,2,1,0.5,117,108,0
+2202,2002,20201170,2003-04-14 22:30:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,1,0,38.0,29,3,7,3,4,1,1,0,4,-8,21,9,0.429,8,4,0.5,9,7,0.778,113,122,0
+2202,2002,20201189,2003-04-16 22:30:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,0,36.0,19,0,4,2,2,3,3,1,3,-5,18,8,0.444,6,3,0.5,0,0,0.0,111,117,0
+2202,2003,20300013,2003-10-29 22:30:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,87,95,0
+2202,2003,20300039,2003-11-01 22:30:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,104,90,0
+2202,2003,20300040,2003-11-02 21:30:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,87,72,0
+2202,2003,20300060,2003-11-05 22:30:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,1,1,36.0,16,3,10,7,3,0,0,4,1,26,18,7,0.389,5,1,0.2,3,1,0.333,99,72,0
+2202,2003,20300075,2003-11-07 22:30:00,Golden State,Warriors,Utah,Jazz,Regular Season,1,1,33.0,21,3,7,5,2,0,1,2,2,7,14,6,0.429,4,2,0.5,9,7,0.778,95,89,0
+2202,2003,20300094,2003-11-10 22:30:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,0,37.0,22,3,9,8,1,0,1,2,1,-18,13,7,0.538,3,1,0.333,9,7,0.778,96,99,0
+2202,2003,20300110,2003-11-12 21:30:00,Golden State,Warriors,Detroit,Pistons,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,87,85,0
+2202,2003,20300125,2003-11-14 22:30:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,1,0,37.0,19,3,10,8,2,0,1,2,4,-2,20,8,0.4,5,1,0.2,2,2,1.0,98,104,0
+2202,2003,20300137,2003-11-16 19:00:00,Golden State,Warriors,Sacramento,Kings,Regular Season,0,0,39.0,31,3,8,7,1,1,3,1,2,-16,21,11,0.524,3,1,0.333,12,8,0.667,106,104,0
+2202,2003,20300149,2003-11-18 20:30:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,0,0,36.0,13,2,6,6,0,1,0,0,2,-10,11,4,0.364,2,0,0.0,5,5,1.0,94,81,0
+2202,2003,20300157,2003-11-19 20:30:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,0,43.0,10,5,8,8,0,0,1,0,2,-5,11,4,0.364,3,0,0.0,2,2,1.0,85,83,0
+2202,2003,20300173,2003-11-21 22:30:00,Golden State,Warriors,Miami,Heat,Regular Season,1,1,41.0,29,6,8,6,2,1,2,5,0,16,21,12,0.571,3,1,0.333,5,4,0.8,101,91,0
+2202,2003,20300184,2003-11-23 21:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,44.0,21,3,10,8,2,0,0,6,3,11,17,8,0.471,4,1,0.25,6,4,0.667,78,72,0
+2202,2003,20300219,2003-11-28 21:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,1,44.0,25,3,13,10,3,2,0,4,1,7,21,12,0.571,3,1,0.333,4,0,0.0,83,92,0
+2202,2003,20300232,2003-11-29 22:30:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,1,1,38.0,8,2,8,6,2,0,0,3,1,-2,12,3,0.25,4,2,0.5,0,0,0.0,91,89,0
+2202,2003,20300256,2003-12-03 22:30:00,Golden State,Warriors,Denver,Nuggets,Regular Season,1,0,36.0,17,1,5,1,4,0,0,2,4,-11,14,7,0.5,2,0,0.0,6,3,0.5,109,117,0
+2202,2003,20300266,2003-12-05 21:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,0,0,35.0,16,4,7,6,1,0,1,2,6,-7,14,5,0.357,5,3,0.6,4,3,0.75,98,91,0
+2202,2003,20300278,2003-12-06 22:30:00,Golden State,Warriors,New York,Knicks,Regular Season,1,1,27.0,9,0,1,1,0,0,0,2,0,1,11,4,0.364,3,0,0.0,1,1,1.0,104,92,0
+2202,2003,20300295,2003-12-09 20:00:00,Golden State,Warriors,Minnesota,Timberwolves,Regular Season,0,1,40.0,30,5,9,5,4,0,1,2,1,1,24,11,0.458,7,3,0.429,6,5,0.833,95,98,0
+2202,2003,20300301,2003-12-10 20:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,0,0,35.0,9,1,4,2,2,0,2,6,4,-2,16,4,0.25,6,1,0.167,0,0,0.0,94,89,0
+2202,2003,20300319,2003-12-12 22:30:00,Golden State,Warriors,New Orleans,Hornets,Regular Season,1,0,27.0,5,1,4,2,2,0,0,1,1,-13,12,2,0.167,4,1,0.25,0,0,0.0,85,96,0
+2202,2003,20300339,2003-12-16 19:30:00,Golden State,Warriors,New York,Knicks,Regular Season,0,1,35.0,26,3,2,2,0,0,2,1,2,16,16,9,0.563,4,2,0.5,8,6,0.75,86,104,0
+2202,2003,20300351,2003-12-17 19:30:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,0,1,29.0,22,1,2,2,0,1,1,4,2,13,13,7,0.538,2,0,0.0,9,8,0.889,85,98,0
+2202,2003,20300361,2003-12-19 19:00:00,Golden State,Warriors,Orlando,Magic,Regular Season,0,0,33.0,13,3,2,2,0,0,2,2,3,-17,13,5,0.385,4,1,0.25,8,2,0.25,119,93,0
+2202,2003,20300382,2003-12-21 18:00:00,Golden State,Warriors,Miami,Heat,Regular Season,0,0,33.0,17,0,2,2,0,1,1,2,1,-7,13,7,0.538,2,0,0.0,3,3,1.0,104,93,0
+2202,2003,20300400,2003-12-23 22:30:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,1,28.0,12,1,7,7,0,1,0,1,5,4,11,4,0.364,3,0,0.0,5,4,0.8,107,98,0
+2202,2003,20300415,2003-12-26 22:30:00,Golden State,Warriors,Sacramento,Kings,Regular Season,1,1,43.0,25,2,6,5,1,1,4,6,3,8,19,9,0.474,4,1,0.25,7,6,0.857,98,91,0
+2202,2003,20300427,2003-12-28 21:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,0,0,32.0,14,0,6,5,1,3,0,1,3,-16,13,6,0.462,2,0,0.0,2,2,1.0,103,79,0
+2202,2003,20300438,2003-12-29 22:30:00,Golden State,Warriors,Boston,Celtics,Regular Season,1,0,31.0,17,2,9,8,1,1,0,3,5,8,14,8,0.571,3,0,0.0,2,1,0.5,91,100,0
+2202,2003,20300448,2003-12-31 19:00:00,Golden State,Warriors,New Jersey,Nets,Regular Season,0,0,37.0,16,1,6,5,1,0,1,3,2,-5,15,7,0.467,2,0,0.0,4,2,0.5,88,70,0
+2202,2003,20300451,2004-01-02 19:00:00,Golden State,Warriors,Washington,Wizards,Regular Season,0,0,35.0,25,1,6,3,3,0,2,3,0,-12,17,10,0.588,4,2,0.5,4,3,0.75,97,79,0
+2202,2003,20300465,2004-01-03 19:30:00,Golden State,Warriors,Detroit,Pistons,Regular Season,0,0,39.0,24,6,4,3,1,0,4,0,2,-5,21,9,0.429,7,3,0.429,4,3,0.75,99,93,0
+2202,2003,20300481,2004-01-05 20:30:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,0,32.0,10,0,5,5,0,0,1,0,3,-12,13,5,0.385,4,0,0.0,0,0,0.0,83,65,0
+2202,2003,20300499,2004-01-07 21:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,0,0,43.0,27,2,7,2,5,0,2,1,1,-9,26,11,0.423,9,4,0.444,3,1,0.333,105,99,0
+2202,2003,20300523,2004-01-10 22:30:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,1,47.0,25,4,11,10,1,0,1,2,3,7,18,9,0.5,8,3,0.375,6,4,0.667,113,110,0
+2202,2003,20300532,2004-01-12 22:30:00,Golden State,Warriors,Memphis,Grizzlies,Regular Season,1,0,44.0,21,2,7,6,1,0,1,1,3,-14,23,10,0.435,2,0,0.0,1,1,1.0,113,115,0
+2202,2003,20300538,2004-01-13 21:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,0,0,29.0,7,1,1,1,0,0,0,0,3,-13,10,3,0.3,3,1,0.333,0,0,0.0,97,80,0
+2202,2003,20300556,2004-01-15 22:30:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,1,1,38.0,25,2,2,1,1,0,2,2,2,12,18,10,0.556,3,2,0.667,5,3,0.6,119,102,0
+2202,2003,20300562,2004-01-16 21:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,34.0,6,3,2,2,0,0,0,1,2,-25,11,3,0.273,2,0,0.0,2,0,0.0,104,93,0
+2202,2003,20300588,2004-01-19 22:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,1,1,35.0,18,4,3,3,0,0,0,3,5,13,11,7,0.636,4,1,0.25,4,3,0.75,101,85,0
+2202,2003,20300604,2004-01-21 22:30:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,0,0,45.0,28,3,10,8,2,1,1,3,2,0,23,11,0.478,9,4,0.444,2,2,1.0,106,102,0
+2202,2003,20300607,2004-01-22 22:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,0,19.0,3,2,3,2,1,0,0,3,1,-17,11,1,0.091,3,0,0.0,2,1,0.5,103,87,0
+2202,2003,20300620,2004-01-24 15:30:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,1,40.0,31,4,5,5,0,1,2,4,1,13,17,12,0.706,8,7,0.875,0,0,0.0,87,105,0
+2202,2003,20300656,2004-01-28 22:30:00,Golden State,Warriors,Minnesota,Timberwolves,Regular Season,1,1,41.0,17,3,10,8,2,1,2,3,0,6,17,6,0.353,3,1,0.333,6,4,0.667,97,90,0
+2202,2003,20300668,2004-01-30 22:30:00,Golden State,Warriors,Chicago,Bulls,Regular Season,1,1,29.0,15,2,8,6,2,1,1,2,3,15,12,5,0.417,2,0,0.0,6,5,0.833,101,81,0
+2202,2003,20300687,2004-02-02 20:00:00,Golden State,Warriors,Memphis,Grizzlies,Regular Season,0,0,41.0,19,4,9,8,1,1,2,0,5,-4,15,6,0.4,2,0,0.0,10,7,0.7,106,101,0
+2202,2003,20300696,2004-02-03 20:30:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,0,0,38.0,20,2,4,2,2,0,1,2,3,-5,16,9,0.563,4,1,0.25,5,1,0.2,107,93,0
+2202,2003,20300720,2004-02-06 22:30:00,Golden State,Warriors,Denver,Nuggets,Regular Season,1,1,45.0,15,3,6,5,1,2,2,3,2,11,19,6,0.316,2,0,0.0,5,3,0.6,96,87,0
+2202,2003,20300735,2004-02-08 21:00:00,Golden State,Warriors,Toronto,Raptors,Regular Season,1,0,47.0,22,1,13,12,1,0,0,1,1,-11,16,9,0.563,1,1,1.0,4,3,0.75,81,84,0
+2202,2003,20300749,2004-02-10 22:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,1,36.0,22,1,7,6,1,2,1,0,2,5,17,8,0.471,0,0,0.0,7,6,0.857,97,106,0
+2202,2003,20300758,2004-02-11 22:30:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,1,39.0,19,3,9,6,3,1,3,1,2,15,19,9,0.474,4,1,0.25,2,0,0.0,110,99,0
+2202,2003,20300780,2004-02-18 22:30:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,0,41.0,25,3,6,3,3,0,2,3,3,7,20,10,0.5,5,2,0.4,4,3,0.75,99,100,0
+2202,2003,20300794,2004-02-20 22:30:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,0,38.0,22,2,6,4,2,0,1,1,4,-3,23,9,0.391,5,1,0.2,3,3,1.0,93,94,0
+2202,2003,20300801,2004-02-21 22:30:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,1,41.0,24,2,5,4,1,0,2,2,3,-6,20,9,0.45,3,0,0.0,8,6,0.75,94,92,0
+2202,2003,20300816,2004-02-24 19:00:00,Golden State,Warriors,Indiana,Pacers,Regular Season,0,0,31.0,18,2,7,6,1,0,1,4,3,-2,15,7,0.467,1,0,0.0,6,4,0.667,107,96,0
+2202,2003,20300828,2004-02-25 20:00:00,Golden State,Warriors,Memphis,Grizzlies,Regular Season,0,1,38.0,24,1,7,6,1,2,3,4,0,9,15,8,0.533,2,1,0.5,7,7,1.0,92,99,0
+2202,2003,20300841,2004-02-27 20:00:00,Golden State,Warriors,Minnesota,Timberwolves,Regular Season,0,0,44.0,18,3,4,2,2,0,0,1,2,-7,18,8,0.444,1,1,1.0,2,1,0.5,91,81,0
+2202,2003,20300852,2004-02-28 20:30:00,Golden State,Warriors,Chicago,Bulls,Regular Season,0,0,48.0,25,5,9,7,2,2,1,4,4,1,25,8,0.32,4,1,0.25,14,8,0.571,87,81,0
+2202,2003,20300873,2004-03-02 22:30:00,Golden State,Warriors,Indiana,Pacers,Regular Season,1,0,43.0,19,4,9,7,2,0,1,4,3,-10,19,7,0.368,3,0,0.0,8,5,0.625,88,96,0
+2202,2003,20300895,2004-03-05 22:30:00,Golden State,Warriors,New Jersey,Nets,Regular Season,1,0,41.0,22,4,5,5,0,1,1,5,5,-2,18,10,0.556,4,0,0.0,3,2,0.667,74,78,0
+2202,2003,20300909,2004-03-07 21:00:00,Golden State,Warriors,Memphis,Grizzlies,Regular Season,1,0,37.0,17,6,6,5,1,0,0,4,1,6,17,5,0.294,2,0,0.0,10,7,0.7,85,95,0
+2202,2003,20300924,2004-03-09 22:00:00,Golden State,Warriors,Sacramento,Kings,Regular Season,0,0,41.0,18,6,7,4,3,1,1,3,5,-1,17,8,0.471,3,1,0.333,4,1,0.25,96,92,0
+2202,2003,20300934,2004-03-10 21:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,0,0,38.0,19,4,5,5,0,2,0,2,1,-7,17,7,0.412,1,0,0.0,7,5,0.714,91,77,0
+2202,2003,20300946,2004-03-12 20:30:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,0,0,34.0,8,4,9,6,3,0,0,6,1,-18,11,2,0.182,2,0,0.0,5,4,0.8,99,74,0
+2202,2003,20300951,2004-03-13 20:00:00,Golden State,Warriors,New Orleans,Hornets,Regular Season,0,0,33.0,18,2,4,1,3,0,0,2,3,-12,16,8,0.5,1,1,1.0,1,1,1.0,102,84,0
+2202,2003,20300965,2004-03-15 22:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,1,1,36.0,22,4,4,2,2,0,0,2,2,22,18,7,0.389,5,3,0.6,8,5,0.625,97,80,0
+2202,2003,20300982,2004-03-17 22:30:00,Golden State,Warriors,Orlando,Magic,Regular Season,1,1,32.0,14,5,5,5,0,1,1,2,1,10,13,5,0.385,2,0,0.0,6,4,0.667,110,85,0
+2202,2003,20300996,2004-03-19 22:30:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,1,29.0,7,2,11,8,3,0,2,1,3,-2,14,3,0.214,4,1,0.25,0,0,0.0,90,84,0
+2202,2003,20301006,2004-03-21 15:30:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,0,1,38.0,28,3,9,6,3,0,1,4,2,27,17,10,0.588,4,0,0.0,11,8,0.727,85,96,0
+2202,2003,20301034,2004-03-24 22:30:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,1,1,40.0,12,2,8,6,2,0,1,3,4,10,15,6,0.4,1,0,0.0,0,0,0.0,98,89,0
+2202,2003,20301047,2004-03-26 22:30:00,Golden State,Warriors,Washington,Wizards,Regular Season,1,1,38.0,16,5,9,7,2,1,2,1,1,19,13,5,0.385,2,0,0.0,6,6,1.0,99,78,0
+2202,2003,20301061,2004-03-28 21:00:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,1,1,30.0,20,6,6,3,3,1,5,3,4,22,19,8,0.421,4,1,0.25,8,3,0.375,105,77,0
+2202,2003,20301071,2004-03-30 19:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,0,0,28.0,8,2,5,3,2,0,0,4,2,-11,11,2,0.182,2,0,0.0,6,4,0.667,95,71,0
+2202,2003,20301081,2004-03-31 19:30:00,Golden State,Warriors,Toronto,Raptors,Regular Season,0,1,44.0,25,2,9,7,2,0,2,3,2,10,19,10,0.526,2,0,0.0,8,5,0.625,78,85,0
+2202,2003,20301090,2004-04-02 19:30:00,Golden State,Warriors,Boston,Celtics,Regular Season,0,0,40.0,25,5,11,8,3,2,0,2,4,1,18,9,0.5,7,6,0.857,6,1,0.167,111,106,0
+2202,2003,20301102,2004-04-03 19:30:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,0,1,42.0,35,5,4,4,0,2,1,3,2,0,18,12,0.667,2,0,0.0,13,11,0.846,100,103,0
+2202,2003,20301123,2004-04-06 22:30:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,1,39.0,19,5,9,8,1,0,0,0,3,2,15,6,0.4,4,1,0.25,8,6,0.75,97,90,0
+2202,2003,20301131,2004-04-07 22:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,40.0,15,6,12,7,5,0,1,3,1,-5,21,7,0.333,5,1,0.2,0,0,0.0,87,81,0
+2202,2003,20301146,2004-04-09 22:30:00,Golden State,Warriors,Minnesota,Timberwolves,Regular Season,1,0,38.0,11,3,8,7,1,0,0,3,1,-22,14,4,0.286,4,0,0.0,4,3,0.75,74,92,0
+2202,2003,20301159,2004-04-11 21:00:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,1,1,43.0,24,3,11,7,4,1,0,5,1,5,21,10,0.476,2,0,0.0,4,4,1.0,108,107,0
+2202,2003,20301175,2004-04-13 22:30:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,34.0,13,3,5,4,1,1,2,5,2,-10,15,5,0.333,5,1,0.2,2,2,1.0,109,104,0
+2202,2003,20301189,2004-04-14 22:30:00,Golden State,Warriors,Sacramento,Kings,Regular Season,1,1,38.0,28,3,8,5,3,1,3,5,2,10,25,12,0.48,5,1,0.2,5,3,0.6,97,91,0
+2202,2004,10400064,2004-10-22 19:30:00,Golden State,Warriors,Denver,Nuggets,Preseason,1,0,5.0,12,6,1,1,0,0,2,3,0,0,11,5,0.455,3,1,0.333,1,1,1.0,86,105,0
+2202,2004,10400087,2004-10-25 22:00:00,Golden State,Warriors,Portland,Trail Blazers,Preseason,0,1,5.0,26,5,6,4,2,0,2,2,0,0,22,10,0.455,4,1,0.25,6,5,0.832,84,87,0
+2202,2004,10400105,2004-10-27 22:30:00,Golden State,Warriors,Los Angeles,Clippers,Preseason,1,1,5.0,19,2,2,2,0,0,1,0,2,0,16,6,0.375,3,2,0.667,6,5,0.832,84,78,0
+2202,2004,20400016,2004-11-03 22:30:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,0,38.0,11,3,4,4,0,0,2,4,1,-7,17,4,0.235,2,0,0.0,4,3,0.75,75,78,0
+2202,2004,20400028,2004-11-05 22:30:00,Golden State,Warriors,Utah,Jazz,Regular Season,1,0,32.0,13,4,2,1,1,0,1,2,2,-33,14,5,0.357,2,0,0.0,4,3,0.75,80,102,0
+2202,2004,20400041,2004-11-06 22:30:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,1,0,30.0,15,2,6,6,0,0,1,1,4,-7,15,5,0.333,4,1,0.25,6,4,0.667,86,94,0
+2202,2004,20400045,2004-11-08 20:30:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,0,0,40.0,25,2,10,8,2,0,1,6,2,-4,25,11,0.44,6,3,0.5,0,0,0.0,101,98,0
+2202,2004,20400066,2004-11-10 20:30:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,0,0,26.0,13,1,6,6,0,0,1,2,1,-15,15,5,0.333,4,2,0.5,2,1,0.5,91,73,0
+2202,2004,20400076,2004-11-12 20:00:00,Golden State,Warriors,Memphis,Grizzlies,Regular Season,0,0,26.0,5,4,6,3,3,1,1,2,3,-15,9,1,0.111,4,1,0.25,2,2,1.0,96,67,0
+2202,2004,20400082,2004-11-13 19:00:00,Golden State,Warriors,Charlotte,Bobcats,Regular Season,0,1,37.0,27,4,3,3,0,1,0,1,3,13,21,11,0.524,5,2,0.4,3,3,1.0,87,103,0
+2202,2004,20400096,2004-11-15 19:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,0,0,40.0,27,2,5,5,0,0,0,3,1,-12,25,12,0.48,4,1,0.25,3,2,0.667,99,88,0
+2202,2004,20400116,2004-11-17 22:30:00,Golden State,Warriors,Chicago,Bulls,Regular Season,1,1,40.0,27,4,8,6,2,2,3,3,2,18,24,11,0.458,7,4,0.571,4,1,0.25,98,85,0
+2202,2004,20400135,2004-11-20 22:30:00,Golden State,Warriors,Memphis,Grizzlies,Regular Season,1,0,41.0,13,6,5,3,2,1,3,6,4,-10,15,5,0.333,5,0,0.0,5,3,0.6,87,100,0
+2202,2004,20400159,2004-11-23 22:30:00,Golden State,Warriors,New Orleans,Hornets,Regular Season,1,1,49.0,26,7,12,8,4,1,0,1,5,-6,28,10,0.357,7,3,0.429,6,3,0.5,115,109,0
+2202,2004,20400182,2004-11-26 22:30:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,1,0,39.0,17,4,7,3,4,0,1,2,0,-8,20,8,0.4,5,0,0.0,2,1,0.5,87,98,0
+2202,2004,20400193,2004-11-28 15:30:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,0,0,31.0,17,1,5,4,1,0,2,3,1,-18,16,7,0.438,3,2,0.667,2,1,0.5,103,91,0
+2202,2004,20400221,2004-12-01 22:30:00,Golden State,Warriors,Minnesota,Timberwolves,Regular Season,1,0,39.0,21,7,5,5,0,0,1,1,1,-5,18,9,0.5,3,1,0.333,3,2,0.667,99,107,0
+2202,2004,20400231,2004-12-03 22:30:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,39.0,22,7,1,0,1,0,2,4,2,-8,23,8,0.348,3,0,0.0,7,6,0.857,97,88,0
+2202,2004,20400244,2004-12-04 22:30:00,Golden State,Warriors,Indiana,Pacers,Regular Season,1,1,30.0,19,1,5,3,2,0,1,4,3,-7,16,8,0.5,3,0,0.0,4,3,0.75,104,96,0
+2202,2004,20400255,2004-12-06 22:30:00,Golden State,Warriors,Boston,Celtics,Regular Season,1,1,39.0,17,4,7,4,3,0,1,4,3,0,19,7,0.368,4,1,0.25,4,2,0.5,110,106,0
+2202,2004,20400261,2004-12-07 21:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,38.0,32,2,10,9,1,1,3,1,2,-11,21,13,0.619,7,4,0.571,4,2,0.5,118,104,0
+2202,2004,20400286,2004-12-10 22:30:00,Golden State,Warriors,Orlando,Magic,Regular Season,1,0,33.0,27,2,5,3,2,3,0,1,4,7,17,10,0.588,5,3,0.6,6,4,0.667,109,113,0
+2202,2004,20400300,2004-12-12 21:00:00,Golden State,Warriors,Charlotte,Bobcats,Regular Season,1,1,37.0,24,2,8,3,5,0,2,3,3,13,19,11,0.579,4,1,0.25,2,1,0.5,99,87,0
+2202,2004,20400313,2004-12-14 20:30:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,0,1,38.0,14,7,8,3,5,0,3,2,5,8,14,7,0.5,2,0,0.0,0,0,0.0,107,111,0
+2202,2004,20400322,2004-12-15 20:00:00,Golden State,Warriors,New Orleans,Hornets,Regular Season,0,0,35.0,15,3,6,4,2,1,0,3,4,-5,22,6,0.273,9,2,0.222,2,1,0.5,98,89,0
+2202,2004,20400337,2004-12-17 20:30:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,0,31.0,25,1,5,2,3,0,1,0,0,-16,20,10,0.5,3,1,0.333,5,4,0.8,100,83,0
+2202,2004,20400347,2004-12-18 20:30:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,0,0,41.0,22,2,10,5,5,2,1,5,3,-23,19,10,0.526,2,1,0.5,4,1,0.25,104,85,0
+2202,2004,20400359,2004-12-20 22:30:00,Golden State,Warriors,Washington,Wizards,Regular Season,1,0,38.0,26,3,8,5,3,0,2,2,3,3,20,11,0.55,2,0,0.0,6,4,0.667,101,103,0
+2202,2004,20400375,2004-12-22 22:00:00,Golden State,Warriors,Memphis,Grizzlies,Regular Season,1,1,45.0,24,5,6,4,2,1,1,2,2,11,18,6,0.333,4,2,0.5,12,10,0.833,109,99,0
+2202,2004,20400391,2004-12-26 21:00:00,Golden State,Warriors,Sacramento,Kings,Regular Season,0,1,40.0,26,4,6,6,0,0,5,6,1,5,19,9,0.474,4,0,0.0,13,8,0.615,94,98,0
+2202,2004,20400400,2004-12-27 22:30:00,Golden State,Warriors,Denver,Nuggets,Regular Season,1,1,36.0,18,2,7,5,2,0,1,4,4,-8,16,7,0.438,2,0,0.0,6,4,0.667,104,101,0
+2202,2004,20400416,2004-12-29 22:30:00,Golden State,Warriors,Toronto,Raptors,Regular Season,1,1,45.0,35,3,8,7,1,1,1,2,2,9,19,12,0.632,5,2,0.4,12,9,0.75,111,105,0
+2202,2004,20400431,2005-01-01 22:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,97,88,0
+2202,2004,20400447,2005-01-03 22:30:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,104,112,0
+2202,2004,20400453,2005-01-05 19:00:00,Golden State,Warriors,Boston,Celtics,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,84,83,0
+2202,2004,20400471,2005-01-07 19:30:00,Golden State,Warriors,New Jersey,Nets,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,82,72,0
+2202,2004,20400487,2005-01-09 13:00:00,Golden State,Warriors,Toronto,Raptors,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,109,87,0
+2202,2004,20400495,2005-01-10 20:30:00,Golden State,Warriors,Chicago,Bulls,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,94,85,0
+2202,2004,20400515,2005-01-12 22:30:00,Golden State,Warriors,Miami,Heat,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,91,98,0
+2202,2004,20400541,2005-01-15 22:30:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,102,104,0
+2202,2004,20400554,2005-01-17 22:30:00,Golden State,Warriors,Denver,Nuggets,Regular Season,1,1,39.0,42,8,3,1,2,1,3,1,1,18,30,17,0.567,9,2,0.222,7,6,0.857,107,97,0
+2202,2004,20400582,2005-01-21 22:30:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,41.0,26,5,5,4,1,0,3,3,3,-1,26,10,0.385,9,4,0.444,4,2,0.5,105,101,0
+2202,2004,20400591,2005-01-22 22:30:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,1,0,42.0,22,3,2,2,0,0,0,3,2,-19,19,10,0.526,4,0,0.0,3,2,0.667,87,105,0
+2202,2004,20400623,2005-01-26 22:30:00,Golden State,Warriors,New Jersey,Nets,Regular Season,1,0,42.0,31,3,7,3,4,0,1,2,2,-15,25,12,0.48,8,4,0.5,4,3,0.75,99,113,0
+2202,2004,20400638,2005-01-28 22:30:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,0,40.0,20,5,5,2,3,0,3,1,1,2,23,9,0.391,5,1,0.2,2,1,0.5,85,88,0
+2202,2004,20400647,2005-01-29 22:30:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,0,0,38.0,29,6,7,3,4,0,1,1,2,-6,26,12,0.462,7,3,0.429,2,2,1.0,96,85,0
+2202,2004,20400676,2005-02-02 22:30:00,Golden State,Warriors,Sacramento,Kings,Regular Season,1,0,43.0,37,5,8,3,5,1,0,2,4,-1,26,15,0.577,8,2,0.25,11,5,0.455,107,111,0
+2202,2004,20400688,2005-02-04 22:30:00,Golden State,Warriors,New Orleans,Hornets,Regular Season,1,1,40.0,25,3,5,3,2,0,1,4,1,-3,24,9,0.375,2,0,0.0,7,7,1.0,90,82,0
+2202,2004,20400694,2005-02-05 21:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,0,0,31.0,13,5,5,2,3,0,2,1,2,-15,15,5,0.333,3,0,0.0,6,3,0.5,107,91,0
+2202,2004,20400706,2005-02-07 19:30:00,Golden State,Warriors,Miami,Heat,Regular Season,0,0,38.0,21,6,6,5,1,0,2,1,5,-16,22,9,0.409,5,1,0.2,2,2,1.0,105,96,0
+2202,2004,20400709,2005-02-08 19:00:00,Golden State,Warriors,Orlando,Magic,Regular Season,0,1,37.0,32,4,11,10,1,0,3,4,2,4,22,11,0.5,4,0,0.0,11,10,0.909,109,113,0
+2202,2004,20400738,2005-02-11 20:00:00,Golden State,Warriors,New Orleans,Hornets,Regular Season,0,0,41.0,20,2,7,5,2,1,3,3,2,-2,18,8,0.444,6,2,0.333,2,2,1.0,111,108,0
+2202,2004,20400756,2005-02-13 21:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,0,39.0,18,5,12,8,4,0,3,2,3,-17,27,7,0.259,9,2,0.222,2,2,1.0,102,106,0
+2202,2004,20400768,2005-02-15 22:30:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,1,0,40.0,26,7,5,4,1,0,3,3,0,-8,18,11,0.611,7,3,0.429,3,1,0.333,107,114,0
+2202,2004,20400779,2005-02-16 21:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,1,40.0,30,5,7,6,1,0,4,1,2,13,23,12,0.522,8,3,0.375,5,3,0.6,110,117,0
+2202,2004,20400800,2005-02-23 22:30:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,1,1,39.0,31,1,5,3,2,1,4,3,1,0,19,9,0.474,9,5,0.556,8,8,1.0,101,96,0
+2202,2004,20400828,2005-02-27 21:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,1,0,45.0,25,5,7,6,1,1,0,3,1,0,17,9,0.529,8,4,0.5,4,3,0.75,88,94,0
+2202,2004,20400834,2005-03-01 14:00:00,Golden State,Warriors,Memphis,Grizzlies,Regular Season,0,0,37.0,29,2,5,4,1,0,2,4,3,-1,20,11,0.55,6,5,0.833,2,2,1.0,99,97,0
+2202,2004,20400846,2005-03-02 20:00:00,Golden State,Warriors,Minnesota,Timberwolves,Regular Season,0,1,37.0,21,3,6,6,0,0,0,2,1,1,15,8,0.533,5,2,0.4,4,3,0.75,93,99,0
+2202,2004,20400855,2005-03-04 19:00:00,Golden State,Warriors,Washington,Wizards,Regular Season,0,1,40.0,34,4,8,5,3,3,2,3,1,19,19,12,0.632,11,6,0.545,5,4,0.8,90,103,0
+2202,2004,20400877,2005-03-06 19:30:00,Golden State,Warriors,New York,Knicks,Regular Season,0,0,36.0,24,6,3,2,1,1,0,1,2,-15,16,9,0.563,6,3,0.5,4,3,0.75,115,99,0
+2202,2004,20400886,2005-03-08 19:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,0,1,39.0,22,7,6,6,0,1,5,6,1,13,20,8,0.4,10,4,0.4,2,2,1.0,85,104,0
+2202,2004,20400898,2005-03-09 19:30:00,Golden State,Warriors,Detroit,Pistons,Regular Season,0,0,39.0,10,5,3,2,1,0,1,0,2,-6,17,4,0.235,6,0,0.0,4,2,0.5,92,88,0
+2202,2004,20400907,2005-03-11 19:00:00,Golden State,Warriors,Indiana,Pacers,Regular Season,0,0,23.0,5,0,1,1,0,1,0,2,4,-25,6,2,0.333,4,1,0.25,0,0,0.0,101,83,0
+2202,2004,20400916,2005-03-12 19:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,0,1,36.0,22,4,3,1,2,1,3,2,2,19,16,9,0.563,5,2,0.4,3,2,0.667,92,105,0
+2202,2004,20400936,2005-03-14 22:30:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,0,44.0,13,8,11,11,0,0,1,1,2,-2,17,5,0.294,7,2,0.286,2,1,0.5,94,97,0
+2202,2004,20400956,2005-03-17 22:30:00,Golden State,Warriors,Sacramento,Kings,Regular Season,1,1,43.0,40,5,10,8,2,1,2,2,2,13,28,16,0.571,5,3,0.6,5,5,1.0,100,97,0
+2202,2004,20400968,2005-03-18 21:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,1,40.0,19,1,10,8,2,0,1,1,1,4,13,6,0.462,4,1,0.25,6,6,1.0,100,110,0
+2202,2004,20400983,2005-03-20 21:00:00,Golden State,Warriors,Sacramento,Kings,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,94,104,0
+2202,2004,20401005,2005-03-23 22:30:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,1,0,42.0,11,5,5,4,1,0,1,1,1,-17,17,5,0.294,6,1,0.167,1,0,0.0,97,109,0
+2202,2004,20401020,2005-03-25 22:30:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,1,1,39.0,24,8,3,3,0,0,1,4,4,1,22,11,0.5,6,2,0.333,2,0,0.0,118,117,0
+2202,2004,20401047,2005-03-28 22:30:00,Golden State,Warriors,New York,Knicks,Regular Season,1,1,38.0,12,6,4,3,1,0,1,1,3,1,12,4,0.333,4,1,0.25,6,3,0.5,108,100,0
+2202,2004,20401058,2005-03-30 20:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,0,1,39.0,18,2,5,3,2,1,0,1,0,3,16,7,0.438,3,0,0.0,5,4,0.8,109,113,0
+2202,2004,20401075,2005-04-01 21:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,0,1,27.0,18,3,4,2,2,0,1,1,2,24,17,7,0.412,4,1,0.25,3,3,1.0,91,108,0
+2202,2004,20401091,2005-04-03 18:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,1,41.0,22,5,5,3,2,0,0,4,1,9,17,10,0.588,3,1,0.333,1,1,1.0,101,92,0
+2202,2004,20401105,2005-04-05 22:30:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,1,37.0,20,2,5,2,3,0,2,2,2,-4,16,8,0.5,5,1,0.2,6,3,0.5,122,117,0
+2202,2004,20401115,2005-04-06 22:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,1,36.0,12,5,6,5,1,1,1,0,3,-5,16,5,0.313,4,2,0.5,2,0,0.0,102,104,0
+2202,2004,20401129,2005-04-08 22:30:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,1,39.0,28,3,7,6,1,1,1,2,1,24,23,11,0.478,5,3,0.6,3,3,1.0,127,119,0
+2202,2004,20401145,2005-04-10 21:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,1,0,43.0,23,4,7,5,2,0,1,2,3,-3,20,9,0.45,3,2,0.667,6,3,0.5,134,136,0
+2202,2004,20401152,2005-04-11 21:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,0,0,34.0,26,4,3,2,1,0,1,1,3,-15,21,10,0.476,9,5,0.556,2,1,0.5,122,106,0
+2202,2004,20401165,2005-04-13 20:00:00,Golden State,Warriors,Minnesota,Timberwolves,Regular Season,0,0,25.0,10,3,1,1,0,1,0,0,1,-12,11,3,0.273,5,2,0.4,2,2,1.0,116,100,0
+2202,2004,20401183,2005-04-15 22:30:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,28.0,10,4,3,2,1,0,1,4,0,13,17,4,0.235,3,0,0.0,6,2,0.333,108,88,0
+2202,2004,20401208,2005-04-18 22:30:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,1,27.0,17,2,2,1,1,0,0,2,1,0,18,7,0.389,6,1,0.167,2,2,1.0,126,99,0
+2202,2004,20401229,2005-04-20 22:30:00,Golden State,Warriors,Utah,Jazz,Regular Season,1,1,30.0,18,3,7,5,2,0,0,2,5,20,14,5,0.357,4,1,0.25,9,7,0.778,106,89,0
+2202,2005,10500006,2005-10-11 22:00:00,Golden State,Warriors,Los Angeles,Lakers,Preseason,0,0,27.0,14,3,4,2,2,0,0,2,1,0,13,6,0.462,4,1,0.25,1,1,1.0,101,93,0
+2202,2005,10500012,2005-10-12 00:00:00,Golden State,Warriors,Los Angeles,Lakers,Preseason,0,1,16.0,11,0,2,2,0,1,2,1,0,0,7,3,0.428,1,0,0.0,5,5,1.0,81,112,0
+2202,2005,10500060,2005-10-19 22:30:00,Golden State,Warriors,Phoenix,Suns,Preseason,1,1,31.0,18,2,5,4,1,1,0,2,1,0,15,7,0.467,3,1,0.333,6,3,0.5,108,96,0
+2202,2005,10500081,2005-10-22 22:30:00,Golden State,Warriors,Seattle,SuperSonics,Preseason,1,0,27.0,12,1,2,1,1,0,0,3,0,0,13,4,0.307,4,1,0.25,3,3,1.0,95,108,0
+2202,2005,10500091,2005-10-24 21:30:00,Golden State,Warriors,Los Angeles,Clippers,Preseason,1,0,30.0,12,1,1,1,0,2,1,4,5,0,15,5,0.333,1,0,0.0,2,2,1.0,82,112,0
+2202,2005,10500106,2005-10-27 22:30:00,Golden State,Warriors,Phoenix,Suns,Preseason,0,0,39.0,22,1,8,6,2,0,3,2,2,0,17,8,0.47,3,2,0.667,5,4,0.8,97,92,0
+2202,2005,20500017,2005-11-02 22:30:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,1,1,41.0,28,2,6,4,2,2,1,2,2,21,23,11,0.478,6,2,0.333,5,4,0.8,122,97,0
+2202,2005,20500029,2005-11-04 22:30:00,Golden State,Warriors,Utah,Jazz,Regular Season,1,0,41.0,18,1,7,4,3,2,0,4,5,-8,20,8,0.4,5,1,0.2,3,1,0.333,85,91,0
+2202,2005,20500043,2005-11-06 13:00:00,Golden State,Warriors,New York,Knicks,Regular Season,0,1,34.0,24,0,5,4,1,1,1,3,5,10,15,8,0.533,4,2,0.5,11,6,0.545,81,83,0
+2202,2005,20500052,2005-11-08 20:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,0,1,42.0,23,1,14,11,3,0,0,1,3,16,16,8,0.5,3,2,0.667,8,5,0.625,103,110,0
+2202,2005,20500065,2005-11-09 20:30:00,Golden State,Warriors,Chicago,Bulls,Regular Season,0,0,34.0,15,3,5,3,2,1,1,2,2,1,19,6,0.316,5,1,0.2,2,2,1.0,85,84,0
+2202,2005,20500079,2005-11-11 22:30:00,Golden State,Warriors,New York,Knicks,Regular Season,1,1,43.0,24,6,3,2,1,1,0,3,2,7,21,9,0.429,9,3,0.333,6,3,0.5,86,84,0
+2202,2005,20500088,2005-11-12 21:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,36.0,11,4,14,11,3,2,2,3,4,-13,19,5,0.263,6,1,0.167,0,0,0.0,101,86,0
+2202,2005,20500097,2005-11-14 22:30:00,Golden State,Warriors,Chicago,Bulls,Regular Season,1,1,40.0,32,2,6,5,1,0,1,3,3,18,21,12,0.571,5,2,0.4,7,6,0.857,100,82,0
+2202,2005,20500116,2005-11-16 22:30:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,1,0,40.0,21,2,8,7,1,0,2,2,2,1,17,8,0.471,7,1,0.143,4,4,1.0,87,90,0
+2202,2005,20500129,2005-11-18 22:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,1,42.0,28,2,7,4,3,0,3,1,1,4,21,10,0.476,8,4,0.5,7,4,0.571,80,91,0
+2202,2005,20500141,2005-11-20 15:30:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,0,0,41.0,20,1,5,4,1,0,1,1,1,-15,21,7,0.333,7,1,0.143,6,5,0.833,113,101,0
+2202,2005,20500149,2005-11-21 22:30:00,Golden State,Warriors,New Jersey,Nets,Regular Season,1,1,36.0,25,2,4,3,1,0,1,2,5,-1,15,8,0.533,10,5,0.5,6,4,0.667,100,97,0
+2202,2005,20500166,2005-11-23 22:30:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,1,0,29.0,10,3,2,2,0,0,0,1,2,-21,10,3,0.3,3,0,0.0,4,4,1.0,89,113,0
+2202,2005,20500178,2005-11-25 21:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,0,1,35.0,29,1,5,5,0,0,0,2,5,4,20,11,0.55,8,4,0.5,7,3,0.429,90,94,0
+2202,2005,20500189,2005-11-26 22:30:00,Golden State,Warriors,Toronto,Raptors,Regular Season,1,1,32.0,25,2,6,4,2,0,0,0,2,22,18,10,0.556,5,1,0.2,5,4,0.8,117,91,0
+2202,2005,20500197,2005-11-28 22:30:00,Golden State,Warriors,Oklahoma City,Hornets,Regular Season,1,1,39.0,17,5,8,5,3,0,2,0,4,14,20,7,0.35,3,0,0.0,5,3,0.6,99,83,0
+2202,2005,20500216,2005-11-30 22:30:00,Golden State,Warriors,Sacramento,Kings,Regular Season,1,1,43.0,33,6,6,6,0,1,2,1,3,11,27,13,0.481,7,1,0.143,8,6,0.75,113,106,0
+2202,2005,20500229,2005-12-02 22:30:00,Golden State,Warriors,Charlotte,Bobcats,Regular Season,1,1,38.0,22,2,6,4,2,0,3,2,4,0,21,8,0.381,5,0,0.0,8,6,0.75,107,100,0
+2202,2005,20500267,2005-12-07 22:30:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,0,40.0,17,4,9,9,0,0,3,5,2,4,18,7,0.389,3,1,0.333,4,2,0.5,110,118,0
+2202,2005,20500279,2005-12-09 22:30:00,Golden State,Warriors,Detroit,Pistons,Regular Season,1,0,42.0,36,1,6,4,2,2,1,3,1,1,26,15,0.577,5,2,0.4,4,4,1.0,103,106,0
+2202,2005,20500306,2005-12-13 22:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,1,43.0,16,2,5,3,2,0,2,5,3,-5,17,7,0.412,5,1,0.2,3,1,0.333,107,110,0
+2202,2005,20500318,2005-12-14 22:30:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,0,43.0,28,4,9,6,3,0,1,1,5,-5,26,12,0.462,8,4,0.5,0,0,0.0,105,111,0
+2202,2005,20500322,2005-12-16 19:00:00,Golden State,Warriors,Toronto,Raptors,Regular Season,0,1,35.0,23,3,1,0,1,0,0,2,4,5,16,7,0.438,7,4,0.571,8,5,0.625,98,108,0
+2202,2005,20500343,2005-12-18 18:00:00,Golden State,Warriors,New Jersey,Nets,Regular Season,0,0,28.0,12,2,2,2,0,0,1,0,2,-27,12,4,0.333,4,1,0.25,4,3,0.75,118,90,0
+2202,2005,20500348,2005-12-19 19:30:00,Golden State,Warriors,Boston,Celtics,Regular Season,0,0,41.0,23,2,0,0,0,0,5,2,4,-1,25,10,0.4,6,3,0.5,0,0,0.0,109,98,0
+2202,2005,20500360,2005-12-21 19:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,0,0,40.0,24,6,4,3,1,0,0,4,4,-13,18,8,0.444,7,3,0.429,6,5,0.833,111,100,0
+2202,2005,20500376,2005-12-23 20:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,0,0,35.0,14,2,9,6,3,2,1,2,5,-9,15,5,0.333,5,3,0.6,2,1,0.5,97,85,0
+2202,2005,20500396,2005-12-26 22:30:00,Golden State,Warriors,Denver,Nuggets,Regular Season,1,0,41.0,26,2,12,8,4,0,3,4,4,-1,20,10,0.5,5,3,0.6,6,3,0.5,112,118,0
+2202,2005,20500413,2005-12-28 22:30:00,Golden State,Warriors,Boston,Celtics,Regular Season,1,1,42.0,36,4,4,3,1,1,5,2,2,4,24,16,0.667,6,3,0.5,1,1,1.0,111,109,0
+2202,2005,20500423,2005-12-30 20:30:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,0,1,39.0,32,3,8,7,1,1,0,0,4,10,26,12,0.462,7,3,0.429,5,5,1.0,109,111,0
+2202,2005,20500429,2005-12-31 19:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,1,41.0,22,5,6,4,2,0,2,1,4,9,22,9,0.409,6,2,0.333,2,2,1.0,89,94,0
+2202,2005,20500444,2006-01-03 20:00:00,Golden State,Warriors,Memphis,Grizzlies,Regular Season,0,0,43.0,20,3,3,3,0,1,1,1,2,-7,19,8,0.421,10,4,0.4,0,0,0.0,104,94,0
+2202,2005,20500458,2006-01-05 22:30:00,Golden State,Warriors,Indiana,Pacers,Regular Season,1,0,32.0,17,1,3,2,1,2,1,2,5,-1,14,6,0.429,6,1,0.167,8,4,0.5,89,99,0
+2202,2005,20500509,2006-01-11 22:30:00,Golden State,Warriors,Miami,Heat,Regular Season,1,0,34.0,15,4,5,4,1,0,0,1,1,-11,13,4,0.308,4,1,0.25,8,6,0.75,96,110,0
+2202,2005,20500511,2006-01-12 21:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,38.0,12,4,7,6,1,2,1,1,0,-6,14,5,0.357,5,1,0.2,3,1,0.333,112,99,0
+2202,2005,20500532,2006-01-14 22:30:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,0,43.0,37,0,4,2,2,1,4,2,4,-9,27,14,0.519,10,5,0.5,10,4,0.4,104,110,0
+2202,2005,20500544,2006-01-16 16:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,1,35.0,26,4,5,3,2,0,0,1,1,23,16,10,0.625,4,1,0.25,7,5,0.714,109,93,0
+2202,2005,20500575,2006-01-20 22:30:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,1,1,39.0,22,5,5,4,1,0,3,4,2,10,17,7,0.412,3,3,1.0,7,5,0.714,99,79,0
+2202,2005,20500586,2006-01-22 15:30:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,0,0,39.0,23,2,5,4,1,0,1,3,2,-6,16,8,0.5,6,4,0.667,4,3,0.75,105,92,0
+2202,2005,20500597,2006-01-23 22:30:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,1,0,39.0,30,4,5,3,2,1,1,1,1,9,20,11,0.55,6,4,0.667,5,4,0.8,93,96,0
+2202,2005,20500615,2006-01-25 22:30:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,1,0,35.0,17,4,6,4,2,0,0,1,3,2,14,6,0.429,5,2,0.4,8,3,0.375,93,102,0
+2202,2005,20500631,2006-01-27 22:30:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,106,105,0
+2202,2005,20500640,2006-01-28 22:30:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,98,83,0
+2202,2005,20500673,2006-02-01 22:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,111,107,0
+2202,2005,20500675,2006-02-02 22:30:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,86,89,0
+2202,2005,20500694,2006-02-04 22:30:00,Golden State,Warriors,Minnesota,Timberwolves,Regular Season,1,1,29.0,23,1,7,6,1,0,1,2,1,24,14,7,0.5,3,2,0.667,7,7,1.0,109,77,0
+2202,2005,20500705,2006-02-06 22:30:00,Golden State,Warriors,Denver,Nuggets,Regular Season,1,1,34.0,28,3,7,5,2,1,2,2,5,-7,20,10,0.5,5,3,0.6,8,5,0.625,122,114,0
+2202,2005,20500712,2006-02-08 19:00:00,Golden State,Warriors,Washington,Wizards,Regular Season,0,0,35.0,31,2,3,2,1,0,1,2,6,-1,20,13,0.65,7,3,0.429,2,2,1.0,129,124,0
+2202,2005,20500730,2006-02-10 20:00:00,Golden State,Warriors,Indiana,Pacers,Regular Season,0,0,40.0,16,2,7,5,2,1,0,3,2,-16,16,5,0.313,7,2,0.286,5,4,0.8,107,95,0
+2202,2005,20500737,2006-02-11 19:30:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,0,1,41.0,31,1,8,6,2,0,0,2,3,2,26,12,0.462,6,3,0.5,8,4,0.5,91,99,0
+2202,2005,20500757,2006-02-13 22:30:00,Golden State,Warriors,Memphis,Grizzlies,Regular Season,1,0,35.0,10,2,10,10,0,1,1,3,2,0,13,3,0.231,7,2,0.286,2,2,1.0,79,81,0
+2202,2005,20500776,2006-02-15 22:30:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,1,1,42.0,20,2,10,7,3,1,3,3,1,3,19,7,0.368,3,0,0.0,13,6,0.462,88,81,0
+2202,2005,20500789,2006-02-21 22:00:00,Golden State,Warriors,Sacramento,Kings,Regular Season,0,0,31.0,15,2,5,5,0,1,1,2,1,-1,20,6,0.3,6,2,0.333,2,1,0.5,102,77,0
+2202,2005,20500811,2006-02-24 20:30:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,0,41.0,39,4,8,5,3,0,2,2,2,3,26,14,0.538,11,7,0.636,8,4,0.5,91,88,0
+2202,2005,20500819,2006-02-25 20:30:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,0,0,27.0,10,3,6,6,0,1,1,2,3,-20,11,4,0.364,4,2,0.5,2,0,0.0,92,75,0
+2202,2005,20500838,2006-02-27 22:30:00,Golden State,Warriors,Utah,Jazz,Regular Season,1,0,46.0,35,6,7,7,0,1,0,2,2,-7,23,14,0.609,8,4,0.5,4,3,0.75,108,117,0
+2202,2005,20500854,2006-03-01 22:30:00,Golden State,Warriors,Orlando,Magic,Regular Season,1,1,41.0,25,6,9,8,1,1,1,1,3,4,15,6,0.4,6,3,0.5,12,10,0.833,98,94,0
+2202,2005,20500865,2006-03-03 22:30:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,0,39.0,27,6,5,3,2,0,3,1,4,-7,26,9,0.346,13,5,0.385,4,4,1.0,94,106,0
+2202,2005,20500878,2006-03-05 15:30:00,Golden State,Warriors,Minnesota,Timberwolves,Regular Season,0,0,44.0,36,1,6,5,1,0,3,1,4,-14,27,13,0.481,12,7,0.583,4,3,0.75,103,90,0
+2202,2005,20500890,2006-03-07 19:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,0,0,42.0,42,4,7,5,2,1,2,2,4,-8,29,16,0.552,11,4,0.364,9,6,0.667,113,106,0
+2202,2005,20500899,2006-03-08 19:30:00,Golden State,Warriors,Charlotte,Bobcats,Regular Season,0,0,37.0,27,5,4,3,1,0,1,5,3,-3,23,11,0.478,6,2,0.333,3,3,1.0,104,101,0
+2202,2005,20500913,2006-03-10 19:30:00,Golden State,Warriors,Miami,Heat,Regular Season,0,1,38.0,44,3,6,5,1,0,0,3,1,3,26,17,0.654,7,6,0.857,10,4,0.4,106,111,0
+2202,2005,20500921,2006-03-11 19:00:00,Golden State,Warriors,Orlando,Magic,Regular Season,0,0,31.0,11,5,3,2,1,0,1,2,2,-3,14,4,0.286,8,2,0.25,2,1,0.5,103,92,0
+2202,2005,20500961,2006-03-16 22:30:00,Golden State,Warriors,Minnesota,Timberwolves,Regular Season,1,1,40.0,15,3,7,5,2,0,1,5,2,6,16,5,0.313,5,2,0.4,7,3,0.429,105,97,0
+2202,2005,20500986,2006-03-19 16:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,1,1,37.0,23,2,4,4,0,0,1,2,1,14,19,8,0.421,6,2,0.333,6,5,0.833,98,89,0
+2202,2005,20500999,2006-03-21 20:30:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,0,0,38.0,20,3,5,3,2,0,0,2,3,-2,18,5,0.278,5,1,0.2,11,9,0.818,107,96,0
+2202,2005,20501014,2006-03-23 20:30:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,0,1,40.0,40,4,3,2,1,1,3,1,1,3,23,14,0.609,10,5,0.5,8,7,0.875,121,122,0
+2202,2005,20501040,2006-03-26 21:00:00,Golden State,Warriors,Sacramento,Kings,Regular Season,0,1,38.0,16,5,8,7,1,2,0,3,1,13,19,5,0.263,6,1,0.167,7,5,0.714,83,90,0
+2202,2005,20501046,2006-03-27 22:30:00,Golden State,Warriors,Washington,Wizards,Regular Season,1,0,38.0,18,2,5,3,2,0,1,4,3,-14,21,8,0.381,8,2,0.25,2,0,0.0,98,116,0
+2202,2005,20501064,2006-03-29 22:30:00,Golden State,Warriors,Oklahoma City,Hornets,Regular Season,1,0,40.0,19,5,7,5,2,1,1,3,3,6,19,6,0.316,6,2,0.333,6,5,0.833,85,86,0
+2202,2005,20501077,2006-03-31 22:30:00,Golden State,Warriors,Sacramento,Kings,Regular Season,1,0,37.0,17,5,1,0,1,1,2,2,2,-7,17,7,0.412,8,2,0.25,3,1,0.333,93,96,0
+2202,2005,20501088,2006-04-02 15:30:00,Golden State,Warriors,Minnesota,Timberwolves,Regular Season,0,0,44.0,33,6,5,3,2,0,1,5,5,17,23,11,0.478,14,4,0.286,7,7,1.0,106,104,0
+2202,2005,20501102,2006-04-04 20:00:00,Golden State,Warriors,Memphis,Grizzlies,Regular Season,0,0,33.0,9,4,4,3,1,0,1,1,2,-14,15,4,0.267,3,1,0.333,2,0,0.0,100,75,0
+2202,2005,20501114,2006-04-05 20:00:00,Golden State,Warriors,Oklahoma City,Hornets,Regular Season,0,0,45.0,24,8,6,5,1,0,0,1,5,-2,21,8,0.381,9,3,0.333,7,5,0.714,114,109,0
+2202,2005,20501132,2006-04-07 22:30:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,0,36.0,29,4,5,5,0,0,0,5,3,-2,18,10,0.556,8,4,0.5,6,5,0.833,93,100,0
+2202,2005,20501137,2006-04-08 21:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,95,92,0
+2202,2005,20501161,2006-04-11 22:30:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,29.0,20,0,2,1,1,0,1,4,0,-15,17,7,0.412,5,2,0.4,8,4,0.5,111,100,0
+2202,2005,20501173,2006-04-12 22:30:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,1,1,34.0,25,1,5,3,2,0,2,6,3,23,15,7,0.467,4,1,0.25,12,10,0.833,114,102,0
+2202,2005,20501186,2006-04-14 22:30:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,1,42.0,27,5,9,8,1,0,2,0,2,10,24,11,0.458,8,2,0.25,4,3,0.75,110,102,0
+2202,2005,20501193,2006-04-15 22:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,81,86,0
+2202,2005,20501211,2006-04-17 22:30:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,23.0,3,1,4,3,1,0,2,2,1,6,6,1,0.167,3,0,0.0,2,1,0.5,93,79,0
+2202,2005,20501227,2006-04-19 21:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,105,102,0
+2202,2006,20600015,2006-11-01 22:30:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,0,26.0,15,2,5,4,1,0,0,2,4,-8,13,5,0.385,5,1,0.2,6,4,0.667,98,110,0
+2202,2006,20600030,2006-11-03 22:30:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,29.0,8,5,5,4,1,1,0,2,2,6,9,3,0.333,3,1,0.333,1,1,1.0,102,89,0
+2202,2006,20600037,2006-11-04 21:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,0,0,29.0,11,1,4,3,1,0,0,2,4,-16,14,4,0.286,4,2,0.5,5,1,0.2,106,82,0
+2202,2006,20600048,2006-11-06 20:30:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,0,1,34.0,22,2,7,5,2,0,1,4,3,3,19,7,0.368,3,1,0.333,8,7,0.875,104,107,0
+2202,2006,20600056,2006-11-07 20:00:00,Golden State,Warriors,Oklahoma City,Hornets,Regular Season,0,0,24.0,6,1,1,1,0,0,1,1,4,-11,9,2,0.222,4,0,0.0,2,2,1.0,97,93,0
+2202,2006,20600071,2006-11-09 22:30:00,Golden State,Warriors,Oklahoma City,Hornets,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,121,116,0
+2202,2006,20600089,2006-11-11 22:30:00,Golden State,Warriors,Detroit,Pistons,Regular Season,1,1,31.0,16,4,9,6,3,0,0,0,1,29,13,6,0.462,5,2,0.4,2,2,1.0,111,79,0
+2202,2006,20600107,2006-11-14 22:30:00,Golden State,Warriors,Toronto,Raptors,Regular Season,1,1,35.0,14,1,5,3,2,0,1,0,0,7,13,4,0.308,7,3,0.429,4,3,0.75,110,99,0
+2202,2006,20600118,2006-11-16 22:30:00,Golden State,Warriors,Sacramento,Kings,Regular Season,1,1,30.0,16,3,3,2,1,0,0,1,3,8,11,6,0.545,6,2,0.333,4,2,0.5,117,105,0
+2202,2006,20600141,2006-11-18 22:30:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,1,41.0,18,3,4,3,1,0,0,2,0,9,17,8,0.471,5,2,0.4,1,0,0.0,107,95,0
+2202,2006,20600150,2006-11-20 22:30:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,0,33.0,14,3,3,2,1,0,1,0,2,-16,14,5,0.357,4,2,0.5,3,2,0.667,110,113,0
+2202,2006,20600170,2006-11-22 22:30:00,Golden State,Warriors,Denver,Nuggets,Regular Season,1,0,36.0,24,6,8,6,2,0,4,2,5,-9,19,10,0.526,7,3,0.429,4,1,0.25,112,115,0
+2202,2006,20600180,2006-11-24 21:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,0,0,30.0,18,4,4,3,1,0,0,1,3,-18,12,6,0.5,4,1,0.25,6,5,0.833,140,129,0
+2202,2006,20600194,2006-11-25 22:30:00,Golden State,Warriors,Utah,Jazz,Regular Season,1,1,43.0,13,6,6,2,4,3,2,1,2,12,18,6,0.333,3,0,0.0,5,1,0.2,91,78,0
+2202,2006,20600203,2006-11-27 22:30:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,1,1,44.0,26,5,3,2,1,0,0,2,2,13,20,11,0.55,8,4,0.5,0,0,0.0,111,102,0
+2202,2006,20600221,2006-11-29 22:30:00,Golden State,Warriors,Indiana,Pacers,Regular Season,1,0,7.0,2,0,1,1,0,0,0,1,0,-11,4,1,0.25,1,0,0.0,0,0,0.0,106,108,0
+2202,2006,20600243,2006-12-02 22:30:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,1,0,20.0,6,3,1,1,0,0,0,0,1,15,7,2,0.286,3,0,0.0,2,2,1.0,110,115,0
+2202,2006,20600250,2006-12-04 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,129,89,0
+2202,2006,20600257,2006-12-05 20:30:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,118,90,0
+2202,2006,20600294,2006-12-09 22:30:00,Golden State,Warriors,Oklahoma City,Hornets,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,101,80,0
+2202,2006,20600298,2006-12-10 21:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,117,115,0
+2202,2006,20600312,2006-12-12 22:30:00,Golden State,Warriors,Sacramento,Kings,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,126,113,0
+2202,2006,20600356,2006-12-18 19:30:00,Golden State,Warriors,New Jersey,Nets,Regular Season,0,0,20.0,6,0,1,1,0,0,0,1,1,-3,10,3,0.3,2,0,0.0,1,0,0.0,105,97,0
+2202,2006,20600367,2006-12-20 19:30:00,Golden State,Warriors,Boston,Celtics,Regular Season,0,1,41.0,9,3,8,5,3,0,2,3,2,-1,19,4,0.211,7,1,0.143,0,0,0.0,95,96,0
+2202,2006,20600380,2006-12-22 19:00:00,Golden State,Warriors,Orlando,Magic,Regular Season,0,1,15.0,5,1,2,2,0,0,1,2,1,3,5,1,0.2,2,1,0.5,4,2,0.5,108,117,0
+2202,2006,20600394,2006-12-23 19:30:00,Golden State,Warriors,Miami,Heat,Regular Season,0,0,32.0,18,0,6,4,2,0,1,1,1,-8,19,7,0.368,7,2,0.286,4,2,0.5,105,92,0
+2202,2006,20600414,2006-12-26 22:30:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,1,1,33.0,8,4,2,2,0,1,1,3,2,22,11,3,0.273,6,1,0.167,2,1,0.5,116,97,0
+2202,2006,20600441,2006-12-29 22:30:00,Golden State,Warriors,Boston,Celtics,Regular Season,1,1,27.0,13,3,2,1,1,3,1,1,4,9,13,5,0.385,3,1,0.333,2,2,1.0,110,100,0
+2202,2006,20600450,2006-12-30 22:00:00,Golden State,Warriors,Sacramento,Kings,Regular Season,0,0,14.0,5,0,3,1,2,1,0,1,0,-15,8,2,0.25,2,0,0.0,2,1,0.5,119,96,0
+2202,2006,20600462,2007-01-02 20:00:00,Golden State,Warriors,Oklahoma City,Hornets,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,89,97,0
+2202,2006,20600471,2007-01-03 20:00:00,Golden State,Warriors,Memphis,Grizzlies,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,144,135,0
+2202,2006,20600497,2007-01-06 22:30:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,108,104,0
+2202,2006,20600502,2007-01-07 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,128,105,0
+2202,2006,20600527,2007-01-10 22:30:00,Golden State,Warriors,Orlando,Magic,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,76,91,0
+2202,2006,20600540,2007-01-12 22:30:00,Golden State,Warriors,Miami,Heat,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,96,118,0
+2202,2006,20600562,2007-01-15 16:00:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,108,93,0
+2202,2006,20600810,2007-02-21 22:30:00,Golden State,Warriors,Memphis,Grizzlies,Regular Season,1,1,37.0,19,5,10,4,6,1,2,1,2,5,22,8,0.364,5,1,0.2,2,2,1.0,118,115,0
+2202,2006,20600826,2007-02-24 15:30:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,0,0,33.0,18,3,5,4,1,2,1,4,2,-14,16,7,0.438,8,3,0.375,2,1,0.5,103,90,0
+2202,2006,20600838,2007-02-25 18:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,0,34.0,15,1,6,5,1,0,2,2,2,-8,13,7,0.538,4,1,0.25,0,0,0.0,85,102,0
+2202,2006,20600853,2007-02-27 20:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,0,0,32.0,12,7,8,4,4,2,4,5,3,-21,12,5,0.417,4,1,0.25,2,1,0.5,122,101,0
+2202,2006,20600860,2007-02-28 20:30:00,Golden State,Warriors,Chicago,Bulls,Regular Season,0,0,32.0,17,1,6,3,3,1,0,2,1,-23,18,8,0.444,6,1,0.167,0,0,0.0,113,83,0
+2202,2006,20600871,2007-03-02 19:30:00,Golden State,Warriors,New York,Knicks,Regular Season,0,0,39.0,9,4,5,4,1,0,0,1,3,-10,13,4,0.308,4,1,0.25,4,0,0.0,106,97,0
+2202,2006,20600888,2007-03-04 13:00:00,Golden State,Warriors,Washington,Wizards,Regular Season,0,0,43.0,28,8,10,6,4,3,0,1,3,6,28,12,0.429,9,4,0.444,2,0,0.0,107,106,0
+2202,2006,20600897,2007-03-05 19:30:00,Golden State,Warriors,Detroit,Pistons,Regular Season,0,1,37.0,29,4,6,5,1,0,0,4,3,20,17,9,0.529,10,5,0.5,6,6,1.0,93,111,0
+2202,2006,20600916,2007-03-07 22:30:00,Golden State,Warriors,Denver,Nuggets,Regular Season,1,1,37.0,16,4,6,4,2,3,0,4,3,19,14,6,0.429,8,4,0.5,0,0,0.0,110,96,0
+2202,2006,20600926,2007-03-09 22:30:00,Golden State,Warriors,Los Angeles,Clippers,Regular Season,1,1,17.0,8,2,1,1,0,0,1,0,4,-3,10,4,0.4,3,0,0.0,0,0,0.0,99,89,0
+2202,2006,20600942,2007-03-11 21:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,29.0,14,5,3,2,1,0,0,0,3,-16,14,6,0.429,6,2,0.333,0,0,0.0,106,87,0
+2202,2006,20600947,2007-03-12 22:30:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,1,1,36.0,16,7,8,7,1,1,4,1,3,18,15,6,0.4,4,1,0.25,5,3,0.6,117,100,0
+2202,2006,20600978,2007-03-16 22:30:00,Golden State,Warriors,Minnesota,Timberwolves,Regular Season,1,1,37.0,14,8,7,7,0,0,2,2,3,21,15,5,0.333,8,2,0.25,2,2,1.0,106,86,0
+2202,2006,20600987,2007-03-17 22:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,1,34.0,23,3,3,1,2,0,2,1,5,-4,19,7,0.368,8,3,0.375,6,6,1.0,98,99,0
+2202,2006,20601003,2007-03-20 21:00:00,Golden State,Warriors,Utah,Jazz,Regular Season,0,0,37.0,21,2,2,1,1,0,2,0,2,-8,18,9,0.5,7,3,0.429,0,0,0.0,104,100,0
+2202,2006,20601030,2007-03-23 22:30:00,Golden State,Warriors,Washington,Wizards,Regular Season,1,1,32.0,23,6,1,1,0,0,2,3,4,8,16,9,0.563,8,4,0.5,1,1,1.0,135,128,0
+2202,2006,20601044,2007-03-25 21:30:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,33.0,9,6,5,4,1,0,4,1,3,-4,12,2,0.167,9,2,0.222,4,3,0.75,115,113,0
+2202,2006,20601053,2007-03-26 22:30:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,1,0,28.0,0,1,0,0,0,0,0,2,4,-31,8,0,0.0,3,0,0.0,0,0,0.0,89,126,0
+2202,2006,20601071,2007-03-29 22:30:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,1,46.0,36,3,12,10,2,0,1,0,3,10,23,14,0.609,13,8,0.615,0,0,0.0,124,119,0
+2202,2006,20601093,2007-04-01 15:00:00,Golden State,Warriors,Memphis,Grizzlies,Regular Season,1,1,40.0,26,8,6,6,0,2,2,1,5,14,18,9,0.5,9,2,0.222,6,6,1.0,122,117,0
+2202,2006,20601115,2007-04-04 20:30:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,1,40.0,27,1,9,9,0,3,2,2,2,6,17,9,0.529,11,7,0.636,3,2,0.667,99,110,0
+2202,2006,20601127,2007-04-06 20:00:00,Golden State,Warriors,Memphis,Grizzlies,Regular Season,0,1,37.0,19,2,3,3,0,0,1,5,1,10,16,6,0.375,13,5,0.385,2,2,1.0,104,116,0
+2202,2006,20601137,2007-04-07 20:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,0,0,36.0,23,1,6,5,1,0,0,0,4,-13,17,9,0.529,9,5,0.556,1,0,0.0,112,99,0
+2202,2006,20601156,2007-04-09 22:30:00,Golden State,Warriors,Utah,Jazz,Regular Season,1,1,30.0,11,4,6,5,1,2,0,2,4,15,9,4,0.444,6,2,0.333,2,1,0.5,126,102,0
+2202,2006,20601184,2007-04-13 22:00:00,Golden State,Warriors,Sacramento,Kings,Regular Season,0,1,30.0,17,5,5,4,1,0,0,2,4,-1,9,4,0.444,6,3,0.5,8,6,0.75,108,125,0
+2202,2006,20601198,2007-04-15 15:30:00,Golden State,Warriors,Minnesota,Timberwolves,Regular Season,1,1,37.0,32,7,12,7,5,1,3,1,2,41,17,11,0.647,6,4,0.667,7,6,0.857,121,108,0
+2202,2006,20601216,2007-04-17 22:30:00,Golden State,Warriors,Dallas,Mavericks,Regular Season,1,1,39.0,14,2,7,5,2,2,0,0,3,28,15,5,0.333,6,2,0.333,4,2,0.5,111,82,0
+2202,2006,20601228,2007-04-18 22:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,1,32.0,25,2,8,6,2,0,3,2,1,15,16,10,0.625,6,4,0.667,3,1,0.333,98,120,0
+2202,2006,40600141,2007-04-22 21:30:00,Golden State,Warriors,Dallas,Mavericks,Playoffs,0,1,41.0,13,0,6,4,2,1,0,4,4,9,12,5,0.417,7,1,0.143,4,2,0.5,85,97,0
+2202,2006,40600142,2007-04-25 21:30:00,Golden State,Warriors,Dallas,Mavericks,Playoffs,0,0,37.0,14,3,10,8,2,2,2,3,2,-15,15,7,0.467,4,0,0.0,0,0,0.0,112,99,0
+2202,2006,40600143,2007-04-27 22:30:00,Golden State,Warriors,Dallas,Mavericks,Playoffs,1,1,38.0,30,2,8,5,3,1,0,2,3,26,19,12,0.632,10,4,0.4,3,2,0.667,109,91,0
+2202,2006,40600144,2007-04-29 22:00:00,Golden State,Warriors,Dallas,Mavericks,Playoffs,1,1,41.0,22,1,5,3,2,0,4,2,4,0,15,7,0.467,6,2,0.333,8,6,0.75,103,99,0
+2202,2006,40600145,2007-05-01 21:30:00,Golden State,Warriors,Dallas,Mavericks,Playoffs,0,0,41.0,23,2,7,5,2,0,0,1,3,-9,16,9,0.563,10,5,0.5,0,0,0.0,118,112,0
+2202,2006,40600146,2007-05-03 22:30:00,Golden State,Warriors,Dallas,Mavericks,Playoffs,1,1,40.0,15,4,5,3,2,0,2,2,1,22,13,6,0.462,7,3,0.429,0,0,0.0,111,86,0
+2202,2006,40600221,2007-05-07 22:30:00,Golden State,Warriors,Utah,Jazz,Playoffs,0,0,42.0,21,4,10,5,5,0,3,2,4,2,19,8,0.421,6,2,0.333,3,3,1.0,116,112,0
+2202,2006,40600222,2007-05-09 21:00:00,Golden State,Warriors,Utah,Jazz,Playoffs,0,0,46.0,27,1,4,3,1,0,2,2,5,-10,20,9,0.45,10,5,0.5,7,4,0.571,127,117,0
+2202,2006,40600223,2007-05-11 21:00:00,Golden State,Warriors,Utah,Jazz,Playoffs,1,1,35.0,25,2,5,4,1,1,1,1,3,17,17,10,0.588,9,5,0.556,0,0,0.0,125,105,0
+2202,2006,40600224,2007-05-13 21:00:00,Golden State,Warriors,Utah,Jazz,Playoffs,1,0,32.0,7,2,6,3,3,0,0,2,4,-20,12,3,0.25,6,1,0.167,0,0,0.0,101,115,0
+2202,2006,40600225,2007-05-15 22:30:00,Golden State,Warriors,Utah,Jazz,Playoffs,0,0,28.0,13,1,8,7,1,0,0,3,5,-12,12,5,0.417,7,1,0.143,2,2,1.0,100,87,0
+2202,2007,10700015,2007-10-10 19:00:00,Charlotte,Bobcats,Orlando,Magic,Preseason,0,0,28.0,17,2,6,6,0,0,0,0,2,0,10,7,0.699,4,2,0.5,2,1,0.5,123,99,0
+2202,2007,10700023,2007-10-11 19:00:00,Charlotte,Bobcats,Atlanta,Hawks,Preseason,0,0,22.0,12,1,4,2,2,0,2,4,2,0,13,4,0.307,3,1,0.333,3,3,1.0,109,104,0
+2202,2007,10700060,2007-10-18 10:30:00,Charlotte,Bobcats,Atlanta,Hawks,Preseason,1,0,29.0,17,2,1,1,0,0,0,3,4,0,18,8,0.444,5,1,0.2,2,0,0.0,98,104,0
+2202,2007,10700083,2007-10-20 22:30:00,Charlotte,Bobcats,Los Angeles,Lakers,Preseason,0,0,28.0,18,3,4,3,1,1,0,0,2,0,16,6,0.375,5,2,0.4,4,4,1.0,113,93,0
+2202,2007,10700084,2007-10-21 19:30:00,Charlotte,Bobcats,Phoenix,Suns,Preseason,1,0,35.0,23,4,4,3,1,1,1,5,3,0,18,9,0.5,11,5,0.455,0,0,0.0,88,98,0
+2202,2007,20700015,2007-11-02 19:00:00,Charlotte,Bobcats,Milwaukee,Bucks,Regular Season,1,1,36.0,21,1,6,2,4,0,3,2,2,-1,19,8,0.421,5,3,0.6,6,2,0.333,102,99,0
+2202,2007,20700038,2007-11-04 18:00:00,Charlotte,Bobcats,Miami,Heat,Regular Season,0,1,43.0,29,1,5,3,2,0,1,5,4,-1,16,10,0.625,11,6,0.545,5,3,0.6,88,90,0
+2202,2007,20700044,2007-11-06 19:00:00,Charlotte,Bobcats,Phoenix,Suns,Regular Season,1,0,26.0,11,1,6,5,1,0,0,2,3,-29,11,4,0.364,4,2,0.5,2,1,0.5,83,115,0
+2202,2007,20700055,2007-11-07 19:00:00,Charlotte,Bobcats,Philadelphia,76ers,Regular Season,0,0,34.0,4,2,5,4,1,0,3,5,3,-22,15,2,0.133,4,0,0.0,0,0,0.0,94,63,0
+2202,2007,20700067,2007-11-09 19:00:00,Charlotte,Bobcats,Indiana,Pacers,Regular Season,1,1,23.0,5,1,4,4,0,0,1,2,2,-10,10,2,0.2,5,0,0.0,2,1,0.5,96,87,0
+2202,2007,20700089,2007-11-11 18:00:00,Charlotte,Bobcats,Houston,Rockets,Regular Season,1,0,38.0,16,3,6,4,2,1,2,3,2,-9,21,7,0.333,4,1,0.25,1,1,1.0,82,85,0
+2202,2007,20700096,2007-11-13 19:00:00,Charlotte,Bobcats,Miami,Heat,Regular Season,1,1,31.0,18,4,8,8,0,0,0,1,0,20,15,7,0.467,5,4,0.8,0,0,0.0,91,76,0
+2202,2007,20700106,2007-11-14 19:00:00,Charlotte,Bobcats,Atlanta,Hawks,Regular Season,0,0,38.0,27,4,4,3,1,0,3,2,2,-6,19,10,0.526,7,3,0.429,4,4,1.0,117,109,0
+2202,2007,20700132,2007-11-17 19:00:00,Charlotte,Bobcats,Seattle,SuperSonics,Regular Season,1,1,33.0,23,2,6,5,1,1,1,2,3,19,21,9,0.429,8,4,0.5,2,1,0.5,100,84,0
+2202,2007,20700145,2007-11-19 19:00:00,Charlotte,Bobcats,Portland,Trail Blazers,Regular Season,1,1,39.0,24,3,4,3,1,0,1,2,3,14,21,11,0.524,6,2,0.333,1,0,0.0,101,92,0
+2202,2007,20700157,2007-11-21 19:00:00,Charlotte,Bobcats,Washington,Wizards,Regular Season,1,0,39.0,10,2,6,6,0,1,0,2,5,-9,14,4,0.286,6,2,0.333,1,0,0.0,111,114,0
+2202,2007,20700171,2007-11-23 19:00:00,Charlotte,Bobcats,Orlando,Magic,Regular Season,0,0,30.0,14,5,7,7,0,1,2,3,2,-17,14,5,0.357,6,2,0.333,3,2,0.667,105,92,0
+2202,2007,20700185,2007-11-24 19:00:00,Charlotte,Bobcats,Boston,Celtics,Regular Season,1,0,35.0,25,5,9,9,0,1,0,2,1,3,17,9,0.529,5,5,1.0,2,2,1.0,95,96,0
+2202,2007,20700206,2007-11-27 19:30:00,Charlotte,Bobcats,Miami,Heat,Regular Season,0,0,33.0,10,3,2,2,0,1,0,2,3,-18,10,4,0.4,5,1,0.2,2,1,0.5,110,90,0
+2202,2007,20700239,2007-12-01 20:30:00,Charlotte,Bobcats,Chicago,Bulls,Regular Season,0,0,38.0,22,3,4,2,2,1,0,1,3,-18,21,9,0.429,8,4,0.5,2,0,0.0,111,95,0
+2202,2007,20700250,2007-12-03 19:00:00,Charlotte,Bobcats,Toronto,Raptors,Regular Season,0,0,37.0,12,1,5,4,1,0,1,1,2,-12,17,3,0.176,9,3,0.333,4,3,0.75,98,79,0
+2202,2007,20700265,2007-12-05 19:00:00,Charlotte,Bobcats,Chicago,Bulls,Regular Season,1,0,39.0,17,3,5,4,1,1,2,2,5,-4,16,7,0.438,9,3,0.333,0,0,0.0,82,91,0
+2202,2007,20700287,2007-12-08 19:00:00,Charlotte,Bobcats,Cleveland,Cavaliers,Regular Season,1,1,40.0,18,3,8,6,2,2,3,3,4,3,10,6,0.6,5,3,0.6,4,3,0.75,96,93,0
+2202,2007,20700296,2007-12-09 18:00:00,Charlotte,Bobcats,Detroit,Pistons,Regular Season,0,0,26.0,15,1,3,1,2,0,0,0,0,-16,12,5,0.417,6,3,0.5,2,2,1.0,104,85,0
+2202,2007,20700316,2007-12-12 19:00:00,Charlotte,Bobcats,Los Angeles,Clippers,Regular Season,1,1,33.0,8,5,8,7,1,1,2,2,4,-1,13,3,0.231,4,1,0.25,1,1,1.0,108,103,0
+2202,2007,20700328,2007-12-14 20:00:00,Charlotte,Bobcats,Orlando,Magic,Regular Season,1,0,34.0,15,4,2,2,0,0,1,3,3,-12,13,6,0.462,6,3,0.5,2,0,0.0,87,103,0
+2202,2007,20700340,2007-12-15 19:00:00,Charlotte,Bobcats,Atlanta,Hawks,Regular Season,0,0,30.0,11,3,3,3,0,0,3,3,5,2,11,4,0.364,6,2,0.333,1,1,1.0,93,84,0
+2202,2007,20700366,2007-12-19 19:00:00,Charlotte,Bobcats,Utah,Jazz,Regular Season,1,1,34.0,24,3,7,6,1,2,1,1,1,15,14,8,0.571,4,3,0.75,7,5,0.714,98,92,0
+2202,2007,20700384,2007-12-21 19:00:00,Charlotte,Bobcats,New York,Knicks,Regular Season,1,1,41.0,17,6,3,3,0,1,0,1,1,4,17,6,0.353,7,3,0.429,6,2,0.333,105,95,0
+2202,2007,20700397,2007-12-22 20:30:00,Charlotte,Bobcats,Milwaukee,Bucks,Regular Season,0,0,44.0,30,3,3,2,1,2,1,2,6,-3,19,11,0.579,9,5,0.556,5,3,0.6,103,99,0
+2202,2007,20700409,2007-12-26 19:00:00,Charlotte,Bobcats,Washington,Wizards,Regular Season,1,0,34.0,27,2,3,1,2,0,4,2,4,-2,19,9,0.474,11,6,0.545,4,3,0.75,104,108,0
+2202,2007,20700422,2007-12-28 19:00:00,Charlotte,Bobcats,New Orleans,Hornets,Regular Season,1,0,38.0,25,2,3,3,0,0,0,0,2,-8,19,9,0.474,6,3,0.5,4,4,1.0,85,99,0
+2202,2007,20700436,2007-12-29 19:00:00,Charlotte,Bobcats,Orlando,Magic,Regular Season,0,0,40.0,34,3,8,6,2,0,2,3,1,-9,21,11,0.524,8,4,0.5,8,8,1.0,104,95,0
+2202,2007,20700449,2007-12-31 14:00:00,Charlotte,Bobcats,Indiana,Pacers,Regular Season,1,1,42.0,28,3,8,6,2,1,1,2,3,4,18,9,0.5,8,4,0.5,8,6,0.75,107,103,0
+2202,2007,20700458,2008-01-02 19:00:00,Charlotte,Bobcats,Chicago,Bulls,Regular Season,1,0,38.0,28,2,2,1,1,1,1,1,4,-9,17,11,0.647,5,3,0.6,4,3,0.75,97,109,0
+2202,2007,20700476,2008-01-04 19:30:00,Charlotte,Bobcats,New Jersey,Nets,Regular Season,0,0,39.0,33,4,8,5,3,1,0,4,6,-5,28,12,0.429,8,2,0.25,8,7,0.875,102,96,0
+2202,2007,20700495,2008-01-06 18:00:00,Charlotte,Bobcats,Milwaukee,Bucks,Regular Season,1,0,42.0,21,2,5,5,0,1,1,3,3,-4,17,8,0.471,6,3,0.5,2,2,1.0,89,93,0
+2202,2007,20700502,2008-01-08 19:00:00,Charlotte,Bobcats,New Jersey,Nets,Regular Season,1,1,45.0,25,5,7,7,0,1,1,1,2,13,18,10,0.556,5,2,0.4,4,3,0.75,115,99,0
+2202,2007,20700511,2008-01-09 19:30:00,Charlotte,Bobcats,Boston,Celtics,Regular Season,0,1,42.0,34,3,9,8,1,0,2,0,1,11,22,14,0.636,6,2,0.333,6,4,0.667,83,95,0
+2202,2007,20700527,2008-01-11 19:30:00,Charlotte,Bobcats,Cleveland,Cavaliers,Regular Season,0,0,51.0,19,4,8,7,1,2,1,5,3,-2,26,7,0.269,9,3,0.333,2,2,1.0,113,106,0
+2202,2007,20700535,2008-01-12 19:00:00,Charlotte,Bobcats,Detroit,Pistons,Regular Season,1,0,51.0,20,8,4,3,1,1,1,3,5,-4,20,8,0.4,8,2,0.25,2,2,1.0,100,103,0
+2202,2007,20700547,2008-01-14 19:00:00,Charlotte,Bobcats,Denver,Nuggets,Regular Season,1,1,29.0,15,2,5,5,0,1,2,1,5,8,14,6,0.429,7,3,0.429,0,0,0.0,119,116,0
+2202,2007,20700563,2008-01-16 19:00:00,Charlotte,Bobcats,Orlando,Magic,Regular Season,1,1,45.0,26,4,5,4,1,1,0,3,4,5,23,9,0.391,8,4,0.5,4,4,1.0,99,93,0
+2202,2007,20700579,2008-01-18 20:00:00,Charlotte,Bobcats,New Orleans,Hornets,Regular Season,0,0,27.0,12,3,0,0,0,0,0,1,1,-21,17,5,0.294,4,0,0.0,2,2,1.0,112,84,0
+2202,2007,20700584,2008-01-19 19:00:00,Charlotte,Bobcats,Memphis,Grizzlies,Regular Season,1,1,41.0,38,4,14,12,2,3,0,1,5,14,25,16,0.64,10,6,0.6,0,0,0.0,105,87,0
+2202,2007,20700597,2008-01-21 13:00:00,Charlotte,Bobcats,San Antonio,Spurs,Regular Season,1,0,45.0,13,3,4,4,0,1,2,4,1,-4,18,5,0.278,8,2,0.25,2,1,0.5,86,95,0
+2202,2007,20700611,2008-01-23 19:00:00,Charlotte,Bobcats,Dallas,Mavericks,Regular Season,1,0,42.0,22,5,8,7,1,1,0,1,4,-4,17,6,0.353,6,1,0.167,9,9,1.0,95,102,0
+2202,2007,20700632,2008-01-25 20:30:00,Charlotte,Bobcats,Chicago,Bulls,Regular Season,0,1,35.0,11,4,4,3,1,1,0,2,2,3,13,3,0.231,4,1,0.25,6,4,0.667,77,90,0
+2202,2007,20700639,2008-01-26 19:00:00,Charlotte,Bobcats,Philadelphia,76ers,Regular Season,1,0,44.0,35,2,6,6,0,0,2,1,5,-10,24,13,0.542,11,7,0.636,2,2,1.0,96,103,0
+2202,2007,20700655,2008-01-28 22:30:00,Charlotte,Bobcats,Los Angeles,Clippers,Regular Season,0,1,37.0,20,4,4,4,0,1,0,1,2,3,16,7,0.438,7,1,0.143,6,5,0.833,100,107,0
+2202,2007,20700673,2008-01-30 22:00:00,Charlotte,Bobcats,Sacramento,Kings,Regular Season,0,0,33.0,11,2,5,5,0,3,2,1,2,-12,16,4,0.25,7,1,0.143,4,2,0.5,105,91,0
+2202,2007,20700686,2008-02-01 22:30:00,Charlotte,Bobcats,Golden State,Warriors,Regular Season,0,0,28.0,10,4,0,0,0,1,1,2,2,-13,9,2,0.222,5,1,0.2,5,5,1.0,127,96,0
+2202,2007,20700693,2008-02-02 21:00:00,Charlotte,Bobcats,Denver,Nuggets,Regular Season,0,0,37.0,38,3,3,2,1,0,1,2,3,-9,25,14,0.56,11,6,0.545,6,4,0.667,117,101,0
+2202,2007,20700704,2008-02-04 21:00:00,Charlotte,Bobcats,Phoenix,Suns,Regular Season,0,0,40.0,25,4,5,4,1,0,2,1,1,-14,21,10,0.476,9,5,0.556,1,0,0.0,118,104,0
+2202,2007,20700727,2008-02-08 19:00:00,Charlotte,Bobcats,New Jersey,Nets,Regular Season,1,0,39.0,17,3,1,1,0,0,1,0,1,-14,15,6,0.4,8,3,0.375,4,2,0.5,90,104,0
+2202,2007,20700747,2008-02-10 18:00:00,Charlotte,Bobcats,Detroit,Pistons,Regular Season,0,0,39.0,27,5,4,4,0,0,0,3,3,-25,17,8,0.471,7,4,0.571,7,7,1.0,113,87,0
+2202,2007,20700753,2008-02-11 19:00:00,Charlotte,Bobcats,Los Angeles,Lakers,Regular Season,1,0,34.0,10,1,1,1,0,0,1,0,4,-6,14,4,0.286,7,2,0.286,2,0,0.0,97,106,0
+2202,2007,20700766,2008-02-13 19:00:00,Charlotte,Bobcats,Atlanta,Hawks,Regular Season,1,1,42.0,19,3,8,6,2,0,2,2,5,14,17,6,0.353,8,1,0.125,8,6,0.75,100,98,0
+2202,2007,20700784,2008-02-19 20:30:00,Charlotte,Bobcats,San Antonio,Spurs,Regular Season,0,0,36.0,13,4,2,1,1,1,2,2,3,-13,11,4,0.364,5,2,0.4,6,3,0.5,85,65,0
+2202,2007,20700803,2008-02-22 19:00:00,Charlotte,Bobcats,Sacramento,Kings,Regular Season,1,0,38.0,29,0,4,3,1,2,2,1,5,-4,20,11,0.55,9,5,0.556,4,2,0.5,115,116,0
+2202,2007,20700816,2008-02-23 19:00:00,Charlotte,Bobcats,Washington,Wizards,Regular Season,0,0,38.0,25,1,5,4,1,0,0,0,0,2,17,10,0.588,7,2,0.286,4,3,0.75,110,95,0
+2202,2007,20700850,2008-02-27 19:30:00,Charlotte,Bobcats,New York,Knicks,Regular Season,0,0,12.0,7,0,1,1,0,0,1,2,2,0,7,3,0.429,3,1,0.333,0,0,0.0,113,89,0
+2202,2007,20700859,2008-02-29 19:30:00,Charlotte,Bobcats,Boston,Celtics,Regular Season,0,0,45.0,30,2,6,5,1,0,2,3,1,-3,26,10,0.385,13,4,0.308,6,6,1.0,108,100,0
+2202,2007,20700880,2008-03-02 18:00:00,Charlotte,Bobcats,Toronto,Raptors,Regular Season,1,1,43.0,30,3,7,6,1,0,1,1,4,18,24,10,0.417,8,3,0.375,7,7,1.0,110,98,0
+2202,2007,20700892,2008-03-04 20:00:00,Charlotte,Bobcats,Minnesota,Timberwolves,Regular Season,0,1,36.0,25,6,8,8,0,0,1,3,1,8,17,8,0.471,8,4,0.5,6,5,0.833,89,109,0
+2202,2007,20700898,2008-03-05 19:00:00,Charlotte,Bobcats,Golden State,Warriors,Regular Season,1,1,48.0,42,2,7,5,2,0,1,4,3,9,32,15,0.469,12,5,0.417,7,7,1.0,118,109,0
+2202,2007,20700914,2008-03-07 19:00:00,Charlotte,Bobcats,Atlanta,Hawks,Regular Season,1,1,37.0,13,1,3,2,1,1,1,2,2,11,14,6,0.429,6,1,0.167,1,0,0.0,108,93,0
+2202,2007,20700925,2008-03-08 19:00:00,Charlotte,Bobcats,Washington,Wizards,Regular Season,0,1,41.0,34,3,8,6,2,1,4,3,4,3,20,13,0.65,9,5,0.556,4,3,0.75,97,100,0
+2202,2007,20700960,2008-03-12 20:30:00,Charlotte,Bobcats,Dallas,Mavericks,Regular Season,0,0,36.0,11,3,4,3,1,1,2,4,4,-21,16,4,0.25,8,2,0.25,2,1,0.5,118,93,0
+2202,2007,20700972,2008-03-14 20:30:00,Charlotte,Bobcats,Houston,Rockets,Regular Season,0,0,44.0,28,5,8,7,1,1,1,2,3,-6,24,11,0.458,9,3,0.333,4,3,0.75,89,80,0
+2202,2007,20700987,2008-03-16 18:00:00,Charlotte,Bobcats,Cleveland,Cavaliers,Regular Season,0,0,39.0,33,2,4,4,0,0,2,1,3,-11,24,13,0.542,11,6,0.545,1,1,1.0,98,91,0
+2202,2007,20700994,2008-03-17 20:00:00,Charlotte,Bobcats,Memphis,Grizzlies,Regular Season,0,0,37.0,8,1,6,6,0,1,1,2,3,-13,18,4,0.222,7,0,0.0,0,0,0.0,98,80,0
+2202,2007,20701009,2008-03-19 19:00:00,Charlotte,Bobcats,Indiana,Pacers,Regular Season,0,0,39.0,20,8,10,8,2,0,3,1,2,2,18,8,0.444,6,1,0.167,4,3,0.75,102,95,0
+2202,2007,20701030,2008-03-22 19:00:00,Charlotte,Bobcats,Miami,Heat,Regular Season,1,1,35.0,24,4,3,2,1,1,2,1,2,15,17,8,0.471,5,2,0.4,6,6,1.0,94,82,0
+2202,2007,20701056,2008-03-25 21:00:00,Charlotte,Bobcats,Utah,Jazz,Regular Season,0,0,37.0,26,0,5,4,1,1,2,7,6,-25,16,8,0.5,8,4,0.5,6,6,1.0,128,106,0
+2202,2007,20701069,2008-03-26 22:30:00,Charlotte,Bobcats,Los Angeles,Lakers,Regular Season,0,1,45.0,34,2,10,8,2,2,3,3,4,11,28,13,0.464,12,4,0.333,6,4,0.667,95,108,0
+2202,2007,20701083,2008-03-28 22:30:00,Charlotte,Bobcats,Seattle,SuperSonics,Regular Season,0,1,43.0,27,5,7,7,0,1,3,1,3,8,20,7,0.35,10,6,0.6,8,7,0.875,93,96,0
+2202,2007,20701088,2008-03-29 22:00:00,Charlotte,Bobcats,Portland,Trail Blazers,Regular Season,0,1,39.0,20,5,5,4,1,0,1,2,4,10,18,8,0.444,8,1,0.125,4,3,0.75,85,93,0
+2202,2007,20701099,2008-03-31 19:00:00,Charlotte,Bobcats,Toronto,Raptors,Regular Season,1,0,38.0,26,2,6,5,1,0,3,1,4,-15,17,10,0.588,10,4,0.4,4,2,0.5,100,104,0
+2202,2007,20701114,2008-04-02 19:00:00,Charlotte,Bobcats,Cleveland,Cavaliers,Regular Season,1,0,41.0,31,7,6,3,3,1,2,4,4,-4,22,13,0.591,8,4,0.5,3,1,0.333,114,118,0
+2202,2007,20701126,2008-04-04 19:00:00,Charlotte,Bobcats,Toronto,Raptors,Regular Season,0,1,43.0,27,6,7,6,1,1,2,1,3,7,18,10,0.556,7,4,0.571,4,3,0.75,100,105,0
+2202,2007,20701139,2008-04-05 19:00:00,Charlotte,Bobcats,Boston,Celtics,Regular Season,1,0,32.0,9,4,1,1,0,0,1,3,4,-19,12,4,0.333,7,1,0.143,3,0,0.0,78,101,0
+2202,2007,20701153,2008-04-08 19:00:00,Charlotte,Bobcats,Minnesota,Timberwolves,Regular Season,1,1,44.0,36,4,5,4,1,0,0,0,3,3,21,11,0.524,8,5,0.625,12,9,0.75,121,119,0
+2202,2007,20701169,2008-04-09 19:30:00,Charlotte,Bobcats,New York,Knicks,Regular Season,0,0,41.0,25,4,10,6,4,1,0,1,0,0,20,8,0.4,11,4,0.364,8,5,0.625,109,107,0
+2202,2007,20701190,2008-04-12 19:00:00,Charlotte,Bobcats,Indiana,Pacers,Regular Season,0,1,40.0,26,2,5,4,1,1,3,2,2,0,18,6,0.333,6,2,0.333,13,12,0.923,103,107,0
+2202,2007,20701212,2008-04-15 19:30:00,Charlotte,Bobcats,New Jersey,Nets,Regular Season,0,0,46.0,31,4,10,8,2,0,8,3,4,-1,23,11,0.478,10,5,0.5,4,4,1.0,112,108,0
+2202,2007,20701217,2008-04-16 19:00:00,Charlotte,Bobcats,Philadelphia,76ers,Regular Season,1,1,44.0,29,2,7,5,2,3,1,2,5,9,18,9,0.5,7,3,0.429,9,8,0.889,115,109,0
+2202,2008,10800012,2008-10-08 19:00:00,Charlotte,Bobcats,Orlando,Magic,Preseason,0,0,22.0,15,3,2,1,1,0,3,1,1,0,11,4,0.363,5,2,0.4,5,5,1.0,118,80,0
+2202,2008,10800028,2008-10-10 20:00:00,Charlotte,Bobcats,Memphis,Grizzlies,Preseason,0,0,19.0,14,2,1,0,1,0,1,2,1,0,13,5,0.385,5,2,0.4,2,2,1.0,92,79,0
+2202,2008,10800043,2008-10-13 19:00:00,Charlotte,Bobcats,Atlanta,Hawks,Preseason,0,0,25.0,19,1,1,1,0,0,1,1,1,0,11,8,0.726,0,0,0.0,3,3,1.0,88,87,0
+2202,2008,10800059,2008-10-16 10:30:00,Charlotte,Bobcats,Orlando,Magic,Preseason,1,0,18.0,11,1,1,1,0,0,0,0,3,0,6,3,0.5,1,0,0.0,6,5,0.832,84,94,0
+2202,2008,10800072,2008-10-18 19:00:00,Charlotte,Bobcats,Atlanta,Hawks,Preseason,1,0,33.0,17,3,3,3,0,0,2,3,4,0,17,6,0.352,7,3,0.428,3,2,0.667,96,102,0
+2202,2008,10800084,2008-10-20 22:00:00,Charlotte,Bobcats,Phoenix,Suns,Preseason,0,0,27.0,15,4,1,1,0,0,1,2,6,0,14,5,0.356,2,1,0.5,6,4,0.667,111,108,0
+2202,2008,10800090,2008-10-21 22:00:00,Charlotte,Bobcats,Los Angeles,Lakers,Preseason,0,0,27.0,16,2,2,2,0,0,1,2,1,0,13,7,0.538,3,0,0.0,4,2,0.5,102,98,0
+2202,2008,10800106,2008-10-23 22:00:00,Charlotte,Bobcats,Los Angeles,Lakers,Preseason,0,0,27.0,12,1,5,5,0,0,1,4,1,0,13,4,0.307,4,1,0.25,4,3,0.75,88,77,0
+2202,2008,20800016,2008-10-30 19:00:00,Charlotte,Bobcats,Cleveland,Cavaliers,Regular Season,0,0,29.0,24,4,4,3,1,1,1,2,4,1,18,8,0.444,4,2,0.5,6,6,1.0,96,79,0
+2202,2008,20800027,2008-11-01 19:00:00,Charlotte,Bobcats,Miami,Heat,Regular Season,1,1,39.0,23,2,1,1,0,0,1,2,3,17,17,10,0.588,3,2,0.667,2,1,0.5,100,87,0
+2202,2008,20800042,2008-11-03 19:00:00,Charlotte,Bobcats,Detroit,Pistons,Regular Season,1,0,32.0,4,5,1,1,0,1,0,2,3,-21,10,2,0.2,3,0,0.0,0,0,0.0,83,101,0
+2202,2008,20800054,2008-11-05 19:30:00,Charlotte,Bobcats,New York,Knicks,Regular Season,0,0,42.0,17,2,9,4,5,0,2,2,3,9,21,7,0.333,4,0,0.0,3,3,1.0,101,98,0
+2202,2008,20800066,2008-11-07 19:00:00,Charlotte,Bobcats,New Orleans,Hornets,Regular Season,1,1,31.0,20,1,5,4,1,0,2,3,2,-11,14,5,0.357,2,2,1.0,9,8,0.889,92,89,0
+2202,2008,20800085,2008-11-09 13:00:00,Charlotte,Bobcats,Toronto,Raptors,Regular Season,1,0,36.0,12,4,5,4,1,0,0,2,2,-22,15,5,0.333,5,1,0.2,2,1,0.5,79,89,0
+2202,2008,20800098,2008-11-11 19:00:00,Charlotte,Bobcats,Denver,Nuggets,Regular Season,1,0,31.0,23,2,5,5,0,0,2,1,4,-2,16,9,0.563,7,4,0.571,2,1,0.5,80,88,0
+2202,2008,20800229,2008-11-28 20:00:00,Charlotte,Bobcats,Indiana,Pacers,Regular Season,0,1,41.0,21,2,2,1,1,1,0,2,4,3,21,8,0.381,5,2,0.4,5,3,0.6,108,115,0
+2202,2008,20800236,2008-11-29 19:00:00,Charlotte,Bobcats,Boston,Celtics,Regular Season,1,0,30.0,22,2,6,5,1,0,0,2,4,-8,13,7,0.538,6,3,0.5,6,5,0.833,84,89,0
+2202,2008,20800252,2008-12-01 19:00:00,Charlotte,Bobcats,Minnesota,Timberwolves,Regular Season,1,1,37.0,25,3,4,3,1,0,1,1,0,15,18,11,0.611,4,3,0.75,3,0,0.0,100,90,0
+2202,2008,20800264,2008-12-03 19:00:00,Charlotte,Bobcats,Oklahoma City,Thunder,Regular Season,1,1,39.0,18,2,4,4,0,0,2,1,3,13,16,8,0.5,2,0,0.0,2,2,1.0,103,97,0
+2202,2008,20800285,2008-12-05 20:30:00,Charlotte,Bobcats,Milwaukee,Bucks,Regular Season,0,0,35.0,20,2,6,6,0,0,1,3,6,-10,16,7,0.438,6,3,0.5,4,3,0.75,101,96,0
+2202,2008,20800287,2008-12-06 19:00:00,Charlotte,Bobcats,Cleveland,Cavaliers,Regular Season,1,0,25.0,9,2,2,1,1,0,1,1,2,-24,9,3,0.333,3,1,0.333,2,2,1.0,74,94,0
+2202,2008,20800301,2008-12-08 19:30:00,Charlotte,Bobcats,Miami,Heat,Regular Season,0,0,36.0,24,3,4,3,1,0,1,0,3,-2,16,7,0.438,5,4,0.8,9,6,0.667,100,96,0
+2202,2008,20800316,2008-12-10 20:00:00,Charlotte,Bobcats,New Orleans,Hornets,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,105,89,0
+2202,2008,20800333,2008-12-12 21:00:00,Phoenix,Suns,Orlando,Magic,Regular Season,1,1,33.0,21,3,3,3,0,1,0,2,2,-4,16,8,0.5,4,1,0.25,5,4,0.8,113,112,0
+2202,2008,20800357,2008-12-15 21:00:00,Phoenix,Suns,New York,Knicks,Regular Season,1,1,36.0,16,1,7,6,1,0,1,2,2,10,14,5,0.357,7,4,0.571,2,2,1.0,111,103,0
+2202,2008,20800376,2008-12-18 22:30:00,Phoenix,Suns,Portland,Trail Blazers,Regular Season,0,0,40.0,17,0,5,4,1,0,0,0,5,-9,12,6,0.5,7,4,0.571,2,1,0.5,124,119,0
+2202,2008,20800398,2008-12-20 21:00:00,Phoenix,Suns,Denver,Nuggets,Regular Season,1,1,38.0,19,6,7,7,0,1,0,2,2,-5,12,6,0.5,6,4,0.667,4,3,0.75,108,101,0
+2202,2008,20800422,2008-12-25 14:30:00,Phoenix,Suns,San Antonio,Spurs,Regular Season,1,0,38.0,11,0,8,7,1,0,2,1,1,3,9,4,0.444,3,2,0.667,2,1,0.5,90,91,0
+2202,2008,20800454,2008-12-29 20:00:00,Phoenix,Suns,Oklahoma City,Thunder,Regular Season,0,1,34.0,20,3,2,0,2,0,0,1,1,-1,20,8,0.4,4,2,0.5,2,2,1.0,102,110,0
+2202,2008,20800461,2008-12-30 20:00:00,Phoenix,Suns,Memphis,Grizzlies,Regular Season,0,1,36.0,7,3,4,4,0,0,0,0,0,12,12,3,0.25,4,1,0.25,0,0,0.0,89,101,0
+2202,2008,20800485,2009-01-02 21:00:00,Phoenix,Suns,Los Angeles,Clippers,Regular Season,1,1,37.0,15,2,1,1,0,2,2,5,3,8,9,6,0.667,3,2,0.667,2,1,0.5,106,98,0
+2202,2008,20800522,2009-01-07 21:00:00,Phoenix,Suns,Indiana,Pacers,Regular Season,1,0,37.0,16,1,10,7,3,0,1,2,1,-9,15,7,0.467,4,1,0.25,2,1,0.5,110,113,0
+2202,2008,20800539,2009-01-09 22:30:00,Phoenix,Suns,Dallas,Mavericks,Regular Season,1,1,33.0,21,4,3,1,2,0,0,2,2,27,13,9,0.692,2,1,0.5,2,2,1.0,128,100,0
+2202,2008,20800548,2009-01-11 15:30:00,Phoenix,Suns,Los Angeles,Clippers,Regular Season,0,1,40.0,21,3,5,3,2,0,1,1,0,6,18,9,0.5,7,3,0.429,0,0,0.0,103,109,0
+2202,2008,20800564,2009-01-13 21:00:00,Phoenix,Suns,Atlanta,Hawks,Regular Season,1,1,30.0,7,4,4,3,1,0,0,2,2,-11,10,3,0.3,4,1,0.25,0,0,0.0,107,102,0
+2202,2008,20800579,2009-01-15 22:30:00,Phoenix,Suns,Denver,Nuggets,Regular Season,0,0,44.0,16,5,6,5,1,2,2,3,4,-8,18,7,0.389,10,2,0.2,0,0,0.0,119,113,0
+2202,2008,20800586,2009-01-16 21:00:00,Phoenix,Suns,Minnesota,Timberwolves,Regular Season,1,0,32.0,8,0,1,1,0,0,1,1,1,0,11,4,0.364,3,0,0.0,0,0,0.0,103,105,0
+2202,2008,20800599,2009-01-18 12:30:00,Phoenix,Suns,Toronto,Raptors,Regular Season,0,1,34.0,17,1,1,0,1,0,2,1,3,3,13,7,0.538,4,1,0.25,2,2,1.0,113,117,0
+2202,2008,20800610,2009-01-19 20:00:00,Phoenix,Suns,Boston,Celtics,Regular Season,0,0,27.0,8,0,3,3,0,1,0,1,0,-24,7,4,0.571,2,0,0.0,1,0,0.0,104,87,0
+2202,2008,20800620,2009-01-21 19:30:00,Phoenix,Suns,New York,Knicks,Regular Season,0,0,36.0,27,0,9,7,2,0,3,0,2,14,21,11,0.524,6,2,0.333,3,3,1.0,114,109,0
+2202,2008,20800630,2009-01-23 19:00:00,Phoenix,Suns,Charlotte,Bobcats,Regular Season,0,0,32.0,8,1,6,5,1,1,2,1,0,-28,9,3,0.333,3,2,0.667,0,0,0.0,98,76,0
+2202,2008,20800648,2009-01-25 18:00:00,Phoenix,Suns,Atlanta,Hawks,Regular Season,0,1,39.0,15,2,7,6,1,2,1,1,1,11,13,5,0.385,4,1,0.25,4,4,1.0,99,104,0
+2202,2008,20800655,2009-01-26 19:00:00,Phoenix,Suns,Washington,Wizards,Regular Season,0,1,35.0,9,3,7,6,1,0,2,1,2,21,13,3,0.231,5,1,0.2,2,2,1.0,87,103,0
+2202,2008,20800680,2009-01-29 22:30:00,Phoenix,Suns,San Antonio,Spurs,Regular Season,1,0,26.0,7,1,2,2,0,0,1,0,5,1,6,3,0.5,1,0,0.0,1,1,1.0,104,114,0
+2202,2008,20800700,2009-01-31 21:00:00,Phoenix,Suns,Chicago,Bulls,Regular Season,1,0,32.0,12,1,3,3,0,0,1,1,1,-16,8,3,0.375,4,1,0.25,6,5,0.833,111,122,0
+2202,2008,20800711,2009-02-02 21:00:00,Phoenix,Suns,Sacramento,Kings,Regular Season,1,1,24.0,24,6,5,3,2,0,4,2,2,34,12,10,0.833,4,3,0.75,1,1,1.0,129,81,0
+2202,2008,20800730,2009-02-04 22:30:00,Phoenix,Suns,Golden State,Warriors,Regular Season,0,0,36.0,24,3,5,1,4,0,3,2,2,-18,22,9,0.409,7,3,0.429,6,3,0.5,124,112,0
+2202,2008,20800742,2009-02-06 22:30:00,Phoenix,Suns,Golden State,Warriors,Regular Season,1,1,38.0,25,0,3,3,0,1,0,0,3,12,14,9,0.643,3,2,0.667,6,5,0.833,115,105,0
+2202,2008,20800758,2009-02-08 20:00:00,Phoenix,Suns,Detroit,Pistons,Regular Season,0,1,32.0,21,0,3,1,2,0,1,0,3,9,16,8,0.5,5,2,0.4,4,3,0.75,97,107,0
+2202,2008,20800761,2009-02-09 19:00:00,Phoenix,Suns,Philadelphia,76ers,Regular Season,0,0,29.0,16,2,2,2,0,0,0,0,1,-14,14,7,0.5,3,0,0.0,2,2,1.0,108,91,0
+2202,2008,20800774,2009-02-11 19:00:00,Phoenix,Suns,Cleveland,Cavaliers,Regular Season,0,0,27.0,10,3,2,2,0,0,2,3,2,-5,9,4,0.444,2,1,0.5,2,1,0.5,109,92,0
+2202,2008,20800795,2009-02-17 21:00:00,Phoenix,Suns,Los Angeles,Clippers,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,140,100,0
+2202,2008,20800808,2009-02-18 22:30:00,Phoenix,Suns,Los Angeles,Clippers,Regular Season,0,1,28.0,17,1,7,4,3,0,1,0,1,13,10,7,0.7,5,3,0.6,2,0,0.0,119,142,0
+2202,2008,20800819,2009-02-20 21:00:00,Phoenix,Suns,Oklahoma City,Thunder,Regular Season,1,1,38.0,34,3,5,4,1,1,2,4,2,20,20,14,0.7,5,4,0.8,2,2,1.0,140,118,0
+2202,2008,20800829,2009-02-22 14:30:00,Phoenix,Suns,Boston,Celtics,Regular Season,1,0,34.0,21,2,1,0,1,0,2,1,3,-21,12,7,0.583,5,2,0.4,5,5,1.0,108,128,0
+2202,2008,20800849,2009-02-24 21:00:00,Phoenix,Suns,Charlotte,Bobcats,Regular Season,1,1,33.0,20,3,3,2,1,1,2,2,6,19,10,6,0.6,5,2,0.4,6,6,1.0,112,102,0
+2202,2008,20800862,2009-02-26 22:30:00,Phoenix,Suns,Los Angeles,Lakers,Regular Season,0,0,26.0,13,1,3,2,1,0,0,1,0,-19,14,6,0.429,5,1,0.2,0,0,0.0,132,106,0
+2202,2008,20800872,2009-02-27 21:00:00,Phoenix,Suns,Toronto,Raptors,Regular Season,1,1,35.0,11,3,3,1,2,0,1,0,0,8,12,5,0.417,1,1,1.0,0,0,0.0,133,113,0
+2202,2008,20800884,2009-03-01 15:30:00,Phoenix,Suns,Los Angeles,Lakers,Regular Season,1,1,35.0,8,1,3,3,0,1,1,0,1,-4,10,3,0.3,5,0,0.0,5,2,0.4,118,111,0
+2202,2008,20800898,2009-03-03 19:00:00,Phoenix,Suns,Orlando,Magic,Regular Season,0,0,40.0,27,2,6,4,2,0,1,1,3,-13,20,11,0.55,7,4,0.571,2,1,0.5,111,99,0
+2202,2008,20800906,2009-03-04 19:30:00,Phoenix,Suns,Miami,Heat,Regular Season,0,0,39.0,22,3,4,3,1,0,0,2,0,-11,16,8,0.5,8,3,0.375,3,3,1.0,135,129,0
+2202,2008,20800923,2009-03-06 20:30:00,Phoenix,Suns,Houston,Rockets,Regular Season,0,0,38.0,14,1,7,5,2,0,0,2,4,-2,11,5,0.455,4,0,0.0,6,4,0.667,116,112,0
+2202,2008,20800938,2009-03-08 15:30:00,Phoenix,Suns,San Antonio,Spurs,Regular Season,0,0,36.0,15,1,4,4,0,0,4,0,2,-2,15,6,0.4,4,1,0.25,3,2,0.667,103,98,0
+2202,2008,20800952,2009-03-10 22:00:00,Phoenix,Suns,Dallas,Mavericks,Regular Season,1,0,29.0,16,2,7,5,2,0,0,0,3,8,15,7,0.467,5,2,0.4,0,0,0.0,117,122,0
+2202,2008,20800967,2009-03-12 22:30:00,Phoenix,Suns,Cleveland,Cavaliers,Regular Season,1,0,31.0,13,3,7,4,3,0,2,0,2,-3,14,6,0.429,5,1,0.2,0,0,0.0,111,119,0
+2202,2008,20800984,2009-03-14 22:00:00,Phoenix,Suns,Oklahoma City,Thunder,Regular Season,1,1,21.0,6,1,5,4,1,0,0,0,0,-2,9,3,0.333,1,0,0.0,0,0,0.0,106,95,0
+2202,2008,20800994,2009-03-15 21:00:00,Phoenix,Suns,Golden State,Warriors,Regular Season,0,1,31.0,31,1,3,3,0,0,0,1,1,18,15,11,0.733,5,4,0.8,5,5,1.0,130,154,0
+2202,2008,20801018,2009-03-18 22:00:00,Phoenix,Suns,Philadelphia,76ers,Regular Season,1,1,37.0,25,1,7,6,1,1,0,1,0,-3,16,9,0.563,7,2,0.286,6,5,0.833,126,116,0
+2202,2008,20801040,2009-03-21 22:00:00,Phoenix,Suns,Washington,Wizards,Regular Season,1,1,37.0,35,3,7,7,0,2,1,2,1,30,18,13,0.722,9,6,0.667,3,3,1.0,128,96,0
+2202,2008,20801053,2009-03-23 22:00:00,Phoenix,Suns,Denver,Nuggets,Regular Season,1,1,38.0,22,1,5,3,2,1,2,2,1,-3,13,7,0.538,5,1,0.2,9,7,0.778,118,115,0
+2202,2008,20801069,2009-03-25 22:30:00,Phoenix,Suns,Utah,Jazz,Regular Season,1,1,38.0,21,2,5,5,0,2,2,3,3,1,16,9,0.563,5,3,0.6,0,0,0.0,118,114,0
+2202,2008,20801072,2009-03-26 22:30:00,Phoenix,Suns,Portland,Trail Blazers,Regular Season,0,0,29.0,16,1,6,5,1,0,1,4,4,-21,13,7,0.538,6,2,0.333,0,0,0.0,129,109,0
+2202,2008,20801089,2009-03-28 21:00:00,Phoenix,Suns,Utah,Jazz,Regular Season,0,0,30.0,4,4,2,2,0,0,2,0,0,-17,11,2,0.182,4,0,0.0,0,0,0.0,104,99,0
+2202,2008,20801099,2009-03-29 21:00:00,Phoenix,Suns,Sacramento,Kings,Regular Season,0,0,40.0,16,2,8,7,1,1,1,1,1,-7,13,5,0.385,9,4,0.444,4,2,0.5,126,118,0
+2202,2008,20801119,2009-04-01 22:00:00,Phoenix,Suns,Houston,Rockets,Regular Season,1,1,35.0,18,3,5,3,2,0,1,1,2,2,15,8,0.533,4,1,0.25,3,1,0.333,114,109,0
+2202,2008,20801132,2009-04-03 22:00:00,Phoenix,Suns,Sacramento,Kings,Regular Season,1,1,25.0,19,2,5,2,3,0,1,0,2,18,14,6,0.429,4,2,0.5,5,5,1.0,139,111,0
+2202,2008,20801143,2009-04-05 15:30:00,Phoenix,Suns,Dallas,Mavericks,Regular Season,0,0,15.0,2,0,4,3,1,0,0,1,0,-20,4,0,0.0,3,0,0.0,4,2,0.5,140,116,0
+2202,2008,20801168,2009-04-08 20:00:00,Phoenix,Suns,New Orleans,Hornets,Regular Season,0,1,28.0,17,1,2,2,0,1,0,1,0,4,12,6,0.5,4,0,0.0,5,5,1.0,100,105,0
+2202,2008,20801181,2009-04-10 20:00:00,Phoenix,Suns,Memphis,Grizzlies,Regular Season,0,0,25.0,13,1,3,1,2,1,1,2,0,-13,12,6,0.5,4,1,0.25,0,0,0.0,106,89,0
+2202,2008,20801191,2009-04-11 20:00:00,Phoenix,Suns,Minnesota,Timberwolves,Regular Season,0,1,15.0,8,0,0,0,0,0,0,1,2,0,6,3,0.5,4,1,0.25,1,1,1.0,97,110,0
+2202,2008,20801211,2009-04-13 22:00:00,Phoenix,Suns,Memphis,Grizzlies,Regular Season,1,1,30.0,18,2,8,6,2,2,2,1,3,16,15,7,0.467,4,2,0.5,2,2,1.0,119,110,0
+2202,2008,20801229,2009-04-15 22:30:00,Phoenix,Suns,Golden State,Warriors,Regular Season,1,1,17.0,10,1,2,1,1,0,0,0,3,4,7,4,0.571,3,2,0.667,0,0,0.0,117,113,0
+2202,2009,10900035,2009-10-10 21:30:00,Phoenix,Suns,Golden State,Warriors,Preseason,1,0,21.0,11,3,5,4,1,1,1,1,1,0,11,5,0.455,2,1,0.5,0,0,0.0,101,104,0
+2202,2009,10900048,2009-10-12 20:00:00,Phoenix,Suns,Oklahoma City,Thunder,Preseason,0,0,21.0,8,2,2,2,0,0,1,1,2,0,8,2,0.25,4,1,0.25,3,3,1.0,110,105,0
+2202,2009,10900059,2009-10-14 22:00:00,Phoenix,Suns,Portland,Trail Blazers,Preseason,0,1,24.0,9,1,4,4,0,0,0,1,0,0,12,4,0.333,3,1,0.333,0,0,0.0,104,110,0
+2202,2009,10900069,2009-10-16 22:00:00,Phoenix,Suns,Philadelphia,76ers,Preseason,1,1,23.0,16,1,4,1,3,0,1,0,3,0,12,5,0.416,6,2,0.333,4,4,1.0,115,113,0
+2202,2009,10900084,2009-10-18 19:00:00,Phoenix,Suns,Philadelphia,76ers,Preseason,1,0,20.0,17,0,2,2,0,0,2,0,2,0,11,6,0.545,4,3,0.75,2,2,1.0,94,116,0
+2202,2009,10900091,2009-10-20 22:00:00,Phoenix,Suns,Sacramento,Kings,Preseason,1,1,34.0,6,3,10,7,3,0,0,2,3,0,8,0,0.0,4,0,0.0,6,6,1.0,143,127,0
+2202,2009,10900105,2009-10-22 22:00:00,Phoenix,Suns,Portland,Trail Blazers,Preseason,1,0,28.0,8,1,3,3,0,0,0,0,4,0,10,3,0.299,3,1,0.333,1,1,1.0,93,113,0
+2202,2009,20900016,2009-10-28 22:30:00,Phoenix,Suns,Los Angeles,Clippers,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,107,109,0
+2202,2009,20900030,2009-10-30 22:00:00,Phoenix,Suns,Golden State,Warriors,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,123,101,0
+2202,2009,20900044,2009-11-01 20:00:00,Phoenix,Suns,Minnesota,Timberwolves,Regular Season,1,1,34.0,23,0,2,2,0,0,1,1,4,0,14,8,0.571,7,4,0.571,3,3,1.0,120,112,0
+2202,2009,20900055,2009-11-03 19:30:00,Phoenix,Suns,Miami,Heat,Regular Season,0,1,36.0,14,2,4,2,2,1,1,0,3,5,13,6,0.462,7,2,0.286,1,0,0.0,96,104,0
+2202,2009,20900060,2009-11-04 19:00:00,Phoenix,Suns,Orlando,Magic,Regular Season,0,0,20.0,0,4,3,2,1,0,0,0,4,-9,4,0,0.0,2,0,0.0,2,0,0.0,122,100,0
+2202,2009,20900076,2009-11-06 19:30:00,Phoenix,Suns,Boston,Celtics,Regular Season,0,1,38.0,34,2,10,9,1,0,1,2,2,7,16,10,0.625,7,6,0.857,11,8,0.727,103,110,0
+2202,2009,20900093,2009-11-08 13:00:00,Phoenix,Suns,Washington,Wizards,Regular Season,0,1,35.0,22,2,4,3,1,0,0,2,1,15,16,9,0.563,7,4,0.571,2,0,0.0,90,102,0
+2202,2009,20900098,2009-11-09 19:00:00,Phoenix,Suns,Philadelphia,76ers,Regular Season,0,1,38.0,29,2,8,6,2,0,0,0,2,11,16,11,0.688,8,6,0.75,1,1,1.0,115,119,0
+2202,2009,20900121,2009-11-11 22:30:00,Phoenix,Suns,New Orleans,Hornets,Regular Season,1,1,26.0,13,2,6,5,1,0,1,3,4,18,8,4,0.5,5,2,0.4,4,3,0.75,124,104,0
+2202,2009,20900123,2009-11-12 22:30:00,Phoenix,Suns,Los Angeles,Lakers,Regular Season,0,0,24.0,5,0,3,2,1,0,0,0,3,-25,9,2,0.222,5,0,0.0,2,1,0.5,121,102,0
+2202,2009,20900145,2009-11-15 20:00:00,Phoenix,Suns,Toronto,Raptors,Regular Season,1,1,39.0,8,1,10,9,1,0,1,1,1,3,11,4,0.364,3,0,0.0,0,0,0.0,101,100,0
+2202,2009,20900154,2009-11-17 20:30:00,Phoenix,Suns,Houston,Rockets,Regular Season,0,1,32.0,20,0,5,5,0,2,0,1,2,6,14,8,0.571,7,2,0.286,2,2,1.0,105,111,0
+2202,2009,20900170,2009-11-19 20:00:00,Phoenix,Suns,New Orleans,Hornets,Regular Season,0,0,33.0,16,2,4,2,2,0,1,0,3,-1,14,7,0.5,6,2,0.333,0,0,0.0,110,103,0
+2202,2009,20900196,2009-11-22 20:00:00,Phoenix,Suns,Detroit,Pistons,Regular Season,1,1,28.0,17,1,1,0,1,0,1,0,1,15,12,6,0.5,4,3,0.75,2,2,1.0,117,91,0
+2202,2009,20900217,2009-11-25 21:00:00,Phoenix,Suns,Memphis,Grizzlies,Regular Season,1,1,27.0,20,1,5,5,0,0,1,0,0,15,13,8,0.615,5,3,0.6,1,1,1.0,126,111,0
+2202,2009,20900231,2009-11-27 21:30:00,Phoenix,Suns,Minnesota,Timberwolves,Regular Season,0,1,23.0,22,5,1,1,0,1,4,0,2,28,16,9,0.563,7,2,0.286,4,2,0.5,95,120,0
+2202,2009,20900241,2009-11-29 13:00:00,Phoenix,Suns,Toronto,Raptors,Regular Season,0,1,36.0,22,0,9,7,2,1,0,3,1,14,13,7,0.538,6,4,0.667,4,4,1.0,94,113,0
+2202,2009,20900255,2009-12-01 19:30:00,Phoenix,Suns,New York,Knicks,Regular Season,0,0,27.0,14,1,3,3,0,1,1,2,2,-30,10,5,0.5,3,0,0.0,4,4,1.0,126,99,0
+2202,2009,20900260,2009-12-02 19:00:00,Phoenix,Suns,Cleveland,Cavaliers,Regular Season,0,0,30.0,6,4,7,7,0,1,1,1,1,-10,11,2,0.182,6,2,0.333,0,0,0.0,107,90,0
+2202,2009,20900287,2009-12-05 21:00:00,Phoenix,Suns,Sacramento,Kings,Regular Season,1,1,33.0,16,1,2,1,1,0,2,2,5,5,14,6,0.429,6,2,0.333,2,2,1.0,115,107,0
+2202,2009,20900295,2009-12-06 21:30:00,Phoenix,Suns,Los Angeles,Lakers,Regular Season,0,0,33.0,10,5,4,3,1,0,1,0,2,-7,12,5,0.417,3,0,0.0,0,0,0.0,108,88,0
+2202,2009,20900306,2009-12-08 20:30:00,Phoenix,Suns,Dallas,Mavericks,Regular Season,0,0,41.0,25,4,8,8,0,0,2,1,4,6,20,9,0.45,6,1,0.167,6,6,1.0,102,101,0
+2202,2009,20900330,2009-12-11 22:30:00,Phoenix,Suns,Orlando,Magic,Regular Season,1,1,36.0,16,1,3,2,1,1,2,2,5,6,16,6,0.375,8,3,0.375,2,1,0.5,106,103,0
+2202,2009,20900336,2009-12-12 21:00:00,Phoenix,Suns,Denver,Nuggets,Regular Season,0,0,25.0,8,1,5,4,1,0,0,3,2,-13,8,3,0.375,1,0,0.0,2,2,1.0,105,99,0
+2202,2009,20900356,2009-12-15 21:00:00,Phoenix,Suns,San Antonio,Spurs,Regular Season,1,1,22.0,3,3,7,6,1,1,0,0,1,6,7,1,0.143,2,1,0.5,0,0,0.0,116,104,0
+2202,2009,20900392,2009-12-19 21:00:00,Phoenix,Suns,Washington,Wizards,Regular Season,1,1,25.0,22,2,6,5,1,0,1,1,1,23,18,10,0.556,4,1,0.25,1,1,1.0,121,95,0
+2202,2009,20900404,2009-12-21 21:00:00,Phoenix,Suns,Cleveland,Cavaliers,Regular Season,1,0,30.0,8,0,5,4,1,0,1,3,3,-13,10,3,0.3,6,1,0.167,2,1,0.5,91,109,0
+2202,2009,20900422,2009-12-23 21:00:00,Phoenix,Suns,Oklahoma City,Thunder,Regular Season,1,0,34.0,13,3,4,1,3,3,1,2,1,5,15,6,0.4,6,1,0.167,0,0,0.0,113,117,0
+2202,2009,20900427,2009-12-25 20:00:00,Phoenix,Suns,Los Angeles,Clippers,Regular Season,1,1,24.0,18,4,8,8,0,0,1,2,1,16,15,7,0.467,7,3,0.429,2,1,0.5,124,93,0
+2202,2009,20900438,2009-12-26 22:30:00,Phoenix,Suns,Golden State,Warriors,Regular Season,0,0,37.0,22,3,4,3,1,1,5,4,5,1,13,8,0.615,6,2,0.333,6,4,0.667,132,127,0
+2202,2009,20900448,2009-12-28 21:00:00,Phoenix,Suns,Los Angeles,Lakers,Regular Season,1,1,26.0,4,1,2,0,2,0,1,0,3,6,6,1,0.167,5,1,0.2,2,1,0.5,118,103,0
+2202,2009,20900466,2009-12-30 21:00:00,Phoenix,Suns,Boston,Celtics,Regular Season,1,1,22.0,12,3,1,0,1,0,0,2,1,21,10,4,0.4,2,0,0.0,4,4,1.0,116,98,0
+2202,2009,20900485,2010-01-02 21:00:00,Phoenix,Suns,Memphis,Grizzlies,Regular Season,1,0,22.0,5,2,2,1,1,0,1,1,0,-16,7,2,0.286,5,1,0.2,0,0,0.0,103,128,0
+2202,2009,20900505,2010-01-05 22:00:00,Phoenix,Suns,Sacramento,Kings,Regular Season,0,1,33.0,20,2,9,5,4,0,0,0,2,14,17,8,0.471,4,2,0.5,4,2,0.5,109,113,0
+2202,2009,20900514,2010-01-06 21:00:00,Phoenix,Suns,Houston,Rockets,Regular Season,1,1,30.0,20,4,6,4,2,1,2,3,3,17,14,7,0.5,5,2,0.4,4,4,1.0,118,110,0
+2202,2009,20900526,2010-01-08 21:00:00,Phoenix,Suns,Miami,Heat,Regular Season,1,0,33.0,15,1,3,2,1,0,0,1,1,-2,13,4,0.308,7,3,0.429,4,4,1.0,105,109,0
+2202,2009,20900550,2010-01-11 21:00:00,Phoenix,Suns,Milwaukee,Bucks,Regular Season,1,1,31.0,23,2,3,3,0,1,0,2,2,4,15,9,0.6,7,4,0.571,2,1,0.5,105,101,0
+2202,2009,20900559,2010-01-13 19:00:00,Phoenix,Suns,Indiana,Pacers,Regular Season,0,0,35.0,13,2,8,5,3,0,0,1,1,-10,13,5,0.385,3,1,0.333,2,2,1.0,122,114,0
+2202,2009,20900573,2010-01-15 20:00:00,Phoenix,Suns,Atlanta,Hawks,Regular Season,0,0,26.0,5,3,4,3,1,1,0,0,3,0,8,2,0.25,2,0,0.0,2,1,0.5,102,101,0
+2202,2009,20900584,2010-01-16 19:00:00,Phoenix,Suns,Charlotte,Bobcats,Regular Season,0,0,18.0,9,0,0,0,0,0,0,2,2,-23,8,3,0.375,4,3,0.75,0,0,0.0,125,99,0
+2202,2009,20900603,2010-01-18 17:30:00,Phoenix,Suns,Memphis,Grizzlies,Regular Season,0,0,24.0,8,0,2,2,0,1,1,0,2,-9,11,4,0.364,3,0,0.0,0,0,0.0,125,118,0
+2202,2009,20900617,2010-01-20 21:00:00,Phoenix,Suns,New Jersey,Nets,Regular Season,1,1,28.0,26,0,7,7,0,0,1,0,1,11,14,10,0.714,2,2,1.0,5,4,0.8,118,94,0
+2202,2009,20900635,2010-01-22 22:30:00,Phoenix,Suns,Chicago,Bulls,Regular Season,1,0,29.0,12,3,8,4,4,0,0,1,2,-12,17,6,0.353,5,0,0.0,0,0,0.0,104,115,0
+2202,2009,20900644,2010-01-23 21:00:00,Phoenix,Suns,Golden State,Warriors,Regular Season,1,1,26.0,8,1,8,7,1,0,0,0,1,-2,11,4,0.364,2,0,0.0,0,0,0.0,112,103,0
+2202,2009,20900656,2010-01-25 21:00:00,Phoenix,Suns,Utah,Jazz,Regular Season,0,0,38.0,14,1,6,5,1,1,1,1,3,-3,14,6,0.429,6,2,0.333,2,0,0.0,124,115,0
+2202,2009,20900661,2010-01-26 21:00:00,Phoenix,Suns,Charlotte,Bobcats,Regular Season,1,0,44.0,6,5,7,7,0,1,0,2,3,-12,12,2,0.167,6,1,0.167,2,1,0.5,109,114,0
+2202,2009,20900676,2010-01-28 22:30:00,Phoenix,Suns,Dallas,Mavericks,Regular Season,1,1,28.0,17,1,4,2,2,0,0,0,0,-6,14,8,0.571,3,1,0.333,0,0,0.0,112,106,0
+2202,2009,20900701,2010-01-31 19:00:00,Phoenix,Suns,Houston,Rockets,Regular Season,0,1,34.0,8,1,8,7,1,0,2,3,2,7,11,4,0.364,3,0,0.0,0,0,0.0,111,115,0
+2202,2009,20900707,2010-02-01 20:00:00,Phoenix,Suns,New Orleans,Hornets,Regular Season,0,1,24.0,3,2,8,8,0,1,0,1,1,9,6,1,0.167,2,0,0.0,2,1,0.5,100,109,0
+2202,2009,20900725,2010-02-03 22:30:00,Phoenix,Suns,Denver,Nuggets,Regular Season,0,1,40.0,20,1,7,6,1,2,1,1,3,1,15,8,0.533,5,2,0.4,2,2,1.0,97,109,0
+2202,2009,20900739,2010-02-05 22:00:00,Phoenix,Suns,Sacramento,Kings,Regular Season,0,1,34.0,16,0,1,1,0,0,2,1,3,0,12,5,0.417,5,1,0.2,7,5,0.714,102,114,0
+2202,2009,20900776,2010-02-10 21:00:00,Phoenix,Suns,Portland,Trail Blazers,Regular Season,1,0,36.0,13,3,6,6,0,1,1,0,2,-10,12,5,0.417,6,2,0.333,1,1,1.0,101,108,0
+2202,2009,20900785,2010-02-16 20:00:00,Phoenix,Suns,Memphis,Grizzlies,Regular Season,0,1,35.0,27,1,6,5,1,2,2,1,4,4,17,12,0.706,5,2,0.4,2,1,0.5,95,109,0
+2202,2009,20900799,2010-02-17 21:00:00,Phoenix,Suns,Dallas,Mavericks,Regular Season,0,0,37.0,19,1,7,4,3,0,1,4,4,-14,15,8,0.533,5,1,0.2,3,2,0.667,107,97,0
+2202,2009,20900813,2010-02-19 21:00:00,Phoenix,Suns,Atlanta,Hawks,Regular Season,1,1,33.0,4,3,7,7,0,0,0,0,2,5,9,2,0.222,4,0,0.0,0,0,0.0,88,80,0
+2202,2009,20900830,2010-02-21 20:00:00,Phoenix,Suns,Sacramento,Kings,Regular Season,1,1,33.0,26,1,7,4,3,1,0,0,3,19,18,10,0.556,6,4,0.667,2,2,1.0,104,88,0
+2202,2009,20900842,2010-02-23 20:00:00,Phoenix,Suns,Oklahoma City,Thunder,Regular Season,0,1,38.0,20,2,13,11,2,0,2,1,1,12,17,8,0.471,4,2,0.5,3,2,0.667,102,104,0
+2202,2009,20900853,2010-02-24 21:00:00,Phoenix,Suns,Philadelphia,76ers,Regular Season,1,1,32.0,24,1,5,5,0,0,0,1,1,20,12,8,0.667,5,4,0.8,4,4,1.0,106,95,0
+2202,2009,20900870,2010-02-26 21:00:00,Phoenix,Suns,Los Angeles,Clippers,Regular Season,1,1,30.0,14,0,6,5,1,0,1,1,2,15,14,6,0.429,6,2,0.333,0,0,0.0,125,112,0
+2202,2009,20900878,2010-02-28 13:00:00,Phoenix,Suns,San Antonio,Spurs,Regular Season,0,0,35.0,20,2,2,2,0,0,1,2,0,-6,13,8,0.615,4,2,0.5,2,2,1.0,113,110,0
+2202,2009,20900893,2010-03-01 21:00:00,Phoenix,Suns,Denver,Nuggets,Regular Season,1,1,34.0,12,2,7,6,1,0,1,2,3,8,7,4,0.571,5,3,0.6,2,1,0.5,101,85,0
+2202,2009,20900910,2010-03-03 22:30:00,Phoenix,Suns,Los Angeles,Clippers,Regular Season,0,1,28.0,22,2,5,5,0,0,1,2,2,22,11,8,0.727,3,2,0.667,4,4,1.0,101,127,0
+2202,2009,20900913,2010-03-04 22:30:00,Phoenix,Suns,Utah,Jazz,Regular Season,1,0,39.0,22,1,7,4,3,1,0,1,5,-8,14,8,0.571,7,3,0.429,4,3,0.75,108,116,0
+2202,2009,20900932,2010-03-06 21:00:00,Phoenix,Suns,Indiana,Pacers,Regular Season,1,1,39.0,20,1,10,7,3,2,1,1,3,10,13,7,0.538,5,4,0.8,4,2,0.5,113,105,0
+2202,2009,20900974,2010-03-12 21:00:00,Phoenix,Suns,Los Angeles,Lakers,Regular Season,1,0,32.0,16,0,5,4,1,0,1,1,2,-8,15,5,0.333,8,2,0.25,4,4,1.0,96,102,0
+2202,2009,20900988,2010-03-14 21:00:00,Phoenix,Suns,New Orleans,Hornets,Regular Season,1,1,31.0,20,4,4,4,0,0,0,4,1,24,15,9,0.6,5,2,0.4,2,0,0.0,120,106,0
+2202,2009,20901003,2010-03-16 22:00:00,Phoenix,Suns,Minnesota,Timberwolves,Regular Season,1,1,29.0,27,3,4,3,1,0,2,0,1,19,15,9,0.6,9,6,0.667,4,3,0.75,152,114,0
+2202,2009,20901025,2010-03-19 22:00:00,Phoenix,Suns,Utah,Jazz,Regular Season,1,1,34.0,11,2,7,7,0,1,0,1,2,16,12,4,0.333,8,2,0.25,2,1,0.5,110,100,0
+2202,2009,20901042,2010-03-21 22:30:00,Phoenix,Suns,Portland,Trail Blazers,Regular Season,1,1,30.0,16,0,5,4,1,0,0,1,2,-10,15,6,0.4,5,2,0.4,2,2,1.0,93,87,0
+2202,2009,20901052,2010-03-22 22:30:00,Phoenix,Suns,Golden State,Warriors,Regular Season,0,1,40.0,34,3,6,5,1,0,2,1,3,9,20,12,0.6,8,5,0.625,5,5,1.0,131,133,0
+2202,2009,20901081,2010-03-26 22:00:00,Phoenix,Suns,New York,Knicks,Regular Season,1,1,26.0,17,1,7,4,3,0,0,0,1,18,14,7,0.5,6,2,0.333,2,1,0.5,132,96,0
+2202,2009,20901093,2010-03-28 19:00:00,Phoenix,Suns,Minnesota,Timberwolves,Regular Season,0,1,29.0,11,2,2,1,1,0,1,2,3,-5,10,4,0.4,4,1,0.25,4,2,0.5,105,111,0
+2202,2009,20901104,2010-03-30 20:00:00,Phoenix,Suns,Chicago,Bulls,Regular Season,0,1,34.0,27,2,6,5,1,0,1,2,4,22,19,10,0.526,9,4,0.444,4,3,0.75,105,111,0
+2202,2009,20901113,2010-03-31 19:30:00,Phoenix,Suns,New Jersey,Nets,Regular Season,0,1,31.0,23,3,4,4,0,1,1,0,1,14,17,10,0.588,4,3,0.75,0,0,0.0,105,116,0
+2202,2009,20901127,2010-04-02 20:00:00,Phoenix,Suns,Detroit,Pistons,Regular Season,0,1,25.0,12,2,2,2,0,0,0,0,2,6,10,4,0.4,6,3,0.5,1,1,1.0,94,109,0
+2202,2009,20901138,2010-04-03 20:30:00,Phoenix,Suns,Milwaukee,Bucks,Regular Season,0,0,22.0,0,1,0,0,0,0,1,0,1,-12,4,0,0.0,3,0,0.0,0,0,0.0,107,98,0
+2202,2009,20901170,2010-04-07 22:30:00,Phoenix,Suns,San Antonio,Spurs,Regular Season,1,1,29.0,20,2,2,2,0,0,1,0,0,10,13,7,0.538,6,3,0.5,4,3,0.75,112,101,0
+2202,2009,20901183,2010-04-09 20:00:00,Phoenix,Suns,Oklahoma City,Thunder,Regular Season,0,0,26.0,12,0,4,3,1,0,1,2,4,-5,11,5,0.455,5,2,0.4,0,0,0.0,96,91,0
+2202,2009,20901201,2010-04-11 21:00:00,Phoenix,Suns,Houston,Rockets,Regular Season,1,1,30.0,14,4,2,2,0,0,1,1,3,8,10,4,0.4,4,2,0.5,5,4,0.8,116,106,0
+2202,2009,20901216,2010-04-13 22:30:00,Phoenix,Suns,Denver,Nuggets,Regular Season,1,1,30.0,14,1,7,5,2,1,0,0,0,22,8,5,0.625,4,2,0.5,4,2,0.5,123,101,0
+2202,2009,20901230,2010-04-14 22:30:00,Phoenix,Suns,Utah,Jazz,Regular Season,0,1,26.0,12,2,4,3,1,1,1,3,2,6,12,5,0.417,5,2,0.4,0,0,0.0,86,100,0
+2202,2009,40900161,2010-04-18 22:30:00,Phoenix,Suns,Portland,Trail Blazers,Playoffs,1,0,31.0,14,1,10,8,2,1,0,1,4,-13,12,4,0.333,6,2,0.333,5,4,0.8,100,105,0
+2202,2009,40900162,2010-04-20 22:00:00,Phoenix,Suns,Portland,Trail Blazers,Playoffs,1,1,30.0,29,0,6,5,1,0,0,0,2,25,16,11,0.688,5,4,0.8,4,3,0.75,119,90,0
+2202,2009,40900163,2010-04-22 22:00:00,Phoenix,Suns,Portland,Trail Blazers,Playoffs,0,1,37.0,42,2,8,6,2,0,3,0,3,15,19,13,0.684,12,8,0.667,10,8,0.8,89,108,0
+2202,2009,40900164,2010-04-24 16:30:00,Phoenix,Suns,Portland,Trail Blazers,Playoffs,0,0,32.0,15,1,2,0,2,0,0,0,3,-6,16,6,0.375,8,2,0.25,2,1,0.5,96,87,0
+2202,2009,40900165,2010-04-26 22:30:00,Phoenix,Suns,Portland,Trail Blazers,Playoffs,1,1,28.0,13,0,8,5,3,0,2,0,1,13,14,5,0.357,4,1,0.25,2,2,1.0,107,88,0
+2202,2009,40900166,2010-04-29 22:30:00,Phoenix,Suns,Portland,Trail Blazers,Playoffs,0,1,32.0,28,2,7,7,0,1,2,0,4,12,16,10,0.625,8,5,0.625,3,3,1.0,90,99,0
+2202,2009,40900221,2010-05-03 22:30:00,Phoenix,Suns,San Antonio,Spurs,Playoffs,1,1,35.0,27,0,6,6,0,0,1,3,3,11,16,10,0.625,6,3,0.5,6,4,0.667,111,102,0
+2202,2009,40900222,2010-05-05 21:00:00,Phoenix,Suns,San Antonio,Spurs,Playoffs,1,1,34.0,19,3,5,4,1,0,0,0,2,6,16,6,0.375,6,3,0.5,5,4,0.8,110,102,0
+2202,2009,40900223,2010-05-07 21:30:00,Phoenix,Suns,San Antonio,Spurs,Playoffs,0,1,32.0,21,0,3,3,0,0,2,2,2,6,15,8,0.533,7,5,0.714,0,0,0.0,96,110,0
+2202,2009,40900224,2010-05-09 20:00:00,Phoenix,Suns,San Antonio,Spurs,Playoffs,0,1,34.0,11,1,8,6,2,1,0,2,1,-2,11,4,0.364,4,1,0.25,3,2,0.667,101,107,0
+2202,2009,40900311,2010-05-17 21:00:00,Phoenix,Suns,Los Angeles,Lakers,Playoffs,0,0,36.0,15,3,6,5,1,0,1,0,3,-24,12,6,0.5,6,3,0.5,2,0,0.0,128,107,0
+2202,2009,40900312,2010-05-19 21:00:00,Phoenix,Suns,Los Angeles,Lakers,Playoffs,0,0,36.0,27,1,3,3,0,0,2,0,1,-12,17,10,0.588,7,3,0.429,4,4,1.0,124,112,0
+2202,2009,40900313,2010-05-23 20:30:00,Phoenix,Suns,Los Angeles,Lakers,Playoffs,1,1,36.0,19,0,3,3,0,0,1,0,2,17,15,7,0.467,7,4,0.571,1,1,1.0,118,109,0
+2202,2009,40900314,2010-05-25 21:00:00,Phoenix,Suns,Los Angeles,Lakers,Playoffs,1,1,31.0,11,2,6,4,2,0,1,0,1,-4,9,4,0.444,3,1,0.333,2,2,1.0,115,106,0
+2202,2009,40900315,2010-05-27 21:00:00,Phoenix,Suns,Los Angeles,Lakers,Playoffs,0,0,33.0,12,1,5,4,1,1,2,1,1,-1,12,5,0.417,6,1,0.167,3,1,0.333,103,101,0
+2202,2009,40900316,2010-05-29 20:30:00,Phoenix,Suns,Los Angeles,Lakers,Playoffs,1,0,29.0,13,0,1,0,1,0,0,1,2,-14,7,3,0.429,6,2,0.333,6,5,0.833,103,111,0
+2202,2010,11000009,2010-10-05 22:00:00,Phoenix,Suns,Sacramento,Kings,Preseason,0,0,23.0,17,1,5,4,1,0,1,1,1,0,11,6,0.545,5,1,0.2,4,4,1.0,109,95,0
+2202,2010,11000014,2010-10-06 22:00:00,Phoenix,Suns,Toronto,Raptors,Preseason,1,0,6.0,2,0,0,0,0,0,1,1,0,0,2,1,0.5,1,0,0.0,0,0,0.0,78,129,0
+2202,2010,11000033,2010-10-09 21:30:00,Phoenix,Suns,Dallas,Mavericks,Preseason,1,1,23.0,15,1,3,2,1,1,1,0,3,0,13,6,0.462,4,2,0.5,2,1,0.5,98,90,0
+2202,2010,11000048,2010-10-12 22:00:00,Phoenix,Suns,Utah,Jazz,Preseason,1,0,21.0,13,1,2,2,0,0,2,2,2,0,9,4,0.444,6,3,0.5,2,2,1.0,100,105,0
+2202,2010,11000063,2010-10-14 21:00:00,Phoenix,Suns,Utah,Jazz,Preseason,0,0,14.0,5,2,7,6,1,1,0,2,3,0,5,2,0.4,3,1,0.333,0,0,0.0,108,97,0
+2202,2010,11000082,2010-10-17 13:00:00,Phoenix,Suns,Toronto,Raptors,Preseason,0,0,19.0,12,2,4,3,1,0,1,1,1,0,10,4,0.4,7,2,0.285,4,2,0.5,121,100,0
+2202,2010,11000097,2010-10-19 22:00:00,Phoenix,Suns,Golden State,Warriors,Preseason,1,1,28.0,11,1,5,2,3,1,2,4,1,0,13,4,0.307,5,1,0.2,2,2,1.0,92,87,0
+2202,2010,11000114,2010-10-22 22:00:00,Phoenix,Suns,Denver,Nuggets,Preseason,1,0,23.0,13,0,4,3,1,1,0,0,3,0,13,5,0.385,6,2,0.333,2,1,0.5,106,144,0
+2202,2010,21000002,2010-10-26 22:00:00,Phoenix,Suns,Portland,Trail Blazers,Regular Season,0,0,35.0,22,1,6,4,2,0,1,1,0,-7,13,9,0.692,4,3,0.75,2,1,0.5,106,92,0
+2202,2010,21000018,2010-10-28 22:30:00,Phoenix,Suns,Utah,Jazz,Regular Season,0,1,28.0,16,2,1,0,1,0,1,1,1,5,14,7,0.5,4,2,0.5,0,0,0.0,94,110,0
+2202,2010,21000030,2010-10-29 22:30:00,Phoenix,Suns,Los Angeles,Lakers,Regular Season,1,0,29.0,17,1,6,6,0,1,1,0,2,2,18,6,0.333,10,4,0.4,2,1,0.5,106,114,0
+2202,2010,21000062,2010-11-03 22:00:00,Phoenix,Suns,San Antonio,Spurs,Regular Season,1,0,35.0,21,2,3,2,1,0,2,1,3,2,18,8,0.444,7,3,0.429,2,2,1.0,110,112,0
+2202,2010,21000076,2010-11-05 22:00:00,Phoenix,Suns,Memphis,Grizzlies,Regular Season,1,1,43.0,38,3,8,3,5,0,4,1,4,1,29,14,0.483,8,6,0.75,5,4,0.8,123,118,0
+2202,2010,21000090,2010-11-07 17:00:00,Phoenix,Suns,Atlanta,Hawks,Regular Season,0,1,30.0,21,1,2,2,0,0,2,2,3,-4,15,9,0.6,7,3,0.429,0,0,0.0,114,118,0
+2202,2010,21000099,2010-11-08 20:00:00,Phoenix,Suns,Memphis,Grizzlies,Regular Season,0,0,31.0,17,0,4,4,0,0,0,2,4,-3,18,7,0.389,8,2,0.25,2,1,0.5,109,99,0
+2202,2010,21000127,2010-11-12 21:00:00,Phoenix,Suns,Sacramento,Kings,Regular Season,1,1,34.0,14,1,8,5,3,0,0,1,0,17,16,6,0.375,3,1,0.333,2,1,0.5,103,89,0
+2202,2010,21000143,2010-11-14 21:30:00,Phoenix,Suns,Los Angeles,Lakers,Regular Season,0,1,35.0,35,3,8,6,2,0,3,2,2,8,20,13,0.65,10,7,0.7,4,2,0.5,116,121,0
+2202,2010,21000147,2010-11-15 21:00:00,Phoenix,Suns,Denver,Nuggets,Regular Season,1,1,27.0,11,2,6,4,2,0,0,1,3,4,16,5,0.313,4,0,0.0,1,1,1.0,100,94,0
+2202,2010,21000158,2010-11-17 19:00:00,Phoenix,Suns,Miami,Heat,Regular Season,0,0,30.0,11,2,0,0,0,0,0,1,2,-21,14,5,0.357,5,0,0.0,1,1,1.0,123,96,0
+2202,2010,21000169,2010-11-18 20:00:00,Phoenix,Suns,Orlando,Magic,Regular Season,0,0,24.0,7,0,1,1,0,0,1,2,1,-26,7,3,0.429,3,1,0.333,2,0,0.0,105,89,0
+2202,2010,21000182,2010-11-20 19:00:00,Phoenix,Suns,Charlotte,Bobcats,Regular Season,0,0,30.0,13,2,5,4,1,0,1,1,3,-13,11,3,0.273,4,0,0.0,7,7,1.0,123,105,0
+2202,2010,21000198,2010-11-22 20:30:00,Phoenix,Suns,Houston,Rockets,Regular Season,0,1,33.0,26,0,0,0,0,0,2,2,0,10,11,7,0.636,2,2,1.0,10,10,1.0,116,123,0
+2202,2010,21000218,2010-11-24 21:00:00,Phoenix,Suns,Chicago,Bulls,Regular Season,1,0,42.0,20,0,7,5,2,1,0,3,3,-3,22,8,0.364,8,3,0.375,2,1,0.5,115,123,0
+2202,2010,21000230,2010-11-26 21:00:00,Phoenix,Suns,Los Angeles,Clippers,Regular Season,1,1,32.0,29,1,6,5,1,0,1,0,1,17,19,12,0.632,8,5,0.625,2,0,0.0,116,108,0
+2202,2010,21000248,2010-11-28 20:00:00,Phoenix,Suns,Denver,Nuggets,Regular Season,0,0,36.0,39,3,10,6,4,1,1,1,2,-11,24,15,0.625,10,7,0.7,2,2,1.0,138,133,0
+2202,2010,21000274,2010-12-02 22:30:00,Phoenix,Suns,Golden State,Warriors,Regular Season,0,1,34.0,25,3,2,2,0,0,0,2,1,7,15,10,0.667,4,3,0.75,2,2,1.0,101,107,0
+2202,2010,21000285,2010-12-03 21:00:00,Phoenix,Suns,Indiana,Pacers,Regular Season,1,1,32.0,21,2,5,4,1,0,1,0,0,12,11,7,0.636,5,3,0.6,4,4,1.0,105,97,0
+2202,2010,21000300,2010-12-05 20:00:00,Phoenix,Suns,Washington,Wizards,Regular Season,1,1,30.0,21,1,3,2,1,0,3,2,1,19,13,7,0.538,8,4,0.5,4,3,0.75,125,108,0
+2202,2010,21000314,2010-12-07 22:00:00,Phoenix,Suns,Portland,Trail Blazers,Regular Season,0,0,24.0,6,1,2,1,1,0,0,0,5,-2,8,3,0.375,4,0,0.0,0,0,0.0,106,99,0
+2202,2010,21000323,2010-12-08 21:00:00,Phoenix,Suns,Memphis,Grizzlies,Regular Season,1,0,21.0,4,0,2,1,1,0,0,1,0,-16,11,1,0.091,4,0,0.0,3,2,0.667,98,104,0
+2202,2010,21000338,2010-12-10 21:00:00,Phoenix,Suns,Portland,Trail Blazers,Regular Season,1,0,28.0,8,3,4,4,0,0,1,1,4,-6,9,2,0.222,4,0,0.0,4,4,1.0,94,101,0
+2202,2010,21000376,2010-12-15 21:00:00,Phoenix,Suns,Minnesota,Timberwolves,Regular Season,1,1,34.0,29,0,8,4,4,0,1,2,1,8,23,11,0.478,9,3,0.333,7,4,0.571,128,122,0
+2202,2010,21000390,2010-12-17 21:30:00,Phoenix,Suns,Dallas,Mavericks,Regular Season,0,0,28.0,12,2,4,3,1,0,1,0,0,-9,14,5,0.357,5,0,0.0,2,2,1.0,106,91,0
+2202,2010,21000392,2010-12-18 19:00:00,Orlando,Magic,Philadelphia,76ers,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,89,97,0
+2202,2010,21000406,2010-12-20 19:00:00,Orlando,Magic,Atlanta,Hawks,Regular Season,0,0,30.0,9,3,2,2,0,0,0,0,4,-12,8,3,0.375,4,1,0.25,2,2,1.0,91,81,0
+2202,2010,21000416,2010-12-21 19:00:00,Orlando,Magic,Dallas,Mavericks,Regular Season,1,0,39.0,10,0,5,3,2,0,1,0,3,-9,13,4,0.308,7,2,0.286,0,0,0.0,99,105,0
+2202,2010,21000430,2010-12-23 20:00:00,Orlando,Magic,San Antonio,Spurs,Regular Season,1,1,31.0,15,1,4,3,1,0,1,1,0,11,14,7,0.5,4,1,0.25,0,0,0.0,123,101,0
+2202,2010,21000434,2010-12-25 14:30:00,Orlando,Magic,Boston,Celtics,Regular Season,1,1,28.0,5,2,4,4,0,0,0,2,1,-9,8,2,0.25,3,1,0.333,0,0,0.0,86,78,0
+2202,2010,21000446,2010-12-27 19:00:00,Orlando,Magic,New Jersey,Nets,Regular Season,0,1,31.0,14,4,4,3,1,0,1,1,1,9,11,5,0.455,4,1,0.25,3,3,1.0,88,104,0
+2202,2010,21000455,2010-12-28 19:00:00,Orlando,Magic,Cleveland,Cavaliers,Regular Season,0,1,28.0,20,1,5,4,1,1,2,2,1,-5,13,8,0.615,6,4,0.667,0,0,0.0,95,110,0
+2202,2010,21000473,2010-12-30 19:00:00,Orlando,Magic,New York,Knicks,Regular Season,1,1,35.0,9,0,7,6,1,0,1,2,2,3,9,3,0.333,6,1,0.167,4,2,0.5,112,103,0
+2202,2010,21000500,2011-01-03 19:00:00,Orlando,Magic,Golden State,Warriors,Regular Season,1,1,39.0,20,2,5,4,1,1,0,4,2,19,16,8,0.5,7,4,0.571,0,0,0.0,110,90,0
+2202,2010,21000514,2011-01-05 19:00:00,Orlando,Magic,Milwaukee,Bucks,Regular Season,1,1,34.0,13,3,3,3,0,0,0,0,4,13,13,6,0.462,5,0,0.0,2,1,0.5,97,87,0
+2202,2010,21000529,2011-01-07 20:00:00,Orlando,Magic,Houston,Rockets,Regular Season,1,1,28.0,18,3,3,3,0,0,0,1,3,12,8,7,0.875,5,4,0.8,0,0,0.0,110,95,0
+2202,2010,21000542,2011-01-08 20:30:00,Orlando,Magic,Dallas,Mavericks,Regular Season,0,1,36.0,20,3,3,3,0,0,1,1,0,5,12,7,0.583,6,3,0.5,3,3,1.0,107,117,0
+2202,2010,21000567,2011-01-12 20:00:00,Orlando,Magic,New Orleans,Hornets,Regular Season,0,0,43.0,21,1,7,5,2,0,1,1,5,0,16,8,0.5,8,5,0.625,0,0,0.0,92,89,0
+2202,2010,21000574,2011-01-13 20:00:00,Orlando,Magic,Oklahoma City,Thunder,Regular Season,0,0,38.0,19,0,3,3,0,0,1,0,2,1,13,7,0.538,8,4,0.5,2,1,0.5,125,124,0
+2202,2010,21000593,2011-01-15 20:00:00,Orlando,Magic,Minnesota,Timberwolves,Regular Season,0,1,34.0,21,1,3,3,0,1,2,1,2,-6,13,7,0.538,7,3,0.429,4,4,1.0,99,108,0
+2202,2010,21000608,2011-01-17 20:00:00,Orlando,Magic,Boston,Celtics,Regular Season,0,0,42.0,14,0,4,4,0,0,1,2,4,-4,14,5,0.357,8,2,0.25,4,2,0.5,109,106,0
+2202,2010,21000615,2011-01-19 19:00:00,Orlando,Magic,Philadelphia,76ers,Regular Season,1,1,38.0,8,2,7,7,0,0,1,2,2,3,11,2,0.182,5,1,0.2,3,3,1.0,99,98,0
+2202,2010,21000630,2011-01-21 19:00:00,Orlando,Magic,Toronto,Raptors,Regular Season,1,1,28.0,7,0,4,3,1,0,0,1,3,21,6,2,0.333,4,1,0.25,2,2,1.0,112,72,0
+2202,2010,21000648,2011-01-22 20:30:00,Orlando,Magic,Houston,Rockets,Regular Season,0,1,32.0,18,1,3,3,0,0,0,0,3,9,12,7,0.583,7,4,0.571,0,0,0.0,104,118,0
+2202,2010,21000654,2011-01-24 19:00:00,Orlando,Magic,Detroit,Pistons,Regular Season,1,0,31.0,6,2,3,2,1,0,1,1,5,-7,11,3,0.273,6,0,0.0,0,0,0.0,96,103,0
+2202,2010,21000668,2011-01-26 19:00:00,Orlando,Magic,Indiana,Pacers,Regular Season,0,1,39.0,19,2,9,8,1,0,1,1,2,18,14,5,0.357,9,4,0.444,6,5,0.833,96,111,0
+2202,2010,21000687,2011-01-28 20:00:00,Orlando,Magic,Chicago,Bulls,Regular Season,0,0,31.0,8,5,7,7,0,1,1,1,1,2,8,2,0.25,5,2,0.4,2,2,1.0,99,90,0
+2202,2010,21000703,2011-01-30 18:00:00,Orlando,Magic,Cleveland,Cavaliers,Regular Season,1,1,27.0,12,3,2,2,0,0,2,0,1,17,13,4,0.308,7,1,0.143,4,3,0.75,103,87,0
+2202,2010,21000711,2011-01-31 20:00:00,Orlando,Magic,Memphis,Grizzlies,Regular Season,0,0,39.0,18,1,1,1,0,0,2,0,2,6,14,6,0.429,7,2,0.286,4,4,1.0,100,97,0
+2202,2010,21000730,2011-02-03 20:00:00,Orlando,Magic,Miami,Heat,Regular Season,1,0,30.0,18,1,4,4,0,0,1,2,5,6,14,7,0.5,9,4,0.444,0,0,0.0,100,104,0
+2202,2010,21000737,2011-02-04 19:00:00,Orlando,Magic,Washington,Wizards,Regular Season,0,1,37.0,18,1,3,2,1,0,1,0,4,9,12,6,0.5,5,2,0.4,6,4,0.667,92,110,0
+2202,2010,21000757,2011-02-06 14:30:00,Orlando,Magic,Boston,Celtics,Regular Season,0,0,32.0,10,0,1,0,1,0,1,0,0,-10,11,4,0.364,5,2,0.4,0,0,0.0,91,80,0
+2202,2010,21000767,2011-02-08 19:00:00,Orlando,Magic,Los Angeles,Clippers,Regular Season,1,1,28.0,10,4,1,0,1,0,2,3,1,3,10,4,0.4,5,0,0.0,2,2,1.0,101,85,0
+2202,2010,21000776,2011-02-09 19:00:00,Orlando,Magic,Philadelphia,76ers,Regular Season,0,1,32.0,12,2,2,2,0,0,1,0,2,13,13,4,0.308,5,2,0.4,2,2,1.0,95,99,0
+2202,2010,21000788,2011-02-11 19:00:00,Orlando,Magic,New Orleans,Hornets,Regular Season,1,0,34.0,6,3,6,6,0,0,0,1,2,-2,9,3,0.333,3,0,0.0,0,0,0.0,93,99,0
+2202,2010,21000805,2011-02-13 15:30:00,Orlando,Magic,Los Angeles,Lakers,Regular Season,1,1,36.0,12,1,6,6,0,0,0,0,2,11,15,5,0.333,7,2,0.286,0,0,0.0,89,75,0
+2202,2010,21000824,2011-02-16 19:00:00,Orlando,Magic,Washington,Wizards,Regular Season,1,1,28.0,16,3,6,6,0,0,0,1,0,21,12,6,0.5,6,3,0.5,1,1,1.0,101,76,0
+2202,2010,21000849,2011-02-23 19:00:00,Orlando,Magic,Sacramento,Kings,Regular Season,1,0,24.0,8,4,6,4,2,0,1,0,1,-6,12,4,0.333,3,0,0.0,0,0,0.0,105,111,0
+2202,2010,21000867,2011-02-25 20:00:00,Orlando,Magic,Oklahoma City,Thunder,Regular Season,1,1,39.0,17,4,6,6,0,0,0,1,2,22,12,6,0.5,7,5,0.714,0,0,0.0,111,88,0
+2202,2010,21000883,2011-02-27 18:00:00,Orlando,Magic,Charlotte,Bobcats,Regular Season,1,1,35.0,11,3,6,4,2,0,1,2,3,9,11,4,0.364,6,1,0.167,2,2,1.0,100,86,0
+2202,2010,21000895,2011-03-01 19:00:00,Orlando,Magic,New York,Knicks,Regular Season,1,1,34.0,8,0,7,6,1,1,2,2,3,16,8,3,0.375,5,1,0.2,3,1,0.333,116,110,0
+2202,2010,21000912,2011-03-03 20:00:00,Orlando,Magic,Miami,Heat,Regular Season,0,1,39.0,24,2,3,2,1,0,0,2,1,15,14,9,0.643,8,6,0.75,0,0,0.0,96,99,0
+2202,2010,21000915,2011-03-04 19:00:00,Orlando,Magic,Chicago,Bulls,Regular Season,1,0,38.0,16,0,5,5,0,0,3,1,3,1,13,6,0.462,7,4,0.571,0,0,0.0,81,89,0
+2202,2010,21000941,2011-03-07 19:00:00,Orlando,Magic,Portland,Trail Blazers,Regular Season,1,0,31.0,22,1,5,4,1,0,0,2,3,3,13,8,0.615,5,4,0.8,2,2,1.0,85,89,0
+2202,2010,21000963,2011-03-09 22:00:00,Orlando,Magic,Sacramento,Kings,Regular Season,0,1,35.0,19,1,4,3,1,0,3,2,1,7,16,8,0.5,6,3,0.5,2,0,0.0,102,106,0
+2202,2010,21000975,2011-03-11 22:30:00,Orlando,Magic,Golden State,Warriors,Regular Season,0,0,41.0,30,3,2,2,0,1,1,2,3,-4,18,10,0.556,11,7,0.636,6,3,0.5,123,120,0
+2202,2010,21000987,2011-03-13 15:30:00,Orlando,Magic,Phoenix,Suns,Regular Season,0,1,33.0,10,3,8,6,2,0,1,1,2,15,14,4,0.286,5,1,0.2,2,1,0.5,88,111,0
+2202,2010,21000999,2011-03-14 22:30:00,Orlando,Magic,Los Angeles,Lakers,Regular Season,0,0,39.0,11,3,2,1,1,0,0,2,3,-8,10,3,0.3,6,3,0.5,3,2,0.667,97,84,0
+2202,2010,21001007,2011-03-16 20:00:00,Orlando,Magic,Milwaukee,Bucks,Regular Season,0,1,44.0,13,2,3,3,0,0,3,2,1,-1,13,5,0.385,8,3,0.375,0,0,0.0,89,93,0
+2202,2010,21001018,2011-03-18 19:00:00,Orlando,Magic,Denver,Nuggets,Regular Season,1,1,37.0,13,5,2,2,0,1,2,1,3,3,14,5,0.357,8,2,0.25,2,1,0.5,85,82,0
+2202,2010,21001044,2011-03-21 19:00:00,Orlando,Magic,Cleveland,Cavaliers,Regular Season,0,1,31.0,11,1,3,2,1,0,3,1,1,18,12,4,0.333,5,1,0.2,2,2,1.0,86,97,0
+2202,2010,21001059,2011-03-23 20:00:00,Orlando,Magic,New York,Knicks,Regular Season,0,1,35.0,12,1,6,4,2,0,1,1,3,13,13,5,0.385,7,2,0.286,0,0,0.0,99,111,0
+2202,2010,21001069,2011-03-25 19:00:00,Orlando,Magic,New Jersey,Nets,Regular Season,1,1,38.0,16,2,3,3,0,1,2,0,1,8,12,7,0.583,5,2,0.4,0,0,0.0,95,85,0
+2202,2010,21000051,2011-03-28 19:30:00,Orlando,Magic,New York,Knicks,Regular Season,0,0,45.0,24,4,2,2,0,1,4,4,3,-2,20,10,0.5,11,4,0.364,0,0,0.0,113,106,0
+2202,2010,21001105,2011-03-30 19:00:00,Orlando,Magic,Atlanta,Hawks,Regular Season,0,0,42.0,3,4,3,2,1,0,0,0,3,2,7,1,0.143,3,0,0.0,2,1,0.5,85,82,0
+2202,2010,21001121,2011-04-01 19:00:00,Orlando,Magic,Charlotte,Bobcats,Regular Season,1,1,32.0,7,1,2,2,0,1,2,1,2,6,8,3,0.375,4,1,0.25,0,0,0.0,89,77,0
+2202,2010,21001144,2011-04-03 18:00:00,Orlando,Magic,Toronto,Raptors,Regular Season,0,0,42.0,13,1,2,2,0,0,0,1,0,-19,13,5,0.385,7,3,0.429,1,0,0.0,102,98,0
+2202,2010,21001152,2011-04-05 19:00:00,Orlando,Magic,Milwaukee,Bucks,Regular Season,1,1,31.0,8,2,5,3,2,0,3,2,1,10,14,4,0.286,5,0,0.0,0,0,0.0,78,72,0
+2202,2010,21001162,2011-04-06 19:00:00,Orlando,Magic,Charlotte,Bobcats,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,102,111,0
+2202,2010,21001193,2011-04-10 13:00:00,Orlando,Magic,Chicago,Bulls,Regular Season,1,0,36.0,24,4,3,2,1,0,3,2,2,4,14,10,0.714,5,4,0.8,2,0,0.0,99,102,0
+2202,2010,21001204,2011-04-11 19:00:00,Orlando,Magic,Philadelphia,76ers,Regular Season,0,1,30.0,12,5,2,1,1,0,3,0,1,14,11,5,0.455,5,2,0.4,2,0,0.0,85,95,0
+2202,2010,21001219,2011-04-13 20:00:00,Orlando,Magic,Indiana,Pacers,Regular Season,1,1,25.0,8,0,3,3,0,0,2,2,1,-2,9,3,0.333,6,2,0.333,0,0,0.0,92,74,0
+2202,2010,41000131,2011-04-16 19:00:00,Orlando,Magic,Atlanta,Hawks,Playoffs,1,0,41.0,4,1,1,1,0,0,1,1,3,-12,8,2,0.25,4,0,0.0,0,0,0.0,93,103,0
+2202,2010,41000132,2011-04-19 19:30:00,Orlando,Magic,Atlanta,Hawks,Playoffs,1,1,28.0,8,0,6,4,2,1,2,2,4,-4,12,3,0.25,5,2,0.4,0,0,0.0,88,82,0
+2202,2010,41000133,2011-04-22 20:00:00,Orlando,Magic,Atlanta,Hawks,Playoffs,0,0,33.0,14,4,9,7,2,1,0,0,2,5,10,4,0.4,6,2,0.333,4,4,1.0,88,84,0
+2202,2010,41000134,2011-04-24 19:00:00,Orlando,Magic,Atlanta,Hawks,Playoffs,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,88,85,0
+2202,2010,41000135,2011-04-26 19:30:00,Orlando,Magic,Atlanta,Hawks,Playoffs,1,1,24.0,17,1,3,2,1,0,0,0,4,8,14,6,0.429,6,3,0.5,2,2,1.0,101,76,0
+2202,2010,41000136,2011-04-28 19:30:00,Orlando,Magic,Atlanta,Hawks,Playoffs,0,0,25.0,7,0,1,1,0,0,0,0,3,1,7,2,0.286,4,1,0.25,2,2,1.0,84,81,0
+2202,2011,11100010,2011-12-18 18:00:00,Orlando,Magic,Miami,Heat,Preseason,0,0,30.0,11,2,2,2,0,1,0,1,4,0,12,5,0.416,6,1,0.167,1,0,0.0,118,85,0
+2202,2011,11100021,2011-12-21 19:00:00,Orlando,Magic,Miami,Heat,Preseason,1,1,25.0,15,1,0,0,0,0,3,1,2,0,12,6,0.5,7,3,0.428,1,0,0.0,104,100,0
+2202,2011,21100004,2011-12-25 20:00:00,Orlando,Magic,Oklahoma City,Thunder,Regular Season,0,0,28.0,2,2,3,3,0,0,0,3,2,-8,10,1,0.1,4,0,0.0,0,0,0.0,97,89,0
+2202,2011,21100008,2011-12-26 19:00:00,Orlando,Magic,Houston,Rockets,Regular Season,1,1,32.0,10,1,3,3,0,0,0,2,3,6,8,5,0.625,2,0,0.0,0,0,0.0,104,95,0
+2202,2011,21100033,2011-12-29 19:00:00,Orlando,Magic,New Jersey,Nets,Regular Season,1,1,32.0,16,2,5,2,3,0,2,2,2,10,14,6,0.429,3,0,0.0,6,4,0.667,94,78,0
+2202,2011,21100039,2011-12-30 19:00:00,Orlando,Magic,Charlotte,Bobcats,Regular Season,0,1,30.0,16,3,1,1,0,0,1,0,2,16,12,7,0.583,4,2,0.5,2,0,0.0,79,100,0
+2202,2011,21100058,2012-01-01 18:00:00,Orlando,Magic,Toronto,Raptors,Regular Season,1,1,28.0,5,1,5,4,1,2,1,0,1,-22,8,1,0.125,5,1,0.2,4,2,0.5,102,96,0
+2202,2011,21100071,2012-01-02 19:30:00,Orlando,Magic,Detroit,Pistons,Regular Season,0,0,23.0,4,0,0,0,0,0,1,1,1,-11,5,1,0.2,1,0,0.0,2,2,1.0,89,78,0
+2202,2011,21100083,2012-01-04 19:00:00,Orlando,Magic,Washington,Wizards,Regular Season,1,1,25.0,8,5,4,2,2,0,0,1,1,16,9,3,0.333,3,2,0.667,0,0,0.0,103,85,0
+2202,2011,21100103,2012-01-06 20:00:00,Orlando,Magic,Chicago,Bulls,Regular Season,1,0,36.0,17,2,3,3,0,1,1,4,1,-16,13,6,0.462,6,3,0.5,2,2,1.0,83,97,0
+2202,2011,21100121,2012-01-08 18:00:00,Orlando,Magic,Sacramento,Kings,Regular Season,0,1,33.0,22,5,4,1,3,0,1,0,3,0,16,9,0.563,6,3,0.5,2,1,0.5,97,104,0
+2202,2011,21100152,2012-01-11 22:00:00,Orlando,Magic,Portland,Trail Blazers,Regular Season,0,1,33.0,15,1,2,2,0,0,0,1,2,0,9,6,0.667,4,2,0.5,2,1,0.5,104,107,0
+2202,2011,21100158,2012-01-12 22:30:00,Orlando,Magic,Golden State,Warriors,Regular Season,0,1,20.0,7,0,1,1,0,1,1,1,0,-4,7,3,0.429,4,1,0.25,0,0,0.0,109,117,0
+2202,2011,21100223,2012-01-20 20:00:00,Orlando,Magic,Los Angeles,Lakers,Regular Season,1,1,30.0,12,1,4,3,1,0,0,0,4,13,11,5,0.455,5,2,0.4,0,0,0.0,92,80,0
+2202,2011,21100243,2012-01-23 19:30:00,Orlando,Magic,Boston,Celtics,Regular Season,0,0,21.0,5,2,3,2,1,0,2,0,0,-14,5,2,0.4,2,0,0.0,2,1,0.5,87,56,0
+2202,2011,21100253,2012-01-24 19:00:00,Orlando,Magic,Indiana,Pacers,Regular Season,0,1,20.0,2,2,2,1,1,0,1,1,0,0,6,1,0.167,3,0,0.0,0,0,0.0,83,102,0
+2202,2011,21100270,2012-01-26 20:00:00,Orlando,Magic,Boston,Celtics,Regular Season,1,0,31.0,13,0,0,0,0,0,3,2,2,1,12,5,0.417,4,1,0.25,4,2,0.5,83,91,0
+2202,2011,21100278,2012-01-27 20:00:00,Orlando,Magic,New Orleans,Hornets,Regular Season,0,0,24.0,2,3,5,4,1,0,0,1,2,-15,6,1,0.167,2,0,0.0,0,0,0.0,93,67,0
+2202,2011,21100294,2012-01-29 18:00:00,Orlando,Magic,Indiana,Pacers,Regular Season,1,0,27.0,13,3,7,7,0,1,2,3,0,-1,11,5,0.455,4,2,0.5,2,1,0.5,85,106,0
+2202,2011,21100334,2012-02-03 19:00:00,Orlando,Magic,Cleveland,Cavaliers,Regular Season,1,1,28.0,19,1,4,4,0,1,1,0,0,19,12,7,0.583,4,3,0.75,3,2,0.667,102,94,0
+2202,2011,21100344,2012-02-04 19:00:00,Orlando,Magic,Indiana,Pacers,Regular Season,0,1,30.0,17,5,6,5,1,1,0,2,0,11,16,7,0.438,7,3,0.429,0,0,0.0,81,85,0
+2202,2011,21100359,2012-02-06 19:00:00,Orlando,Magic,Los Angeles,Clippers,Regular Season,1,0,37.0,20,3,1,1,0,0,1,2,3,2,15,8,0.533,8,3,0.375,1,1,1.0,102,107,0
+2202,2011,21100376,2012-02-08 19:00:00,Orlando,Magic,Miami,Heat,Regular Season,1,1,31.0,9,4,5,3,2,0,3,0,2,17,12,3,0.25,8,3,0.375,0,0,0.0,102,89,0
+2202,2011,21100392,2012-02-10 19:00:00,Orlando,Magic,Atlanta,Hawks,Regular Season,1,0,38.0,14,0,5,5,0,2,1,0,3,-6,10,5,0.5,6,3,0.5,3,1,0.333,87,89,0
+2202,2011,21100406,2012-02-11 21:00:00,Orlando,Magic,Milwaukee,Bucks,Regular Season,0,1,25.0,31,1,4,4,0,0,2,0,1,19,18,11,0.611,11,9,0.818,4,0,0.0,94,99,0
+2202,2011,21100415,2012-02-13 19:00:00,Orlando,Magic,Minnesota,Timberwolves,Regular Season,1,1,22.0,17,2,3,3,0,1,1,0,2,7,11,5,0.455,6,2,0.333,8,5,0.625,102,89,0
+2202,2011,21100430,2012-02-15 19:00:00,Orlando,Magic,Philadelphia,76ers,Regular Season,1,1,30.0,14,3,1,1,0,0,2,1,0,23,10,5,0.5,5,4,0.8,0,0,0.0,103,87,0
+2202,2011,21100447,2012-02-17 19:00:00,Orlando,Magic,Milwaukee,Bucks,Regular Season,1,1,20.0,6,1,2,1,1,0,0,2,1,-4,11,2,0.182,6,2,0.333,0,0,0.0,94,85,0
+2202,2011,21100461,2012-02-19 15:30:00,Orlando,Magic,Miami,Heat,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,90,78,0
+2202,2011,21100500,2012-02-23 19:30:00,Orlando,Magic,Atlanta,Hawks,Regular Season,0,0,23.0,7,3,5,5,0,0,2,1,1,-1,10,3,0.3,6,1,0.167,0,0,0.0,83,78,0
+2202,2011,21100513,2012-02-29 19:00:00,Orlando,Magic,Washington,Wizards,Regular Season,0,1,30.0,12,2,2,2,0,0,1,1,2,5,13,5,0.385,6,2,0.333,0,0,0.0,95,102,0
+2202,2011,21100524,2012-03-01 20:00:00,Orlando,Magic,Oklahoma City,Thunder,Regular Season,1,0,33.0,16,2,6,4,2,0,1,1,1,1,14,5,0.357,8,3,0.375,4,3,0.75,102,105,0
+2202,2011,21100541,2012-03-03 19:00:00,Orlando,Magic,Milwaukee,Bucks,Regular Season,1,1,34.0,18,3,5,3,2,1,2,2,2,23,15,8,0.533,6,2,0.333,0,0,0.0,114,98,0
+2202,2011,21100554,2012-03-05 19:00:00,Orlando,Magic,Toronto,Raptors,Regular Season,0,1,37.0,6,2,5,5,0,0,0,1,1,-10,10,2,0.2,7,1,0.143,2,1,0.5,88,92,0
+2202,2011,21100563,2012-03-06 19:00:00,Orlando,Magic,Charlotte,Bobcats,Regular Season,0,0,21.0,9,2,1,1,0,0,0,2,4,-5,10,3,0.3,5,1,0.2,3,2,0.667,100,84,0
+2202,2011,21100582,2012-03-08 20:00:00,Orlando,Magic,Chicago,Bulls,Regular Season,0,1,31.0,18,0,2,2,0,0,0,2,4,5,15,7,0.467,6,4,0.667,0,0,0.0,94,99,0
+2202,2011,21100644,2012-03-16 19:00:00,Orlando,Magic,New Jersey,Nets,Regular Season,1,1,35.0,10,3,5,5,0,1,3,2,2,24,9,4,0.444,5,2,0.4,0,0,0.0,86,70,0
+2202,2011,21100666,2012-03-18 19:00:00,Orlando,Magic,Miami,Heat,Regular Season,0,0,31.0,12,1,4,3,1,0,2,1,4,-11,13,5,0.385,6,1,0.167,1,1,1.0,91,81,0
+2202,2011,21100673,2012-03-19 20:00:00,Orlando,Magic,Chicago,Bulls,Regular Season,1,0,27.0,2,2,2,2,0,0,1,2,1,-13,7,1,0.143,2,0,0.0,0,0,0.0,59,85,0
+2202,2011,21100685,2012-03-21 19:00:00,Orlando,Magic,Phoenix,Suns,Regular Season,1,1,22.0,0,5,6,4,2,0,1,2,1,6,7,0,0.0,3,0,0.0,0,0,0.0,103,93,0
+2202,2011,21100701,2012-03-23 19:00:00,Orlando,Magic,Cleveland,Cavaliers,Regular Season,1,1,24.0,11,0,3,3,0,1,1,2,3,5,8,5,0.625,4,1,0.25,0,0,0.0,93,80,0
+2202,2011,21100727,2012-03-26 19:00:00,Orlando,Magic,Toronto,Raptors,Regular Season,0,1,23.0,7,0,1,1,0,1,1,1,2,14,7,3,0.429,3,1,0.333,0,0,0.0,101,117,0
+2202,2011,21100744,2012-03-28 19:00:00,Orlando,Magic,New York,Knicks,Regular Season,0,0,21.0,5,0,1,0,1,0,1,0,0,-20,5,2,0.4,3,1,0.333,0,0,0.0,108,86,0
+2202,2011,21100762,2012-03-30 20:00:00,Orlando,Magic,Dallas,Mavericks,Regular Season,1,0,32.0,6,2,5,5,0,3,1,1,2,5,7,2,0.286,6,2,0.333,0,0,0.0,98,100,0
+2202,2011,21100780,2012-04-01 18:00:00,Orlando,Magic,Denver,Nuggets,Regular Season,1,0,32.0,6,1,3,3,0,2,1,1,2,5,12,3,0.25,6,0,0.0,0,0,0.0,101,104,0
+2202,2011,21100795,2012-04-03 19:30:00,Orlando,Magic,Detroit,Pistons,Regular Season,0,0,22.0,10,1,0,0,0,0,0,0,3,-3,10,4,0.4,5,1,0.2,2,1,0.5,102,95,0
+2202,2011,21100811,2012-04-05 19:00:00,Orlando,Magic,New York,Knicks,Regular Season,1,0,36.0,16,4,4,4,0,0,1,1,2,-3,18,7,0.389,9,2,0.222,0,0,0.0,80,96,0
+2202,2011,21100828,2012-04-07 20:00:00,Orlando,Magic,Philadelphia,76ers,Regular Season,0,1,42.0,10,5,8,6,2,0,1,1,2,7,10,4,0.4,6,2,0.333,0,0,0.0,82,88,0
+2202,2011,21100843,2012-04-09 19:00:00,Orlando,Magic,Detroit,Pistons,Regular Season,1,1,28.0,22,1,1,1,0,0,0,0,1,19,10,7,0.7,7,6,0.857,2,2,1.0,119,89,0
+2202,2011,21100852,2012-04-10 19:00:00,Orlando,Magic,Washington,Wizards,Regular Season,0,0,38.0,10,1,3,1,2,0,0,3,2,-16,16,4,0.25,7,2,0.286,0,0,0.0,93,85,0
+2202,2011,21100876,2012-04-13 19:00:00,Orlando,Magic,Atlanta,Hawks,Regular Season,1,0,27.0,9,1,4,3,1,1,0,1,0,-19,11,4,0.364,3,0,0.0,1,1,1.0,81,109,0
+2202,2011,21100898,2012-04-15 18:00:00,Orlando,Magic,Cleveland,Cavaliers,Regular Season,0,1,32.0,16,3,6,6,0,1,2,1,4,7,13,6,0.462,7,4,0.571,0,0,0.0,84,100,0
+2202,2011,21100904,2012-04-16 19:00:00,Orlando,Magic,Philadelphia,76ers,Regular Season,1,1,26.0,17,3,2,2,0,0,1,0,0,6,10,6,0.6,3,2,0.667,3,3,1.0,113,100,0
+2202,2011,21100924,2012-04-18 20:00:00,Orlando,Magic,Boston,Celtics,Regular Season,0,0,25.0,11,1,6,6,0,0,1,1,0,-9,12,5,0.417,5,1,0.2,2,0,0.0,102,98,0
+2202,2011,21100950,2012-04-21 22:30:00,Orlando,Magic,Utah,Jazz,Regular Season,0,0,39.0,21,0,7,5,2,0,0,0,2,10,17,8,0.471,9,5,0.556,0,0,0.0,117,107,0
+2202,2011,21100958,2012-04-22 20:00:00,Orlando,Magic,Denver,Nuggets,Regular Season,0,0,26.0,9,4,5,3,2,0,2,1,1,-2,13,4,0.308,4,1,0.25,0,0,0.0,101,74,0
+2202,2011,21100971,2012-04-25 19:00:00,Orlando,Magic,Charlotte,Bobcats,Regular Season,1,1,34.0,17,2,9,7,2,1,0,0,4,6,17,6,0.353,7,3,0.429,2,2,1.0,102,95,0
+2202,2011,21100985,2012-04-26 20:00:00,Orlando,Magic,Memphis,Grizzlies,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,88,76,0
+2202,2011,41100121,2012-04-28 19:00:00,Orlando,Magic,Indiana,Pacers,Playoffs,0,1,28.0,17,1,5,4,1,0,2,0,2,-2,15,6,0.4,8,5,0.625,0,0,0.0,77,81,0
+2202,2011,41100122,2012-04-30 19:30:00,Orlando,Magic,Indiana,Pacers,Playoffs,0,0,28.0,2,3,2,1,1,0,0,2,2,-19,5,1,0.2,2,0,0.0,0,0,0.0,93,78,0
+2202,2011,41100123,2012-05-02 19:30:00,Orlando,Magic,Indiana,Pacers,Playoffs,1,0,21.0,5,0,4,3,1,0,1,2,2,-18,8,2,0.25,2,0,0.0,3,1,0.333,74,97,0
+2202,2011,41100124,2012-05-05 14:00:00,Orlando,Magic,Indiana,Pacers,Playoffs,1,0,42.0,25,1,5,4,1,1,2,0,0,14,18,9,0.5,12,4,0.333,4,3,0.75,99,101,0
+2202,2011,41100125,2012-05-08 19:00:00,Orlando,Magic,Indiana,Pacers,Playoffs,0,0,27.0,8,0,3,3,0,1,1,2,1,-13,7,3,0.429,3,1,0.333,5,1,0.2,105,87,0
+2202,2012,11200026,2012-10-11 19:00:00,Philadelphia,76ers,Orlando,Magic,Preseason,0,1,24.0,3,1,0,0,0,0,0,2,2,0,5,1,0.2,3,0,0.0,2,1,0.5,95,102,0
+2202,2012,11200046,2012-10-15 19:00:00,Philadelphia,76ers,Boston,Celtics,Preseason,1,1,17.0,8,2,2,1,1,0,1,1,0,0,8,3,0.375,3,1,0.333,2,1,0.5,107,75,0
+2202,2012,11200077,2012-10-19 19:30:00,Philadelphia,76ers,Brooklyn,Nets,Preseason,0,1,32.0,13,2,6,5,1,0,3,4,2,0,7,4,0.57,5,2,0.4,4,3,0.75,96,106,0
+2202,2012,11200088,2012-10-21 19:30:00,Philadelphia,76ers,Boston,Celtics,Preseason,0,1,24.0,8,3,3,3,0,1,0,1,2,0,9,3,0.333,6,2,0.333,0,0,0.0,79,88,0
+2202,2012,11200092,2012-10-22 19:00:00,Philadelphia,76ers,New York,Knicks,Preseason,1,1,34.0,23,6,7,7,0,1,2,2,2,0,17,8,0.47,12,6,0.5,1,1,1.0,98,90,0
+2202,2012,21200005,2012-10-31 19:00:00,Philadelphia,76ers,Denver,Nuggets,Regular Season,1,1,36.0,10,2,4,2,2,3,4,0,3,7,13,4,0.308,7,2,0.286,0,0,0.0,84,75,0
+2202,2012,21200037,2012-11-04 12:00:00,Philadelphia,76ers,New York,Knicks,Regular Season,0,0,1.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,100,84,0
+2202,2012,21200042,2012-11-05 19:00:00,Philadelphia,76ers,New York,Knicks,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,88,110,0
+2202,2012,21200058,2012-11-07 20:00:00,Philadelphia,76ers,New Orleans,Hornets,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,62,77,0
+2202,2012,21200070,2012-11-09 19:30:00,Philadelphia,76ers,Boston,Celtics,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,100,106,0
+2202,2012,21200081,2012-11-10 19:00:00,Philadelphia,76ers,Toronto,Raptors,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,83,93,0
+2202,2012,21200096,2012-11-12 19:00:00,Philadelphia,76ers,Milwaukee,Bucks,Regular Season,1,0,36.0,20,2,4,4,0,0,2,0,0,12,16,8,0.5,8,3,0.375,2,1,0.5,96,105,0
+2202,2012,21200109,2012-11-14 19:00:00,Philadelphia,76ers,Detroit,Pistons,Regular Season,1,0,26.0,9,1,1,0,1,1,1,0,1,-7,12,3,0.25,6,3,0.5,0,0,0.0,76,94,0
+2202,2012,21200122,2012-11-16 19:00:00,Philadelphia,76ers,Utah,Jazz,Regular Season,1,1,35.0,20,2,8,8,0,0,2,0,2,4,12,7,0.583,7,5,0.714,2,1,0.5,99,93,0
+2202,2012,21200141,2012-11-18 18:00:00,Philadelphia,76ers,Cleveland,Cavaliers,Regular Season,1,1,33.0,12,3,9,7,2,1,2,2,1,5,14,5,0.357,6,2,0.333,0,0,0.0,86,79,0
+2202,2012,21200154,2012-11-20 19:00:00,Philadelphia,76ers,Toronto,Raptors,Regular Season,1,1,31.0,21,0,3,3,0,1,1,0,4,17,14,7,0.5,9,4,0.444,3,3,1.0,106,98,0
+2202,2012,21200159,2012-11-21 19:00:00,Philadelphia,76ers,Cleveland,Cavaliers,Regular Season,0,0,28.0,16,0,2,1,1,2,3,0,2,-15,13,6,0.462,6,2,0.333,2,2,1.0,92,83,0
+2202,2012,21200183,2012-11-24 19:00:00,Philadelphia,76ers,Oklahoma City,Thunder,Regular Season,1,0,18.0,13,0,1,1,0,0,1,2,2,-3,7,5,0.714,5,3,0.6,0,0,0.0,109,116,0
+2202,2012,21200194,2012-11-25 18:00:00,Philadelphia,76ers,Phoenix,Suns,Regular Season,1,1,34.0,8,1,4,4,0,0,0,0,0,5,7,3,0.429,6,2,0.333,0,0,0.0,104,101,0
+2202,2012,21200204,2012-11-27 19:00:00,Philadelphia,76ers,Dallas,Mavericks,Regular Season,1,1,30.0,6,1,8,8,0,0,3,1,3,13,8,2,0.25,3,2,0.667,0,0,0.0,100,98,0
+2202,2012,21200223,2012-11-30 19:00:00,Philadelphia,76ers,Charlotte,Bobcats,Regular Season,0,1,30.0,22,1,5,4,1,1,2,2,1,17,17,9,0.529,8,4,0.5,0,0,0.0,98,104,0
+2202,2012,21200235,2012-12-01 20:00:00,Philadelphia,76ers,Chicago,Bulls,Regular Season,0,0,34.0,8,2,6,4,2,0,1,1,3,3,12,3,0.25,6,1,0.167,1,1,1.0,93,88,0
+2202,2012,21200251,2012-12-04 19:00:00,Philadelphia,76ers,Minnesota,Timberwolves,Regular Season,1,0,29.0,14,4,7,5,2,1,2,2,1,-12,10,6,0.6,3,0,0.0,4,2,0.5,88,105,0
+2202,2012,21200270,2012-12-07 19:00:00,Philadelphia,76ers,Boston,Celtics,Regular Season,1,1,41.0,13,3,3,3,0,0,5,0,0,5,13,5,0.385,5,0,0.0,4,3,0.75,95,94,0
+2202,2012,21200285,2012-12-08 19:30:00,Philadelphia,76ers,Boston,Celtics,Regular Season,0,0,28.0,8,0,3,2,1,0,1,2,2,-16,7,2,0.286,5,2,0.4,2,2,1.0,92,79,0
+2202,2012,21200298,2012-12-10 19:00:00,Philadelphia,76ers,Detroit,Pistons,Regular Season,1,1,35.0,13,1,7,6,1,0,0,1,3,9,11,4,0.364,5,2,0.4,4,3,0.75,104,97,0
+2202,2012,21200312,2012-12-12 19:30:00,Philadelphia,76ers,Chicago,Bulls,Regular Season,1,0,31.0,6,2,4,4,0,1,0,0,3,-3,9,2,0.222,6,2,0.333,0,0,0.0,89,96,0
+2202,2012,21200327,2012-12-14 19:00:00,Philadelphia,76ers,Indiana,Pacers,Regular Season,0,0,20.0,3,1,2,1,1,0,0,0,1,-13,6,1,0.167,2,1,0.5,0,0,0.0,95,85,0
+2202,2012,21200347,2012-12-16 18:00:00,Philadelphia,76ers,Los Angeles,Lakers,Regular Season,1,0,28.0,9,0,1,1,0,2,1,2,1,-10,8,3,0.375,6,2,0.333,3,1,0.333,98,111,0
+2202,2012,21200362,2012-12-18 20:30:00,Philadelphia,76ers,Dallas,Mavericks,Regular Season,0,0,29.0,11,4,6,5,1,0,3,1,1,7,14,5,0.357,7,1,0.143,0,0,0.0,107,100,0
+2202,2012,21200372,2012-12-19 20:00:00,Philadelphia,76ers,Houston,Rockets,Regular Season,0,0,30.0,11,1,3,2,1,0,1,2,3,-17,10,5,0.5,3,1,0.333,0,0,0.0,125,103,0
+2202,2012,21200381,2012-12-21 19:00:00,Philadelphia,76ers,Atlanta,Hawks,Regular Season,1,1,32.0,17,7,8,8,0,1,2,0,1,30,12,7,0.583,6,3,0.5,2,0,0.0,99,80,0
+2202,2012,21200399,2012-12-23 15:00:00,Philadelphia,76ers,Brooklyn,Nets,Regular Season,0,0,29.0,5,1,5,5,0,0,0,2,4,-14,10,2,0.2,5,1,0.2,0,0,0.0,95,92,0
+2202,2012,21200416,2012-12-26 20:00:00,Philadelphia,76ers,Memphis,Grizzlies,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,89,99,0
+2202,2012,21200436,2012-12-28 22:30:00,Philadelphia,76ers,Golden State,Warriors,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,96,89,0
+2202,2012,21200446,2012-12-29 22:00:00,Philadelphia,76ers,Portland,Trail Blazers,Regular Season,0,0,21.0,5,1,3,2,1,0,0,1,0,3,5,2,0.4,3,1,0.333,0,0,0.0,89,85,0
+2202,2012,21200463,2013-01-01 22:30:00,Philadelphia,76ers,Los Angeles,Lakers,Regular Season,0,1,27.0,9,3,2,2,0,0,0,2,3,1,11,4,0.364,6,1,0.167,2,0,0.0,99,103,0
+2202,2012,21200474,2013-01-02 21:00:00,Philadelphia,76ers,Phoenix,Suns,Regular Season,0,0,18.0,4,0,2,2,0,0,0,1,1,-2,4,2,0.5,1,0,0.0,0,0,0.0,95,89,0
+2202,2012,21200485,2013-01-04 20:00:00,Philadelphia,76ers,Oklahoma City,Thunder,Regular Season,0,0,28.0,9,2,4,4,0,0,1,0,1,-10,10,4,0.4,3,1,0.333,0,0,0.0,109,85,0
+2202,2012,21200496,2013-01-05 20:30:00,Philadelphia,76ers,San Antonio,Spurs,Regular Season,0,0,24.0,11,2,2,2,0,1,1,1,3,-23,10,4,0.4,4,2,0.5,2,1,0.5,109,86,0
+2202,2012,21200511,2013-01-08 19:00:00,Philadelphia,76ers,Brooklyn,Nets,Regular Season,1,0,18.0,6,0,1,1,0,0,1,1,0,-12,9,3,0.333,4,0,0.0,0,0,0.0,89,109,0
+2202,2012,21200516,2013-01-09 19:00:00,Philadelphia,76ers,Toronto,Raptors,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,90,72,0
+2202,2012,21200544,2013-01-12 19:30:00,Philadelphia,76ers,Houston,Rockets,Regular Season,1,1,32.0,16,1,4,3,1,0,0,0,2,7,15,7,0.467,7,2,0.286,0,0,0.0,107,100,0
+2202,2012,21200564,2013-01-15 19:00:00,Philadelphia,76ers,New Orleans,Hornets,Regular Season,1,0,19.0,5,2,3,2,1,0,0,0,2,-12,5,2,0.4,3,1,0.333,0,0,0.0,99,111,0
+2202,2012,21200585,2013-01-18 19:00:00,Philadelphia,76ers,Toronto,Raptors,Regular Season,1,1,27.0,7,1,2,2,0,0,0,0,3,13,11,3,0.273,6,1,0.167,0,0,0.0,108,101,0
+2202,2012,21200611,2013-01-21 19:00:00,Philadelphia,76ers,San Antonio,Spurs,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,85,90,0
+2202,2012,21200616,2013-01-22 20:00:00,Philadelphia,76ers,Milwaukee,Bucks,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,110,102,0
+2202,2012,21200643,2013-01-26 19:00:00,Philadelphia,76ers,New York,Knicks,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,97,80,0
+2202,2012,21200660,2013-01-28 19:00:00,Philadelphia,76ers,Memphis,Grizzlies,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,100,103,0
+2202,2012,21200670,2013-01-30 19:00:00,Philadelphia,76ers,Washington,Wizards,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,92,84,0
+2202,2012,21200689,2013-02-01 19:30:00,Philadelphia,76ers,Sacramento,Kings,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,89,80,0
+2202,2012,21200708,2013-02-04 19:00:00,Philadelphia,76ers,Orlando,Magic,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,78,61,0
+2202,2012,21200721,2013-02-06 19:00:00,Philadelphia,76ers,Indiana,Pacers,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,69,88,0
+2202,2013,21301034,2014-03-22 20:00:00,Philadelphia,76ers,Chicago,Bulls,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,91,81,0
+2202,2014,11400006,2014-10-06 19:30:00,Philadelphia,76ers,Boston,Celtics,Preseason,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,98,78,0
+2202,2014,11400016,2014-10-08 19:00:00,Philadelphia,76ers,Charlotte,Hornets,Preseason,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,106,92,0
+2202,2014,11400029,2014-10-10 20:00:00,Philadelphia,76ers,Minnesota,Timberwolves,Preseason,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,116,110,0
+2202,2014,11400109,2014-10-23 19:30:00,Philadelphia,76ers,Detroit,Pistons,Preseason,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,109,103,0
+2202,2014,21400441,2014-12-26 22:00:00,Philadelphia,76ers,Portland,Trail Blazers,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,114,93,0
+2202,2014,21400804,2015-02-20 19:00:00,Philadelphia,76ers,Indiana,Pacers,Regular Season,1,0,18.0,7,2,7,7,0,1,2,3,0,-10,7,3,0.429,2,1,0.5,0,0,0.0,95,106,0
+2202,2014,21400825,2015-02-22 18:00:00,Philadelphia,76ers,Orlando,Magic,Regular Season,0,0,24.0,7,1,5,3,2,0,0,2,3,-11,9,3,0.333,5,1,0.2,0,0,0.0,103,98,0
+2202,2014,21400830,2015-02-23 19:30:00,Philadelphia,76ers,Miami,Heat,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,119,108,0
+2202,2014,21400847,2015-02-25 20:00:00,Philadelphia,76ers,Milwaukee,Bucks,Regular Season,0,0,25.0,16,2,4,4,0,0,1,0,3,1,11,6,0.545,8,4,0.5,0,0,0.0,104,88,0
+2202,2014,21400857,2015-02-27 19:00:00,Philadelphia,76ers,Washington,Wizards,Regular Season,1,1,26.0,12,5,2,2,0,0,0,1,3,14,9,4,0.444,7,4,0.571,0,0,0.0,89,81,0
+2202,2014,21400881,2015-03-01 18:00:00,Philadelphia,76ers,Indiana,Pacers,Regular Season,0,0,25.0,10,0,3,3,0,0,2,1,2,-8,12,4,0.333,5,1,0.2,2,1,0.5,94,74,0
+2202,2014,21400885,2015-03-02 19:00:00,Philadelphia,76ers,Toronto,Raptors,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,103,114,0
+2202,2014,21400904,2015-03-04 20:00:00,Philadelphia,76ers,Oklahoma City,Thunder,Regular Season,0,0,35.0,29,3,6,6,0,0,1,0,2,17,19,8,0.421,9,4,0.444,9,9,1.0,123,118,0
+2202,2014,21400914,2015-03-06 19:00:00,Philadelphia,76ers,Utah,Jazz,Regular Season,1,0,26.0,0,2,3,3,0,0,0,0,4,-19,10,0,0.0,4,0,0.0,0,0,0.0,83,89,0
+2202,2014,21400927,2015-03-07 19:30:00,Philadelphia,76ers,Atlanta,Hawks,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,92,84,0
+2202,2014,21400953,2015-03-11 19:00:00,Philadelphia,76ers,Chicago,Bulls,Regular Season,1,0,19.0,4,2,2,1,1,0,2,0,1,-12,9,2,0.222,6,0,0.0,0,0,0.0,95,104,0
+2202,2014,21400968,2015-03-13 19:00:00,Philadelphia,76ers,Sacramento,Kings,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,114,107,0
+2202,2014,21400978,2015-03-14 19:30:00,Philadelphia,76ers,Brooklyn,Nets,Regular Season,1,0,19.0,6,4,3,1,2,1,0,1,2,-6,11,3,0.273,4,0,0.0,0,0,0.0,87,94,0
+2202,2014,21400992,2015-03-16 19:30:00,Philadelphia,76ers,Boston,Celtics,Regular Season,0,0,20.0,2,2,5,2,3,0,0,0,0,-15,7,1,0.143,2,0,0.0,0,0,0.0,108,89,0
+2202,2014,21401006,2015-03-18 19:00:00,Philadelphia,76ers,Detroit,Pistons,Regular Season,1,1,24.0,14,2,5,4,1,0,1,1,2,1,7,4,0.571,5,3,0.6,4,3,0.75,94,83,0
+2202,2014,21401021,2015-03-20 19:00:00,Philadelphia,76ers,New York,Knicks,Regular Season,1,1,17.0,6,3,3,2,1,0,2,1,0,10,8,2,0.25,5,1,0.2,2,1,0.5,97,81,0
+2202,2014,21401047,2015-03-22 21:30:00,Philadelphia,76ers,Los Angeles,Lakers,Regular Season,0,0,20.0,5,3,4,4,0,0,0,0,0,-6,7,2,0.286,4,1,0.25,0,0,0.0,101,87,0
+2202,2014,21401058,2015-03-24 22:00:00,Philadelphia,76ers,Sacramento,Kings,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,107,106,0
+2202,2014,21401069,2015-03-25 21:00:00,Philadelphia,76ers,Denver,Nuggets,Regular Season,0,1,25.0,8,3,4,3,1,1,0,1,1,15,13,3,0.231,6,1,0.167,2,1,0.5,85,99,0
+2202,2014,21401075,2015-03-27 19:00:00,Philadelphia,76ers,Los Angeles,Clippers,Regular Season,1,0,13.0,3,0,1,1,0,0,1,0,0,-21,6,1,0.167,3,1,0.333,0,0,0.0,98,119,0
+2202,2014,21401092,2015-03-29 16:30:00,Philadelphia,76ers,Cleveland,Cavaliers,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,87,86,0
+2202,2014,21401102,2015-03-30 19:00:00,Philadelphia,76ers,Los Angeles,Lakers,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,111,113,0
+2202,2014,21401114,2015-04-01 19:00:00,Philadelphia,76ers,Washington,Wizards,Regular Season,0,0,6.0,0,0,1,1,0,0,0,1,0,-5,2,0,0.0,2,0,0.0,0,0,0.0,106,93,0
+2202,2014,21401137,2015-04-04 19:00:00,Philadelphia,76ers,Charlotte,Hornets,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,92,91,0
+2202,2014,21401151,2015-04-05 19:30:00,Philadelphia,76ers,New York,Knicks,Regular Season,0,0,22.0,7,1,3,1,2,0,0,2,0,-11,11,3,0.273,6,1,0.167,0,0,0.0,101,91,0
+2202,2014,21401162,2015-04-08 19:00:00,Philadelphia,76ers,Washington,Wizards,Regular Season,1,0,20.0,17,1,1,1,0,0,0,1,1,-13,7,6,0.857,5,4,0.8,1,1,1.0,90,119,0
+2202,2014,21401189,2015-04-11 20:00:00,Philadelphia,76ers,Chicago,Bulls,Regular Season,0,0,24.0,19,2,4,4,0,0,1,1,4,8,13,7,0.538,8,4,0.5,2,1,0.5,114,107,0
+2202,2014,21401204,2015-04-13 19:00:00,Philadelphia,76ers,Milwaukee,Bucks,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,97,107,0
+2202,2014,21401227,2015-04-15 20:00:00,Philadelphia,76ers,Miami,Heat,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,101,105,0

@@ -1,0 +1,756 @@
+personId,season,gameId,gameDateTimeEst,playerteamCity,playerteamName,opponentteamCity,opponentteamName,gameType,home,win,numMinutes,points,assists,reboundsTotal,reboundsDefensive,reboundsOffensive,blocks,steals,turnovers,foulsPersonal,plusMinusPoints,fieldGoalsAttempted,fieldGoalsMade,fieldGoalsPercentage,threePointersAttempted,threePointersMade,threePointersPercentage,freeThrowsAttempted,freeThrowsMade,freeThrowsPercentage,homeScore,awayScore,attendance
+404,1986,28600007,1986-10-31 20:00:00,San Antonio,Spurs,Denver,Nuggets,Regular Season,0,0,11.0,0,0,0,0,0,0,0,0,2,0,3,0,0.0,0,0,0.0,0,0,0.0,134,104,0
+404,1986,28600048,1986-11-07 20:00:00,San Antonio,Spurs,Philadelphia,76ers,Regular Season,0,0,5.0,0,0,1,1,0,0,0,0,2,0,2,0,0.0,0,0,0.0,0,0,0.0,114,97,0
+404,1986,28600055,1986-11-08 20:00:00,San Antonio,Spurs,Indiana,Pacers,Regular Season,0,0,9.0,2,0,1,0,1,0,0,0,2,0,5,1,0.2,0,0,0.0,0,0,0.0,130,97,0
+404,1986,28600062,1986-11-11 20:00:00,San Antonio,Spurs,Houston,Rockets,Regular Season,0,0,5.0,4,1,3,3,0,0,0,0,2,0,4,2,0.5,0,0,0.0,0,0,0.0,116,95,0
+404,1986,28600124,1986-11-22 20:00:00,San Antonio,Spurs,Los Angeles,Clippers,Regular Season,0,1,4.0,0,0,0,0,0,1,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,102,109,0
+404,1986,28600138,1986-11-25 20:00:00,San Antonio,Spurs,New Jersey,Nets,Regular Season,1,1,2.0,3,1,2,2,0,0,0,0,1,0,0,0,0.0,0,0,0.0,4,3,0.75,117,99,0
+404,1986,28600162,1986-11-29 20:00:00,San Antonio,Spurs,Washington,Bullets,Regular Season,0,0,5.0,3,2,1,0,1,0,1,1,0,0,1,1,1.0,0,0,0.0,2,1,0.5,116,103,0
+404,1986,28600177,1986-12-02 20:00:00,San Antonio,Spurs,Cleveland,Cavaliers,Regular Season,0,0,9.0,11,0,4,2,2,0,0,0,1,0,5,5,1.0,0,0,0.0,2,1,0.5,115,105,0
+404,1986,28600202,1986-12-06 20:00:00,San Antonio,Spurs,Chicago,Bulls,Regular Season,1,1,14.0,4,2,4,1,3,0,1,1,4,0,5,2,0.4,0,0,0.0,0,0,0.0,106,97,0
+404,1986,28600208,1986-12-09 20:00:00,San Antonio,Spurs,Portland,Trail Blazers,Regular Season,1,0,15.0,8,0,3,1,2,1,0,0,2,0,7,3,0.428,0,0,0.0,2,2,1.0,104,120,0
+404,1986,28600227,1986-12-11 20:00:00,San Antonio,Spurs,Seattle,SuperSonics,Regular Season,0,0,14.0,2,0,2,0,2,0,3,1,4,0,3,1,0.333,0,0,0.0,0,0,0.0,113,107,0
+404,1986,28600238,1986-12-13 20:00:00,San Antonio,Spurs,Golden State,Warriors,Regular Season,1,0,12.0,2,0,6,6,0,1,0,0,3,0,3,1,0.333,0,0,0.0,0,0,0.0,102,117,0
+404,1986,28600257,1986-12-16 20:00:00,San Antonio,Spurs,Dallas,Mavericks,Regular Season,0,0,7.0,0,0,0,0,0,0,0,0,2,0,2,0,0.0,0,0,0.0,2,0,0.0,101,98,0
+404,1986,28600259,1986-12-17 20:00:00,San Antonio,Spurs,Phoenix,Suns,Regular Season,1,1,10.0,6,0,4,2,2,0,0,1,1,0,4,2,0.5,0,0,0.0,2,2,1.0,94,81,0
+404,1986,28600286,1986-12-21 20:00:00,Portland,Trail Blazers,Washington,Bullets,Regular Season,1,1,8.0,4,0,3,1,2,0,0,2,1,0,7,2,0.285,0,0,0.0,0,0,0.0,128,101,0
+404,1986,28600294,1986-12-23 20:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,0,0,2.0,0,0,0,0,0,0,0,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,112,111,0
+404,1986,28600318,1986-12-28 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Regular Season,0,1,5.0,3,0,1,1,0,0,1,0,2,0,1,1,1.0,0,0,0.0,2,1,0.5,118,127,0
+404,1986,28600329,1986-12-30 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,1,1,2.0,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,120,105,0
+404,1986,28600333,1987-01-01 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,1,0,8.0,4,0,3,1,2,0,0,1,1,0,1,0,0.0,0,0,0.0,6,4,0.667,104,140,0
+404,1986,28600351,1987-01-04 20:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,1,1,12.0,8,1,4,3,1,1,0,0,0,0,4,3,0.75,0,0,0.0,2,2,1.0,128,111,0
+404,1986,28600379,1987-01-09 20:00:00,Portland,Trail Blazers,New Jersey,Nets,Regular Season,0,1,15.0,6,0,2,2,0,0,0,1,5,0,6,3,0.5,0,0,0.0,0,0,0.0,120,127,0
+404,1986,28600400,1987-01-13 20:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,1,1,1.0,1,0,1,0,1,0,0,0,0,0,0,0,0.0,0,0,0.0,2,1,0.5,121,113,0
+404,1986,28600411,1987-01-15 20:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,0,0,4.0,0,0,2,2,0,0,0,0,3,0,1,0,0.0,0,0,0.0,0,0,0.0,120,118,0
+404,1986,28600432,1987-01-18 20:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,1,0,11.0,13,0,3,1,2,0,2,1,5,0,6,5,0.832,0,0,0.0,4,3,0.75,103,116,0
+404,1986,28600439,1987-01-19 20:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,0,0,23.0,11,0,8,6,2,1,1,3,6,0,6,4,0.667,0,0,0.0,5,3,0.599,118,116,0
+404,1986,28600459,1987-01-23 20:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,1,1,14.0,5,0,4,3,1,0,0,1,4,0,4,2,0.5,0,0,0.0,2,1,0.5,109,89,0
+404,1986,28600471,1987-01-26 20:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,1,1,7.0,4,0,3,2,1,0,1,1,4,0,4,2,0.5,0,0,0.0,0,0,0.0,145,141,0
+404,1986,28600480,1987-01-27 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,0,0,18.0,4,0,2,1,1,0,2,0,2,0,4,2,0.5,0,0,0.0,0,0,0.0,107,100,0
+404,1986,28600492,1987-01-29 20:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,0,0,7.0,3,0,2,0,2,0,0,1,3,0,1,1,1.0,0,0,0.0,2,1,0.5,120,114,0
+404,1986,28600494,1987-01-30 20:00:00,Portland,Trail Blazers,New Jersey,Nets,Regular Season,1,1,22.0,15,1,4,3,1,0,0,2,4,0,11,7,0.636,0,0,0.0,2,1,0.5,125,107,0
+404,1986,28600513,1987-02-01 20:00:00,Portland,Trail Blazers,Dallas,Mavericks,Regular Season,1,1,12.0,7,1,1,0,1,0,1,1,2,0,3,2,0.667,0,0,0.0,4,3,0.75,133,117,0
+404,1986,28600518,1987-02-03 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,1,1,18.0,3,1,5,1,4,0,0,3,1,0,3,1,0.333,0,0,0.0,2,1,0.5,117,103,0
+404,1986,28600535,1987-02-05 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,1,1,8.0,4,0,3,2,1,0,0,1,3,0,2,2,1.0,0,0,0.0,0,0,0.0,105,104,0
+404,1986,28600546,1987-02-10 20:00:00,Portland,Trail Blazers,Dallas,Mavericks,Regular Season,0,0,16.0,2,0,3,3,0,1,0,4,4,0,3,1,0.333,0,0,0.0,0,0,0.0,135,115,0
+404,1986,28600562,1987-02-13 20:00:00,Portland,Trail Blazers,Boston,Celtics,Regular Season,1,0,17.0,11,0,2,1,1,0,0,0,3,0,5,4,0.8,0,0,0.0,5,3,0.599,116,131,0
+404,1986,28600574,1987-02-15 20:00:00,Portland,Trail Blazers,Atlanta,Hawks,Regular Season,1,1,6.0,2,0,1,1,0,0,0,0,2,0,2,1,0.5,0,0,0.0,0,0,0.0,98,93,0
+404,1986,28600579,1987-02-16 20:00:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,0,1,29.0,7,0,7,3,4,2,0,2,3,0,7,3,0.428,0,0,0.0,2,1,0.5,105,110,0
+404,1986,28600594,1987-02-19 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,0,1,5.0,2,0,0,0,0,0,0,1,3,0,1,1,1.0,0,0,0.0,0,0,0.0,108,124,0
+404,1986,28600615,1987-02-22 20:00:00,Portland,Trail Blazers,Milwaukee,Bucks,Regular Season,1,1,4.0,2,1,0,0,0,0,0,0,1,0,1,0,0.0,0,0,0.0,2,2,1.0,124,120,0
+404,1986,28600629,1987-02-24 20:00:00,Portland,Trail Blazers,New York,Knicks,Regular Season,0,1,15.0,6,1,5,4,1,1,0,3,5,0,6,3,0.5,0,0,0.0,0,0,0.0,109,122,0
+404,1986,28600631,1987-02-25 20:00:00,Portland,Trail Blazers,Boston,Celtics,Regular Season,0,0,10.0,0,0,2,2,0,0,0,1,2,0,0,0,0.0,0,0,0.0,0,0,0.0,122,116,0
+404,1986,28600641,1987-02-27 20:00:00,Portland,Trail Blazers,Detroit,Pistons,Regular Season,0,1,7.0,4,1,6,5,1,0,0,2,3,0,1,1,1.0,0,0,0.0,2,2,1.0,111,123,0
+404,1986,28600651,1987-02-28 20:00:00,Portland,Trail Blazers,Atlanta,Hawks,Regular Season,0,0,34.0,16,1,9,5,4,0,0,4,4,0,12,5,0.416,0,0,0.0,6,6,1.0,123,102,0
+404,1986,28600665,1987-03-03 20:00:00,Portland,Trail Blazers,Cleveland,Cavaliers,Regular Season,1,1,7.0,0,1,4,2,2,0,0,1,3,0,1,0,0.0,0,0,0.0,0,0,0.0,127,122,0
+404,1986,28600677,1987-03-05 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Regular Season,0,0,14.0,12,0,0,0,0,1,0,0,3,0,6,4,0.667,0,0,0.0,4,4,1.0,127,122,0
+404,1986,28600693,1987-03-08 20:00:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,1,1,32.0,13,1,5,5,0,0,1,5,5,0,13,5,0.385,0,0,0.0,3,3,1.0,119,93,0
+404,1986,28600715,1987-03-12 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,0,0,22.0,4,1,6,5,1,2,0,1,4,0,6,2,0.333,0,0,0.0,0,0,0.0,125,116,0
+404,1986,28600733,1987-03-15 20:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,1,1,26.0,6,1,10,9,1,1,1,2,3,0,5,3,0.599,0,0,0.0,0,0,0.0,119,108,0
+404,1986,28600745,1987-03-17 20:00:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,0,1,19.0,7,3,7,4,3,1,1,2,5,0,2,2,1.0,0,0,0.0,4,3,0.75,123,134,0
+404,1986,28600756,1987-03-19 20:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,0,0,15.0,9,0,3,3,0,0,1,0,4,0,3,3,1.0,0,0,0.0,4,3,0.75,125,124,0
+404,1986,28600763,1987-03-20 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,1,1,31.0,10,1,12,9,3,2,0,2,5,0,8,3,0.375,0,0,0.0,6,4,0.667,134,105,0
+404,1986,28600778,1987-03-22 20:00:00,Portland,Trail Blazers,Chicago,Bulls,Regular Season,1,1,18.0,3,0,3,3,0,0,0,1,3,0,2,1,0.5,0,0,0.0,4,1,0.25,115,113,0
+404,1986,28600791,1987-03-24 20:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,0,0,15.0,9,0,4,2,2,0,0,1,6,0,5,3,0.599,0,0,0.0,5,3,0.599,128,116,0
+404,1986,28600802,1987-03-26 20:00:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,0,0,28.0,13,1,6,2,4,1,1,0,6,0,11,3,0.273,0,0,0.0,9,7,0.778,119,104,0
+404,1986,28600818,1987-03-29 20:00:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,0,1,13.0,5,1,3,3,0,1,0,1,3,0,1,0,0.0,0,0,0.0,6,5,0.832,113,135,0
+404,1986,28600822,1987-03-31 20:00:00,Portland,Trail Blazers,Detroit,Pistons,Regular Season,1,1,6.0,4,0,1,1,0,0,0,1,4,0,1,1,1.0,0,0,0.0,4,2,0.5,113,111,0
+404,1986,28600844,1987-04-03 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,1,0,9.0,3,0,2,2,0,0,0,1,1,0,1,0,0.0,0,0,0.0,4,3,0.75,121,127,0
+404,1986,28600854,1987-04-04 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Regular Season,0,1,15.0,8,0,1,0,1,1,0,0,2,0,5,4,0.8,0,0,0.0,0,0,0.0,123,126,0
+404,1986,28600865,1987-04-06 20:00:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,1,0,20.0,8,0,4,1,3,0,0,3,2,0,7,4,0.57,0,0,0.0,0,0,0.0,108,114,0
+404,1986,28600887,1987-04-10 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Regular Season,1,1,13.0,2,0,2,1,1,1,0,2,4,0,1,1,1.0,0,0,0.0,0,0,0.0,121,115,0
+404,1986,28600899,1987-04-12 20:00:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,1,1,24.0,12,1,4,3,1,0,1,5,5,0,15,6,0.4,0,0,0.0,0,0,0.0,113,100,0
+404,1986,28600911,1987-04-14 20:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,0,0,29.0,8,1,10,5,5,0,0,5,5,0,10,1,0.1,0,0,0.0,9,6,0.667,142,114,0
+404,1986,28600915,1987-04-15 20:00:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,0,0,16.0,3,2,6,6,0,0,1,0,5,0,5,1,0.2,0,0,0.0,2,1,0.5,123,112,0
+404,1986,28600931,1987-04-17 20:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,1,1,17.0,3,0,5,4,1,0,0,0,5,0,6,1,0.167,1,0,0.0,2,1,0.5,111,101,0
+404,1986,28600941,1987-04-19 20:00:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,1,1,24.0,18,1,8,6,2,1,1,5,5,0,12,8,0.667,0,0,0.0,4,2,0.5,144,134,0
+404,1986,48600006,1987-04-24 20:00:00,Portland,Trail Blazers,Houston,Rockets,Playoffs,1,0,7.0,2,0,1,1,0,0,1,3,1,0,2,1,0.5,0,0,0.0,0,0,0.0,115,125,0
+404,1986,48600012,1987-04-26 20:00:00,Portland,Trail Blazers,Houston,Rockets,Playoffs,1,1,19.0,5,0,2,1,1,0,1,2,4,0,5,2,0.4,0,0,0.0,2,1,0.5,111,98,0
+404,1986,48600018,1987-04-28 20:00:00,Portland,Trail Blazers,Houston,Rockets,Playoffs,0,0,10.0,7,0,3,2,1,0,1,0,5,0,3,3,1.0,0,0,0.0,1,1,1.0,117,108,0
+404,1986,48600026,1987-04-30 20:00:00,Portland,Trail Blazers,Houston,Rockets,Playoffs,0,0,17.0,0,1,2,1,1,1,1,1,4,0,2,0,0.0,0,0,0.0,2,0,0.0,113,101,0
+404,1987,28700011,1987-11-06 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,1,1,23.0,9,0,6,4,2,0,0,3,2,0,7,4,0.57,0,0,0.0,1,1,1.0,118,104,0
+404,1987,28700015,1987-11-07 20:00:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,0,1,21.0,8,0,11,8,3,0,0,0,3,0,3,2,0.667,0,0,0.0,6,4,0.667,99,124,0
+404,1987,28700032,1987-11-10 20:00:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,1,0,26.0,4,0,5,2,3,0,0,4,3,0,9,2,0.222,0,0,0.0,0,0,0.0,111,118,0
+404,1987,28700040,1987-11-12 20:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,0,0,9.0,4,0,2,2,0,0,0,3,3,0,4,2,0.5,0,0,0.0,0,0,0.0,126,113,0
+404,1987,28700085,1987-11-20 20:00:00,Portland,Trail Blazers,Washington,Bullets,Regular Season,1,1,28.0,11,1,10,7,3,1,1,4,6,0,17,5,0.293,0,0,0.0,2,1,0.5,120,101,0
+404,1987,28700102,1987-11-22 20:00:00,Portland,Trail Blazers,Indiana,Pacers,Regular Season,1,1,14.0,10,0,0,0,0,0,1,0,2,0,5,4,0.8,0,0,0.0,2,2,1.0,120,110,0
+404,1987,28700108,1987-11-24 20:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,1,1,20.0,6,0,3,2,1,0,1,4,5,0,6,3,0.5,0,0,0.0,2,0,0.0,98,94,0
+404,1987,28700122,1987-11-27 20:00:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,1,1,16.0,4,1,2,1,1,0,2,6,5,0,5,1,0.2,0,0,0.0,2,2,1.0,97,87,0
+404,1987,28700138,1987-11-29 20:00:00,Portland,Trail Blazers,New Jersey,Nets,Regular Season,1,1,21.0,10,3,4,4,0,0,0,0,5,0,4,3,0.75,0,0,0.0,4,4,1.0,125,104,0
+404,1987,28700145,1987-12-01 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,1,1,28.0,8,2,8,4,4,2,0,0,5,0,11,3,0.273,0,0,0.0,2,2,1.0,102,100,0
+404,1987,28700156,1987-12-02 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,0,1,5.0,0,0,2,2,0,1,0,0,2,0,2,0,0.0,0,0,0.0,0,0,0.0,104,117,0
+404,1987,28700168,1987-12-05 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,0,1,18.0,6,1,2,2,0,0,0,1,5,0,5,2,0.4,0,0,0.0,2,2,1.0,115,133,0
+404,1987,28700175,1987-12-06 20:00:00,Portland,Trail Blazers,New York,Knicks,Regular Season,1,1,25.0,12,0,10,5,5,3,0,2,5,0,6,2,0.333,0,0,0.0,10,8,0.8,117,99,0
+404,1987,28700185,1987-12-08 20:00:00,Portland,Trail Blazers,Detroit,Pistons,Regular Season,0,0,8.0,2,0,6,5,1,0,0,0,1,0,2,0,0.0,0,0,0.0,2,2,1.0,127,117,0
+404,1987,28700191,1987-12-09 20:00:00,Portland,Trail Blazers,Philadelphia,76ers,Regular Season,0,0,31.0,9,0,12,9,3,0,1,0,6,0,10,4,0.4,0,0,0.0,2,1,0.5,94,86,0
+404,1987,28700197,1987-12-11 20:00:00,Portland,Trail Blazers,Milwaukee,Bucks,Regular Season,0,0,19.0,6,1,5,2,3,0,1,2,6,0,6,3,0.5,0,0,0.0,0,0,0.0,125,112,0
+404,1987,28700209,1987-12-12 20:00:00,Portland,Trail Blazers,Indiana,Pacers,Regular Season,0,1,31.0,11,0,5,3,2,0,0,2,2,0,8,5,0.625,0,0,0.0,1,1,1.0,101,108,0
+404,1987,28700220,1987-12-15 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Regular Season,1,1,18.0,4,3,4,2,2,0,0,0,3,0,3,1,0.333,0,0,0.0,2,2,1.0,128,109,0
+404,1987,28700235,1987-12-18 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,0,1,16.0,15,0,9,4,5,0,0,0,2,0,10,5,0.5,0,0,0.0,7,5,0.713,114,129,0
+404,1987,28700249,1987-12-20 20:00:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,1,1,4.0,2,0,0,0,0,0,0,0,0,0,2,1,0.5,0,0,0.0,0,0,0.0,148,126,0
+404,1987,28700275,1987-12-26 20:00:00,Portland,Trail Blazers,Cleveland,Cavaliers,Regular Season,0,0,4.0,3,0,2,0,2,0,0,1,2,0,3,1,0.333,0,0,0.0,2,1,0.5,120,117,0
+404,1987,28700290,1987-12-29 20:00:00,Portland,Trail Blazers,New York,Knicks,Regular Season,0,0,6.0,3,0,1,1,0,0,1,1,2,0,1,1,1.0,0,0,0.0,2,1,0.5,123,110,0
+404,1987,28700294,1987-12-30 20:00:00,Portland,Trail Blazers,Washington,Bullets,Regular Season,0,1,33.0,14,2,11,3,8,0,0,1,3,0,12,5,0.416,0,0,0.0,5,4,0.8,112,117,0
+404,1987,28700301,1988-01-01 20:00:00,Portland,Trail Blazers,Philadelphia,76ers,Regular Season,1,1,7.0,7,1,3,1,2,0,0,0,4,0,2,1,0.5,0,0,0.0,6,5,0.832,127,125,0
+404,1987,28700314,1988-01-03 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,1,0,22.0,5,0,4,2,2,0,1,3,5,0,6,1,0.167,0,0,0.0,3,3,1.0,81,98,0
+404,1987,28700320,1988-01-05 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Regular Season,1,1,29.0,11,0,6,5,1,0,0,1,3,0,7,3,0.428,0,0,0.0,6,5,0.832,126,114,0
+404,1987,28700339,1988-01-08 20:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,1,1,28.0,13,0,6,2,4,1,0,3,3,0,13,3,0.231,0,0,0.0,8,7,0.875,98,91,0
+404,1987,28700367,1988-01-13 20:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,0,0,23.0,8,3,10,7,3,1,1,3,5,0,8,4,0.5,0,0,0.0,0,0,0.0,116,104,0
+404,1987,28700372,1988-01-14 20:00:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,0,0,19.0,6,2,9,4,5,0,0,3,3,0,5,3,0.599,0,0,0.0,0,0,0.0,103,98,0
+404,1987,28700389,1988-01-16 20:00:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,0,1,25.0,21,0,6,4,2,1,0,2,5,0,13,6,0.462,0,0,0.0,14,9,0.643,120,121,0
+404,1987,28700401,1988-01-19 20:00:00,Portland,Trail Blazers,Dallas,Mavericks,Regular Season,1,0,18.0,3,2,3,2,1,0,0,1,3,0,1,1,1.0,0,0,0.0,2,1,0.5,116,120,0
+404,1987,28700419,1988-01-22 20:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,1,1,18.0,12,1,5,1,4,1,0,3,4,0,10,5,0.5,0,0,0.0,2,2,1.0,126,106,0
+404,1987,28700431,1988-01-24 20:00:00,Portland,Trail Blazers,Detroit,Pistons,Regular Season,1,1,33.0,22,0,15,8,7,1,1,0,2,0,16,7,0.438,0,0,0.0,13,8,0.614,119,111,0
+404,1987,28700442,1988-01-26 20:00:00,Portland,Trail Blazers,Milwaukee,Bucks,Regular Season,1,1,28.0,15,0,10,6,4,0,0,1,4,0,13,7,0.538,0,0,0.0,1,1,1.0,112,106,0
+404,1987,28700447,1988-01-27 20:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,0,0,40.0,21,0,12,7,5,0,1,5,1,0,10,6,0.599,0,0,0.0,11,9,0.817,115,110,0
+404,1987,28700460,1988-01-29 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,1,1,33.0,26,2,6,2,4,0,0,3,4,0,13,8,0.614,0,0,0.0,14,10,0.713,128,119,0
+404,1987,28700475,1988-02-02 20:00:00,Portland,Trail Blazers,Atlanta,Hawks,Regular Season,1,1,41.0,22,1,17,9,8,2,0,1,4,0,23,8,0.347,0,0,0.0,7,6,0.856,121,118,0
+404,1987,28700493,1988-02-04 20:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,1,0,39.0,28,0,14,8,6,1,0,1,4,0,17,9,0.529,0,0,0.0,10,10,1.0,123,126,0
+404,1987,28700497,1988-02-09 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Regular Season,1,1,32.0,22,0,4,4,0,1,0,3,3,0,10,7,0.699,0,0,0.0,15,8,0.533,139,123,0
+404,1987,28700517,1988-02-11 20:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,0,0,38.0,15,3,7,7,0,0,0,3,5,0,15,7,0.467,0,0,0.0,2,1,0.5,123,113,0
+404,1987,28700525,1988-02-12 20:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,1,1,29.0,28,0,7,6,1,0,0,2,3,0,19,10,0.526,0,0,0.0,8,8,1.0,120,105,0
+404,1987,28700532,1988-02-14 20:00:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,1,0,35.0,17,1,5,4,1,0,1,4,5,0,18,6,0.333,0,0,0.0,6,5,0.832,103,115,0
+404,1987,28700544,1988-02-15 20:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,0,0,38.0,31,1,7,4,3,0,1,3,4,0,18,11,0.61,0,0,0.0,14,9,0.643,112,94,0
+404,1987,28700555,1988-02-17 20:00:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,0,1,41.0,15,0,13,9,4,0,1,5,4,0,15,6,0.4,0,0,0.0,4,3,0.75,96,110,0
+404,1987,28700565,1988-02-19 20:00:00,Portland,Trail Blazers,Boston,Celtics,Regular Season,1,0,39.0,32,1,7,2,5,0,0,1,5,0,21,12,0.57,0,0,0.0,10,8,0.8,104,124,0
+404,1987,28700577,1988-02-21 20:00:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,1,1,39.0,13,2,12,9,3,1,1,7,5,0,10,4,0.4,0,0,0.0,6,5,0.832,117,112,0
+404,1987,28700586,1988-02-23 20:00:00,Portland,Trail Blazers,New Jersey,Nets,Regular Season,0,1,34.0,16,2,5,4,1,0,2,1,5,0,11,7,0.636,0,0,0.0,4,2,0.5,102,114,0
+404,1987,28700593,1988-02-24 20:00:00,Portland,Trail Blazers,Boston,Celtics,Regular Season,0,0,28.0,10,1,4,3,1,0,0,1,4,0,8,4,0.5,0,0,0.0,2,2,1.0,113,112,0
+404,1987,28700600,1988-02-26 20:00:00,Portland,Trail Blazers,Chicago,Bulls,Regular Season,0,1,38.0,27,1,9,5,4,2,0,3,5,0,16,11,0.687,0,0,0.0,8,5,0.625,96,104,0
+404,1987,28700611,1988-02-27 20:00:00,Portland,Trail Blazers,Atlanta,Hawks,Regular Season,0,1,42.0,30,3,5,2,3,0,1,2,4,0,20,12,0.599,0,0,0.0,6,6,1.0,120,123,0
+404,1987,28700622,1988-02-29 20:00:00,Portland,Trail Blazers,Cleveland,Cavaliers,Regular Season,1,1,23.0,12,2,5,1,4,1,0,3,5,0,13,4,0.307,0,0,0.0,6,4,0.667,107,94,0
+404,1987,28700639,1988-03-03 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,0,1,33.0,25,2,13,8,5,0,1,3,2,0,17,8,0.47,0,0,0.0,10,9,0.9,112,135,0
+404,1987,28700650,1988-03-05 20:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,1,1,34.0,20,0,4,1,3,0,1,2,3,0,16,8,0.5,0,0,0.0,8,4,0.5,123,117,0
+404,1987,28700669,1988-03-08 20:00:00,Portland,Trail Blazers,Dallas,Mavericks,Regular Season,0,1,22.0,6,0,4,3,1,0,0,2,4,0,7,3,0.428,0,0,0.0,0,0,0.0,110,112,0
+404,1987,28700679,1988-03-10 20:00:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,0,1,43.0,30,0,13,7,6,0,0,2,3,0,22,11,0.5,0,0,0.0,13,8,0.614,109,112,0
+404,1987,28700694,1988-03-13 20:00:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,1,1,31.0,29,2,12,7,5,2,0,2,1,0,20,11,0.55,0,0,0.0,10,7,0.699,121,100,0
+404,1987,28700711,1988-03-15 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,1,1,23.0,10,0,5,2,3,0,0,3,5,0,11,4,0.363,0,0,0.0,2,2,1.0,112,95,0
+404,1987,28700719,1988-03-17 20:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,0,0,39.0,18,1,9,8,1,0,0,3,5,0,12,5,0.416,0,0,0.0,10,8,0.8,116,115,0
+404,1987,28700727,1988-03-18 20:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,0,1,40.0,20,2,9,7,2,0,0,4,3,0,12,7,0.582,0,0,0.0,7,6,0.856,116,121,0
+404,1987,28700735,1988-03-20 20:00:00,Portland,Trail Blazers,Dallas,Mavericks,Regular Season,1,1,40.0,18,0,10,5,5,1,2,1,3,0,19,7,0.367,0,0,0.0,4,4,1.0,105,99,0
+404,1987,28700756,1988-03-23 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Regular Season,0,0,32.0,24,0,8,6,2,0,0,2,2,0,12,7,0.582,0,0,0.0,11,10,0.909,118,108,0
+404,1987,28700768,1988-03-25 20:00:00,Portland,Trail Blazers,Dallas,Mavericks,Regular Season,0,0,37.0,16,0,11,7,4,1,1,4,1,0,12,7,0.582,0,0,0.0,4,2,0.5,106,101,0
+404,1987,28700774,1988-03-26 20:00:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,0,0,38.0,23,1,9,2,7,1,0,4,6,0,17,8,0.47,0,0,0.0,9,7,0.778,115,109,0
+404,1987,28700787,1988-03-29 20:00:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,0,1,29.0,24,4,7,6,1,0,0,2,3,0,10,10,1.0,0,0,0.0,4,4,1.0,113,136,0
+404,1987,28700803,1988-04-01 20:00:00,Portland,Trail Blazers,Chicago,Bulls,Regular Season,1,0,44.0,32,1,11,7,4,1,1,4,4,0,24,11,0.458,0,0,0.0,10,10,1.0,101,116,0
+404,1987,28700816,1988-04-03 20:00:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,1,1,37.0,24,0,12,8,4,0,0,2,2,0,24,11,0.458,0,0,0.0,3,2,0.667,110,107,0
+404,1987,28700820,1988-04-05 20:00:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,1,1,29.0,25,1,6,4,2,0,0,2,1,0,16,11,0.687,0,0,0.0,3,3,1.0,141,119,0
+404,1987,28700831,1988-04-06 20:00:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,0,1,32.0,22,1,10,7,3,0,1,5,3,0,18,8,0.444,0,0,0.0,7,6,0.856,103,111,0
+404,1987,28700839,1988-04-08 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Regular Season,0,0,38.0,24,0,8,3,5,1,0,5,5,0,17,9,0.529,0,0,0.0,10,6,0.599,114,100,0
+404,1987,28700852,1988-04-09 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,1,1,39.0,21,0,9,5,4,0,1,2,3,0,14,9,0.643,0,0,0.0,4,3,0.75,119,109,0
+404,1987,28700868,1988-04-12 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,0,0,37.0,24,0,11,6,5,0,0,4,5,0,18,8,0.444,0,0,0.0,8,8,1.0,109,103,0
+404,1987,28700877,1988-04-14 20:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,0,1,41.0,26,0,6,5,1,1,1,0,3,0,17,9,0.529,0,0,0.0,10,8,0.8,123,128,0
+404,1987,28700883,1988-04-15 20:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,1,1,27.0,10,4,13,11,2,0,0,1,4,0,6,4,0.667,0,0,0.0,2,2,1.0,147,113,0
+404,1987,28700898,1988-04-17 20:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,1,1,34.0,16,2,14,11,3,2,1,2,3,0,12,6,0.5,0,0,0.0,4,4,1.0,112,102,0
+404,1987,28700905,1988-04-19 20:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,1,0,39.0,24,1,7,5,2,0,0,7,6,0,16,8,0.5,0,0,0.0,11,8,0.726,122,129,0
+404,1987,28700914,1988-04-20 20:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,0,1,33.0,25,0,8,4,4,1,2,4,4,0,15,9,0.599,0,0,0.0,10,7,0.699,117,131,0
+404,1987,28700925,1988-04-22 20:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,1,1,34.0,23,1,7,5,2,1,0,3,5,0,17,10,0.587,0,0,0.0,4,3,0.75,141,135,0
+404,1987,28700937,1988-04-23 20:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,0,1,35.0,23,0,4,2,2,0,0,0,2,0,14,9,0.643,0,0,0.0,8,5,0.625,110,124,0
+404,1987,48700003,1988-04-28 20:00:00,Portland,Trail Blazers,Utah,Jazz,Playoffs,1,1,43.0,13,2,11,8,3,1,0,6,3,0,13,4,0.307,1,0,0.0,7,5,0.713,108,96,0
+404,1987,48700009,1988-04-30 20:00:00,Portland,Trail Blazers,Utah,Jazz,Playoffs,1,0,36.0,19,2,7,4,3,0,0,4,3,0,19,8,0.42,0,0,0.0,4,3,0.75,105,114,0
+404,1987,48700024,1988-05-04 20:00:00,Portland,Trail Blazers,Utah,Jazz,Playoffs,0,0,39.0,21,2,16,8,8,1,1,7,3,0,18,8,0.444,0,0,0.0,7,5,0.713,113,108,0
+404,1987,48700031,1988-05-06 20:00:00,Portland,Trail Blazers,Utah,Jazz,Playoffs,0,0,33.0,33,1,10,4,6,0,0,4,5,0,20,14,0.699,0,0,0.0,5,5,1.0,111,96,0
+404,1988,28800005,1988-11-04 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,1,1,19.0,14,1,4,3,1,0,1,5,5,0,11,5,0.455,0,0,0.0,6,4,0.667,120,105,0
+404,1988,28800020,1988-11-05 20:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,1,1,33.0,17,2,8,5,3,1,0,3,3,0,12,6,0.5,0,0,0.0,5,5,1.0,121,103,0
+404,1988,28800042,1988-11-10 20:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,0,0,29.0,16,0,9,7,2,1,0,3,5,0,13,8,0.614,0,0,0.0,0,0,0.0,135,115,0
+404,1988,28800058,1988-11-12 20:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,0,0,31.0,20,2,9,0,9,0,0,4,2,0,18,6,0.333,0,0,0.0,13,8,0.614,107,100,0
+404,1988,28800063,1988-11-13 20:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,1,0,34.0,20,2,6,4,2,0,1,3,6,0,18,9,0.5,0,0,0.0,5,2,0.4,132,143,0
+404,1988,28800069,1988-11-15 20:00:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,1,1,32.0,19,0,13,11,2,0,0,2,1,0,17,5,0.293,0,0,0.0,9,9,1.0,125,103,0
+404,1988,28800085,1988-11-17 20:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,0,0,26.0,8,0,7,5,2,0,0,3,3,0,8,0,0.0,0,0,0.0,10,8,0.8,123,99,0
+404,1988,28800091,1988-11-18 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,0,0,28.0,12,0,8,4,4,1,1,3,0,0,14,4,0.285,0,0,0.0,4,4,1.0,106,105,0
+404,1988,28800105,1988-11-20 20:00:00,Portland,Trail Blazers,New Jersey,Nets,Regular Season,1,1,35.0,12,1,5,4,1,0,0,1,4,0,11,5,0.455,0,0,0.0,5,2,0.4,117,106,0
+404,1988,28800111,1988-11-22 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Regular Season,0,1,39.0,27,0,11,7,4,1,1,3,4,0,15,11,0.732,0,0,0.0,6,5,0.832,104,125,0
+404,1988,28800134,1988-11-25 20:00:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,1,1,37.0,27,0,7,6,1,2,1,3,0,0,18,10,0.556,0,0,0.0,7,7,1.0,111,94,0
+404,1988,28800147,1988-11-27 20:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,1,1,32.0,18,0,7,2,5,3,2,7,2,0,10,7,0.699,0,0,0.0,6,4,0.667,109,94,0
+404,1988,28800156,1988-11-29 20:00:00,Portland,Trail Blazers,Milwaukee,Bucks,Regular Season,0,0,43.0,29,2,11,8,3,1,0,3,3,0,19,9,0.473,0,0,0.0,12,11,0.917,119,114,0
+404,1988,28800159,1988-11-30 20:00:00,Portland,Trail Blazers,Philadelphia,76ers,Regular Season,0,0,34.0,16,0,2,2,0,1,0,2,3,0,13,7,0.538,0,0,0.0,4,2,0.5,114,106,0
+404,1988,28800174,1988-12-02 20:00:00,Portland,Trail Blazers,Miami,Heat,Regular Season,0,1,35.0,10,1,7,4,3,1,2,5,5,0,9,3,0.333,0,0,0.0,6,4,0.667,102,105,0
+404,1988,28800184,1988-12-03 20:00:00,Portland,Trail Blazers,Atlanta,Hawks,Regular Season,0,0,35.0,8,1,8,4,4,0,1,3,5,0,13,3,0.231,0,0,0.0,2,2,1.0,115,97,0
+404,1988,28800193,1988-12-06 20:00:00,Portland,Trail Blazers,New Jersey,Nets,Regular Season,0,1,39.0,26,0,12,10,2,0,0,3,4,0,21,12,0.57,0,0,0.0,2,2,1.0,93,97,0
+404,1988,28800208,1988-12-07 20:00:00,Portland,Trail Blazers,Indiana,Pacers,Regular Season,0,0,43.0,32,0,12,5,7,0,0,1,4,0,27,14,0.519,0,0,0.0,8,4,0.5,129,120,0
+404,1988,28800213,1988-12-09 20:00:00,Portland,Trail Blazers,Washington,Bullets,Regular Season,1,1,45.0,24,2,18,14,4,0,1,2,4,0,17,10,0.587,0,0,0.0,9,4,0.444,93,90,0
+404,1988,28800232,1988-12-11 20:00:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,1,1,43.0,24,0,5,4,1,1,0,2,5,0,14,7,0.5,0,0,0.0,12,10,0.832,128,123,0
+404,1988,28800236,1988-12-13 20:00:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,1,1,23.0,18,0,10,5,5,2,1,3,1,0,11,6,0.545,0,0,0.0,8,6,0.75,113,92,0
+404,1988,28800261,1988-12-16 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,0,0,40.0,14,3,9,8,1,0,0,5,5,0,14,4,0.285,0,0,0.0,6,6,1.0,132,125,0
+404,1988,28800265,1988-12-17 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,1,1,34.0,18,0,3,3,0,0,0,2,3,0,15,8,0.533,0,0,0.0,2,2,1.0,115,97,0
+404,1988,28800280,1988-12-20 20:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,0,1,29.0,23,2,7,3,4,1,2,1,4,0,20,9,0.45,0,0,0.0,8,5,0.625,124,127,0
+404,1988,28800294,1988-12-22 20:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,0,1,33.0,20,1,8,5,3,2,0,2,5,0,17,7,0.411,1,0,0.0,7,6,0.856,109,117,0
+404,1988,28800303,1988-12-23 20:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,1,1,36.0,22,0,8,4,4,0,2,0,4,0,15,10,0.667,0,0,0.0,5,2,0.4,111,107,0
+404,1988,28800318,1988-12-27 20:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,0,0,40.0,29,1,10,6,4,1,0,4,3,0,23,14,0.608,0,0,0.0,1,1,1.0,112,111,0
+404,1988,28800351,1989-01-03 20:00:00,Portland,Trail Blazers,Miami,Heat,Regular Season,1,1,33.0,10,3,7,5,2,0,1,2,1,0,10,4,0.4,0,0,0.0,2,2,1.0,119,95,0
+404,1988,28800355,1989-01-04 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,0,0,37.0,23,1,10,7,3,0,1,2,5,0,19,11,0.578,0,0,0.0,2,1,0.5,133,120,0
+404,1988,28800366,1989-01-06 20:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,1,1,48.0,30,2,11,4,7,0,0,4,6,0,22,12,0.545,0,0,0.0,11,6,0.545,147,142,0
+404,1988,28800380,1989-01-07 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Regular Season,0,0,39.0,29,0,7,3,4,0,1,3,1,0,17,11,0.647,0,0,0.0,7,7,1.0,129,123,0
+404,1988,28800392,1989-01-10 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Regular Season,1,1,34.0,8,0,7,5,2,1,1,2,4,0,12,4,0.333,0,0,0.0,0,0,0.0,125,109,0
+404,1988,28800404,1989-01-12 20:00:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,0,0,43.0,23,2,12,7,5,0,0,8,2,0,17,8,0.47,0,0,0.0,12,7,0.582,116,106,0
+404,1988,28800416,1989-01-14 20:00:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,0,1,37.0,9,0,5,4,1,0,0,3,6,0,14,3,0.213,0,0,0.0,4,3,0.75,99,103,0
+404,1988,28800439,1989-01-17 20:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,1,0,38.0,19,1,8,5,3,0,0,2,4,0,15,8,0.533,0,0,0.0,3,3,1.0,110,111,0
+404,1988,28800468,1989-01-22 20:00:00,Portland,Trail Blazers,New York,Knicks,Regular Season,1,0,36.0,13,1,6,5,1,1,0,9,5,0,13,6,0.462,0,0,0.0,2,1,0.5,116,120,0
+404,1988,28800476,1989-01-24 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Regular Season,1,0,36.0,16,0,8,6,2,1,2,0,6,0,11,7,0.636,0,0,0.0,4,2,0.5,100,103,0
+404,1988,28800486,1989-01-26 20:00:00,Portland,Trail Blazers,Milwaukee,Bucks,Regular Season,1,0,30.0,16,0,8,6,2,0,0,5,4,0,11,6,0.545,0,0,0.0,5,4,0.8,109,127,0
+404,1988,28800505,1989-01-28 20:00:00,Portland,Trail Blazers,Atlanta,Hawks,Regular Season,1,1,36.0,16,0,6,5,1,0,0,3,5,0,12,5,0.416,0,0,0.0,6,6,1.0,110,94,0
+404,1988,28800514,1989-01-30 20:00:00,Portland,Trail Blazers,Charlotte,Hornets,Regular Season,1,1,34.0,19,0,9,6,3,0,1,1,2,0,17,6,0.352,0,0,0.0,9,7,0.778,130,118,0
+404,1988,28800528,1989-02-01 20:00:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,0,1,25.0,15,0,6,3,3,1,1,3,5,0,11,5,0.455,0,0,0.0,7,5,0.713,107,108,0
+404,1988,28800535,1989-02-03 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,0,0,29.0,25,0,7,6,1,0,2,3,6,0,14,11,0.786,0,0,0.0,4,3,0.75,140,129,0
+404,1988,28800546,1989-02-04 20:00:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,1,1,18.0,7,0,2,1,1,0,0,1,4,0,6,3,0.5,0,0,0.0,2,1,0.5,137,100,0
+404,1988,28800562,1989-02-07 20:00:00,Portland,Trail Blazers,Dallas,Mavericks,Regular Season,1,1,42.0,27,5,9,5,4,0,1,1,3,0,23,11,0.477,0,0,0.0,7,5,0.713,134,125,0
+404,1988,28800576,1989-02-09 20:00:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,1,0,40.0,17,3,6,4,2,1,0,1,4,0,10,3,0.299,0,0,0.0,14,11,0.786,110,113,0
+404,1988,28800600,1989-02-16 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,1,0,35.0,10,1,6,3,3,1,1,3,4,0,9,4,0.444,0,0,0.0,4,2,0.5,101,110,0
+404,1988,28800613,1989-02-18 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Regular Season,1,0,32.0,21,0,5,2,3,0,0,2,5,0,15,9,0.599,1,0,0.0,3,3,1.0,115,116,0
+404,1988,28800621,1989-02-20 20:00:00,Portland,Trail Blazers,Chicago,Bulls,Regular Season,0,0,32.0,18,1,7,3,4,0,1,1,1,0,13,6,0.462,0,0,0.0,6,6,1.0,102,98,0
+404,1988,28800638,1989-02-22 20:00:00,Portland,Trail Blazers,Detroit,Pistons,Regular Season,0,0,30.0,15,0,5,5,0,0,1,0,3,0,14,7,0.5,0,0,0.0,2,1,0.5,105,94,0
+404,1988,28800649,1989-02-24 20:00:00,Portland,Trail Blazers,Cleveland,Cavaliers,Regular Season,0,0,25.0,13,0,6,1,5,1,1,3,4,0,11,6,0.545,0,0,0.0,1,1,1.0,128,91,0
+404,1988,28800662,1989-02-26 20:00:00,Portland,Trail Blazers,Miami,Heat,Regular Season,0,1,28.0,24,1,9,5,4,2,0,2,3,0,16,10,0.625,0,0,0.0,7,4,0.57,102,124,0
+404,1988,28800679,1989-02-28 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,1,1,29.0,20,0,5,2,3,0,0,2,4,0,11,6,0.545,0,0,0.0,8,8,1.0,139,134,0
+404,1988,28800688,1989-03-02 20:00:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,0,1,36.0,19,1,11,6,5,2,1,4,5,0,16,9,0.562,0,0,0.0,2,1,0.5,113,119,0
+404,1988,28800694,1989-03-03 20:00:00,Portland,Trail Blazers,Philadelphia,76ers,Regular Season,1,1,34.0,23,0,8,3,5,0,4,1,3,0,20,8,0.4,0,0,0.0,9,7,0.778,129,121,0
+404,1988,28800708,1989-03-05 20:00:00,Portland,Trail Blazers,Indiana,Pacers,Regular Season,1,0,34.0,14,1,9,4,5,0,0,5,5,0,13,5,0.385,0,0,0.0,4,4,1.0,118,121,0
+404,1988,28800723,1989-03-07 20:00:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,0,1,34.0,16,0,9,5,4,1,0,3,5,0,12,7,0.582,0,0,0.0,2,2,1.0,103,116,0
+404,1988,28800727,1989-03-08 20:00:00,Portland,Trail Blazers,Dallas,Mavericks,Regular Season,0,0,27.0,9,0,7,4,3,0,1,1,2,0,15,4,0.267,0,0,0.0,1,1,1.0,99,92,0
+404,1988,28800754,1989-03-12 20:00:00,Portland,Trail Blazers,Cleveland,Cavaliers,Regular Season,1,0,23.0,12,1,9,4,5,0,2,2,4,0,12,5,0.416,0,0,0.0,2,2,1.0,110,123,0
+404,1988,28800766,1989-03-14 20:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,1,1,31.0,18,0,14,10,4,2,0,2,3,0,16,6,0.375,0,0,0.0,6,6,1.0,139,110,0
+404,1988,28800770,1989-03-15 20:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,0,0,31.0,4,1,3,1,2,2,2,1,5,0,9,2,0.222,0,0,0.0,0,0,0.0,102,95,0
+404,1988,28800784,1989-03-17 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,0,0,32.0,25,2,9,7,2,1,1,1,4,0,14,7,0.5,0,0,0.0,11,11,1.0,129,124,0
+404,1988,28800797,1989-03-18 20:00:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,0,0,29.0,10,2,9,4,5,1,0,1,2,0,13,5,0.385,0,0,0.0,0,0,0.0,127,113,0
+404,1988,28800804,1989-03-20 20:00:00,Portland,Trail Blazers,Dallas,Mavericks,Regular Season,1,1,37.0,25,0,8,3,5,0,0,1,1,0,21,10,0.475,0,0,0.0,6,5,0.832,112,91,0
+404,1988,28800812,1989-03-21 20:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,0,0,37.0,18,0,7,5,2,1,1,1,4,0,12,7,0.582,0,0,0.0,4,4,1.0,151,127,0
+404,1988,28800827,1989-03-24 20:00:00,Portland,Trail Blazers,Chicago,Bulls,Regular Season,1,0,30.0,11,0,5,5,0,2,0,4,5,0,9,5,0.556,0,0,0.0,2,1,0.5,113,128,0
+404,1988,28800834,1989-03-25 20:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,0,0,37.0,18,0,8,7,1,1,0,3,5,0,15,6,0.4,0,0,0.0,6,6,1.0,106,105,0
+404,1988,28800858,1989-03-28 20:00:00,Portland,Trail Blazers,New York,Knicks,Regular Season,0,0,31.0,15,0,12,6,6,0,0,5,2,0,13,5,0.385,0,0,0.0,8,5,0.625,128,124,0
+404,1988,28800862,1989-03-29 20:00:00,Portland,Trail Blazers,Boston,Celtics,Regular Season,0,0,30.0,14,1,5,2,3,0,0,0,5,0,16,6,0.375,0,0,0.0,4,2,0.5,106,97,0
+404,1988,28800875,1989-03-31 20:00:00,Portland,Trail Blazers,Washington,Bullets,Regular Season,0,0,37.0,20,1,12,5,7,2,0,1,2,0,15,10,0.667,0,0,0.0,0,0,0.0,107,105,0
+404,1988,28800882,1989-04-01 20:00:00,Portland,Trail Blazers,Charlotte,Hornets,Regular Season,0,1,42.0,30,0,13,6,7,0,1,2,4,0,18,11,0.61,0,0,0.0,10,8,0.8,121,125,0
+404,1988,28800899,1989-04-04 20:00:00,Portland,Trail Blazers,Detroit,Pistons,Regular Season,1,1,28.0,8,2,5,2,3,0,2,2,4,0,13,3,0.231,0,0,0.0,3,2,0.667,118,100,0
+404,1988,28800911,1989-04-06 20:00:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,0,0,32.0,16,0,7,6,1,1,1,2,5,0,12,6,0.5,0,0,0.0,4,4,1.0,133,123,0
+404,1988,28800918,1989-04-07 20:00:00,Portland,Trail Blazers,Boston,Celtics,Regular Season,1,1,43.0,28,0,9,4,5,1,0,3,4,0,20,9,0.45,0,0,0.0,13,10,0.769,113,100,0
+404,1988,28800932,1989-04-09 20:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,1,1,40.0,27,1,15,13,2,1,3,3,6,0,17,10,0.587,0,0,0.0,12,7,0.582,120,114,0
+404,1988,28800944,1989-04-11 20:00:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,1,1,26.0,21,2,7,5,2,1,2,4,5,0,15,10,0.667,0,0,0.0,1,1,1.0,126,102,0
+404,1988,28800964,1989-04-14 20:00:00,Portland,Trail Blazers,Miami,Heat,Regular Season,1,1,37.0,12,0,7,7,0,0,1,1,5,0,12,5,0.416,0,0,0.0,4,2,0.5,97,86,0
+404,1988,28800966,1989-04-15 20:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,1,0,33.0,22,1,8,5,3,0,0,0,5,0,21,8,0.381,0,0,0.0,8,6,0.75,95,99,0
+404,1988,28800984,1989-04-18 20:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,0,0,32.0,24,1,12,4,8,2,1,0,5,0,24,11,0.458,0,0,0.0,4,2,0.5,120,118,0
+404,1988,28801021,1989-04-23 20:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,1,1,26.0,7,1,6,5,1,0,2,3,5,0,12,3,0.25,0,0,0.0,2,1,0.5,126,120,0
+404,1988,48800001,1989-04-27 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Playoffs,0,0,21.0,5,0,5,4,1,0,0,1,6,0,8,2,0.25,0,0,0.0,1,1,1.0,128,108,0
+404,1988,48800014,1989-04-30 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Playoffs,0,0,31.0,13,1,5,1,4,1,0,1,5,0,13,4,0.307,0,0,0.0,8,5,0.625,113,105,0
+404,1988,48800023,1989-05-03 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Playoffs,1,0,31.0,16,1,7,4,3,0,1,3,6,0,14,8,0.57,0,0,0.0,2,0,0.0,108,116,0
+404,1989,28900011,1989-11-03 20:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,1,1,30.0,19,1,7,6,1,0,1,0,3,0,18,9,0.5,0,0,0.0,1,1,1.0,114,96,0
+404,1989,28900023,1989-11-05 20:00:00,Portland,Trail Blazers,Minnesota,Timberwolves,Regular Season,1,1,20.0,15,1,3,2,1,0,0,2,4,0,9,6,0.667,0,0,0.0,4,3,0.75,93,83,0
+404,1989,28900027,1989-11-07 20:00:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,0,0,23.0,6,0,11,5,6,0,0,3,3,0,13,3,0.231,0,0,0.0,1,0,0.0,109,86,0
+404,1989,28900040,1989-11-08 20:00:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,0,1,19.0,8,0,2,0,2,0,0,1,5,0,9,4,0.444,0,0,0.0,0,0,0.0,104,108,0
+404,1989,28900052,1989-11-10 20:00:00,Portland,Trail Blazers,Dallas,Mavericks,Regular Season,0,1,38.0,24,1,7,6,1,0,1,2,3,0,18,11,0.61,0,0,0.0,2,2,1.0,91,99,0
+404,1989,28900068,1989-11-12 20:00:00,Portland,Trail Blazers,Washington,Bullets,Regular Season,1,0,29.0,10,3,6,5,1,0,0,3,5,0,9,3,0.333,0,0,0.0,4,4,1.0,95,104,0
+404,1989,28900080,1989-11-14 20:00:00,Portland,Trail Blazers,New York,Knicks,Regular Season,1,1,22.0,18,1,8,2,6,0,0,0,6,0,15,8,0.533,0,0,0.0,3,2,0.667,118,117,0
+404,1989,28900084,1989-11-15 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,0,0,26.0,16,1,11,8,3,0,1,2,3,0,13,7,0.538,0,0,0.0,4,2,0.5,109,107,0
+404,1989,28900102,1989-11-17 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,1,1,25.0,8,3,5,3,2,0,0,2,4,0,10,3,0.299,0,0,0.0,3,2,0.667,110,109,0
+404,1989,28900113,1989-11-19 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Regular Season,1,1,24.0,11,0,6,5,1,0,0,3,3,0,12,4,0.333,0,0,0.0,4,3,0.75,119,109,0
+404,1989,28900125,1989-11-21 20:00:00,Portland,Trail Blazers,Chicago,Bulls,Regular Season,1,1,37.0,24,0,6,4,2,0,0,4,2,0,13,9,0.691,0,0,0.0,8,6,0.75,121,110,0
+404,1989,28900145,1989-11-24 20:00:00,Portland,Trail Blazers,New Jersey,Nets,Regular Season,1,1,28.0,20,1,3,2,1,1,1,3,1,0,13,9,0.691,0,0,0.0,2,2,1.0,125,99,0
+404,1989,28900157,1989-11-26 20:00:00,Portland,Trail Blazers,Detroit,Pistons,Regular Season,1,1,29.0,14,0,3,2,1,0,0,2,2,0,12,7,0.582,0,0,0.0,0,0,0.0,102,82,0
+404,1989,28900168,1989-11-28 20:00:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,1,1,24.0,14,2,2,2,0,0,0,2,1,0,12,6,0.5,0,0,0.0,2,2,1.0,116,94,0
+404,1989,28900190,1989-12-01 20:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,1,1,24.0,6,0,6,3,3,1,0,1,3,0,13,3,0.231,0,0,0.0,0,0,0.0,123,110,0
+404,1989,28900194,1989-12-02 20:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,0,0,28.0,22,1,3,2,1,0,1,4,2,0,15,10,0.667,0,0,0.0,3,2,0.667,146,113,0
+404,1989,28900205,1989-12-04 20:00:00,Portland,Trail Blazers,Orlando,Magic,Regular Season,0,1,33.0,19,1,6,5,1,0,3,2,2,0,13,8,0.614,0,0,0.0,4,3,0.75,95,121,0
+404,1989,28900209,1989-12-05 20:00:00,Portland,Trail Blazers,Miami,Heat,Regular Season,0,1,28.0,15,2,4,3,1,1,0,4,3,0,7,3,0.428,0,0,0.0,10,9,0.9,107,113,0
+404,1989,28900223,1989-12-07 20:00:00,Portland,Trail Blazers,Charlotte,Hornets,Regular Season,0,1,32.0,14,1,5,4,1,0,1,4,3,0,15,6,0.4,0,0,0.0,2,2,1.0,86,96,0
+404,1989,28900226,1989-12-08 20:00:00,Portland,Trail Blazers,Atlanta,Hawks,Regular Season,0,0,33.0,13,0,5,3,2,2,0,2,3,0,14,5,0.356,0,0,0.0,3,3,1.0,127,120,0
+404,1989,28900245,1989-12-10 20:00:00,Portland,Trail Blazers,Milwaukee,Bucks,Regular Season,0,0,32.0,18,0,15,10,5,1,0,1,5,0,15,6,0.4,0,0,0.0,7,6,0.856,107,104,0
+404,1989,28900257,1989-12-12 20:00:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,1,1,32.0,16,1,7,3,4,0,0,1,4,0,13,6,0.462,0,0,0.0,4,4,1.0,99,92,0
+404,1989,28900270,1989-12-15 20:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,1,0,31.0,12,0,9,4,5,0,0,2,4,0,15,6,0.4,0,0,0.0,4,0,0.0,111,113,0
+404,1989,28900290,1989-12-17 20:00:00,Portland,Trail Blazers,Indiana,Pacers,Regular Season,1,1,30.0,14,2,1,1,0,2,1,1,3,0,9,5,0.556,0,0,0.0,5,4,0.8,121,113,0
+404,1989,28900298,1989-12-19 20:00:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,1,1,27.0,12,2,5,4,1,0,0,0,3,0,12,3,0.25,0,0,0.0,6,6,1.0,119,100,0
+404,1989,28900311,1989-12-21 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Regular Season,0,0,24.0,14,0,10,3,7,0,0,2,4,0,13,6,0.462,0,0,0.0,2,2,1.0,123,102,0
+404,1989,28900338,1989-12-26 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,0,0,21.0,14,0,4,3,1,0,0,0,4,0,11,7,0.636,0,0,0.0,0,0,0.0,121,105,0
+404,1989,28900355,1989-12-28 20:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,0,0,35.0,15,0,8,7,1,1,0,2,5,0,18,7,0.389,0,0,0.0,2,1,0.5,113,109,0
+404,1989,28900363,1989-12-29 20:00:00,Portland,Trail Blazers,Dallas,Mavericks,Regular Season,0,1,44.0,23,2,13,8,5,0,0,2,4,0,27,10,0.369,0,0,0.0,4,3,0.75,140,144,0
+404,1989,28900378,1990-01-02 20:00:00,Portland,Trail Blazers,Miami,Heat,Regular Season,1,1,32.0,24,0,4,3,1,1,0,1,3,0,14,6,0.428,0,0,0.0,16,12,0.75,119,95,0
+404,1989,28900396,1990-01-05 20:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,1,1,31.0,22,0,6,4,2,0,1,4,2,0,15,10,0.667,0,0,0.0,2,2,1.0,118,89,0
+404,1989,28900404,1990-01-06 20:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,0,1,31.0,14,1,1,1,0,0,0,3,1,0,11,5,0.455,0,0,0.0,4,4,1.0,121,124,0
+404,1989,28900423,1990-01-08 20:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,1,1,33.0,26,0,4,3,1,0,0,1,2,0,21,12,0.57,0,0,0.0,3,2,0.667,108,96,0
+404,1989,28900445,1990-01-11 20:00:00,Portland,Trail Blazers,Minnesota,Timberwolves,Regular Season,0,1,33.0,12,1,5,3,2,0,0,0,2,0,17,5,0.293,0,0,0.0,2,2,1.0,80,82,0
+404,1989,28900456,1990-01-13 20:00:00,Portland,Trail Blazers,Detroit,Pistons,Regular Season,0,0,31.0,15,2,8,4,4,1,0,1,6,0,16,5,0.313,0,0,0.0,6,5,0.832,111,106,0
+404,1989,28900465,1990-01-14 20:00:00,Portland,Trail Blazers,New Jersey,Nets,Regular Season,0,1,30.0,8,2,6,5,1,1,1,3,5,0,8,4,0.5,0,0,0.0,0,0,0.0,90,99,0
+404,1989,28900474,1990-01-16 20:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,1,1,25.0,10,2,7,7,0,0,0,4,2,0,11,5,0.455,0,0,0.0,0,0,0.0,120,115,0
+404,1989,28900511,1990-01-21 20:00:00,Portland,Trail Blazers,Charlotte,Hornets,Regular Season,1,1,34.0,23,2,10,7,3,0,0,2,2,0,23,11,0.477,0,0,0.0,4,1,0.25,115,100,0
+404,1989,28900523,1990-01-23 20:00:00,Portland,Trail Blazers,Milwaukee,Bucks,Regular Season,1,1,30.0,15,0,7,3,4,1,2,1,1,0,13,7,0.538,0,0,0.0,2,1,0.5,119,90,0
+404,1989,28900543,1990-01-26 20:00:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,1,1,28.0,17,0,3,2,1,1,1,3,5,0,19,8,0.42,0,0,0.0,2,1,0.5,109,103,0
+404,1989,28900553,1990-01-27 20:00:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,0,1,37.0,27,2,7,5,2,0,1,0,3,0,21,12,0.57,0,0,0.0,5,3,0.599,115,118,0
+404,1989,28900568,1990-01-30 20:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,1,1,35.0,24,3,6,5,1,1,0,5,2,0,17,9,0.529,0,0,0.0,6,6,1.0,122,98,0
+404,1989,28900570,1990-01-31 20:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,0,0,36.0,15,2,9,5,4,1,1,2,4,0,18,5,0.278,0,0,0.0,6,5,0.832,135,130,0
+404,1989,28900591,1990-02-03 20:00:00,Portland,Trail Blazers,Dallas,Mavericks,Regular Season,1,1,30.0,16,1,2,1,1,0,0,0,2,0,12,7,0.582,0,0,0.0,2,2,1.0,131,100,0
+404,1989,28900604,1990-02-04 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,1,1,36.0,25,0,5,3,2,0,0,4,3,0,18,10,0.556,0,0,0.0,8,5,0.625,123,121,0
+404,1989,28900615,1990-02-06 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,1,0,41.0,22,0,7,1,6,1,3,4,5,0,16,9,0.562,0,0,0.0,9,4,0.444,119,121,0
+404,1989,28900642,1990-02-13 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Regular Season,0,1,36.0,12,2,7,4,3,0,0,3,4,0,11,4,0.363,0,0,0.0,4,4,1.0,106,110,0
+404,1989,28900646,1990-02-14 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,0,1,41.0,21,1,15,10,5,0,0,0,5,0,20,8,0.4,0,0,0.0,8,5,0.625,128,132,0
+404,1989,28900657,1990-02-16 20:00:00,Portland,Trail Blazers,Boston,Celtics,Regular Season,1,1,33.0,14,2,9,6,3,0,0,1,4,0,13,6,0.462,0,0,0.0,2,2,1.0,120,101,0
+404,1989,28900678,1990-02-18 20:00:00,Portland,Trail Blazers,Philadelphia,76ers,Regular Season,1,0,31.0,15,2,5,4,1,0,0,3,5,0,11,6,0.545,0,0,0.0,4,3,0.75,109,110,0
+404,1989,28900689,1990-02-20 20:00:00,Portland,Trail Blazers,Charlotte,Hornets,Regular Season,0,1,33.0,14,2,8,5,3,0,1,1,3,0,15,5,0.333,0,0,0.0,6,4,0.667,94,104,0
+404,1989,28900700,1990-02-21 20:00:00,Portland,Trail Blazers,Cleveland,Cavaliers,Regular Season,0,0,30.0,20,1,5,2,3,0,0,3,1,0,15,9,0.599,0,0,0.0,2,2,1.0,121,109,0
+404,1989,28900710,1990-02-23 20:00:00,Portland,Trail Blazers,Chicago,Bulls,Regular Season,0,0,32.0,19,4,12,9,3,2,1,3,3,0,14,5,0.356,0,0,0.0,10,9,0.9,113,102,0
+404,1989,28900726,1990-02-25 20:00:00,Portland,Trail Blazers,Indiana,Pacers,Regular Season,0,0,32.0,10,1,4,2,2,0,1,3,3,0,9,4,0.444,0,0,0.0,4,2,0.5,117,112,0
+404,1989,28900737,1990-02-27 20:00:00,Portland,Trail Blazers,Cleveland,Cavaliers,Regular Season,1,1,33.0,21,1,10,7,3,1,1,1,4,0,17,9,0.529,0,0,0.0,4,3,0.75,118,105,0
+404,1989,28900752,1990-03-01 20:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,0,0,29.0,21,0,5,2,3,1,1,2,3,0,19,7,0.367,0,0,0.0,8,7,0.875,119,102,0
+404,1989,28900766,1990-03-03 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Regular Season,1,1,28.0,15,0,4,1,3,1,0,2,5,0,12,6,0.5,0,0,0.0,4,3,0.75,110,98,0
+404,1989,28900781,1990-03-06 20:00:00,Portland,Trail Blazers,New York,Knicks,Regular Season,0,1,33.0,28,2,11,6,5,0,0,3,4,0,20,13,0.65,0,0,0.0,6,2,0.333,110,112,0
+404,1989,28900789,1990-03-07 20:00:00,Portland,Trail Blazers,Boston,Celtics,Regular Season,0,1,35.0,18,0,8,6,2,1,0,1,2,0,19,9,0.473,0,0,0.0,1,0,0.0,117,130,0
+404,1989,28900803,1990-03-09 20:00:00,Portland,Trail Blazers,Philadelphia,76ers,Regular Season,0,1,34.0,20,2,5,5,0,1,1,1,5,0,12,8,0.667,0,0,0.0,4,4,1.0,100,104,0
+404,1989,28900813,1990-03-10 20:00:00,Portland,Trail Blazers,Washington,Bullets,Regular Season,0,1,31.0,16,1,7,5,2,0,1,4,4,0,13,7,0.538,0,0,0.0,6,2,0.333,113,116,0
+404,1989,28900832,1990-03-13 20:00:00,Portland,Trail Blazers,Orlando,Magic,Regular Season,1,1,25.0,18,1,3,2,1,0,1,2,3,0,14,6,0.428,0,0,0.0,6,6,1.0,142,117,0
+404,1989,28900845,1990-03-15 20:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,0,1,23.0,20,0,6,2,4,0,1,7,5,0,16,9,0.562,0,0,0.0,2,2,1.0,121,128,0
+404,1989,28900853,1990-03-16 20:00:00,Portland,Trail Blazers,Charlotte,Hornets,Regular Season,1,1,33.0,24,1,9,6,3,1,1,3,4,0,17,10,0.587,0,0,0.0,7,4,0.57,124,109,0
+404,1989,28900863,1990-03-18 20:00:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,1,1,23.0,12,1,5,2,3,0,0,2,5,0,12,5,0.416,0,0,0.0,2,2,1.0,109,96,0
+404,1989,28900879,1990-03-20 20:00:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,0,1,23.0,11,0,7,5,2,2,0,2,0,0,11,4,0.363,0,0,0.0,4,3,0.75,110,120,0
+404,1989,28900893,1990-03-22 20:00:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,0,0,38.0,20,4,8,6,2,1,1,3,2,0,20,8,0.4,0,0,0.0,4,4,1.0,107,106,0
+404,1989,28900904,1990-03-24 20:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,0,1,33.0,24,1,6,3,3,0,0,3,3,0,16,11,0.687,0,0,0.0,5,2,0.4,126,140,0
+404,1989,28900916,1990-03-25 20:00:00,Portland,Trail Blazers,Minnesota,Timberwolves,Regular Season,1,0,31.0,9,1,2,2,0,0,0,1,4,0,11,4,0.363,0,0,0.0,4,1,0.25,105,110,0
+404,1989,28900927,1990-03-27 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,1,1,27.0,22,2,7,5,2,1,1,1,3,0,12,10,0.832,0,0,0.0,5,2,0.4,130,111,0
+404,1989,28900942,1990-03-29 20:00:00,Portland,Trail Blazers,Atlanta,Hawks,Regular Season,1,1,24.0,12,2,0,0,0,0,0,2,4,0,12,5,0.416,0,0,0.0,4,2,0.5,112,106,0
+404,1989,28900950,1990-03-30 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,0,0,23.0,4,3,4,3,1,0,0,1,2,0,9,1,0.111,0,0,0.0,2,2,1.0,135,106,0
+404,1989,28900976,1990-04-03 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Regular Season,0,0,29.0,13,0,6,3,3,1,1,3,5,0,11,5,0.455,0,0,0.0,3,3,1.0,136,134,0
+404,1989,28900992,1990-04-06 20:00:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,1,1,39.0,7,1,11,7,4,1,1,2,5,0,12,3,0.25,0,0,0.0,2,1,0.5,106,99,0
+404,1989,28901006,1990-04-08 20:00:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,1,1,31.0,17,2,3,2,1,2,0,0,2,0,14,8,0.57,0,0,0.0,2,1,0.5,112,105,0
+404,1989,28901021,1990-04-10 20:00:00,Portland,Trail Blazers,Minnesota,Timberwolves,Regular Season,0,1,26.0,13,2,3,1,2,0,1,3,4,0,9,6,0.667,0,0,0.0,1,1,1.0,94,106,0
+404,1989,28901041,1990-04-13 20:00:00,Portland,Trail Blazers,Dallas,Mavericks,Regular Season,1,1,25.0,22,2,5,3,2,0,0,2,2,0,13,10,0.769,0,0,0.0,2,2,1.0,124,92,0
+404,1989,28901052,1990-04-14 20:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,1,0,33.0,22,0,6,6,0,0,0,2,5,0,16,7,0.438,0,0,0.0,8,8,1.0,127,136,0
+404,1989,28901059,1990-04-16 20:00:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,0,1,35.0,17,1,9,5,4,0,0,1,4,0,16,7,0.438,0,0,0.0,4,3,0.75,85,93,0
+404,1989,28901073,1990-04-18 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,0,1,33.0,17,2,6,4,2,0,0,1,3,0,18,8,0.444,0,0,0.0,1,1,1.0,120,128,0
+404,1989,28901093,1990-04-21 20:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,0,1,12.0,0,0,2,1,1,0,0,3,2,0,3,0,0.0,0,0,0.0,0,0,0.0,110,118,0
+404,1989,28901099,1990-04-22 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,1,1,24.0,10,0,8,6,2,1,1,1,2,0,8,5,0.625,0,0,0.0,0,0,0.0,130,88,0
+404,1989,48900001,1990-04-26 20:00:00,Portland,Trail Blazers,Dallas,Mavericks,Playoffs,1,1,31.0,10,1,7,3,4,1,1,1,3,0,11,4,0.363,0,0,0.0,6,2,0.333,109,102,0
+404,1989,48900010,1990-04-28 20:00:00,Portland,Trail Blazers,Dallas,Mavericks,Playoffs,1,1,34.0,18,0,7,6,1,1,0,0,6,0,13,8,0.614,0,0,0.0,2,2,1.0,114,107,0
+404,1989,48900020,1990-05-01 20:00:00,Portland,Trail Blazers,Dallas,Mavericks,Playoffs,0,1,17.0,4,1,3,2,1,1,0,2,4,0,7,2,0.285,0,0,0.0,0,0,0.0,92,106,0
+404,1989,48900054,1990-05-19 20:00:00,Portland,Trail Blazers,San Antonio,Spurs,Playoffs,1,1,35.0,6,4,5,3,2,0,0,2,4,0,11,3,0.273,0,0,0.0,0,0,0.0,108,105,0
+404,1989,48900056,1990-05-21 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Playoffs,1,1,28.0,12,1,6,5,1,1,0,4,3,0,14,6,0.428,0,0,0.0,0,0,0.0,100,98,0
+404,1989,48900058,1990-05-23 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Playoffs,1,1,30.0,11,1,7,5,2,0,0,4,3,0,11,4,0.363,0,0,0.0,4,3,0.75,108,107,0
+404,1989,48900059,1990-05-25 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Playoffs,0,0,22.0,6,3,4,3,1,1,1,0,2,0,11,2,0.181,0,0,0.0,2,2,1.0,123,89,0
+404,1989,48900061,1990-05-27 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Playoffs,0,0,37.0,19,1,6,2,4,0,0,2,5,0,17,7,0.411,0,0,0.0,6,5,0.832,119,107,0
+404,1989,48900063,1990-05-29 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Playoffs,1,1,31.0,15,1,6,3,3,1,0,1,5,0,9,3,0.333,0,0,0.0,11,9,0.817,120,114,0
+404,1989,48900065,1990-05-31 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Playoffs,0,1,39.0,18,3,8,3,5,1,2,2,4,0,18,9,0.5,0,0,0.0,0,0,0.0,109,112,0
+404,1989,48900068,1990-06-05 20:00:00,Portland,Trail Blazers,Detroit,Pistons,Playoffs,0,0,36.0,17,0,8,7,1,1,0,3,3,0,14,7,0.5,0,0,0.0,5,3,0.599,105,99,0
+404,1989,48900069,1990-06-07 20:00:00,Portland,Trail Blazers,Detroit,Pistons,Playoffs,0,1,28.0,14,0,8,7,1,0,0,3,6,0,10,6,0.599,0,0,0.0,3,2,0.667,105,106,0
+404,1989,48900070,1990-06-10 20:00:00,Portland,Trail Blazers,Detroit,Pistons,Playoffs,1,0,27.0,18,0,4,2,2,0,0,5,5,0,13,8,0.614,0,0,0.0,2,2,1.0,106,121,0
+404,1989,48900071,1990-06-12 20:00:00,Portland,Trail Blazers,Detroit,Pistons,Playoffs,1,0,21.0,8,0,3,3,0,1,0,3,4,0,7,3,0.428,0,0,0.0,2,2,1.0,109,112,0
+404,1989,48900072,1990-06-14 20:00:00,Portland,Trail Blazers,Detroit,Pistons,Playoffs,1,0,37.0,21,0,5,5,0,0,1,1,3,0,21,10,0.475,0,0,0.0,3,1,0.333,90,92,0
+404,1990,29000001,1990-11-02 20:00:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,1,1,32.0,10,2,3,2,1,0,0,5,5,0,13,4,0.307,0,0,0.0,4,2,0.5,90,89,0
+404,1990,29000021,1990-11-03 20:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,0,1,28.0,10,1,14,9,5,0,1,5,3,0,18,5,0.278,0,0,0.0,0,0,0.0,93,95,0
+404,1990,29000035,1990-11-06 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,0,1,39.0,22,0,6,5,1,1,1,3,4,0,13,6,0.462,0,0,0.0,12,10,0.832,123,125,0
+404,1990,29000050,1990-11-09 20:00:00,Portland,Trail Blazers,Detroit,Pistons,Regular Season,1,1,37.0,27,0,7,5,2,1,1,2,1,0,17,12,0.705,0,0,0.0,3,3,1.0,113,101,0
+404,1990,29000069,1990-11-11 20:00:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,1,1,26.0,22,2,9,6,3,0,2,2,2,0,16,10,0.625,0,0,0.0,3,2,0.667,138,107,0
+404,1990,29000077,1990-11-13 20:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,1,1,21.0,13,2,6,6,0,0,0,1,2,0,16,6,0.375,0,0,0.0,2,1,0.5,155,129,0
+404,1990,29000092,1990-11-15 20:00:00,Portland,Trail Blazers,New York,Knicks,Regular Season,1,1,26.0,10,3,3,2,1,0,0,0,1,0,10,5,0.5,0,0,0.0,0,0,0.0,141,125,0
+404,1990,29000110,1990-11-17 20:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,0,1,22.0,11,0,3,2,1,0,0,1,0,0,10,5,0.5,0,0,0.0,4,1,0.25,112,143,0
+404,1990,29000117,1990-11-18 20:00:00,Portland,Trail Blazers,Chicago,Bulls,Regular Season,1,1,34.0,25,0,6,4,2,0,0,1,3,0,13,10,0.769,0,0,0.0,5,5,1.0,125,112,0
+404,1990,29000147,1990-11-23 20:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,1,1,24.0,14,1,3,3,0,1,0,0,2,0,13,5,0.385,0,0,0.0,4,4,1.0,143,119,0
+404,1990,29000157,1990-11-25 20:00:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,1,1,26.0,22,1,6,5,1,0,1,3,5,0,14,10,0.713,0,0,0.0,2,2,1.0,117,103,0
+404,1990,29000169,1990-11-27 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,1,0,33.0,21,2,7,4,3,0,1,4,2,0,18,9,0.5,0,0,0.0,6,3,0.5,109,123,0
+404,1990,29000184,1990-11-29 20:00:00,Portland,Trail Blazers,Minnesota,Timberwolves,Regular Season,1,1,28.0,13,0,8,5,3,0,0,4,4,0,13,6,0.462,0,0,0.0,1,1,1.0,107,92,0
+404,1990,29000201,1990-12-01 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Regular Season,0,1,16.0,8,0,4,3,1,0,0,3,3,0,4,2,0.5,0,0,0.0,4,4,1.0,124,130,0
+404,1990,29000203,1990-12-02 20:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,1,1,27.0,14,1,8,6,2,1,0,3,4,0,9,5,0.556,0,0,0.0,7,4,0.57,101,97,0
+404,1990,29000216,1990-12-04 20:00:00,Portland,Trail Blazers,Miami,Heat,Regular Season,0,1,31.0,15,2,7,5,2,1,1,0,5,0,13,6,0.462,0,0,0.0,4,3,0.75,95,98,0
+404,1990,29000225,1990-12-05 20:00:00,Portland,Trail Blazers,Orlando,Magic,Regular Season,0,1,34.0,18,1,8,6,2,0,1,3,2,0,12,7,0.582,0,0,0.0,4,4,1.0,110,119,0
+404,1990,29000236,1990-12-07 20:00:00,Portland,Trail Blazers,Indiana,Pacers,Regular Season,0,1,31.0,15,1,3,3,0,0,0,1,1,0,11,4,0.363,0,0,0.0,7,7,1.0,105,127,0
+404,1990,29000247,1990-12-08 20:00:00,Portland,Trail Blazers,Chicago,Bulls,Regular Season,0,1,38.0,12,1,10,8,2,0,0,1,1,0,16,4,0.25,0,0,0.0,4,4,1.0,101,109,0
+404,1990,29000259,1990-12-11 20:00:00,Portland,Trail Blazers,Indiana,Pacers,Regular Season,1,1,22.0,21,1,6,6,0,2,1,1,0,0,12,9,0.75,0,0,0.0,4,3,0.75,122,96,0
+404,1990,29000268,1990-12-13 20:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,0,0,34.0,11,1,9,6,3,1,2,3,3,0,13,5,0.385,0,0,0.0,2,1,0.5,100,88,0
+404,1990,29000278,1990-12-14 20:00:00,Portland,Trail Blazers,Dallas,Mavericks,Regular Season,1,1,23.0,10,0,4,3,1,0,0,1,5,0,12,5,0.416,0,0,0.0,0,0,0.0,106,104,0
+404,1990,29000293,1990-12-16 20:00:00,Portland,Trail Blazers,Orlando,Magic,Regular Season,1,1,33.0,12,0,6,4,2,0,0,2,4,0,7,4,0.57,0,0,0.0,6,4,0.667,126,107,0
+404,1990,29000301,1990-12-18 20:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,1,1,21.0,9,1,7,6,1,1,0,2,4,0,10,2,0.2,0,0,0.0,6,5,0.832,122,94,0
+404,1990,29000318,1990-12-20 20:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,0,0,28.0,17,0,4,2,2,0,0,3,6,0,14,8,0.57,0,0,0.0,2,1,0.5,125,118,0
+404,1990,29000326,1990-12-21 20:00:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,0,1,30.0,17,2,10,5,5,0,0,2,2,0,14,5,0.356,0,0,0.0,7,7,1.0,107,117,0
+404,1990,29000338,1990-12-23 20:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,1,1,27.0,20,0,5,4,1,0,1,2,2,0,16,9,0.562,0,0,0.0,3,2,0.667,132,101,0
+404,1990,29000345,1990-12-26 20:00:00,Portland,Trail Blazers,New York,Knicks,Regular Season,0,1,33.0,24,0,7,4,3,0,2,0,1,0,22,11,0.5,0,0,0.0,2,2,1.0,92,108,0
+404,1990,29000359,1990-12-27 20:00:00,Portland,Trail Blazers,Charlotte,Hornets,Regular Season,0,1,32.0,9,0,6,6,0,1,0,3,4,0,8,3,0.375,0,0,0.0,4,3,0.75,96,105,0
+404,1990,29000365,1990-12-29 20:00:00,Portland,Trail Blazers,Cleveland,Cavaliers,Regular Season,0,1,31.0,14,0,5,3,2,0,0,0,1,0,13,7,0.538,0,0,0.0,0,0,0.0,114,120,0
+404,1990,29000376,1990-12-30 20:00:00,Portland,Trail Blazers,Milwaukee,Bucks,Regular Season,0,0,33.0,15,1,5,4,1,0,0,5,3,0,12,6,0.5,0,0,0.0,5,3,0.599,117,112,0
+404,1990,29000395,1991-01-03 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,1,0,40.0,27,3,8,5,3,0,0,1,4,0,21,11,0.524,0,0,0.0,5,5,1.0,104,108,0
+404,1990,29000412,1991-01-05 20:00:00,Portland,Trail Blazers,Miami,Heat,Regular Season,1,1,24.0,18,2,3,2,1,0,1,2,1,0,12,8,0.667,0,0,0.0,3,2,0.667,132,108,0
+404,1990,29000416,1991-01-06 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Regular Season,1,1,37.0,18,2,5,3,2,1,0,2,4,0,11,7,0.636,0,0,0.0,4,4,1.0,114,111,0
+404,1990,29000431,1991-01-08 20:00:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,0,1,35.0,20,3,7,3,4,0,0,3,3,0,19,9,0.473,0,0,0.0,2,2,1.0,97,123,0
+404,1990,29000434,1991-01-09 20:00:00,Portland,Trail Blazers,Dallas,Mavericks,Regular Season,0,0,23.0,7,2,9,4,5,0,0,2,1,0,13,3,0.231,0,0,0.0,2,1,0.5,109,99,0
+404,1990,29000453,1991-01-11 20:00:00,Portland,Trail Blazers,Detroit,Pistons,Regular Season,0,0,36.0,11,0,6,3,3,0,0,4,6,0,12,3,0.25,0,0,0.0,6,5,0.832,100,98,0
+404,1990,29000466,1991-01-13 20:00:00,Portland,Trail Blazers,New Jersey,Nets,Regular Season,0,1,38.0,22,4,6,2,4,1,0,2,1,0,16,9,0.562,1,0,0.0,6,4,0.667,103,116,0
+404,1990,29000491,1991-01-18 20:00:00,Portland,Trail Blazers,Washington,Bullets,Regular Season,1,1,25.0,12,2,3,1,2,2,0,2,1,0,10,4,0.4,0,0,0.0,4,4,1.0,123,99,0
+404,1990,29000509,1991-01-20 20:00:00,Portland,Trail Blazers,Milwaukee,Bucks,Regular Season,1,1,34.0,21,0,7,3,4,0,1,1,3,0,14,7,0.5,0,0,0.0,7,7,1.0,116,112,0
+404,1990,29000520,1991-01-22 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,1,1,38.0,19,2,7,5,2,0,0,6,4,0,18,8,0.444,0,0,0.0,4,3,0.75,123,116,0
+404,1990,29000549,1991-01-26 20:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,1,1,27.0,14,2,12,8,4,0,0,3,1,0,11,6,0.545,0,0,0.0,6,2,0.333,121,96,0
+404,1990,29000556,1991-01-28 20:00:00,Portland,Trail Blazers,Atlanta,Hawks,Regular Season,1,1,35.0,21,2,7,4,3,0,1,1,3,0,19,9,0.473,0,0,0.0,4,3,0.75,116,111,0
+404,1990,29000577,1991-01-31 20:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,0,0,33.0,17,0,5,2,3,0,0,3,3,0,15,7,0.467,0,0,0.0,5,3,0.599,105,91,0
+404,1990,29000588,1991-02-01 20:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,1,1,34.0,26,2,10,7,3,0,0,2,3,0,11,6,0.545,0,0,0.0,16,14,0.875,119,99,0
+404,1990,29000604,1991-02-04 20:00:00,Portland,Trail Blazers,New Jersey,Nets,Regular Season,1,1,30.0,14,2,4,3,1,0,1,1,2,0,12,7,0.582,0,0,0.0,2,0,0.0,117,102,0
+404,1990,29000619,1991-02-06 20:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,0,0,23.0,9,0,8,7,1,0,1,2,5,0,8,4,0.5,0,0,0.0,1,1,1.0,97,93,0
+404,1990,29000633,1991-02-12 20:00:00,Portland,Trail Blazers,Philadelphia,76ers,Regular Season,1,1,35.0,20,0,8,6,2,1,1,0,3,0,12,8,0.667,0,0,0.0,5,4,0.8,121,106,0
+404,1990,29000654,1991-02-15 20:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,1,1,34.0,18,2,14,7,7,2,1,3,3,0,19,7,0.367,0,0,0.0,7,4,0.57,117,105,0
+404,1990,29000674,1991-02-17 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,0,0,34.0,18,4,10,5,5,0,1,2,5,0,17,9,0.529,0,0,0.0,0,0,0.0,106,96,0
+404,1990,29000682,1991-02-19 20:00:00,Portland,Trail Blazers,Dallas,Mavericks,Regular Season,1,1,35.0,14,2,4,2,2,0,0,1,3,0,17,7,0.411,0,0,0.0,0,0,0.0,107,100,0
+404,1990,29000694,1991-02-21 20:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,0,1,32.0,25,1,14,5,9,0,2,2,1,0,19,10,0.526,0,0,0.0,7,5,0.713,111,122,0
+404,1990,29000704,1991-02-22 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,1,1,28.0,13,0,9,7,2,0,0,0,3,0,12,5,0.416,0,0,0.0,3,3,1.0,127,106,0
+404,1990,29000720,1991-02-24 20:00:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,1,0,41.0,18,0,7,6,1,2,0,3,6,0,18,9,0.5,1,0,0.0,2,0,0.0,88,95,0
+404,1990,29000735,1991-02-26 20:00:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,0,0,26.0,10,0,2,1,1,1,0,3,3,0,13,3,0.231,0,0,0.0,4,4,1.0,102,101,0
+404,1990,29000746,1991-02-28 20:00:00,Portland,Trail Blazers,Atlanta,Hawks,Regular Season,0,0,39.0,20,3,11,7,4,0,0,2,2,0,16,9,0.562,0,0,0.0,2,2,1.0,117,109,0
+404,1990,29000750,1991-03-01 20:00:00,Portland,Trail Blazers,Philadelphia,76ers,Regular Season,0,0,35.0,19,0,15,10,5,1,1,1,4,0,14,9,0.643,0,0,0.0,1,1,1.0,121,111,0
+404,1990,29000765,1991-03-03 20:00:00,Portland,Trail Blazers,Boston,Celtics,Regular Season,0,1,36.0,15,2,5,2,3,0,0,1,3,0,16,7,0.438,0,0,0.0,4,1,0.25,107,116,0
+404,1990,29000812,1991-03-10 20:00:00,Portland,Trail Blazers,Boston,Celtics,Regular Season,1,0,43.0,22,1,10,7,3,1,0,6,4,0,22,11,0.5,0,0,0.0,1,0,0.0,109,111,0
+404,1990,29000820,1991-03-11 20:00:00,Portland,Trail Blazers,Cleveland,Cavaliers,Regular Season,1,1,29.0,11,1,13,9,4,0,0,2,6,0,14,5,0.356,0,0,0.0,2,1,0.5,104,96,0
+404,1990,29000836,1991-03-13 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,0,0,39.0,16,1,3,2,1,0,0,0,3,0,21,8,0.381,0,0,0.0,0,0,0.0,116,108,0
+404,1990,29000848,1991-03-15 20:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,0,1,35.0,20,1,6,5,1,1,1,1,3,0,10,6,0.599,0,0,0.0,8,8,1.0,96,106,0
+404,1990,29000864,1991-03-17 20:00:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,1,0,32.0,18,2,8,8,0,2,1,6,5,0,12,8,0.667,0,0,0.0,2,2,1.0,97,107,0
+404,1990,29000874,1991-03-19 20:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,0,0,29.0,21,1,5,4,1,0,0,5,5,0,11,9,0.817,0,0,0.0,3,3,1.0,136,126,0
+404,1990,29000883,1991-03-20 20:00:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,0,1,17.0,6,0,3,3,0,1,0,2,1,0,8,3,0.375,0,0,0.0,0,0,0.0,96,100,0
+404,1990,29000913,1991-03-24 20:00:00,Portland,Trail Blazers,Charlotte,Hornets,Regular Season,1,1,28.0,15,3,2,2,0,0,1,3,1,0,12,7,0.582,0,0,0.0,2,1,0.5,117,102,0
+404,1990,29000929,1991-03-26 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Regular Season,1,1,28.0,12,2,7,3,4,1,0,2,5,0,11,5,0.455,0,0,0.0,2,2,1.0,126,113,0
+404,1990,29000930,1991-03-27 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Regular Season,0,1,40.0,18,0,2,2,0,0,0,3,4,0,12,6,0.5,0,0,0.0,6,6,1.0,107,112,0
+404,1990,29000949,1991-03-29 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,0,1,41.0,9,0,7,4,3,2,0,5,6,0,11,4,0.363,0,0,0.0,1,1,1.0,105,109,0
+404,1990,29000953,1991-03-30 20:00:00,Portland,Trail Blazers,Minnesota,Timberwolves,Regular Season,1,1,18.0,8,1,3,2,1,0,0,2,4,0,7,4,0.57,0,0,0.0,0,0,0.0,121,91,0
+404,1990,29000963,1991-04-02 20:00:00,Portland,Trail Blazers,Minnesota,Timberwolves,Regular Season,0,1,41.0,24,2,7,5,2,0,0,2,5,0,15,9,0.599,0,0,0.0,9,6,0.667,93,104,0
+404,1990,29000981,1991-04-04 20:00:00,Portland,Trail Blazers,Washington,Bullets,Regular Season,0,1,41.0,15,2,4,2,2,1,0,3,2,0,16,7,0.438,0,0,0.0,3,1,0.333,96,105,0
+404,1990,29000992,1991-04-05 20:00:00,Portland,Trail Blazers,Orlando,Magic,Regular Season,0,1,37.0,13,2,8,3,5,1,0,2,2,0,13,5,0.385,0,0,0.0,4,3,0.75,98,115,0
+404,1990,29001006,1991-04-07 20:00:00,Portland,Trail Blazers,Dallas,Mavericks,Regular Season,0,1,26.0,13,1,5,4,1,1,1,2,4,0,13,6,0.462,0,0,0.0,1,1,1.0,92,110,0
+404,1990,29001016,1991-04-09 20:00:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,0,1,40.0,12,0,12,10,2,0,0,1,4,0,12,3,0.25,0,0,0.0,8,6,0.75,93,103,0
+404,1990,29001028,1991-04-10 20:00:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,0,1,33.0,10,1,6,3,3,0,2,4,5,0,10,3,0.299,0,0,0.0,6,4,0.667,100,105,0
+404,1990,29001044,1991-04-13 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,1,1,35.0,15,0,5,2,3,0,0,7,4,0,13,6,0.462,0,0,0.0,4,3,0.75,118,113,0
+404,1990,29001055,1991-04-14 20:00:00,Portland,Trail Blazers,Orlando,Magic,Regular Season,1,1,25.0,16,0,4,4,0,2,0,0,3,0,15,6,0.4,0,0,0.0,6,4,0.667,139,119,0
+404,1990,29001068,1991-04-16 20:00:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,1,1,18.0,4,0,3,2,1,0,1,2,4,0,9,2,0.222,0,0,0.0,0,0,0.0,115,96,0
+404,1990,29001091,1991-04-19 20:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,1,1,25.0,19,0,6,6,0,0,0,2,2,0,9,6,0.667,0,0,0.0,8,7,0.875,127,105,0
+404,1990,29001099,1991-04-21 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,0,0,24.0,18,0,1,0,1,0,0,3,3,0,11,6,0.545,0,0,0.0,6,6,1.0,135,118,0
+404,1990,49000007,1991-04-26 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Playoffs,1,1,39.0,12,1,13,8,5,0,0,2,2,0,6,4,0.667,0,0,0.0,6,4,0.667,110,102,0
+404,1990,49000016,1991-04-28 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Playoffs,1,1,27.0,13,3,10,5,5,0,0,2,4,0,12,5,0.416,0,0,0.0,3,3,1.0,115,106,0
+404,1990,49000021,1991-04-30 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Playoffs,0,0,29.0,13,0,4,3,1,1,0,1,4,0,5,4,0.8,0,0,0.0,5,5,1.0,102,99,0
+404,1990,49000026,1991-05-02 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Playoffs,0,0,26.0,5,2,7,4,3,0,1,1,5,0,9,1,0.111,0,0,0.0,8,3,0.375,101,89,0
+404,1990,49000031,1991-05-04 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Playoffs,1,1,35.0,13,1,6,4,2,1,2,2,1,0,13,4,0.307,0,0,0.0,6,5,0.832,119,107,0
+404,1990,49000037,1991-05-07 20:00:00,Portland,Trail Blazers,Utah,Jazz,Playoffs,1,1,34.0,11,1,7,6,1,2,0,1,3,0,10,5,0.5,0,0,0.0,1,1,1.0,117,97,0
+404,1990,49000040,1991-05-09 20:00:00,Portland,Trail Blazers,Utah,Jazz,Playoffs,1,1,29.0,8,1,2,2,0,0,0,0,4,0,11,4,0.363,0,0,0.0,0,0,0.0,118,116,0
+404,1990,49000043,1991-05-11 20:00:00,Portland,Trail Blazers,Utah,Jazz,Playoffs,0,0,34.0,11,0,5,3,2,2,0,1,3,0,14,4,0.285,0,0,0.0,3,3,1.0,107,101,0
+404,1990,49000045,1991-05-12 20:00:00,Portland,Trail Blazers,Utah,Jazz,Playoffs,0,1,41.0,30,0,11,7,4,1,0,1,4,0,22,12,0.545,0,0,0.0,7,6,0.856,101,104,0
+404,1990,49000049,1991-05-14 20:00:00,Portland,Trail Blazers,Utah,Jazz,Playoffs,1,1,37.0,11,1,3,3,0,0,1,1,1,0,12,5,0.416,0,0,0.0,2,1,0.5,103,96,0
+404,1990,49000054,1991-05-18 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Playoffs,1,0,34.0,14,0,5,4,1,0,1,8,4,0,13,7,0.538,0,0,0.0,0,0,0.0,106,111,0
+404,1990,49000056,1991-05-21 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Playoffs,1,1,39.0,17,1,7,4,3,0,1,3,0,0,14,7,0.5,0,0,0.0,3,3,1.0,109,98,0
+404,1990,49000058,1991-05-24 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Playoffs,0,0,29.0,5,0,8,5,3,0,1,5,5,0,14,2,0.142,0,0,0.0,2,1,0.5,106,92,0
+404,1990,49000060,1991-05-26 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Playoffs,0,0,25.0,7,2,4,1,3,0,0,3,4,0,4,2,0.5,0,0,0.0,4,3,0.75,116,95,0
+404,1990,49000062,1991-05-28 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Playoffs,1,1,29.0,9,1,8,3,5,0,0,4,3,0,11,3,0.273,0,0,0.0,6,3,0.5,95,84,0
+404,1990,49000063,1991-05-30 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Playoffs,0,0,24.0,8,0,7,5,2,1,1,4,6,0,12,4,0.333,0,0,0.0,0,0,0.0,91,90,0
+404,1991,29100007,1991-11-01 20:00:00,Portland,Trail Blazers,Cleveland,Cavaliers,Regular Season,1,1,24.0,9,1,4,1,3,0,0,1,3,0,14,4,0.285,0,0,0.0,4,1,0.25,117,106,0
+404,1991,29100019,1991-11-02 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,1,0,30.0,18,0,8,4,4,0,0,1,2,0,11,7,0.636,0,0,0.0,6,4,0.667,76,100,0
+404,1991,29100029,1991-11-05 20:00:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,0,0,16.0,6,1,5,3,2,0,0,1,4,0,7,2,0.285,0,0,0.0,2,2,1.0,106,99,0
+404,1991,29100045,1991-11-06 20:00:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,0,0,33.0,20,1,5,3,2,0,0,2,4,0,16,8,0.5,0,0,0.0,5,4,0.8,119,93,0
+404,1991,29100052,1991-11-08 20:00:00,Portland,Trail Blazers,Indiana,Pacers,Regular Season,1,1,25.0,10,0,8,5,3,0,1,2,2,0,12,5,0.416,0,0,0.0,0,0,0.0,121,96,0
+404,1991,29100071,1991-11-10 20:00:00,Portland,Trail Blazers,Boston,Celtics,Regular Season,1,1,26.0,10,1,9,6,3,1,1,0,2,0,13,4,0.307,0,0,0.0,2,2,1.0,116,90,0
+404,1991,29100079,1991-11-12 20:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,1,1,22.0,10,0,5,4,1,0,1,2,2,0,8,4,0.5,0,0,0.0,2,2,1.0,120,82,0
+404,1991,29100102,1991-11-15 20:00:00,Portland,Trail Blazers,Minnesota,Timberwolves,Regular Season,0,1,24.0,2,1,6,3,3,1,0,1,2,0,11,1,0.09,0,0,0.0,0,0,0.0,102,107,0
+404,1991,29100111,1991-11-16 20:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,0,0,30.0,13,3,3,3,0,0,0,4,3,0,10,6,0.599,0,0,0.0,2,1,0.5,122,111,0
+404,1991,29100125,1991-11-19 20:00:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,1,1,22.0,6,2,5,2,3,0,1,2,4,0,8,3,0.375,0,0,0.0,0,0,0.0,132,112,0
+404,1991,29100138,1991-11-21 20:00:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,0,1,23.0,14,2,7,6,1,0,1,3,5,0,11,6,0.545,0,0,0.0,2,2,1.0,91,106,0
+404,1991,29100145,1991-11-22 20:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,1,0,13.0,3,1,1,1,0,1,0,0,3,0,7,1,0.142,0,0,0.0,2,1,0.5,112,116,0
+404,1991,29100162,1991-11-24 20:00:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,1,1,29.0,11,1,8,4,4,1,1,0,4,0,17,4,0.234,0,0,0.0,4,3,0.75,116,111,0
+404,1991,29100172,1991-11-26 20:00:00,Portland,Trail Blazers,Milwaukee,Bucks,Regular Season,1,1,21.0,4,0,3,2,1,0,0,1,3,0,5,2,0.4,0,0,0.0,0,0,0.0,107,98,0
+404,1991,29100185,1991-11-29 20:00:00,Portland,Trail Blazers,Chicago,Bulls,Regular Season,1,0,37.0,14,0,6,4,2,1,0,2,5,0,12,6,0.5,0,0,0.0,3,2,0.667,114,116,0
+404,1991,29100207,1991-12-01 20:00:00,Portland,Trail Blazers,Washington,Bullets,Regular Season,1,1,24.0,7,3,8,8,0,0,0,2,5,0,6,3,0.5,0,0,0.0,1,1,1.0,91,87,0
+404,1991,29100217,1991-12-03 20:00:00,Portland,Trail Blazers,Miami,Heat,Regular Season,0,1,21.0,16,0,7,3,4,1,1,3,2,0,8,6,0.75,0,0,0.0,4,4,1.0,94,124,0
+404,1991,29100224,1991-12-04 20:00:00,Portland,Trail Blazers,Orlando,Magic,Regular Season,0,1,24.0,7,2,4,3,1,0,0,1,2,0,10,2,0.2,0,0,0.0,4,3,0.75,115,124,0
+404,1991,29100233,1991-12-06 20:00:00,Portland,Trail Blazers,Philadelphia,76ers,Regular Season,0,0,23.0,13,1,3,1,2,0,0,4,4,0,9,4,0.444,0,0,0.0,6,5,0.832,105,102,0
+404,1991,29100240,1991-12-07 20:00:00,Portland,Trail Blazers,Indiana,Pacers,Regular Season,0,1,25.0,6,3,7,5,2,0,1,4,5,0,10,3,0.299,0,0,0.0,0,0,0.0,112,115,0
+404,1991,29100258,1991-12-10 20:00:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,1,0,39.0,23,0,6,4,2,1,2,2,3,0,14,9,0.643,0,0,0.0,6,5,0.832,106,108,0
+404,1991,29100279,1991-12-13 20:00:00,Portland,Trail Blazers,Detroit,Pistons,Regular Season,1,0,29.0,12,1,5,2,3,0,1,0,2,0,10,6,0.599,0,0,0.0,0,0,0.0,103,113,0
+404,1991,29100283,1991-12-14 20:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,1,1,38.0,20,0,4,4,0,1,1,2,4,0,16,8,0.5,1,0,0.0,4,4,1.0,115,110,0
+404,1991,29100297,1991-12-16 20:00:00,Portland,Trail Blazers,Minnesota,Timberwolves,Regular Season,1,1,24.0,13,1,5,4,1,0,1,1,2,0,7,5,0.713,0,0,0.0,4,3,0.75,119,104,0
+404,1991,29100325,1991-12-20 20:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,0,0,22.0,7,1,4,3,1,0,2,4,4,0,8,3,0.375,0,0,0.0,1,1,1.0,123,118,0
+404,1991,29100340,1991-12-22 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Regular Season,1,1,25.0,8,1,7,5,2,2,0,1,5,0,9,4,0.444,0,0,0.0,4,0,0.0,96,87,0
+404,1991,29100359,1991-12-26 20:00:00,Portland,Trail Blazers,Dallas,Mavericks,Regular Season,1,1,32.0,18,1,9,9,0,0,1,2,1,0,10,9,0.9,0,0,0.0,0,0,0.0,113,88,0
+404,1991,29100373,1991-12-28 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,0,1,33.0,8,0,7,4,3,1,0,2,4,0,13,3,0.231,0,0,0.0,3,2,0.667,88,98,0
+404,1991,29100379,1991-12-29 20:00:00,Portland,Trail Blazers,Miami,Heat,Regular Season,1,1,22.0,9,1,5,5,0,0,1,1,5,0,4,3,0.75,0,0,0.0,4,3,0.75,129,96,0
+404,1991,29100394,1992-01-02 20:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,0,0,34.0,12,3,4,1,3,2,1,2,2,0,8,4,0.5,0,0,0.0,4,4,1.0,107,103,0
+404,1991,29100417,1992-01-05 20:00:00,Portland,Trail Blazers,Philadelphia,76ers,Regular Season,1,1,27.0,13,2,3,3,0,2,0,3,3,0,8,6,0.75,0,0,0.0,2,1,0.5,115,102,0
+404,1991,29100427,1992-01-07 20:00:00,Portland,Trail Blazers,Orlando,Magic,Regular Season,1,1,29.0,12,1,2,2,0,0,0,2,6,0,8,3,0.375,0,0,0.0,9,6,0.667,104,89,0
+404,1991,29100445,1992-01-10 20:00:00,Portland,Trail Blazers,Detroit,Pistons,Regular Season,0,0,34.0,10,1,11,10,1,1,2,1,3,0,13,5,0.385,0,0,0.0,0,0,0.0,86,81,0
+404,1991,29100453,1992-01-11 20:00:00,Portland,Trail Blazers,Charlotte,Hornets,Regular Season,0,1,22.0,4,2,6,5,1,0,0,0,3,0,10,2,0.2,0,0,0.0,0,0,0.0,93,115,0
+404,1991,29100475,1992-01-14 20:00:00,Portland,Trail Blazers,Cleveland,Cavaliers,Regular Season,0,1,26.0,8,3,9,8,1,2,0,3,6,0,7,4,0.57,0,0,0.0,0,0,0.0,114,121,0
+404,1991,29100484,1992-01-15 20:00:00,Portland,Trail Blazers,New York,Knicks,Regular Season,0,1,28.0,12,2,8,5,3,0,1,3,2,0,11,5,0.455,0,0,0.0,4,2,0.5,91,96,0
+404,1991,29100497,1992-01-17 20:00:00,Portland,Trail Blazers,Charlotte,Hornets,Regular Season,1,1,25.0,13,1,5,3,2,0,0,1,2,0,10,5,0.5,0,0,0.0,4,3,0.75,120,104,0
+404,1991,29100509,1992-01-19 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,0,0,40.0,15,1,9,5,4,1,1,1,5,0,15,7,0.467,0,0,0.0,4,1,0.25,132,128,0
+404,1991,29100520,1992-01-21 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,1,1,26.0,11,1,2,2,0,0,0,3,3,0,11,5,0.455,0,0,0.0,1,1,1.0,131,92,0
+404,1991,29100537,1992-01-23 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Regular Season,0,1,24.0,5,0,6,5,1,1,0,1,1,0,9,2,0.222,0,0,0.0,1,1,1.0,109,113,0
+404,1991,29100544,1992-01-24 20:00:00,Portland,Trail Blazers,Atlanta,Hawks,Regular Season,1,1,25.0,10,2,2,1,1,0,0,1,0,0,9,5,0.556,0,0,0.0,0,0,0.0,125,117,0
+404,1991,29100565,1992-01-28 20:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,0,1,25.0,3,1,11,7,4,1,0,2,2,0,8,1,0.125,0,0,0.0,2,1,0.5,116,124,0
+404,1991,29100582,1992-01-31 20:00:00,Portland,Trail Blazers,New Jersey,Nets,Regular Season,1,1,31.0,15,0,3,2,1,0,0,2,4,0,8,6,0.75,0,0,0.0,6,3,0.5,113,108,0
+404,1991,29100603,1992-02-02 20:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,1,1,28.0,18,2,6,6,0,2,0,1,4,0,11,7,0.636,0,0,0.0,6,4,0.667,147,107,0
+404,1991,29100615,1992-02-04 20:00:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,0,0,26.0,6,0,4,3,1,2,2,2,3,0,8,3,0.375,0,0,0.0,0,0,0.0,95,88,0
+404,1991,29100628,1992-02-06 20:00:00,Portland,Trail Blazers,Dallas,Mavericks,Regular Season,0,1,29.0,8,3,8,5,3,0,0,1,4,0,12,3,0.25,0,0,0.0,2,2,1.0,98,103,0
+404,1991,29100643,1992-02-11 20:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,1,1,27.0,8,2,8,3,5,1,0,3,4,0,10,2,0.2,0,0,0.0,6,4,0.667,121,112,0
+404,1991,29100649,1992-02-12 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,0,1,38.0,10,0,12,7,5,0,1,3,3,0,12,5,0.416,0,0,0.0,1,0,0.0,97,107,0
+404,1991,29100658,1992-02-14 20:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,0,1,31.0,8,2,6,3,3,0,1,3,3,0,8,3,0.375,0,0,0.0,2,2,1.0,106,107,0
+404,1991,29100676,1992-02-16 20:00:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,1,0,35.0,21,5,7,5,2,0,2,1,4,0,14,6,0.428,0,0,0.0,11,9,0.817,106,107,0
+404,1991,29100688,1992-02-18 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,1,1,27.0,6,1,6,3,3,0,0,2,2,0,9,3,0.333,0,0,0.0,0,0,0.0,129,116,0
+404,1991,29100712,1992-02-21 20:00:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,0,1,30.0,10,1,10,5,5,0,0,2,6,0,9,5,0.556,0,0,0.0,0,0,0.0,116,123,0
+404,1991,29100720,1992-02-22 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Regular Season,0,0,23.0,6,0,1,1,0,0,0,2,4,0,5,3,0.599,0,0,0.0,0,0,0.0,113,104,0
+404,1991,29100730,1992-02-24 20:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,1,1,26.0,6,1,6,4,2,0,0,0,2,0,8,3,0.375,1,0,0.0,0,0,0.0,110,107,0
+404,1991,29100752,1992-02-27 20:00:00,Portland,Trail Blazers,New Jersey,Nets,Regular Season,0,0,25.0,8,0,4,3,1,0,0,1,2,0,8,4,0.5,0,0,0.0,2,0,0.0,98,96,0
+404,1991,29100756,1992-02-28 20:00:00,Portland,Trail Blazers,Washington,Bullets,Regular Season,0,1,28.0,12,1,8,5,3,1,1,2,2,0,8,5,0.625,0,0,0.0,4,2,0.5,96,117,0
+404,1991,29100776,1992-03-01 20:00:00,Portland,Trail Blazers,Chicago,Bulls,Regular Season,0,0,20.0,9,0,8,6,2,0,0,1,3,0,8,4,0.5,0,0,0.0,1,1,1.0,111,91,0
+404,1991,29100783,1992-03-03 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,1,1,32.0,14,1,6,6,0,1,0,2,6,0,12,6,0.5,0,0,0.0,4,2,0.5,105,101,0
+404,1991,29100791,1992-03-04 20:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,0,1,23.0,12,0,3,2,1,1,2,3,3,0,10,6,0.599,0,0,0.0,0,0,0.0,100,129,0
+404,1991,29100804,1992-03-06 20:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,1,1,31.0,11,0,7,5,2,1,0,3,3,0,10,5,0.5,0,0,0.0,2,1,0.5,114,106,0
+404,1991,29100823,1992-03-08 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Regular Season,1,1,23.0,4,1,5,3,2,1,0,0,2,0,6,2,0.333,0,0,0.0,0,0,0.0,109,97,0
+404,1991,29100829,1992-03-10 20:00:00,Portland,Trail Blazers,Milwaukee,Bucks,Regular Season,0,1,24.0,6,2,11,9,2,1,2,1,3,0,9,3,0.333,0,0,0.0,0,0,0.0,112,126,0
+404,1991,29100842,1992-03-11 20:00:00,Portland,Trail Blazers,Minnesota,Timberwolves,Regular Season,0,1,24.0,13,0,4,4,0,0,0,1,3,0,7,5,0.713,0,0,0.0,4,3,0.75,113,124,0
+404,1991,29100851,1992-03-13 20:00:00,Portland,Trail Blazers,Atlanta,Hawks,Regular Season,0,1,25.0,6,1,3,2,1,0,0,1,2,0,8,3,0.375,0,0,0.0,0,0,0.0,95,106,0
+404,1991,29100867,1992-03-15 20:00:00,Portland,Trail Blazers,Boston,Celtics,Regular Season,0,0,22.0,6,1,5,4,1,0,0,0,6,0,3,2,0.667,0,0,0.0,2,2,1.0,152,148,0
+404,1991,29100880,1992-03-17 20:00:00,Portland,Trail Blazers,Minnesota,Timberwolves,Regular Season,1,1,29.0,15,0,9,8,1,0,0,1,2,0,12,6,0.5,0,0,0.0,6,3,0.5,111,91,0
+404,1991,29100891,1992-03-18 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,0,1,25.0,8,2,7,6,1,0,1,6,4,0,6,3,0.5,0,0,0.0,2,2,1.0,93,98,0
+404,1991,29100908,1992-03-21 20:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,0,0,31.0,4,0,10,6,4,1,1,0,3,0,9,2,0.222,0,0,0.0,2,0,0.0,95,77,0
+404,1991,29100925,1992-03-24 20:00:00,Portland,Trail Blazers,Dallas,Mavericks,Regular Season,1,1,25.0,14,1,8,8,0,0,0,0,2,0,9,6,0.667,1,0,0.0,5,2,0.4,109,83,0
+404,1991,29100940,1992-03-26 20:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,0,1,23.0,17,3,7,3,4,1,0,1,0,0,8,6,0.75,0,0,0.0,6,5,0.832,106,128,0
+404,1991,29100956,1992-03-28 20:00:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,1,1,24.0,9,0,4,3,1,0,0,2,4,0,5,4,0.8,0,0,0.0,2,1,0.5,115,95,0
+404,1991,29100960,1992-03-29 20:00:00,Portland,Trail Blazers,New York,Knicks,Regular Season,1,0,21.0,6,1,3,2,1,0,0,0,1,0,6,3,0.5,0,0,0.0,0,0,0.0,96,107,0
+404,1991,29100968,1992-03-31 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,0,0,26.0,13,1,7,6,1,0,0,0,2,0,7,5,0.713,0,0,0.0,3,3,1.0,128,111,0
+404,1991,29100983,1992-04-02 20:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,1,1,25.0,8,2,3,2,1,0,0,1,3,0,7,4,0.57,0,0,0.0,0,0,0.0,118,86,0
+404,1991,29101010,1992-04-05 20:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,0,1,30.0,17,2,3,2,1,1,0,1,5,0,12,7,0.582,0,0,0.0,4,3,0.75,122,130,0
+404,1991,29101017,1992-04-07 20:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,1,1,29.0,12,3,9,6,3,0,0,3,5,0,11,4,0.363,0,0,0.0,5,4,0.8,110,101,0
+404,1991,29101030,1992-04-09 20:00:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,0,0,28.0,13,0,5,4,1,0,0,3,4,0,10,6,0.599,0,0,0.0,2,1,0.5,106,100,0
+404,1991,29101043,1992-04-10 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Regular Season,1,1,28.0,10,2,4,3,1,2,1,1,3,0,7,2,0.285,0,0,0.0,8,6,0.75,113,106,0
+404,1991,29101058,1992-04-12 20:00:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,1,1,32.0,23,2,12,8,4,0,1,2,3,0,16,10,0.625,0,0,0.0,3,3,1.0,123,97,0
+404,1991,29101071,1992-04-14 20:00:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,0,0,39.0,21,3,13,6,7,0,0,6,3,0,15,6,0.4,0,0,0.0,13,9,0.691,108,96,0
+404,1991,29101075,1992-04-15 20:00:00,Portland,Trail Blazers,Dallas,Mavericks,Regular Season,0,1,33.0,11,1,8,7,1,0,0,1,4,0,11,5,0.455,0,0,0.0,2,1,0.5,94,100,0
+404,1991,29101096,1992-04-18 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,1,0,25.0,11,3,2,2,0,0,1,4,4,0,9,4,0.444,0,0,0.0,4,3,0.75,101,109,0
+404,1991,49100004,1992-04-23 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Playoffs,1,1,26.0,8,3,3,2,1,0,0,4,5,0,4,4,1.0,0,0,0.0,0,0,0.0,115,102,0
+404,1991,49100012,1992-04-25 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Playoffs,1,1,39.0,19,1,9,4,5,2,1,1,1,0,16,9,0.562,0,0,0.0,3,1,0.333,101,79,0
+404,1991,49100023,1992-04-29 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Playoffs,0,0,38.0,10,5,6,3,3,2,1,3,2,0,12,5,0.416,0,0,0.0,2,0,0.0,121,119,0
+404,1991,49100030,1992-05-03 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Playoffs,0,1,24.0,7,1,6,5,1,0,3,2,2,0,9,3,0.333,0,0,0.0,2,1,0.5,76,102,0
+404,1991,49100034,1992-05-05 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Playoffs,1,1,29.0,12,0,7,2,5,0,0,1,5,0,15,4,0.267,0,0,0.0,5,4,0.8,113,111,0
+404,1991,49100038,1992-05-07 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Playoffs,1,1,32.0,15,1,5,5,0,0,0,1,4,0,15,7,0.467,0,0,0.0,2,1,0.5,126,119,0
+404,1991,49100041,1992-05-09 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Playoffs,0,0,28.0,14,2,4,0,4,0,0,3,4,0,11,5,0.455,0,0,0.0,6,4,0.667,124,117,0
+404,1991,49100046,1992-05-11 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Playoffs,0,1,36.0,14,3,6,5,1,0,0,4,5,0,8,4,0.5,0,0,0.0,6,6,1.0,151,153,0
+404,1991,49100052,1992-05-14 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Playoffs,1,1,25.0,12,2,4,3,1,1,0,0,2,0,11,6,0.545,0,0,0.0,0,0,0.0,118,106,0
+404,1991,49100054,1992-05-16 20:00:00,Portland,Trail Blazers,Utah,Jazz,Playoffs,1,1,28.0,18,2,4,1,3,1,1,1,5,0,12,8,0.667,0,0,0.0,6,2,0.333,113,88,0
+404,1991,49100058,1992-05-19 20:00:00,Portland,Trail Blazers,Utah,Jazz,Playoffs,1,1,39.0,8,3,7,5,2,0,0,2,3,0,8,3,0.375,0,0,0.0,2,2,1.0,119,102,0
+404,1991,49100060,1992-05-22 20:00:00,Portland,Trail Blazers,Utah,Jazz,Playoffs,0,0,36.0,8,3,4,4,0,1,0,0,3,0,11,4,0.363,0,0,0.0,0,0,0.0,97,89,0
+404,1991,49100062,1992-05-24 20:00:00,Portland,Trail Blazers,Utah,Jazz,Playoffs,0,0,34.0,12,2,2,2,0,0,1,5,4,0,10,6,0.599,0,0,0.0,0,0,0.0,121,112,0
+404,1991,49100064,1992-05-26 20:00:00,Portland,Trail Blazers,Utah,Jazz,Playoffs,1,1,40.0,24,3,6,3,3,0,1,3,4,0,15,11,0.732,0,0,0.0,2,2,1.0,127,121,0
+404,1991,49100066,1992-05-28 20:00:00,Portland,Trail Blazers,Utah,Jazz,Playoffs,0,1,29.0,12,1,3,2,1,1,0,1,2,0,8,6,0.75,0,0,0.0,0,0,0.0,97,105,0
+404,1991,49103001,1992-06-03 19:00:00,Portland,Trail Blazers,Chicago,Bulls,Playoffs,0,0,25.0,7,2,5,4,1,1,0,2,3,0,5,3,0.599,0,0,0.0,1,1,1.0,122,89,0
+404,1991,49100069,1992-06-05 20:00:00,Portland,Trail Blazers,Chicago,Bulls,Playoffs,0,1,43.0,14,4,8,8,0,1,1,2,3,0,15,6,0.4,0,0,0.0,2,2,1.0,104,115,0
+404,1991,49100070,1992-06-07 20:00:00,Portland,Trail Blazers,Chicago,Bulls,Playoffs,1,0,25.0,11,0,4,2,2,0,1,4,6,0,11,5,0.455,0,0,0.0,2,1,0.5,84,94,0
+404,1991,49100071,1992-06-10 20:00:00,Portland,Trail Blazers,Chicago,Bulls,Playoffs,1,1,26.0,7,2,11,8,3,1,0,1,3,0,11,3,0.273,0,0,0.0,1,1,1.0,93,88,0
+404,1991,49100072,1992-06-12 20:00:00,Portland,Trail Blazers,Chicago,Bulls,Playoffs,1,0,28.0,13,0,7,5,2,0,0,3,5,0,6,3,0.5,0,0,0.0,11,7,0.636,106,119,0
+404,1991,49100073,1992-06-14 20:00:00,Portland,Trail Blazers,Chicago,Bulls,Playoffs,0,0,17.0,4,1,6,4,2,1,1,2,5,0,3,2,0.667,0,0,0.0,0,0,0.0,97,93,0
+404,1992,29200023,1992-11-08 20:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,1,1,25.0,23,2,5,4,1,0,1,1,3,0,16,9,0.562,0,0,0.0,6,5,0.832,123,104,0
+404,1992,29200029,1992-11-10 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,1,1,22.0,2,1,4,3,1,0,0,1,2,0,6,1,0.167,0,0,0.0,2,0,0.0,100,89,0
+404,1992,29200052,1992-11-13 20:00:00,Portland,Trail Blazers,Cleveland,Cavaliers,Regular Season,1,1,34.0,26,0,11,8,3,0,1,1,3,0,22,13,0.59,0,0,0.0,1,0,0.0,115,109,0
+404,1992,29200062,1992-11-14 20:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,0,1,19.0,9,3,5,5,0,0,0,4,4,0,4,3,0.75,0,0,0.0,5,3,0.599,116,130,0
+404,1992,29200071,1992-11-16 20:00:00,Portland,Trail Blazers,New York,Knicks,Regular Season,1,1,19.0,11,1,1,1,0,1,0,4,2,0,8,5,0.625,0,0,0.0,2,1,0.5,109,94,0
+404,1992,29200098,1992-11-20 20:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,0,1,23.0,9,0,4,4,0,2,0,1,5,0,11,4,0.363,0,0,0.0,3,1,0.333,99,104,0
+404,1992,29200114,1992-11-22 20:00:00,Portland,Trail Blazers,Detroit,Pistons,Regular Season,1,1,25.0,6,0,8,5,3,1,2,1,2,0,8,2,0.25,0,0,0.0,2,2,1.0,115,90,0
+404,1992,29200123,1992-11-24 20:00:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,1,1,31.0,16,5,7,4,3,4,1,2,1,0,14,8,0.57,0,0,0.0,1,0,0.0,95,91,0
+404,1992,29200127,1992-11-25 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,0,0,14.0,6,1,3,3,0,0,1,0,4,0,4,3,0.75,0,0,0.0,0,0,0.0,121,117,0
+404,1992,29200138,1992-11-27 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,1,0,24.0,9,1,7,6,1,0,0,2,3,0,8,4,0.5,0,0,0.0,2,1,0.5,90,98,0
+404,1992,29200160,1992-11-29 20:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,1,1,29.0,12,0,6,3,3,1,1,0,3,0,10,4,0.4,0,0,0.0,6,4,0.667,107,99,0
+404,1992,29200165,1992-12-01 20:00:00,Portland,Trail Blazers,New York,Knicks,Regular Season,0,0,35.0,18,3,7,3,4,0,1,3,3,0,12,8,0.667,0,0,0.0,6,2,0.333,101,85,0
+404,1992,29200174,1992-12-02 20:00:00,Portland,Trail Blazers,Indiana,Pacers,Regular Season,0,1,19.0,6,0,6,6,0,0,0,2,4,0,6,3,0.5,0,0,0.0,0,0,0.0,103,112,0
+404,1992,29200188,1992-12-04 20:00:00,Portland,Trail Blazers,Chicago,Bulls,Regular Season,0,0,35.0,16,0,7,6,1,1,0,1,2,0,12,6,0.5,0,0,0.0,4,4,1.0,111,99,0
+404,1992,29200197,1992-12-05 20:00:00,Portland,Trail Blazers,Cleveland,Cavaliers,Regular Season,0,1,34.0,6,0,5,5,0,0,0,2,4,0,6,3,0.5,0,0,0.0,0,0,0.0,94,96,0
+404,1992,29200208,1992-12-08 20:00:00,Portland,Trail Blazers,Milwaukee,Bucks,Regular Season,1,1,22.0,10,0,5,2,3,0,2,0,3,0,9,3,0.333,0,0,0.0,4,4,1.0,126,97,0
+404,1992,29200219,1992-12-09 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,0,0,25.0,8,2,4,2,2,0,0,1,4,0,9,4,0.444,0,0,0.0,1,0,0.0,124,111,0
+404,1992,29200230,1992-12-11 20:00:00,Portland,Trail Blazers,Indiana,Pacers,Regular Season,1,0,45.0,19,1,5,4,1,0,2,3,4,0,18,7,0.389,0,0,0.0,6,5,0.832,124,134,0
+404,1992,29200248,1992-12-13 20:00:00,Portland,Trail Blazers,Washington,Bullets,Regular Season,1,1,3.0,0,0,0,0,0,0,0,1,2,0,0,0,0.0,0,0,0.0,0,0,0.0,117,98,0
+404,1992,29200275,1992-12-18 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Regular Season,0,0,26.0,14,0,3,2,1,1,1,2,1,0,8,4,0.5,0,0,0.0,6,6,1.0,126,109,0
+404,1992,29200295,1992-12-20 20:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,1,1,27.0,6,0,2,2,0,0,0,1,4,0,8,3,0.375,0,0,0.0,0,0,0.0,130,114,0
+404,1992,29200303,1992-12-22 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Regular Season,1,0,18.0,4,1,1,0,1,1,0,2,1,0,7,2,0.285,0,0,0.0,0,0,0.0,96,107,0
+404,1992,29200329,1992-12-26 20:00:00,Portland,Trail Blazers,Philadelphia,76ers,Regular Season,1,1,39.0,22,4,9,6,3,1,1,3,5,0,14,9,0.643,0,0,0.0,5,4,0.8,121,115,0
+404,1992,29200355,1992-12-30 20:00:00,Portland,Trail Blazers,Dallas,Mavericks,Regular Season,1,1,27.0,15,1,2,2,0,1,0,1,3,0,9,6,0.667,0,0,0.0,4,3,0.75,111,92,0
+404,1992,29200357,1993-01-02 20:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,1,0,41.0,27,1,8,7,1,0,2,1,2,0,23,10,0.434,0,0,0.0,8,7,0.875,102,110,0
+404,1992,29200369,1993-01-03 20:00:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,1,1,31.0,11,0,8,2,6,0,0,0,2,0,15,5,0.333,0,0,0.0,2,1,0.5,103,101,0
+404,1992,29200384,1993-01-05 20:00:00,Portland,Trail Blazers,Dallas,Mavericks,Regular Season,0,1,19.0,8,1,6,5,1,2,0,2,4,0,6,3,0.5,0,0,0.0,2,2,1.0,95,109,0
+404,1992,29200391,1993-01-07 20:00:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,0,1,34.0,16,3,9,6,3,2,2,0,2,0,13,8,0.614,1,0,0.0,0,0,0.0,91,113,0
+404,1992,29200413,1993-01-09 20:00:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,0,0,22.0,8,0,7,6,1,1,0,1,2,0,10,3,0.299,1,0,0.0,2,2,1.0,109,93,0
+404,1992,29200427,1993-01-12 20:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,1,1,30.0,18,1,8,5,3,0,2,2,3,0,11,7,0.636,0,0,0.0,4,4,1.0,109,100,0
+404,1992,29200438,1993-01-14 20:00:00,Portland,Trail Blazers,Miami,Heat,Regular Season,1,1,41.0,12,0,8,5,3,0,1,0,4,0,13,4,0.307,0,0,0.0,4,4,1.0,104,93,0
+404,1992,29200445,1993-01-15 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,0,0,20.0,8,1,5,3,2,1,0,3,1,0,9,3,0.333,0,0,0.0,2,2,1.0,99,96,0
+404,1992,29200462,1993-01-17 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Regular Season,1,1,22.0,9,0,5,4,1,0,0,1,3,0,13,4,0.307,0,0,0.0,1,1,1.0,109,97,0
+404,1992,29200475,1993-01-19 20:00:00,Portland,Trail Blazers,Milwaukee,Bucks,Regular Season,0,1,11.0,2,0,0,0,0,0,0,0,0,0,4,1,0.25,0,0,0.0,0,0,0.0,92,119,0
+404,1992,29200494,1993-01-22 20:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,1,1,18.0,7,3,3,3,0,1,0,1,4,0,6,3,0.5,0,0,0.0,2,1,0.5,135,127,0
+404,1992,29200508,1993-01-24 20:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,0,1,32.0,22,0,2,2,0,0,0,0,5,0,13,11,0.845,0,0,0.0,1,0,0.0,113,124,0
+404,1992,29200521,1993-01-26 20:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,1,1,23.0,6,1,3,2,1,1,2,1,2,0,7,2,0.285,0,0,0.0,3,2,0.667,143,133,0
+404,1992,29200551,1993-01-30 20:00:00,Portland,Trail Blazers,Seattle,SuperSonics,Regular Season,0,0,22.0,8,1,6,3,3,0,0,1,3,0,13,4,0.307,0,0,0.0,0,0,0.0,108,86,0
+404,1992,29200562,1993-02-02 20:00:00,Portland,Trail Blazers,Minnesota,Timberwolves,Regular Season,1,0,32.0,12,0,5,2,3,0,3,2,3,0,13,6,0.462,0,0,0.0,0,0,0.0,91,104,0
+404,1992,29200579,1993-02-05 20:00:00,Portland,Trail Blazers,Orlando,Magic,Regular Season,1,0,15.0,4,2,2,2,0,0,0,1,4,0,8,2,0.25,0,0,0.0,0,0,0.0,106,114,0
+404,1992,29200599,1993-02-07 20:00:00,Portland,Trail Blazers,Chicago,Bulls,Regular Season,1,0,18.0,2,0,3,1,2,2,1,0,2,0,8,1,0.125,0,0,0.0,0,0,0.0,91,101,0
+404,1992,29200626,1993-02-12 20:00:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,0,1,14.0,3,1,5,4,1,0,1,0,5,0,7,1,0.142,0,0,0.0,1,1,1.0,104,111,0
+404,1992,29200645,1993-02-14 20:00:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,1,0,24.0,10,0,9,5,4,1,0,1,4,0,11,4,0.363,0,0,0.0,4,2,0.5,86,96,0
+404,1992,29200659,1993-02-16 20:00:00,Portland,Trail Blazers,Atlanta,Hawks,Regular Season,1,1,28.0,12,1,11,7,4,0,1,2,4,0,14,6,0.428,0,0,0.0,0,0,0.0,105,90,0
+404,1992,29200673,1993-02-18 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,1,1,35.0,16,2,8,4,4,1,0,1,4,0,15,7,0.467,0,0,0.0,4,2,0.5,105,103,0
+404,1992,29200686,1993-02-23 20:00:00,Portland,Trail Blazers,Orlando,Magic,Regular Season,0,0,25.0,8,1,7,7,0,0,0,2,3,0,8,4,0.5,0,0,0.0,0,0,0.0,125,107,0
+404,1992,29200688,1993-02-24 20:00:00,Portland,Trail Blazers,Miami,Heat,Regular Season,0,0,19.0,11,0,6,1,5,0,1,1,5,0,13,5,0.385,0,0,0.0,1,1,1.0,102,91,0
+404,1992,29200700,1993-02-26 20:00:00,Portland,Trail Blazers,New Jersey,Nets,Regular Season,0,1,37.0,17,0,9,9,0,1,0,0,2,0,10,7,0.699,0,0,0.0,3,3,1.0,91,102,0
+404,1992,29200723,1993-02-28 20:00:00,Portland,Trail Blazers,Boston,Celtics,Regular Season,0,0,18.0,4,1,5,4,1,1,0,1,4,0,8,2,0.25,0,0,0.0,0,0,0.0,122,110,0
+404,1992,29200736,1993-03-02 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,1,1,26.0,8,3,4,3,1,3,1,0,2,0,9,4,0.444,0,0,0.0,0,0,0.0,102,97,0
+404,1992,29200744,1993-03-04 20:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,0,0,33.0,14,0,8,6,2,1,1,0,2,0,15,5,0.333,0,0,0.0,7,4,0.57,103,88,0
+404,1992,29200753,1993-03-05 20:00:00,Portland,Trail Blazers,Charlotte,Hornets,Regular Season,1,0,18.0,1,2,8,4,4,0,0,0,3,0,7,0,0.0,0,0,0.0,2,1,0.5,92,94,0
+404,1992,29200770,1993-03-07 20:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,0,1,9.0,2,0,4,3,1,0,0,2,1,0,2,1,0.5,0,0,0.0,0,0,0.0,96,113,0
+404,1992,29200785,1993-03-10 20:00:00,Portland,Trail Blazers,Dallas,Mavericks,Regular Season,0,1,27.0,14,0,15,13,2,0,1,0,3,0,11,4,0.363,0,0,0.0,6,6,1.0,96,124,0
+404,1992,29200794,1993-03-11 20:00:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,0,0,22.0,8,0,6,4,2,0,0,1,4,0,6,2,0.333,0,0,0.0,4,4,1.0,104,91,0
+404,1992,29200811,1993-03-13 20:00:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,0,0,28.0,9,1,2,2,0,0,2,1,2,0,9,3,0.333,0,0,0.0,3,3,1.0,108,99,0
+404,1992,29200821,1993-03-15 20:00:00,Portland,Trail Blazers,New Jersey,Nets,Regular Season,1,1,19.0,4,2,3,2,1,0,0,1,1,0,7,2,0.285,0,0,0.0,0,0,0.0,110,94,0
+404,1992,29200831,1993-03-17 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,0,0,12.0,4,1,1,0,1,0,1,0,2,0,6,2,0.333,0,0,0.0,0,0,0.0,129,111,0
+404,1992,29200853,1993-03-19 20:00:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,1,1,21.0,8,1,4,2,2,0,0,1,4,0,8,4,0.5,0,0,0.0,0,0,0.0,106,98,0
+404,1992,29200861,1993-03-21 20:00:00,Portland,Trail Blazers,Boston,Celtics,Regular Season,1,0,10.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,104,106,0
+404,1992,29200940,1993-04-02 20:00:00,Portland,Trail Blazers,Philadelphia,76ers,Regular Season,0,1,16.0,5,1,5,2,3,0,0,0,2,0,6,2,0.333,0,0,0.0,2,1,0.5,91,96,0
+404,1992,29200951,1993-04-03 20:00:00,Portland,Trail Blazers,Washington,Bullets,Regular Season,0,0,13.0,1,0,3,2,1,0,0,0,1,0,2,0,0.0,0,0,0.0,2,1,0.5,114,102,0
+404,1992,29200972,1993-04-06 20:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,1,1,19.0,14,0,5,3,2,0,1,1,2,0,7,5,0.713,0,0,0.0,4,4,1.0,110,95,0
+404,1992,29200981,1993-04-08 20:00:00,Portland,Trail Blazers,Dallas,Mavericks,Regular Season,1,1,17.0,5,1,4,1,3,0,1,2,6,0,4,1,0.25,0,0,0.0,5,3,0.599,126,107,0
+404,1992,29200985,1993-04-09 20:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,0,1,28.0,15,1,3,2,1,1,2,2,4,0,9,5,0.556,0,0,0.0,8,5,0.625,105,109,0
+404,1992,29201002,1993-04-11 20:00:00,Portland,Trail Blazers,Minnesota,Timberwolves,Regular Season,1,1,21.0,16,1,5,4,1,0,1,0,5,0,12,5,0.416,0,0,0.0,6,6,1.0,127,110,0
+404,1992,29201016,1993-04-13 20:00:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,1,1,23.0,7,0,5,5,0,1,2,0,3,0,11,3,0.273,0,0,0.0,2,1,0.5,101,99,0
+404,1992,29201030,1993-04-15 20:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,0,0,18.0,7,0,5,2,3,1,0,1,4,0,8,3,0.375,0,0,0.0,4,1,0.25,122,117,0
+404,1992,29201034,1993-04-16 20:00:00,Portland,Trail Blazers,Minnesota,Timberwolves,Regular Season,0,1,26.0,14,1,6,4,2,0,0,1,5,0,10,7,0.699,0,0,0.0,0,0,0.0,109,117,0
+404,1992,29201053,1993-04-18 20:00:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,1,1,19.0,5,1,5,3,2,1,0,2,4,0,9,2,0.222,0,0,0.0,2,1,0.5,105,101,0
+404,1992,29201061,1993-04-20 20:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,1,1,4.0,1,1,1,0,1,0,0,1,3,0,0,0,0.0,0,0,0.0,2,1,0.5,115,99,0
+404,1992,29201081,1993-04-22 20:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,1,0,18.0,12,0,5,4,1,0,0,2,3,0,10,5,0.5,0,0,0.0,2,2,1.0,114,115,0
+404,1992,29201084,1993-04-23 20:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,0,1,30.0,6,3,8,8,0,1,1,1,4,0,8,3,0.375,0,0,0.0,0,0,0.0,108,112,0
+404,1992,29201104,1993-04-25 20:00:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,0,0,34.0,15,4,7,5,2,2,1,5,3,0,10,6,0.599,0,0,0.0,4,3,0.75,123,112,0
+404,1992,49200001,1993-04-29 20:00:00,Portland,Trail Blazers,San Antonio,Spurs,Playoffs,1,0,21.0,8,0,5,4,1,1,0,2,1,0,7,3,0.428,0,0,0.0,2,2,1.0,86,87,0
+404,1992,49200012,1993-05-01 20:00:00,Portland,Trail Blazers,San Antonio,Spurs,Playoffs,1,1,14.0,4,3,6,4,2,0,0,1,5,0,6,2,0.333,0,0,0.0,0,0,0.0,105,96,0
+404,1992,49200026,1993-05-05 20:00:00,Portland,Trail Blazers,San Antonio,Spurs,Playoffs,0,0,10.0,6,0,2,1,1,0,0,1,2,0,5,2,0.4,0,0,0.0,2,2,1.0,107,101,0
+404,1992,49200030,1993-05-07 20:00:00,Portland,Trail Blazers,San Antonio,Spurs,Playoffs,0,0,13.0,0,0,0,0,0,0,0,2,4,0,3,0,0.0,0,0,0.0,0,0,0.0,100,97,0
+404,1993,29300009,1993-11-05 20:00:00,Washington,Bullets,Philadelphia,76ers,Regular Season,0,0,41.0,9,1,3,2,1,1,1,0,6,0,13,3,0.231,0,0,0.0,4,3,0.75,94,82,0
+404,1993,29300020,1993-11-06 20:00:00,Washington,Bullets,Boston,Celtics,Regular Season,1,0,36.0,9,1,10,9,1,2,1,4,4,0,8,4,0.5,0,0,0.0,2,1,0.5,88,100,0
+404,1993,29300031,1993-11-09 20:00:00,Washington,Bullets,Detroit,Pistons,Regular Season,0,1,22.0,14,1,5,2,3,0,0,1,1,0,9,4,0.444,0,0,0.0,6,6,1.0,112,118,0
+404,1993,29300045,1993-11-10 20:00:00,Washington,Bullets,New York,Knicks,Regular Season,1,0,25.0,8,0,6,5,1,0,1,4,4,0,10,4,0.4,0,0,0.0,0,0,0.0,84,92,0
+404,1993,29300056,1993-11-12 20:00:00,Washington,Bullets,Philadelphia,76ers,Regular Season,1,1,33.0,13,2,8,3,5,1,3,0,4,0,15,6,0.4,0,0,0.0,4,1,0.25,105,93,0
+404,1993,29300089,1993-11-17 20:00:00,Washington,Bullets,Milwaukee,Bucks,Regular Season,1,1,19.0,2,0,2,2,0,0,1,1,4,0,7,1,0.142,0,0,0.0,0,0,0.0,117,104,0
+404,1993,29300103,1993-11-19 20:00:00,Washington,Bullets,Charlotte,Hornets,Regular Season,0,0,25.0,7,2,4,3,1,2,0,0,4,0,9,3,0.333,0,0,0.0,2,1,0.5,127,111,0
+404,1993,29300110,1993-11-20 20:00:00,Washington,Bullets,Miami,Heat,Regular Season,1,1,26.0,9,0,6,4,2,1,2,6,5,0,8,2,0.25,0,0,0.0,5,5,1.0,104,102,0
+404,1993,29300124,1993-11-23 20:00:00,Washington,Bullets,Charlotte,Hornets,Regular Season,1,1,28.0,14,2,10,6,4,1,1,1,5,0,8,5,0.625,0,0,0.0,6,4,0.667,118,98,0
+404,1993,29300136,1993-11-24 20:00:00,Washington,Bullets,Cleveland,Cavaliers,Regular Season,0,0,23.0,12,2,2,1,1,1,1,2,3,0,7,5,0.713,0,0,0.0,3,2,0.667,113,107,0
+404,1993,29300144,1993-11-26 20:00:00,Washington,Bullets,Atlanta,Hawks,Regular Season,0,0,27.0,6,0,3,1,2,0,0,1,4,0,7,3,0.428,0,0,0.0,0,0,0.0,124,108,0
+404,1993,29300150,1993-11-27 20:00:00,Washington,Bullets,Orlando,Magic,Regular Season,1,1,25.0,10,3,4,2,2,0,0,2,5,0,7,4,0.57,0,0,0.0,2,2,1.0,112,110,0
+404,1993,29300176,1993-12-01 20:00:00,Washington,Bullets,Boston,Celtics,Regular Season,0,0,34.0,11,0,9,6,3,0,0,3,4,0,11,5,0.455,0,0,0.0,3,1,0.333,120,113,0
+404,1993,29300181,1993-12-02 20:00:00,Washington,Bullets,Seattle,SuperSonics,Regular Season,1,0,23.0,9,0,5,3,2,1,2,3,4,0,8,4,0.5,0,0,0.0,2,1,0.5,95,105,0
+404,1993,29300200,1993-12-04 20:00:00,Washington,Bullets,Portland,Trail Blazers,Regular Season,1,0,24.0,9,3,6,3,3,0,1,4,2,0,8,4,0.5,0,0,0.0,2,1,0.5,105,118,0
+404,1993,29300205,1993-12-06 20:00:00,Washington,Bullets,Seattle,SuperSonics,Regular Season,0,0,16.0,5,1,3,3,0,0,1,4,4,0,4,1,0.25,0,0,0.0,3,3,1.0,103,96,0
+404,1993,29300216,1993-12-08 20:00:00,Washington,Bullets,Utah,Jazz,Regular Season,0,0,20.0,6,3,6,4,2,0,1,3,2,0,8,3,0.375,0,0,0.0,0,0,0.0,113,91,0
+404,1993,29300229,1993-12-09 20:00:00,Washington,Bullets,Phoenix,Suns,Regular Season,0,0,21.0,6,0,5,1,4,0,0,2,0,0,4,3,0.75,0,0,0.0,2,0,0.0,114,95,0
+404,1993,29300237,1993-12-11 20:00:00,Washington,Bullets,Atlanta,Hawks,Regular Season,1,0,22.0,9,0,5,3,2,0,0,1,2,0,9,4,0.444,0,0,0.0,2,1,0.5,108,116,0
+404,1993,29300255,1993-12-14 20:00:00,Washington,Bullets,Indiana,Pacers,Regular Season,0,0,20.0,5,1,4,4,0,1,0,2,5,0,5,1,0.2,0,0,0.0,5,3,0.599,106,87,0
+404,1993,29300275,1993-12-16 20:00:00,Washington,Bullets,Detroit,Pistons,Regular Season,1,0,40.0,11,3,5,3,2,1,2,3,3,0,11,5,0.455,0,0,0.0,1,1,1.0,95,97,0
+404,1993,29300289,1993-12-18 20:00:00,Washington,Bullets,Utah,Jazz,Regular Season,1,0,29.0,4,1,4,4,0,0,0,1,5,0,5,2,0.4,0,0,0.0,0,0,0.0,96,102,0
+404,1993,29300301,1993-12-20 20:00:00,Washington,Bullets,Minnesota,Timberwolves,Regular Season,0,1,35.0,17,0,11,6,5,0,0,2,2,0,15,7,0.467,0,0,0.0,5,3,0.599,84,99,0
+404,1993,29300311,1993-12-22 20:00:00,Washington,Bullets,Los Angeles,Clippers,Regular Season,0,0,20.0,12,3,7,5,2,0,1,0,2,0,6,4,0.667,0,0,0.0,6,4,0.667,109,92,0
+404,1993,29300321,1993-12-23 20:00:00,Washington,Bullets,Sacramento,Kings,Regular Season,0,0,13.0,4,0,6,5,1,0,0,1,4,0,7,2,0.285,0,0,0.0,0,0,0.0,114,88,0
+404,1993,29300351,1993-12-29 20:00:00,Washington,Bullets,Sacramento,Kings,Regular Season,1,0,6.0,0,0,0,0,0,0,0,3,3,0,0,0,0.0,0,0,0.0,0,0,0.0,97,103,0
+404,1993,29300357,1993-12-30 20:00:00,Washington,Bullets,New York,Knicks,Regular Season,0,0,17.0,2,2,2,2,0,0,0,2,4,0,2,0,0.0,0,0,0.0,2,2,1.0,102,84,0
+404,1993,29300388,1994-01-05 20:00:00,Washington,Bullets,Indiana,Pacers,Regular Season,1,1,26.0,14,1,2,2,0,1,3,2,5,0,9,5,0.556,0,0,0.0,5,4,0.8,97,95,0
+404,1993,29300405,1994-01-07 20:00:00,Washington,Bullets,Chicago,Bulls,Regular Season,1,0,19.0,7,0,3,2,1,1,0,0,2,0,4,2,0.5,0,0,0.0,4,3,0.75,92,99,0
+404,1993,29300408,1994-01-08 20:00:00,Washington,Bullets,Orlando,Magic,Regular Season,0,0,20.0,2,0,4,3,1,2,0,2,4,0,8,1,0.125,0,0,0.0,1,0,0.0,112,101,0
+404,1993,29300427,1994-01-11 20:00:00,Washington,Bullets,New Jersey,Nets,Regular Season,0,1,17.0,8,1,4,3,1,1,0,0,1,0,6,4,0.667,0,0,0.0,0,0,0.0,100,115,0
+404,1993,29300439,1994-01-13 20:00:00,Washington,Bullets,Houston,Rockets,Regular Season,1,1,31.0,9,1,7,4,3,1,0,2,5,0,7,4,0.57,0,0,0.0,2,1,0.5,120,102,0
+404,1993,29300461,1994-01-15 20:00:00,Washington,Bullets,Los Angeles,Clippers,Regular Season,1,1,19.0,10,0,7,6,1,0,1,0,4,0,7,5,0.713,0,0,0.0,0,0,0.0,118,109,0
+404,1993,29300466,1994-01-17 20:00:00,Washington,Bullets,San Antonio,Spurs,Regular Season,1,0,16.0,9,0,3,1,2,0,0,0,1,0,10,4,0.4,0,0,0.0,3,1,0.333,87,100,0
+404,1993,29300481,1994-01-19 20:00:00,Washington,Bullets,Chicago,Bulls,Regular Season,0,0,26.0,10,0,9,8,1,0,0,0,1,0,10,4,0.4,0,0,0.0,4,2,0.5,84,83,0
+404,1993,29300507,1994-01-22 20:00:00,Washington,Bullets,Detroit,Pistons,Regular Season,1,1,21.0,2,0,10,10,0,0,0,1,1,0,5,1,0.2,0,0,0.0,0,0,0.0,98,93,0
+404,1993,29300513,1994-01-23 20:00:00,Washington,Bullets,Miami,Heat,Regular Season,0,0,18.0,7,0,3,0,3,0,0,1,3,0,5,2,0.4,0,0,0.0,4,3,0.75,113,80,0
+404,1993,29300524,1994-01-25 20:00:00,Washington,Bullets,Orlando,Magic,Regular Season,0,0,27.0,8,0,6,4,2,1,0,1,4,0,9,4,0.444,0,0,0.0,0,0,0.0,112,89,0
+404,1993,29300535,1994-01-27 20:00:00,Washington,Bullets,Dallas,Mavericks,Regular Season,1,1,17.0,0,1,2,2,0,0,0,1,2,0,3,0,0.0,0,0,0.0,0,0,0.0,98,95,0
+404,1993,29300549,1994-01-29 20:00:00,Washington,Bullets,Orlando,Magic,Regular Season,1,0,14.0,7,0,1,1,0,0,0,1,4,0,3,2,0.667,0,0,0.0,3,3,1.0,99,103,0
+404,1993,29300564,1994-02-01 20:00:00,Washington,Bullets,Indiana,Pacers,Regular Season,0,0,10.0,0,1,0,0,0,0,0,1,2,0,1,0,0.0,0,0,0.0,0,0,0.0,116,96,0
+404,1993,29300576,1994-02-02 20:00:00,Washington,Bullets,New York,Knicks,Regular Season,1,0,24.0,2,1,9,6,3,0,1,1,3,0,9,1,0.111,0,0,0.0,0,0,0.0,80,85,0
+404,1993,29300587,1994-02-04 20:00:00,Washington,Bullets,Philadelphia,76ers,Regular Season,0,1,9.0,0,1,3,2,1,1,0,1,0,0,2,0,0.0,0,0,0.0,0,0,0.0,95,102,0
+404,1993,29300614,1994-02-08 20:00:00,Washington,Bullets,San Antonio,Spurs,Regular Season,0,0,11.0,1,1,3,1,2,0,0,1,4,0,1,0,0.0,0,0,0.0,2,1,0.5,110,90,0
+404,1993,29300633,1994-02-10 20:00:00,Washington,Bullets,Dallas,Mavericks,Regular Season,0,0,13.0,0,0,2,2,0,0,1,2,2,0,3,0,0.0,0,0,0.0,0,0,0.0,87,77,0
+404,1993,29300709,1994-02-25 20:00:00,Washington,Bullets,Chicago,Bulls,Regular Season,1,0,2.0,0,0,1,1,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,94,116,0
+404,1993,29300721,1994-02-26 20:00:00,Washington,Bullets,Milwaukee,Bucks,Regular Season,0,0,18.0,0,0,1,0,1,0,0,2,5,0,4,0,0.0,0,0,0.0,0,0,0.0,115,100,0
+404,1993,29300734,1994-03-01 20:00:00,Washington,Bullets,Philadelphia,76ers,Regular Season,0,1,6.0,0,1,5,3,2,1,0,0,2,0,3,0,0.0,0,0,0.0,0,0,0.0,103,109,0
+404,1993,29300749,1994-03-03 20:00:00,Washington,Bullets,Atlanta,Hawks,Regular Season,1,0,10.0,6,0,1,0,1,0,1,1,2,0,4,3,0.75,0,0,0.0,0,0,0.0,98,109,0
+404,1993,29300765,1994-03-05 20:00:00,Washington,Bullets,Los Angeles,Lakers,Regular Season,1,1,9.0,3,0,0,0,0,0,0,0,2,0,1,0,0.0,0,0,0.0,4,3,0.75,124,118,0
+404,1993,29300790,1994-03-09 20:00:00,Washington,Bullets,Phoenix,Suns,Regular Season,1,0,19.0,7,1,4,2,2,0,0,1,3,0,7,3,0.428,0,0,0.0,2,1,0.5,106,142,0
+404,1993,29300816,1994-03-13 20:00:00,Washington,Bullets,Philadelphia,76ers,Regular Season,1,0,7.0,0,0,0,0,0,1,0,0,2,0,0,0,0.0,0,0,0.0,0,0,0.0,97,114,0
+404,1993,29300826,1994-03-15 20:00:00,Washington,Bullets,Golden State,Warriors,Regular Season,0,0,19.0,2,2,3,2,1,0,0,1,5,0,4,1,0.25,0,0,0.0,0,0,0.0,123,93,0
+404,1993,29300838,1994-03-16 20:00:00,Washington,Bullets,Los Angeles,Lakers,Regular Season,0,0,21.0,6,2,4,3,1,0,2,1,2,0,6,3,0.5,0,0,0.0,0,0,0.0,129,94,0
+404,1993,29300851,1994-03-18 20:00:00,Washington,Bullets,Portland,Trail Blazers,Regular Season,0,0,32.0,4,1,10,6,4,0,0,2,3,0,8,1,0.125,0,0,0.0,2,2,1.0,122,104,0
+404,1993,29300865,1994-03-20 20:00:00,Washington,Bullets,Denver,Nuggets,Regular Season,0,0,30.0,6,1,4,3,1,0,1,3,3,0,3,2,0.667,0,0,0.0,4,2,0.5,132,99,0
+404,1993,29300870,1994-03-21 20:00:00,Washington,Bullets,Houston,Rockets,Regular Season,0,0,25.0,6,0,3,3,0,0,0,2,5,0,3,3,1.0,0,0,0.0,0,0,0.0,128,112,0
+404,1993,29300889,1994-03-24 20:00:00,Washington,Bullets,Boston,Celtics,Regular Season,1,0,13.0,6,1,3,1,2,0,0,0,4,0,5,3,0.599,0,0,0.0,0,0,0.0,117,123,0
+404,1993,29300903,1994-03-26 20:00:00,Washington,Bullets,New Jersey,Nets,Regular Season,1,0,33.0,8,0,12,10,2,7,2,1,5,0,7,4,0.57,0,0,0.0,0,0,0.0,100,103,0
+404,1993,29300926,1994-03-29 20:00:00,Washington,Bullets,Orlando,Magic,Regular Season,0,0,25.0,8,1,5,4,1,2,0,1,5,0,7,4,0.57,0,0,0.0,0,0,0.0,120,101,0
+404,1993,29300946,1994-04-01 20:00:00,Washington,Bullets,Boston,Celtics,Regular Season,0,1,27.0,6,0,8,6,2,0,1,1,2,0,8,3,0.375,0,0,0.0,0,0,0.0,95,99,0
+404,1993,29300955,1994-04-02 20:00:00,Washington,Bullets,Milwaukee,Bucks,Regular Season,1,1,20.0,12,0,5,5,0,1,1,3,2,0,4,3,0.75,0,0,0.0,10,6,0.599,104,96,0
+404,1993,29300963,1994-04-05 20:00:00,Washington,Bullets,Chicago,Bulls,Regular Season,0,0,22.0,6,0,5,3,2,0,0,1,3,0,8,3,0.375,0,0,0.0,0,0,0.0,114,88,0
+404,1993,29301030,1994-04-14 20:00:00,Washington,Bullets,New York,Knicks,Regular Season,1,0,17.0,4,1,5,3,2,0,0,0,4,0,8,2,0.25,0,0,0.0,0,0,0.0,106,111,0
+404,1993,29301036,1994-04-15 20:00:00,Washington,Bullets,New York,Knicks,Regular Season,0,0,34.0,13,2,10,6,4,2,1,1,6,0,10,5,0.5,0,0,0.0,5,3,0.599,103,90,0
+404,1993,29301051,1994-04-17 20:00:00,Washington,Bullets,Boston,Celtics,Regular Season,1,1,32.0,18,1,5,4,1,1,1,1,3,0,14,7,0.5,0,0,0.0,4,4,1.0,142,100,0
+404,1993,29301069,1994-04-19 20:00:00,Washington,Bullets,Indiana,Pacers,Regular Season,1,0,25.0,8,1,7,3,4,0,2,4,4,0,6,2,0.333,0,0,0.0,6,4,0.667,110,111,0
+404,1993,29301074,1994-04-20 20:00:00,Washington,Bullets,Charlotte,Hornets,Regular Season,0,0,16.0,4,1,1,1,0,0,0,0,2,0,3,2,0.667,0,0,0.0,0,0,0.0,117,111,0
+404,1993,29301103,1994-04-24 20:00:00,Washington,Bullets,Charlotte,Hornets,Regular Season,1,1,15.0,4,1,4,4,0,0,0,2,5,0,5,2,0.4,0,0,0.0,0,0,0.0,117,99,0
+404,1994,29400006,1994-11-04 20:00:00,Washington,Bullets,Orlando,Magic,Regular Season,1,1,31.0,16,0,4,4,0,1,1,2,6,0,13,7,0.538,0,0,0.0,2,2,1.0,110,108,0
+404,1994,29400019,1994-11-05 20:00:00,Washington,Bullets,Chicago,Bulls,Regular Season,0,1,26.0,8,2,5,3,2,0,2,5,4,0,11,4,0.363,0,0,0.0,2,0,0.0,99,100,0
+404,1994,29400037,1994-11-09 20:00:00,Washington,Bullets,Philadelphia,76ers,Regular Season,0,0,29.0,8,0,10,7,3,0,0,1,4,0,11,4,0.363,0,0,0.0,0,0,0.0,98,97,0
+404,1994,29400051,1994-11-11 20:00:00,Washington,Bullets,New Jersey,Nets,Regular Season,1,1,30.0,14,1,7,4,3,1,1,2,4,0,10,5,0.5,0,0,0.0,4,4,1.0,104,91,0
+404,1994,29400064,1994-11-12 20:00:00,Washington,Bullets,Miami,Heat,Regular Season,0,1,23.0,2,0,7,4,3,1,2,3,5,0,10,1,0.1,1,0,0.0,0,0,0.0,99,109,0
+404,1994,29400079,1994-11-15 20:00:00,Washington,Bullets,Orlando,Magic,Regular Season,0,0,33.0,16,2,7,3,4,2,1,0,5,0,12,7,0.582,0,0,0.0,2,2,1.0,122,102,0
+404,1994,29400089,1994-11-17 20:00:00,Washington,Bullets,New Jersey,Nets,Regular Season,0,0,31.0,10,0,9,6,3,2,1,2,3,0,7,4,0.57,1,0,0.0,3,2,0.667,111,103,0
+404,1994,29400106,1994-11-19 20:00:00,Washington,Bullets,Boston,Celtics,Regular Season,1,0,32.0,18,0,8,7,1,0,0,0,3,0,16,8,0.5,0,0,0.0,2,2,1.0,102,103,0
+404,1994,29400135,1994-11-25 20:00:00,Washington,Bullets,Cleveland,Cavaliers,Regular Season,1,0,37.0,16,1,6,5,1,2,0,2,5,0,12,8,0.667,0,0,0.0,0,0,0.0,94,96,0
+404,1994,29400145,1994-11-26 20:00:00,Washington,Bullets,Los Angeles,Lakers,Regular Season,1,0,15.0,1,1,5,3,2,1,0,0,1,0,2,0,0.0,0,0,0.0,6,1,0.167,96,112,0
+404,1994,29400160,1994-11-29 20:00:00,Washington,Bullets,New York,Knicks,Regular Season,1,0,36.0,16,0,8,5,3,0,0,2,3,0,12,6,0.5,0,0,0.0,8,4,0.5,91,99,0
+404,1994,29400183,1994-12-02 20:00:00,Washington,Bullets,Detroit,Pistons,Regular Season,1,1,35.0,18,1,10,8,2,1,0,2,6,0,15,9,0.599,0,0,0.0,1,0,0.0,115,104,0
+404,1994,29400193,1994-12-03 20:00:00,Washington,Bullets,New York,Knicks,Regular Season,0,0,30.0,6,1,5,3,2,1,0,3,4,0,10,3,0.299,1,0,0.0,2,0,0.0,111,95,0
+404,1994,29400217,1994-12-08 20:00:00,Washington,Bullets,Dallas,Mavericks,Regular Season,0,1,42.0,20,0,6,5,1,0,0,4,2,0,10,7,0.699,0,0,0.0,8,6,0.75,121,124,0
+404,1994,29400232,1994-12-10 20:00:00,Washington,Bullets,Denver,Nuggets,Regular Season,0,0,33.0,9,0,8,4,4,0,1,2,2,0,12,4,0.333,0,0,0.0,2,1,0.5,111,89,0
+404,1994,29400245,1994-12-12 20:00:00,Washington,Bullets,San Antonio,Spurs,Regular Season,0,0,26.0,9,3,7,5,2,0,1,2,3,0,11,4,0.363,2,1,0.5,0,0,0.0,122,101,0
+404,1994,29400248,1994-12-13 20:00:00,Washington,Bullets,Houston,Rockets,Regular Season,0,0,23.0,3,1,7,5,2,0,1,2,1,0,6,1,0.167,0,0,0.0,2,1,0.5,93,85,0
+404,1994,29400265,1994-12-15 20:00:00,Washington,Bullets,Utah,Jazz,Regular Season,1,0,16.0,4,0,4,2,2,1,0,1,2,0,5,2,0.4,0,0,0.0,0,0,0.0,85,95,0
+404,1994,29400301,1994-12-20 20:00:00,Washington,Bullets,Sacramento,Kings,Regular Season,0,0,24.0,19,0,9,4,5,0,0,2,2,0,10,7,0.699,2,1,0.5,4,4,1.0,105,102,0
+404,1994,29400307,1994-12-22 20:00:00,Washington,Bullets,Golden State,Warriors,Regular Season,0,0,24.0,8,0,8,6,2,2,1,2,6,0,10,3,0.299,1,0,0.0,2,2,1.0,107,87,0
+404,1994,29400323,1994-12-23 20:00:00,Washington,Bullets,Los Angeles,Clippers,Regular Season,0,1,5.0,0,0,1,1,0,0,1,1,1,0,2,0,0.0,0,0,0.0,0,0,0.0,102,105,0
+404,1994,29400349,1994-12-28 20:00:00,Washington,Bullets,Cleveland,Cavaliers,Regular Season,0,0,16.0,0,0,2,1,1,0,0,2,3,0,4,0,0.0,0,0,0.0,0,0,0.0,91,75,0
+404,1994,29400364,1994-12-30 20:00:00,Washington,Bullets,San Antonio,Spurs,Regular Season,1,0,20.0,8,1,7,4,3,0,0,0,5,0,6,2,0.333,0,0,0.0,6,4,0.667,101,115,0
+404,1994,29400377,1995-01-03 20:00:00,Washington,Bullets,Seattle,SuperSonics,Regular Season,1,0,24.0,12,3,3,1,2,1,0,3,3,0,7,5,0.713,1,0,0.0,3,2,0.667,107,121,0
+404,1994,29400379,1995-01-04 20:00:00,Washington,Bullets,Indiana,Pacers,Regular Season,0,0,9.0,4,0,2,1,1,0,0,0,1,0,2,1,0.5,0,0,0.0,2,2,1.0,94,90,0
+404,1994,29400533,1995-01-26 20:00:00,Washington,Bullets,Golden State,Warriors,Regular Season,1,0,20.0,2,0,1,1,0,2,0,3,5,0,2,1,0.5,1,0,0.0,0,0,0.0,118,121,0
+404,1994,29400545,1995-01-28 20:00:00,Washington,Bullets,Los Angeles,Clippers,Regular Season,1,1,19.0,6,0,4,3,1,2,2,2,2,0,5,3,0.599,0,0,0.0,0,0,0.0,93,87,0
+404,1994,29400566,1995-01-31 20:00:00,Washington,Bullets,Charlotte,Hornets,Regular Season,1,0,17.0,4,0,9,9,0,1,2,0,3,0,6,2,0.333,0,0,0.0,2,0,0.0,88,97,0
+404,1994,29400570,1995-02-01 20:00:00,Washington,Bullets,Philadelphia,76ers,Regular Season,0,0,7.0,0,1,2,2,0,0,0,1,2,0,2,0,0.0,0,0,0.0,0,0,0.0,98,89,0
+404,1994,29400661,1995-02-17 20:00:00,Washington,Bullets,Houston,Rockets,Regular Season,1,0,8.0,0,0,2,1,1,0,0,1,0,0,1,0,0.0,0,0,0.0,0,0,0.0,92,109,0
+404,1994,29400673,1995-02-19 20:00:00,Washington,Bullets,Denver,Nuggets,Regular Season,1,0,9.0,2,0,4,2,2,0,0,0,1,0,3,0,0.0,0,0,0.0,2,2,1.0,92,94,0
+404,1994,29400694,1995-02-22 20:00:00,Washington,Bullets,Milwaukee,Bucks,Regular Season,0,0,25.0,6,0,1,1,0,2,0,0,3,0,4,3,0.75,0,0,0.0,0,0,0.0,100,92,0
+404,1994,29400704,1995-02-24 20:00:00,Washington,Bullets,Atlanta,Hawks,Regular Season,1,0,6.0,5,0,0,0,0,0,0,0,1,0,4,2,0.5,0,0,0.0,1,1,1.0,92,107,0
+404,1994,29400759,1995-03-03 20:00:00,Washington,Bullets,Indiana,Pacers,Regular Season,1,1,15.0,7,0,4,2,2,0,2,0,0,0,5,3,0.599,0,0,0.0,2,1,0.5,111,106,0
+404,1994,29400771,1995-03-05 20:00:00,Washington,Bullets,Miami,Heat,Regular Season,0,0,7.0,2,1,1,0,1,0,1,2,0,0,2,1,0.5,0,0,0.0,0,0,0.0,103,90,0
+404,1994,29400802,1995-03-10 20:00:00,Washington,Bullets,Milwaukee,Bucks,Regular Season,1,0,17.0,4,1,5,3,2,0,1,0,3,0,5,1,0.2,0,0,0.0,2,2,1.0,111,114,0
+404,1994,29400811,1995-03-11 20:00:00,Washington,Bullets,New Jersey,Nets,Regular Season,1,1,8.0,0,0,2,2,0,0,0,1,2,0,0,0,0.0,0,0,0.0,0,0,0.0,110,102,0
+404,1994,29400824,1995-03-13 20:00:00,Washington,Bullets,Charlotte,Hornets,Regular Season,0,1,3.0,0,0,1,1,0,1,0,0,2,0,0,0,0.0,0,0,0.0,0,0,0.0,103,106,0
+404,1994,29400829,1995-03-14 20:00:00,Washington,Bullets,Chicago,Bulls,Regular Season,1,0,3.0,0,0,2,1,1,0,0,2,1,0,1,0,0.0,0,0,0.0,0,0,0.0,93,106,0
+404,1994,29400849,1995-03-17 20:00:00,Washington,Bullets,New York,Knicks,Regular Season,1,0,4.0,0,0,2,1,1,0,0,2,1,0,1,0,0.0,0,0,0.0,0,0,0.0,81,89,0
+404,1995,29500170,1995-11-26 20:00:00,Milwaukee,Bucks,Minnesota,Timberwolves,Regular Season,1,0,11.0,2,1,1,1,0,0,0,0,2,0,3,1,0.333,0,0,0.0,0,0,0.0,102,105,0
+404,1995,29500182,1995-11-28 20:00:00,Milwaukee,Bucks,Charlotte,Hornets,Regular Season,1,0,8.0,2,0,0,0,0,0,0,0,2,0,3,1,0.333,0,0,0.0,0,0,0.0,98,106,0
+404,1995,29500582,1996-01-26 20:00:00,Milwaukee,Bucks,Phoenix,Suns,Regular Season,1,0,5.0,0,0,0,0,0,0,0,0,1,0,2,0,0.0,0,0,0.0,0,0,0.0,97,107,0
+404,1995,29500663,1996-02-07 20:00:00,Milwaukee,Bucks,Toronto,Raptors,Regular Season,0,1,15.0,3,0,4,2,2,0,1,0,4,0,3,1,0.333,0,0,0.0,2,1,0.5,88,93,0
+404,1995,29500680,1996-02-13 20:00:00,Milwaukee,Bucks,Philadelphia,76ers,Regular Season,1,0,2.0,0,0,1,1,0,0,0,0,2,0,0,0,0.0,0,0,0.0,0,0,0.0,101,104,0
+404,1995,29500704,1996-02-16 20:00:00,Milwaukee,Bucks,Orlando,Magic,Regular Season,0,0,7.0,1,1,1,1,0,0,1,1,1,0,2,0,0.0,0,0,0.0,2,1,0.5,121,91,0
+404,1995,29500759,1996-02-23 20:00:00,Milwaukee,Bucks,Orlando,Magic,Regular Season,1,0,6.0,1,0,0,0,0,0,0,0,3,0,0,0,0.0,0,0,0.0,2,1,0.5,102,115,0
+404,1995,29501126,1996-04-14 20:00:00,Milwaukee,Bucks,Orlando,Magic,Regular Season,1,1,4.0,0,0,0,0,0,0,0,1,4,0,1,0,0.0,0,0,0.0,0,0,0.0,114,101,0
+404,1996,29600013,1996-11-01 22:30:00,Los Angeles,Clippers,Golden State,Warriors,Regular Season,0,1,23.0,8,1,2,1,1,0,0,4,3,-4,8,4,0.5,0,0,0.0,0,0,0.0,85,97,0
+404,1996,29600023,1996-11-02 22:30:00,Los Angeles,Clippers,Utah,Jazz,Regular Season,1,0,19.0,7,1,3,3,0,0,0,0,3,-11,7,2,0.286,2,1,0.5,2,2,1.0,90,95,0
+404,1996,29600036,1996-11-05 21:00:00,Los Angeles,Clippers,Denver,Nuggets,Regular Season,0,1,15.0,1,0,1,1,0,0,1,3,2,-13,3,0,0.0,0,0,0.0,2,1,0.5,78,82,0
+404,1996,29600062,1996-11-08 22:30:00,Los Angeles,Clippers,New York,Knicks,Regular Season,1,0,26.0,12,0,4,3,1,0,0,2,4,-17,12,6,0.5,0,0,0.0,0,0,0.0,81,88,0
+404,1996,29600071,1996-11-10 21:00:00,Los Angeles,Clippers,Minnesota,Timberwolves,Regular Season,1,1,11.0,0,0,1,1,0,0,0,0,2,-5,2,0,0.0,0,0,0.0,0,0,0.0,81,70,0
+404,1996,29600088,1996-11-12 22:00:00,Los Angeles,Clippers,Vancouver,Grizzlies,Regular Season,0,1,5.0,0,0,0,0,0,0,0,1,1,-15,2,0,0.0,0,0,0.0,0,0,0.0,92,99,0
+404,1996,29600101,1996-11-14 22:30:00,Los Angeles,Clippers,Seattle,SuperSonics,Regular Season,1,0,8.0,0,1,2,2,0,3,0,1,0,-4,1,0,0.0,0,0,0.0,0,0,0.0,78,94,0
+404,1996,29600112,1996-11-15 22:30:00,Los Angeles,Clippers,Los Angeles,Lakers,Regular Season,0,0,13.0,2,1,2,2,0,0,0,2,3,-4,3,1,0.333,0,0,0.0,0,0,0.0,107,100,0
+404,1996,29600127,1996-11-17 21:00:00,Los Angeles,Clippers,Milwaukee,Bucks,Regular Season,1,1,13.0,3,0,0,0,0,0,1,2,4,-10,4,1,0.25,0,0,0.0,2,1,0.5,102,94,0
+404,1996,29600142,1996-11-20 20:30:00,Los Angeles,Clippers,San Antonio,Spurs,Regular Season,0,1,20.0,8,0,6,3,3,2,2,1,3,-1,10,4,0.4,0,0,0.0,0,0,0.0,81,93,0
+404,1996,29600151,1996-11-21 20:30:00,Los Angeles,Clippers,Dallas,Mavericks,Regular Season,0,0,26.0,9,6,6,2,4,0,1,1,3,-8,5,3,0.6,0,0,0.0,4,3,0.75,105,94,0
+404,1996,29600165,1996-11-23 20:00:00,Los Angeles,Clippers,Minnesota,Timberwolves,Regular Season,0,0,17.0,3,1,1,1,0,0,0,1,4,-3,1,1,1.0,1,1,1.0,2,0,0.0,98,96,0
+404,1996,29600178,1996-11-25 22:30:00,Los Angeles,Clippers,Chicago,Bulls,Regular Season,1,0,16.0,6,1,3,3,0,2,0,2,4,3,4,3,0.75,0,0,0.0,0,0,0.0,84,88,0
+404,1996,29600196,1996-11-27 22:30:00,Los Angeles,Clippers,Miami,Heat,Regular Season,1,0,2.0,0,0,0,0,0,0,0,0,0,-4,0,0,0.0,0,0,0.0,0,0,0.0,82,98,0
+404,1996,29600206,1996-11-29 21:00:00,Los Angeles,Clippers,Utah,Jazz,Regular Season,0,0,11.0,2,0,6,4,2,0,0,3,4,4,1,0,0.0,0,0,0.0,2,2,1.0,111,94,0
+404,1996,29600217,1996-11-30 22:30:00,Los Angeles,Clippers,New Jersey,Nets,Regular Season,1,0,7.0,0,0,1,0,1,1,0,1,3,2,1,0,0.0,0,0,0.0,0,0,0.0,95,106,0
+404,1996,29600230,1996-12-03 22:30:00,Los Angeles,Clippers,Charlotte,Hornets,Regular Season,1,1,10.0,4,1,1,1,0,0,0,1,1,-6,3,2,0.667,0,0,0.0,0,0,0.0,96,89,0
+404,1996,29600244,1996-12-05 20:30:00,Los Angeles,Clippers,Chicago,Bulls,Regular Season,0,0,5.0,0,0,0,0,0,0,0,0,0,-5,1,0,0.0,0,0,0.0,0,0,0.0,114,96,0
+404,1996,29600257,1996-12-07 19:30:00,Los Angeles,Clippers,New York,Knicks,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,89,80,0
+404,1996,29600267,1996-12-08 18:00:00,Los Angeles,Clippers,Cleveland,Cavaliers,Regular Season,0,0,7.0,3,1,2,1,1,0,0,0,0,-1,3,1,0.333,1,1,1.0,0,0,0.0,90,69,0
+404,1996,29600283,1996-12-10 22:30:00,Los Angeles,Clippers,Dallas,Mavericks,Regular Season,1,0,22.0,6,1,3,1,2,0,0,2,3,-6,6,3,0.5,0,0,0.0,0,0,0.0,95,100,0
+404,1996,29600297,1996-12-12 22:30:00,Los Angeles,Clippers,San Antonio,Spurs,Regular Season,1,1,25.0,10,0,3,1,2,0,0,0,6,1,5,4,0.8,0,0,0.0,2,2,1.0,97,94,0
+404,1996,29600316,1996-12-14 22:30:00,Los Angeles,Clippers,Sacramento,Kings,Regular Season,1,1,18.0,8,0,6,3,3,1,1,2,3,-2,6,4,0.667,0,0,0.0,0,0,0.0,106,94,0
+404,1996,29600324,1996-12-16 22:30:00,Los Angeles,Clippers,Phoenix,Suns,Regular Season,1,1,17.0,4,1,0,0,0,2,0,0,2,-1,5,2,0.4,0,0,0.0,0,0,0.0,122,121,0
+404,1996,29600346,1996-12-19 22:30:00,Los Angeles,Clippers,Washington,Bullets,Regular Season,1,0,15.0,2,0,1,1,0,0,1,2,1,-17,3,1,0.333,0,0,0.0,0,0,0.0,93,102,0
+404,1996,29600356,1996-12-20 22:00:00,Los Angeles,Clippers,Seattle,SuperSonics,Regular Season,0,0,14.0,2,0,5,3,2,0,1,0,4,-15,4,1,0.25,0,0,0.0,0,0,0.0,102,86,0
+404,1996,29600369,1996-12-22 20:00:00,Los Angeles,Clippers,Golden State,Warriors,Regular Season,0,0,6.0,4,0,1,0,1,0,1,2,0,-3,3,2,0.667,0,0,0.0,0,0,0.0,97,91,0
+404,1996,29600379,1996-12-23 22:30:00,Los Angeles,Clippers,Sacramento,Kings,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,100,88,0
+404,1996,29600706,1997-02-13 22:30:00,Los Angeles,Clippers,Sacramento,Kings,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,105,98,0
+404,1996,29600713,1997-02-14 21:00:00,Los Angeles,Clippers,Phoenix,Suns,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,110,93,0

@@ -1,0 +1,484 @@
+personId,season,gameId,gameDateTimeEst,playerteamCity,playerteamName,opponentteamCity,opponentteamName,gameType,home,win,numMinutes,points,assists,reboundsTotal,reboundsDefensive,reboundsOffensive,blocks,steals,turnovers,foulsPersonal,plusMinusPoints,fieldGoalsAttempted,fieldGoalsMade,fieldGoalsPercentage,threePointersAttempted,threePointersMade,threePointersPercentage,freeThrowsAttempted,freeThrowsMade,freeThrowsPercentage,homeScore,awayScore,attendance
+1627774,0,11600008,,Portland,,,,Pre Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,,0,0,,0,0,0
+1627774,0,11700074,,Portland,,,,Pre Season,0,0,36.1,24,3,2,2,0,2,0,1,2,49,14,9,0.643,7,4,0.571,3,2,0.667,0,0,0
+1627774,0,11900052,,Minnesota,,,,Pre Season,0,0,16.916666666666668,10,2,3,3,0,2,0,1,0,26,6,4,0.667,3,2,0.667,0,0,0.0,0,0,0
+1627774,0,12000036,,Minnesota,,,,Pre Season,0,0,22.35,8,0,2,2,0,0,0,1,2,-3,6,3,0.5,2,1,0.5,2,1,0.5,127,129,0
+1627774,2016,11600027,2016-10-07 22:00:00,Portland,Trail Blazers,Phoenix,Suns,Preseason,1,1,13.0,0,0,1,1,0,0,0,0,2,6,0,0,0.0,0,0,0.0,0,0,0.0,115,110,0
+1627774,2016,11600047,2016-10-11 22:30:00,Portland,Trail Blazers,Los Angeles,Lakers,Preseason,0,1,5.0,2,0,2,2,0,0,0,0,0,3,1,1,1.0,0,0,0.0,0,0,0.0,106,109,0
+1627774,2016,11600057,2016-10-13 22:30:00,Portland,Trail Blazers,Los Angeles,Clippers,Preseason,0,0,5.0,6,0,2,2,0,0,0,0,1,5,4,3,0.75,1,0,0.0,0,0,0.0,109,108,0
+1627774,2016,11600075,2016-10-16 21:00:00,Portland,Trail Blazers,Denver,Nuggets,Preseason,1,0,7.0,3,0,0,0,0,0,0,0,1,1,2,1,0.5,2,1,0.5,0,0,0.0,97,106,0
+1627774,2016,11600087,2016-10-19 21:00:00,Portland,Trail Blazers,Utah,Jazz,Preseason,0,1,5.0,2,1,1,1,0,0,0,0,1,1,2,1,0.5,1,0,0.0,0,0,0.0,84,88,0
+1627774,2016,11600102,2016-10-21 22:30:00,Portland,Trail Blazers,Golden State,Warriors,Preseason,0,0,7.0,0,0,1,1,0,0,1,0,0,3,2,0,0.0,1,0,0.0,0,0,0.0,107,96,0
+1627774,2016,21600002,2016-10-25 22:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,113,104,0
+1627774,2016,21600017,2016-10-27 22:30:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,106,114,0
+1627774,2016,21600033,2016-10-29 21:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,113,115,0
+1627774,2016,21600054,2016-11-01 22:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,1,0,8.0,17,1,1,1,0,0,1,0,0,10,8,6,0.75,7,5,0.714,0,0,0.0,104,127,0
+1627774,2016,21600063,2016-11-02 22:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,118,115,0
+1627774,2016,21600076,2016-11-04 20:30:00,Portland,Trail Blazers,Dallas,Mavericks,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,95,105,0
+1627774,2016,21600088,2016-11-06 15:30:00,Portland,Trail Blazers,Memphis,Grizzlies,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,94,100,0
+1627774,2016,21600103,2016-11-08 22:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,124,121,0
+1627774,2016,21600115,2016-11-09 22:30:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,0,0,15.0,9,2,1,1,0,0,1,1,2,13,8,4,0.5,5,1,0.2,0,0,0.0,111,80,0
+1627774,2016,21600128,2016-11-11 22:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,1,1,13.0,5,2,2,2,0,0,0,1,1,-3,3,2,0.667,2,1,0.5,0,0,0.0,122,120,0
+1627774,2016,21600144,2016-11-13 21:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,1,1,3.0,0,0,0,0,0,1,0,0,2,-10,2,0,0.0,1,0,0.0,0,0,0.0,112,105,0
+1627774,2016,21600156,2016-11-15 22:00:00,Portland,Trail Blazers,Chicago,Bulls,Regular Season,1,0,4.0,0,0,0,0,0,0,1,0,0,1,2,0,0.0,2,0,0.0,0,0,0.0,88,113,0
+1627774,2016,21600171,2016-11-17 20:00:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,0,0,16.0,7,0,2,2,0,0,0,1,3,3,4,1,0.25,3,1,0.333,5,4,0.8,126,109,0
+1627774,2016,21600177,2016-11-18 20:00:00,Portland,Trail Blazers,New Orleans,Pelicans,Regular Season,0,0,1.0,0,0,0,0,0,0,0,0,0,6,0,0,0.0,0,0,0.0,0,0,0.0,113,101,0
+1627774,2016,21600194,2016-11-20 15:30:00,Portland,Trail Blazers,Brooklyn,Nets,Regular Season,0,1,3.0,2,0,3,3,0,0,0,0,3,0,3,1,0.333,2,0,0.0,0,0,0.0,109,129,0
+1627774,2016,21600208,2016-11-22 19:30:00,Portland,Trail Blazers,New York,Knicks,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,107,103,0
+1627774,2016,21600215,2016-11-23 19:00:00,Portland,Trail Blazers,Cleveland,Cavaliers,Regular Season,0,0,4.0,0,0,1,1,0,0,1,0,1,8,1,0,0.0,1,0,0.0,0,0,0.0,137,125,0
+1627774,2016,21600237,2016-11-25 22:00:00,Portland,Trail Blazers,New Orleans,Pelicans,Regular Season,1,1,4.0,2,0,0,0,0,0,1,0,0,11,1,1,1.0,0,0,0.0,0,0,0.0,119,104,0
+1627774,2016,21600251,2016-11-27 21:00:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,1,0,5.0,0,1,0,0,0,0,0,0,0,-9,0,0,0.0,0,0,0.0,0,0,0.0,114,130,0
+1627774,2016,21600275,2016-11-30 22:00:00,Portland,Trail Blazers,Indiana,Pacers,Regular Season,1,1,2.0,0,0,0,0,0,0,0,1,0,5,0,0,0.0,0,0,0.0,0,0,0.0,131,109,0
+1627774,2016,21600298,2016-12-03 22:00:00,Portland,Trail Blazers,Miami,Heat,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,99,92,0
+1627774,2016,21600308,2016-12-05 20:00:00,Portland,Trail Blazers,Chicago,Bulls,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,110,112,0
+1627774,2016,21600325,2016-12-07 20:00:00,Portland,Trail Blazers,Milwaukee,Bucks,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,115,107,0
+1627774,2016,21600333,2016-12-08 20:00:00,Portland,Trail Blazers,Memphis,Grizzlies,Regular Season,0,0,11.0,2,0,1,0,1,0,0,0,0,3,5,0,0.0,3,0,0.0,2,2,1.0,88,86,0
+1627774,2016,21600348,2016-12-10 19:00:00,Portland,Trail Blazers,Indiana,Pacers,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,118,111,0
+1627774,2016,21600366,2016-12-12 22:30:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,3,0,0,0.0,0,0,0.0,0,0,0.0,121,120,0
+1627774,2016,21600373,2016-12-13 22:30:00,Portland,Trail Blazers,Oklahoma City,Thunder,Regular Season,1,1,5.0,0,0,0,0,0,0,1,0,0,-2,4,0,0.0,3,0,0.0,0,0,0.0,114,95,0
+1627774,2016,21600386,2016-12-15 21:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,0,0,3.0,0,0,1,0,1,0,0,0,0,2,1,0,0.0,1,0,0.0,0,0,0.0,132,120,0
+1627774,2016,21600405,2016-12-17 22:30:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,0,0,12.0,1,0,0,0,0,0,0,0,0,-9,5,0,0.0,3,0,0.0,2,1,0.5,135,90,0
+1627774,2016,21600428,2016-12-20 22:30:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,126,121,0
+1627774,2016,21600436,2016-12-21 22:00:00,Portland,Trail Blazers,Dallas,Mavericks,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,95,96,0
+1627774,2016,21600454,2016-12-23 22:00:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,1,0,2.0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0,0,0.0,0,0,0.0,90,110,0
+1627774,2016,21600469,2016-12-26 22:00:00,Portland,Trail Blazers,Toronto,Raptors,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,91,95,0
+1627774,2016,21600484,2016-12-28 22:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,102,89,0
+1627774,2016,21600499,2016-12-30 20:30:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,0,0,2.0,0,0,0,0,0,0,0,0,0,2,0,0,0.0,0,0,0.0,0,0,0.0,110,94,0
+1627774,2016,21600511,2017-01-01 19:00:00,Portland,Trail Blazers,Minnesota,Timberwolves,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,89,95,0
+1627774,2016,21600534,2017-01-04 22:30:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,125,117,0
+1627774,2016,21600542,2017-01-05 22:30:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,118,109,0
+1627774,2016,21600559,2017-01-08 21:00:00,Portland,Trail Blazers,Detroit,Pistons,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,124,125,0
+1627774,2016,21600577,2017-01-10 22:30:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,0,1,2.0,5,0,0,0,0,0,0,0,0,3,3,2,0.667,1,1,1.0,0,0,0.0,87,108,0
+1627774,2016,21600585,2017-01-11 22:30:00,Portland,Trail Blazers,Cleveland,Cavaliers,Regular Season,1,1,3.0,1,0,0,0,0,0,0,0,0,-7,1,0,0.0,1,0,0.0,2,1,0.5,102,86,0
+1627774,2016,21600598,2017-01-13 22:00:00,Portland,Trail Blazers,Orlando,Magic,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,109,115,0
+1627774,2016,21600614,2017-01-16 14:00:00,Portland,Trail Blazers,Washington,Wizards,Regular Season,0,0,11.0,3,0,2,2,0,0,0,1,1,6,4,1,0.25,3,0,0.0,2,1,0.5,120,101,0
+1627774,2016,21600629,2017-01-18 19:00:00,Portland,Trail Blazers,Charlotte,Hornets,Regular Season,0,0,4.0,0,1,0,0,0,1,0,0,0,-2,0,0,0.0,0,0,0.0,0,0,0.0,107,85,0
+1627774,2016,21600641,2017-01-20 19:00:00,Portland,Trail Blazers,Philadelphia,76ers,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,93,92,0
+1627774,2016,21600650,2017-01-21 17:00:00,Portland,Trail Blazers,Boston,Celtics,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,123,127,0
+1627774,2016,21600830,2017-02-13 22:30:00,Portland,Trail Blazers,Atlanta,Hawks,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,104,109,0
+1627774,2016,21600843,2017-02-15 21:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,0,0,4.0,0,0,0,0,0,0,0,0,1,-1,0,0,0.0,0,0,0.0,0,0,0.0,111,88,0
+1627774,2016,21600850,2017-02-23 19:00:00,Portland,Trail Blazers,Orlando,Magic,Regular Season,0,1,5.0,3,0,0,0,0,0,0,1,2,-11,1,1,1.0,1,1,1.0,0,0,0.0,103,112,0
+1627774,2016,21600878,2017-02-26 18:00:00,Portland,Trail Blazers,Toronto,Raptors,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,112,106,0
+1627774,2016,21600890,2017-02-28 19:30:00,Portland,Trail Blazers,Detroit,Pistons,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,120,113,0
+1627774,2016,21600908,2017-03-02 22:30:00,Portland,Trail Blazers,Oklahoma City,Thunder,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,114,109,0
+1627774,2016,21600926,2017-03-04 22:00:00,Portland,Trail Blazers,Brooklyn,Nets,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,130,116,0
+1627774,2016,21600946,2017-03-07 20:00:00,Portland,Trail Blazers,Oklahoma City,Thunder,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,121,126,0
+1627774,2016,21600963,2017-03-09 22:00:00,Portland,Trail Blazers,Philadelphia,76ers,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,114,108,0
+1627774,2016,21600983,2017-03-11 22:00:00,Portland,Trail Blazers,Washington,Wizards,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,124,125,0
+1627774,2016,21600988,2017-03-12 21:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,101,110,0
+1627774,2016,21601002,2017-03-14 20:00:00,Portland,Trail Blazers,New Orleans,Pelicans,Regular Season,0,0,9.0,2,0,1,1,0,0,0,0,2,3,3,0,0.0,1,0,0.0,2,2,1.0,100,77,0
+1627774,2016,21601011,2017-03-15 20:00:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,106,110,0
+1627774,2016,21601029,2017-03-18 18:00:00,Portland,Trail Blazers,Atlanta,Hawks,Regular Season,0,1,2.0,2,0,0,0,0,0,0,0,0,-4,0,0,0.0,0,0,0.0,2,2,1.0,97,113,0
+1627774,2016,21601041,2017-03-19 18:00:00,Portland,Trail Blazers,Miami,Heat,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,104,115,0
+1627774,2016,21601057,2017-03-21 22:00:00,Portland,Trail Blazers,Milwaukee,Bucks,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,90,93,0
+1627774,2016,21601071,2017-03-23 22:00:00,Portland,Trail Blazers,New York,Knicks,Regular Season,1,1,1.0,0,0,0,0,0,0,1,0,0,-5,2,0,0.0,1,0,0.0,0,0,0.0,110,95,0
+1627774,2016,21601086,2017-03-25 22:00:00,Portland,Trail Blazers,Minnesota,Timberwolves,Regular Season,1,1,2.0,0,0,0,0,0,0,0,0,0,-7,0,0,0.0,0,0,0.0,0,0,0.0,112,100,0
+1627774,2016,21601096,2017-03-26 21:30:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,0,1,2.0,0,0,0,0,0,0,0,0,0,-4,1,0,0.0,0,0,0.0,0,0,0.0,81,97,0
+1627774,2016,21601109,2017-03-28 22:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,122,113,0
+1627774,2016,21601125,2017-03-30 22:30:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,117,107,0
+1627774,2016,21601141,2017-04-01 22:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,1,1,2.0,0,0,0,0,0,0,0,0,0,-2,0,0,0.0,0,0,0.0,0,0,0.0,130,117,0
+1627774,2016,21600940,2017-04-03 19:00:00,Portland,Trail Blazers,Minnesota,Timberwolves,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,110,109,0
+1627774,2016,21601164,2017-04-04 21:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,0,0,3.0,3,0,0,0,0,0,0,0,1,-1,1,1,1.0,1,1,1.0,0,0,0.0,106,87,0
+1627774,2016,21601178,2017-04-06 22:30:00,Portland,Trail Blazers,Minnesota,Timberwolves,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,105,98,0
+1627774,2016,21601194,2017-04-08 22:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,1,1,1.0,0,0,1,1,0,0,0,0,0,-2,0,0,0.0,0,0,0.0,0,0,0.0,101,86,0
+1627774,2016,21601209,2017-04-10 22:00:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,1,1,29.0,4,1,4,2,2,1,2,1,1,-3,15,2,0.133,4,0,0.0,0,0,0.0,99,98,0
+1627774,2016,21601230,2017-04-12 22:30:00,Portland,Trail Blazers,New Orleans,Pelicans,Regular Season,1,0,37.0,10,3,4,2,2,0,0,4,2,1,10,4,0.4,5,2,0.4,0,0,0.0,100,103,0
+1627774,2016,41600141,2017-04-16 15:30:00,Portland,Trail Blazers,Golden State,Warriors,Playoffs,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,121,109,0
+1627774,2016,41600142,2017-04-19 22:30:00,Portland,Trail Blazers,Golden State,Warriors,Playoffs,0,0,10.0,3,1,1,1,0,0,1,0,2,0,1,1,1.0,0,0,0.0,2,1,0.5,110,81,0
+1627774,2016,41600143,2017-04-22 22:30:00,Portland,Trail Blazers,Golden State,Warriors,Playoffs,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,113,119,0
+1627774,2016,41600144,2017-04-24 22:30:00,Portland,Trail Blazers,Golden State,Warriors,Playoffs,1,0,5.0,3,0,0,0,0,0,0,0,0,3,3,1,0.333,1,1,1.0,0,0,0.0,103,128,0
+1627774,2017,11700014,2017-10-03 22:00:00,Portland,Trail Blazers,Phoenix,Suns,Preseason,1,0,12.0,3,1,1,1,0,0,0,1,3,-1,7,1,0.143,3,1,0.333,0,0,0.0,112,114,0
+1627774,2017,11700027,2017-10-05 22:00:00,Portland,Trail Blazers,Toronto,Raptors,Preseason,1,1,5.0,0,0,0,0,0,0,0,0,1,-12,1,0,0.0,1,0,0.0,0,0,0.0,106,101,0
+1627774,2017,11700038,2017-10-08 15:30:00,Portland,Trail Blazers,Los Angeles,Clippers,Preseason,0,1,8.0,2,0,2,2,0,1,0,0,1,5,2,0,0.0,1,0,0.0,2,2,1.0,106,134,0
+1627774,2017,11700053,2017-10-09 22:00:00,Portland,Trail Blazers,Sacramento,Kings,Preseason,0,1,12.0,10,0,1,1,0,0,1,1,0,8,5,4,0.8,2,2,1.0,0,0,0.0,83,97,0
+1627774,2017,11700061,2017-10-11 22:00:00,Portland,Trail Blazers,Phoenix,Suns,Preseason,0,1,11.0,5,0,2,1,1,0,0,1,1,-13,4,2,0.5,1,1,1.0,0,0,0.0,104,113,0
+1627774,2017,21700012,2017-10-18 22:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,0,1,12.0,3,1,0,0,0,0,2,0,2,5,4,1,0.25,2,1,0.5,0,0,0.0,76,124,0
+1627774,2017,21700018,2017-10-20 19:00:00,Portland,Trail Blazers,Indiana,Pacers,Regular Season,0,1,2.0,0,1,0,0,0,0,0,0,1,-5,0,0,0.0,0,0,0.0,0,0,0.0,96,114,0
+1627774,2017,21700034,2017-10-21 20:30:00,Portland,Trail Blazers,Milwaukee,Bucks,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,113,110,0
+1627774,2017,21700053,2017-10-24 22:00:00,Portland,Trail Blazers,New Orleans,Pelicans,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,103,93,0
+1627774,2017,21700068,2017-10-26 22:00:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,103,104,0
+1627774,2017,21700083,2017-10-28 22:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,114,107,0
+1627774,2017,21700099,2017-10-30 22:00:00,Portland,Trail Blazers,Toronto,Raptors,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,85,99,0
+1627774,2017,21700115,2017-11-01 21:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,112,103,0
+1627774,2017,21700118,2017-11-02 22:30:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,113,110,0
+1627774,2017,21700144,2017-11-05 21:00:00,Portland,Trail Blazers,Oklahoma City,Thunder,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,103,99,0
+1627774,2017,21700157,2017-11-07 22:00:00,Portland,Trail Blazers,Memphis,Grizzlies,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,97,98,0
+1627774,2017,21700176,2017-11-10 22:00:00,Portland,Trail Blazers,Brooklyn,Nets,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,97,101,0
+1627774,2017,21700198,2017-11-13 22:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,1,1,2.0,3,0,0,0,0,0,0,0,1,0,1,1,1.0,1,1,1.0,0,0,0.0,99,82,0
+1627774,2017,21700213,2017-11-15 22:00:00,Portland,Trail Blazers,Orlando,Magic,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,99,94,0
+1627774,2017,21700225,2017-11-17 22:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,0,0,4.0,0,0,2,2,0,0,0,0,0,-7,0,0,0.0,0,0,0.0,0,0,0.0,86,82,0
+1627774,2017,21700234,2017-11-18 22:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,1,1,1.0,0,0,0,0,0,0,0,0,0,-5,0,0,0.0,0,0,0.0,0,0,0.0,102,90,0
+1627774,2017,21700246,2017-11-20 20:00:00,Portland,Trail Blazers,Memphis,Grizzlies,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,92,100,0
+1627774,2017,21700255,2017-11-22 19:00:00,Portland,Trail Blazers,Philadelphia,76ers,Regular Season,0,0,6.0,4,0,1,1,0,0,0,0,1,-2,4,2,0.5,1,0,0.0,0,0,0.0,101,81,0
+1627774,2017,21700267,2017-11-24 12:00:00,Portland,Trail Blazers,Brooklyn,Nets,Regular Season,0,1,9.0,2,0,0,0,0,2,0,0,0,-1,4,1,0.25,0,0,0.0,0,0,0.0,125,127,0
+1627774,2017,21700279,2017-11-25 19:00:00,Portland,Trail Blazers,Washington,Wizards,Regular Season,0,1,4.0,0,0,1,1,0,0,0,0,0,0,1,0,0.0,1,0,0.0,0,0,0.0,105,108,0
+1627774,2017,21700293,2017-11-27 19:30:00,Portland,Trail Blazers,New York,Knicks,Regular Season,0,1,3.0,0,0,1,1,0,0,1,0,0,8,1,0,0.0,1,0,0.0,0,0,0.0,91,103,0
+1627774,2017,21700316,2017-11-30 22:00:00,Portland,Trail Blazers,Milwaukee,Bucks,Regular Season,1,0,1.0,2,0,0,0,0,0,0,0,0,4,1,1,1.0,0,0,0.0,0,0,0.0,91,103,0
+1627774,2017,21700333,2017-12-02 22:00:00,Portland,Trail Blazers,New Orleans,Pelicans,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,116,123,0
+1627774,2017,21700352,2017-12-05 22:00:00,Portland,Trail Blazers,Washington,Wizards,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,92,106,0
+1627774,2017,21700384,2017-12-09 22:00:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,1,0,14.0,0,0,2,2,0,0,0,1,3,-4,3,0,0.0,1,0,0.0,0,0,0.0,117,124,0
+1627774,2017,21700395,2017-12-11 22:30:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,0,0,17.0,8,0,3,1,2,0,0,0,1,8,9,3,0.333,4,0,0.0,2,2,1.0,111,104,0
+1627774,2017,21700408,2017-12-13 19:30:00,Portland,Trail Blazers,Miami,Heat,Regular Season,0,1,4.0,0,0,0,0,0,0,0,0,0,2,0,0,0.0,0,0,0.0,0,0,0.0,95,102,0
+1627774,2017,21700420,2017-12-15 19:00:00,Portland,Trail Blazers,Orlando,Magic,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,88,95,0
+1627774,2017,21700429,2017-12-16 19:00:00,Portland,Trail Blazers,Charlotte,Hornets,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,91,93,0
+1627774,2017,21700446,2017-12-18 20:00:00,Portland,Trail Blazers,Minnesota,Timberwolves,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,108,107,0
+1627774,2017,21700463,2017-12-20 22:00:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,91,93,0
+1627774,2017,21700478,2017-12-22 22:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,1,0,9.0,0,2,1,1,0,0,0,0,2,-5,1,0,0.0,0,0,0.0,0,0,0.0,85,102,0
+1627774,2017,21700491,2017-12-23 21:30:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,92,95,0
+1627774,2017,21700520,2017-12-28 22:30:00,Portland,Trail Blazers,Philadelphia,76ers,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,114,110,0
+1627774,2017,21700533,2017-12-30 19:30:00,Portland,Trail Blazers,Atlanta,Hawks,Regular Season,0,0,3.0,0,0,0,0,0,0,0,0,0,3,0,0,0.0,0,0,0.0,0,0,0.0,104,89,0
+1627774,2017,21700547,2018-01-01 20:00:00,Portland,Trail Blazers,Chicago,Bulls,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,120,124,0
+1627774,2017,21700549,2018-01-02 19:00:00,Portland,Trail Blazers,Cleveland,Cavaliers,Regular Season,0,0,5.0,0,2,1,0,1,0,0,2,1,1,1,0,0.0,1,0,0.0,0,0,0.0,127,110,0
+1627774,2017,21700576,2018-01-05 22:00:00,Portland,Trail Blazers,Atlanta,Hawks,Regular Season,1,1,6.0,3,0,0,0,0,1,0,0,0,-2,4,1,0.25,3,1,0.333,0,0,0.0,110,89,0
+1627774,2017,21700589,2018-01-07 21:00:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,111,110,0
+1627774,2017,21700600,2018-01-09 20:00:00,Portland,Trail Blazers,Oklahoma City,Thunder,Regular Season,0,1,2.0,0,0,0,0,0,0,0,0,0,-6,0,0,0.0,0,0,0.0,0,0,0.0,106,117,0
+1627774,2017,21700608,2018-01-10 20:00:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,121,112,0
+1627774,2017,21700624,2018-01-12 20:00:00,Portland,Trail Blazers,New Orleans,Pelicans,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,119,113,0
+1627774,2017,21700637,2018-01-14 21:00:00,Portland,Trail Blazers,Minnesota,Timberwolves,Regular Season,0,0,6.0,0,0,0,0,0,0,0,0,0,7,0,0,0.0,0,0,0.0,0,0,0.0,120,103,0
+1627774,2017,21700652,2018-01-16 22:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,118,111,0
+1627774,2017,21700666,2018-01-18 22:00:00,Portland,Trail Blazers,Indiana,Pacers,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,100,86,0
+1627774,2017,21700682,2018-01-20 22:00:00,Portland,Trail Blazers,Dallas,Mavericks,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,117,108,0
+1627774,2017,21700694,2018-01-22 21:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,104,101,0
+1627774,2017,21700708,2018-01-24 22:00:00,Portland,Trail Blazers,Minnesota,Timberwolves,Regular Season,1,1,2.0,0,0,0,0,0,0,0,0,1,-10,1,0,0.0,1,0,0.0,0,0,0.0,123,114,0
+1627774,2017,21700721,2018-01-26 20:30:00,Portland,Trail Blazers,Dallas,Mavericks,Regular Season,0,1,2.0,0,1,0,0,0,0,0,1,0,-6,0,0,0.0,0,0,0.0,0,0,0.0,93,107,0
+1627774,2017,21700752,2018-01-30 22:30:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,96,104,0
+1627774,2017,21700759,2018-01-31 22:00:00,Portland,Trail Blazers,Chicago,Bulls,Regular Season,1,1,5.0,0,1,0,0,0,0,0,0,0,-9,0,0,0.0,0,0,0.0,0,0,0.0,124,108,0
+1627774,2017,21700769,2018-02-02 19:30:00,Portland,Trail Blazers,Toronto,Raptors,Regular Season,0,0,6.0,0,0,2,1,1,0,1,0,0,1,3,0,0.0,1,0,0.0,0,0,0.0,130,105,0
+1627774,2017,21700784,2018-02-04 12:00:00,Portland,Trail Blazers,Boston,Celtics,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,97,96,0
+1627774,2017,21700790,2018-02-05 19:00:00,Portland,Trail Blazers,Detroit,Pistons,Regular Season,0,0,4.0,5,1,0,0,0,0,1,0,0,0,4,2,0.5,1,1,1.0,1,0,0.0,111,91,0
+1627774,2017,21700814,2018-02-08 22:00:00,Portland,Trail Blazers,Charlotte,Hornets,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,109,103,0
+1627774,2017,21700825,2018-02-09 22:30:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,0,1,2.0,0,0,0,0,0,0,1,0,0,-1,0,0,0.0,0,0,0.0,0,0,0.0,100,118,0
+1627774,2017,21700840,2018-02-11 21:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,1,0,1.0,0,0,0,0,0,0,0,0,0,-5,0,0,0.0,0,0,0.0,0,0,0.0,96,115,0
+1627774,2017,21700864,2018-02-14 22:30:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,123,117,0
+1627774,2017,21700882,2018-02-23 21:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,81,100,0
+1627774,2017,21700889,2018-02-24 21:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,104,106,0
+1627774,2017,21700911,2018-02-27 22:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,1,1,2.0,0,1,0,0,0,0,0,0,0,1,1,0,0.0,1,0,0.0,0,0,0.0,116,99,0
+1627774,2017,21700925,2018-03-01 22:30:00,Portland,Trail Blazers,Minnesota,Timberwolves,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,108,99,0
+1627774,2017,21700941,2018-03-03 22:00:00,Portland,Trail Blazers,Oklahoma City,Thunder,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,108,100,0
+1627774,2017,21700956,2018-03-05 22:30:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,103,108,0
+1627774,2017,21700962,2018-03-06 22:00:00,Portland,Trail Blazers,New York,Knicks,Regular Season,1,1,3.0,0,0,0,0,0,1,0,0,0,1,1,0,0.0,0,0,0.0,0,0,0.0,111,87,0
+1627774,2017,21700984,2018-03-09 22:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,2,0,0,0.0,0,0,0.0,0,0,0.0,125,108,0
+1627774,2017,21701004,2018-03-12 22:30:00,Portland,Trail Blazers,Miami,Heat,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,115,99,0
+1627774,2017,21701028,2018-03-15 22:00:00,Portland,Trail Blazers,Cleveland,Cavaliers,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,113,105,0
+1627774,2017,21701045,2018-03-17 22:00:00,Portland,Trail Blazers,Detroit,Pistons,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,100,87,0
+1627774,2017,21701049,2018-03-18 22:30:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,0,1,2.0,0,0,0,0,0,0,0,1,0,-5,0,0,0.0,0,0,0.0,0,0,0.0,109,122,0
+1627774,2017,21701064,2018-03-20 22:30:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,111,115,0
+1627774,2017,21701086,2018-03-23 22:00:00,Portland,Trail Blazers,Boston,Celtics,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,100,105,0
+1627774,2017,21701100,2018-03-25 19:00:00,Portland,Trail Blazers,Oklahoma City,Thunder,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,105,108,0
+1627774,2017,21701112,2018-03-27 20:00:00,Portland,Trail Blazers,New Orleans,Pelicans,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,103,107,0
+1627774,2017,21701119,2018-03-28 20:00:00,Portland,Trail Blazers,Memphis,Grizzlies,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,108,103,0
+1627774,2017,21701137,2018-03-30 22:30:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,1,1,1.0,0,0,0,0,0,0,0,0,0,-2,0,0,0.0,0,0,0.0,0,0,0.0,105,96,0
+1627774,2017,21701154,2018-04-01 21:00:00,Portland,Trail Blazers,Memphis,Grizzlies,Regular Season,1,1,1.0,0,0,0,0,0,0,0,0,0,-3,0,0,0.0,0,0,0.0,0,0,0.0,113,98,0
+1627774,2017,21701164,2018-04-03 20:30:00,Portland,Trail Blazers,Dallas,Mavericks,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,115,109,0
+1627774,2017,21701177,2018-04-05 20:00:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,0,0,3.0,4,1,2,2,0,0,0,0,0,15,3,2,0.667,1,0,0.0,0,0,0.0,96,94,0
+1627774,2017,21701196,2018-04-07 21:00:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,116,105,0
+1627774,2017,21701211,2018-04-09 21:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,88,82,0
+1627774,2017,21701229,2018-04-11 22:30:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,1,1,1.0,0,0,0,0,0,0,0,0,0,-1,0,0,0.0,0,0,0.0,0,0,0.0,102,93,0
+1627774,2017,41700161,2018-04-14 22:30:00,Portland,Trail Blazers,New Orleans,Pelicans,Playoffs,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,95,97,0
+1627774,2017,41700163,2018-04-19 21:00:00,Portland,Trail Blazers,New Orleans,Pelicans,Playoffs,0,0,7.0,6,1,1,1,0,0,2,0,0,11,3,3,1.0,0,0,0.0,0,0,0.0,119,102,0
+1627774,2017,41700164,2018-04-21 17:00:00,Portland,Trail Blazers,New Orleans,Pelicans,Playoffs,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,131,123,0
+1627774,2018,11800003,2018-09-29 19:00:00,Portland,Trail Blazers,Toronto,Raptors,Preseason,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,,0,0,,122,104,0
+1627774,2018,11800038,2018-10-05 22:00:00,Portland,Trail Blazers,Phoenix,Suns,Preseason,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,,0,0,,93,115,0
+1627774,2018,11800046,2018-10-07 21:00:00,Portland,Trail Blazers,Utah,Jazz,Preseason,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,,0,0,,112,123,0
+1627774,2018,11800064,2018-10-10 22:00:00,Portland,Trail Blazers,Phoenix,Suns,Preseason,1,1,28.0,28,4,3,3,0,0,1,0,1,23,14,10,0.714,7,5,0.714,4,3,0.75,116,83,0
+1627774,2018,11800078,2018-10-12 22:00:00,Portland,Trail Blazers,Sacramento,Kings,Preseason,1,1,20.0,10,2,3,3,0,0,1,1,3,10,7,3,0.429,3,1,0.333,3,3,1.0,118,115,0
+1627774,2018,21800016,2018-10-18 22:30:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,1,1,12.0,3,0,2,2,0,0,1,1,1,-3,4,1,0.25,4,1,0.25,0,0,0.0,128,119,0
+1627774,2018,21800034,2018-10-20 22:00:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,1,1,15.0,5,0,6,4,2,1,0,0,0,-3,4,2,0.5,0,0,0.0,2,1,0.5,121,108,0
+1627774,2018,21800046,2018-10-22 22:00:00,Portland,Trail Blazers,Washington,Wizards,Regular Season,1,0,12.0,4,1,0,0,0,0,1,2,2,-6,4,2,0.5,2,0,0.0,0,0,0.0,124,125,0
+1627774,2018,21800064,2018-10-25 19:00:00,Portland,Trail Blazers,Orlando,Magic,Regular Season,0,1,5.0,3,0,0,0,0,0,0,0,0,0,1,1,1.0,1,1,1.0,0,0,0.0,114,128,0
+1627774,2018,21800079,2018-10-27 20:00:00,Portland,Trail Blazers,Miami,Heat,Regular Season,0,0,12.0,7,1,0,0,0,0,0,0,0,0,4,3,0.75,2,1,0.5,0,0,0.0,120,111,0
+1627774,2018,21800087,2018-10-29 19:00:00,Portland,Trail Blazers,Indiana,Pacers,Regular Season,0,1,12.0,0,1,2,2,0,0,0,0,1,-2,2,0,0.0,1,0,0.0,0,0,0.0,93,103,0
+1627774,2018,21800101,2018-10-30 20:00:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,0,1,14.0,7,0,1,1,0,0,0,0,0,15,5,3,0.6,1,1,1.0,0,0,0.0,85,104,0
+1627774,2018,21800116,2018-11-01 22:30:00,Portland,Trail Blazers,New Orleans,Pelicans,Regular Season,1,1,15.0,11,0,2,1,1,2,0,1,3,-1,4,4,1.0,3,3,1.0,0,0,0.0,132,119,0
+1627774,2018,21800132,2018-11-03 22:00:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,1,0,18.0,6,0,7,4,3,0,2,0,1,-11,4,3,0.75,0,0,0.0,0,0,0.0,110,114,0
+1627774,2018,21800138,2018-11-04 21:00:00,Portland,Trail Blazers,Minnesota,Timberwolves,Regular Season,1,1,24.0,8,0,6,3,3,0,1,1,3,8,8,4,0.5,2,0,0.0,0,0,0.0,111,81,0
+1627774,2018,21800152,2018-11-06 22:00:00,Portland,Trail Blazers,Milwaukee,Bucks,Regular Season,1,1,15.0,10,0,2,2,0,1,1,0,0,-3,9,4,0.444,6,2,0.333,0,0,0.0,118,103,0
+1627774,2018,21800165,2018-11-08 22:00:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,1,1,13.0,0,0,3,3,0,0,0,0,1,4,1,0,0.0,0,0,0.0,0,0,0.0,116,105,0
+1627774,2018,21800188,2018-11-11 21:00:00,Portland,Trail Blazers,Boston,Celtics,Regular Season,1,1,14.0,8,1,2,2,0,1,1,3,0,-2,3,3,1.0,2,2,1.0,0,0,0.0,100,94,0
+1627774,2018,21800212,2018-11-14 22:30:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,0,0,23.0,6,0,4,3,1,0,1,1,4,14,2,2,1.0,2,2,1.0,0,0,0.0,126,117,0
+1627774,2018,21800221,2018-11-16 20:00:00,Portland,Trail Blazers,Minnesota,Timberwolves,Regular Season,0,0,15.0,4,0,1,0,1,0,0,0,0,-9,5,1,0.2,2,0,0.0,4,2,0.5,112,96,0
+1627774,2018,21800237,2018-11-18 18:00:00,Portland,Trail Blazers,Washington,Wizards,Regular Season,0,1,26.0,7,2,2,2,0,1,2,1,1,9,7,3,0.429,5,1,0.2,0,0,0.0,109,119,0
+1627774,2018,21800251,2018-11-20 19:30:00,Portland,Trail Blazers,New York,Knicks,Regular Season,0,1,17.0,3,1,3,2,1,1,0,0,0,-8,3,1,0.333,3,1,0.333,0,0,0.0,114,118,0
+1627774,2018,21800259,2018-11-21 20:00:00,Portland,Trail Blazers,Milwaukee,Bucks,Regular Season,0,0,9.0,2,0,0,0,0,0,0,1,1,-12,3,1,0.333,2,0,0.0,0,0,0.0,143,100,0
+1627774,2018,21800277,2018-11-23 22:30:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,0,0,20.0,2,0,1,1,0,0,0,1,2,-15,3,1,0.333,1,0,0.0,0,0,0.0,125,97,0
+1627774,2018,21800293,2018-11-25 21:00:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,100,104,0
+1627774,2018,21800314,2018-11-28 22:00:00,Portland,Trail Blazers,Orlando,Magic,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,115,112,0
+1627774,2018,21800329,2018-11-30 22:30:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,112,113,0
+1627774,2018,21800342,2018-12-02 19:00:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,131,118,0
+1627774,2018,21800352,2018-12-04 20:30:00,Portland,Trail Blazers,Dallas,Mavericks,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,111,102,0
+1627774,2018,21800366,2018-12-06 22:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,1,1,26.0,24,0,7,5,2,0,2,2,2,19,13,10,0.769,5,3,0.6,3,1,0.333,108,86,0
+1627774,2018,21800385,2018-12-08 22:00:00,Portland,Trail Blazers,Minnesota,Timberwolves,Regular Season,1,1,15.0,6,0,2,1,1,0,2,0,3,-6,10,2,0.2,6,0,0.0,2,2,1.0,113,105,0
+1627774,2018,21800402,2018-12-11 20:00:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,0,0,4.0,0,0,0,0,0,0,0,0,0,-12,2,0,0.0,0,0,0.0,0,0,0.0,111,104,0
+1627774,2018,21800410,2018-12-12 20:00:00,Portland,Trail Blazers,Memphis,Grizzlies,Regular Season,0,0,14.0,2,0,4,3,1,1,1,0,1,-3,1,1,1.0,0,0,0.0,0,0,0.0,92,83,0
+1627774,2018,21800427,2018-12-14 22:00:00,Portland,Trail Blazers,Toronto,Raptors,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,128,122,0
+1627774,2018,21800450,2018-12-17 22:30:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,127,131,0
+1627774,2018,21800465,2018-12-19 22:00:00,Portland,Trail Blazers,Memphis,Grizzlies,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,99,92,0
+1627774,2018,21800476,2018-12-21 22:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,1,0,5.0,3,0,1,0,1,0,0,0,0,-5,0,0,0.0,0,0,0.0,4,3,0.75,90,120,0
+1627774,2018,21800495,2018-12-23 21:00:00,Portland,Trail Blazers,Dallas,Mavericks,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,121,118,0
+1627774,2018,21800501,2018-12-25 22:30:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,0,0,2.0,0,0,0,0,0,0,0,0,0,-3,1,0,0.0,1,0,0.0,0,0,0.0,117,96,0
+1627774,2018,21800516,2018-12-27 22:30:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,109,110,0
+1627774,2018,21800534,2018-12-29 22:00:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,1,0,1.0,0,1,1,1,0,0,0,0,0,2,1,0,0.0,1,0,0.0,0,0,0.0,105,115,0
+1627774,2018,21800540,2018-12-30 21:00:00,Portland,Trail Blazers,Philadelphia,76ers,Regular Season,1,1,11.0,3,1,2,1,1,0,0,2,3,15,3,1,0.333,2,1,0.5,0,0,0.0,129,95,0
+1627774,2018,21800552,2019-01-01 21:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,108,113,0
+1627774,2018,21800575,2019-01-04 22:30:00,Portland,Trail Blazers,Oklahoma City,Thunder,Regular Season,1,0,12.0,11,0,1,1,0,0,0,1,0,5,7,5,0.714,2,1,0.5,0,0,0.0,109,111,0
+1627774,2018,21800582,2019-01-05 22:00:00,Portland,Trail Blazers,Houston,Rockets,Regular Season,1,1,21.0,9,0,2,2,0,0,1,0,1,-3,7,3,0.429,4,1,0.25,2,2,1.0,110,101,0
+1627774,2018,21800597,2019-01-07 22:00:00,Portland,Trail Blazers,New York,Knicks,Regular Season,1,1,21.0,10,4,11,7,4,0,0,0,0,2,5,3,0.6,2,1,0.5,4,3,0.75,111,101,0
+1627774,2018,21800615,2019-01-09 22:00:00,Portland,Trail Blazers,Chicago,Bulls,Regular Season,1,1,17.0,2,0,2,1,1,0,0,0,0,-5,4,1,0.25,2,0,0.0,0,0,0.0,124,112,0
+1627774,2018,21800628,2019-01-11 22:00:00,Portland,Trail Blazers,Charlotte,Hornets,Regular Season,1,1,26.0,9,2,5,4,1,0,0,0,2,15,10,4,0.4,4,1,0.25,0,0,0.0,127,96,0
+1627774,2018,21800643,2019-01-13 20:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,0,0,18.0,13,0,2,2,0,0,0,0,1,4,6,5,0.833,2,1,0.5,2,2,1.0,116,113,0
+1627774,2018,21800649,2019-01-14 22:00:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,0,0,22.0,13,0,3,1,2,0,0,1,3,4,9,6,0.667,2,0,0.0,1,1,1.0,115,107,0
+1627774,2018,21800662,2019-01-16 22:00:00,Portland,Trail Blazers,Cleveland,Cavaliers,Regular Season,1,1,25.0,18,3,3,3,0,1,0,0,2,18,11,8,0.727,2,2,1.0,0,0,0.0,129,112,0
+1627774,2018,21800677,2019-01-18 22:30:00,Portland,Trail Blazers,New Orleans,Pelicans,Regular Season,1,1,18.0,20,0,1,0,1,0,0,0,1,8,14,8,0.571,9,4,0.444,0,0,0.0,128,112,0
+1627774,2018,21800700,2019-01-21 21:00:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,0,1,25.0,12,0,3,3,0,1,1,0,3,14,9,5,0.556,3,2,0.667,0,0,0.0,104,109,0
+1627774,2018,21800703,2019-01-22 20:00:00,Portland,Trail Blazers,Oklahoma City,Thunder,Regular Season,0,0,17.0,4,1,3,2,1,0,0,0,0,7,7,2,0.286,4,0,0.0,0,0,0.0,123,114,0
+1627774,2018,21800718,2019-01-24 21:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,0,1,33.0,20,3,8,6,2,2,1,3,5,11,15,9,0.6,6,2,0.333,0,0,0.0,106,120,0
+1627774,2018,21800734,2019-01-26 22:00:00,Portland,Trail Blazers,Atlanta,Hawks,Regular Season,1,1,25.0,6,1,5,3,2,0,0,1,1,-14,8,2,0.25,2,0,0.0,2,2,1.0,120,111,0
+1627774,2018,21800763,2019-01-30 22:30:00,Portland,Trail Blazers,Utah,Jazz,Regular Season,1,1,26.0,11,3,5,5,0,2,0,2,3,8,8,4,0.5,5,3,0.6,0,0,0.0,132,105,0
+1627774,2018,21800803,2019-02-05 22:30:00,Portland,Trail Blazers,Miami,Heat,Regular Season,1,0,32.0,25,2,8,6,2,0,1,0,2,-4,17,11,0.647,5,2,0.4,1,1,1.0,108,118,0
+1627774,2018,21800816,2019-02-07 22:30:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,1,1,30.0,13,2,3,3,0,0,1,1,1,15,10,5,0.5,5,1,0.2,2,2,1.0,127,118,0
+1627774,2018,21800834,2019-02-10 15:00:00,Portland,Trail Blazers,Dallas,Mavericks,Regular Season,0,0,25.0,9,1,1,1,0,0,0,2,3,4,7,4,0.571,2,1,0.5,0,0,0.0,102,101,0
+1627774,2018,21800846,2019-02-11 20:00:00,Portland,Trail Blazers,Oklahoma City,Thunder,Regular Season,0,0,28.0,17,1,4,2,2,4,0,0,1,-2,7,5,0.714,3,2,0.667,8,5,0.625,120,111,0
+1627774,2018,21800862,2019-02-13 22:30:00,Portland,Trail Blazers,Golden State,Warriors,Regular Season,1,1,26.0,17,1,2,2,0,0,2,0,1,21,9,7,0.778,5,3,0.6,0,0,0.0,129,107,0
+1627774,2018,21800869,2019-02-21 19:30:00,Portland,Trail Blazers,Brooklyn,Nets,Regular Season,0,1,23.0,6,0,5,3,2,3,1,2,3,-9,6,3,0.5,1,0,0.0,1,0,0.0,99,113,0
+1627774,2018,21800882,2019-02-23 13:00:00,Portland,Trail Blazers,Philadelphia,76ers,Regular Season,0,1,27.0,8,0,11,5,6,2,0,2,4,-6,8,3,0.375,2,0,0.0,2,2,1.0,115,130,0
+1627774,2018,21800898,2019-02-25 19:00:00,Portland,Trail Blazers,Cleveland,Cavaliers,Regular Season,0,1,16.0,7,2,3,3,0,0,0,0,1,-3,5,3,0.6,2,1,0.5,0,0,0.0,110,123,0
+1627774,2018,21800913,2019-02-27 20:00:00,Portland,Trail Blazers,Boston,Celtics,Regular Season,0,1,12.0,5,1,3,2,1,0,0,0,1,-11,3,2,0.667,2,1,0.5,0,0,0.0,92,97,0
+1627774,2018,21800930,2019-03-01 20:00:00,Portland,Trail Blazers,Toronto,Raptors,Regular Season,0,0,26.0,13,1,7,6,1,1,2,2,4,11,10,5,0.5,4,1,0.25,3,2,0.667,119,117,0
+1627774,2018,21800944,2019-03-03 13:00:00,Portland,Trail Blazers,Charlotte,Hornets,Regular Season,0,1,17.0,2,1,3,2,1,0,0,0,3,-8,4,1,0.25,2,0,0.0,0,0,0.0,108,118,0
+1627774,2018,21800962,2019-03-05 20:00:00,Portland,Trail Blazers,Memphis,Grizzlies,Regular Season,0,0,17.0,8,0,6,5,1,0,0,0,4,-6,6,4,0.667,2,0,0.0,0,0,0.0,120,111,0
+1627774,2018,21800976,2019-03-07 22:30:00,Portland,Trail Blazers,Oklahoma City,Thunder,Regular Season,1,0,15.0,0,1,1,1,0,0,0,1,4,0,3,0,0.0,3,0,0.0,0,0,0.0,121,129,0
+1627774,2018,21800991,2019-03-09 22:00:00,Portland,Trail Blazers,Phoenix,Suns,Regular Season,1,1,25.0,9,1,5,3,2,2,0,2,5,-8,7,4,0.571,2,0,0.0,2,1,0.5,127,120,0
+1627774,2018,21801013,2019-03-12 22:30:00,Portland,Trail Blazers,Los Angeles,Clippers,Regular Season,0,1,25.0,9,1,4,4,0,0,0,2,0,16,8,4,0.5,3,1,0.333,0,0,0.0,104,125,0
+1627774,2018,21801031,2019-03-15 20:00:00,Portland,Trail Blazers,New Orleans,Pelicans,Regular Season,0,1,13.0,0,1,1,1,0,1,0,1,1,-2,6,0,0.0,3,0,0.0,0,0,0.0,110,122,0
+1627774,2018,21801039,2019-03-16 20:30:00,Portland,Trail Blazers,San Antonio,Spurs,Regular Season,0,0,19.0,4,2,7,5,2,1,0,2,3,-1,4,2,0.5,1,0,0.0,0,0,0.0,108,103,0
+1627774,2018,21801058,2019-03-18 22:30:00,Portland,Trail Blazers,Indiana,Pacers,Regular Season,1,1,14.0,0,0,3,3,0,0,0,0,0,-1,5,0,0.0,3,0,0.0,0,0,0.0,106,98,0
+1627774,2018,21801073,2019-03-20 22:00:00,Portland,Trail Blazers,Dallas,Mavericks,Regular Season,1,1,24.0,13,0,3,3,0,1,0,0,4,-8,10,4,0.4,6,3,0.5,2,2,1.0,126,118,0
+1627774,2018,21801093,2019-03-23 22:00:00,Portland,Trail Blazers,Detroit,Pistons,Regular Season,1,1,13.0,2,0,0,0,0,0,0,1,1,1,1,0,0.0,1,0,0.0,4,2,0.5,117,112,0
+1627774,2018,21801106,2019-03-25 22:00:00,Portland,Trail Blazers,Brooklyn,Nets,Regular Season,1,1,13.0,0,1,0,0,0,0,0,0,0,0,1,0,0.0,1,0,0.0,0,0,0.0,148,144,0
+1627774,2018,21801117,2019-03-27 20:00:00,Portland,Trail Blazers,Chicago,Bulls,Regular Season,0,1,19.0,8,1,2,1,1,0,2,0,2,10,3,2,0.667,1,0,0.0,5,4,0.8,98,118,0
+1627774,2018,21801131,2019-03-29 19:30:00,Portland,Trail Blazers,Atlanta,Hawks,Regular Season,0,1,19.0,9,0,3,2,1,0,1,0,0,12,4,3,0.75,1,0,0.0,4,3,0.75,98,118,0
+1627774,2018,21801139,2019-03-30 19:00:00,Portland,Trail Blazers,Detroit,Pistons,Regular Season,0,0,24.0,10,2,3,2,1,1,1,0,3,7,10,5,0.5,3,0,0.0,0,0,0.0,99,90,0
+1627774,2018,21801157,2019-04-01 20:00:00,Portland,Trail Blazers,Minnesota,Timberwolves,Regular Season,0,1,13.0,11,0,1,1,0,0,0,0,0,7,6,3,0.5,3,1,0.333,6,4,0.667,122,132,0
+1627774,2018,21801175,2019-04-03 22:00:00,Portland,Trail Blazers,Memphis,Grizzlies,Regular Season,1,1,15.0,8,1,3,2,1,0,0,0,5,-1,6,4,0.667,1,0,0.0,0,0,0.0,116,89,0
+1627774,2018,21801190,2019-04-05 22:30:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,0,0,19.0,15,2,2,2,0,0,1,0,4,-18,10,6,0.6,5,3,0.6,0,0,0.0,119,110,0
+1627774,2018,21801206,2019-04-07 21:00:00,Portland,Trail Blazers,Denver,Nuggets,Regular Season,1,1,11.0,2,0,2,2,0,0,0,0,1,-4,2,1,0.5,1,0,0.0,0,0,0.0,115,108,0
+1627774,2018,21801219,2019-04-09 22:30:00,Portland,Trail Blazers,Los Angeles,Lakers,Regular Season,0,1,8.0,0,0,2,2,0,0,0,0,2,-2,4,0,0.0,2,0,0.0,0,0,0.0,101,104,0
+1627774,2018,21801230,2019-04-10 22:30:00,Portland,Trail Blazers,Sacramento,Kings,Regular Season,1,1,48.0,19,2,4,4,0,0,1,4,2,5,15,7,0.467,3,2,0.667,5,3,0.6,136,131,0
+1627774,2018,41800161,2019-04-14 15:30:00,Portland,Trail Blazers,Oklahoma City,Thunder,Playoffs,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,104,99,0
+1627774,2018,41800162,2019-04-16 22:30:00,Portland,Trail Blazers,Oklahoma City,Thunder,Playoffs,1,1,5.0,2,0,3,3,0,0,0,0,1,-3,1,0,0.0,1,0,0.0,2,2,1.0,114,94,0
+1627774,2018,41800163,2019-04-19 21:30:00,Portland,Trail Blazers,Oklahoma City,Thunder,Playoffs,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,120,108,0
+1627774,2018,41800164,2019-04-21 21:30:00,Portland,Trail Blazers,Oklahoma City,Thunder,Playoffs,0,1,0.0,2,0,0,0,0,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,98,111,0
+1627774,2018,41800165,2019-04-23 22:30:00,Portland,Trail Blazers,Oklahoma City,Thunder,Playoffs,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,118,115,0
+1627774,2018,41800231,2019-04-29 22:30:00,Portland,Trail Blazers,Denver,Nuggets,Playoffs,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,121,113,0
+1627774,2018,41800232,2019-05-01 21:00:00,Portland,Trail Blazers,Denver,Nuggets,Playoffs,0,1,5.0,0,0,0,0,0,0,0,0,2,-5,1,0,0.0,1,0,0.0,0,0,0.0,90,97,0
+1627774,2018,41800233,2019-05-03 22:30:00,Portland,Trail Blazers,Denver,Nuggets,Playoffs,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,140,137,0
+1627774,2018,41800234,2019-05-05 19:00:00,Portland,Trail Blazers,Denver,Nuggets,Playoffs,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,112,116,0
+1627774,2018,41800235,2019-05-07 22:30:00,Portland,Trail Blazers,Denver,Nuggets,Playoffs,0,0,5.0,1,0,1,0,1,0,0,0,0,-4,2,0,0.0,1,0,0.0,2,1,0.5,124,98,0
+1627774,2018,41800236,2019-05-09 22:30:00,Portland,Trail Blazers,Denver,Nuggets,Playoffs,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,119,108,0
+1627774,2018,41800237,2019-05-12 15:30:00,Portland,Trail Blazers,Denver,Nuggets,Playoffs,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,96,100,0
+1627774,2018,41800311,2019-05-14 21:00:00,Portland,Trail Blazers,Golden State,Warriors,Playoffs,0,0,2.0,0,0,0,0,0,0,0,0,0,-5,2,0,0.0,2,0,0.0,0,0,0.0,116,94,0
+1627774,2018,41800312,2019-05-16 21:00:00,Portland,Trail Blazers,Golden State,Warriors,Playoffs,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,114,111,0
+1627774,2018,41800313,2019-05-18 21:00:00,Portland,Trail Blazers,Golden State,Warriors,Playoffs,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,99,110,0
+1627774,2018,41800314,2019-05-20 21:00:00,Portland,Trail Blazers,Golden State,Warriors,Playoffs,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,117,119,0
+1627774,2019,11900022,2019-10-08 22:00:00,Minnesota,Timberwolves,Phoenix,Suns,Preseason,0,0,16.0,6,2,2,2,0,0,2,0,3,-1,9,3,0.333,6,0,0.0,1,0,0.0,111,106,0
+1627774,2019,11900035,2019-10-10 22:30:00,Minnesota,Timberwolves,Golden State,Warriors,Preseason,0,0,16.0,17,1,4,3,1,2,0,1,1,-11,9,5,0.556,5,2,0.4,6,5,0.833,143,123,0
+1627774,2019,11900060,2019-10-15 19:00:00,Minnesota,Timberwolves,Indiana,Pacers,Preseason,0,1,24.0,10,3,3,3,0,0,0,2,0,10,7,3,0.429,6,2,0.333,4,2,0.5,111,119,0
+1627774,2019,11900071,2019-10-17 20:00:00,Minnesota,Timberwolves,Milwaukee,Bucks,Preseason,0,0,25.0,7,1,7,6,1,0,0,2,2,0,8,3,0.375,4,1,0.25,0,0,0.0,118,96,0
+1627774,2019,21900006,2019-10-23 19:30:00,Minnesota,Timberwolves,Brooklyn,Nets,Regular Season,0,1,22.0,10,1,2,2,0,1,0,0,1,8,7,4,0.571,4,2,0.5,0,0,0.0,126,127,0
+1627774,2019,21900018,2019-10-25 19:00:00,Minnesota,Timberwolves,Charlotte,Hornets,Regular Season,0,1,25.0,12,0,1,1,0,1,0,3,3,21,13,4,0.308,9,4,0.444,0,0,0.0,99,121,0
+1627774,2019,21900039,2019-10-27 19:00:00,Minnesota,Timberwolves,Miami,Heat,Regular Season,1,1,25.0,6,2,3,2,1,0,1,1,4,11,9,3,0.333,3,0,0.0,1,0,0.0,116,109,0
+1627774,2019,21900057,2019-10-30 19:00:00,Minnesota,Timberwolves,Philadelphia,76ers,Regular Season,0,0,23.0,6,0,3,2,1,1,1,0,2,-8,6,3,0.5,1,0,0.0,0,0,0.0,117,95,0
+1627774,2019,21900080,2019-11-02 20:00:00,Minnesota,Timberwolves,Washington,Wizards,Regular Season,0,1,26.0,14,0,3,3,0,1,0,1,2,15,10,5,0.5,3,2,0.667,2,2,1.0,109,131,0
+1627774,2019,21900094,2019-11-04 20:00:00,Minnesota,Timberwolves,Milwaukee,Bucks,Regular Season,1,0,26.0,5,0,4,2,2,0,2,1,4,-21,10,2,0.2,3,0,0.0,1,1,1.0,106,134,0
+1627774,2019,21900108,2019-11-06 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,0,0,22.0,9,2,0,0,0,0,3,2,1,-12,7,3,0.429,3,1,0.333,2,2,1.0,137,121,0
+1627774,2019,21900120,2019-11-08 20:00:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,1,1,29.0,14,0,5,3,2,1,0,3,1,3,13,6,0.462,5,2,0.4,0,0,0.0,125,119,0
+1627774,2019,21900132,2019-11-10 15:30:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,1,0,26.0,8,1,5,4,1,2,0,0,3,0,12,4,0.333,6,0,0.0,0,0,0.0,98,100,0
+1627774,2019,21900140,2019-11-11 19:00:00,Minnesota,Timberwolves,Detroit,Pistons,Regular Season,0,1,33.0,16,1,2,0,2,1,2,3,1,5,9,6,0.667,5,4,0.8,1,0,0.0,114,120,0
+1627774,2019,21900158,2019-11-13 20:00:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,1,1,29.0,16,1,3,2,1,0,2,0,4,11,9,7,0.778,3,1,0.333,2,1,0.5,129,114,0
+1627774,2019,21900171,2019-11-15 20:00:00,Minnesota,Timberwolves,Washington,Wizards,Regular Season,1,0,27.0,4,1,4,3,1,0,0,3,1,-4,7,2,0.286,3,0,0.0,0,0,0.0,116,137,0
+1627774,2019,21900179,2019-11-16 20:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,1,0,36.0,21,2,5,5,0,1,1,1,3,-7,14,9,0.643,4,3,0.75,0,0,0.0,105,125,0
+1627774,2019,21900196,2019-11-18 21:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,0,1,13.0,6,0,1,0,1,1,0,0,1,-7,6,3,0.5,2,0,0.0,1,0,0.0,102,112,0
+1627774,2019,21900759,2020-02-05 20:00:00,Minnesota,Timberwolves,Atlanta,Hawks,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,120,127,0
+1627774,2019,21900796,2020-02-10 19:30:00,Minnesota,Timberwolves,Toronto,Raptors,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,137,126,0
+1627774,2019,21900813,2020-02-12 20:00:00,Minnesota,Timberwolves,Charlotte,Hornets,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,108,115,0
+1627774,2019,21900844,2020-02-23 18:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,128,116,0
+1627774,2019,21900854,2020-02-24 20:30:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,0,0,13.0,5,0,3,3,0,0,0,1,2,3,7,2,0.286,4,1,0.25,1,0,0.0,139,123,0
+1627774,2019,21900868,2020-02-26 19:30:00,Minnesota,Timberwolves,Miami,Heat,Regular Season,0,1,13.0,5,2,3,3,0,0,2,0,5,0,3,0,0.0,2,0,0.0,6,5,0.833,126,129,0
+1627774,2019,21900877,2020-02-28 19:00:00,Minnesota,Timberwolves,Orlando,Magic,Regular Season,0,0,13.0,9,0,0,0,0,0,1,1,1,-16,7,3,0.429,2,1,0.5,2,2,1.0,136,125,0
+1627774,2019,21900896,2020-03-01 15:30:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,1,0,14.0,6,0,2,2,0,0,0,0,1,12,7,2,0.286,2,1,0.5,2,1,0.5,91,111,0
+1627774,2019,21900911,2020-03-03 20:00:00,Minnesota,Timberwolves,New Orleans,Pelicans,Regular Season,0,1,13.0,2,0,0,0,0,0,0,0,0,-1,2,0,0.0,1,0,0.0,2,2,1.0,134,139,0
+1627774,2019,21900922,2020-03-04 20:00:00,Minnesota,Timberwolves,Chicago,Bulls,Regular Season,1,1,13.0,2,1,2,2,0,0,0,0,0,5,2,1,0.5,1,0,0.0,0,0,0.0,115,108,0
+1627774,2019,21900935,2020-03-06 20:00:00,Minnesota,Timberwolves,Orlando,Magic,Regular Season,1,0,17.0,14,1,2,1,1,0,1,0,0,3,8,5,0.625,3,1,0.333,3,3,1.0,118,132,0
+1627774,2019,21900947,2020-03-08 15:30:00,Minnesota,Timberwolves,New Orleans,Pelicans,Regular Season,1,0,19.0,11,0,1,0,1,0,1,2,2,9,6,4,0.667,1,0,0.0,4,3,0.75,107,120,0
+1627774,2019,21900963,2020-03-10 20:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,0,0,16.0,9,0,3,0,3,0,0,2,5,-8,5,3,0.6,2,1,0.5,2,2,1.0,117,111,0
+1627774,2020,12000010,2020-12-12 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Preseason,1,0,20.0,10,1,2,1,1,1,2,0,1,11,7,4,0.571,2,2,1.0,0,0,0.0,105,107,0
+1627774,2020,12000023,2020-12-14 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Preseason,1,0,22.0,6,0,3,2,1,0,2,0,2,-10,2,2,1.0,1,1,1.0,4,1,0.25,104,123,0
+1627774,2020,12000036,2020-12-17 20:30:00,Minnesota,Timberwolves,Dallas,Mavericks,Preseason,0,1,22.0,8,0,2,2,0,0,0,1,2,-3,6,3,0.5,2,1,0.5,2,1,0.5,127,129,0
+1627774,2020,22000018,2020-12-23 20:00:00,Minnesota,Timberwolves,Detroit,Pistons,Regular Season,1,1,16.0,0,0,1,1,0,0,0,0,0,-15,3,0,0.0,1,0,0.0,0,0,0.0,111,101,0
+1627774,2020,22000028,2020-12-26 21:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,0,1,13.0,0,1,0,0,0,0,1,0,2,0,0,0,0.0,0,0,0.0,0,0,0.0,111,116,0
+1627774,2020,22000040,2020-12-27 22:00:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,0,0,14.0,10,0,3,3,0,0,0,0,1,-17,8,4,0.5,1,0,0.0,2,2,1.0,127,91,0
+1627774,2020,22000054,2020-12-29 22:00:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,0,0,13.0,4,1,1,1,0,2,1,0,3,-7,4,2,0.5,1,0,0.0,0,0,0.0,124,101,0
+1627774,2020,22000074,2021-01-01 20:00:00,Minnesota,Timberwolves,Washington,Wizards,Regular Season,1,0,15.0,12,1,1,1,0,0,3,1,3,-1,6,2,0.333,3,1,0.333,9,7,0.778,109,130,0
+1627774,2020,22000088,2021-01-03 19:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,1,0,22.0,6,2,0,0,0,0,2,1,1,-8,4,2,0.5,2,0,0.0,2,2,1.0,109,124,0
+1627774,2020,22000104,2021-01-05 21:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,0,0,14.0,7,1,1,1,0,1,0,1,3,-9,3,2,0.667,2,1,0.5,2,2,1.0,123,116,0
+1627774,2020,22000122,2021-01-07 22:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,0,0,12.0,4,0,0,0,0,1,0,1,0,-10,4,2,0.5,2,0,0.0,0,0,0.0,135,117,0
+1627774,2020,22000138,2021-01-09 20:00:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,1,0,4.0,0,0,0,0,0,0,0,0,1,-5,0,0,0.0,0,0,0.0,0,0,0.0,122,125,0
+1627774,2020,22000147,2021-01-10 20:00:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,96,88,0
+1627774,2020,22000205,2021-01-18 14:30:00,Minnesota,Timberwolves,Atlanta,Hawks,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,108,97,0
+1627774,2020,22000221,2021-01-20 20:00:00,Minnesota,Timberwolves,Orlando,Magic,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,96,97,0
+1627774,2020,22000236,2021-01-22 20:00:00,Minnesota,Timberwolves,Atlanta,Hawks,Regular Season,1,0,12.0,7,1,2,1,1,0,1,0,1,5,5,3,0.6,2,0,0.0,1,1,1.0,98,116,0
+1627774,2020,22000246,2021-01-23 20:00:00,Minnesota,Timberwolves,New Orleans,Pelicans,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,120,110,0
+1627774,2020,22000266,2021-01-25 22:00:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,0,0,13.0,4,2,3,3,0,1,0,1,2,-10,4,2,0.5,0,0,0.0,0,0,0.0,130,108,0
+1627774,2020,22000283,2021-01-27 22:00:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,0,0,18.0,7,0,4,3,1,1,2,2,1,5,6,3,0.5,1,1,1.0,2,0,0.0,123,111,0
+1627774,2020,22000294,2021-01-29 20:00:00,Minnesota,Timberwolves,Philadelphia,76ers,Regular Season,1,0,21.0,6,0,4,3,1,1,0,0,1,5,4,2,0.5,3,2,0.667,0,0,0.0,94,118,0
+1627774,2020,22000311,2021-01-31 20:00:00,Minnesota,Timberwolves,Cleveland,Cavaliers,Regular Season,1,1,19.0,8,0,2,1,1,1,0,0,0,7,7,4,0.571,2,0,0.0,0,0,0.0,109,104,0
+1627774,2020,22000312,2021-02-01 20:00:00,Minnesota,Timberwolves,Cleveland,Cavaliers,Regular Season,0,0,14.0,5,0,1,1,0,0,0,0,0,10,4,2,0.5,3,1,0.333,0,0,0.0,100,98,0
+1627774,2020,22000334,2021-02-03 20:30:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,0,0,10.0,11,0,0,0,0,1,1,2,2,4,8,4,0.5,4,1,0.25,2,2,1.0,111,108,0
+1627774,2020,22000348,2021-02-05 20:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Regular Season,0,1,17.0,10,0,2,2,0,0,1,0,0,7,9,4,0.444,3,2,0.667,0,0,0.0,103,106,0
+1627774,2020,22000359,2021-02-06 20:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Regular Season,0,0,23.0,16,1,2,1,1,0,5,0,0,-8,9,6,0.667,5,2,0.4,3,2,0.667,120,118,0
+1627774,2020,22000370,2021-02-08 20:30:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,0,0,11.0,2,0,1,1,0,0,0,1,2,-15,4,1,0.25,2,0,0.0,0,0,0.0,127,122,0
+1627774,2020,22000387,2021-02-10 20:00:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,112,119,0
+1627774,2020,22000395,2021-02-12 19:00:00,Minnesota,Timberwolves,Charlotte,Hornets,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,120,114,0
+1627774,2020,22000413,2021-02-14 19:00:00,Minnesota,Timberwolves,Toronto,Raptors,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,112,116,0
+1627774,2020,22000431,2021-02-16 20:00:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,104,112,0
+1627774,2020,22000440,2021-02-17 20:00:00,Minnesota,Timberwolves,Indiana,Pacers,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,128,134,0
+1627774,2020,22000454,2021-02-19 21:00:00,Minnesota,Timberwolves,Toronto,Raptors,Regular Season,1,0,13.0,8,0,3,3,0,1,1,1,3,14,4,3,0.75,2,2,1.0,0,0,0.0,81,86,0
+1627774,2020,22000469,2021-02-21 19:00:00,Minnesota,Timberwolves,New York,Knicks,Regular Season,0,0,7.0,0,1,1,1,0,0,0,2,0,5,1,0,0.0,0,0,0.0,0,0,0.0,103,99,0
+1627774,2020,22000486,2021-02-23 20:00:00,Minnesota,Timberwolves,Milwaukee,Bucks,Regular Season,0,0,3.0,2,0,0,0,0,0,0,0,0,-7,3,1,0.333,2,0,0.0,0,0,0.0,139,112,0
+1627774,2020,22000493,2021-02-24 20:00:00,Minnesota,Timberwolves,Chicago,Bulls,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,133,126,0
+1627774,2020,22000517,2021-02-27 19:00:00,Minnesota,Timberwolves,Washington,Wizards,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,128,112,0
+1627774,2020,22000526,2021-02-28 21:00:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,1,0,30.0,11,4,4,3,1,1,0,3,1,-9,8,5,0.625,3,1,0.333,0,0,0.0,99,118,0
+1627774,2020,22000547,2021-03-03 20:00:00,Minnesota,Timberwolves,Charlotte,Hornets,Regular Season,1,0,25.0,14,1,1,0,1,0,2,1,0,-21,7,5,0.714,3,1,0.333,4,3,0.75,102,135,0
+1627774,2020,22000574,2021-03-11 20:00:00,Minnesota,Timberwolves,New Orleans,Pelicans,Regular Season,0,1,23.0,12,0,2,2,0,1,0,0,1,11,7,4,0.571,5,3,0.6,1,1,1.0,105,135,0
+1627774,2020,22000591,2021-03-13 20:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,1,0,28.0,3,3,5,2,3,0,1,2,2,-2,5,1,0.2,4,0,0.0,2,1,0.5,121,125,0
+1627774,2020,22000599,2021-03-14 20:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,1,1,20.0,5,1,2,2,0,0,0,1,1,10,4,2,0.5,2,1,0.5,0,0,0.0,114,112,0
+1627774,2020,22000615,2021-03-16 22:30:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,0,0,16.0,4,0,1,1,0,2,1,0,2,-4,6,2,0.333,2,0,0.0,0,0,0.0,137,121,0
+1627774,2020,22000628,2021-03-18 22:00:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,0,1,22.0,2,2,2,2,0,0,2,2,2,-2,2,1,0.5,1,0,0.0,0,0,0.0,119,123,0
+1627774,2020,22000638,2021-03-19 22:00:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,0,0,12.0,2,0,4,3,1,1,1,0,0,5,5,1,0.2,2,0,0.0,0,0,0.0,113,101,0
+1627774,2020,22000654,2021-03-22 20:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Regular Season,1,0,16.0,6,2,6,4,2,0,0,0,0,-10,7,3,0.429,2,0,0.0,0,0,0.0,103,112,0
+1627774,2020,22000673,2021-03-24 20:00:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,1,0,14.0,4,2,2,2,0,1,0,1,1,-12,2,2,1.0,0,0,0.0,0,0,0.0,108,128,0
+1627774,2020,22000688,2021-03-26 20:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,107,101,0
+1627774,2020,22000696,2021-03-27 20:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,1,0,5.0,0,0,0,0,0,0,0,0,0,7,0,0,0.0,0,0,0.0,0,0,0.0,107,129,0
+1627774,2020,22000709,2021-03-29 19:30:00,Minnesota,Timberwolves,Brooklyn,Nets,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,112,107,0
+1627774,2020,22000726,2021-03-31 20:00:00,Minnesota,Timberwolves,New York,Knicks,Regular Season,1,1,3.0,0,0,0,0,0,0,0,0,0,-2,0,0,0.0,0,0,0.0,0,0,0.0,102,101,0
+1627774,2020,22000741,2021-04-02 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,0,0,4.0,0,0,0,0,0,0,0,0,0,8,0,0,0.0,0,0,0.0,0,0,0.0,120,108,0
+1627774,2020,22000750,2021-04-03 20:00:00,Minnesota,Timberwolves,Philadelphia,76ers,Regular Season,0,0,18.0,6,0,0,0,0,0,1,0,2,-6,5,3,0.6,1,0,0.0,2,0,0.0,122,113,0
+1627774,2020,22000765,2021-04-05 19:00:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,1,1,2.0,0,0,0,0,0,0,1,1,0,6,1,0,0.0,1,0,0.0,0,0,0.0,116,106,0
+1627774,2020,22000776,2021-04-07 19:00:00,Minnesota,Timberwolves,Indiana,Pacers,Regular Season,0,0,16.0,9,1,2,2,0,0,0,0,1,-5,6,4,0.667,1,0,0.0,1,1,1.0,141,137,0
+1627774,2020,22000792,2021-04-09 19:30:00,Minnesota,Timberwolves,Boston,Celtics,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,145,136,0
+1627774,2020,22000812,2021-04-11 20:00:00,Minnesota,Timberwolves,Chicago,Bulls,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,121,117,0
+1627774,2020,22000817,2021-04-13 16:00:00,Minnesota,Timberwolves,Brooklyn,Nets,Regular Season,1,0,12.0,9,0,1,1,0,1,1,0,1,0,5,3,0.6,4,2,0.5,2,1,0.5,97,127,0
+1627774,2020,22000834,2021-04-14 16:30:00,Minnesota,Timberwolves,Milwaukee,Bucks,Regular Season,1,0,5.0,3,0,0,0,0,0,1,2,0,-2,4,1,0.25,1,0,0.0,2,1,0.5,105,130,0
+1627774,2020,22000852,2021-04-16 20:00:00,Minnesota,Timberwolves,Miami,Heat,Regular Season,1,1,4.0,0,0,0,0,0,0,0,0,1,-3,0,0,0.0,0,0,0.0,0,0,0.0,119,111,0
+1627774,2020,22000867,2021-04-18 22:00:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,0,0,4.0,2,1,0,0,0,0,0,0,0,3,1,1,1.0,0,0,0.0,0,0,0.0,124,105,0
+1627774,2020,22000880,2021-04-20 22:00:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,120,134,0
+1627774,2020,22000891,2021-04-21 22:00:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,128,125,0
+1627774,2020,22000909,2021-04-24 21:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,96,101,0
+1627774,2020,22000923,2021-04-26 20:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,105,104,0
+1627774,2020,22000931,2021-04-27 21:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,107,114,0
+1627774,2020,22000946,2021-04-29 20:00:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,126,114,0
+1627774,2020,22000962,2021-05-01 20:00:00,Minnesota,Timberwolves,New Orleans,Pelicans,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,136,140,0
+1627774,2020,22000183,2021-05-05 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,135,139,0
+1627774,2020,22001005,2021-05-07 20:00:00,Minnesota,Timberwolves,Miami,Heat,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,121,112,0
+1627774,2020,22001022,2021-05-09 19:00:00,Minnesota,Timberwolves,Orlando,Magic,Regular Season,0,1,7.0,5,0,1,1,0,1,0,0,1,-3,4,2,0.5,2,1,0.5,0,0,0.0,96,128,0
+1627774,2020,22001033,2021-05-11 19:00:00,Minnesota,Timberwolves,Detroit,Pistons,Regular Season,0,1,2.0,0,0,0,0,0,1,0,0,1,-5,0,0,0.0,0,0,0.0,0,0,0.0,100,119,0
+1627774,2020,22001052,2021-05-13 20:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,103,114,0
+1627774,2020,22001063,2021-05-15 14:00:00,Minnesota,Timberwolves,Boston,Celtics,Regular Season,1,0,15.0,5,0,2,2,0,0,0,0,1,5,5,2,0.4,3,1,0.333,0,0,0.0,108,124,0
+1627774,2020,22001071,2021-05-16 21:00:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,136,121,0
+1627774,2021,12100005,2021-10-04 20:00:00,Minnesota,Timberwolves,New Orleans,Pelicans,Preseason,1,1,10.0,5,0,2,2,0,0,0,1,1,-12,4,2,0.5,2,1,0.5,0,0,0.0,117,114,0
+1627774,2021,12100030,2021-10-08 21:00:00,Minnesota,Timberwolves,Denver,Nuggets,Preseason,0,1,12.0,8,0,2,2,0,0,1,0,1,7,4,3,0.75,2,1,0.5,2,1,0.5,112,114,0
+1627774,2021,12100045,2021-10-11 22:30:00,Minnesota,Timberwolves,Los Angeles,Clippers,Preseason,0,1,3.0,2,0,0,0,0,0,1,0,0,1,2,1,0.5,1,0,0.0,0,0,0.0,100,128,0
+1627774,2021,12100056,2021-10-14 19:30:00,Minnesota,Timberwolves,Brooklyn,Nets,Preseason,0,0,16.0,6,1,3,3,0,1,1,0,2,3,3,2,0.667,1,0,0.0,2,2,1.0,107,101,0
+1627774,2021,22100008,2021-10-20 20:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,1,1,4.0,2,0,0,0,0,0,0,0,0,-11,3,1,0.333,1,0,0.0,0,0,0.0,124,106,0
+1627774,2021,22100031,2021-10-23 20:00:00,Minnesota,Timberwolves,New Orleans,Pelicans,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,96,89,0
+1627774,2021,22100047,2021-10-25 20:00:00,Minnesota,Timberwolves,New Orleans,Pelicans,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,98,107,0
+1627774,2021,22100060,2021-10-27 20:00:00,Minnesota,Timberwolves,Milwaukee,Bucks,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,108,113,0
+1627774,2021,22100087,2021-10-30 21:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,91,93,0
+1627774,2021,22100101,2021-11-01 20:00:00,Minnesota,Timberwolves,Orlando,Magic,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,97,115,0
+1627774,2021,22100115,2021-11-03 20:00:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,115,126,0
+1627774,2021,22100129,2021-11-05 20:00:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,1,0,3.0,0,0,1,1,0,0,1,0,0,-2,0,0,0.0,0,0,0.0,0,0,0.0,84,104,0
+1627774,2021,22100149,2021-11-08 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,125,118,0
+1627774,2021,22100169,2021-11-10 22:00:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,123,110,0
+1627774,2021,22100184,2021-11-12 22:30:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,0,1,3.0,0,0,0,0,0,0,0,1,0,1,1,0,0.0,0,0,0.0,0,0,0.0,83,107,0
+1627774,2021,22100191,2021-11-13 22:30:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,0,0,5.0,3,0,1,1,0,0,0,0,1,0,3,1,0.333,1,1,1.0,0,0,0.0,129,102,0
+1627774,2021,22100206,2021-11-15 20:00:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,96,99,0
+1627774,2021,22100220,2021-11-17 20:00:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,107,97,0
+1627774,2021,22100227,2021-11-18 20:00:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,115,90,0
+1627774,2021,22100245,2021-11-20 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,1,1,7.0,0,0,1,1,0,0,0,0,0,9,2,0,0.0,2,0,0.0,0,0,0.0,138,95,0
+1627774,2021,22100259,2021-11-22 20:00:00,Minnesota,Timberwolves,New Orleans,Pelicans,Regular Season,0,1,2.0,0,0,0,0,0,0,0,0,0,-8,0,0,0.0,0,0,0.0,0,0,0.0,96,110,0
+1627774,2021,22100274,2021-11-24 20:00:00,Minnesota,Timberwolves,Miami,Heat,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,113,101,0
+1627774,2021,22100281,2021-11-26 19:00:00,Minnesota,Timberwolves,Charlotte,Hornets,Regular Season,0,0,6.0,2,0,2,1,1,1,0,1,0,4,1,1,1.0,0,0,0.0,0,0,0.0,133,115,0
+1627774,2021,22100292,2021-11-27 18:00:00,Minnesota,Timberwolves,Philadelphia,76ers,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,120,121,0
+1627774,2021,22100309,2021-11-29 20:00:00,Minnesota,Timberwolves,Indiana,Pacers,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,100,98,0
+1627774,2021,22100321,2021-12-01 19:00:00,Minnesota,Timberwolves,Washington,Wizards,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,115,107,0
+1627774,2021,22100336,2021-12-03 19:30:00,Minnesota,Timberwolves,Brooklyn,Nets,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,110,105,0
+1627774,2021,22100359,2021-12-06 20:00:00,Minnesota,Timberwolves,Atlanta,Hawks,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,110,121,0
+1627774,2021,22100374,2021-12-08 20:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,1,0,4.0,0,0,1,1,0,0,0,0,0,-9,1,0,0.0,1,0,0.0,0,0,0.0,104,136,0
+1627774,2021,22100387,2021-12-10 20:00:00,Minnesota,Timberwolves,Cleveland,Cavaliers,Regular Season,1,0,4.0,3,1,1,1,0,0,0,0,1,11,2,1,0.5,1,1,1.0,0,0,0.0,106,123,0
+1627774,2021,22100402,2021-12-12 21:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,111,116,0
+1627774,2021,22100424,2021-12-15 21:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,0,1,2.0,0,0,0,0,0,0,0,0,0,-2,0,0,0.0,0,0,0.0,0,0,0.0,107,124,0
+1627774,2021,22100436,2021-12-17 22:00:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,1,1,7.0,0,0,3,3,0,0,0,0,0,-3,2,0,0.0,1,0,0.0,2,0,0.0,110,92,0
+1627774,2021,22100455,2021-12-19 20:00:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,111,105,0
+1627774,2021,22100468,2021-12-21 20:30:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,0,0,8.0,3,0,0,0,0,0,0,1,2,-8,3,1,0.333,2,0,0.0,1,1,1.0,114,102,0
+1627774,2021,22100484,2021-12-23 21:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,0,0,36.0,13,0,7,4,3,1,2,3,2,-10,11,6,0.545,5,1,0.2,0,0,0.0,128,116,0
+1627774,2021,22100503,2021-12-27 20:00:00,Minnesota,Timberwolves,Boston,Celtics,Regular Season,1,1,23.0,6,3,4,4,0,1,1,0,1,-3,7,2,0.286,3,0,0.0,2,2,1.0,108,103,0
+1627774,2021,22100512,2021-12-28 20:00:00,Minnesota,Timberwolves,New York,Knicks,Regular Season,1,0,16.0,9,0,1,1,0,0,0,0,1,-1,4,3,0.75,2,1,0.5,2,2,1.0,88,96,0
+1627774,2021,22100537,2021-12-31 21:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,0,0,8.0,3,0,1,1,0,0,0,1,0,4,2,1,0.5,1,0,0.0,1,1,1.0,120,108,0
+1627774,2021,22100551,2022-01-02 21:30:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,108,103,0
+1627774,2021,22100561,2022-01-03 22:30:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,104,122,0
+1627774,2021,22100574,2022-01-05 20:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,98,90,0
+1627774,2021,22100587,2022-01-07 20:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Regular Season,0,1,5.0,0,1,0,0,0,0,1,0,0,-8,3,0,0.0,3,0,0.0,0,0,0.0,105,135,0
+1627774,2021,22100600,2022-01-09 19:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,0,1,1.0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,1,0,0.0,0,0,0.0,123,141,0
+1627774,2021,22100615,2022-01-11 20:00:00,Minnesota,Timberwolves,New Orleans,Pelicans,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,128,125,0
+1627774,2021,22100628,2022-01-13 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,116,108,0
+1627774,2021,22100652,2022-01-16 20:00:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,1,1,2.0,0,0,0,0,0,0,1,0,0,-2,0,0,0.0,0,0,0.0,0,0,0.0,119,99,0
+1627774,2021,22100666,2022-01-18 19:30:00,Minnesota,Timberwolves,New York,Knicks,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,110,112,0
+1627774,2021,22100670,2022-01-19 19:30:00,Minnesota,Timberwolves,Atlanta,Hawks,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,134,122,0
+1627774,2021,22100706,2022-01-23 20:00:00,Minnesota,Timberwolves,Brooklyn,Nets,Regular Season,1,1,1.0,0,0,0,0,0,0,0,0,0,-1,0,0,0.0,0,0,0.0,0,0,0.0,136,125,0
+1627774,2021,22100721,2022-01-25 22:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,107,109,0
+1627774,2021,22100734,2022-01-27 22:00:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,124,115,0
+1627774,2021,22100743,2022-01-28 21:00:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,134,124,0
+1627774,2021,22100757,2022-01-30 20:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,1,1,2.0,2,2,0,0,0,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,126,106,0
+1627774,2021,22100770,2022-02-01 20:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,1,1,4.0,0,0,0,0,0,1,0,0,1,-9,2,0,0.0,2,0,0.0,0,0,0.0,130,115,0
+1627774,2021,22100782,2022-02-03 19:00:00,Minnesota,Timberwolves,Detroit,Pistons,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,117,128,0
+1627774,2021,22100803,2022-02-06 15:30:00,Minnesota,Timberwolves,Detroit,Pistons,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,118,105,0
+1627774,2021,22100824,2022-02-08 22:00:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,0,1,3.0,0,0,1,1,0,0,0,0,0,-2,0,0,0.0,0,0,0.0,0,0,0.0,114,134,0
+1627774,2021,22100830,2022-02-09 22:00:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,132,119,0
+1627774,2021,22100843,2022-02-11 20:00:00,Minnesota,Timberwolves,Chicago,Bulls,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,134,122,0
+1627774,2021,22100857,2022-02-13 15:00:00,Minnesota,Timberwolves,Indiana,Pacers,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,120,129,0
+1627774,2021,22100871,2022-02-15 20:00:00,Minnesota,Timberwolves,Charlotte,Hornets,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,126,120,0
+1627774,2021,22100880,2022-02-16 20:00:00,Minnesota,Timberwolves,Toronto,Raptors,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,91,103,0
+1627774,2021,22100892,2022-02-24 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,119,114,0
+1627774,2021,22100901,2022-02-25 20:00:00,Minnesota,Timberwolves,Philadelphia,76ers,Regular Season,1,0,4.0,2,0,0,0,0,0,0,0,0,-4,2,1,0.5,0,0,0.0,0,0,0.0,102,133,0
+1627774,2021,22100920,2022-02-28 19:00:00,Minnesota,Timberwolves,Cleveland,Cavaliers,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,122,127,0
+1627774,2021,22100930,2022-03-01 20:00:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,129,114,0
+1627774,2021,22100951,2022-03-04 20:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Regular Season,0,1,5.0,0,0,0,0,0,0,0,0,0,8,0,0,0.0,0,0,0.0,0,0,0.0,101,138,0
+1627774,2021,22100958,2022-03-05 20:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,135,121,0
+1627774,2021,22100971,2022-03-07 20:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,1,1,12.0,5,1,7,5,2,1,0,1,1,13,6,1,0.167,2,0,0.0,4,3,0.75,124,81,0
+1627774,2021,22100986,2022-03-09 20:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Regular Season,1,1,4.0,4,0,0,0,0,0,0,0,1,3,2,2,1.0,0,0,0.0,0,0,0.0,132,102,0
+1627774,2021,22100995,2022-03-11 19:00:00,Minnesota,Timberwolves,Orlando,Magic,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,118,110,0
+1627774,2021,22101005,2022-03-12 20:00:00,Minnesota,Timberwolves,Miami,Heat,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,104,113,0
+1627774,2021,22101024,2022-03-14 20:30:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,139,149,0
+1627774,2021,22101039,2022-03-16 20:00:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,1,1,1.0,3,0,0,0,0,0,0,0,0,1,1,1,1.0,1,1,1.0,0,0,0.0,124,104,0
+1627774,2021,22101058,2022-03-19 17:00:00,Minnesota,Timberwolves,Milwaukee,Bucks,Regular Season,1,1,3.0,0,0,0,0,0,0,0,0,0,-2,0,0,0.0,0,0,0.0,0,0,0.0,138,119,0
+1627774,2021,22101079,2022-03-21 20:30:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,110,108,0
+1627774,2021,22101090,2022-03-23 20:00:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,1,0,1.0,0,0,1,1,0,0,0,0,0,4,0,0,0.0,0,0,0.0,0,0,0.0,116,125,0
+1627774,2021,22101104,2022-03-25 20:00:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,1,1,3.0,3,0,0,0,0,0,0,0,0,-2,2,1,0.5,1,1,1.0,0,0,0.0,116,95,0
+1627774,2021,22101116,2022-03-27 18:00:00,Minnesota,Timberwolves,Boston,Celtics,Regular Season,0,0,4.0,2,1,0,0,0,0,0,1,1,-1,3,1,0.333,1,0,0.0,0,0,0.0,134,112,0
+1627774,2021,22101141,2022-03-30 19:30:00,Minnesota,Timberwolves,Toronto,Raptors,Regular Season,0,0,5.0,6,0,1,1,0,0,0,1,0,2,5,2,0.4,3,1,0.333,2,1,0.5,125,102,0
+1627774,2021,22101159,2022-04-01 21:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,130,136,0
+1627774,2021,22101173,2022-04-03 19:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,132,139,0
+1627774,2021,22101184,2022-04-05 20:00:00,Minnesota,Timberwolves,Washington,Wizards,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,114,132,0
+1627774,2021,22101199,2022-04-07 20:00:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,127,121,0
+1627774,2021,22101224,2022-04-10 20:30:00,Minnesota,Timberwolves,Chicago,Bulls,Regular Season,1,0,16.0,10,0,3,3,0,0,1,0,0,16,3,3,1.0,1,1,1.0,4,3,0.75,120,124,0
+1627774,2021,52100121,2022-04-12 21:30:00,Minnesota,Timberwolves,Los Angeles,Clippers,Play-in Tournament,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,109,104,0
+1627774,2021,42100151,2022-04-16 15:30:00,Minnesota,Timberwolves,Memphis,Grizzlies,Playoffs,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,117,130,0
+1627774,2021,42100152,2022-04-19 20:30:00,Minnesota,Timberwolves,Memphis,Grizzlies,Playoffs,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,124,96,0
+1627774,2021,42100153,2022-04-21 19:30:00,Minnesota,Timberwolves,Memphis,Grizzlies,Playoffs,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,95,104,0
+1627774,2021,42100154,2022-04-23 22:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Playoffs,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,119,118,0
+1627774,2021,42100155,2022-04-26 19:30:00,Minnesota,Timberwolves,Memphis,Grizzlies,Playoffs,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,111,109,0
+1627774,2021,42100156,2022-04-29 21:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Playoffs,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,106,114,0
+1627774,2022,12200005,2022-10-02 13:00:00,Boston,Celtics,Charlotte,Hornets,Preseason,1,1,9.0,3,0,1,1,0,0,0,0,0,9,3,1,0.333,1,0,0.0,1,1,1.0,134,93,0
+1627774,2022,12200020,2022-10-05 19:30:00,Boston,Celtics,Toronto,Raptors,Preseason,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,119,125,0
+1627774,2022,12200029,2022-10-07 19:30:00,Boston,Celtics,Charlotte,Hornets,Preseason,0,1,16.0,5,2,3,2,1,0,1,1,2,16,4,1,0.25,2,1,0.5,2,2,1.0,103,112,0
+1627774,2022,12200064,2022-10-14 19:30:00,Boston,Celtics,Toronto,Raptors,Preseason,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,137,134,0

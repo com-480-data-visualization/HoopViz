@@ -1,0 +1,814 @@
+personId,season,gameId,gameDateTimeEst,playerteamCity,playerteamName,opponentteamCity,opponentteamName,gameType,home,win,numMinutes,points,assists,reboundsTotal,reboundsDefensive,reboundsOffensive,blocks,steals,turnovers,foulsPersonal,plusMinusPoints,fieldGoalsAttempted,fieldGoalsMade,fieldGoalsPercentage,threePointersAttempted,threePointersMade,threePointersPercentage,freeThrowsAttempted,freeThrowsMade,freeThrowsPercentage,homeScore,awayScore,attendance
+201937,0,11300008,,Minnesota,,,,Pre Season,0,0,28.0,10,3,3,2,1,0,1,3,1,0,8,4,0.5,0,0,0.0,3,2,0.667,0,0,0
+201937,0,11700007,,Utah,,,,Pre Season,0,0,17.833333333333332,3,6,1,1,0,0,2,1,1,1,4,0,0.0,2,0,0.0,4,3,0.75,0,0,0
+201937,0,11700021,,Utah,,,,Pre Season,0,0,15.166666666666666,2,5,2,2,0,0,2,6,1,9,3,0,0.0,1,0,0.0,2,2,1.0,0,0,0
+201937,0,11800006,,Utah,,,,Pre Season,0,0,14.866666666666667,5,5,2,2,0,0,0,3,1,16,7,2,0.286,3,1,0.333,0,0,0.0,0,0,0
+201937,0,11800037,,Utah,,,,Pre Season,0,0,15.85,13,5,4,4,0,0,2,1,0,11,7,2,0.286,5,2,0.4,7,7,1.0,0,0,0
+201937,0,12000036,,Minnesota,,,,Pre Season,0,0,23.4,7,4,1,1,0,0,1,1,2,-13,5,3,0.6,2,0,0.0,3,1,0.333,127,129,0
+201937,0,12300045,,Cleveland,,,,Pre Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,,0,0,,0,0,0
+201937,2011,11100007,2011-12-17 20:00:00,Minnesota,Timberwolves,Milwaukee,Bucks,Preseason,1,1,24.0,6,7,6,4,2,0,2,1,1,0,4,1,0.25,1,0,0.0,4,4,1.0,117,96,0
+201937,2011,21100011,2011-12-26 20:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Regular Season,1,0,26.0,6,6,5,5,0,0,0,0,4,-1,3,2,0.667,1,0,0.0,2,2,1.0,100,104,0
+201937,2011,21100020,2011-12-27 20:30:00,Minnesota,Timberwolves,Milwaukee,Bucks,Regular Season,0,0,27.0,6,4,3,3,0,0,3,3,3,-1,3,2,0.667,0,0,0.0,3,2,0.667,98,95,0
+201937,2011,21100045,2011-12-30 20:00:00,Minnesota,Timberwolves,Miami,Heat,Regular Season,1,0,30.0,12,12,6,6,0,0,1,5,1,9,7,4,0.571,2,2,1.0,3,2,0.667,101,103,0
+201937,2011,21100061,2012-01-01 19:00:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,1,1,26.0,14,7,3,3,0,0,0,4,2,14,8,4,0.5,3,2,0.667,4,4,1.0,99,82,0
+201937,2011,21100072,2012-01-02 20:00:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,1,1,23.0,6,3,2,2,0,1,0,2,1,1,8,3,0.375,2,0,0.0,0,0,0.0,106,96,0
+201937,2011,21100089,2012-01-04 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,1,0,31.0,12,10,4,3,1,0,2,4,2,2,9,5,0.556,2,2,1.0,2,0,0.0,86,90,0
+201937,2011,21100106,2012-01-06 20:00:00,Minnesota,Timberwolves,Cleveland,Cavaliers,Regular Season,1,0,27.0,10,5,2,2,0,0,3,3,4,-5,8,4,0.5,2,0,0.0,4,2,0.5,87,98,0
+201937,2011,21100120,2012-01-08 13:00:00,Minnesota,Timberwolves,Washington,Wizards,Regular Season,0,1,30.0,13,14,6,5,1,1,0,5,0,29,14,5,0.357,2,1,0.5,2,2,1.0,72,93,0
+201937,2011,21100126,2012-01-09 19:00:00,Minnesota,Timberwolves,Toronto,Raptors,Regular Season,0,0,29.0,10,6,4,3,1,0,3,2,1,1,9,2,0.222,2,1,0.5,7,5,0.714,97,87,0
+201937,2011,21100138,2012-01-10 20:00:00,Minnesota,Timberwolves,Chicago,Bulls,Regular Season,1,0,36.0,13,12,4,4,0,0,4,5,3,3,11,6,0.545,1,0,0.0,2,1,0.5,100,111,0
+201937,2011,21100163,2012-01-13 20:00:00,Minnesota,Timberwolves,New Orleans,Hornets,Regular Season,0,1,43.0,12,9,6,5,1,0,3,2,2,9,7,3,0.429,2,0,0.0,6,6,1.0,80,87,0
+201937,2011,21100172,2012-01-14 19:00:00,Minnesota,Timberwolves,Atlanta,Hawks,Regular Season,0,0,35.0,18,12,4,4,0,0,5,4,3,4,15,7,0.467,3,2,0.667,2,2,1.0,93,91,0
+201937,2011,21100193,2012-01-16 20:00:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,1,1,38.0,9,8,8,7,1,0,2,4,3,-3,10,3,0.3,3,1,0.333,2,2,1.0,99,86,0
+201937,2011,21100210,2012-01-18 20:00:00,Minnesota,Timberwolves,Detroit,Pistons,Regular Season,1,1,37.0,9,8,7,5,2,0,6,3,4,11,8,1,0.125,2,0,0.0,8,7,0.875,93,85,0
+201937,2011,21100225,2012-01-20 22:30:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,0,1,32.0,9,6,6,6,0,1,3,3,4,2,11,1,0.091,3,1,0.333,8,6,0.75,98,101,0
+201937,2011,21100236,2012-01-21 21:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,0,0,38.0,17,11,3,2,1,0,4,2,2,-3,12,5,0.417,2,1,0.5,6,6,1.0,108,98,0
+201937,2011,21100248,2012-01-23 20:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,1,0,38.0,6,12,3,3,0,0,3,5,4,-19,10,2,0.2,3,0,0.0,2,2,1.0,92,107,0
+201937,2011,21100264,2012-01-25 20:30:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,0,1,46.0,17,12,7,7,0,0,4,7,2,14,16,4,0.25,5,1,0.2,9,8,0.889,90,105,0
+201937,2011,21100280,2012-01-27 20:00:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,1,1,41.0,18,10,4,4,0,0,0,2,0,10,12,7,0.583,2,1,0.5,4,3,0.75,87,79,0
+201937,2011,21100297,2012-01-29 19:00:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,1,0,41.0,5,8,4,3,1,1,0,0,3,2,13,2,0.154,3,0,0.0,2,1,0.5,101,106,0
+201937,2011,21100304,2012-01-30 20:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,0,1,37.0,18,11,8,8,0,0,1,3,1,22,10,6,0.6,3,2,0.667,4,4,1.0,108,120,0
+201937,2011,21100322,2012-02-01 20:00:00,Minnesota,Timberwolves,Indiana,Pacers,Regular Season,1,0,36.0,10,6,4,4,0,0,0,1,3,-5,7,3,0.429,1,0,0.0,5,4,0.8,99,109,0
+201937,2011,21100335,2012-02-03 19:30:00,Minnesota,Timberwolves,New Jersey,Nets,Regular Season,0,1,37.0,10,10,2,2,0,1,6,2,3,4,8,3,0.375,3,2,0.667,2,2,1.0,105,108,0
+201937,2011,21100348,2012-02-04 20:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,1,1,36.0,13,11,1,1,0,0,3,4,3,-4,7,4,0.571,2,0,0.0,5,5,1.0,100,91,0
+201937,2011,21100371,2012-02-07 20:00:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,1,1,36.0,6,14,6,6,0,0,5,4,4,11,9,2,0.222,1,0,0.0,4,2,0.5,86,84,0
+201937,2011,21100380,2012-02-08 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,0,0,28.0,4,1,7,6,1,0,2,4,1,-11,6,1,0.167,2,0,0.0,2,2,1.0,85,80,0
+201937,2011,21100398,2012-02-10 20:00:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,1,0,37.0,10,8,4,4,0,0,3,4,2,-18,8,2,0.25,4,1,0.25,6,5,0.833,97,104,0
+201937,2011,21100404,2012-02-11 20:00:00,Minnesota,Timberwolves,New York,Knicks,Regular Season,1,0,35.0,12,8,2,2,0,1,3,2,2,-3,15,5,0.333,2,0,0.0,2,2,1.0,98,100,0
+201937,2011,21100415,2012-02-13 19:00:00,Minnesota,Timberwolves,Orlando,Magic,Regular Season,0,0,39.0,11,8,3,3,0,1,0,5,3,-14,7,4,0.571,1,1,1.0,2,2,1.0,102,89,0
+201937,2011,21100437,2012-02-15 20:00:00,Minnesota,Timberwolves,Charlotte,Bobcats,Regular Season,1,1,25.0,6,7,1,1,0,0,4,3,0,-1,7,2,0.286,2,0,0.0,3,2,0.667,102,90,0
+201937,2011,21100452,2012-02-17 20:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,0,1,39.0,18,9,2,2,0,0,1,6,2,7,13,6,0.462,5,2,0.4,4,4,1.0,98,111,0
+201937,2011,21100467,2012-02-19 19:00:00,Minnesota,Timberwolves,Philadelphia,76ers,Regular Season,1,1,36.0,22,5,6,6,0,0,1,1,1,4,17,7,0.412,4,2,0.5,6,6,1.0,92,91,0
+201937,2011,21100476,2012-02-20 21:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,0,0,40.0,16,5,5,5,0,0,3,5,4,5,16,5,0.313,4,2,0.5,4,4,1.0,103,101,0
+201937,2011,21100495,2012-02-22 20:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,1,1,32.0,7,6,3,2,1,0,2,6,2,-10,7,2,0.286,3,2,0.667,6,1,0.167,100,98,0
+201937,2011,21100511,2012-02-28 22:30:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,0,1,28.0,2,9,7,5,2,0,1,2,2,-7,8,1,0.125,2,0,0.0,1,0,0.0,97,109,0
+201937,2011,21100523,2012-02-29 22:30:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,0,0,25.0,3,9,3,3,0,0,2,1,2,-16,8,1,0.125,2,1,0.5,0,0,0.0,104,85,0
+201937,2011,21100525,2012-03-01 21:00:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,0,0,31.0,13,2,2,1,1,0,2,1,2,-7,7,3,0.429,2,0,0.0,7,7,1.0,104,95,0
+201937,2011,21100545,2012-03-03 22:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,0,1,38.0,6,12,4,3,1,0,2,4,2,14,8,1,0.125,2,0,0.0,5,4,0.8,110,122,0
+201937,2011,21100560,2012-03-05 20:00:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,1,1,28.0,4,6,5,1,4,0,1,2,4,4,7,1,0.143,1,0,0.0,4,2,0.5,95,94,0
+201937,2011,21100577,2012-03-07 20:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,1,1,27.0,8,4,1,0,1,0,1,2,2,-6,8,3,0.375,1,1,1.0,2,1,0.5,106,94,0
+201937,2011,21100589,2012-03-09 20:00:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,1,0,38.0,15,10,4,3,1,1,2,4,4,3,12,5,0.417,2,1,0.5,5,4,0.8,102,105,0
+201937,2012,21200342,2012-12-15 20:00:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,1,1,18.0,8,9,4,3,1,0,3,2,2,1,4,1,0.25,3,0,0.0,8,6,0.75,114,106,0
+201937,2012,21200350,2012-12-17 19:00:00,Minnesota,Timberwolves,Orlando,Magic,Regular Season,0,0,16.0,0,4,2,0,2,0,1,3,2,-8,3,0,0.0,1,0,0.0,0,0,0.0,102,93,0
+201937,2012,21200359,2012-12-18 19:30:00,Minnesota,Timberwolves,Miami,Heat,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,103,92,0
+201937,2012,21200377,2012-12-20 19:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Regular Season,1,1,18.0,0,3,3,3,0,0,1,2,0,0,3,0,0.0,1,0,0.0,0,0,0.0,99,93,0
+201937,2012,21200400,2012-12-23 17:00:00,Minnesota,Timberwolves,New York,Knicks,Regular Season,0,0,17.0,5,2,1,1,0,0,0,5,4,0,6,2,0.333,0,0,0.0,2,1,0.5,94,91,0
+201937,2012,21200417,2012-12-26 20:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,1,0,21.0,8,2,0,0,0,0,1,0,3,-9,5,2,0.4,1,0,0.0,4,4,1.0,84,87,0
+201937,2012,21200444,2012-12-29 20:00:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,111,107,0
+201937,2012,21200473,2013-01-02 21:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,106,84,0
+201937,2012,21200477,2013-01-03 21:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,97,101,0
+201937,2012,21200494,2013-01-05 20:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,97,102,0
+201937,2012,21200515,2013-01-08 20:00:00,Minnesota,Timberwolves,Atlanta,Hawks,Regular Season,1,1,18.0,4,8,1,1,0,0,4,2,4,10,0,0,0.0,0,0,0.0,6,4,0.667,108,103,0
+201937,2012,21200523,2013-01-09 20:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Regular Season,0,0,21.0,0,7,2,2,0,0,0,2,1,-12,3,0,0.0,0,0,0.0,0,0,0.0,106,84,0
+201937,2012,21200536,2013-01-11 20:00:00,Minnesota,Timberwolves,New Orleans,Hornets,Regular Season,0,0,21.0,3,3,0,0,0,0,1,4,1,-6,3,1,0.333,1,0,0.0,2,1,0.5,104,92,0
+201937,2012,21200552,2013-01-13 19:00:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,0,0,22.0,4,2,0,0,0,0,3,2,0,-24,6,0,0.0,1,0,0.0,4,4,1.0,106,88,0
+201937,2012,21200560,2013-01-14 20:30:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,0,0,26.0,6,6,5,2,3,0,0,2,2,7,3,2,0.667,0,0,0.0,2,2,1.0,113,98,0
+201937,2012,21200581,2013-01-17 20:00:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,1,0,27.0,4,6,3,2,1,0,1,2,0,-5,9,2,0.222,1,0,0.0,0,0,0.0,77,90,0
+201937,2012,21200597,2013-01-19 20:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,1,1,30.0,7,6,1,1,0,0,0,2,2,16,3,1,0.333,1,0,0.0,6,5,0.833,92,79,0
+201937,2012,21200608,2013-01-21 14:00:00,Minnesota,Timberwolves,Atlanta,Hawks,Regular Season,0,0,25.0,5,6,2,2,0,0,2,2,1,-14,4,1,0.25,0,0,0.0,4,3,0.75,104,96,0
+201937,2012,21200623,2013-01-23 20:00:00,Minnesota,Timberwolves,Brooklyn,Nets,Regular Season,1,0,24.0,5,6,1,1,0,0,3,4,1,-8,5,2,0.4,1,0,0.0,2,1,0.5,83,91,0
+201937,2012,21200632,2013-01-25 19:00:00,Minnesota,Timberwolves,Washington,Wizards,Regular Season,0,0,31.0,4,6,5,2,3,0,1,5,1,-14,8,1,0.125,2,0,0.0,2,2,1.0,114,101,0
+201937,2012,21200645,2013-01-26 19:30:00,Minnesota,Timberwolves,Charlotte,Bobcats,Regular Season,0,0,29.0,14,8,1,0,1,0,5,2,4,23,9,4,0.444,2,1,0.5,6,5,0.833,102,101,0
+201937,2012,21200677,2013-01-30 20:00:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,1,0,27.0,9,4,3,2,1,0,2,2,3,-18,9,4,0.444,1,0,0.0,2,1,0.5,90,96,0
+201937,2012,21200695,2013-02-01 21:30:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,1,0,28.0,9,7,4,4,0,0,2,3,3,-12,9,4,0.444,0,0,0.0,2,1,0.5,100,111,0
+201937,2012,21200700,2013-02-02 20:00:00,Minnesota,Timberwolves,New Orleans,Hornets,Regular Season,1,1,22.0,9,7,3,1,2,0,1,1,3,8,5,3,0.6,0,0,0.0,4,3,0.75,115,86,0
+201937,2012,21200713,2013-02-04 20:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,1,0,33.0,15,14,2,2,0,0,1,4,3,9,9,4,0.444,0,0,0.0,8,7,0.875,98,100,0
+201937,2012,21200731,2013-02-06 21:00:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,1,0,36.0,9,11,4,4,0,0,3,3,4,-5,13,3,0.231,1,0,0.0,4,3,0.75,94,104,0
+201937,2012,21200745,2013-02-08 20:00:00,Minnesota,Timberwolves,New York,Knicks,Regular Season,1,0,38.0,18,11,2,2,0,0,1,1,0,-3,14,6,0.429,1,1,1.0,9,5,0.556,94,100,0
+201937,2012,21200757,2013-02-10 18:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,0,0,28.0,17,4,1,1,0,0,0,3,1,-10,11,6,0.545,1,0,0.0,8,5,0.625,105,88,0
+201937,2012,21200763,2013-02-11 19:00:00,Minnesota,Timberwolves,Cleveland,Cavaliers,Regular Season,0,1,33.0,13,10,3,3,0,0,5,7,5,3,9,5,0.556,1,1,1.0,2,2,1.0,92,100,0
+201937,2012,21200784,2013-02-13 20:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,1,0,40.0,18,10,9,7,2,1,4,2,1,0,13,3,0.231,3,0,0.0,13,12,0.923,93,97,0
+201937,2012,21200805,2013-02-20 20:00:00,Minnesota,Timberwolves,Philadelphia,76ers,Regular Season,1,1,29.0,11,6,6,5,1,0,3,6,5,10,4,1,0.25,0,0,0.0,12,9,0.75,94,87,0
+201937,2012,21200819,2013-02-22 20:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Regular Season,0,0,32.0,13,9,5,3,2,0,5,1,4,-5,12,5,0.417,0,0,0.0,4,3,0.75,127,111,0
+201937,2012,21200832,2013-02-24 15:30:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,1,0,38.0,16,11,8,7,1,0,6,6,1,9,10,3,0.3,2,0,0.0,11,10,0.909,99,100,0
+201937,2012,21200849,2013-02-26 21:00:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,0,0,38.0,5,10,5,5,0,0,4,6,4,10,12,2,0.167,0,0,0.0,2,1,0.5,84,83,0
+201937,2012,21200863,2013-02-28 22:30:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,0,0,32.0,13,13,8,5,3,0,1,4,2,-16,11,5,0.455,3,1,0.333,2,2,1.0,116,94,0
+201937,2012,21200879,2013-03-02 22:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,0,0,37.0,12,9,9,7,2,0,3,5,4,-20,10,3,0.3,1,0,0.0,6,6,1.0,109,94,0
+201937,2012,21200892,2013-03-04 20:00:00,Minnesota,Timberwolves,Miami,Heat,Regular Season,1,0,38.0,14,8,5,3,2,0,6,6,2,-13,11,6,0.545,4,2,0.5,3,0,0.0,81,97,0
+201937,2012,21200907,2013-03-06 20:00:00,Minnesota,Timberwolves,Washington,Wizards,Regular Season,1,1,37.0,15,11,7,7,0,0,6,3,3,15,15,4,0.267,2,0,0.0,10,7,0.7,87,82,0
+201937,2012,21200931,2013-03-09 21:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,0,0,29.0,11,6,4,4,0,0,0,3,3,-14,9,4,0.444,1,0,0.0,4,3,0.75,111,88,0
+201937,2012,21200940,2013-03-10 19:00:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,1,0,31.0,7,5,5,2,3,0,2,2,2,-17,12,3,0.25,4,1,0.25,0,0,0.0,77,100,0
+201937,2012,21200954,2013-03-12 20:00:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,1,1,34.0,21,12,13,12,1,1,0,4,4,23,17,9,0.529,5,1,0.2,3,2,0.667,107,83,0
+201937,2012,21200958,2013-03-13 19:00:00,Minnesota,Timberwolves,Indiana,Pacers,Regular Season,0,0,36.0,21,10,6,4,2,0,3,4,1,-18,14,6,0.429,3,2,0.667,8,7,0.875,107,91,0
+201937,2012,21200973,2013-03-15 20:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,0,0,38.0,14,7,7,6,1,1,2,3,3,-7,13,4,0.308,3,0,0.0,8,6,0.75,108,100,0
+201937,2012,21200989,2013-03-17 19:00:00,Minnesota,Timberwolves,New Orleans,Hornets,Regular Season,1,1,34.0,16,6,2,2,0,2,2,3,4,5,11,7,0.636,1,1,1.0,1,1,1.0,97,95,0
+201937,2012,21201000,2013-03-18 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,0,0,21.0,2,3,2,2,0,0,1,0,2,-15,6,1,0.167,1,0,0.0,0,0,0.0,92,77,0
+201937,2012,21201021,2013-03-21 22:00:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,0,0,32.0,12,9,7,7,0,0,3,1,4,-6,13,4,0.308,3,0,0.0,4,4,1.0,101,98,0
+201937,2012,21201031,2013-03-22 22:00:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,0,1,29.0,12,8,6,4,2,0,5,4,3,21,7,3,0.429,0,0,0.0,7,6,0.857,86,117,0
+201937,2012,21201044,2013-03-24 19:00:00,Minnesota,Timberwolves,Chicago,Bulls,Regular Season,1,0,32.0,15,8,5,3,2,0,1,1,3,-7,8,4,0.5,0,0,0.0,10,7,0.7,97,104,0
+201937,2012,21201055,2013-03-26 19:30:00,Minnesota,Timberwolves,Detroit,Pistons,Regular Season,0,1,27.0,14,9,4,4,0,0,2,3,1,26,9,6,0.667,2,2,1.0,0,0,0.0,82,105,0
+201937,2012,21201066,2013-03-27 20:00:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,1,0,28.0,13,7,3,3,0,0,3,2,4,-4,13,5,0.385,1,0,0.0,4,3,0.75,117,120,0
+201937,2012,21201081,2013-03-29 20:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Regular Season,1,1,30.0,17,7,2,2,0,0,4,2,3,4,11,4,0.364,1,1,1.0,8,8,1.0,101,93,0
+201937,2012,21201089,2013-03-30 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,1,0,39.0,23,9,10,7,3,0,1,5,5,-9,12,6,0.5,2,1,0.5,12,10,0.833,86,99,0
+201937,2012,21201105,2013-04-01 20:00:00,Minnesota,Timberwolves,Boston,Celtics,Regular Season,1,1,34.0,9,10,3,3,0,0,2,2,4,12,11,2,0.182,2,0,0.0,6,5,0.833,110,100,0
+201937,2012,21201116,2013-04-03 20:00:00,Minnesota,Timberwolves,Milwaukee,Bucks,Regular Season,0,1,34.0,19,12,4,4,0,0,8,8,3,12,12,7,0.583,6,5,0.833,0,0,0.0,98,107,0
+201937,2012,21201132,2013-04-05 20:00:00,Minnesota,Timberwolves,Toronto,Raptors,Regular Season,1,0,36.0,13,12,5,5,0,0,1,4,3,5,10,3,0.3,3,1,0.333,8,6,0.75,93,95,0
+201937,2012,21201141,2013-04-06 20:00:00,Minnesota,Timberwolves,Detroit,Pistons,Regular Season,1,1,31.0,10,6,5,4,1,0,5,3,2,17,13,1,0.077,2,0,0.0,9,8,0.889,107,101,0
+201937,2012,21201163,2013-04-09 22:30:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,0,0,22.0,5,6,5,5,0,0,1,2,2,-18,10,0,0.0,3,0,0.0,6,5,0.833,105,89,0
+201937,2012,21201173,2013-04-10 22:30:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,0,0,23.0,6,7,2,2,0,0,1,1,3,-13,8,2,0.25,1,0,0.0,2,2,1.0,111,95,0
+201937,2012,21201187,2013-04-12 21:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,0,0,25.0,13,3,2,2,0,0,2,2,4,1,7,4,0.571,3,2,0.667,3,3,1.0,107,100,0
+201937,2012,21201193,2013-04-13 20:00:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,1,1,35.0,24,10,5,4,1,0,5,4,2,4,18,8,0.444,3,1,0.333,7,7,1.0,105,93,0
+201937,2012,21201210,2013-04-15 20:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,1,0,28.0,6,4,4,3,1,0,2,1,1,-16,9,2,0.222,2,0,0.0,2,2,1.0,80,96,0
+201937,2012,21201225,2013-04-17 20:00:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,0,1,25.0,12,3,3,3,0,0,2,4,1,11,10,4,0.4,5,3,0.6,2,1,0.5,95,108,0
+201937,2013,11300022,2013-10-09 19:00:00,Minnesota,Timberwolves,Toronto,Raptors,Preseason,0,1,26.0,9,7,4,3,1,0,1,3,1,0,5,3,0.599,1,1,1.0,4,2,0.5,89,101,0
+201937,2013,11300028,2013-10-10 20:00:00,Minnesota,Timberwolves,Milwaukee,Bucks,Preseason,1,1,11.0,3,2,0,0,0,0,1,3,2,0,2,0,0.0,0,0,0.0,4,3,0.75,98,89,0
+201937,2013,11300038,2013-10-12 20:00:00,Minnesota,Timberwolves,Toronto,Raptors,Preseason,1,0,28.0,3,6,5,5,0,1,4,1,3,0,7,0,0.0,1,0,0.0,4,3,0.75,97,104,0
+201937,2013,11300081,2013-10-20 18:00:00,Minnesota,Timberwolves,Boston,Celtics,Preseason,1,1,31.0,15,7,4,3,1,0,1,3,3,0,9,5,0.556,3,2,0.667,4,3,0.75,104,89,0
+201937,2013,11300095,2013-10-23 19:00:00,Minnesota,Timberwolves,Philadelphia,76ers,Preseason,0,1,16.0,2,5,5,5,0,0,5,0,1,0,3,0,0.0,0,0,0.0,2,2,1.0,102,125,0
+201937,2013,11300106,2013-10-24 19:30:00,Minnesota,Timberwolves,Detroit,Pistons,Preseason,0,0,26.0,15,3,2,2,0,0,3,3,2,0,12,6,0.5,6,3,0.5,0,0,0.0,99,98,0
+201937,2013,21300010,2013-10-30 20:00:00,Minnesota,Timberwolves,Orlando,Magic,Regular Season,1,1,40.0,13,11,6,4,2,1,3,4,3,-1,15,5,0.333,3,1,0.333,2,2,1.0,120,115,0
+201937,2013,21300027,2013-11-01 20:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Regular Season,1,1,28.0,14,10,2,1,1,0,5,1,2,29,8,4,0.5,3,2,0.667,4,4,1.0,100,81,0
+201937,2013,21300045,2013-11-03 19:30:00,Minnesota,Timberwolves,New York,Knicks,Regular Season,0,1,40.0,8,10,6,5,1,0,3,4,3,13,11,3,0.273,3,0,0.0,2,2,1.0,100,109,0
+201937,2013,21300047,2013-11-04 19:00:00,Minnesota,Timberwolves,Cleveland,Cavaliers,Regular Season,0,0,25.0,4,5,1,1,0,1,5,2,1,-3,7,0,0.0,3,0,0.0,4,4,1.0,93,92,0
+201937,2013,21300067,2013-11-06 20:00:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,1,0,32.0,7,7,4,3,1,0,1,4,3,-2,8,2,0.25,1,0,0.0,5,3,0.6,93,106,0
+201937,2013,21300080,2013-11-08 20:00:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,1,1,34.0,6,4,3,3,0,0,3,3,1,13,8,2,0.25,0,0,0.0,2,2,1.0,116,108,0
+201937,2013,21300097,2013-11-10 21:30:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,0,1,38.0,12,14,10,9,1,0,5,5,1,27,9,5,0.556,2,2,1.0,0,0,0.0,90,113,0
+201937,2013,21300106,2013-11-11 22:30:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,0,0,33.0,5,10,1,1,0,0,2,3,5,12,6,2,0.333,1,1,1.0,0,0,0.0,109,107,0
+201937,2013,21300115,2013-11-13 20:00:00,Minnesota,Timberwolves,Cleveland,Cavaliers,Regular Season,1,1,30.0,16,16,6,5,1,0,3,3,1,22,7,5,0.714,1,1,1.0,5,5,1.0,124,95,0
+201937,2013,21300131,2013-11-15 20:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,0,0,34.0,0,12,8,6,2,0,3,5,5,-6,5,0,0.0,0,0,0.0,0,0,0.0,117,113,0
+201937,2013,21300142,2013-11-16 20:00:00,Minnesota,Timberwolves,Boston,Celtics,Regular Season,1,1,31.0,3,7,6,5,1,0,1,2,4,17,5,1,0.2,1,0,0.0,2,1,0.5,106,88,0
+201937,2013,21300156,2013-11-19 19:00:00,Minnesota,Timberwolves,Washington,Wizards,Regular Season,0,0,19.0,10,2,4,3,1,0,0,3,3,-13,5,3,0.6,1,1,1.0,4,3,0.75,104,100,0
+201937,2013,21300168,2013-11-20 20:00:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,1,0,35.0,5,6,2,1,1,0,4,1,3,-1,7,2,0.286,2,1,0.5,0,0,0.0,98,102,0
+201937,2013,21300182,2013-11-22 20:00:00,Minnesota,Timberwolves,Brooklyn,Nets,Regular Season,1,1,24.0,12,8,2,2,0,0,3,2,3,22,8,4,0.5,3,2,0.667,2,2,1.0,111,81,0
+201937,2013,21300192,2013-11-23 20:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,0,0,34.0,7,8,5,4,1,1,4,3,2,-10,9,3,0.333,2,1,0.5,0,0,0.0,112,101,0
+201937,2013,21300203,2013-11-25 19:00:00,Minnesota,Timberwolves,Indiana,Pacers,Regular Season,0,0,35.0,7,7,9,7,2,0,5,2,3,-14,9,3,0.333,2,0,0.0,2,1,0.5,98,84,0
+201937,2013,21300223,2013-11-27 20:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,1,0,41.0,17,11,5,4,1,0,2,7,4,-1,12,6,0.5,1,0,0.0,6,5,0.833,110,117,0
+201937,2013,21300244,2013-11-30 20:30:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,0,1,32.0,12,7,2,2,0,0,2,1,0,-2,12,4,0.333,5,1,0.2,3,3,1.0,106,112,0
+201937,2013,21300253,2013-12-01 19:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Regular Season,0,0,29.0,8,7,4,4,0,0,2,3,2,9,6,4,0.667,2,0,0.0,0,0,0.0,113,103,0
+201937,2013,21300294,2013-12-07 20:00:00,Minnesota,Timberwolves,Miami,Heat,Regular Season,1,0,27.0,1,6,5,5,0,0,3,6,0,-7,4,0,0.0,1,0,0.0,2,1,0.5,82,103,0
+201937,2013,21300315,2013-12-10 19:30:00,Minnesota,Timberwolves,Detroit,Pistons,Regular Season,0,1,28.0,15,9,4,3,1,0,2,0,3,15,9,5,0.556,2,1,0.5,4,4,1.0,94,121,0
+201937,2013,21300322,2013-12-11 20:00:00,Minnesota,Timberwolves,Philadelphia,76ers,Regular Season,1,1,35.0,21,7,5,4,1,0,4,3,4,-3,12,5,0.417,3,2,0.667,10,9,0.9,106,99,0
+201937,2013,21300338,2013-12-13 20:30:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,0,0,36.0,15,9,4,4,0,1,4,5,2,7,13,5,0.385,2,0,0.0,6,5,0.833,117,110,0
+201937,2013,21300351,2013-12-15 18:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,0,1,33.0,12,4,2,2,0,0,2,3,3,3,9,3,0.333,3,2,0.667,5,4,0.8,93,101,0
+201937,2013,21300358,2013-12-16 19:30:00,Minnesota,Timberwolves,Boston,Celtics,Regular Season,0,0,21.0,6,3,5,3,2,0,2,0,3,-11,12,2,0.167,3,1,0.333,2,1,0.5,101,97,0
+201937,2013,21300376,2013-12-18 20:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,1,1,32.0,9,7,5,5,0,0,2,2,4,-2,11,2,0.182,2,0,0.0,6,5,0.833,120,109,0
+201937,2013,21300391,2013-12-20 22:30:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,0,0,31.0,6,7,6,5,1,0,1,3,3,-7,8,3,0.375,1,0,0.0,0,0,0.0,104,91,0
+201937,2013,21300406,2013-12-22 21:30:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,0,0,38.0,0,12,2,2,0,0,0,3,2,-11,4,0,0.0,1,0,0.0,0,0,0.0,120,116,0
+201937,2013,21300431,2013-12-27 20:00:00,Minnesota,Timberwolves,Washington,Wizards,Regular Season,1,1,26.0,11,9,8,5,3,0,3,0,1,11,5,2,0.4,0,0,0.0,8,7,0.875,120,98,0
+201937,2013,21300444,2013-12-28 20:30:00,Minnesota,Timberwolves,Milwaukee,Bucks,Regular Season,0,1,27.0,4,8,2,2,0,0,6,3,3,27,5,1,0.2,1,0,0.0,2,2,1.0,95,117,0
+201937,2013,21300455,2013-12-30 20:00:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,1,0,30.0,4,13,9,8,1,0,3,2,3,4,3,1,0.333,1,0,0.0,2,2,1.0,98,100,0
+201937,2013,21300470,2014-01-01 20:00:00,Minnesota,Timberwolves,New Orleans,Pelicans,Regular Season,1,1,32.0,14,9,8,7,1,2,3,3,1,18,6,4,0.667,1,1,1.0,6,5,0.833,124,112,0
+201937,2013,21300493,2014-01-04 20:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Regular Season,1,0,33.0,13,10,4,4,0,0,5,2,4,8,13,4,0.308,2,0,0.0,6,5,0.833,111,115,0
+201937,2013,21300505,2014-01-06 19:00:00,Minnesota,Timberwolves,Philadelphia,76ers,Regular Season,0,1,24.0,4,8,3,3,0,0,1,1,1,22,8,2,0.25,0,0,0.0,0,0,0.0,95,126,0
+201937,2013,21300524,2014-01-08 21:30:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,1,0,34.0,7,8,8,8,0,0,0,2,5,3,6,2,0.333,0,0,0.0,4,3,0.75,103,104,0
+201937,2013,21300535,2014-01-10 20:00:00,Minnesota,Timberwolves,Charlotte,Bobcats,Regular Season,1,1,25.0,8,6,3,1,2,0,0,3,2,13,10,3,0.3,3,2,0.667,0,0,0.0,119,92,0
+201937,2013,21300554,2014-01-12 19:00:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,0,0,30.0,7,8,4,3,1,1,2,2,2,-18,8,3,0.375,2,1,0.5,0,0,0.0,104,86,0
+201937,2013,21300571,2014-01-15 20:00:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,1,0,24.0,5,5,2,2,0,0,3,5,2,-10,6,2,0.333,2,1,0.5,0,0,0.0,108,111,0
+201937,2013,21300584,2014-01-17 19:00:00,Minnesota,Timberwolves,Toronto,Raptors,Regular Season,0,0,22.0,6,4,4,4,0,0,2,0,0,1,6,2,0.333,1,0,0.0,2,2,1.0,94,89,0
+201937,2013,21300598,2014-01-18 20:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,1,1,26.0,6,9,8,7,1,0,1,2,2,31,6,2,0.333,1,1,1.0,2,1,0.5,98,72,0
+201937,2013,21300620,2014-01-21 21:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,0,1,39.0,11,13,5,3,2,0,5,1,3,20,5,3,0.6,2,1,0.5,4,4,1.0,97,112,0
+201937,2013,21300645,2014-01-24 22:30:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,0,1,33.0,9,12,1,0,1,0,4,4,5,7,7,4,0.571,1,0,0.0,2,1,0.5,120,121,0
+201937,2013,21300653,2014-01-25 22:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,0,0,37.0,10,11,3,2,1,0,2,1,4,3,8,4,0.5,2,0,0.0,2,2,1.0,115,104,0
+201937,2013,21300664,2014-01-27 20:00:00,Minnesota,Timberwolves,Chicago,Bulls,Regular Season,0,1,30.0,9,4,6,5,1,0,2,3,1,3,8,3,0.375,1,0,0.0,4,3,0.75,86,95,0
+201937,2013,21300680,2014-01-29 20:00:00,Minnesota,Timberwolves,New Orleans,Pelicans,Regular Season,1,1,24.0,5,6,3,2,1,0,1,2,4,11,4,1,0.25,1,0,0.0,3,3,1.0,88,77,0
+201937,2013,21300691,2014-01-31 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,1,0,27.0,6,8,3,3,0,0,1,4,2,8,7,2,0.286,1,0,0.0,2,2,1.0,90,94,0
+201937,2013,21300699,2014-02-01 19:30:00,Minnesota,Timberwolves,Atlanta,Hawks,Regular Season,0,0,31.0,5,11,4,4,0,0,5,3,6,-11,3,1,0.333,1,0,0.0,4,3,0.75,120,113,0
+201937,2013,21300722,2014-02-04 20:00:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,1,1,31.0,4,13,6,5,1,0,1,2,3,5,4,1,0.25,0,0,0.0,2,2,1.0,109,99,0
+201937,2013,21300732,2014-02-05 20:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Regular Season,0,0,33.0,19,5,8,7,1,0,0,4,0,-11,12,6,0.5,3,1,0.333,11,6,0.545,106,97,0
+201937,2013,21300747,2014-02-07 21:30:00,Minnesota,Timberwolves,New Orleans,Pelicans,Regular Season,0,0,32.0,11,6,5,4,1,1,1,3,2,8,10,3,0.3,2,1,0.5,4,4,1.0,98,91,0
+201937,2013,21300752,2014-02-08 20:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,1,0,38.0,25,9,2,2,0,0,1,3,5,5,19,8,0.421,4,2,0.5,8,7,0.875,110,117,0
+201937,2013,21300768,2014-02-10 20:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,1,0,29.0,7,9,7,5,2,1,1,3,3,-15,10,2,0.2,4,1,0.25,2,2,1.0,89,107,0
+201937,2013,21300786,2014-02-12 20:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,1,1,32.0,11,12,1,0,1,0,7,1,2,28,6,4,0.667,0,0,0.0,4,3,0.75,117,90,0
+201937,2013,21300805,2014-02-19 20:00:00,Minnesota,Timberwolves,Indiana,Pacers,Regular Season,1,1,32.0,6,17,7,6,1,0,2,2,1,9,10,2,0.2,0,0,0.0,6,2,0.333,104,91,0
+201937,2013,21300830,2014-02-22 21:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,0,1,27.0,15,7,6,3,3,0,0,4,2,16,7,5,0.714,1,1,1.0,5,4,0.8,104,121,0
+201937,2013,21300840,2014-02-23 21:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,0,0,22.0,5,11,1,0,1,0,1,3,0,-8,6,2,0.333,1,0,0.0,1,1,1.0,108,97,0
+201937,2013,21300851,2014-02-25 21:00:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,0,1,35.0,7,11,3,3,0,0,3,2,3,15,8,3,0.375,1,0,0.0,1,1,1.0,101,110,0
+201937,2013,21300881,2014-03-01 22:00:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,0,1,32.0,8,8,2,1,1,0,1,2,4,13,4,2,0.5,2,1,0.5,4,3,0.75,97,108,0
+201937,2013,21300895,2014-03-03 21:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,0,1,26.0,5,5,5,4,1,0,1,4,5,-6,2,1,0.5,0,0,0.0,4,3,0.75,128,132,0
+201937,2013,21300911,2014-03-05 20:00:00,Minnesota,Timberwolves,New York,Knicks,Regular Season,1,0,32.0,11,8,6,3,3,0,2,6,4,0,6,4,0.667,0,0,0.0,3,3,1.0,106,118,0
+201937,2013,21300922,2014-03-07 20:00:00,Minnesota,Timberwolves,Detroit,Pistons,Regular Season,1,1,35.0,11,10,8,7,1,0,3,3,2,20,6,2,0.333,3,1,0.333,8,6,0.75,114,101,0
+201937,2013,21300940,2014-03-09 19:00:00,Minnesota,Timberwolves,Toronto,Raptors,Regular Season,1,0,25.0,8,7,1,0,1,0,2,0,6,-1,8,3,0.375,0,0,0.0,2,2,1.0,104,111,0
+201937,2013,21300954,2014-03-11 20:00:00,Minnesota,Timberwolves,Milwaukee,Bucks,Regular Season,1,1,32.0,11,10,2,1,1,0,3,1,5,24,4,3,0.75,1,1,1.0,4,4,1.0,112,101,0
+201937,2013,21300971,2014-03-14 19:00:00,Minnesota,Timberwolves,Charlotte,Bobcats,Regular Season,0,0,32.0,6,9,3,3,0,0,2,3,0,3,6,1,0.167,1,0,0.0,4,4,1.0,105,93,0
+201937,2013,21300991,2014-03-16 19:00:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,1,1,33.0,12,9,5,5,0,0,3,1,4,14,8,3,0.375,1,1,1.0,7,5,0.714,104,102,0
+201937,2013,21301014,2014-03-19 20:30:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,0,1,49.0,22,15,10,9,1,1,4,3,2,11,12,8,0.667,1,0,0.0,7,6,0.857,122,123,0
+201937,2013,21301019,2014-03-20 20:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,0,0,25.0,5,8,2,2,0,0,0,2,1,-5,6,2,0.333,2,1,0.5,0,0,0.0,129,106,0
+201937,2013,21301041,2014-03-23 15:30:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,1,0,43.0,19,9,4,3,1,0,3,2,4,-4,12,7,0.583,4,2,0.5,5,3,0.6,120,127,0
+201937,2013,21301051,2014-03-24 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,0,0,31.0,6,4,2,1,1,1,3,1,3,-26,8,1,0.125,4,0,0.0,4,4,1.0,109,92,0
+201937,2013,21301065,2014-03-26 20:00:00,Minnesota,Timberwolves,Atlanta,Hawks,Regular Season,1,1,31.0,4,10,1,1,0,0,6,2,3,19,6,1,0.167,1,0,0.0,4,2,0.5,107,83,0
+201937,2013,21301081,2014-03-28 20:00:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,1,1,26.0,10,6,6,6,0,0,1,2,0,19,5,4,0.8,0,0,0.0,3,2,0.667,143,107,0
+201937,2013,21301095,2014-03-30 18:00:00,Minnesota,Timberwolves,Brooklyn,Nets,Regular Season,0,0,30.0,7,12,4,3,1,0,2,3,4,6,7,2,0.286,1,0,0.0,4,3,0.75,114,99,0
+201937,2013,21301107,2014-03-31 20:00:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,1,0,27.0,3,7,2,1,1,0,1,5,1,-32,6,1,0.167,2,1,0.5,0,0,0.0,104,114,0
+201937,2013,21301122,2014-04-02 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,1,1,33.0,14,7,3,2,1,0,3,2,3,15,11,5,0.455,2,1,0.5,4,3,0.75,102,88,0
+201937,2013,21301135,2014-04-04 19:30:00,Minnesota,Timberwolves,Miami,Heat,Regular Season,0,1,46.0,13,14,5,5,0,0,2,4,2,4,9,5,0.556,3,1,0.333,3,2,0.667,121,122,0
+201937,2013,21301143,2014-04-05 19:00:00,Minnesota,Timberwolves,Orlando,Magic,Regular Season,0,0,33.0,18,10,1,1,0,0,3,3,2,-2,18,7,0.389,3,0,0.0,5,4,0.8,100,92,0
+201937,2013,21300275,2014-04-08 20:00:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,1,1,34.0,23,7,2,2,0,0,1,2,2,25,17,10,0.588,1,0,0.0,4,3,0.75,110,91,0
+201937,2013,21301169,2014-04-09 20:00:00,Minnesota,Timberwolves,Chicago,Bulls,Regular Season,1,0,32.0,15,6,1,1,0,0,0,0,1,-15,14,5,0.357,2,1,0.5,4,4,1.0,87,102,0
+201937,2013,21301183,2014-04-11 20:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,1,1,39.0,16,10,5,5,0,0,1,6,5,10,16,5,0.313,1,0,0.0,11,6,0.545,112,110,0
+201937,2013,21301202,2014-04-13 21:00:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,0,0,32.0,0,11,1,1,0,0,0,2,1,-8,4,0,0.0,1,0,0.0,0,0,0.0,106,103,0
+201937,2013,21301213,2014-04-14 22:30:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,0,0,32.0,15,8,1,1,0,0,1,7,4,-6,7,4,0.571,0,0,0.0,9,7,0.778,130,120,0
+201937,2013,21301218,2014-04-16 20:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,1,0,45.0,14,6,2,2,0,0,1,2,5,3,13,4,0.308,4,1,0.25,5,5,1.0,130,136,0
+201937,2014,11400008,2014-10-07 19:00:00,Minnesota,Timberwolves,Indiana,Pacers,Preseason,0,0,17.0,2,4,2,2,0,1,0,3,2,0,6,1,0.167,0,0,0.0,0,0,0.0,103,90,0
+201937,2014,11400029,2014-10-10 20:00:00,Minnesota,Timberwolves,Philadelphia,76ers,Preseason,1,1,26.0,8,9,1,0,1,0,3,6,2,17,6,3,0.5,0,0,0.0,2,2,1.0,116,110,0
+201937,2014,11400068,2014-10-17 20:00:00,Minnesota,Timberwolves,Milwaukee,Bucks,Preseason,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,98,105,0
+201937,2014,11400081,2014-10-19 19:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Preseason,0,1,25.0,13,7,3,2,1,0,0,1,3,13,7,2,0.286,1,0,0.0,10,9,0.9,94,112,0
+201937,2014,11400092,2014-10-21 20:00:00,Minnesota,Timberwolves,Indiana,Pacers,Preseason,1,1,22.0,16,3,2,2,0,0,3,1,3,22,8,4,0.5,2,1,0.5,8,7,0.875,107,89,0
+201937,2014,11400100,2014-10-22 20:00:00,Minnesota,Timberwolves,Milwaukee,Bucks,Preseason,0,1,17.0,10,6,2,2,0,0,4,2,2,12,6,2,0.333,2,0,0.0,6,6,1.0,91,110,0
+201937,2014,11400111,2014-10-24 20:00:00,Minnesota,Timberwolves,Chicago,Bulls,Preseason,0,1,25.0,19,5,2,2,0,0,2,3,1,-2,13,8,0.615,0,0,0.0,3,3,1.0,112,113,0
+201937,2014,21400009,2014-10-29 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,0,0,35.0,12,7,6,3,3,0,1,7,4,-5,12,5,0.417,0,0,0.0,3,2,0.667,105,101,0
+201937,2014,21400017,2014-10-30 20:00:00,Minnesota,Timberwolves,Detroit,Pistons,Regular Season,1,1,29.0,11,8,7,5,2,0,1,1,5,4,10,4,0.4,0,0,0.0,5,3,0.6,97,91,0
+201937,2014,21400035,2014-11-01 20:00:00,Minnesota,Timberwolves,Chicago,Bulls,Regular Season,1,0,31.0,6,17,4,4,0,0,2,3,6,4,10,3,0.3,0,0,0.0,0,0,0.0,105,106,0
+201937,2014,21400060,2014-11-05 19:30:00,Minnesota,Timberwolves,Brooklyn,Nets,Regular Season,0,1,34.0,14,12,8,7,1,0,2,3,4,26,11,6,0.545,3,1,0.333,2,1,0.5,91,98,0
+201937,2014,21400072,2014-11-07 19:00:00,Minnesota,Timberwolves,Orlando,Magic,Regular Season,0,0,13.0,4,6,3,3,0,0,0,1,0,-2,4,2,0.5,1,0,0.0,0,0,0.0,112,103,0
+201937,2014,21400385,2014-12-19 19:30:00,Minnesota,Timberwolves,Boston,Celtics,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,114,98,0
+201937,2014,21400711,2015-01-31 20:00:00,Minnesota,Timberwolves,Cleveland,Cavaliers,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,90,106,0
+201937,2014,21400724,2015-02-02 20:30:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,0,0,21.0,10,4,3,3,0,0,0,3,3,-1,9,4,0.444,1,0,0.0,2,2,1.0,100,94,0
+201937,2014,21400737,2015-02-04 20:00:00,Minnesota,Timberwolves,Miami,Heat,Regular Season,1,1,23.0,8,9,3,3,0,0,2,4,3,0,3,1,0.333,0,0,0.0,8,6,0.75,102,101,0
+201937,2014,21400754,2015-02-06 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,1,1,25.0,17,5,5,4,1,0,1,3,1,5,12,6,0.5,4,3,0.75,2,2,1.0,90,89,0
+201937,2014,21400769,2015-02-08 18:00:00,Minnesota,Timberwolves,Detroit,Pistons,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,101,112,0
+201937,2014,21400779,2015-02-09 20:00:00,Minnesota,Timberwolves,Atlanta,Hawks,Regular Season,1,0,26.0,8,5,1,1,0,0,2,4,2,-18,11,3,0.273,3,1,0.333,1,1,1.0,105,117,0
+201937,2014,21400793,2015-02-11 20:00:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,1,0,31.0,18,5,9,8,1,0,3,4,4,6,16,7,0.438,5,2,0.4,2,2,1.0,91,94,0
+201937,2014,21400808,2015-02-20 20:00:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,1,1,37.0,10,14,8,8,0,0,2,3,5,14,10,2,0.2,3,1,0.333,6,5,0.833,111,109,0
+201937,2014,21400832,2015-02-23 20:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,0,0,38.0,14,7,9,9,0,0,4,5,1,0,9,2,0.222,4,0,0.0,10,10,1.0,113,102,0
+201937,2014,21400848,2015-02-25 20:00:00,Minnesota,Timberwolves,Washington,Wizards,Regular Season,1,1,30.0,6,8,7,6,1,0,4,2,3,14,9,2,0.222,1,0,0.0,2,2,1.0,97,77,0
+201937,2014,21400862,2015-02-27 20:00:00,Minnesota,Timberwolves,Chicago,Bulls,Regular Season,0,0,38.0,15,10,6,4,2,1,1,1,1,-11,14,5,0.357,4,1,0.25,6,4,0.667,96,89,0
+201937,2014,21400873,2015-02-28 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,1,0,41.0,13,10,7,5,2,0,4,4,4,5,12,3,0.25,4,1,0.25,8,6,0.75,97,101,0
+201937,2014,21400888,2015-03-02 20:00:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,1,0,39.0,18,11,12,11,1,0,1,2,1,-11,11,5,0.455,4,1,0.25,9,7,0.778,105,110,0
+201937,2014,21400902,2015-03-04 20:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,1,0,40.0,10,10,3,1,2,0,1,4,0,-4,13,4,0.308,3,0,0.0,2,2,1.0,85,100,0
+201937,2014,21400928,2015-03-07 20:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,1,1,38.0,13,15,8,8,0,0,0,1,4,13,12,5,0.417,3,1,0.333,2,2,1.0,121,113,0
+201937,2014,21400945,2015-03-09 22:30:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,0,0,34.0,2,12,2,2,0,0,3,3,1,-19,8,1,0.125,1,0,0.0,1,0,0.0,89,76,0
+201937,2014,21400959,2015-03-11 22:00:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,0,0,27.0,8,6,5,3,2,0,0,1,3,-18,11,4,0.364,4,0,0.0,0,0,0.0,106,97,0
+201937,2014,21400971,2015-03-13 20:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Regular Season,0,0,22.0,7,4,1,1,0,0,2,3,1,-8,8,3,0.375,2,1,0.5,0,0,0.0,113,99,0
+201937,2014,21400986,2015-03-15 19:00:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,123,97,0
+201937,2014,21400994,2015-03-16 20:00:00,Minnesota,Timberwolves,Brooklyn,Nets,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,106,122,0
+201937,2014,21401008,2015-03-18 19:30:00,Minnesota,Timberwolves,Toronto,Raptors,Regular Season,0,0,30.0,2,8,8,7,1,0,2,2,3,-6,4,1,0.25,1,0,0.0,0,0,0.0,105,100,0
+201937,2014,21401016,2015-03-19 19:30:00,Minnesota,Timberwolves,New York,Knicks,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,92,95,0
+201937,2014,21401045,2015-03-22 19:00:00,Minnesota,Timberwolves,Charlotte,Hornets,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,98,109,0
+201937,2014,21401052,2015-03-23 21:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,104,106,0
+201937,2014,21401067,2015-03-25 20:00:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,99,101,0
+201937,2014,21401081,2015-03-27 20:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,120,110,0
+201937,2014,21401094,2015-03-29 16:00:00,Minnesota,Timberwolves,New Orleans,Pelicans,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,110,88,0
+201937,2014,21401106,2015-03-30 20:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,84,104,0
+201937,2014,21401119,2015-04-01 20:00:00,Minnesota,Timberwolves,Toronto,Raptors,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,99,113,0
+201937,2014,21401133,2015-04-03 20:00:00,Minnesota,Timberwolves,Orlando,Magic,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,84,97,0
+201937,2014,21401158,2015-04-07 22:00:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,116,111,0
+201937,2014,21401172,2015-04-08 22:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,116,91,0
+201937,2014,21401186,2015-04-10 22:30:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,106,98,0
+201937,2014,21401192,2015-04-11 22:30:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,110,101,0
+201937,2014,21401208,2015-04-13 20:00:00,Minnesota,Timberwolves,New Orleans,Pelicans,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,88,100,0
+201937,2014,21401222,2015-04-15 20:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,113,138,0
+201937,2015,11500018,2015-10-07 20:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Preseason,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,99,122,0
+201937,2015,11500048,2015-10-12 19:30:00,Minnesota,Timberwolves,Toronto,Raptors,Preseason,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,112,105,0
+201937,2015,11500077,2015-10-18 18:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Preseason,0,0,23.0,0,4,3,2,1,0,1,2,0,-16,4,0,0.0,1,0,0.0,0,0,0.0,90,68,0
+201937,2015,11500088,2015-10-20 20:00:00,Minnesota,Timberwolves,Milwaukee,Bucks,Preseason,0,0,22.0,8,3,0,0,0,0,1,4,4,-14,6,3,0.5,0,0,0.0,3,2,0.667,106,88,0
+201937,2015,11500105,2015-10-23 20:00:00,Minnesota,Timberwolves,Milwaukee,Bucks,Preseason,1,1,29.0,13,6,2,0,2,0,3,3,5,7,7,4,0.571,2,1,0.5,6,4,0.667,112,108,0
+201937,2015,21500017,2015-10-28 22:30:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,0,1,32.0,28,14,2,2,0,0,1,1,3,12,17,10,0.588,4,2,0.5,7,6,0.857,111,112,0
+201937,2015,21500029,2015-10-30 21:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,0,1,30.0,12,8,5,4,1,0,1,2,3,21,8,2,0.25,2,0,0.0,9,8,0.889,78,95,0
+201937,2015,21500050,2015-11-02 20:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,1,0,31.0,12,9,9,9,0,0,3,1,4,3,10,4,0.4,2,0,0.0,4,4,1.0,101,106,0
+201937,2015,21500071,2015-11-05 20:00:00,Minnesota,Timberwolves,Miami,Heat,Regular Season,1,0,23.0,9,5,1,1,0,0,3,3,0,-17,6,2,0.333,0,0,0.0,5,5,1.0,84,96,0
+201937,2015,21500085,2015-11-07 18:00:00,Minnesota,Timberwolves,Chicago,Bulls,Regular Season,0,1,38.0,7,10,8,7,1,0,3,3,3,15,10,2,0.2,1,0,0.0,4,3,0.75,93,102,0
+201937,2015,21500101,2015-11-09 20:00:00,Minnesota,Timberwolves,Atlanta,Hawks,Regular Season,0,1,27.0,10,8,1,1,0,0,3,2,3,4,10,4,0.4,1,0,0.0,2,2,1.0,107,117,0
+201937,2015,21500111,2015-11-10 20:00:00,Minnesota,Timberwolves,Charlotte,Hornets,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,95,104,0
+201937,2015,21500161,2015-11-17 19:30:00,Minnesota,Timberwolves,Miami,Heat,Regular Season,0,1,26.0,7,3,4,3,1,1,2,1,5,-1,7,1,0.143,2,0,0.0,8,5,0.625,91,103,0
+201937,2015,21500166,2015-11-18 19:00:00,Minnesota,Timberwolves,Orlando,Magic,Regular Season,0,0,34.0,8,12,12,10,2,0,1,3,3,0,11,3,0.273,1,0,0.0,2,2,1.0,104,101,0
+201937,2015,21500181,2015-11-20 20:00:00,Minnesota,Timberwolves,Detroit,Pistons,Regular Season,1,0,30.0,12,7,1,0,1,0,0,3,4,-10,12,5,0.417,4,1,0.25,2,1,0.5,86,96,0
+201937,2015,21500206,2015-11-23 20:00:00,Minnesota,Timberwolves,Philadelphia,76ers,Regular Season,1,1,32.0,8,11,6,5,1,0,1,4,5,21,5,2,0.4,1,0,0.0,4,4,1.0,100,95,0
+201937,2015,21500222,2015-11-25 20:00:00,Minnesota,Timberwolves,Atlanta,Hawks,Regular Season,1,1,21.0,5,6,3,2,1,0,1,1,1,3,7,2,0.286,1,0,0.0,2,1,0.5,99,95,0
+201937,2015,21500237,2015-11-27 22:00:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,91,101,0
+201937,2015,21500265,2015-12-01 20:00:00,Minnesota,Timberwolves,Orlando,Magic,Regular Season,1,0,26.0,3,3,5,4,1,0,3,2,2,-3,5,0,0.0,3,0,0.0,4,3,0.75,93,96,0
+201937,2015,21500294,2015-12-05 20:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,1,0,33.0,9,15,6,3,3,0,0,3,3,-8,5,1,0.2,2,1,0.5,6,6,1.0,103,109,0
+201937,2015,21500311,2015-12-07 20:00:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,1,0,28.0,16,7,5,4,1,0,4,6,2,-15,8,4,0.5,1,0,0.0,8,8,1.0,106,110,0
+201937,2015,21500325,2015-12-09 20:00:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,1,1,33.0,5,12,9,7,2,0,1,3,2,22,4,0,0.0,2,0,0.0,6,5,0.833,123,122,0
+201937,2015,21500340,2015-12-11 21:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,0,0,30.0,13,7,5,5,0,0,0,1,6,-7,7,4,0.571,2,2,1.0,4,3,0.75,111,108,0
+201937,2015,21500353,2015-12-13 15:30:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,0,0,22.0,1,7,2,1,1,0,3,4,1,-5,4,0,0.0,1,0,0.0,2,1,0.5,108,101,0
+201937,2015,21500368,2015-12-15 20:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,1,0,29.0,13,9,4,4,0,0,0,1,1,-7,6,3,0.5,3,2,0.667,6,5,0.833,100,112,0
+201937,2015,21500375,2015-12-16 19:30:00,Minnesota,Timberwolves,New York,Knicks,Regular Season,0,0,34.0,9,12,10,7,3,0,8,1,1,3,10,3,0.3,1,1,1.0,2,2,1.0,107,102,0
+201937,2015,21500392,2015-12-18 20:00:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,1,1,32.0,12,8,7,5,2,0,2,3,3,6,10,3,0.3,6,2,0.333,4,4,1.0,99,95,0
+201937,2015,21500403,2015-12-20 13:00:00,Minnesota,Timberwolves,Brooklyn,Nets,Regular Season,0,1,27.0,8,15,2,2,0,0,4,2,1,19,6,1,0.167,1,0,0.0,7,6,0.857,85,100,0
+201937,2015,21500411,2015-12-21 19:30:00,Minnesota,Timberwolves,Boston,Celtics,Regular Season,0,0,33.0,4,8,2,2,0,0,4,2,2,-5,9,1,0.111,2,0,0.0,4,2,0.5,113,99,0
+201937,2015,21500431,2015-12-23 20:00:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,1,0,25.0,9,2,4,3,1,0,0,1,2,-10,5,3,0.6,2,1,0.5,2,2,1.0,83,108,0
+201937,2015,21500448,2015-12-26 20:00:00,Minnesota,Timberwolves,Indiana,Pacers,Regular Season,1,0,36.0,15,9,5,5,0,0,5,5,1,-1,10,6,0.6,4,1,0.25,2,2,1.0,88,102,0
+201937,2015,21500465,2015-12-28 20:30:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,0,0,36.0,7,14,3,3,0,0,4,1,5,2,9,2,0.222,2,0,0.0,4,3,0.75,101,95,0
+201937,2015,21500479,2015-12-30 20:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,1,1,35.0,10,17,2,1,1,0,3,3,2,14,6,2,0.333,4,2,0.5,6,4,0.667,94,80,0
+201937,2015,21500486,2015-12-31 18:00:00,Minnesota,Timberwolves,Detroit,Pistons,Regular Season,0,0,27.0,9,8,6,5,1,0,2,5,1,-23,11,3,0.273,1,0,0.0,3,3,1.0,115,90,0
+201937,2015,21500500,2016-01-02 20:00:00,Minnesota,Timberwolves,Milwaukee,Bucks,Regular Season,1,0,33.0,14,7,6,5,1,1,3,2,3,9,8,4,0.5,3,2,0.667,5,4,0.8,85,95,0
+201937,2015,21500512,2016-01-04 19:00:00,Minnesota,Timberwolves,Philadelphia,76ers,Regular Season,0,0,33.0,7,10,0,0,0,0,3,2,1,-1,11,3,0.273,2,0,0.0,2,1,0.5,109,99,0
+201937,2015,21500530,2016-01-06 20:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,1,0,31.0,9,7,4,4,0,0,1,0,2,5,8,3,0.375,4,2,0.5,2,1,0.5,74,78,0
+201937,2015,21500543,2016-01-08 20:00:00,Minnesota,Timberwolves,Cleveland,Cavaliers,Regular Season,1,0,25.0,8,6,4,3,1,0,2,0,4,-12,6,2,0.333,2,2,1.0,2,2,1.0,99,125,0
+201937,2015,21500557,2016-01-10 17:00:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,1,0,33.0,12,8,7,6,1,0,3,2,2,6,10,4,0.4,2,0,0.0,5,4,0.8,87,93,0
+201937,2015,21500574,2016-01-12 20:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Regular Season,1,0,21.0,3,6,2,2,0,0,1,3,1,-11,5,1,0.2,3,1,0.333,0,0,0.0,96,101,0
+201937,2015,21500581,2016-01-13 20:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,0,0,32.0,9,12,5,5,0,1,4,8,3,14,4,3,0.75,0,0,0.0,5,3,0.6,107,104,0
+201937,2015,21500594,2016-01-15 19:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Regular Season,0,0,23.0,6,2,4,4,0,0,1,0,2,-17,6,2,0.333,3,2,0.667,0,0,0.0,113,93,0
+201937,2015,21500610,2016-01-17 15:30:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,1,1,24.0,18,3,2,2,0,0,2,3,3,10,11,6,0.545,5,2,0.4,4,4,1.0,117,87,0
+201937,2015,21500626,2016-01-19 20:00:00,Minnesota,Timberwolves,New Orleans,Pelicans,Regular Season,0,0,29.0,15,4,1,1,0,0,1,2,3,-3,7,5,0.714,2,1,0.5,4,4,1.0,114,99,0
+201937,2015,21500637,2016-01-20 20:30:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,0,0,35.0,2,11,2,2,0,0,0,5,3,-18,9,1,0.111,4,0,0.0,0,0,0.0,106,94,0
+201937,2015,21500658,2016-01-23 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,1,1,28.0,15,12,6,4,2,0,3,1,4,9,7,2,0.286,3,0,0.0,13,11,0.846,106,101,0
+201937,2015,21500667,2016-01-25 19:00:00,Minnesota,Timberwolves,Cleveland,Cavaliers,Regular Season,0,0,31.0,4,10,7,6,1,0,2,1,2,-4,7,2,0.286,1,0,0.0,0,0,0.0,114,107,0
+201937,2015,21500688,2016-01-27 20:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Regular Season,1,0,30.0,4,10,2,2,0,0,3,1,2,-2,6,1,0.167,3,0,0.0,3,2,0.667,123,126,0
+201937,2015,21500704,2016-01-29 21:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,0,0,29.0,3,8,2,2,0,0,2,1,2,5,6,0,0.0,2,0,0.0,4,3,0.75,103,90,0
+201937,2015,21500719,2016-01-31 21:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,0,0,28.0,15,9,4,4,0,0,3,0,4,9,7,6,0.857,1,1,1.0,5,2,0.4,96,93,0
+201937,2015,21500734,2016-02-02 22:30:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,0,0,29.0,10,15,2,2,0,0,1,2,1,-9,10,4,0.4,2,0,0.0,2,2,1.0,119,115,0
+201937,2015,21500745,2016-02-03 22:30:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,0,1,30.0,8,7,5,5,0,0,5,2,4,12,6,1,0.167,1,0,0.0,7,6,0.857,102,108,0
+201937,2015,21500766,2016-02-06 20:00:00,Minnesota,Timberwolves,Chicago,Bulls,Regular Season,1,1,31.0,14,6,5,5,0,0,3,3,3,9,6,4,0.667,0,0,0.0,6,6,1.0,112,105,0
+201937,2015,21500782,2016-02-08 20:00:00,Minnesota,Timberwolves,New Orleans,Pelicans,Regular Season,1,0,27.0,11,7,5,5,0,0,0,3,2,-13,7,3,0.429,1,0,0.0,7,5,0.714,102,116,0
+201937,2015,21500797,2016-02-10 20:00:00,Minnesota,Timberwolves,Toronto,Raptors,Regular Season,1,1,37.0,19,8,8,7,1,0,1,2,3,-2,9,5,0.556,6,3,0.5,6,6,1.0,117,112,0
+201937,2015,21500810,2016-02-19 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,0,0,34.0,5,9,2,2,0,1,0,3,2,-2,5,0,0.0,3,0,0.0,5,5,1.0,109,104,0
+201937,2015,21500821,2016-02-20 20:00:00,Minnesota,Timberwolves,New York,Knicks,Regular Season,1,0,35.0,9,16,1,1,0,0,3,1,2,2,6,2,0.333,1,1,1.0,6,4,0.667,95,103,0
+201937,2015,21500838,2016-02-22 20:00:00,Minnesota,Timberwolves,Boston,Celtics,Regular Season,1,1,32.0,15,8,8,8,0,0,1,4,3,11,7,3,0.429,1,0,0.0,11,9,0.818,124,122,0
+201937,2015,21500849,2016-02-24 19:30:00,Minnesota,Timberwolves,Toronto,Raptors,Regular Season,0,0,36.0,12,13,3,3,0,0,2,3,2,-7,3,2,0.667,2,2,1.0,6,6,1.0,114,105,0
+201937,2015,21500870,2016-02-27 19:00:00,Minnesota,Timberwolves,New Orleans,Pelicans,Regular Season,0,1,35.0,9,10,4,4,0,0,0,4,2,7,5,2,0.4,1,0,0.0,5,5,1.0,110,112,0
+201937,2015,21500882,2016-02-28 19:00:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,0,0,24.0,14,5,2,1,1,0,0,0,0,-28,11,5,0.455,4,1,0.25,3,3,1.0,128,101,0
+201937,2015,21500904,2016-03-02 20:00:00,Minnesota,Timberwolves,Washington,Wizards,Regular Season,1,0,37.0,22,3,6,5,1,0,3,6,4,10,14,6,0.429,3,2,0.667,9,8,0.889,98,104,0
+201937,2015,21500919,2016-03-04 20:00:00,Minnesota,Timberwolves,Milwaukee,Bucks,Regular Season,0,0,23.0,6,7,1,0,1,1,1,5,3,-21,6,2,0.333,3,1,0.333,1,1,1.0,116,101,0
+201937,2015,21500926,2016-03-05 20:00:00,Minnesota,Timberwolves,Brooklyn,Nets,Regular Season,1,1,32.0,16,10,7,7,0,0,2,1,4,20,8,5,0.625,4,2,0.5,5,4,0.8,132,118,0
+201937,2015,21500937,2016-03-07 19:00:00,Minnesota,Timberwolves,Charlotte,Hornets,Regular Season,0,0,34.0,10,10,5,5,0,1,1,2,2,15,6,2,0.333,3,0,0.0,6,6,1.0,108,103,0
+201937,2015,21500945,2016-03-08 20:00:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,1,0,21.0,2,3,4,3,1,0,0,2,4,-26,5,1,0.2,1,0,0.0,0,0,0.0,91,116,0
+201937,2015,21500968,2016-03-11 20:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Regular Season,0,1,35.0,13,12,8,8,0,0,3,0,2,16,9,4,0.444,6,3,0.5,2,2,1.0,96,99,0
+201937,2015,21500995,2016-03-14 22:00:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,0,0,36.0,13,17,3,3,0,0,4,3,2,12,11,3,0.273,4,1,0.25,6,6,1.0,107,104,0
+201937,2015,21501008,2016-03-16 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,0,1,28.0,15,11,3,2,1,0,1,2,5,-4,6,3,0.5,3,2,0.667,8,7,0.875,108,114,0
+201937,2015,21501024,2016-03-18 20:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,0,0,32.0,14,6,3,3,0,1,0,5,1,-12,9,6,0.667,4,1,0.25,1,1,1.0,116,111,0
+201937,2015,21501050,2016-03-21 20:00:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,1,0,32.0,20,11,4,4,0,1,4,6,4,1,9,5,0.556,7,3,0.429,7,7,1.0,104,109,0
+201937,2015,21501062,2016-03-23 20:00:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,1,1,26.0,7,12,5,5,0,0,3,3,4,13,7,2,0.286,3,1,0.333,2,2,1.0,113,104,0
+201937,2015,21501073,2016-03-25 19:00:00,Minnesota,Timberwolves,Washington,Wizards,Regular Season,0,1,44.0,13,7,5,5,0,0,2,3,5,10,12,4,0.333,5,1,0.2,4,4,1.0,129,132,0
+201937,2015,21501087,2016-03-26 20:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,1,0,30.0,23,6,5,4,1,1,4,4,2,7,12,9,0.75,2,2,1.0,4,3,0.75,84,93,0
+201937,2015,21501101,2016-03-28 20:00:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,1,1,34.0,17,11,7,6,1,0,3,6,2,7,15,6,0.4,6,2,0.333,4,3,0.75,121,116,0
+201937,2015,21501116,2016-03-30 20:00:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,1,0,25.0,9,1,3,2,1,0,1,0,1,-22,9,2,0.222,4,2,0.5,3,3,1.0,79,99,0
+201937,2015,21501134,2016-04-01 21:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,0,0,28.0,6,9,6,5,1,0,4,3,4,-14,8,2,0.25,4,1,0.25,1,1,1.0,98,85,0
+201937,2015,21501146,2016-04-03 15:30:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,1,0,34.0,9,5,2,2,0,0,1,2,3,7,7,2,0.286,4,1,0.25,4,4,1.0,78,88,0
+201937,2015,21501163,2016-04-05 22:30:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,0,1,33.0,2,9,4,4,0,0,1,4,5,-12,6,1,0.167,1,0,0.0,0,0,0.0,117,124,0
+201937,2015,21501176,2016-04-07 22:00:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,0,1,21.0,2,7,3,3,0,0,1,5,3,2,0,0,0.0,0,0,0.0,4,2,0.5,97,105,0
+201937,2015,21501192,2016-04-09 22:30:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,0,1,32.0,5,11,4,4,0,0,4,4,3,-7,7,2,0.286,1,1,1.0,0,0,0.0,105,106,0
+201937,2015,21501207,2016-04-11 20:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,1,0,22.0,4,5,2,2,0,1,2,0,1,-17,6,2,0.333,2,0,0.0,2,0,0.0,105,129,0
+201937,2015,21501226,2016-04-13 20:00:00,Minnesota,Timberwolves,New Orleans,Pelicans,Regular Season,1,1,22.0,7,10,4,4,0,0,5,2,3,21,3,1,0.333,2,1,0.5,4,4,1.0,144,109,0
+201937,2016,11600032,2016-10-08 20:30:00,Minnesota,Timberwolves,Miami,Heat,Preseason,0,1,23.0,9,5,5,4,1,0,3,0,1,3,5,2,0.4,1,1,1.0,4,4,1.0,100,109,0
+201937,2016,11600038,2016-10-10 19:00:00,Minnesota,Timberwolves,Charlotte,Hornets,Preseason,0,0,14.0,3,2,5,4,1,0,1,1,5,-6,6,1,0.167,3,0,0.0,1,1,1.0,98,86,0
+201937,2016,11600050,2016-10-12 20:00:00,Minnesota,Timberwolves,Denver,Nuggets,Preseason,1,1,25.0,7,8,3,2,1,0,4,2,0,24,3,1,0.333,1,0,0.0,6,5,0.833,105,88,0
+201937,2016,11600071,2016-10-15 19:30:00,Minnesota,Timberwolves,Miami,Heat,Preseason,0,1,26.0,10,6,2,2,0,0,1,3,1,6,6,3,0.5,2,1,0.5,3,3,1.0,96,101,0
+201937,2016,11600074,2016-10-16 19:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Preseason,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,112,94,0
+201937,2016,11600086,2016-10-19 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Preseason,1,1,23.0,2,7,2,1,1,0,3,2,2,36,2,1,0.5,0,0,0.0,0,0,0.0,101,94,0
+201937,2016,11600097,2016-10-21 20:00:00,Minnesota,Timberwolves,Charlotte,Hornets,Preseason,1,1,22.0,10,6,4,4,0,0,2,1,3,16,8,4,0.5,2,0,0.0,3,2,0.667,109,74,0
+201937,2016,21600009,2016-10-26 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,0,0,33.0,4,8,4,3,1,0,0,2,4,-1,5,1,0.2,1,0,0.0,5,2,0.4,102,98,0
+201937,2016,21600034,2016-10-29 22:30:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,0,0,28.0,5,5,1,1,0,0,3,1,3,-10,4,2,0.5,1,0,0.0,1,1,1.0,106,103,0
+201937,2016,21600135,2016-11-12 20:00:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,1,0,24.0,7,6,6,1,5,0,1,3,3,-14,5,2,0.4,2,1,0.5,4,2,0.5,105,119,0
+201937,2016,21600142,2016-11-13 19:00:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,1,1,34.0,10,10,4,4,0,0,3,2,3,26,6,4,0.667,3,1,0.333,2,1,0.5,125,99,0
+201937,2016,21600155,2016-11-15 20:00:00,Minnesota,Timberwolves,Charlotte,Hornets,Regular Season,1,0,34.0,11,8,8,6,2,0,2,4,5,-19,5,2,0.4,3,2,0.667,6,5,0.833,108,115,0
+201937,2016,21600172,2016-11-17 20:00:00,Minnesota,Timberwolves,Philadelphia,76ers,Regular Season,1,1,24.0,4,5,4,4,0,0,0,3,2,21,5,1,0.2,3,0,0.0,2,2,1.0,110,86,0
+201937,2016,21600190,2016-11-19 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,0,0,34.0,2,7,4,2,2,0,0,2,0,-10,5,0,0.0,2,0,0.0,4,2,0.5,93,71,0
+201937,2016,21600205,2016-11-21 20:00:00,Minnesota,Timberwolves,Boston,Celtics,Regular Season,1,0,38.0,7,9,8,4,4,0,1,0,3,-8,7,1,0.143,4,1,0.25,4,4,1.0,93,99,0
+201937,2016,21600222,2016-11-23 21:30:00,Minnesota,Timberwolves,New Orleans,Pelicans,Regular Season,0,0,22.0,0,5,1,0,1,0,2,1,1,-31,2,0,0.0,0,0,0.0,0,0,0.0,117,96,0
+201937,2016,21600236,2016-11-25 21:00:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,0,1,24.0,11,4,1,1,0,0,5,5,4,-4,7,4,0.571,2,1,0.5,2,2,1.0,85,98,0
+201937,2016,21600244,2016-11-26 22:30:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,0,0,28.0,6,7,2,1,1,0,0,1,1,-11,5,2,0.4,2,0,0.0,2,2,1.0,115,102,0
+201937,2016,21600258,2016-11-28 20:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,1,0,25.0,11,3,2,2,0,0,2,1,4,3,5,4,0.8,2,1,0.5,2,2,1.0,103,112,0
+201937,2016,21600271,2016-11-30 20:00:00,Minnesota,Timberwolves,New York,Knicks,Regular Season,1,0,37.0,8,6,2,2,0,0,3,2,2,9,5,2,0.4,2,0,0.0,4,4,1.0,104,106,0
+201937,2016,21600285,2016-12-02 19:30:00,Minnesota,Timberwolves,New York,Knicks,Regular Season,0,0,30.0,3,6,3,2,1,0,1,1,2,-6,4,1,0.25,2,0,0.0,1,1,1.0,118,114,0
+201937,2016,21600292,2016-12-03 19:00:00,Minnesota,Timberwolves,Charlotte,Hornets,Regular Season,0,1,36.0,9,12,7,6,1,1,1,2,3,-3,7,2,0.286,2,1,0.5,5,4,0.8,120,125,0
+201937,2016,21600319,2016-12-06 20:00:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,1,0,31.0,4,7,5,5,0,1,1,1,3,-5,9,2,0.222,3,0,0.0,0,0,0.0,91,105,0
+201937,2016,21600331,2016-12-08 19:00:00,Minnesota,Timberwolves,Toronto,Raptors,Regular Season,0,0,29.0,7,3,3,2,1,0,0,1,5,-13,7,2,0.286,6,2,0.333,1,1,1.0,124,110,0
+201937,2016,21600342,2016-12-09 20:00:00,Minnesota,Timberwolves,Detroit,Pistons,Regular Season,1,0,28.0,10,6,3,2,1,0,0,0,3,-6,5,4,0.8,0,0,0.0,2,2,1.0,90,117,0
+201937,2016,21600358,2016-12-11 19:00:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,1,0,32.0,8,6,5,2,3,0,1,3,3,3,10,3,0.3,5,0,0.0,2,2,1.0,108,116,0
+201937,2016,21600370,2016-12-13 20:00:00,Minnesota,Timberwolves,Chicago,Bulls,Regular Season,0,1,34.0,11,10,5,3,2,0,1,2,0,11,6,3,0.5,1,1,1.0,4,4,1.0,94,99,0
+201937,2016,21600403,2016-12-17 20:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,1,0,41.0,7,7,8,6,2,0,4,3,1,-11,7,2,0.286,2,1,0.5,2,2,1.0,109,111,0
+201937,2016,21600416,2016-12-19 20:00:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,1,1,36.0,8,12,3,3,0,0,2,3,2,7,5,1,0.2,2,0,0.0,6,6,1.0,115,108,0
+201937,2016,21600430,2016-12-21 19:30:00,Minnesota,Timberwolves,Atlanta,Hawks,Regular Season,0,1,33.0,10,8,5,4,1,0,2,6,0,1,5,3,0.6,3,2,0.667,2,2,1.0,84,92,0
+201937,2016,21600450,2016-12-23 20:00:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,1,0,33.0,13,8,6,4,2,0,3,3,4,2,10,4,0.4,6,3,0.5,2,2,1.0,105,109,0
+201937,2016,21600459,2016-12-25 20:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Regular Season,0,0,30.0,3,10,6,4,2,0,2,0,4,-14,4,1,0.25,0,0,0.0,1,1,1.0,112,100,0
+201937,2016,21600468,2016-12-26 20:00:00,Minnesota,Timberwolves,Atlanta,Hawks,Regular Season,1,1,24.0,3,10,1,0,1,0,1,0,1,17,4,1,0.25,3,1,0.333,0,0,0.0,104,90,0
+201937,2016,21600483,2016-12-28 21:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,0,0,33.0,18,7,8,6,2,0,4,4,2,-1,14,5,0.357,7,1,0.143,7,7,1.0,105,103,0
+201937,2016,21600497,2016-12-30 20:00:00,Minnesota,Timberwolves,Milwaukee,Bucks,Regular Season,1,1,35.0,5,9,1,0,1,0,4,2,2,27,4,2,0.5,3,1,0.333,0,0,0.0,116,99,0
+201937,2016,21600511,2017-01-01 19:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,1,0,26.0,1,6,0,0,0,0,2,0,3,-18,5,0,0.0,2,0,0.0,1,1,1.0,89,95,0
+201937,2016,21600521,2017-01-03 19:00:00,Minnesota,Timberwolves,Philadelphia,76ers,Regular Season,0,0,30.0,5,5,3,2,1,0,2,3,2,-2,3,2,0.667,2,1,0.5,0,0,0.0,93,91,0
+201937,2016,21600544,2017-01-06 19:00:00,Minnesota,Timberwolves,Washington,Wizards,Regular Season,0,0,34.0,4,7,5,4,1,0,1,3,3,-3,3,2,0.667,0,0,0.0,0,0,0.0,112,105,0
+201937,2016,21600556,2017-01-07 20:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,1,0,33.0,12,7,3,3,0,0,1,2,4,0,7,5,0.714,1,0,0.0,3,2,0.667,92,94,0
+201937,2016,21600570,2017-01-09 20:00:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,1,1,30.0,13,15,5,5,0,0,5,3,4,9,9,3,0.333,2,0,0.0,7,7,1.0,101,92,0
+201937,2016,21600582,2017-01-11 20:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,1,1,35.0,10,17,3,3,0,0,1,1,2,12,5,1,0.2,2,0,0.0,8,8,1.0,119,105,0
+201937,2016,21600596,2017-01-13 20:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Regular Season,1,1,36.0,14,14,4,3,1,0,4,5,3,11,12,6,0.5,2,0,0.0,2,2,1.0,96,86,0
+201937,2016,21600608,2017-01-15 14:00:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,0,0,35.0,8,10,5,4,1,0,2,4,2,6,9,2,0.222,2,0,0.0,6,4,0.667,98,87,0
+201937,2016,21600625,2017-01-17 20:30:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,0,0,39.0,21,15,2,2,0,0,2,3,2,-2,9,4,0.444,1,0,0.0,14,13,0.929,122,114,0
+201937,2016,21600640,2017-01-19 22:30:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,0,1,16.0,0,4,4,3,1,0,0,3,0,-2,3,0,0.0,1,0,0.0,0,0,0.0,101,104,0
+201937,2016,21600679,2017-01-24 21:00:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,0,1,33.0,14,10,4,2,2,0,1,1,3,-3,8,4,0.5,1,1,1.0,6,5,0.833,111,112,0
+201937,2016,21600691,2017-01-26 20:00:00,Minnesota,Timberwolves,Indiana,Pacers,Regular Season,1,0,32.0,4,12,2,1,1,0,4,3,3,-5,6,2,0.333,2,0,0.0,0,0,0.0,103,109,0
+201937,2016,21600710,2017-01-28 21:00:00,Minnesota,Timberwolves,Brooklyn,Nets,Regular Season,1,1,22.0,14,6,3,3,0,0,1,2,5,8,9,5,0.556,2,0,0.0,4,4,1.0,129,109,0
+201937,2016,21600720,2017-01-30 20:00:00,Minnesota,Timberwolves,Orlando,Magic,Regular Season,1,1,35.0,22,8,8,7,1,2,0,1,6,-7,16,7,0.438,9,6,0.667,4,2,0.5,111,105,0
+201937,2016,21600731,2017-02-01 19:00:00,Minnesota,Timberwolves,Cleveland,Cavaliers,Regular Season,0,0,37.0,14,13,2,2,0,1,0,4,3,-15,11,5,0.455,3,1,0.333,3,3,1.0,125,97,0
+201937,2016,21600748,2017-02-03 19:30:00,Minnesota,Timberwolves,Detroit,Pistons,Regular Season,0,0,34.0,16,7,2,2,0,0,2,6,1,-5,10,4,0.4,4,2,0.5,7,6,0.857,116,108,0
+201937,2016,21600763,2017-02-04 21:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,1,0,38.0,14,6,1,1,0,0,0,2,4,-14,15,5,0.333,6,2,0.333,2,2,1.0,99,107,0
+201937,2016,21600775,2017-02-06 20:00:00,Minnesota,Timberwolves,Miami,Heat,Regular Season,1,0,35.0,14,13,3,3,0,0,2,2,1,-8,8,4,0.5,1,0,0.0,6,6,1.0,113,115,0
+201937,2016,21600790,2017-02-08 20:00:00,Minnesota,Timberwolves,Toronto,Raptors,Regular Season,1,1,20.0,5,7,1,1,0,0,1,1,2,4,7,2,0.286,1,1,1.0,0,0,0.0,112,109,0
+201937,2016,21600804,2017-02-10 20:00:00,Minnesota,Timberwolves,New Orleans,Pelicans,Regular Season,1,0,39.0,15,12,1,1,0,0,4,4,2,-14,10,5,0.5,3,1,0.333,6,4,0.667,106,122,0
+201937,2016,21600816,2017-02-12 15:30:00,Minnesota,Timberwolves,Chicago,Bulls,Regular Season,1,1,32.0,17,11,6,6,0,0,2,4,0,26,10,5,0.5,3,1,0.333,6,6,1.0,117,89,0
+201937,2016,21600832,2017-02-14 20:00:00,Minnesota,Timberwolves,Cleveland,Cavaliers,Regular Season,1,0,38.0,5,16,8,7,1,0,2,4,3,1,8,2,0.25,2,0,0.0,2,1,0.5,108,116,0
+201937,2016,21600842,2017-02-15 21:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,0,1,34.0,6,5,3,2,1,0,3,4,2,8,5,1,0.2,4,0,0.0,4,4,1.0,99,112,0
+201937,2016,21600862,2017-02-24 20:00:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,1,1,34.0,13,14,5,4,1,0,3,3,3,15,13,6,0.462,1,0,0.0,2,1,0.5,97,84,0
+201937,2016,21600872,2017-02-25 21:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,0,0,31.0,14,11,3,2,1,0,1,6,3,-10,8,3,0.375,5,2,0.4,7,6,0.857,142,130,0
+201937,2016,21600888,2017-02-27 22:30:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,0,1,31.0,9,10,5,5,0,1,2,2,3,7,8,3,0.375,1,1,1.0,2,2,1.0,88,102,0
+201937,2016,21600903,2017-03-01 21:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,0,1,28.0,11,9,6,4,2,0,2,2,1,29,7,4,0.571,0,0,0.0,4,3,0.75,80,107,0
+201937,2016,21600925,2017-03-04 21:00:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,0,0,43.0,11,10,13,11,2,0,3,4,3,0,12,4,0.333,2,1,0.5,4,2,0.5,97,90,0
+201937,2016,21600955,2017-03-08 20:00:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,1,1,33.0,15,12,6,6,0,0,2,2,5,14,12,5,0.417,5,1,0.2,4,4,1.0,107,91,0
+201937,2016,21600968,2017-03-10 20:00:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,1,1,35.0,17,13,4,3,1,0,1,2,3,5,10,3,0.3,1,0,0.0,11,11,1.0,103,102,0
+201937,2016,21600978,2017-03-11 20:00:00,Minnesota,Timberwolves,Milwaukee,Bucks,Regular Season,0,0,27.0,22,8,0,0,0,0,0,1,5,-5,14,9,0.643,3,2,0.667,3,2,0.667,102,95,0
+201937,2016,21600995,2017-03-13 20:00:00,Minnesota,Timberwolves,Washington,Wizards,Regular Season,1,1,39.0,22,19,5,4,1,0,3,6,3,20,15,8,0.533,5,2,0.4,4,4,1.0,119,104,0
+201937,2016,21601006,2017-03-15 19:30:00,Minnesota,Timberwolves,Boston,Celtics,Regular Season,0,0,32.0,23,7,3,1,2,0,1,1,4,-10,14,8,0.571,5,3,0.6,4,4,1.0,117,104,0
+201937,2016,21601025,2017-03-17 20:00:00,Minnesota,Timberwolves,Miami,Heat,Regular Season,0,0,32.0,20,6,0,0,0,1,2,3,5,-7,14,8,0.571,0,0,0.0,4,4,1.0,123,105,0
+201937,2016,21601039,2017-03-19 18:00:00,Minnesota,Timberwolves,New Orleans,Pelicans,Regular Season,0,0,34.0,10,14,3,3,0,0,1,3,3,-15,11,4,0.364,6,2,0.333,0,0,0.0,123,109,0
+201937,2016,21601056,2017-03-21 21:30:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,1,0,30.0,9,7,6,5,1,0,2,4,2,-17,10,3,0.3,2,1,0.5,2,2,1.0,93,100,0
+201937,2016,21601080,2017-03-24 22:30:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,0,0,43.0,19,15,3,3,0,1,3,2,1,3,13,5,0.385,5,1,0.2,8,8,1.0,130,119,0
+201937,2016,21601086,2017-03-25 22:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,0,0,25.0,16,4,4,2,2,0,1,2,3,-11,12,6,0.5,1,1,1.0,3,3,1.0,112,100,0
+201937,2016,21601104,2017-03-28 19:00:00,Minnesota,Timberwolves,Indiana,Pacers,Regular Season,0,1,38.0,21,11,5,3,2,0,0,5,4,4,12,4,0.333,1,0,0.0,13,13,1.0,114,115,0
+201937,2016,21601123,2017-03-30 20:00:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,1,1,38.0,33,10,5,4,1,0,2,3,1,20,20,12,0.6,5,4,0.8,6,5,0.833,119,104,0
+201937,2016,21601140,2017-04-01 20:00:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,1,0,37.0,11,13,6,5,1,0,2,2,3,12,10,1,0.1,3,0,0.0,10,9,0.9,117,123,0
+201937,2016,21600940,2017-04-03 19:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,1,1,39.0,11,16,7,7,0,1,0,5,4,7,7,2,0.286,0,0,0.0,9,7,0.778,110,109,0
+201937,2016,21601162,2017-04-04 22:30:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,0,0,30.0,15,5,5,3,2,0,1,2,3,-17,17,6,0.353,6,0,0.0,3,3,1.0,121,107,0
+201937,2016,21601178,2017-04-06 22:30:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,0,0,38.0,19,5,7,7,0,1,1,2,0,7,19,8,0.421,3,1,0.333,2,2,1.0,105,98,0
+201937,2016,21601185,2017-04-07 21:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,0,0,37.0,26,12,3,3,0,0,0,3,3,-15,14,7,0.5,3,1,0.333,11,11,1.0,120,113,0
+201937,2016,21601202,2017-04-09 21:30:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,0,0,33.0,2,11,3,3,0,0,3,4,4,10,10,1,0.1,2,0,0.0,0,0,0.0,110,109,0
+201937,2016,21601213,2017-04-11 20:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Regular Season,1,0,35.0,14,10,4,2,2,0,1,3,3,-1,13,4,0.308,3,1,0.333,5,5,1.0,98,100,0
+201937,2016,21601224,2017-04-12 20:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,123,118,0
+201937,2017,11700034,2017-10-06 21:00:00,Utah,Jazz,Phoenix,Suns,Preseason,1,1,28.0,11,1,5,3,2,0,2,4,3,2,9,2,0.222,6,2,0.333,6,5,0.833,112,101,0
+201937,2017,11700047,2017-10-09 22:00:00,Utah,Jazz,Phoenix,Suns,Preseason,0,1,14.0,20,0,0,0,0,0,3,4,1,12,10,8,0.8,4,2,0.5,2,2,1.0,102,120,0
+201937,2017,11700058,2017-10-10 22:30:00,Utah,Jazz,Los Angeles,Lakers,Preseason,0,1,32.0,22,6,3,3,0,0,2,6,3,13,18,6,0.333,8,2,0.25,9,8,0.889,99,105,0
+201937,2017,21700010,2017-10-18 21:00:00,Utah,Jazz,Denver,Nuggets,Regular Season,1,1,31.0,9,10,5,5,0,0,2,3,1,-14,9,3,0.333,5,1,0.2,3,2,0.667,106,96,0
+201937,2017,21700023,2017-10-20 20:00:00,Utah,Jazz,Minnesota,Timberwolves,Regular Season,0,0,32.0,19,10,5,4,1,0,2,4,5,-8,10,4,0.4,3,1,0.333,11,10,0.909,100,97,0
+201937,2017,21700036,2017-10-21 21:00:00,Utah,Jazz,Oklahoma City,Thunder,Regular Season,1,1,36.0,16,5,6,6,0,0,1,6,3,13,14,5,0.357,8,2,0.25,4,4,1.0,96,87,0
+201937,2017,21700054,2017-10-24 22:30:00,Utah,Jazz,Los Angeles,Clippers,Regular Season,0,0,31.0,10,5,5,4,1,0,1,3,1,-26,10,5,0.5,2,0,0.0,0,0,0.0,102,84,0
+201937,2017,21700062,2017-10-25 22:00:00,Utah,Jazz,Phoenix,Suns,Regular Season,0,0,34.0,15,11,4,2,2,1,4,6,3,3,15,6,0.4,4,1,0.25,2,2,1.0,97,88,0
+201937,2017,21700082,2017-10-28 21:00:00,Utah,Jazz,Los Angeles,Lakers,Regular Season,1,1,32.0,21,4,7,4,3,0,1,5,3,8,13,6,0.462,7,4,0.571,6,5,0.833,96,81,0
+201937,2017,21700098,2017-10-30 21:00:00,Utah,Jazz,Dallas,Mavericks,Regular Season,1,1,33.0,20,6,2,2,0,0,4,3,1,19,15,8,0.533,8,4,0.5,0,0,0.0,104,89,0
+201937,2017,21700115,2017-11-01 21:00:00,Utah,Jazz,Portland,Trail Blazers,Regular Season,1,1,36.0,30,1,5,4,1,0,2,4,4,4,17,8,0.471,6,3,0.5,11,11,1.0,112,103,0
+201937,2017,21700128,2017-11-03 21:00:00,Utah,Jazz,Toronto,Raptors,Regular Season,1,0,30.0,13,3,0,0,0,0,1,4,4,-10,12,3,0.25,4,0,0.0,7,7,1.0,100,109,0
+201937,2017,21700140,2017-11-05 19:00:00,Utah,Jazz,Houston,Rockets,Regular Season,0,0,23.0,10,3,2,2,0,0,0,2,0,-23,7,2,0.286,5,1,0.2,6,5,0.833,137,110,0
+201937,2017,21700156,2017-11-07 21:00:00,Utah,Jazz,Philadelphia,76ers,Regular Season,1,0,28.0,11,8,2,2,0,0,2,4,3,2,16,4,0.25,5,0,0.0,3,3,1.0,97,104,0
+201937,2017,21700175,2017-11-10 21:00:00,Utah,Jazz,Miami,Heat,Regular Season,1,0,22.0,4,2,3,3,0,0,3,5,2,-2,5,0,0.0,0,0,0.0,4,4,1.0,74,84,0
+201937,2017,21700187,2017-11-11 21:00:00,Utah,Jazz,Brooklyn,Nets,Regular Season,1,1,36.0,10,8,7,7,0,0,4,1,5,6,9,4,0.444,3,0,0.0,3,2,0.667,114,106,0
+201937,2017,21700197,2017-11-13 21:00:00,Utah,Jazz,Minnesota,Timberwolves,Regular Season,1,0,22.0,3,2,0,0,0,0,0,3,1,-11,7,1,0.143,6,0,0.0,1,1,1.0,98,109,0
+201937,2017,21700206,2017-11-15 19:30:00,Utah,Jazz,New York,Knicks,Regular Season,0,0,30.0,13,4,2,2,0,0,1,0,3,-11,10,4,0.4,4,1,0.25,4,4,1.0,106,101,0
+201937,2017,21700219,2017-11-17 19:30:00,Utah,Jazz,Brooklyn,Nets,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,118,107,0
+201937,2017,21700229,2017-11-18 19:00:00,Utah,Jazz,Orlando,Magic,Regular Season,0,1,16.0,9,3,6,4,2,0,0,1,4,5,9,3,0.333,2,0,0.0,3,3,1.0,85,125,0
+201937,2017,21700244,2017-11-20 19:00:00,Utah,Jazz,Philadelphia,76ers,Regular Season,0,0,22.0,12,2,3,3,0,1,3,6,2,-4,10,5,0.5,3,2,0.667,0,0,0.0,107,86,0
+201937,2017,21700265,2017-11-22 21:00:00,Utah,Jazz,Chicago,Bulls,Regular Season,1,1,23.0,10,2,3,3,0,1,2,3,3,17,10,4,0.4,3,1,0.333,1,1,1.0,110,80,0
+201937,2017,21700285,2017-11-25 21:00:00,Utah,Jazz,Milwaukee,Bucks,Regular Season,1,1,22.0,11,7,0,0,0,0,0,1,4,0,5,4,0.8,2,2,1.0,2,1,0.5,121,108,0
+201937,2017,21700301,2017-11-28 22:00:00,Utah,Jazz,Denver,Nuggets,Regular Season,1,1,29.0,13,5,4,4,0,1,1,1,3,14,10,5,0.5,5,2,0.4,2,1,0.5,106,77,0
+201937,2017,21700317,2017-11-30 22:30:00,Utah,Jazz,Los Angeles,Clippers,Regular Season,0,1,27.0,15,6,3,3,0,0,2,3,3,-3,9,5,0.556,3,2,0.667,4,3,0.75,107,126,0
+201937,2017,21700325,2017-12-01 21:00:00,Utah,Jazz,New Orleans,Pelicans,Regular Season,1,1,24.0,0,4,7,7,0,0,1,0,2,-5,7,0,0.0,2,0,0.0,2,0,0.0,114,108,0
+201937,2017,21700349,2017-12-04 21:00:00,Utah,Jazz,Washington,Wizards,Regular Season,1,1,23.0,4,4,5,4,1,0,2,3,4,25,6,1,0.167,4,0,0.0,4,2,0.5,116,69,0
+201937,2017,21700351,2017-12-05 20:00:00,Utah,Jazz,Oklahoma City,Thunder,Regular Season,0,0,34.0,7,5,4,2,2,0,2,4,1,-6,6,3,0.5,2,1,0.5,0,0,0.0,100,94,0
+201937,2017,21700366,2017-12-07 22:30:00,Utah,Jazz,Houston,Rockets,Regular Season,1,0,30.0,11,1,0,0,0,0,2,1,3,-6,7,3,0.429,2,1,0.5,4,4,1.0,101,112,0
+201937,2017,21700381,2017-12-09 20:30:00,Utah,Jazz,Milwaukee,Bucks,Regular Season,0,0,31.0,10,7,2,2,0,0,1,3,3,-15,7,2,0.286,2,0,0.0,6,6,1.0,117,100,0
+201937,2017,21700409,2017-12-13 20:00:00,Utah,Jazz,Chicago,Bulls,Regular Season,0,0,26.0,14,4,6,6,0,0,0,5,2,3,12,6,0.5,3,0,0.0,2,2,1.0,103,100,0
+201937,2017,21700423,2017-12-15 19:30:00,Utah,Jazz,Boston,Celtics,Regular Season,0,1,33.0,22,5,7,6,1,0,1,2,6,15,15,10,0.667,2,1,0.5,1,1,1.0,95,107,0
+201937,2017,21700430,2017-12-16 19:30:00,Utah,Jazz,Cleveland,Cavaliers,Regular Season,0,0,25.0,6,4,4,4,0,0,1,3,1,-6,9,2,0.222,4,2,0.5,0,0,0.0,109,100,0
+201937,2017,21700445,2017-12-18 20:00:00,Utah,Jazz,Houston,Rockets,Regular Season,0,0,36.0,14,4,3,3,0,0,2,1,2,-32,12,6,0.5,2,1,0.5,2,1,0.5,120,99,0
+201937,2017,21700460,2017-12-20 20:00:00,Utah,Jazz,Oklahoma City,Thunder,Regular Season,0,0,25.0,5,1,0,0,0,0,2,5,0,-27,8,2,0.25,5,1,0.2,0,0,0.0,107,79,0
+201937,2017,21700470,2017-12-21 22:30:00,Utah,Jazz,San Antonio,Spurs,Regular Season,1,1,37.0,11,7,11,11,0,0,1,6,1,6,7,2,0.286,2,1,0.5,6,6,1.0,100,89,0
+201937,2017,21700488,2017-12-23 20:00:00,Utah,Jazz,Oklahoma City,Thunder,Regular Season,1,0,22.0,6,5,3,2,1,0,0,1,1,-10,10,3,0.3,3,0,0.0,0,0,0.0,89,103,0
+201937,2017,21700503,2017-12-26 21:00:00,Utah,Jazz,Denver,Nuggets,Regular Season,0,0,32.0,2,7,6,5,1,0,2,2,3,-16,8,1,0.125,2,0,0.0,0,0,0.0,107,83,0
+201937,2017,21700514,2017-12-27 22:30:00,Utah,Jazz,Golden State,Warriors,Regular Season,0,0,25.0,10,2,2,2,0,0,2,1,1,-9,13,5,0.385,2,0,0.0,0,0,0.0,126,101,0
+201937,2017,21700534,2017-12-30 20:00:00,Utah,Jazz,Cleveland,Cavaliers,Regular Season,1,1,31.0,16,8,10,10,0,1,1,2,3,13,12,6,0.5,4,2,0.5,2,2,1.0,104,101,0
+201937,2017,21700564,2018-01-03 21:00:00,Utah,Jazz,New Orleans,Pelicans,Regular Season,1,0,24.0,11,7,2,2,0,0,4,1,2,-20,12,5,0.417,3,0,0.0,1,1,1.0,98,108,0
+201937,2017,21700574,2018-01-05 21:00:00,Utah,Jazz,Denver,Nuggets,Regular Season,0,0,22.0,15,2,5,5,0,0,1,2,2,-25,9,6,0.667,6,3,0.5,0,0,0.0,99,91,0
+201937,2017,21700586,2018-01-07 15:30:00,Utah,Jazz,Miami,Heat,Regular Season,0,0,29.0,4,6,5,5,0,0,0,2,3,0,6,0,0.0,2,0,0.0,4,4,1.0,103,102,0
+201937,2017,21700605,2018-01-10 19:00:00,Utah,Jazz,Washington,Wizards,Regular Season,0,1,41.0,21,3,2,1,1,0,3,3,4,2,17,9,0.529,5,3,0.6,0,0,0.0,104,107,0
+201937,2017,21700618,2018-01-12 19:00:00,Utah,Jazz,Charlotte,Hornets,Regular Season,0,0,28.0,7,4,7,6,1,1,0,2,2,-2,11,3,0.273,3,1,0.333,0,0,0.0,99,88,0
+201937,2017,21700647,2018-01-15 21:00:00,Utah,Jazz,Indiana,Pacers,Regular Season,1,0,22.0,2,0,5,5,0,0,2,2,2,-13,7,1,0.143,1,0,0.0,0,0,0.0,94,109,0
+201937,2017,21700661,2018-01-17 22:00:00,Utah,Jazz,Sacramento,Kings,Regular Season,0,1,29.0,9,7,1,1,0,0,4,4,3,12,8,2,0.25,4,1,0.25,5,4,0.8,105,120,0
+201937,2017,21700672,2018-01-19 22:30:00,Utah,Jazz,New York,Knicks,Regular Season,1,0,32.0,17,5,5,4,1,0,1,2,3,-3,11,6,0.545,2,1,0.5,6,4,0.667,115,117,0
+201937,2017,21700681,2018-01-20 21:00:00,Utah,Jazz,Los Angeles,Clippers,Regular Season,1,1,31.0,12,6,6,4,2,0,1,2,4,10,11,3,0.273,3,1,0.333,6,5,0.833,125,113,0
+201937,2017,21700688,2018-01-22 19:30:00,Utah,Jazz,Atlanta,Hawks,Regular Season,0,0,26.0,2,6,4,2,2,0,1,4,2,-10,8,1,0.125,3,0,0.0,0,0,0.0,104,90,0
+201937,2017,21700702,2018-01-24 19:00:00,Utah,Jazz,Detroit,Pistons,Regular Season,0,1,37.0,11,5,10,9,1,0,1,3,2,7,8,4,0.5,3,1,0.333,2,2,1.0,95,98,0
+201937,2017,21700716,2018-01-26 19:30:00,Utah,Jazz,Toronto,Raptors,Regular Season,0,1,31.0,14,6,6,6,0,0,2,3,2,4,11,5,0.455,3,2,0.667,2,2,1.0,93,97,0
+201937,2017,21700751,2018-01-30 21:00:00,Utah,Jazz,Golden State,Warriors,Regular Season,1,1,35.0,23,11,5,3,2,0,1,3,4,31,16,9,0.563,4,2,0.5,4,3,0.75,129,99,0
+201937,2017,21700773,2018-02-02 21:00:00,Utah,Jazz,Phoenix,Suns,Regular Season,0,1,26.0,14,9,6,6,0,0,2,0,4,39,9,5,0.556,2,2,1.0,2,2,1.0,97,129,0
+201937,2017,21700781,2018-02-03 21:00:00,Utah,Jazz,San Antonio,Spurs,Regular Season,0,1,34.0,34,9,3,3,0,0,0,4,3,15,14,11,0.786,4,3,0.75,10,9,0.9,111,120,0
+201937,2017,21700793,2018-02-05 20:00:00,Utah,Jazz,New Orleans,Pelicans,Regular Season,0,1,32.0,20,11,3,3,0,0,0,2,4,15,19,8,0.421,3,1,0.333,4,3,0.75,109,133,0
+201937,2017,21700808,2018-02-07 20:00:00,Utah,Jazz,Memphis,Grizzlies,Regular Season,0,1,28.0,29,3,8,7,1,0,3,4,2,-3,16,8,0.5,4,2,0.5,14,11,0.786,88,92,0
+201937,2017,21700824,2018-02-09 21:00:00,Utah,Jazz,Charlotte,Hornets,Regular Season,1,1,20.0,6,7,2,2,0,0,1,3,2,10,7,3,0.429,1,0,0.0,0,0,0.0,106,94,0
+201937,2017,21700882,2018-02-23 21:00:00,Utah,Jazz,Portland,Trail Blazers,Regular Season,1,0,19.0,4,2,4,4,0,0,0,3,1,-18,6,2,0.333,0,0,0.0,0,0,0.0,81,100,0
+201937,2017,21700890,2018-02-24 21:00:00,Utah,Jazz,Dallas,Mavericks,Regular Season,1,1,29.0,7,6,5,3,2,0,1,1,2,14,9,2,0.222,4,1,0.25,2,2,1.0,97,90,0
+201937,2017,21700905,2018-02-26 21:00:00,Utah,Jazz,Houston,Rockets,Regular Season,1,0,26.0,14,5,3,3,0,1,1,3,3,-4,10,4,0.4,4,2,0.5,4,4,1.0,85,96,0
+201937,2017,21700934,2018-03-02 22:30:00,Utah,Jazz,Minnesota,Timberwolves,Regular Season,1,1,31.0,13,7,5,4,1,0,1,3,4,23,8,3,0.375,2,0,0.0,8,7,0.875,116,108,0
+201937,2017,21700942,2018-03-03 22:00:00,Utah,Jazz,Sacramento,Kings,Regular Season,0,1,33.0,10,6,8,7,1,0,4,3,3,-1,16,4,0.25,3,0,0.0,5,2,0.4,91,98,0
+201937,2017,21700955,2018-03-05 21:00:00,Utah,Jazz,Orlando,Magic,Regular Season,1,1,35.0,12,8,4,4,0,0,1,2,5,16,9,6,0.667,2,0,0.0,0,0,0.0,94,80,0
+201937,2017,21700965,2018-03-07 19:00:00,Utah,Jazz,Indiana,Pacers,Regular Season,0,1,33.0,18,7,6,4,2,0,3,2,4,0,18,8,0.444,4,1,0.25,2,1,0.5,84,104,0
+201937,2017,21700980,2018-03-09 20:00:00,Utah,Jazz,Memphis,Grizzlies,Regular Season,0,1,30.0,15,5,10,10,0,0,0,1,3,20,10,3,0.3,2,0,0.0,11,9,0.818,78,95,0
+201937,2017,21700995,2018-03-11 16:00:00,Utah,Jazz,New Orleans,Pelicans,Regular Season,0,1,34.0,30,7,10,7,3,0,0,5,4,15,22,10,0.455,5,4,0.8,6,6,1.0,99,116,0
+201937,2017,21701013,2018-03-13 21:00:00,Utah,Jazz,Detroit,Pistons,Regular Season,1,1,29.0,4,9,3,3,0,0,1,2,4,30,9,2,0.222,4,0,0.0,0,0,0.0,110,79,0
+201937,2017,21701027,2018-03-15 21:00:00,Utah,Jazz,Phoenix,Suns,Regular Season,1,1,31.0,12,11,5,4,1,0,4,1,3,31,15,5,0.333,6,2,0.333,2,0,0.0,116,88,0
+201937,2017,21701043,2018-03-17 21:00:00,Utah,Jazz,Sacramento,Kings,Regular Season,1,1,34.0,14,5,9,9,0,1,2,3,3,27,9,3,0.333,2,1,0.5,8,7,0.875,103,97,0
+201937,2017,21701062,2018-03-20 21:00:00,Utah,Jazz,Atlanta,Hawks,Regular Season,1,0,34.0,23,3,3,3,0,1,2,4,3,-11,14,7,0.5,7,3,0.429,6,6,1.0,94,99,0
+201937,2017,21701076,2018-03-22 20:30:00,Utah,Jazz,Dallas,Mavericks,Regular Season,0,1,33.0,22,3,5,5,0,0,5,5,5,2,14,8,0.571,8,4,0.5,2,2,1.0,112,119,0
+201937,2017,21701085,2018-03-23 20:30:00,Utah,Jazz,San Antonio,Spurs,Regular Season,0,0,40.0,20,9,3,3,0,1,2,3,2,-5,10,5,0.5,3,3,1.0,7,7,1.0,124,120,0
+201937,2017,21701102,2018-03-25 20:30:00,Utah,Jazz,Golden State,Warriors,Regular Season,0,1,26.0,11,0,3,3,0,0,1,3,3,15,10,4,0.4,2,1,0.5,2,2,1.0,91,110,0
+201937,2017,21701121,2018-03-28 21:30:00,Utah,Jazz,Boston,Celtics,Regular Season,1,0,36.0,14,10,8,6,2,0,3,2,2,1,14,4,0.286,6,1,0.167,6,5,0.833,94,97,0
+201937,2017,21701135,2018-03-30 21:00:00,Utah,Jazz,Memphis,Grizzlies,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,107,97,0
+201937,2017,21701151,2018-04-01 19:00:00,Utah,Jazz,Minnesota,Timberwolves,Regular Season,0,1,27.0,23,3,7,6,1,1,1,1,3,11,14,9,0.643,6,5,0.833,0,0,0.0,97,121,0
+201937,2017,21701166,2018-04-03 21:00:00,Utah,Jazz,Los Angeles,Lakers,Regular Season,1,1,33.0,31,8,6,4,2,0,0,2,1,16,16,10,0.625,7,4,0.571,7,7,1.0,117,110,0
+201937,2017,21701179,2018-04-05 21:00:00,Utah,Jazz,Los Angeles,Clippers,Regular Season,1,1,8.0,9,2,2,2,0,0,0,0,0,7,5,3,0.6,2,1,0.5,2,2,1.0,117,95,0
+201937,2017,21701201,2018-04-08 18:00:00,Utah,Jazz,Los Angeles,Lakers,Regular Season,0,1,18.0,9,2,3,3,0,0,2,1,2,16,6,4,0.667,3,1,0.333,0,0,0.0,97,112,0
+201937,2017,21701217,2018-04-10 21:00:00,Utah,Jazz,Golden State,Warriors,Regular Season,1,1,19.0,13,5,5,3,2,0,3,0,0,36,10,5,0.5,5,1,0.2,2,2,1.0,119,79,0
+201937,2017,21701229,2018-04-11 22:30:00,Utah,Jazz,Portland,Trail Blazers,Regular Season,0,0,23.0,17,5,5,5,0,0,1,4,5,-10,12,5,0.417,1,1,1.0,6,6,1.0,102,93,0
+201937,2017,41700171,2018-04-15 18:30:00,Utah,Jazz,Oklahoma City,Thunder,Playoffs,0,0,31.0,13,5,7,5,2,1,4,3,2,-2,18,5,0.278,3,0,0.0,3,3,1.0,116,108,0
+201937,2017,41700172,2018-04-18 20:00:00,Utah,Jazz,Oklahoma City,Thunder,Playoffs,0,1,35.0,22,9,7,7,0,0,1,3,4,3,16,6,0.375,8,5,0.625,6,5,0.833,95,102,0
+201937,2017,41700173,2018-04-21 22:00:00,Utah,Jazz,Oklahoma City,Thunder,Playoffs,1,1,36.0,26,10,11,10,1,1,2,4,1,22,18,9,0.5,9,2,0.222,7,6,0.857,115,102,0
+201937,2017,41700174,2018-04-23 22:30:00,Utah,Jazz,Oklahoma City,Thunder,Playoffs,1,1,34.0,13,8,6,5,1,1,1,4,2,22,12,4,0.333,6,1,0.167,5,4,0.8,113,96,0
+201937,2017,41700175,2018-04-25 21:30:00,Utah,Jazz,Oklahoma City,Thunder,Playoffs,0,0,35.0,10,7,12,11,1,0,0,4,4,-12,14,4,0.286,5,2,0.4,2,0,0.0,107,99,0
+201937,2017,41700176,2018-04-27 22:30:00,Utah,Jazz,Oklahoma City,Thunder,Playoffs,1,1,7.0,0,3,1,1,0,0,0,0,0,-2,1,0,0.0,1,0,0.0,0,0,0.0,96,91,0
+201937,2018,11800019,2018-10-02 21:00:00,Utah,Jazz,Toronto,Raptors,Preseason,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,,0,0,,105,90,0
+201937,2018,11800046,2018-10-07 21:00:00,Utah,Jazz,Portland,Trail Blazers,Preseason,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,,0,0,,112,123,0
+201937,2018,11800068,2018-10-11 22:00:00,Utah,Jazz,Sacramento,Kings,Preseason,0,1,16.0,2,6,1,1,0,0,0,0,1,22,6,1,0.167,3,0,0.0,1,0,0.0,93,132,0
+201937,2018,21800011,2018-10-17 22:00:00,Utah,Jazz,Sacramento,Kings,Regular Season,0,1,21.0,1,4,2,2,0,0,1,2,3,-16,4,0,0.0,0,0,0.0,1,1,1.0,117,123,0
+201937,2018,21800024,2018-10-19 22:30:00,Utah,Jazz,Golden State,Warriors,Regular Season,1,0,32.0,13,10,3,3,0,0,0,3,3,1,12,5,0.417,7,3,0.429,0,0,0.0,123,124,0
+201937,2018,21800045,2018-10-22 21:00:00,Utah,Jazz,Memphis,Grizzlies,Regular Season,1,0,29.0,6,5,3,3,0,1,1,2,3,-7,8,1,0.125,5,1,0.2,3,3,1.0,84,92,0
+201937,2018,21800057,2018-10-24 20:00:00,Utah,Jazz,Houston,Rockets,Regular Season,0,1,33.0,4,6,2,2,0,0,2,6,2,15,8,1,0.125,2,0,0.0,2,2,1.0,89,100,0
+201937,2018,21800075,2018-10-27 19:00:00,Utah,Jazz,New Orleans,Pelicans,Regular Season,0,1,29.0,28,12,6,6,0,0,1,2,2,26,14,8,0.571,7,3,0.429,9,9,1.0,111,132,0
+201937,2018,21800084,2018-10-28 19:00:00,Utah,Jazz,Dallas,Mavericks,Regular Season,0,1,31.0,6,8,1,1,0,0,1,1,3,-4,9,2,0.222,3,1,0.333,2,1,0.5,104,113,0
+201937,2018,21800107,2018-10-31 20:00:00,Utah,Jazz,Minnesota,Timberwolves,Regular Season,0,0,27.0,5,5,2,0,2,1,2,6,3,-7,6,2,0.333,1,0,0.0,2,1,0.5,128,125,0
+201937,2018,21800122,2018-11-02 21:00:00,Utah,Jazz,Memphis,Grizzlies,Regular Season,1,0,31.0,22,11,2,2,0,0,1,4,4,11,17,9,0.529,7,3,0.429,2,1,0.5,100,110,0
+201937,2018,21800131,2018-11-03 21:00:00,Utah,Jazz,Denver,Nuggets,Regular Season,0,0,32.0,11,6,4,4,0,0,4,6,3,-14,10,3,0.3,4,1,0.25,4,4,1.0,103,88,0
+201937,2018,21800146,2018-11-05 21:00:00,Utah,Jazz,Toronto,Raptors,Regular Season,1,0,27.0,8,9,3,3,0,0,1,1,4,-22,10,1,0.1,4,0,0.0,6,6,1.0,111,124,0
+201937,2018,21800160,2018-11-07 21:00:00,Utah,Jazz,Dallas,Mavericks,Regular Season,1,1,36.0,10,12,5,5,0,0,3,3,5,5,13,3,0.231,5,1,0.2,4,3,0.75,117,102,0
+201937,2018,21800172,2018-11-09 21:30:00,Utah,Jazz,Boston,Celtics,Regular Season,1,1,37.0,17,7,6,5,1,0,0,4,4,22,13,7,0.538,5,1,0.2,2,2,1.0,123,115,0
+201937,2018,21800194,2018-11-12 20:00:00,Utah,Jazz,Memphis,Grizzlies,Regular Season,0,1,24.0,7,2,4,2,2,0,1,2,6,5,11,3,0.273,5,1,0.2,0,0,0.0,88,96,0
+201937,2018,21800210,2018-11-14 20:30:00,Utah,Jazz,Dallas,Mavericks,Regular Season,0,0,24.0,11,3,3,3,0,0,4,4,2,-14,9,3,0.333,5,1,0.2,4,4,1.0,118,68,0
+201937,2018,21800218,2018-11-16 19:00:00,Utah,Jazz,Philadelphia,76ers,Regular Season,0,0,31.0,13,4,3,3,0,0,1,3,5,-15,8,4,0.5,2,1,0.5,9,4,0.444,113,107,0
+201937,2018,21800229,2018-11-17 19:30:00,Utah,Jazz,Boston,Celtics,Regular Season,0,1,28.0,20,2,4,4,0,0,3,1,2,14,13,6,0.462,4,2,0.5,7,6,0.857,86,98,0
+201937,2018,21800241,2018-11-19 19:00:00,Utah,Jazz,Indiana,Pacers,Regular Season,0,0,27.0,28,6,4,3,1,1,3,4,3,1,13,10,0.769,6,5,0.833,4,3,0.75,121,94,0
+201937,2018,21800263,2018-11-21 21:00:00,Utah,Jazz,Sacramento,Kings,Regular Season,1,0,29.0,13,7,3,3,0,1,1,1,2,-4,15,4,0.267,7,3,0.429,3,2,0.667,110,119,0
+201937,2018,21800278,2018-11-23 22:30:00,Utah,Jazz,Los Angeles,Lakers,Regular Season,0,0,25.0,7,5,1,1,0,1,2,3,3,-6,12,3,0.25,4,0,0.0,1,1,1.0,90,83,0
+201937,2018,21800292,2018-11-25 20:00:00,Utah,Jazz,Sacramento,Kings,Regular Season,0,1,26.0,27,5,7,7,0,0,0,3,4,5,16,11,0.688,3,2,0.667,4,3,0.75,112,133,0
+201937,2018,21800299,2018-11-26 21:00:00,Utah,Jazz,Indiana,Pacers,Regular Season,1,0,26.0,6,8,3,1,2,0,1,3,1,-18,8,2,0.25,4,1,0.25,1,1,1.0,88,121,0
+201937,2018,21800308,2018-11-28 19:30:00,Utah,Jazz,Brooklyn,Nets,Regular Season,0,1,32.0,6,4,3,3,0,0,0,2,2,13,9,0,0.0,5,0,0.0,6,6,1.0,91,101,0
+201937,2018,21800320,2018-11-30 19:00:00,Utah,Jazz,Charlotte,Hornets,Regular Season,0,1,33.0,13,6,4,4,0,0,1,2,3,13,11,5,0.455,6,2,0.333,2,1,0.5,111,119,0
+201937,2018,21800339,2018-12-02 18:00:00,Utah,Jazz,Miami,Heat,Regular Season,0,0,36.0,23,6,5,5,0,0,1,3,3,14,13,9,0.692,4,2,0.5,3,3,1.0,102,100,0
+201937,2018,21800354,2018-12-04 21:00:00,Utah,Jazz,San Antonio,Spurs,Regular Season,1,1,28.0,12,7,5,5,0,0,3,5,0,12,10,5,0.5,3,2,0.667,0,0,0.0,139,105,0
+201937,2018,21800367,2018-12-06 22:30:00,Utah,Jazz,Houston,Rockets,Regular Season,1,1,24.0,13,6,3,3,0,0,1,1,3,13,13,5,0.385,4,1,0.25,2,2,1.0,118,91,0
+201937,2018,21800390,2018-12-09 19:00:00,Utah,Jazz,San Antonio,Spurs,Regular Season,0,0,35.0,26,2,3,3,0,0,0,1,1,-8,23,11,0.478,8,3,0.375,1,1,1.0,110,97,0
+201937,2018,21800396,2018-12-10 20:00:00,Utah,Jazz,Oklahoma City,Thunder,Regular Season,0,0,22.0,10,4,2,2,0,1,2,5,3,-18,13,5,0.385,3,0,0.0,0,0,0.0,122,113,0
+201937,2018,21800413,2018-12-12 21:00:00,Utah,Jazz,Miami,Heat,Regular Season,1,1,25.0,5,6,6,4,2,0,1,2,1,25,5,2,0.4,1,0,0.0,2,1,0.5,111,84,0
+201937,2018,21800429,2018-12-15 17:00:00,Utah,Jazz,Orlando,Magic,Regular Season,0,0,32.0,15,4,4,4,0,0,2,2,1,0,14,3,0.214,4,0,0.0,9,9,1.0,96,89,0
+201937,2018,21800445,2018-12-17 20:00:00,Utah,Jazz,Houston,Rockets,Regular Season,0,0,35.0,12,4,4,3,1,0,1,7,3,0,10,5,0.5,5,2,0.4,0,0,0.0,102,97,0
+201937,2018,21800464,2018-12-19 21:00:00,Utah,Jazz,Golden State,Warriors,Regular Season,1,1,31.0,3,10,5,5,0,0,0,4,4,0,8,0,0.0,2,0,0.0,3,3,1.0,108,103,0
+201937,2018,21800476,2018-12-21 22:00:00,Utah,Jazz,Portland,Trail Blazers,Regular Season,0,1,26.0,24,8,2,2,0,1,1,5,1,14,15,10,0.667,4,4,1.0,0,0,0.0,90,120,0
+201937,2018,21800485,2018-12-22 21:00:00,Utah,Jazz,Oklahoma City,Thunder,Regular Season,1,0,37.0,12,14,7,7,0,0,3,4,3,8,11,5,0.455,4,2,0.5,0,0,0.0,106,107,0
+201937,2018,21800501,2018-12-25 22:30:00,Utah,Jazz,Portland,Trail Blazers,Regular Season,1,1,30.0,14,6,3,2,1,1,2,4,4,12,11,5,0.455,4,2,0.5,3,2,0.667,117,96,0
+201937,2018,21800515,2018-12-27 22:30:00,Utah,Jazz,Philadelphia,76ers,Regular Season,1,0,29.0,5,4,5,4,1,0,0,2,2,-7,10,1,0.1,4,1,0.25,2,2,1.0,97,114,0
+201937,2018,21800549,2019-01-01 19:30:00,Utah,Jazz,Toronto,Raptors,Regular Season,0,0,31.0,14,8,4,4,0,1,0,2,5,-7,17,6,0.353,4,0,0.0,3,2,0.667,122,116,0
+201937,2018,21800567,2019-01-04 19:30:00,Utah,Jazz,Cleveland,Cavaliers,Regular Season,0,1,24.0,15,5,4,3,1,0,0,2,1,9,13,6,0.462,6,3,0.5,0,0,0.0,91,117,0
+201937,2018,21800577,2019-01-05 19:00:00,Utah,Jazz,Detroit,Pistons,Regular Season,0,1,29.0,18,4,2,1,1,0,1,4,1,1,13,6,0.462,4,1,0.25,5,5,1.0,105,110,0
+201937,2018,21800594,2019-01-07 20:00:00,Utah,Jazz,Milwaukee,Bucks,Regular Season,0,0,4.0,9,1,0,0,0,0,1,1,1,-1,5,4,0.8,1,1,1.0,0,0,0.0,114,102,0
+201937,2018,21800700,2019-01-21 21:00:00,Utah,Jazz,Portland,Trail Blazers,Regular Season,1,0,13.0,12,2,2,1,1,0,1,4,2,1,6,3,0.5,3,1,0.333,6,5,0.833,104,109,0
+201937,2018,21800715,2019-01-23 22:30:00,Utah,Jazz,Denver,Nuggets,Regular Season,1,1,24.0,17,6,3,3,0,0,0,1,3,4,10,6,0.6,6,2,0.333,3,3,1.0,114,108,0
+201937,2018,21800729,2019-01-25 21:00:00,Utah,Jazz,Minnesota,Timberwolves,Regular Season,1,1,22.0,6,4,2,1,1,0,1,2,0,-5,10,2,0.2,3,0,0.0,3,2,0.667,106,102,0
+201937,2018,21800740,2019-01-27 19:00:00,Utah,Jazz,Minnesota,Timberwolves,Regular Season,0,1,29.0,18,8,4,4,0,0,2,0,3,17,14,8,0.571,5,1,0.2,1,1,1.0,111,125,0
+201937,2018,21800763,2019-01-30 22:30:00,Utah,Jazz,Portland,Trail Blazers,Regular Season,0,0,26.0,12,7,2,1,1,0,2,4,3,-5,14,4,0.286,6,2,0.333,2,2,1.0,132,105,0
+201937,2018,21800773,2019-02-01 21:00:00,Utah,Jazz,Atlanta,Hawks,Regular Season,1,1,35.0,22,11,2,2,0,0,1,2,4,30,11,6,0.545,6,2,0.333,10,8,0.8,128,112,0
+201937,2018,21800786,2019-02-02 21:00:00,Utah,Jazz,Houston,Rockets,Regular Season,1,0,27.0,6,2,7,6,1,0,1,3,2,-12,4,0,0.0,2,0,0.0,6,6,1.0,98,125,0
+201937,2018,21800808,2019-02-06 21:00:00,Utah,Jazz,Phoenix,Suns,Regular Season,1,1,31.0,13,6,9,6,3,0,3,5,1,19,9,5,0.556,2,1,0.5,3,2,0.667,116,88,0
+201937,2018,21800825,2019-02-09 17:00:00,Utah,Jazz,San Antonio,Spurs,Regular Season,1,1,26.0,16,6,6,6,0,0,0,0,5,2,13,7,0.538,4,1,0.25,2,1,0.5,125,105,0
+201937,2018,21800852,2019-02-12 22:30:00,Utah,Jazz,Golden State,Warriors,Regular Season,0,0,31.0,16,6,4,4,0,0,1,2,3,-7,17,7,0.412,5,1,0.2,1,1,1.0,115,108,0
+201937,2018,21800881,2019-02-22 21:30:00,Utah,Jazz,Oklahoma City,Thunder,Regular Season,0,0,41.0,14,6,6,4,2,0,2,8,4,-7,9,4,0.444,4,3,0.75,3,3,1.0,148,147,0
+201937,2018,21800893,2019-02-23 22:00:00,Utah,Jazz,Dallas,Mavericks,Regular Season,1,1,36.0,25,5,4,4,0,0,1,0,4,16,14,8,0.571,5,1,0.2,10,8,0.8,125,109,0
+201937,2018,21800919,2019-02-27 21:00:00,Utah,Jazz,Los Angeles,Clippers,Regular Season,1,1,24.0,13,3,3,2,1,0,2,2,2,1,13,5,0.385,2,0,0.0,3,3,1.0,111,105,0
+201937,2018,21800943,2019-03-02 21:00:00,Utah,Jazz,Milwaukee,Bucks,Regular Season,1,1,19.0,6,3,3,2,1,0,3,0,1,-26,8,2,0.25,5,2,0.4,0,0,0.0,115,111,0
+201937,2018,21800956,2019-03-04 21:00:00,Utah,Jazz,New Orleans,Pelicans,Regular Season,1,0,25.0,3,8,3,2,1,0,2,1,1,-5,8,1,0.125,2,1,0.5,1,0,0.0,112,115,0
+201937,2018,21800971,2019-03-06 20:00:00,Utah,Jazz,New Orleans,Pelicans,Regular Season,0,1,27.0,9,10,3,3,0,0,2,2,4,16,12,3,0.25,4,0,0.0,4,3,0.75,104,114,0
+201937,2018,21801019,2019-03-13 22:00:00,Utah,Jazz,Phoenix,Suns,Regular Season,0,1,21.0,6,4,3,2,1,1,0,0,2,13,7,1,0.143,2,0,0.0,5,4,0.8,97,114,0
+201937,2018,21801024,2019-03-14 21:00:00,Utah,Jazz,Minnesota,Timberwolves,Regular Season,1,1,21.0,8,8,3,3,0,0,1,0,4,6,7,1,0.143,2,1,0.5,6,5,0.833,120,100,0
+201937,2018,21801041,2019-03-16 21:00:00,Utah,Jazz,Brooklyn,Nets,Regular Season,1,1,22.0,12,6,6,3,3,0,1,2,2,16,13,2,0.154,3,0,0.0,8,8,1.0,114,98,0
+201937,2018,21801051,2019-03-18 19:00:00,Utah,Jazz,Washington,Wizards,Regular Season,0,1,26.0,8,10,2,2,0,0,4,6,3,12,7,4,0.571,1,0,0.0,0,0,0.0,95,116,0
+201937,2018,21801068,2019-03-20 19:30:00,Utah,Jazz,New York,Knicks,Regular Season,0,1,20.0,12,9,3,3,0,0,1,1,1,22,2,1,0.5,0,0,0.0,10,10,1.0,116,137,0
+201937,2018,21801076,2019-03-21 19:30:00,Utah,Jazz,Atlanta,Hawks,Regular Season,0,0,27.0,17,7,5,5,0,0,2,2,5,-5,10,6,0.6,3,2,0.667,3,3,1.0,117,114,0
+201937,2018,21801090,2019-03-23 20:00:00,Utah,Jazz,Chicago,Bulls,Regular Season,0,1,22.0,12,3,4,4,0,0,1,2,0,11,11,6,0.545,2,0,0.0,0,0,0.0,83,114,0
+201937,2018,21801105,2019-03-25 21:00:00,Utah,Jazz,Phoenix,Suns,Regular Season,1,1,26.0,18,6,1,1,0,0,1,2,3,12,9,6,0.667,0,0,0.0,7,6,0.857,125,92,0
+201937,2018,21801121,2019-03-27 22:30:00,Utah,Jazz,Los Angeles,Lakers,Regular Season,1,1,28.0,10,8,5,5,0,0,0,0,2,27,9,3,0.333,2,0,0.0,5,4,0.8,115,100,0
+201937,2018,21801134,2019-03-29 21:00:00,Utah,Jazz,Washington,Wizards,Regular Season,1,1,32.0,17,3,2,1,1,0,3,3,4,-5,16,7,0.438,6,1,0.167,2,2,1.0,128,124,0
+201937,2018,21801159,2019-04-01 21:00:00,Utah,Jazz,Charlotte,Hornets,Regular Season,1,1,29.0,20,13,2,1,1,0,0,3,2,18,13,5,0.385,3,1,0.333,9,9,1.0,111,102,0
+201937,2018,21801174,2019-04-03 22:00:00,Utah,Jazz,Phoenix,Suns,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,97,118,0
+201937,2018,21801188,2019-04-05 21:00:00,Utah,Jazz,Sacramento,Kings,Regular Season,1,1,4.0,4,0,2,2,0,0,0,1,1,13,1,1,1.0,0,0,0.0,4,2,0.5,119,98,0
+201937,2018,41800171,2019-04-14 21:30:00,Utah,Jazz,Houston,Rockets,Playoffs,0,0,31.0,15,6,3,3,0,0,2,2,3,-17,11,5,0.455,3,1,0.333,4,4,1.0,122,90,0
+201937,2018,41800172,2019-04-17 21:30:00,Utah,Jazz,Houston,Rockets,Playoffs,0,0,31.0,17,9,4,2,2,0,4,2,2,-17,17,7,0.412,3,1,0.333,2,2,1.0,118,98,0
+201937,2018,41800173,2019-04-20 22:30:00,Utah,Jazz,Houston,Rockets,Playoffs,1,0,30.0,10,6,4,4,0,0,2,5,3,4,6,3,0.5,2,0,0.0,6,4,0.667,101,104,0
+201937,2018,41800174,2019-04-22 22:30:00,Utah,Jazz,Houston,Rockets,Playoffs,1,1,38.0,18,11,3,2,1,1,1,3,3,15,17,6,0.353,7,1,0.143,6,5,0.833,107,91,0
+201937,2018,41800175,2019-04-24 20:00:00,Utah,Jazz,Houston,Rockets,Playoffs,0,0,34.0,17,11,2,2,0,0,3,3,3,2,15,7,0.467,5,1,0.2,2,2,1.0,100,93,0
+201937,2019,11900022,2019-10-08 22:00:00,Phoenix,Suns,Minnesota,Timberwolves,Preseason,1,1,20.0,11,5,3,3,0,0,1,1,1,5,13,5,0.385,4,1,0.25,0,0,0.0,111,106,0
+201937,2019,11900034,2019-10-10 22:00:00,Phoenix,Suns,Sacramento,Kings,Preseason,0,0,20.0,4,3,3,3,0,0,1,4,5,-11,5,2,0.4,2,0,0.0,0,0,0.0,105,88,0
+201937,2019,11900045,2019-10-12 20:00:00,Phoenix,Suns,Portland,Trail Blazers,Preseason,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,118,134,0
+201937,2019,11900056,2019-10-14 22:00:00,Phoenix,Suns,Denver,Nuggets,Preseason,1,0,24.0,7,9,3,2,1,0,3,1,2,-20,7,2,0.286,2,0,0.0,3,3,1.0,102,107,0
+201937,2019,21900012,2019-10-23 22:00:00,Phoenix,Suns,Sacramento,Kings,Regular Season,1,1,29.0,11,11,6,4,2,0,4,4,2,15,12,4,0.333,2,0,0.0,4,3,0.75,124,95,0
+201937,2019,21900023,2019-10-25 21:00:00,Phoenix,Suns,Denver,Nuggets,Regular Season,0,0,35.0,9,9,8,8,0,0,3,5,6,-1,7,1,0.143,1,0,0.0,7,7,1.0,108,107,0
+201937,2019,21900049,2019-10-28 22:00:00,Phoenix,Suns,Utah,Jazz,Regular Season,1,0,28.0,10,8,10,9,1,0,0,2,5,-5,9,4,0.444,1,0,0.0,4,2,0.5,95,96,0
+201937,2019,21900065,2019-10-30 22:30:00,Phoenix,Suns,Golden State,Warriors,Regular Season,0,1,33.0,14,7,3,2,1,0,1,1,2,14,8,4,0.5,2,2,1.0,4,4,1.0,110,121,0
+201937,2019,21900081,2019-11-02 20:00:00,Phoenix,Suns,Memphis,Grizzlies,Regular Season,0,1,35.0,11,6,5,5,0,0,3,2,2,10,12,4,0.333,4,1,0.25,3,2,0.667,105,114,0
+201937,2019,21900095,2019-11-04 21:00:00,Phoenix,Suns,Philadelphia,76ers,Regular Season,1,1,33.0,21,10,7,7,0,0,0,1,4,12,14,6,0.429,5,3,0.6,6,6,1.0,114,109,0
+201937,2019,21900114,2019-11-07 21:00:00,Phoenix,Suns,Miami,Heat,Regular Season,1,0,29.0,11,6,11,11,0,0,1,3,3,-4,11,4,0.364,5,1,0.2,2,2,1.0,108,124,0
+201937,2019,21900137,2019-11-10 20:00:00,Phoenix,Suns,Brooklyn,Nets,Regular Season,1,1,28.0,22,12,4,4,0,0,2,0,2,37,16,10,0.625,4,2,0.5,0,0,0.0,138,112,0
+201937,2019,21900151,2019-11-12 21:00:00,Phoenix,Suns,Los Angeles,Lakers,Regular Season,1,0,38.0,21,10,4,4,0,0,0,1,1,-6,17,8,0.471,6,3,0.5,2,2,1.0,115,123,0
+201937,2019,21900165,2019-11-14 21:00:00,Phoenix,Suns,Atlanta,Hawks,Regular Season,1,1,30.0,6,8,5,4,1,0,0,3,2,1,9,2,0.222,2,0,0.0,2,2,1.0,128,112,0
+201937,2019,21900195,2019-11-18 21:00:00,Phoenix,Suns,Boston,Celtics,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,85,99,0
+201937,2019,21900200,2019-11-19 22:00:00,Phoenix,Suns,Sacramento,Kings,Regular Season,0,0,16.0,1,2,1,0,1,0,1,1,0,-14,7,0,0.0,3,0,0.0,2,1,0.5,120,116,0
+201937,2019,21900214,2019-11-21 22:30:00,Phoenix,Suns,New Orleans,Pelicans,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,121,124,0
+201937,2019,21900225,2019-11-23 17:00:00,Phoenix,Suns,Minnesota,Timberwolves,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,98,100,0
+201937,2019,21900238,2019-11-24 20:00:00,Phoenix,Suns,Denver,Nuggets,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,116,104,0
+201937,2019,21900263,2019-11-27 21:00:00,Phoenix,Suns,Washington,Wizards,Regular Season,1,0,25.0,18,4,1,0,1,0,0,2,4,-11,11,6,0.545,4,1,0.25,6,5,0.833,132,140,0
+201937,2019,21900277,2019-11-29 21:00:00,Phoenix,Suns,Dallas,Mavericks,Regular Season,1,0,33.0,21,9,1,1,0,0,0,1,6,17,12,6,0.5,6,4,0.667,7,5,0.714,113,120,0
+201937,2019,21900293,2019-12-02 19:00:00,Phoenix,Suns,Charlotte,Hornets,Regular Season,0,1,35.0,9,13,1,1,0,1,4,0,1,6,10,3,0.3,5,0,0.0,4,3,0.75,104,109,0
+201937,2019,21900308,2019-12-04 19:00:00,Phoenix,Suns,Orlando,Magic,Regular Season,0,0,25.0,4,9,3,1,2,0,1,0,2,-6,9,2,0.222,3,0,0.0,0,0,0.0,128,114,0
+201937,2019,21900319,2019-12-05 20:00:00,Phoenix,Suns,New Orleans,Pelicans,Regular Season,0,1,41.0,13,15,6,4,2,1,4,3,2,11,15,6,0.4,5,1,0.2,0,0,0.0,132,139,0
+201937,2019,21900333,2019-12-07 20:00:00,Phoenix,Suns,Houston,Rockets,Regular Season,0,0,35.0,10,13,6,6,0,1,0,4,2,6,16,5,0.313,4,0,0.0,1,0,0.0,115,109,0
+201937,2019,21900349,2019-12-09 21:00:00,Phoenix,Suns,Minnesota,Timberwolves,Regular Season,1,1,33.0,16,14,4,2,2,0,0,1,2,15,16,6,0.375,2,2,1.0,2,2,1.0,125,109,0
+201937,2019,21900363,2019-12-11 21:00:00,Phoenix,Suns,Memphis,Grizzlies,Regular Season,1,0,37.0,22,8,1,1,0,0,1,5,1,-2,15,7,0.467,6,1,0.167,7,7,1.0,108,115,0
+201937,2019,21900380,2019-12-14 17:00:00,Phoenix,Suns,San Antonio,Spurs,Regular Season,1,0,37.0,25,13,3,3,0,1,1,2,2,8,20,10,0.5,5,2,0.4,4,3,0.75,119,121,0
+201937,2019,21900400,2019-12-16 21:00:00,Phoenix,Suns,Portland,Trail Blazers,Regular Season,1,0,33.0,10,14,11,8,3,0,2,8,1,-8,14,4,0.286,4,1,0.25,1,1,1.0,110,111,0
+201937,2019,21900406,2019-12-17 22:30:00,Phoenix,Suns,Los Angeles,Clippers,Regular Season,0,0,24.0,4,8,5,4,1,0,0,2,3,-9,12,2,0.167,3,0,0.0,0,0,0.0,120,99,0
+201937,2019,21900426,2019-12-20 20:00:00,Phoenix,Suns,Oklahoma City,Thunder,Regular Season,0,0,28.0,24,8,2,1,1,0,1,0,3,-8,11,9,0.818,3,2,0.667,4,4,1.0,126,108,0
+201937,2019,21900451,2019-12-23 21:00:00,Phoenix,Suns,Denver,Nuggets,Regular Season,1,0,34.0,21,9,7,7,0,0,1,6,1,-1,12,9,0.75,4,2,0.5,1,1,1.0,111,113,0
+201937,2019,21900471,2019-12-27 22:30:00,Phoenix,Suns,Golden State,Warriors,Regular Season,0,0,30.0,11,4,4,4,0,0,1,7,3,-4,10,3,0.3,4,0,0.0,6,5,0.833,105,96,0
+201937,2019,21900483,2019-12-28 21:00:00,Phoenix,Suns,Sacramento,Kings,Regular Season,0,1,33.0,21,8,3,2,1,2,2,2,3,1,15,7,0.467,5,3,0.6,4,4,1.0,110,112,0
+201937,2019,21900496,2019-12-30 22:00:00,Phoenix,Suns,Portland,Trail Blazers,Regular Season,0,1,34.0,18,13,5,5,0,0,1,2,3,21,13,7,0.538,2,1,0.5,3,3,1.0,116,122,0
+201937,2019,21900507,2020-01-01 22:30:00,Phoenix,Suns,Los Angeles,Lakers,Regular Season,0,0,26.0,6,9,5,3,2,0,1,2,1,-12,7,2,0.286,3,1,0.333,2,1,0.5,117,107,0
+201937,2019,21900521,2020-01-03 21:00:00,Phoenix,Suns,New York,Knicks,Regular Season,1,1,32.0,9,10,4,3,1,0,1,2,4,6,7,3,0.429,4,1,0.25,4,2,0.5,120,112,0
+201937,2019,21900537,2020-01-05 20:00:00,Phoenix,Suns,Memphis,Grizzlies,Regular Season,1,0,36.0,9,8,3,3,0,0,2,2,3,-8,11,4,0.364,3,1,0.333,0,0,0.0,114,121,0
+201937,2019,21900552,2020-01-07 21:00:00,Phoenix,Suns,Sacramento,Kings,Regular Season,1,0,35.0,8,9,5,5,0,0,1,3,1,-19,6,2,0.333,3,1,0.333,4,3,0.75,103,114,0
+201937,2019,21900573,2020-01-10 21:00:00,Phoenix,Suns,Orlando,Magic,Regular Season,1,1,34.0,11,10,7,5,2,1,3,2,4,6,9,2,0.222,1,0,0.0,9,7,0.778,98,94,0
+201937,2019,21900590,2020-01-12 20:00:00,Phoenix,Suns,Charlotte,Hornets,Regular Season,1,1,34.0,10,9,4,4,0,0,0,5,1,11,11,4,0.364,2,2,1.0,0,0,0.0,100,92,0
+201937,2019,21900614,2020-01-16 19:30:00,Phoenix,Suns,New York,Knicks,Regular Season,0,1,35.0,25,13,8,6,2,1,4,4,4,24,18,10,0.556,5,3,0.6,2,2,1.0,98,121,0
+201937,2019,21900628,2020-01-18 19:00:00,Phoenix,Suns,Boston,Celtics,Regular Season,0,1,36.0,8,9,5,5,0,0,1,5,1,-4,9,2,0.222,5,2,0.4,2,2,1.0,119,123,0
+201937,2019,21900650,2020-01-20 21:00:00,Phoenix,Suns,San Antonio,Spurs,Regular Season,1,0,35.0,15,9,3,2,1,1,2,3,2,-9,12,6,0.5,3,1,0.333,3,2,0.667,118,120,0
+201937,2019,21900664,2020-01-22 21:00:00,Phoenix,Suns,Indiana,Pacers,Regular Season,1,0,22.0,7,3,2,2,0,0,1,3,3,-18,8,3,0.375,2,0,0.0,2,1,0.5,87,112,0
+201937,2019,21900678,2020-01-24 20:30:00,Phoenix,Suns,San Antonio,Spurs,Regular Season,0,1,34.0,11,2,2,1,1,0,0,1,2,-5,10,5,0.5,2,1,0.5,1,0,0.0,99,103,0
+201937,2019,21900690,2020-01-26 18:00:00,Phoenix,Suns,Memphis,Grizzlies,Regular Season,0,0,31.0,5,3,5,4,1,0,3,2,1,-3,10,1,0.1,3,1,0.333,4,2,0.5,114,109,0
+201937,2019,21900706,2020-01-28 20:30:00,Phoenix,Suns,Dallas,Mavericks,Regular Season,0,1,26.0,6,7,6,5,1,0,2,1,3,35,5,2,0.4,1,0,0.0,2,2,1.0,104,133,0
+201937,2019,21900725,2020-01-31 21:00:00,Phoenix,Suns,Oklahoma City,Thunder,Regular Season,1,0,29.0,8,7,2,2,0,0,2,3,4,-24,8,2,0.25,3,1,0.333,4,3,0.75,107,111,0
+201937,2019,21900739,2020-02-02 14:00:00,Phoenix,Suns,Milwaukee,Bucks,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,129,108,0
+201937,2019,21900746,2020-02-03 19:30:00,Phoenix,Suns,Brooklyn,Nets,Regular Season,0,0,18.0,8,2,3,2,1,0,0,1,4,-11,7,2,0.286,0,0,0.0,4,4,1.0,119,97,0
+201937,2019,21900755,2020-02-05 19:00:00,Phoenix,Suns,Detroit,Pistons,Regular Season,0,0,35.0,4,11,1,1,0,0,4,6,3,3,5,1,0.2,1,0,0.0,2,2,1.0,116,108,0
+201937,2019,21900774,2020-02-07 21:00:00,Phoenix,Suns,Houston,Rockets,Regular Season,1,1,23.0,5,10,2,2,0,0,0,1,2,20,4,2,0.5,2,1,0.5,0,0,0.0,127,91,0
+201937,2019,21900784,2020-02-08 21:00:00,Phoenix,Suns,Denver,Nuggets,Regular Season,1,0,31.0,15,7,5,4,1,0,0,4,1,-13,10,4,0.4,3,0,0.0,7,7,1.0,108,117,0
+201937,2019,21900801,2020-02-10 22:30:00,Phoenix,Suns,Los Angeles,Lakers,Regular Season,0,0,24.0,13,5,3,2,1,0,1,1,1,-9,6,2,0.333,4,2,0.5,8,7,0.875,125,100,0
+201937,2019,21900815,2020-02-12 21:00:00,Phoenix,Suns,Golden State,Warriors,Regular Season,1,1,23.0,9,9,5,3,2,0,2,5,4,-2,8,4,0.5,1,1,1.0,0,0,0.0,112,106,0
+201937,2019,21900829,2020-02-21 19:30:00,Phoenix,Suns,Toronto,Raptors,Regular Season,0,0,27.0,13,9,3,3,0,0,4,4,2,-5,9,4,0.444,4,1,0.25,4,4,1.0,118,101,0
+201937,2019,21900839,2020-02-22 20:00:00,Phoenix,Suns,Chicago,Bulls,Regular Season,0,1,35.0,18,11,7,7,0,0,2,3,1,22,9,4,0.444,3,1,0.333,11,9,0.818,104,112,0
+201937,2019,21900855,2020-02-24 21:00:00,Phoenix,Suns,Utah,Jazz,Regular Season,0,1,32.0,22,11,6,5,1,0,7,1,4,31,13,6,0.462,3,2,0.667,9,8,0.889,111,131,0
+201937,2019,21900871,2020-02-26 21:00:00,Phoenix,Suns,Los Angeles,Clippers,Regular Season,1,0,31.0,18,10,6,4,2,0,3,7,3,-5,11,5,0.455,5,2,0.4,7,6,0.857,92,102,0
+201937,2019,21900884,2020-02-28 21:00:00,Phoenix,Suns,Detroit,Pistons,Regular Season,1,0,32.0,16,13,6,6,0,0,2,1,3,9,12,6,0.5,4,1,0.25,4,3,0.75,111,113,0
+201937,2019,21900894,2020-02-29 21:00:00,Phoenix,Suns,Golden State,Warriors,Regular Season,1,0,28.0,6,8,3,2,1,0,0,5,2,-9,6,3,0.5,1,0,0.0,0,0,0.0,99,115,0
+201937,2019,21900914,2020-03-03 21:00:00,Phoenix,Suns,Toronto,Raptors,Regular Season,1,0,35.0,16,10,4,3,1,0,1,3,2,-4,11,5,0.455,4,2,0.5,4,4,1.0,114,123,0
+201937,2019,21900938,2020-03-06 21:00:00,Phoenix,Suns,Portland,Trail Blazers,Regular Season,1,1,33.0,13,10,4,3,1,0,2,1,4,32,11,5,0.455,3,1,0.333,2,2,1.0,127,117,0
+201937,2019,21900950,2020-03-08 18:00:00,Phoenix,Suns,Milwaukee,Bucks,Regular Season,1,1,37.0,25,13,13,12,1,0,3,1,4,10,15,8,0.533,7,3,0.429,6,6,1.0,140,131,0
+201937,2019,21900966,2020-03-10 22:00:00,Phoenix,Suns,Portland,Trail Blazers,Regular Season,0,0,35.0,21,9,6,6,0,0,0,5,1,-13,10,4,0.4,3,2,0.667,11,11,1.0,121,105,0
+201937,2019,11900108,2020-07-23 20:00:00,Phoenix,Suns,Utah,Jazz,Preseason,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,88,101,0
+201937,2019,11900119,2020-07-26 13:30:00,Phoenix,Suns,Boston,Celtics,Preseason,0,0,19.0,6,4,2,2,0,0,1,0,3,8,5,2,0.4,2,0,0.0,2,2,1.0,117,103,0
+201937,2019,11900129,2020-07-28 15:00:00,Phoenix,Suns,Toronto,Raptors,Preseason,1,1,24.0,22,4,4,3,1,1,4,2,2,7,13,6,0.462,6,4,0.667,6,6,1.0,117,106,0
+201937,2019,21901235,2020-07-31 16:00:00,Phoenix,Suns,Washington,Wizards,Regular Season,0,1,29.0,15,9,1,1,0,0,3,3,4,-8,7,3,0.429,3,1,0.333,8,8,1.0,112,125,0
+201937,2019,21901249,2020-08-02 21:00:00,Phoenix,Suns,Dallas,Mavericks,Regular Season,1,1,32.0,20,7,9,7,2,0,0,2,2,12,17,7,0.412,3,2,0.667,4,4,1.0,117,115,0
+201937,2019,21901258,2020-08-04 16:00:00,Phoenix,Suns,Los Angeles,Clippers,Regular Season,0,1,27.0,18,4,3,3,0,0,0,2,4,-10,14,7,0.5,4,3,0.75,1,1,1.0,115,117,0
+201937,2019,21901270,2020-08-06 16:00:00,Phoenix,Suns,Indiana,Pacers,Regular Season,1,1,26.0,13,4,4,4,0,0,0,1,2,20,12,5,0.417,4,1,0.25,2,2,1.0,114,99,0
+201937,2019,21901283,2020-08-08 19:30:00,Phoenix,Suns,Miami,Heat,Regular Season,0,1,29.0,7,8,10,8,2,1,1,3,3,-1,9,3,0.333,3,1,0.333,0,0,0.0,112,119,0
+201937,2019,21901292,2020-08-10 14:30:00,Phoenix,Suns,Oklahoma City,Thunder,Regular Season,1,1,20.0,7,9,5,5,0,0,1,4,4,3,5,2,0.4,1,0,0.0,4,3,0.75,128,101,0
+201937,2019,21901299,2020-08-11 16:30:00,Phoenix,Suns,Philadelphia,76ers,Regular Season,0,1,28.0,16,10,5,5,0,1,0,2,4,-4,11,6,0.545,5,2,0.4,2,2,1.0,117,130,0
+201937,2019,21901313,2020-08-13 16:00:00,Phoenix,Suns,Dallas,Mavericks,Regular Season,1,1,20.0,7,12,2,2,0,0,1,1,1,4,6,2,0.333,5,2,0.4,1,1,1.0,128,102,0
+201937,2020,12000010,2020-12-12 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Preseason,1,0,12.0,9,2,5,5,0,0,0,3,0,-1,7,3,0.429,2,1,0.5,2,2,1.0,105,107,0
+201937,2020,12000023,2020-12-14 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Preseason,1,0,19.0,4,4,2,2,0,0,2,3,3,-16,5,2,0.4,2,0,0.0,0,0,0.0,104,123,0
+201937,2020,12000036,2020-12-17 20:30:00,Minnesota,Timberwolves,Dallas,Mavericks,Preseason,0,1,23.0,7,4,1,1,0,0,1,1,2,-13,5,3,0.6,2,0,0.0,3,1,0.333,127,129,0
+201937,2020,22000018,2020-12-23 20:00:00,Minnesota,Timberwolves,Detroit,Pistons,Regular Season,1,1,25.0,3,3,1,1,0,0,2,1,3,17,4,1,0.25,1,0,0.0,2,1,0.5,111,101,0
+201937,2020,22000028,2020-12-26 21:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,0,1,26.0,9,6,4,4,0,0,1,1,4,6,8,3,0.375,3,1,0.333,2,2,1.0,111,116,0
+201937,2020,22000040,2020-12-27 22:00:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,0,0,18.0,9,4,4,3,1,0,0,0,1,-9,8,4,0.5,4,1,0.25,0,0,0.0,127,91,0
+201937,2020,22000054,2020-12-29 22:00:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,0,0,25.0,17,5,0,0,0,0,1,3,3,-13,8,6,0.75,3,2,0.667,3,3,1.0,124,101,0
+201937,2020,22000074,2021-01-01 20:00:00,Minnesota,Timberwolves,Washington,Wizards,Regular Season,1,0,25.0,3,5,2,1,1,0,2,3,2,-22,4,1,0.25,2,1,0.5,0,0,0.0,109,130,0
+201937,2020,22000088,2021-01-03 19:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,1,0,17.0,6,4,2,2,0,0,0,1,1,-3,7,3,0.429,3,0,0.0,0,0,0.0,109,124,0
+201937,2020,22000104,2021-01-05 21:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,0,0,21.0,0,2,4,4,0,0,1,2,5,-18,3,0,0.0,1,0,0.0,0,0,0.0,123,116,0
+201937,2020,22000122,2021-01-07 22:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,0,0,28.0,2,10,5,4,1,0,5,2,2,-4,4,0,0.0,1,0,0.0,2,2,1.0,135,117,0
+201937,2020,22000138,2021-01-09 20:00:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,1,0,33.0,6,8,5,4,1,0,0,2,2,-5,7,3,0.429,0,0,0.0,0,0,0.0,122,125,0
+201937,2020,22000147,2021-01-10 20:00:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,1,1,21.0,8,6,2,2,0,0,3,0,1,0,5,2,0.4,1,0,0.0,4,4,1.0,96,88,0
+201937,2020,22000169,2021-01-13 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,1,0,24.0,6,6,2,2,0,0,0,3,0,-16,5,1,0.2,2,0,0.0,4,4,1.0,107,118,0
+201937,2020,22000236,2021-01-22 20:00:00,Minnesota,Timberwolves,Atlanta,Hawks,Regular Season,1,0,14.0,4,5,4,4,0,0,3,3,0,-13,6,2,0.333,2,0,0.0,1,0,0.0,98,116,0
+201937,2020,22000246,2021-01-23 20:00:00,Minnesota,Timberwolves,New Orleans,Pelicans,Regular Season,1,1,28.0,9,7,7,6,1,0,1,4,2,2,4,1,0.25,1,0,0.0,10,7,0.7,120,110,0
+201937,2020,22000266,2021-01-25 22:00:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,0,0,25.0,6,11,4,2,2,0,1,4,1,-24,8,1,0.125,1,0,0.0,4,4,1.0,130,108,0
+201937,2020,22000283,2021-01-27 22:00:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,0,0,21.0,5,5,1,1,0,0,0,3,1,-15,7,2,0.286,2,0,0.0,2,1,0.5,123,111,0
+201937,2020,22000294,2021-01-29 20:00:00,Minnesota,Timberwolves,Philadelphia,76ers,Regular Season,1,0,18.0,4,4,2,2,0,0,1,4,3,-5,6,2,0.333,0,0,0.0,0,0,0.0,94,118,0
+201937,2020,22000311,2021-01-31 20:00:00,Minnesota,Timberwolves,Cleveland,Cavaliers,Regular Season,1,1,20.0,8,8,3,3,0,0,1,1,1,2,4,2,0.5,0,0,0.0,4,4,1.0,109,104,0
+201937,2020,22000312,2021-02-01 20:00:00,Minnesota,Timberwolves,Cleveland,Cavaliers,Regular Season,0,0,19.0,2,4,5,5,0,0,0,1,2,0,4,1,0.25,1,0,0.0,0,0,0.0,100,98,0
+201937,2020,22000334,2021-02-03 20:30:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,0,0,27.0,8,7,7,7,0,0,1,2,2,-6,10,4,0.4,1,0,0.0,0,0,0.0,111,108,0
+201937,2020,22000348,2021-02-05 20:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Regular Season,0,1,23.0,3,8,4,4,0,0,3,4,1,2,4,1,0.25,1,0,0.0,1,1,1.0,103,106,0
+201937,2020,22000359,2021-02-06 20:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Regular Season,0,0,24.0,8,6,3,3,0,0,1,3,3,-4,6,3,0.5,1,0,0.0,2,2,1.0,120,118,0
+201937,2020,22000370,2021-02-08 20:30:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,0,0,33.0,9,7,4,4,0,0,4,1,4,10,9,3,0.333,5,2,0.4,2,1,0.5,127,122,0
+201937,2020,22000387,2021-02-10 20:00:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,1,0,29.0,5,10,4,3,1,0,2,3,5,-2,4,2,0.5,2,1,0.5,0,0,0.0,112,119,0
+201937,2020,22000395,2021-02-12 19:00:00,Minnesota,Timberwolves,Charlotte,Hornets,Regular Season,0,0,28.0,5,9,4,3,1,0,0,2,5,0,8,2,0.25,3,0,0.0,1,1,1.0,120,114,0
+201937,2020,22000413,2021-02-14 19:00:00,Minnesota,Timberwolves,Toronto,Raptors,Regular Season,0,1,29.0,16,5,1,1,0,0,0,0,2,9,13,6,0.462,8,4,0.5,0,0,0.0,112,116,0
+201937,2020,22000431,2021-02-16 20:00:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,1,0,29.0,13,8,4,2,2,0,0,2,3,2,12,5,0.417,3,1,0.333,4,2,0.5,104,112,0
+201937,2020,22000440,2021-02-17 20:00:00,Minnesota,Timberwolves,Indiana,Pacers,Regular Season,1,0,35.0,20,13,3,3,0,0,1,1,1,-10,13,6,0.462,6,3,0.5,5,5,1.0,128,134,0
+201937,2020,22000454,2021-02-19 21:00:00,Minnesota,Timberwolves,Toronto,Raptors,Regular Season,1,0,26.0,7,4,3,3,0,0,1,3,2,-2,6,2,0.333,4,1,0.25,3,2,0.667,81,86,0
+201937,2020,22000469,2021-02-21 19:00:00,Minnesota,Timberwolves,New York,Knicks,Regular Season,0,0,27.0,18,6,0,0,0,0,1,1,2,-9,12,7,0.583,5,3,0.6,3,1,0.333,103,99,0
+201937,2020,22000486,2021-02-23 20:00:00,Minnesota,Timberwolves,Milwaukee,Bucks,Regular Season,0,0,22.0,12,4,4,4,0,0,0,1,5,-7,8,4,0.5,4,2,0.5,2,2,1.0,139,112,0
+201937,2020,22000493,2021-02-24 20:00:00,Minnesota,Timberwolves,Chicago,Bulls,Regular Season,0,0,32.0,9,10,1,0,1,0,0,0,2,1,6,2,0.333,1,0,0.0,5,5,1.0,133,126,0
+201937,2020,22000517,2021-02-27 19:00:00,Minnesota,Timberwolves,Washington,Wizards,Regular Season,0,0,25.0,6,3,2,1,1,0,2,2,3,-8,4,1,0.25,1,1,1.0,4,3,0.75,128,112,0
+201937,2020,22000526,2021-02-28 21:00:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,1,0,25.0,6,6,2,2,0,0,3,2,2,-12,8,2,0.25,3,0,0.0,2,2,1.0,99,118,0
+201937,2020,22000547,2021-03-03 20:00:00,Minnesota,Timberwolves,Charlotte,Hornets,Regular Season,1,0,24.0,20,9,4,3,1,0,1,5,1,-10,11,7,0.636,6,4,0.667,2,2,1.0,102,135,0
+201937,2020,22000574,2021-03-11 20:00:00,Minnesota,Timberwolves,New Orleans,Pelicans,Regular Season,0,1,27.0,6,8,1,0,1,1,2,2,0,10,6,1,0.167,2,0,0.0,4,4,1.0,105,135,0
+201937,2020,22000591,2021-03-13 20:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,1,0,32.0,10,8,4,4,0,0,2,3,3,-4,4,3,0.75,1,0,0.0,5,4,0.8,121,125,0
+201937,2020,22000599,2021-03-14 20:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,1,1,29.0,15,7,5,5,0,0,0,1,3,-3,10,3,0.3,5,1,0.2,8,8,1.0,114,112,0
+201937,2020,22000615,2021-03-16 22:30:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,0,0,27.0,19,12,2,2,0,0,3,1,2,-9,11,8,0.727,5,2,0.4,3,1,0.333,137,121,0
+201937,2020,22000628,2021-03-18 22:00:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,0,1,29.0,6,5,1,1,0,0,3,2,4,5,5,1,0.2,1,0,0.0,4,4,1.0,119,123,0
+201937,2020,22000638,2021-03-19 22:00:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,0,0,33.0,21,10,5,4,1,0,0,0,0,-9,10,7,0.7,6,3,0.5,5,4,0.8,113,101,0
+201937,2020,22000654,2021-03-22 20:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Regular Season,1,0,33.0,11,11,5,3,2,0,2,1,1,5,10,4,0.4,5,1,0.2,2,2,1.0,103,112,0
+201937,2020,22000673,2021-03-24 20:00:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,1,0,30.0,3,7,2,1,1,0,1,3,3,-11,7,1,0.143,5,1,0.2,0,0,0.0,108,128,0
+201937,2020,22000688,2021-03-26 20:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,1,1,27.0,2,8,3,3,0,0,1,1,2,5,7,0,0.0,3,0,0.0,2,2,1.0,107,101,0
+201937,2020,22000696,2021-03-27 20:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,1,0,26.0,4,10,4,4,0,1,3,2,2,-2,5,1,0.2,4,1,0.25,1,1,1.0,107,129,0
+201937,2020,22000709,2021-03-29 19:30:00,Minnesota,Timberwolves,Brooklyn,Nets,Regular Season,0,0,26.0,6,5,4,4,0,0,2,1,4,-6,7,2,0.286,3,0,0.0,2,2,1.0,112,107,0
+201937,2020,22000726,2021-03-31 20:00:00,Minnesota,Timberwolves,New York,Knicks,Regular Season,1,1,27.0,9,7,4,3,1,0,2,1,1,4,9,3,0.333,5,1,0.2,2,2,1.0,102,101,0
+201937,2020,22000741,2021-04-02 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,120,108,0
+201937,2020,22000750,2021-04-03 20:00:00,Minnesota,Timberwolves,Philadelphia,76ers,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,122,113,0
+201937,2020,22000765,2021-04-05 19:00:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,1,1,26.0,4,5,1,1,0,1,1,2,1,-3,5,1,0.2,3,0,0.0,2,2,1.0,116,106,0
+201937,2020,22000776,2021-04-07 19:00:00,Minnesota,Timberwolves,Indiana,Pacers,Regular Season,0,0,29.0,17,7,5,5,0,0,3,0,1,7,11,4,0.364,3,1,0.333,9,8,0.889,141,137,0
+201937,2020,22000792,2021-04-09 19:30:00,Minnesota,Timberwolves,Boston,Celtics,Regular Season,0,0,22.0,4,7,4,4,0,0,4,0,1,1,5,1,0.2,3,0,0.0,2,2,1.0,145,136,0
+201937,2020,22000812,2021-04-11 20:00:00,Minnesota,Timberwolves,Chicago,Bulls,Regular Season,1,1,25.0,17,9,4,4,0,0,1,0,2,13,13,6,0.462,6,5,0.833,0,0,0.0,121,117,0
+201937,2020,22000817,2021-04-13 16:00:00,Minnesota,Timberwolves,Brooklyn,Nets,Regular Season,1,0,19.0,5,2,3,2,1,0,1,1,1,-31,6,2,0.333,4,1,0.25,0,0,0.0,97,127,0
+201937,2020,22000834,2021-04-14 16:30:00,Minnesota,Timberwolves,Milwaukee,Bucks,Regular Season,1,0,18.0,0,2,4,4,0,0,1,2,4,-23,5,0,0.0,2,0,0.0,0,0,0.0,105,130,0
+201937,2020,22000852,2021-04-16 20:00:00,Minnesota,Timberwolves,Miami,Heat,Regular Season,1,1,32.0,17,4,3,3,0,0,2,3,2,-4,10,5,0.5,5,2,0.4,5,5,1.0,119,111,0
+201937,2020,22000867,2021-04-18 22:00:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,0,0,23.0,6,5,2,2,0,0,1,0,1,-14,6,2,0.333,3,1,0.333,2,1,0.5,124,105,0
+201937,2020,22000880,2021-04-20 22:00:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,0,1,30.0,6,11,4,3,1,0,1,3,1,11,8,3,0.375,3,0,0.0,0,0,0.0,120,134,0
+201937,2020,22000891,2021-04-21 22:00:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,0,0,28.0,11,6,4,4,0,0,1,1,2,-5,9,4,0.444,5,3,0.6,0,0,0.0,128,125,0
+201937,2020,22000909,2021-04-24 21:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,0,1,20.0,2,2,1,1,0,0,1,0,4,-5,5,1,0.2,2,0,0.0,0,0,0.0,96,101,0
+201937,2020,22000923,2021-04-26 20:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,1,1,21.0,2,4,5,5,0,0,3,1,0,-1,6,1,0.167,2,0,0.0,0,0,0.0,105,104,0
+201937,2020,22000931,2021-04-27 21:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,0,1,17.0,3,4,2,2,0,0,0,1,2,-8,3,1,0.333,3,1,0.333,0,0,0.0,107,114,0
+201937,2020,22000946,2021-04-29 20:00:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,1,1,31.0,26,6,6,5,1,0,2,0,1,17,13,7,0.538,8,5,0.625,7,7,1.0,126,114,0
+201937,2020,22000962,2021-05-01 20:00:00,Minnesota,Timberwolves,New Orleans,Pelicans,Regular Season,1,0,32.0,11,7,3,2,1,0,6,1,2,-4,8,4,0.5,4,1,0.25,2,2,1.0,136,140,0
+201937,2020,22000183,2021-05-05 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,1,0,17.0,2,4,4,4,0,0,0,1,0,-15,3,0,0.0,2,0,0.0,2,2,1.0,135,139,0
+201937,2020,22001005,2021-05-07 20:00:00,Minnesota,Timberwolves,Miami,Heat,Regular Season,0,0,32.0,16,9,3,2,1,0,2,3,3,12,12,6,0.5,4,1,0.25,4,3,0.75,121,112,0
+201937,2020,22001022,2021-05-09 19:00:00,Minnesota,Timberwolves,Orlando,Magic,Regular Season,0,1,25.0,18,3,2,2,0,0,1,0,2,27,11,6,0.545,7,3,0.429,3,3,1.0,96,128,0
+201937,2020,22001033,2021-05-11 19:00:00,Minnesota,Timberwolves,Detroit,Pistons,Regular Season,0,1,30.0,19,5,3,2,1,1,2,2,4,30,14,8,0.571,8,3,0.375,0,0,0.0,100,119,0
+201937,2020,22001052,2021-05-13 20:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,1,0,27.0,6,5,6,4,2,0,1,1,2,-5,9,2,0.222,6,2,0.333,0,0,0.0,103,114,0
+201937,2020,22001063,2021-05-15 14:00:00,Minnesota,Timberwolves,Boston,Celtics,Regular Season,1,0,22.0,4,3,4,4,0,0,1,0,0,-13,6,2,0.333,2,0,0.0,0,0,0.0,108,124,0
+201937,2020,22001071,2021-05-16 21:00:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,1,1,20.0,2,7,3,3,0,0,0,1,1,8,3,1,0.333,2,0,0.0,0,0,0.0,136,121,0
+201937,2021,12100012,2021-10-05 20:00:00,Cleveland,Cavaliers,Chicago,Bulls,Preseason,0,0,20.0,10,6,5,4,1,0,0,3,2,-33,10,3,0.3,6,1,0.167,4,3,0.75,131,95,0
+201937,2021,12100016,2021-10-06 19:30:00,Cleveland,Cavaliers,Atlanta,Hawks,Preseason,0,1,23.0,8,6,2,2,0,0,1,4,5,16,6,3,0.5,1,0,0.0,2,2,1.0,96,99,0
+201937,2021,12100025,2021-10-08 19:00:00,Cleveland,Cavaliers,Indiana,Pacers,Preseason,1,0,17.0,14,2,0,0,0,0,2,0,2,12,10,6,0.6,3,1,0.333,1,1,1.0,100,109,0
+201937,2021,12100036,2021-10-10 19:00:00,Cleveland,Cavaliers,Chicago,Bulls,Preseason,1,0,16.0,9,9,1,0,1,0,1,3,1,-1,13,4,0.308,1,0,0.0,1,1,1.0,101,102,0
+201937,2021,12100061,2021-10-15 19:00:00,Cleveland,Cavaliers,Indiana,Pacers,Preseason,0,1,8.0,4,3,1,1,0,0,0,0,1,2,1,1,1.0,0,0,0.0,2,2,1.0,94,110,0
+201937,2021,22100007,2021-10-20 20:00:00,Cleveland,Cavaliers,Memphis,Grizzlies,Regular Season,0,0,24.0,12,10,4,4,0,0,1,2,3,-12,10,4,0.4,7,3,0.429,1,1,1.0,132,121,0
+201937,2021,22100017,2021-10-22 19:00:00,Cleveland,Cavaliers,Charlotte,Hornets,Regular Season,1,0,28.0,15,10,2,1,1,0,2,6,1,-9,12,5,0.417,6,3,0.5,2,2,1.0,112,123,0
+201937,2021,22100027,2021-10-23 18:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,1,1,35.0,23,8,6,6,0,0,1,3,3,16,15,9,0.6,7,3,0.429,2,2,1.0,101,95,0
+201937,2021,22100048,2021-10-25 21:00:00,Cleveland,Cavaliers,Denver,Nuggets,Regular Season,0,1,24.0,7,8,4,4,0,1,1,2,5,8,10,2,0.2,3,0,0.0,4,3,0.75,87,99,0
+201937,2021,22100064,2021-10-27 22:30:00,Cleveland,Cavaliers,Los Angeles,Clippers,Regular Season,0,1,27.0,15,3,3,3,0,0,0,4,3,15,13,6,0.462,3,0,0.0,3,3,1.0,79,92,0
+201937,2021,22100077,2021-10-29 22:30:00,Cleveland,Cavaliers,Los Angeles,Lakers,Regular Season,0,0,31.0,18,4,6,3,3,0,3,3,2,-4,15,6,0.4,8,3,0.375,3,3,1.0,113,101,0
+201937,2021,22100088,2021-10-30 22:00:00,Cleveland,Cavaliers,Phoenix,Suns,Regular Season,0,0,25.0,8,3,4,4,0,0,1,2,1,-10,15,3,0.2,6,2,0.333,0,0,0.0,101,92,0
+201937,2021,22100094,2021-11-01 19:00:00,Cleveland,Cavaliers,Charlotte,Hornets,Regular Season,0,1,24.0,5,8,1,1,0,1,2,3,1,23,7,1,0.143,2,1,0.5,4,2,0.5,110,113,0
+201937,2021,22100108,2021-11-03 19:00:00,Cleveland,Cavaliers,Portland,Trail Blazers,Regular Season,1,1,31.0,0,7,3,3,0,0,1,1,1,11,7,0,0.0,4,0,0.0,0,0,0.0,107,104,0
+201937,2021,22100127,2021-11-05 19:30:00,Cleveland,Cavaliers,Toronto,Raptors,Regular Season,0,1,22.0,11,4,5,3,2,0,0,3,5,-2,8,4,0.5,1,1,1.0,2,2,1.0,101,102,0
+201937,2021,22100140,2021-11-07 18:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,0,1,31.0,37,10,3,3,0,0,1,4,1,6,19,13,0.684,9,8,0.889,3,3,1.0,109,126,0
+201937,2021,22100158,2021-11-10 19:00:00,Cleveland,Cavaliers,Washington,Wizards,Regular Season,1,0,27.0,20,5,5,5,0,0,2,3,1,2,15,6,0.4,5,1,0.2,8,7,0.875,94,97,0
+201937,2021,22100176,2021-11-12 19:30:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,1,1,27.0,5,9,1,1,0,0,5,3,0,15,9,2,0.222,5,1,0.2,0,0,0.0,98,78,0
+201937,2021,22100190,2021-11-13 20:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,1,1,32.0,16,7,5,4,1,0,1,1,4,13,17,4,0.235,8,2,0.25,6,6,1.0,91,89,0
+201937,2021,22100199,2021-11-15 19:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,1,0,37.0,28,2,6,6,0,0,0,3,2,-7,20,9,0.45,8,4,0.5,7,6,0.857,92,98,0
+201937,2021,22100216,2021-11-17 19:30:00,Cleveland,Cavaliers,Brooklyn,Nets,Regular Season,0,0,33.0,25,5,4,4,0,0,0,5,2,-4,17,8,0.471,10,3,0.3,6,6,1.0,109,99,0
+201937,2021,22100224,2021-11-18 19:30:00,Cleveland,Cavaliers,Golden State,Warriors,Regular Season,1,0,37.0,10,5,0,0,0,0,2,5,1,-11,15,4,0.267,5,1,0.2,2,1,0.5,89,104,0
+201937,2021,22100253,2021-11-22 19:00:00,Cleveland,Cavaliers,Brooklyn,Nets,Regular Season,1,0,29.0,16,5,7,5,2,1,0,4,3,-12,12,4,0.333,8,3,0.375,5,5,1.0,112,117,0
+201937,2021,22100267,2021-11-24 19:00:00,Cleveland,Cavaliers,Phoenix,Suns,Regular Season,1,0,29.0,15,5,4,4,0,0,1,2,3,5,20,5,0.25,8,2,0.25,6,3,0.5,115,120,0
+201937,2021,22100295,2021-11-27 20:00:00,Cleveland,Cavaliers,Orlando,Magic,Regular Season,1,1,26.0,5,8,4,4,0,0,1,3,4,-6,6,1,0.167,5,1,0.2,2,2,1.0,105,92,0
+201937,2021,22100310,2021-11-29 20:30:00,Cleveland,Cavaliers,Dallas,Mavericks,Regular Season,0,1,28.0,7,6,7,7,0,0,1,2,3,30,11,3,0.273,1,1,1.0,0,0,0.0,96,114,0
+201937,2021,22100323,2021-12-01 19:30:00,Cleveland,Cavaliers,Miami,Heat,Regular Season,0,1,25.0,6,6,5,4,1,0,2,3,1,38,5,1,0.2,3,0,0.0,5,4,0.8,85,111,0
+201937,2021,22100334,2021-12-03 19:00:00,Cleveland,Cavaliers,Washington,Wizards,Regular Season,0,1,28.0,7,6,4,4,0,0,0,0,1,-4,11,3,0.273,3,1,0.333,1,0,0.0,101,116,0
+201937,2021,22100349,2021-12-05 15:30:00,Cleveland,Cavaliers,Utah,Jazz,Regular Season,1,0,30.0,15,2,4,4,0,1,1,1,1,1,11,6,0.545,6,2,0.333,2,1,0.5,108,109,0
+201937,2021,22100358,2021-12-06 20:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,0,0,27.0,7,9,4,3,1,0,0,0,3,-2,9,2,0.222,4,1,0.25,2,2,1.0,112,104,0
+201937,2021,22100367,2021-12-08 19:00:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,1,1,23.0,11,9,4,4,0,0,1,1,2,9,7,3,0.429,1,0,0.0,5,5,1.0,115,92,0
+201937,2021,22100387,2021-12-10 20:00:00,Cleveland,Cavaliers,Minnesota,Timberwolves,Regular Season,0,1,22.0,6,8,4,3,1,0,0,3,3,8,9,2,0.222,4,1,0.25,2,1,0.5,106,123,0
+201937,2021,22100393,2021-12-11 20:00:00,Cleveland,Cavaliers,Sacramento,Kings,Regular Season,1,1,26.0,15,3,2,2,0,0,3,4,5,-3,9,4,0.444,3,2,0.667,6,5,0.833,117,103,0
+201937,2021,22100404,2021-12-13 19:00:00,Cleveland,Cavaliers,Miami,Heat,Regular Season,1,1,27.0,7,7,3,3,0,0,1,1,3,4,9,3,0.333,4,1,0.25,0,0,0.0,105,94,0
+201937,2021,22100417,2021-12-15 19:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,1,1,21.0,7,12,2,2,0,0,4,2,1,30,6,2,0.333,3,0,0.0,3,3,1.0,124,89,0
+201937,2021,22100446,2021-12-18 21:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,0,1,29.0,15,10,5,5,0,1,3,4,2,33,12,6,0.5,6,2,0.333,1,1,1.0,90,119,0
+201937,2021,22100471,2021-12-22 19:30:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,0,0,30.0,8,6,5,4,1,0,3,4,1,-20,12,2,0.167,5,1,0.2,4,3,0.75,111,101,0
+201937,2021,22100494,2021-12-26 18:00:00,Cleveland,Cavaliers,Toronto,Raptors,Regular Season,1,1,23.0,16,6,2,2,0,0,3,2,2,21,13,6,0.462,6,2,0.333,2,2,1.0,144,99,0
+201937,2021,22100513,2021-12-28 20:00:00,Cleveland,Cavaliers,New Orleans,Pelicans,Regular Season,0,0,36.0,27,9,13,11,2,2,2,1,1,2,25,10,0.4,7,3,0.429,4,4,1.0,108,104,0
+201937,2022,12200019,2022-10-05 19:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Preseason,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,113,112,0
+201937,2022,12200044,2022-10-10 19:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Preseason,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,97,113,0
+201937,2022,12200052,2022-10-12 19:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Preseason,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,105,99,0
+201937,2022,12200063,2022-10-14 19:00:00,Cleveland,Cavaliers,Orlando,Magic,Preseason,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,114,108,0
+201937,2022,22200631,2023-01-12 22:00:00,Cleveland,Cavaliers,Portland,Trail Blazers,Regular Season,0,1,10.0,9,1,3,3,0,0,0,0,0,6,5,3,0.6,4,2,0.5,2,1,0.5,113,119,0
+201937,2022,22200645,2023-01-14 20:00:00,Cleveland,Cavaliers,Minnesota,Timberwolves,Regular Season,0,0,12.0,3,2,2,2,0,0,0,0,2,-6,4,1,0.25,3,1,0.333,0,0,0.0,110,102,0
+201937,2022,22200658,2023-01-16 15:00:00,Cleveland,Cavaliers,New Orleans,Pelicans,Regular Season,1,1,16.0,2,0,1,1,0,0,0,0,4,13,4,1,0.25,2,0,0.0,0,0,0.0,113,103,0
+201937,2022,22200672,2023-01-18 20:00:00,Cleveland,Cavaliers,Memphis,Grizzlies,Regular Season,0,0,12.0,7,3,4,3,1,0,0,0,0,-4,7,2,0.286,5,1,0.2,2,2,1.0,115,114,0
+201937,2022,22200695,2023-01-21 19:30:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,1,1,18.0,3,5,3,3,0,0,2,1,2,-2,6,1,0.167,2,0,0.0,2,1,0.5,114,102,0
+201937,2022,22200715,2023-01-24 19:30:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,0,0,13.0,3,2,0,0,0,0,1,2,2,-26,4,1,0.25,3,1,0.333,0,0,0.0,105,103,0
+201937,2022,22200733,2023-01-26 20:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,0,1,17.0,5,7,3,2,1,0,1,1,2,12,7,2,0.286,2,1,0.5,0,0,0.0,95,113,0
+201937,2022,22200754,2023-01-29 19:00:00,Cleveland,Cavaliers,Los Angeles,Clippers,Regular Season,1,1,19.0,3,4,3,3,0,0,1,0,1,-10,5,1,0.2,3,1,0.333,0,0,0.0,122,99,0
+201937,2022,22200764,2023-01-31 19:00:00,Cleveland,Cavaliers,Miami,Heat,Regular Season,1,0,17.0,8,5,5,5,0,0,1,1,1,6,6,3,0.5,4,2,0.5,2,0,0.0,97,100,0
+201937,2022,22200779,2023-02-02 19:30:00,Cleveland,Cavaliers,Memphis,Grizzlies,Regular Season,1,1,21.0,13,4,2,2,0,1,2,2,1,15,9,4,0.444,6,3,0.5,2,2,1.0,128,113,0
+201937,2022,22200803,2023-02-05 17:00:00,Cleveland,Cavaliers,Indiana,Pacers,Regular Season,0,1,19.0,7,9,3,3,0,0,0,1,3,8,7,3,0.429,3,1,0.333,0,0,0.0,103,122,0
+201937,2022,22200822,2023-02-08 19:00:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,1,1,16.0,8,4,2,2,0,0,2,1,1,11,6,3,0.5,3,0,0.0,2,2,1.0,113,85,0
+201937,2022,22200852,2023-02-11 20:00:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,1,1,16.0,0,5,1,1,0,1,3,1,0,14,6,0,0.0,5,0,0.0,0,0,0.0,97,89,0
+201937,2022,22200858,2023-02-13 19:00:00,Cleveland,Cavaliers,San Antonio,Spurs,Regular Season,1,1,22.0,9,2,3,2,1,0,2,0,1,1,3,1,0.333,1,0,0.0,8,7,0.875,117,109,0
+201937,2022,22200896,2023-02-24 19:30:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,0,0,11.0,2,2,1,0,1,0,2,1,1,-10,4,1,0.25,1,0,0.0,0,0,0.0,136,119,0
+201937,2022,22200914,2023-02-26 18:00:00,Cleveland,Cavaliers,Toronto,Raptors,Regular Season,1,1,19.0,0,1,1,1,0,0,1,2,4,7,5,0,0.0,2,0,0.0,0,0,0.0,118,93,0
+201937,2022,22200935,2023-03-01 19:30:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,0,0,7.0,4,2,2,2,0,0,0,0,0,0,1,1,1.0,1,1,1.0,2,1,0.5,117,113,0
+201937,2022,22200957,2023-03-04 19:30:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,1,1,19.0,5,3,5,3,2,2,2,0,1,10,5,2,0.4,2,1,0.5,0,0,0.0,114,90,0
+201937,2022,22200971,2023-03-06 19:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,1,1,6.0,2,0,0,0,0,0,0,3,0,-6,1,1,1.0,0,0,0.0,0,0,0.0,118,114,0
+201937,2022,22200987,2023-03-08 19:30:00,Cleveland,Cavaliers,Miami,Heat,Regular Season,0,1,22.0,5,4,0,0,0,0,2,1,2,0,7,2,0.286,2,1,0.5,0,0,0.0,100,104,0
+201937,2022,22201000,2023-03-10 20:00:00,Cleveland,Cavaliers,Miami,Heat,Regular Season,0,0,25.0,8,8,3,3,0,0,0,3,3,-8,8,3,0.375,7,2,0.286,0,0,0.0,119,115,0
+201937,2022,22201015,2023-03-12 17:00:00,Cleveland,Cavaliers,Charlotte,Hornets,Regular Season,0,1,19.0,11,1,3,3,0,0,0,1,0,17,7,4,0.571,1,0,0.0,3,3,1.0,108,114,0
+201937,2022,22201027,2023-03-14 19:00:00,Cleveland,Cavaliers,Charlotte,Hornets,Regular Season,0,1,20.0,11,4,5,5,0,1,0,3,3,8,11,5,0.455,2,0,0.0,1,1,1.0,104,120,0
+201937,2022,22201035,2023-03-15 19:30:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,109,118,0
+201937,2022,22201049,2023-03-17 19:30:00,Cleveland,Cavaliers,Washington,Wizards,Regular Season,1,1,21.0,8,5,3,2,1,0,0,0,1,15,4,3,0.75,0,0,0.0,3,2,0.667,117,94,0
+201937,2022,22201079,2023-03-21 19:30:00,Cleveland,Cavaliers,Brooklyn,Nets,Regular Season,0,1,19.0,8,1,0,0,0,0,1,1,1,-4,6,3,0.5,2,0,0.0,2,2,1.0,109,115,0
+201937,2022,22201094,2023-03-23 19:30:00,Cleveland,Cavaliers,Brooklyn,Nets,Regular Season,0,1,19.0,0,7,0,0,0,0,0,0,2,-6,1,0,0.0,1,0,0.0,0,0,0.0,114,116,0
+201937,2022,22201117,2023-03-26 18:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,1,1,15.0,2,2,1,1,0,0,1,1,1,-11,4,0,0.0,2,0,0.0,2,2,1.0,108,91,0
+201937,2022,22201131,2023-03-28 19:30:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,0,0,19.0,9,1,2,2,0,0,0,1,4,-5,7,4,0.571,2,1,0.5,0,0,0.0,120,118,0
+201937,2022,22201154,2023-03-31 19:30:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,1,0,9.0,2,2,0,0,0,0,0,0,2,-8,3,1,0.333,2,0,0.0,0,0,0.0,116,130,0
+201937,2022,22201173,2023-04-02 20:00:00,Cleveland,Cavaliers,Indiana,Pacers,Regular Season,1,1,14.0,0,5,1,1,0,0,1,1,2,1,1,0,0.0,0,0,0.0,0,0,0.0,115,105,0
+201937,2022,22201178,2023-04-04 19:00:00,Cleveland,Cavaliers,Orlando,Magic,Regular Season,0,1,11.0,3,2,1,0,1,1,0,0,1,-9,6,1,0.167,3,1,0.333,0,0,0.0,113,117,0
+201937,2022,22201197,2023-04-06 19:00:00,Cleveland,Cavaliers,Orlando,Magic,Regular Season,0,1,20.0,5,5,2,2,0,0,1,0,2,15,7,2,0.286,2,1,0.5,0,0,0.0,94,118,0
+201937,2022,22201218,2023-04-09 13:00:00,Cleveland,Cavaliers,Charlotte,Hornets,Regular Season,1,0,26.0,6,7,5,4,1,0,0,3,1,1,11,2,0.182,4,0,0.0,2,2,1.0,95,106,0
+201937,2022,42200131,2023-04-15 18:00:00,Cleveland,Cavaliers,New York,Knicks,Playoffs,1,0,5.0,0,0,2,2,0,0,1,2,2,-9,1,0,0.0,0,0,0.0,0,0,0.0,97,101,0
+201937,2022,42200132,2023-04-18 19:30:00,Cleveland,Cavaliers,New York,Knicks,Playoffs,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,107,90,0
+201937,2022,42200133,2023-04-21 20:30:00,Cleveland,Cavaliers,New York,Knicks,Playoffs,0,0,5.0,0,1,2,1,1,0,0,2,2,0,0,0,0.0,0,0,0.0,0,0,0.0,99,79,0
+201937,2022,42200134,2023-04-23 13:00:00,Cleveland,Cavaliers,New York,Knicks,Playoffs,0,0,6.0,0,2,2,1,1,0,0,1,1,2,0,0,0.0,0,0,0.0,0,0,0.0,102,93,0
+201937,2022,42200135,2023-04-26 19:00:00,Cleveland,Cavaliers,New York,Knicks,Playoffs,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,95,106,0
+201937,2023,12300026,2023-10-12 19:00:00,Cleveland,Cavaliers,Orlando,Magic,Preseason,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,105,108,0
+201937,2023,12300066,2023-10-20 19:00:00,Cleveland,Cavaliers,Indiana,Pacers,Preseason,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,109,104,0

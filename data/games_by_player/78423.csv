@@ -1,0 +1,526 @@
+personId,season,gameId,gameDateTimeEst,playerteamCity,playerteamName,opponentteamCity,opponentteamName,gameType,home,win,numMinutes,points,assists,reboundsTotal,reboundsDefensive,reboundsOffensive,blocks,steals,turnovers,foulsPersonal,plusMinusPoints,fieldGoalsAttempted,fieldGoalsMade,fieldGoalsPercentage,threePointersAttempted,threePointersMade,threePointersPercentage,freeThrowsAttempted,freeThrowsMade,freeThrowsPercentage,homeScore,awayScore,attendance
+78423,1981,28100016,1981-10-31 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,1,15.0,2,2,1,0,1,0,0,0,1,0,5,1,0.2,0,0,0.0,0,0,0.0,94,84,0
+78423,1981,28100020,1981-11-01 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,0,7.0,4,0,1,0,1,0,0,1,0,0,1,1,1.0,0,0,0.0,2,2,1.0,104,94,0
+78423,1981,28100030,1981-11-04 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,1,0,14.0,0,4,4,3,1,0,0,2,2,0,1,0,0.0,0,0,0.0,2,0,0.0,103,106,0
+78423,1981,28100047,1981-11-06 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,0,22.0,8,3,6,3,3,0,3,0,2,0,10,3,0.299,0,0,0.0,2,2,1.0,105,109,0
+78423,1981,28100061,1981-11-10 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,1,4.0,2,0,0,0,0,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,113,123,0
+78423,1981,28100074,1981-11-11 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,1,1,16.0,4,2,2,1,1,0,0,1,2,0,5,2,0.4,0,0,0.0,0,0,0.0,107,79,0
+78423,1981,28100131,1981-11-22 20:00:00,Seattle,SuperSonics,New Jersey,Nets,Regular Season,1,1,18.0,10,3,6,4,2,0,0,1,3,0,2,2,1.0,0,0,0.0,10,6,0.599,109,92,0
+78423,1981,28100146,1981-11-25 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,1,25.0,12,2,5,2,3,0,1,3,5,0,7,5,0.713,0,0,0.0,3,2,0.667,110,103,0
+78423,1981,28100149,1981-11-27 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,1,1,9.0,7,1,2,1,1,0,0,1,3,0,4,3,0.75,0,0,0.0,4,1,0.25,117,110,0
+78423,1981,28100160,1981-11-28 20:00:00,Seattle,SuperSonics,San Diego,Clippers,Regular Season,0,0,13.0,5,1,1,0,1,0,0,1,1,0,2,2,1.0,0,0,0.0,3,1,0.333,122,120,0
+78423,1981,28100175,1981-12-01 20:00:00,Seattle,SuperSonics,Chicago,Bulls,Regular Season,1,1,26.0,8,5,1,0,1,0,0,2,2,0,4,3,0.75,0,0,0.0,2,2,1.0,103,87,0
+78423,1981,28100183,1981-12-02 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,1,1,16.0,3,2,1,0,1,0,0,1,1,0,2,1,0.5,0,0,0.0,2,1,0.5,104,96,0
+78423,1981,28100189,1981-12-04 20:00:00,Seattle,SuperSonics,Kansas City,Kings,Regular Season,0,0,23.0,2,1,3,3,0,1,0,2,1,0,0,0,0.0,0,0,0.0,4,2,0.5,112,109,0
+78423,1981,28100204,1981-12-05 20:00:00,Seattle,SuperSonics,Atlanta,Hawks,Regular Season,0,1,22.0,5,2,6,4,2,3,0,0,3,0,5,1,0.2,0,0,0.0,4,3,0.75,85,92,0
+78423,1981,28100209,1981-12-08 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,0,1,17.0,4,0,4,2,2,0,0,0,2,0,2,1,0.5,0,0,0.0,4,2,0.5,96,107,0
+78423,1981,28100221,1981-12-09 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,0,0,14.0,5,0,3,1,2,0,0,0,2,0,3,2,0.667,0,0,0.0,2,1,0.5,110,99,0
+78423,1981,28100239,1981-12-12 20:00:00,Seattle,SuperSonics,Detroit,Pistons,Regular Season,1,1,18.0,4,1,3,3,0,0,0,2,3,0,5,2,0.4,1,0,0.0,2,0,0.0,117,111,0
+78423,1981,28100244,1981-12-13 20:00:00,Seattle,SuperSonics,San Diego,Clippers,Regular Season,1,1,4.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,98,74,0
+78423,1981,28100251,1981-12-15 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,0,1,8.0,6,0,1,1,0,0,0,2,1,0,5,3,0.599,0,0,0.0,1,0,0.0,120,126,0
+78423,1981,28100262,1981-12-17 20:00:00,Seattle,SuperSonics,San Diego,Clippers,Regular Season,0,1,10.0,4,0,2,1,1,0,0,3,1,0,4,2,0.5,0,0,0.0,0,0,0.0,92,106,0
+78423,1981,28100276,1981-12-19 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,0,1,8.0,1,1,0,0,0,0,0,0,1,0,2,0,0.0,0,0,0.0,2,1,0.5,103,115,0
+78423,1981,28100294,1981-12-23 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,1,1,10.0,2,0,2,0,2,0,0,1,2,0,4,1,0.25,0,0,0.0,0,0,0.0,113,99,0
+78423,1981,28100297,1981-12-25 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,0,4.0,0,0,1,1,0,0,0,1,2,0,2,0,0.0,0,0,0.0,0,0,0.0,99,94,0
+78423,1981,28100315,1981-12-28 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,1,30.0,11,0,7,6,1,0,1,1,5,0,9,3,0.333,0,0,0.0,6,5,0.832,104,100,0
+78423,1981,28100330,1981-12-30 20:00:00,Seattle,SuperSonics,Philadelphia,76ers,Regular Season,1,0,17.0,3,1,6,4,2,0,0,0,3,0,2,1,0.5,0,0,0.0,4,1,0.25,99,102,0
+78423,1981,28100340,1982-01-02 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,0,19.0,4,0,4,4,0,0,0,1,2,0,2,1,0.5,0,0,0.0,2,2,1.0,120,97,0
+78423,1981,28100348,1982-01-03 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,1,8.0,2,0,0,0,0,0,0,1,1,0,1,1,1.0,0,0,0.0,1,0,0.0,90,110,0
+78423,1981,28100363,1982-01-06 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,1,1,10.0,0,0,1,1,0,0,0,1,1,0,0,0,0.0,0,0,0.0,0,0,0.0,107,100,0
+78423,1981,28100366,1982-01-07 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,1,1,10.0,0,0,1,1,0,0,0,1,1,0,0,0,0.0,0,0,0.0,0,0,0.0,116,107,0
+78423,1981,28100377,1982-01-09 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,0,1,15.0,6,1,4,4,0,0,1,2,4,0,4,3,0.75,0,0,0.0,0,0,0.0,110,125,0
+78423,1981,28100400,1982-01-13 20:00:00,Seattle,SuperSonics,Indiana,Pacers,Regular Season,1,1,22.0,9,0,9,7,2,0,0,3,3,0,5,2,0.4,0,0,0.0,6,5,0.832,106,86,0
+78423,1981,28100414,1982-01-15 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,1,1,12.0,3,0,1,0,1,1,0,0,0,0,2,1,0.5,0,0,0.0,2,1,0.5,115,103,0
+78423,1981,28100443,1982-01-17 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,1,13.0,6,0,2,2,0,0,0,1,2,0,3,2,0.667,0,0,0.0,2,2,1.0,122,97,0
+78423,1981,28100432,1982-01-19 20:00:00,Seattle,SuperSonics,Cleveland,Cavaliers,Regular Season,0,1,7.0,0,1,1,1,0,0,0,1,2,0,2,0,0.0,0,0,0.0,0,0,0.0,97,99,0
+78423,1981,28100437,1982-01-20 20:00:00,Seattle,SuperSonics,Washington,Bullets,Regular Season,0,0,8.0,4,0,0,0,0,0,0,0,1,0,2,2,1.0,0,0,0.0,1,0,0.0,106,95,0
+78423,1981,28100455,1982-01-22 20:00:00,Seattle,SuperSonics,Boston,Celtics,Regular Season,0,1,10.0,0,1,2,2,0,0,0,1,2,0,2,0,0.0,0,0,0.0,0,0,0.0,106,118,0
+78423,1981,28100466,1982-01-23 20:00:00,Seattle,SuperSonics,Philadelphia,76ers,Regular Season,0,0,28.0,14,2,1,1,0,3,0,3,4,0,8,6,0.75,0,0,0.0,3,2,0.667,100,87,0
+78423,1981,28100468,1982-01-25 20:00:00,Seattle,SuperSonics,New York,Knicks,Regular Season,0,1,20.0,12,0,4,2,2,0,0,2,2,0,7,4,0.57,0,0,0.0,6,4,0.667,99,113,0
+78423,1981,28100475,1982-01-27 20:00:00,Seattle,SuperSonics,Kansas City,Kings,Regular Season,0,1,15.0,3,0,1,1,0,0,0,2,3,0,1,1,1.0,0,0,0.0,1,1,1.0,103,110,0
+78423,1981,28100500,1982-02-03 20:00:00,Seattle,SuperSonics,Kansas City,Kings,Regular Season,1,1,12.0,6,0,4,3,1,0,0,1,2,0,5,2,0.4,0,0,0.0,5,2,0.4,97,87,0
+78423,1981,28100510,1982-02-05 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,1,13.0,8,0,1,0,1,0,0,0,5,0,10,4,0.4,0,0,0.0,2,0,0.0,99,108,0
+78423,1981,28100520,1982-02-06 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,1,1,16.0,8,1,3,0,0,2,0,0,1,0,6,4,0.667,0,0,0.0,0,0,0.0,129,103,0
+78423,1981,28100527,1982-02-07 20:00:00,Seattle,SuperSonics,San Diego,Clippers,Regular Season,1,1,13.0,4,0,0,0,0,0,0,1,3,0,4,2,0.5,0,0,0.0,0,0,0.0,99,97,0
+78423,1981,28100539,1982-02-09 20:00:00,Seattle,SuperSonics,New York,Knicks,Regular Season,1,1,6.0,0,1,2,2,0,0,0,1,1,0,0,0,0.0,0,0,0.0,0,0,0.0,114,105,0
+78423,1981,28100548,1982-02-11 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,0,0,4.0,8,1,1,1,0,0,0,0,0,0,5,4,0.8,0,0,0.0,0,0,0.0,117,100,0
+78423,1981,28100556,1982-02-12 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,0,0,7.0,0,1,1,1,0,1,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,103,100,0
+78423,1981,28100569,1982-02-14 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,0,0,16.0,6,0,1,0,1,0,0,0,4,0,3,2,0.667,0,0,0.0,2,2,1.0,114,94,0
+78423,1981,28100579,1982-02-16 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,0,6.0,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,108,101,0
+78423,1981,28100588,1982-02-18 20:00:00,Seattle,SuperSonics,Washington,Bullets,Regular Season,1,1,18.0,4,2,1,0,1,0,0,1,0,0,5,2,0.4,0,0,0.0,0,0,0.0,105,87,0
+78423,1981,28100592,1982-02-19 20:00:00,Seattle,SuperSonics,Atlanta,Hawks,Regular Season,1,0,10.0,2,1,0,0,0,0,1,3,4,0,3,1,0.333,0,0,0.0,1,0,0.0,122,127,0
+78423,1981,28100631,1982-02-26 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,0,1,20.0,6,0,1,0,1,0,0,2,2,0,7,3,0.428,0,0,0.0,2,0,0.0,97,98,0
+78423,1981,28100645,1982-02-28 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,0,3.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,98,103,0
+78423,1981,28100661,1982-03-03 20:00:00,Seattle,SuperSonics,Cleveland,Cavaliers,Regular Season,1,1,24.0,15,2,6,4,2,1,0,1,1,0,7,6,0.856,0,0,0.0,3,3,1.0,136,107,0
+78423,1981,28100676,1982-03-05 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,1,1,16.0,6,0,3,2,1,0,0,1,4,0,4,2,0.5,0,0,0.0,2,2,1.0,98,97,0
+78423,1981,28100685,1982-03-07 20:00:00,Seattle,SuperSonics,San Diego,Clippers,Regular Season,1,1,18.0,11,0,4,3,1,1,0,2,4,0,5,4,0.8,0,0,0.0,4,3,0.75,144,106,0
+78423,1981,28100699,1982-03-09 20:00:00,Seattle,SuperSonics,Chicago,Bulls,Regular Season,0,0,6.0,2,0,2,2,0,0,0,0,3,0,1,0,0.0,0,0,0.0,2,2,1.0,109,104,0
+78423,1981,28100716,1982-03-12 20:00:00,Seattle,SuperSonics,Milwaukee,Bucks,Regular Season,0,1,13.0,8,0,1,0,1,0,0,0,1,0,2,2,1.0,0,0,0.0,4,4,1.0,110,112,0
+78423,1981,28100731,1982-03-14 20:00:00,Seattle,SuperSonics,New Jersey,Nets,Regular Season,0,1,22.0,9,1,9,4,5,0,0,0,3,0,8,4,0.5,0,0,0.0,4,1,0.25,97,98,0
+78423,1981,28100738,1982-03-16 20:00:00,Seattle,SuperSonics,Indiana,Pacers,Regular Season,0,0,24.0,11,0,12,7,5,0,0,0,4,0,9,4,0.444,0,0,0.0,4,3,0.75,109,96,0
+78423,1981,28100749,1982-03-18 20:00:00,Seattle,SuperSonics,Detroit,Pistons,Regular Season,0,0,12.0,2,0,4,2,2,0,2,2,2,0,3,1,0.333,0,0,0.0,2,0,0.0,119,115,0
+78423,1981,28100757,1982-03-19 20:00:00,Seattle,SuperSonics,Kansas City,Kings,Regular Season,0,1,6.0,1,0,0,0,0,0,0,0,1,0,1,0,0.0,0,0,0.0,2,1,0.5,103,109,0
+78423,1981,28100769,1982-03-21 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,1,30.0,14,2,5,3,2,1,1,0,4,0,7,5,0.713,0,0,0.0,4,4,1.0,105,115,0
+78423,1981,28100782,1982-03-24 20:00:00,Seattle,SuperSonics,Milwaukee,Bucks,Regular Season,1,1,6.0,2,0,1,0,1,0,0,0,1,0,1,1,1.0,0,0,0.0,0,0,0.0,99,97,0
+78423,1981,28100800,1982-03-26 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,1,0,12.0,2,0,2,1,1,0,0,0,0,0,2,1,0.5,0,0,0.0,0,0,0.0,97,99,0
+78423,1981,28100812,1982-03-28 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,1,17.0,6,0,0,0,0,0,2,1,0,0,3,2,0.667,0,0,0.0,2,2,1.0,109,101,0
+78423,1981,28100816,1982-03-30 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,0,0,25.0,15,0,4,2,2,0,1,1,2,0,7,6,0.856,0,0,0.0,6,3,0.5,145,142,0
+78423,1981,28100825,1982-03-31 20:00:00,Seattle,SuperSonics,Kansas City,Kings,Regular Season,1,0,16.0,6,1,4,3,1,0,0,0,3,0,3,3,1.0,0,0,0.0,0,0,0.0,109,116,0
+78423,1981,28100837,1982-04-02 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,1,1,16.0,6,0,4,4,0,0,0,2,5,0,4,3,0.75,0,0,0.0,0,0,0.0,111,86,0
+78423,1981,28100851,1982-04-04 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,1,8.0,0,2,3,3,0,0,0,0,1,0,2,0,0.0,0,0,0.0,0,0,0.0,140,116,0
+78423,1981,28100861,1982-04-06 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,1,11.0,6,1,1,0,1,0,0,1,3,0,4,3,0.75,0,0,0.0,2,0,0.0,102,91,0
+78423,1981,28100874,1982-04-08 20:00:00,Seattle,SuperSonics,San Diego,Clippers,Regular Season,0,1,7.0,3,0,2,0,2,0,1,2,1,0,2,1,0.5,0,0,0.0,2,1,0.5,115,117,0
+78423,1981,28100885,1982-04-10 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,0,18.0,7,3,4,2,2,0,1,1,1,0,5,3,0.599,0,0,0.0,2,1,0.5,116,99,0
+78423,1981,28100892,1982-04-11 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,0,4.0,4,0,2,1,1,0,0,1,0,0,2,2,1.0,0,0,0.0,0,0,0.0,107,104,0
+78423,1981,28100900,1982-04-13 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,1,4.0,1,1,1,0,1,0,0,0,0,0,0,0,0.0,0,0,0.0,2,1,0.5,88,86,0
+78423,1981,28100917,1982-04-14 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,0,9.0,0,0,0,0,0,1,0,0,1,0,3,0,0.0,0,0,0.0,0,0,0.0,93,104,0
+78423,1981,28100934,1982-04-17 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,1,13.0,0,0,6,5,1,0,0,0,0,0,2,0,0.0,0,0,0.0,0,0,0.0,94,95,0
+78423,1981,28100942,1982-04-18 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,0,19.0,11,0,4,4,0,1,0,1,5,0,5,3,0.599,0,0,0.0,6,5,0.832,119,114,0
+78423,1981,48100005,1982-04-23 20:00:00,Seattle,SuperSonics,Houston,Rockets,Playoffs,0,0,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,91,70,0
+78423,1981,48100010,1982-04-25 20:00:00,Seattle,SuperSonics,Houston,Rockets,Playoffs,1,1,5.0,0,0,0,0,0,0,0,1,0,0,2,0,0.0,0,0,0.0,0,0,0.0,104,83,0
+78423,1981,48100013,1982-04-27 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Playoffs,1,0,11.0,0,0,1,1,0,0,1,1,1,0,1,0,0.0,0,0,0.0,0,0,0.0,93,95,0
+78423,1981,48100018,1982-04-30 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Playoffs,0,0,2.0,2,0,1,0,1,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,99,97,0
+78423,1981,48100022,1982-05-02 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Playoffs,0,0,6.0,1,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0.0,2,1,0.5,115,113,0
+78423,1981,48100025,1982-05-05 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Playoffs,1,0,3.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,103,109,0
+78423,1982,28200005,1982-10-29 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,1,1,28.0,9,4,13,6,7,0,0,6,3,0,8,2,0.25,0,0,0.0,6,5,0.832,128,95,0
+78423,1982,28200020,1982-10-31 20:00:00,Seattle,SuperSonics,San Diego,Clippers,Regular Season,0,1,30.0,11,1,4,4,0,0,0,2,2,0,8,4,0.5,0,0,0.0,4,3,0.75,109,127,0
+78423,1982,28200028,1982-11-02 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,0,1,22.0,4,3,6,2,4,2,1,0,5,0,5,2,0.4,0,0,0.0,0,0,0.0,92,120,0
+78423,1982,28200036,1982-11-03 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,1,1,24.0,2,1,3,1,2,1,2,4,4,0,4,1,0.25,0,0,0.0,2,0,0.0,109,107,0
+78423,1982,28200044,1982-11-05 20:00:00,Seattle,SuperSonics,New York,Knicks,Regular Season,1,1,24.0,7,2,5,3,2,1,0,3,4,0,3,2,0.667,0,0,0.0,4,3,0.75,112,103,0
+78423,1982,28200061,1982-11-07 20:00:00,Seattle,SuperSonics,Milwaukee,Bucks,Regular Season,0,1,24.0,10,5,5,2,3,0,0,1,3,0,6,5,0.832,0,0,0.0,2,0,0.0,90,102,0
+78423,1982,28200068,1982-11-09 20:00:00,Seattle,SuperSonics,Chicago,Bulls,Regular Season,0,1,31.0,9,0,7,4,3,0,0,5,3,0,9,4,0.444,0,0,0.0,2,1,0.5,111,112,0
+78423,1982,28200073,1982-11-10 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,0,1,22.0,7,1,9,3,6,0,0,2,4,0,8,3,0.375,0,0,0.0,2,1,0.5,91,94,0
+78423,1982,28200091,1982-11-13 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,0,1,37.0,7,2,7,4,3,1,3,1,4,0,4,3,0.75,0,0,0.0,1,1,1.0,98,107,0
+78423,1982,28200097,1982-11-14 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,0,1,11.0,2,0,2,1,1,0,1,2,4,0,1,1,1.0,0,0,0.0,0,0,0.0,99,102,0
+78423,1982,28200109,1982-11-17 20:00:00,Seattle,SuperSonics,Atlanta,Hawks,Regular Season,1,1,32.0,17,4,7,4,3,0,1,0,5,0,9,6,0.667,0,0,0.0,5,5,1.0,119,97,0
+78423,1982,28200125,1982-11-19 20:00:00,Seattle,SuperSonics,Cleveland,Cavaliers,Regular Season,1,1,33.0,13,0,7,4,3,0,0,0,2,0,5,5,1.0,0,0,0.0,4,3,0.75,101,94,0
+78423,1982,28200135,1982-11-21 20:00:00,Seattle,SuperSonics,New Jersey,Nets,Regular Season,1,0,27.0,11,2,8,2,6,0,0,3,3,0,6,4,0.667,0,0,0.0,6,3,0.5,91,111,0
+78423,1982,28200144,1982-11-24 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,1,0,22.0,6,2,5,3,2,0,0,0,1,0,4,2,0.5,0,0,0.0,3,2,0.667,93,111,0
+78423,1982,28200161,1982-11-26 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,1,27.0,10,0,8,3,5,0,0,2,3,0,10,5,0.5,0,0,0.0,0,0,0.0,127,106,0
+78423,1982,28200168,1982-11-27 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,1,23.0,10,0,4,2,2,0,0,0,5,0,3,3,1.0,0,0,0.0,6,4,0.667,118,133,0
+78423,1982,28200189,1982-12-01 20:00:00,Seattle,SuperSonics,San Diego,Clippers,Regular Season,1,1,27.0,8,0,4,0,4,0,0,1,4,0,9,4,0.444,0,0,0.0,0,0,0.0,131,110,0
+78423,1982,28200210,1982-12-05 20:00:00,Seattle,SuperSonics,Kansas City,Kings,Regular Season,0,0,32.0,7,2,7,2,5,2,3,0,5,0,6,2,0.333,0,0,0.0,4,3,0.75,106,103,0
+78423,1982,28200215,1982-12-07 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,0,1,29.0,9,1,5,5,0,0,0,1,1,0,5,3,0.599,0,0,0.0,4,3,0.75,88,107,0
+78423,1982,28200222,1982-12-08 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,0,0,31.0,6,1,5,5,0,1,0,1,3,0,2,1,0.5,0,0,0.0,10,4,0.4,110,94,0
+78423,1982,28200239,1982-12-10 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,0,29.0,11,1,9,4,5,0,1,2,1,0,8,4,0.5,0,0,0.0,6,3,0.5,100,101,0
+78423,1982,28200255,1982-12-14 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,0,39.0,8,3,4,2,2,0,2,3,3,0,6,3,0.5,0,0,0.0,4,2,0.5,109,114,0
+78423,1982,28200266,1982-12-16 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,1,1,29.0,10,0,4,1,3,2,0,1,6,0,7,5,0.713,0,0,0.0,0,0,0.0,103,93,0
+78423,1982,28200273,1982-12-17 20:00:00,Seattle,SuperSonics,Kansas City,Kings,Regular Season,1,1,30.0,5,1,4,1,3,0,1,2,2,0,5,2,0.4,0,0,0.0,6,1,0.167,93,90,0
+78423,1982,28200282,1982-12-18 20:00:00,Seattle,SuperSonics,San Diego,Clippers,Regular Season,0,1,24.0,4,6,3,2,1,2,1,3,4,0,2,1,0.5,0,0,0.0,2,2,1.0,107,121,0
+78423,1982,28200295,1982-12-21 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,1,27.0,6,1,5,2,3,1,0,1,5,0,4,3,0.75,0,0,0.0,0,0,0.0,99,94,0
+78423,1982,28200309,1982-12-23 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,1,18.0,4,0,3,3,0,0,0,1,5,0,4,2,0.5,0,0,0.0,0,0,0.0,120,95,0
+78423,1982,28200312,1982-12-25 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,0,26.0,4,0,6,5,1,2,2,0,1,0,3,2,0.667,0,0,0.0,1,0,0.0,95,88,0
+78423,1982,28200321,1982-12-26 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,1,38.0,13,0,9,6,3,1,1,1,1,0,8,4,0.5,0,0,0.0,5,5,1.0,88,87,0
+78423,1982,28200335,1982-12-29 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,1,1,30.0,14,0,7,4,3,1,0,0,3,0,11,6,0.545,0,0,0.0,3,2,0.667,109,92,0
+78423,1982,28200342,1982-12-30 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,0,34.0,13,1,8,3,5,0,0,1,3,0,10,5,0.5,0,0,0.0,4,3,0.75,137,117,0
+78423,1982,28200356,1983-01-02 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,0,25.0,4,0,6,3,3,1,1,0,5,0,3,2,0.667,0,0,0.0,4,0,0.0,116,99,0
+78423,1982,28200370,1983-01-05 20:00:00,Seattle,SuperSonics,Indiana,Pacers,Regular Season,1,0,30.0,9,0,6,2,4,0,0,2,5,0,10,3,0.299,0,0,0.0,4,3,0.75,104,108,0
+78423,1982,28200391,1983-01-08 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,0,17.0,3,1,4,3,1,0,0,1,1,0,4,1,0.25,0,0,0.0,2,1,0.5,110,104,0
+78423,1982,28200399,1983-01-09 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,0,22.0,2,0,1,1,0,0,0,2,0,0,2,1,0.5,0,0,0.0,0,0,0.0,110,101,0
+78423,1982,28200406,1983-01-11 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,0,13.0,2,0,2,2,0,1,0,0,4,0,2,0,0.0,0,0,0.0,2,2,1.0,119,131,0
+78423,1982,28200417,1983-01-13 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,0,7.0,0,0,1,1,0,0,0,0,2,0,0,0,0.0,0,0,0.0,0,0,0.0,102,99,0
+78423,1982,28200420,1983-01-14 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,0,3.0,0,0,0,0,0,0,0,1,1,0,0,0,0.0,0,0,0.0,0,0,0.0,99,102,0
+78423,1982,28200438,1983-01-16 20:00:00,Seattle,SuperSonics,Kansas City,Kings,Regular Season,1,1,1.0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,2,1,0.5,111,96,0
+78423,1982,28200447,1983-01-19 20:00:00,Seattle,SuperSonics,Atlanta,Hawks,Regular Season,0,0,5.0,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0.0,2,0,0.0,116,111,0
+78423,1982,28200458,1983-01-21 20:00:00,Seattle,SuperSonics,Philadelphia,76ers,Regular Season,0,0,22.0,4,0,7,3,4,0,0,0,3,0,7,2,0.285,0,0,0.0,0,0,0.0,130,117,0
+78423,1982,28200478,1983-01-23 20:00:00,Seattle,SuperSonics,New Jersey,Nets,Regular Season,0,0,22.0,7,0,6,3,3,0,2,0,4,0,3,2,0.667,0,0,0.0,8,3,0.375,105,102,0
+78423,1982,28200494,1983-01-26 20:00:00,Seattle,SuperSonics,Detroit,Pistons,Regular Season,0,1,41.0,15,1,9,4,5,0,2,1,5,0,8,5,0.625,0,0,0.0,6,5,0.832,109,118,0
+78423,1982,28200498,1983-01-27 20:00:00,Seattle,SuperSonics,Washington,Bullets,Regular Season,0,0,23.0,4,2,10,8,2,0,0,1,3,0,3,2,0.667,0,0,0.0,0,0,0.0,99,86,0
+78423,1982,28200512,1983-01-29 20:00:00,Seattle,SuperSonics,Cleveland,Cavaliers,Regular Season,0,0,26.0,11,1,2,2,0,0,1,0,6,0,7,5,0.713,0,0,0.0,2,1,0.5,89,88,0
+78423,1982,28200530,1983-02-02 20:00:00,Seattle,SuperSonics,Milwaukee,Bucks,Regular Season,1,1,17.0,5,2,3,2,1,0,0,1,4,0,4,2,0.5,0,0,0.0,2,1,0.5,117,114,0
+78423,1982,28200542,1983-02-04 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,1,1,32.0,11,3,8,5,3,0,1,3,5,0,9,4,0.444,0,0,0.0,3,3,1.0,115,103,0
+78423,1982,28200557,1983-02-06 20:00:00,Seattle,SuperSonics,Philadelphia,76ers,Regular Season,1,0,30.0,11,2,3,1,2,1,2,1,5,0,9,4,0.444,0,0,0.0,5,3,0.599,96,97,0
+78423,1982,28200560,1983-02-08 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,1,0,29.0,6,2,6,2,4,0,0,0,2,0,8,3,0.375,0,0,0.0,5,0,0.0,118,121,0
+78423,1982,28200570,1983-02-09 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,0,0,33.0,11,1,8,3,5,2,0,3,5,0,10,5,0.5,0,0,0.0,3,1,0.333,134,125,0
+78423,1982,28200582,1983-02-10 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,0,1,29.0,10,3,4,2,2,0,2,1,4,0,6,5,0.832,0,0,0.0,2,0,0.0,99,105,0
+78423,1982,28200592,1983-02-16 20:00:00,Seattle,SuperSonics,Boston,Celtics,Regular Season,1,0,20.0,2,2,4,2,2,0,1,1,2,0,4,1,0.25,0,0,0.0,0,0,0.0,100,108,0
+78423,1982,28200601,1983-02-18 20:00:00,Seattle,SuperSonics,Washington,Bullets,Regular Season,1,1,34.0,12,3,7,7,0,2,0,4,3,0,6,5,0.832,0,0,0.0,3,2,0.667,115,112,0
+78423,1982,28200619,1983-02-20 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,1,29.0,4,4,7,6,1,0,1,0,5,0,6,2,0.333,0,0,0.0,0,0,0.0,116,112,0
+78423,1982,28200624,1983-02-22 20:00:00,Seattle,SuperSonics,San Diego,Clippers,Regular Season,1,1,29.0,7,5,1,1,0,0,2,4,4,0,5,3,0.599,0,0,0.0,1,1,1.0,117,101,0
+78423,1982,28200638,1983-02-24 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,0,0,37.0,21,3,5,2,3,4,2,2,4,0,9,8,0.889,0,0,0.0,6,5,0.832,138,129,0
+78423,1982,28200640,1983-02-25 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,0,31.0,6,3,4,3,1,1,0,2,3,0,4,2,0.5,0,0,0.0,4,2,0.5,101,106,0
+78423,1982,28200657,1983-02-27 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,1,1,34.0,13,2,5,3,2,1,1,1,1,0,7,4,0.57,0,0,0.0,8,5,0.625,101,98,0
+78423,1982,28200662,1983-03-01 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,0,0,19.0,4,0,1,0,1,1,0,2,0,0,4,2,0.5,0,0,0.0,0,0,0.0,119,104,0
+78423,1982,28200675,1983-03-02 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,0,0,27.0,11,1,7,5,2,2,1,1,5,0,8,3,0.375,0,0,0.0,6,5,0.832,108,105,0
+78423,1982,28200692,1983-03-05 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,0,1,27.0,8,1,5,5,0,0,1,1,4,0,5,4,0.8,0,0,0.0,0,0,0.0,103,126,0
+78423,1982,28200702,1983-03-08 20:00:00,Seattle,SuperSonics,New York,Knicks,Regular Season,0,0,29.0,4,2,2,2,0,0,2,2,3,0,3,2,0.667,0,0,0.0,0,0,0.0,107,98,0
+78423,1982,28200712,1983-03-09 20:00:00,Seattle,SuperSonics,Boston,Celtics,Regular Season,0,1,35.0,1,2,6,3,3,0,2,0,3,0,4,0,0.0,0,0,0.0,2,1,0.5,106,112,0
+78423,1982,28200719,1983-03-11 20:00:00,Seattle,SuperSonics,Indiana,Pacers,Regular Season,0,1,38.0,10,3,6,4,2,1,0,1,2,0,8,5,0.625,0,0,0.0,0,0,0.0,121,127,0
+78423,1982,28200733,1983-03-13 20:00:00,Seattle,SuperSonics,Kansas City,Kings,Regular Season,0,1,31.0,3,3,5,3,2,3,0,0,2,0,2,1,0.5,0,0,0.0,4,1,0.25,115,120,0
+78423,1982,28200749,1983-03-16 20:00:00,Seattle,SuperSonics,Kansas City,Kings,Regular Season,1,1,20.0,5,0,4,3,1,0,0,0,4,0,2,2,1.0,0,0,0.0,2,1,0.5,110,102,0
+78423,1982,28200759,1983-03-18 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,1,11.0,4,5,2,2,0,0,0,0,3,0,3,2,0.667,0,0,0.0,0,0,0.0,147,117,0
+78423,1982,28200777,1983-03-20 20:00:00,Seattle,SuperSonics,Chicago,Bulls,Regular Season,1,1,22.0,6,0,8,7,1,0,0,3,2,0,4,3,0.75,0,0,0.0,2,0,0.0,128,116,0
+78423,1982,28200784,1983-03-22 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,0,8.0,0,1,1,0,1,0,0,0,0,0,2,0,0.0,0,0,0.0,0,0,0.0,123,108,0
+78423,1982,28200792,1983-03-23 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,1,1,17.0,3,0,7,3,4,0,0,3,3,0,5,1,0.2,0,0,0.0,2,1,0.5,137,117,0
+78423,1982,28200802,1983-03-25 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,1,0,23.0,6,4,7,6,1,0,2,2,3,0,5,3,0.599,0,0,0.0,0,0,0.0,104,106,0
+78423,1982,28200818,1983-03-27 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,0,1,26.0,7,2,6,3,3,0,2,1,3,0,3,3,1.0,0,0,0.0,4,1,0.25,108,122,0
+78423,1982,28200831,1983-03-30 20:00:00,Seattle,SuperSonics,Detroit,Pistons,Regular Season,1,1,22.0,2,3,7,4,3,0,0,0,1,0,7,1,0.142,0,0,0.0,2,0,0.0,135,124,0
+78423,1982,28200838,1983-04-01 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,1,1,25.0,10,0,4,3,1,1,0,0,2,0,7,5,0.713,0,0,0.0,0,0,0.0,101,95,0
+78423,1982,28200856,1983-04-04 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,1,1,13.0,0,1,2,1,1,0,0,0,1,0,3,0,0.0,0,0,0.0,0,0,0.0,121,111,0
+78423,1982,28200862,1983-04-05 20:00:00,Seattle,SuperSonics,San Diego,Clippers,Regular Season,0,1,27.0,8,1,4,2,2,1,0,1,3,0,4,3,0.75,0,0,0.0,4,2,0.5,109,115,0
+78423,1982,28200875,1983-04-07 20:00:00,Seattle,SuperSonics,San Diego,Clippers,Regular Season,1,1,19.0,3,0,5,4,1,0,0,3,2,0,4,1,0.25,0,0,0.0,2,1,0.5,102,96,0
+78423,1982,28200899,1983-04-10 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,1,17.0,4,0,4,3,1,1,1,0,2,0,5,2,0.4,0,0,0.0,0,0,0.0,93,102,0
+78423,1982,28200908,1983-04-12 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,1,20.0,7,4,5,4,1,2,1,0,1,0,4,3,0.75,0,0,0.0,1,1,1.0,106,101,0
+78423,1982,28200912,1983-04-13 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,0,22.0,7,1,4,2,2,1,1,0,5,0,5,2,0.4,0,0,0.0,5,3,0.599,109,96,0
+78423,1982,28200926,1983-04-15 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,0,35.0,8,2,10,8,2,1,2,1,5,0,7,4,0.57,0,0,0.0,1,0,0.0,100,99,0
+78423,1982,28200936,1983-04-16 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,0,20.0,8,0,9,5,4,0,0,1,5,0,6,4,0.667,1,0,0.0,2,0,0.0,133,122,0
+78423,1982,48200003,1983-04-20 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Playoffs,1,0,14.0,0,0,1,1,0,0,0,1,4,0,1,0,0.0,0,0,0.0,0,0,0.0,97,108,0
+78423,1982,48200008,1983-04-22 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Playoffs,0,0,42.0,12,1,18,9,9,1,0,0,3,0,16,6,0.375,0,0,0.0,0,0,0.0,105,96,0
+78423,1983,28300004,1983-10-28 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,0,32.0,12,1,5,3,2,0,0,2,5,0,8,4,0.5,0,0,0.0,4,4,1.0,109,110,0
+78423,1983,28300021,1983-10-30 20:00:00,Seattle,SuperSonics,Kansas City,Kings,Regular Season,0,1,21.0,5,1,7,4,3,0,2,3,6,0,5,2,0.4,0,0,0.0,2,1,0.5,116,121,0
+78423,1983,28300024,1983-11-01 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,1,29.0,6,3,8,7,1,0,2,3,1,0,3,2,0.667,0,0,0.0,2,2,1.0,93,103,0
+78423,1983,28300034,1983-11-02 20:00:00,Seattle,SuperSonics,New York,Knicks,Regular Season,1,1,30.0,15,4,10,7,3,0,0,4,5,0,10,5,0.5,0,0,0.0,5,5,1.0,125,119,0
+78423,1983,28300044,1983-11-04 20:00:00,Seattle,SuperSonics,San Diego,Clippers,Regular Season,0,0,22.0,10,0,5,3,2,0,0,2,5,0,6,3,0.5,0,0,0.0,5,4,0.8,121,97,0
+78423,1983,28300057,1983-11-06 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,0,0,21.0,12,2,4,2,2,0,0,1,3,0,5,4,0.8,0,0,0.0,5,4,0.8,132,115,0
+78423,1983,28300059,1983-11-08 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,1,31.0,19,3,5,2,3,0,2,1,3,0,11,7,0.636,0,0,0.0,6,5,0.832,123,116,0
+78423,1983,28300071,1983-11-09 20:00:00,Seattle,SuperSonics,Cleveland,Cavaliers,Regular Season,1,1,39.0,15,4,7,5,2,1,1,0,2,0,10,7,0.699,0,0,0.0,1,1,1.0,113,101,0
+78423,1983,28300080,1983-11-11 20:00:00,Seattle,SuperSonics,Atlanta,Hawks,Regular Season,1,1,28.0,2,3,5,4,1,0,1,0,5,0,3,1,0.333,0,0,0.0,0,0,0.0,104,93,0
+78423,1983,28300093,1983-11-13 20:00:00,Seattle,SuperSonics,Milwaukee,Bucks,Regular Season,0,0,35.0,13,1,4,4,0,0,2,2,1,0,5,4,0.8,0,0,0.0,10,5,0.5,108,107,0
+78423,1983,28300108,1983-11-16 20:00:00,Seattle,SuperSonics,Detroit,Pistons,Regular Season,0,0,27.0,17,0,6,3,3,0,2,3,5,0,8,5,0.625,0,0,0.0,9,7,0.778,122,120,0
+78423,1983,28300118,1983-11-17 20:00:00,Seattle,SuperSonics,Chicago,Bulls,Regular Season,0,1,24.0,9,0,6,2,4,1,1,2,1,0,3,2,0.667,0,0,0.0,5,5,1.0,110,119,0
+78423,1983,28300131,1983-11-19 20:00:00,Seattle,SuperSonics,Atlanta,Hawks,Regular Season,0,0,30.0,16,1,5,1,4,0,0,1,3,0,10,5,0.5,0,0,0.0,8,6,0.75,104,92,0
+78423,1983,28300146,1983-11-23 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,1,1,29.0,10,2,9,7,2,1,1,5,3,0,8,5,0.625,0,0,0.0,1,0,0.0,106,98,0
+78423,1983,28300156,1983-11-25 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,0,26.0,8,2,9,3,6,1,0,2,5,0,6,4,0.667,0,0,0.0,2,0,0.0,90,100,0
+78423,1983,28300162,1983-11-26 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,0,17.0,15,0,4,2,2,0,1,0,5,0,7,6,0.856,0,0,0.0,3,3,1.0,122,94,0
+78423,1983,28300179,1983-11-29 20:00:00,Seattle,SuperSonics,San Diego,Clippers,Regular Season,1,1,14.0,6,2,1,1,0,0,0,0,4,0,3,2,0.667,0,0,0.0,3,2,0.667,119,114,0
+78423,1983,28300196,1983-12-02 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,0,0,31.0,6,3,10,9,1,1,0,2,1,0,4,1,0.25,0,0,0.0,6,4,0.667,125,102,0
+78423,1983,28300206,1983-12-03 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,0,0,33.0,10,3,11,9,2,0,0,0,2,0,9,4,0.444,0,0,0.0,2,2,1.0,121,111,0
+78423,1983,28300216,1983-12-06 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,0,26.0,8,1,2,1,1,0,1,4,4,0,6,4,0.667,0,0,0.0,0,0,0.0,108,103,0
+78423,1983,28300232,1983-12-09 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,1,1,26.0,14,3,5,5,0,0,2,1,5,0,6,6,1.0,0,0,0.0,4,2,0.5,132,124,0
+78423,1983,28300251,1983-12-11 20:00:00,Seattle,SuperSonics,Detroit,Pistons,Regular Season,1,1,42.0,17,7,4,3,1,2,1,2,3,0,13,7,0.538,0,0,0.0,6,3,0.5,135,131,0
+78423,1983,28300256,1983-12-13 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,0,19.0,0,1,8,5,3,1,0,1,1,0,5,0,0.0,0,0,0.0,0,0,0.0,102,89,0
+78423,1983,28300278,1983-12-16 20:00:00,Seattle,SuperSonics,New Jersey,Nets,Regular Season,1,1,24.0,5,1,2,1,1,1,3,0,2,0,2,2,1.0,0,0,0.0,2,1,0.5,110,106,0
+78423,1983,28300292,1983-12-20 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,1,0,39.0,15,5,5,3,2,2,1,2,5,0,5,3,0.599,0,0,0.0,12,9,0.75,102,108,0
+78423,1983,28300305,1983-12-22 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,1,0,38.0,14,2,6,4,2,0,0,0,4,0,11,6,0.545,0,0,0.0,3,2,0.667,112,116,0
+78423,1983,28300330,1983-12-28 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,1,0,22.0,14,0,6,3,3,2,1,6,4,0,10,3,0.299,0,0,0.0,11,8,0.726,105,113,0
+78423,1983,28300350,1983-12-30 20:00:00,Seattle,SuperSonics,Philadelphia,76ers,Regular Season,1,1,43.0,6,3,8,5,3,1,0,2,2,0,10,2,0.2,0,0,0.0,2,2,1.0,97,93,0
+78423,1983,28300359,1984-01-03 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,0,1,24.0,9,3,1,1,0,0,1,1,6,0,3,3,1.0,0,0,0.0,6,3,0.5,109,110,0
+78423,1983,28300369,1984-01-04 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,0,0,16.0,3,0,4,0,4,0,0,3,5,0,4,1,0.25,0,0,0.0,2,1,0.5,105,102,0
+78423,1983,28300382,1984-01-06 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,1,1,43.0,10,1,10,6,4,0,2,1,3,0,9,4,0.444,0,0,0.0,5,2,0.4,118,102,0
+78423,1983,28300392,1984-01-08 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,1,27.0,6,0,6,2,4,1,0,0,5,0,6,3,0.5,0,0,0.0,0,0,0.0,125,110,0
+78423,1983,28300399,1984-01-10 20:00:00,Seattle,SuperSonics,San Diego,Clippers,Regular Season,1,1,25.0,7,1,4,1,3,1,0,1,4,0,4,3,0.75,0,0,0.0,2,1,0.5,111,106,0
+78423,1983,28300420,1984-01-13 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,1,36.0,8,3,5,3,2,1,1,3,3,0,4,2,0.5,0,0,0.0,8,4,0.5,103,99,0
+78423,1983,28300428,1984-01-15 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,1,24.0,2,3,6,5,1,1,0,1,1,0,6,1,0.167,0,0,0.0,0,0,0.0,91,102,0
+78423,1983,28300450,1984-01-18 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,1,1,43.0,15,1,6,4,2,6,0,1,3,0,10,5,0.5,0,0,0.0,8,5,0.625,114,107,0
+78423,1983,28300455,1984-01-20 20:00:00,Seattle,SuperSonics,San Diego,Clippers,Regular Season,0,1,33.0,4,2,4,3,1,1,1,2,4,0,5,2,0.4,0,0,0.0,1,0,0.0,108,110,0
+78423,1983,28300468,1984-01-21 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,0,29.0,10,0,5,3,2,1,1,0,1,0,5,3,0.599,1,0,0.0,6,4,0.667,131,102,0
+78423,1983,28300478,1984-01-24 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,0,0,29.0,13,3,5,4,1,1,0,2,5,0,9,5,0.556,0,0,0.0,7,3,0.428,117,109,0
+78423,1983,28300488,1984-01-26 20:00:00,Seattle,SuperSonics,Kansas City,Kings,Regular Season,0,1,29.0,10,2,0,0,0,0,0,4,2,0,6,4,0.667,0,0,0.0,2,2,1.0,106,114,0
+78423,1983,28300495,1984-01-31 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,0,0,28.0,2,1,4,3,1,1,2,1,2,0,6,1,0.167,0,0,0.0,0,0,0.0,98,94,0
+78423,1983,28300509,1984-02-01 20:00:00,Seattle,SuperSonics,Milwaukee,Bucks,Regular Season,1,1,30.0,6,2,8,7,1,0,0,0,4,0,4,2,0.5,0,0,0.0,4,2,0.5,99,98,0
+78423,1983,28300523,1984-02-03 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,1,1,27.0,8,2,3,1,2,1,1,1,2,0,7,4,0.57,0,0,0.0,0,0,0.0,121,106,0
+78423,1983,28300535,1984-02-05 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,1,1,20.0,2,1,2,1,1,0,0,0,4,0,4,1,0.25,0,0,0.0,0,0,0.0,104,96,0
+78423,1983,28300544,1984-02-07 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,1,38.0,14,5,11,5,6,1,0,2,3,0,15,7,0.467,0,0,0.0,2,0,0.0,115,105,0
+78423,1983,28300558,1984-02-09 20:00:00,Seattle,SuperSonics,Indiana,Pacers,Regular Season,0,0,21.0,6,1,5,2,3,2,0,0,3,0,7,3,0.428,0,0,0.0,2,0,0.0,107,102,0
+78423,1983,28300562,1984-02-10 20:00:00,Seattle,SuperSonics,Cleveland,Cavaliers,Regular Season,0,0,25.0,3,1,5,4,1,0,1,1,3,0,3,1,0.333,0,0,0.0,2,1,0.5,95,90,0
+78423,1983,28300581,1984-02-14 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,0,25.0,2,3,3,3,0,1,0,3,3,0,4,1,0.25,0,0,0.0,0,0,0.0,105,102,0
+78423,1983,28300593,1984-02-15 20:00:00,Seattle,SuperSonics,Washington,Bullets,Regular Season,1,1,8.0,0,1,1,1,0,1,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,116,99,0
+78423,1983,28300613,1984-02-19 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,1,17.0,3,0,1,0,1,0,0,1,4,0,4,1,0.25,0,0,0.0,2,1,0.5,132,120,0
+78423,1983,28300623,1984-02-21 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,0,12.0,5,0,0,0,0,0,0,0,2,0,2,2,1.0,0,0,0.0,2,1,0.5,128,112,0
+78423,1983,28300631,1984-02-22 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,1,1,8.0,0,0,3,3,0,0,0,1,0,0,3,0,0.0,0,0,0.0,0,0,0.0,121,114,0
+78423,1983,28300647,1984-02-24 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,1,1,17.0,6,2,3,3,0,3,0,2,6,0,3,2,0.667,0,0,0.0,3,2,0.667,112,81,0
+78423,1983,28300655,1984-02-26 20:00:00,Seattle,SuperSonics,San Diego,Clippers,Regular Season,1,0,8.0,0,2,2,1,1,0,0,0,1,0,1,0,0.0,0,0,0.0,4,0,0.0,93,101,0
+78423,1983,28300663,1984-02-28 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,0,0,28.0,10,1,4,4,0,1,0,0,2,0,5,5,1.0,0,0,0.0,0,0,0.0,111,105,0
+78423,1983,28300672,1984-02-29 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,0,1,27.0,8,2,4,3,1,2,4,0,6,0,4,3,0.75,0,0,0.0,2,2,1.0,124,127,0
+78423,1983,28300688,1984-03-02 20:00:00,Seattle,SuperSonics,Indiana,Pacers,Regular Season,1,1,30.0,5,0,5,1,4,0,0,1,3,0,11,2,0.181,0,0,0.0,2,1,0.5,99,90,0
+78423,1983,28300698,1984-03-04 20:00:00,Seattle,SuperSonics,Boston,Celtics,Regular Season,0,0,31.0,17,1,5,1,4,2,0,4,2,0,12,7,0.582,0,0,0.0,4,3,0.75,117,93,0
+78423,1983,28300708,1984-03-06 20:00:00,Seattle,SuperSonics,New York,Knicks,Regular Season,0,0,16.0,6,0,2,0,2,1,0,2,4,0,3,2,0.667,0,0,0.0,4,2,0.5,124,110,0
+78423,1983,28300716,1984-03-08 20:00:00,Seattle,SuperSonics,Washington,Bullets,Regular Season,0,0,32.0,4,0,3,2,1,1,1,2,4,0,5,2,0.4,0,0,0.0,2,0,0.0,106,96,0
+78423,1983,28300722,1984-03-09 20:00:00,Seattle,SuperSonics,Philadelphia,76ers,Regular Season,0,0,31.0,15,3,9,5,4,3,0,3,4,0,11,6,0.545,0,0,0.0,4,3,0.75,92,84,0
+78423,1983,28300733,1984-03-11 20:00:00,Seattle,SuperSonics,New Jersey,Nets,Regular Season,0,0,21.0,6,0,2,1,1,0,0,1,4,0,9,3,0.333,0,0,0.0,0,0,0.0,106,105,0
+78423,1983,28300740,1984-03-13 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,0,37.0,13,2,10,5,5,0,1,2,3,0,12,6,0.5,0,0,0.0,1,1,1.0,114,98,0
+78423,1983,28300754,1984-03-15 20:00:00,Seattle,SuperSonics,Chicago,Bulls,Regular Season,1,1,33.0,6,1,1,1,0,0,0,1,4,0,6,3,0.5,0,0,0.0,0,0,0.0,106,90,0
+78423,1983,28300760,1984-03-16 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,1,1,41.0,20,4,8,6,2,1,4,3,2,0,6,6,1.0,0,0,0.0,8,8,1.0,126,123,0
+78423,1983,28300776,1984-03-18 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,1,20.0,7,0,1,1,0,1,0,0,3,0,3,3,1.0,0,0,0.0,1,1,1.0,126,99,0
+78423,1983,28300785,1984-03-20 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,0,34.0,7,2,6,4,2,0,2,4,4,0,5,2,0.4,0,0,0.0,4,3,0.75,103,102,0
+78423,1983,28300790,1984-03-21 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,1,34.0,12,1,5,2,3,0,0,3,3,0,7,5,0.713,0,0,0.0,4,2,0.5,104,102,0
+78423,1983,28300802,1984-03-23 20:00:00,Seattle,SuperSonics,San Diego,Clippers,Regular Season,0,0,41.0,10,1,5,3,2,0,1,2,4,0,8,5,0.625,0,0,0.0,1,0,0.0,108,102,0
+78423,1983,28300820,1984-03-25 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,1,0,12.0,2,0,1,1,0,0,0,0,4,0,3,1,0.333,0,0,0.0,0,0,0.0,98,121,0
+78423,1983,28300822,1984-03-27 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,0,23.0,8,1,5,2,3,0,1,2,2,0,7,4,0.57,0,0,0.0,0,0,0.0,93,87,0
+78423,1983,28300832,1984-03-28 20:00:00,Seattle,SuperSonics,Kansas City,Kings,Regular Season,1,1,30.0,13,0,6,2,4,1,0,0,3,0,10,5,0.5,0,0,0.0,4,3,0.75,111,94,0
+78423,1983,28300838,1984-03-29 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,0,0,30.0,2,4,7,4,3,1,0,1,2,0,6,1,0.167,0,0,0.0,0,0,0.0,106,96,0
+78423,1983,28300853,1984-03-31 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,0,1,27.0,12,4,4,3,1,0,1,0,4,0,6,4,0.667,0,0,0.0,4,4,1.0,106,124,0
+78423,1983,28300869,1984-04-03 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,0,0,31.0,8,1,4,4,0,0,0,2,4,0,7,4,0.57,0,0,0.0,0,0,0.0,124,113,0
+78423,1983,28300886,1984-04-06 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,0,25.0,9,2,5,4,1,1,0,2,3,0,8,4,0.5,0,0,0.0,1,1,1.0,117,108,0
+78423,1983,28300900,1984-04-08 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,1,1,33.0,8,3,6,6,0,0,2,1,2,0,5,4,0.8,0,0,0.0,1,0,0.0,120,107,0
+78423,1983,28300908,1984-04-10 20:00:00,Seattle,SuperSonics,Kansas City,Kings,Regular Season,0,1,15.0,0,0,0,0,0,0,0,1,5,0,3,0,0.0,0,0,0.0,0,0,0.0,113,125,0
+78423,1983,28300923,1984-04-12 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,1,30.0,6,1,10,5,5,1,0,1,5,0,5,3,0.599,0,0,0.0,2,0,0.0,105,100,0
+78423,1983,28300940,1984-04-15 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,1,22.0,2,0,3,1,2,1,0,1,3,0,2,1,0.5,0,0,0.0,0,0,0.0,108,103,0
+78423,1983,48300002,1984-04-17 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Playoffs,0,0,32.0,5,1,8,5,3,1,0,0,6,0,5,2,0.4,0,0,0.0,2,1,0.5,88,86,0
+78423,1983,48300011,1984-04-19 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Playoffs,0,1,21.0,4,3,6,3,3,0,1,1,4,0,6,2,0.333,0,0,0.0,0,0,0.0,92,95,0
+78423,1983,48300019,1984-04-21 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Playoffs,1,1,26.0,7,0,2,2,0,2,0,0,4,0,4,3,0.75,0,0,0.0,2,1,0.5,104,94,0
+78423,1983,48300028,1984-04-24 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Playoffs,1,0,29.0,10,3,11,5,6,2,0,3,5,0,13,4,0.307,1,0,0.0,3,2,0.667,96,107,0
+78423,1983,48300036,1984-04-26 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Playoffs,0,0,39.0,10,4,11,7,4,1,2,1,5,0,11,5,0.455,0,0,0.0,0,0,0.0,105,104,0
+78423,1984,28400001,1984-10-26 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,1,1,39.0,24,3,6,3,3,1,6,6,5,0,13,9,0.691,0,0,0.0,7,6,0.856,102,94,0
+78423,1984,28400018,1984-10-28 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,0,28.0,12,6,5,3,2,2,0,0,6,0,9,5,0.556,0,0,0.0,7,2,0.285,87,102,0
+78423,1984,28400023,1984-10-30 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,0,31.0,9,2,8,6,2,0,1,2,3,0,8,4,0.5,0,0,0.0,2,1,0.5,115,83,0
+78423,1984,28400034,1984-11-01 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,1,1,26.0,6,2,1,0,1,1,0,3,5,0,2,1,0.5,0,0,0.0,6,4,0.667,105,103,0
+78423,1984,28400045,1984-11-02 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,0,0,12.0,1,1,2,2,0,0,0,1,4,0,1,0,0.0,0,0,0.0,2,1,0.5,107,101,0
+78423,1984,28400061,1984-11-06 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,0,0,29.0,7,1,5,3,2,1,2,4,4,0,6,3,0.5,0,0,0.0,1,1,1.0,99,91,0
+78423,1984,28400073,1984-11-08 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,0,0,21.0,4,0,3,3,0,0,0,3,2,0,3,2,0.667,0,0,0.0,0,0,0.0,99,89,0
+78423,1984,28400085,1984-11-10 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,0,0,39.0,16,3,9,6,3,3,0,4,5,0,11,5,0.455,1,1,1.0,8,5,0.625,106,102,0
+78423,1984,28400101,1984-11-13 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,1,39.0,11,4,15,9,6,2,0,0,5,0,6,4,0.667,0,0,0.0,7,3,0.428,109,102,0
+78423,1984,28400117,1984-11-16 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,1,39.0,8,2,6,3,3,0,2,0,2,0,13,4,0.307,0,0,0.0,0,0,0.0,91,89,0
+78423,1984,28400127,1984-11-18 20:00:00,Seattle,SuperSonics,New Jersey,Nets,Regular Season,1,0,33.0,9,1,7,4,3,1,0,0,3,0,8,4,0.5,0,0,0.0,2,1,0.5,97,102,0
+78423,1984,28400137,1984-11-20 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,0,34.0,10,0,9,4,5,0,1,3,4,0,8,4,0.5,0,0,0.0,4,2,0.5,114,124,0
+78423,1984,28400149,1984-11-23 20:00:00,Seattle,SuperSonics,Chicago,Bulls,Regular Season,1,0,20.0,0,1,0,0,0,0,0,0,2,0,2,0,0.0,0,0,0.0,0,0,0.0,94,113,0
+78423,1984,28400167,1984-11-25 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,1,34.0,5,1,9,7,2,1,1,1,4,0,4,2,0.5,0,0,0.0,2,1,0.5,94,105,0
+78423,1984,28400176,1984-11-27 20:00:00,Seattle,SuperSonics,Kansas City,Kings,Regular Season,1,1,34.0,8,1,6,3,3,4,3,1,3,0,6,4,0.667,0,0,0.0,0,0,0.0,104,96,0
+78423,1984,28400179,1984-11-28 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,0,0,22.0,4,0,4,2,2,1,0,1,5,0,6,2,0.333,0,0,0.0,2,0,0.0,106,90,0
+78423,1984,28400196,1984-11-30 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,0,0,38.0,6,2,8,5,3,2,3,3,5,0,6,3,0.5,0,0,0.0,1,0,0.0,108,98,0
+78423,1984,28400202,1984-12-01 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,0,1,42.0,4,5,4,3,1,1,1,0,1,0,3,2,0.667,0,0,0.0,0,0,0.0,86,94,0
+78423,1984,28400208,1984-12-03 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,1,42.0,9,6,10,8,2,0,4,1,4,0,5,4,0.8,0,0,0.0,2,1,0.5,108,96,0
+78423,1984,28400227,1984-12-06 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,0,1,30.0,4,3,8,4,4,0,0,1,5,0,7,2,0.285,0,0,0.0,0,0,0.0,99,106,0
+78423,1984,28400233,1984-12-07 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,1,0,35.0,10,3,7,2,5,1,2,1,4,0,7,4,0.57,0,0,0.0,5,2,0.4,114,117,0
+78423,1984,28400244,1984-12-09 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,1,1,39.0,6,2,10,6,4,1,0,2,2,0,4,2,0.5,0,0,0.0,2,2,1.0,96,90,0
+78423,1984,28400267,1984-12-13 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,1,1,26.0,9,4,8,0,8,0,1,2,6,0,9,4,0.444,0,0,0.0,3,1,0.333,124,122,0
+78423,1984,28400282,1984-12-15 20:00:00,Seattle,SuperSonics,Kansas City,Kings,Regular Season,0,0,29.0,8,4,6,4,2,0,2,1,3,0,5,3,0.599,0,0,0.0,2,2,1.0,110,105,0
+78423,1984,28400285,1984-12-16 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,0,1,35.0,9,3,4,2,2,2,2,3,4,0,5,4,0.8,0,0,0.0,4,1,0.25,101,112,0
+78423,1984,28400296,1984-12-18 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,1,30.0,5,0,5,1,4,1,1,4,5,0,5,2,0.4,0,0,0.0,2,1,0.5,109,99,0
+78423,1984,28400313,1984-12-21 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,0,34.0,2,0,10,10,0,1,0,3,6,0,6,0,0.0,0,0,0.0,4,2,0.5,94,91,0
+78423,1984,28400323,1984-12-23 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,1,1,28.0,2,2,4,4,0,0,3,3,5,0,2,1,0.5,0,0,0.0,0,0,0.0,107,97,0
+78423,1984,28400328,1984-12-26 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,0,27.0,5,2,2,0,2,1,1,1,4,0,3,2,0.667,0,0,0.0,3,1,0.333,101,97,0
+78423,1984,28400338,1984-12-27 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,0,41.0,9,5,7,7,0,1,1,3,4,0,6,4,0.667,0,0,0.0,1,1,1.0,98,101,0
+78423,1984,28400353,1984-12-29 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,0,11.0,0,1,0,0,0,0,1,0,0,0,2,0,0.0,0,0,0.0,0,0,0.0,108,115,0
+78423,1984,28400366,1985-01-02 20:00:00,Seattle,SuperSonics,Philadelphia,76ers,Regular Season,1,0,27.0,6,4,4,2,2,1,2,3,5,0,3,2,0.667,0,0,0.0,2,2,1.0,109,118,0
+78423,1984,28400369,1985-01-03 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,0,13.0,0,0,1,1,0,1,1,1,2,0,2,0,0.0,0,0,0.0,0,0,0.0,123,89,0
+78423,1984,28400382,1985-01-05 20:00:00,Seattle,SuperSonics,Indiana,Pacers,Regular Season,1,1,29.0,4,5,2,2,0,1,3,3,5,0,1,0,0.0,1,0,0.0,6,4,0.667,104,97,0
+78423,1984,28400397,1985-01-07 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,1,0,32.0,4,2,7,5,2,2,1,0,2,0,4,2,0.5,0,0,0.0,0,0,0.0,84,102,0
+78423,1984,28400408,1985-01-09 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,0,14.0,2,0,1,0,1,0,0,0,1,0,3,1,0.333,0,0,0.0,0,0,0.0,94,88,0
+78423,1984,28400410,1985-01-10 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,1,26.0,5,1,9,6,3,1,2,0,3,0,4,2,0.5,0,0,0.0,2,1,0.5,86,89,0
+78423,1984,28400427,1985-01-13 20:00:00,Seattle,SuperSonics,Kansas City,Kings,Regular Season,1,1,18.0,2,2,2,2,0,0,1,1,3,0,4,1,0.25,0,0,0.0,2,0,0.0,119,114,0
+78423,1984,28400435,1985-01-15 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,1,1,27.0,2,2,3,2,1,1,0,0,5,0,5,1,0.2,0,0,0.0,0,0,0.0,101,83,0
+78423,1984,28400453,1985-01-18 20:00:00,Seattle,SuperSonics,Atlanta,Hawks,Regular Season,0,0,20.0,6,1,5,3,2,1,1,2,0,0,5,2,0.4,0,0,0.0,2,2,1.0,104,90,0
+78423,1984,28400463,1985-01-19 20:00:00,Seattle,SuperSonics,Cleveland,Cavaliers,Regular Season,0,1,23.0,4,1,3,2,1,0,1,2,4,0,4,2,0.5,0,0,0.0,0,0,0.0,105,106,0
+78423,1984,28400473,1985-01-22 20:00:00,Seattle,SuperSonics,New York,Knicks,Regular Season,0,0,25.0,11,2,9,7,2,0,0,4,2,0,8,5,0.625,0,0,0.0,2,1,0.5,92,90,0
+78423,1984,28400484,1985-01-23 20:00:00,Seattle,SuperSonics,Boston,Celtics,Regular Season,0,1,36.0,7,2,7,2,5,1,0,1,5,0,7,3,0.428,0,0,0.0,1,1,1.0,97,107,0
+78423,1984,28400494,1985-01-25 20:00:00,Seattle,SuperSonics,Chicago,Bulls,Regular Season,0,0,34.0,2,1,7,5,2,0,1,0,2,0,6,1,0.167,0,0,0.0,0,0,0.0,93,76,0
+78423,1984,28400497,1985-01-26 20:00:00,Seattle,SuperSonics,Detroit,Pistons,Regular Season,0,0,23.0,12,0,3,0,3,1,1,0,5,0,7,5,0.713,0,0,0.0,2,2,1.0,132,113,0
+78423,1984,28400527,1985-01-31 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,1,1,36.0,3,1,9,5,4,2,2,1,3,0,7,1,0.142,0,0,0.0,2,1,0.5,96,94,0
+78423,1984,28400536,1985-02-01 20:00:00,Seattle,SuperSonics,Milwaukee,Bucks,Regular Season,1,0,20.0,0,2,7,6,1,0,0,3,5,0,2,0,0.0,0,0,0.0,0,0,0.0,91,109,0
+78423,1984,28400547,1985-02-03 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,0,23.0,1,1,4,2,2,0,0,0,1,0,3,0,0.0,0,0,0.0,2,1,0.5,120,109,0
+78423,1984,28400559,1985-02-05 20:00:00,Seattle,SuperSonics,New York,Knicks,Regular Season,1,0,25.0,5,1,7,5,2,0,1,2,4,0,6,2,0.333,0,0,0.0,2,1,0.5,108,110,0
+78423,1984,28400563,1985-02-06 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,0,0,22.0,8,0,5,1,4,1,1,2,3,0,7,4,0.57,0,0,0.0,0,0,0.0,120,101,0
+78423,1984,28400586,1985-02-12 20:00:00,Seattle,SuperSonics,Washington,Bullets,Regular Season,1,1,23.0,7,0,4,2,2,0,0,1,3,0,5,3,0.599,0,0,0.0,2,1,0.5,109,94,0
+78423,1984,28400596,1985-02-14 20:00:00,Seattle,SuperSonics,Boston,Celtics,Regular Season,1,0,40.0,14,2,7,4,3,2,1,3,4,0,9,6,0.667,0,0,0.0,3,2,0.667,94,110,0
+78423,1984,28400607,1985-02-16 20:00:00,Seattle,SuperSonics,Kansas City,Kings,Regular Season,1,0,16.0,0,0,2,1,1,0,0,1,6,0,1,0,0.0,0,0,0.0,2,0,0.0,106,111,0
+78423,1984,28400632,1985-02-20 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,0,1,31.0,4,3,7,5,2,0,0,1,3,0,5,2,0.4,0,0,0.0,0,0,0.0,105,118,0
+78423,1984,28400635,1985-02-22 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,1,21.0,0,2,5,5,0,1,1,0,3,0,3,0,0.0,0,0,0.0,0,0,0.0,133,123,0
+78423,1984,28400654,1985-02-24 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,1,1,40.0,15,1,8,4,4,1,2,0,5,0,9,7,0.778,0,0,0.0,2,1,0.5,108,102,0
+78423,1984,28400660,1985-02-26 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,0,21.0,2,0,3,2,1,0,1,3,4,0,1,1,1.0,0,0,0.0,2,0,0.0,128,119,0
+78423,1984,28400675,1985-02-28 20:00:00,Seattle,SuperSonics,Cleveland,Cavaliers,Regular Season,1,0,21.0,7,0,5,1,4,0,0,0,2,0,7,2,0.285,0,0,0.0,4,3,0.75,95,120,0
+78423,1984,28400684,1985-03-02 20:00:00,Seattle,SuperSonics,Indiana,Pacers,Regular Season,0,1,29.0,4,3,8,6,2,1,1,1,3,0,3,2,0.667,0,0,0.0,0,0,0.0,92,106,0
+78423,1984,28400719,1985-03-08 20:00:00,Seattle,SuperSonics,Philadelphia,76ers,Regular Season,0,0,23.0,0,0,4,3,1,0,0,1,1,0,2,0,0.0,0,0,0.0,0,0,0.0,128,114,0
+78423,1984,28400728,1985-03-09 20:00:00,Seattle,SuperSonics,Washington,Bullets,Regular Season,0,1,17.0,0,0,4,3,1,0,0,2,1,0,1,0,0.0,0,0,0.0,0,0,0.0,92,93,0
+78423,1984,28400735,1985-03-11 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,0,0,20.0,2,0,4,4,0,0,0,0,3,0,3,1,0.333,0,0,0.0,0,0,0.0,103,100,0
+78423,1984,28400758,1985-03-14 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,1,0,30.0,8,2,10,9,1,0,1,5,5,0,7,4,0.57,0,0,0.0,0,0,0.0,93,100,0
+78423,1984,28400773,1985-03-16 20:00:00,Seattle,SuperSonics,Atlanta,Hawks,Regular Season,1,1,34.0,2,3,3,3,0,0,1,1,5,0,3,1,0.333,0,0,0.0,1,0,0.0,108,99,0
+78423,1984,28400782,1985-03-17 20:00:00,Seattle,SuperSonics,Detroit,Pistons,Regular Season,1,1,29.0,4,2,10,7,3,0,0,1,1,0,6,2,0.333,0,0,0.0,0,0,0.0,106,98,0
+78423,1984,28400793,1985-03-20 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,1,32.0,8,3,4,4,0,1,4,1,5,0,6,4,0.667,0,0,0.0,2,0,0.0,123,109,0
+78423,1984,28400807,1985-03-22 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,1,0,29.0,4,1,2,2,0,0,0,0,3,0,5,2,0.4,1,0,0.0,0,0,0.0,85,110,0
+78423,1984,28400818,1985-03-24 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,0,0,41.0,2,8,13,11,2,3,2,2,3,0,5,1,0.2,0,0,0.0,0,0,0.0,104,99,0
+78423,1984,28400822,1985-03-25 20:00:00,Seattle,SuperSonics,Kansas City,Kings,Regular Season,0,0,29.0,0,3,3,3,0,0,3,1,3,0,0,0,0.0,0,0,0.0,0,0,0.0,121,106,0
+78423,1984,28400833,1985-03-27 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,1,0,25.0,2,2,6,5,1,0,0,1,3,0,4,1,0.25,0,0,0.0,0,0,0.0,97,122,0
+78423,1984,28400849,1985-03-29 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,0,28.0,8,1,8,5,3,2,1,2,3,0,9,4,0.444,0,0,0.0,0,0,0.0,99,125,0
+78423,1984,28400863,1985-04-01 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,1,0,27.0,8,5,5,4,1,0,1,1,0,0,5,4,0.8,0,0,0.0,0,0,0.0,116,127,0
+78423,1984,28400869,1985-04-02 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,0,14.0,3,1,5,4,1,0,0,0,2,0,4,1,0.25,0,0,0.0,1,1,1.0,119,109,0
+78423,1984,28400919,1985-04-11 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,1,0,27.0,4,1,4,4,0,1,0,2,4,0,7,2,0.285,0,0,0.0,0,0,0.0,80,124,0
+78423,1984,28400924,1985-04-12 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,0,36.0,22,3,8,4,4,1,1,4,1,0,13,10,0.769,0,0,0.0,2,2,1.0,145,131,0
+78423,1984,28400937,1985-04-14 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,0,0,40.0,4,8,11,5,6,3,0,3,0,0,10,2,0.2,1,0,0.0,2,0,0.0,121,98,0
+78423,1985,28500017,1985-10-26 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,0,0,21.0,0,2,1,1,0,0,1,2,5,0,3,0,0.0,0,0,0.0,0,0,0.0,101,95,0
+78423,1985,28500022,1985-10-29 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,0,0,15.0,0,0,1,1,0,0,1,2,0,0,2,0,0.0,1,0,0.0,0,0,0.0,111,99,0
+78423,1985,28500035,1985-10-31 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,0,0,18.0,2,3,5,3,2,0,0,1,4,0,2,1,0.5,0,0,0.0,0,0,0.0,90,73,0
+78423,1985,28500048,1985-11-02 20:00:00,Seattle,SuperSonics,Chicago,Bulls,Regular Season,1,1,20.0,4,0,2,2,0,0,1,0,2,0,4,2,0.5,0,0,0.0,0,0,0.0,118,100,0
+78423,1985,28500063,1985-11-05 20:00:00,Seattle,SuperSonics,New York,Knicks,Regular Season,1,1,14.0,0,1,2,0,2,0,1,0,0,0,3,0,0.0,0,0,0.0,0,0,0.0,84,80,0
+78423,1985,28500067,1985-11-06 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,0,12.0,4,2,2,2,0,0,1,0,2,0,1,1,1.0,0,0,0.0,6,2,0.333,105,101,0
+78423,1985,28500081,1985-11-08 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,0,20.0,6,1,3,2,1,0,0,1,3,0,3,3,1.0,0,0,0.0,0,0,0.0,92,88,0
+78423,1985,28500086,1985-11-09 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,0,0,23.0,8,0,4,4,0,0,2,0,3,0,5,4,0.8,0,0,0.0,0,0,0.0,98,93,0
+78423,1985,28500101,1985-11-12 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,1,1,13.0,0,2,1,1,0,3,0,1,4,0,1,0,0.0,0,0,0.0,0,0,0.0,109,90,0
+78423,1985,28500102,1985-11-13 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,0,1,21.0,2,0,7,6,1,1,1,1,1,0,3,1,0.333,0,0,0.0,0,0,0.0,89,93,0
+78423,1985,28500002,1985-11-15 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,0,17.0,2,1,6,4,2,0,0,0,3,0,5,0,0.0,0,0,0.0,2,2,1.0,117,99,0
+78423,1985,28500126,1985-11-16 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,0,0,15.0,5,0,4,1,3,0,0,0,3,0,4,2,0.5,0,0,0.0,2,1,0.5,97,95,0
+78423,1985,28500142,1985-11-20 20:00:00,Seattle,SuperSonics,Milwaukee,Bucks,Regular Season,1,0,16.0,4,1,6,2,4,0,2,0,2,0,6,2,0.333,0,0,0.0,0,0,0.0,106,116,0
+78423,1985,28500152,1985-11-22 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,1,1,18.0,0,1,5,4,1,0,1,3,4,0,1,0,0.0,0,0,0.0,0,0,0.0,122,103,0
+78423,1985,28500165,1985-11-24 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,1,19.0,10,2,3,1,2,0,0,0,2,0,5,5,1.0,0,0,0.0,0,0,0.0,110,84,0
+78423,1985,28500171,1985-11-26 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,1,1,12.0,5,0,2,2,0,1,0,1,4,0,3,2,0.667,0,0,0.0,2,1,0.5,131,99,0
+78423,1985,28500189,1985-11-29 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,0,15.0,0,1,3,1,2,0,0,2,2,0,5,0,0.0,1,0,0.0,0,0,0.0,108,107,0
+78423,1985,28500206,1985-11-30 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,0,1,32.0,11,1,7,4,3,1,1,2,6,0,8,4,0.5,0,0,0.0,4,3,0.75,123,131,0
+78423,1985,28500213,1985-12-03 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,1,1,17.0,2,0,5,4,1,1,1,0,5,0,3,1,0.333,0,0,0.0,0,0,0.0,123,103,0
+78423,1985,28500232,1985-12-05 20:00:00,Seattle,SuperSonics,Cleveland,Cavaliers,Regular Season,0,0,15.0,0,0,0,0,0,0,0,0,2,0,2,0,0.0,0,0,0.0,0,0,0.0,100,97,0
+78423,1985,28500240,1985-12-06 20:00:00,Seattle,SuperSonics,Washington,Bullets,Regular Season,0,0,10.0,3,0,2,2,0,1,0,0,3,0,2,1,0.5,0,0,0.0,2,1,0.5,115,109,0
+78423,1985,28500250,1985-12-08 20:00:00,Seattle,SuperSonics,Philadelphia,76ers,Regular Season,0,1,18.0,2,3,4,1,3,3,1,2,1,0,3,1,0.333,0,0,0.0,0,0,0.0,100,105,0
+78423,1985,28500254,1985-12-10 20:00:00,Seattle,SuperSonics,Milwaukee,Bucks,Regular Season,0,0,23.0,11,1,4,1,3,0,0,1,3,0,9,5,0.556,0,0,0.0,2,1,0.5,117,98,0
+78423,1985,28500272,1985-12-13 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,1,1,15.0,3,2,2,1,1,0,0,0,3,0,1,1,1.0,0,0,0.0,4,1,0.25,114,95,0
+78423,1985,28500285,1985-12-15 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,0,21.0,4,0,2,1,1,0,2,1,5,0,3,2,0.667,0,0,0.0,0,0,0.0,112,105,0
+78423,1985,28500290,1985-12-17 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,0,19.0,2,1,1,1,0,1,0,1,4,0,3,1,0.333,1,0,0.0,0,0,0.0,99,104,0
+78423,1985,28500304,1985-12-19 20:00:00,Seattle,SuperSonics,Detroit,Pistons,Regular Season,1,0,26.0,4,1,8,4,4,0,0,0,2,0,4,2,0.5,0,0,0.0,0,0,0.0,97,99,0
+78423,1985,28500317,1985-12-21 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,0,20.0,0,2,1,0,1,0,2,1,4,0,1,0,0.0,0,0,0.0,0,0,0.0,97,114,0
+78423,1985,28500343,1985-12-27 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,1,20.0,2,1,7,6,1,0,2,0,2,0,3,1,0.333,0,0,0.0,0,0,0.0,114,102,0
+78423,1985,28500347,1985-12-28 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,1,0,27.0,9,3,7,4,3,2,2,1,5,0,6,4,0.667,0,0,0.0,2,1,0.5,106,111,0
+78423,1985,28500361,1985-12-30 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,0,0,31.0,6,1,6,4,2,0,1,1,5,0,5,2,0.4,0,0,0.0,2,2,1.0,107,105,0
+78423,1985,28500369,1986-01-03 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,1,27.0,8,1,6,1,5,0,0,1,5,0,3,3,1.0,0,0,0.0,2,2,1.0,117,107,0
+78423,1985,28500385,1986-01-06 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,0,26.0,7,0,3,1,2,0,1,1,5,0,4,3,0.75,0,0,0.0,1,1,1.0,97,114,0
+78423,1985,28500392,1986-01-07 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,1,1,29.0,8,2,5,3,2,1,4,0,5,0,6,3,0.5,0,0,0.0,2,2,1.0,91,84,0
+78423,1985,28500405,1986-01-09 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,0,0,28.0,4,2,5,4,1,1,1,3,3,0,2,1,0.5,0,0,0.0,2,2,1.0,94,90,0
+78423,1985,28500414,1986-01-11 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,1,1,35.0,4,2,10,5,5,0,3,0,2,0,6,1,0.167,0,0,0.0,4,2,0.5,105,99,0
+78423,1985,28500424,1986-01-13 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,1,0,33.0,6,0,3,2,1,0,1,0,4,0,6,3,0.5,0,0,0.0,2,0,0.0,89,90,0
+78423,1985,28500436,1986-01-15 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,0,0,22.0,2,1,1,1,0,2,0,0,5,0,2,1,0.5,0,0,0.0,0,0,0.0,110,103,0
+78423,1985,28500447,1986-01-17 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,0,31.0,9,1,2,2,0,0,3,3,4,0,9,4,0.444,0,0,0.0,1,1,1.0,103,100,0
+78423,1985,28500455,1986-01-18 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,0,0,42.0,6,1,6,4,2,1,1,0,4,0,4,3,0.75,0,0,0.0,0,0,0.0,98,96,0
+78423,1985,28500471,1986-01-21 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,1,0,36.0,13,0,3,1,2,0,2,2,2,0,9,6,0.667,0,0,0.0,4,1,0.25,96,100,0
+78423,1985,28500483,1986-01-23 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,0,26.0,6,0,6,1,5,0,0,0,6,0,8,2,0.25,0,0,0.0,2,2,1.0,117,107,0
+78423,1985,28500495,1986-01-25 20:00:00,Seattle,SuperSonics,New Jersey,Nets,Regular Season,1,1,24.0,4,1,5,2,3,1,0,0,3,0,2,2,1.0,0,0,0.0,2,0,0.0,106,99,0
+78423,1985,28500516,1986-01-28 20:00:00,Seattle,SuperSonics,Philadelphia,76ers,Regular Season,1,0,23.0,0,1,4,3,1,0,0,0,2,0,3,0,0.0,0,0,0.0,0,0,0.0,99,106,0
+78423,1985,28500524,1986-01-30 20:00:00,Seattle,SuperSonics,New Jersey,Nets,Regular Season,0,1,29.0,9,1,9,5,4,1,2,0,3,0,6,4,0.667,0,0,0.0,2,1,0.5,82,89,0
+78423,1985,28500530,1986-01-31 20:00:00,Seattle,SuperSonics,Indiana,Pacers,Regular Season,0,0,17.0,2,1,3,2,1,0,1,1,6,0,2,1,0.5,0,0,0.0,0,0,0.0,101,94,0
+78423,1985,28500545,1986-02-02 20:00:00,Seattle,SuperSonics,Boston,Celtics,Regular Season,0,0,17.0,7,0,2,1,1,0,1,0,3,0,5,3,0.599,0,0,0.0,3,1,0.333,114,101,0
+78423,1985,28500553,1986-02-04 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,0,0,29.0,4,3,4,2,2,0,3,1,2,0,5,2,0.4,0,0,0.0,0,0,0.0,124,119,0
+78423,1985,28500565,1986-02-06 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,0,0,15.0,0,0,1,1,0,0,0,0,1,0,2,0,0.0,0,0,0.0,0,0,0.0,115,106,0
+78423,1985,28500571,1986-02-11 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,1,1,14.0,2,0,6,2,4,0,0,0,2,0,4,1,0.25,0,0,0.0,0,0,0.0,105,92,0
+78423,1985,28500590,1986-02-13 20:00:00,Seattle,SuperSonics,Boston,Celtics,Regular Season,1,0,13.0,4,0,5,4,1,0,1,0,4,0,2,2,1.0,0,0,0.0,0,0,0.0,98,107,0
+78423,1985,28500603,1986-02-15 20:00:00,Seattle,SuperSonics,Washington,Bullets,Regular Season,1,1,21.0,7,1,4,4,0,2,0,1,4,0,5,3,0.599,0,0,0.0,1,1,1.0,112,106,0
+78423,1985,28500612,1986-02-17 20:00:00,Seattle,SuperSonics,Atlanta,Hawks,Regular Season,1,1,33.0,5,1,2,2,0,1,2,2,3,0,4,2,0.5,0,0,0.0,1,1,1.0,100,87,0
+78423,1985,28500622,1986-02-19 20:00:00,Seattle,SuperSonics,Detroit,Pistons,Regular Season,0,0,28.0,3,2,5,2,3,1,0,1,2,0,4,1,0.25,0,0,0.0,2,1,0.5,118,113,0
+78423,1985,28500635,1986-02-21 20:00:00,Seattle,SuperSonics,New York,Knicks,Regular Season,0,0,22.0,2,2,3,3,0,0,1,1,3,0,2,1,0.5,0,0,0.0,0,0,0.0,117,104,0
+78423,1985,28500640,1986-02-22 20:00:00,Seattle,SuperSonics,Chicago,Bulls,Regular Season,0,0,26.0,4,2,7,5,2,0,0,2,4,0,3,1,0.333,0,0,0.0,2,2,1.0,129,125,0
+78423,1985,28500664,1986-02-25 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,1,0,18.0,4,0,4,2,2,0,1,4,1,0,3,2,0.667,0,0,0.0,0,0,0.0,100,102,0
+78423,1985,28500670,1986-02-27 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,1,23.0,10,0,8,3,5,0,1,0,2,0,9,5,0.556,0,0,0.0,0,0,0.0,107,94,0
+78423,1985,28500695,1986-03-03 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,1,1,21.0,2,0,4,3,1,0,0,2,2,0,3,1,0.333,0,0,0.0,0,0,0.0,118,105,0
+78423,1985,28500707,1986-03-05 20:00:00,Seattle,SuperSonics,Indiana,Pacers,Regular Season,1,0,17.0,1,0,2,0,2,0,0,1,2,0,4,0,0.0,0,0,0.0,4,1,0.25,112,120,0
+78423,1985,28500722,1986-03-07 20:00:00,Seattle,SuperSonics,Cleveland,Cavaliers,Regular Season,1,1,14.0,2,0,2,1,1,0,2,2,1,0,3,1,0.333,0,0,0.0,1,0,0.0,120,106,0
+78423,1985,28500733,1986-03-09 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,1,0,10.0,0,0,2,1,1,0,0,0,0,0,4,0,0.0,0,0,0.0,0,0,0.0,106,108,0
+78423,1985,28500738,1986-03-10 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,1,12.0,0,1,3,1,2,0,0,1,2,0,2,0,0.0,0,0,0.0,0,0,0.0,108,111,0
+78423,1985,28500751,1986-03-12 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,0,0,14.0,7,1,3,2,1,0,0,2,4,0,3,2,0.667,0,0,0.0,4,3,0.75,100,96,0
+78423,1985,28500757,1986-03-13 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,0,18.0,4,0,6,5,1,0,0,0,2,0,3,2,0.667,0,0,0.0,0,0,0.0,105,92,0
+78423,1985,28500779,1986-03-16 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,1,1,15.0,4,1,2,0,2,0,0,1,1,0,3,2,0.667,0,0,0.0,0,0,0.0,129,115,0
+78423,1985,28500785,1986-03-18 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,1,0,15.0,0,0,2,2,0,0,1,1,5,0,0,0,0.0,0,0,0.0,0,0,0.0,104,107,0
+78423,1985,28500803,1986-03-20 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,1,5.0,0,1,0,0,0,0,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,116,104,0
+78423,1985,28500808,1986-03-21 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,0,17.0,6,1,0,0,0,0,0,0,2,0,5,3,0.599,0,0,0.0,1,0,0.0,115,108,0
+78423,1985,28500820,1986-03-23 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,0,1,5.0,0,0,0,0,0,1,0,0,0,0,1,0,0.0,1,0,0.0,2,0,0.0,104,107,0
+78423,1985,28500826,1986-03-24 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,0,0,15.0,4,1,3,2,1,0,1,0,3,0,3,2,0.667,0,0,0.0,0,0,0.0,116,108,0
+78423,1985,28500838,1986-03-26 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,0,9.0,2,0,2,0,2,2,0,0,1,0,1,1,1.0,0,0,0.0,0,0,0.0,120,107,0
+78423,1985,28500842,1986-03-27 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,1,0,19.0,4,1,2,2,0,0,2,0,1,0,3,2,0.667,0,0,0.0,0,0,0.0,101,103,0
+78423,1985,28500851,1986-03-29 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,1,1,7.0,0,0,0,0,0,0,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,88,87,0
+78423,1985,28500859,1986-03-30 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,1,17.0,4,2,2,0,2,1,0,1,1,0,5,2,0.4,0,0,0.0,0,0,0.0,103,89,0
+78423,1985,28500869,1986-04-01 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,0,13.0,4,0,1,1,0,1,1,0,0,0,3,2,0.667,0,0,0.0,0,0,0.0,109,104,0
+78423,1985,28500877,1986-04-02 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,0,15.0,0,1,3,3,0,0,1,1,2,0,1,0,0.0,0,0,0.0,0,0,0.0,109,121,0
+78423,1985,28500894,1986-04-05 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,0,1,21.0,6,0,4,3,1,1,2,0,2,0,4,3,0.75,0,0,0.0,2,0,0.0,109,111,0
+78423,1985,28500910,1986-04-08 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,0,0,9.0,0,0,1,1,0,0,0,1,1,0,0,0,0.0,0,0,0.0,0,0,0.0,109,95,0
+78423,1985,28500929,1986-04-12 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,1,9.0,0,0,2,1,1,0,0,0,0,0,2,0,0.0,0,0,0.0,0,0,0.0,121,101,0
+78423,1986,28600025,1986-11-04 20:00:00,Philadelphia,76ers,Indiana,Pacers,Regular Season,0,0,11.0,4,1,6,5,1,0,0,0,3,0,3,2,0.667,0,0,0.0,0,0,0.0,125,121,0
+78423,1986,28600048,1986-11-07 20:00:00,Philadelphia,76ers,San Antonio,Spurs,Regular Season,1,1,16.0,3,0,1,1,0,1,0,1,4,0,1,1,1.0,0,0,0.0,2,1,0.5,114,97,0
+78423,1986,28600059,1986-11-09 20:00:00,Philadelphia,76ers,Portland,Trail Blazers,Regular Season,0,1,19.0,4,2,7,5,2,0,1,1,4,0,4,1,0.25,0,0,0.0,2,2,1.0,119,125,0
+78423,1986,28600068,1986-11-11 20:00:00,Philadelphia,76ers,Seattle,SuperSonics,Regular Season,0,1,14.0,0,1,4,4,0,0,1,0,1,0,0,0,0.0,0,0,0.0,2,0,0.0,114,121,0
+78423,1986,28600077,1986-11-13 20:00:00,Philadelphia,76ers,Golden State,Warriors,Regular Season,0,0,15.0,0,0,3,3,0,0,0,1,2,0,0,0,0.0,0,0,0.0,0,0,0.0,112,104,0
+78423,1986,28600083,1986-11-14 20:00:00,Philadelphia,76ers,Phoenix,Suns,Regular Season,0,0,5.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,127,97,0
+78423,1986,28600095,1986-11-16 20:00:00,Philadelphia,76ers,Los Angeles,Clippers,Regular Season,0,1,22.0,4,2,6,2,4,1,3,1,4,0,5,2,0.4,0,0,0.0,0,0,0.0,90,103,0
+78423,1986,28600108,1986-11-19 20:00:00,Philadelphia,76ers,New York,Knicks,Regular Season,1,1,12.0,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0.0,0,0,0.0,98,94,0
+78423,1986,28600193,1986-12-05 20:00:00,Philadelphia,76ers,Boston,Celtics,Regular Season,0,0,5.0,0,0,0,0,0,0,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,108,106,0
+78423,1986,28600221,1986-12-10 20:00:00,Philadelphia,76ers,Indiana,Pacers,Regular Season,1,1,5.0,2,0,1,0,1,0,1,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,122,112,0
+78423,1986,28600234,1986-12-12 20:00:00,Philadelphia,76ers,New Jersey,Nets,Regular Season,0,0,13.0,0,1,2,0,2,0,0,0,1,0,2,0,0.0,0,0,0.0,2,0,0.0,123,90,0
+78423,1986,28600255,1986-12-16 20:00:00,Philadelphia,76ers,Milwaukee,Bucks,Regular Season,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,103,91,0
+78423,1986,28600271,1986-12-19 20:00:00,Philadelphia,76ers,Boston,Celtics,Regular Season,1,1,2.0,2,1,1,1,0,1,0,0,1,0,1,1,1.0,0,0,0.0,0,0,0.0,122,100,0
+78423,1986,28600299,1986-12-25 20:00:00,Philadelphia,76ers,Washington,Bullets,Regular Season,1,0,10.0,0,0,0,0,0,0,1,1,1,0,1,0,0.0,0,0,0.0,0,0,0.0,97,102,0
+78423,1986,28600311,1986-12-27 20:00:00,Philadelphia,76ers,Sacramento,Kings,Regular Season,0,1,14.0,2,0,1,1,0,1,0,0,2,0,2,1,0.5,0,0,0.0,0,0,0.0,95,99,0
+78423,1986,28600317,1986-12-28 20:00:00,Philadelphia,76ers,Los Angeles,Lakers,Regular Season,0,0,15.0,0,2,1,0,1,1,1,0,1,0,5,0,0.0,1,0,0.0,0,0,0.0,111,85,0
+78423,1986,28600324,1986-12-30 20:00:00,Philadelphia,76ers,Denver,Nuggets,Regular Season,0,1,10.0,6,0,2,1,1,0,0,0,5,0,3,3,1.0,0,0,0.0,0,0,0.0,108,111,0
+78423,1986,28600335,1987-01-02 20:00:00,Philadelphia,76ers,Utah,Jazz,Regular Season,0,1,13.0,0,0,1,1,0,0,0,0,2,0,1,0,0.0,0,0,0.0,0,0,0.0,99,104,0
+78423,1986,28600355,1987-01-05 20:00:00,Philadelphia,76ers,Los Angeles,Clippers,Regular Season,1,1,13.0,2,2,1,0,1,1,2,0,0,0,2,0,0.0,0,0,0.0,4,2,0.5,108,102,0
+78423,1986,28600369,1987-01-07 20:00:00,Philadelphia,76ers,Atlanta,Hawks,Regular Season,0,1,14.0,0,1,0,0,0,0,1,1,3,0,1,0,0.0,0,0,0.0,0,0,0.0,102,109,0
+78423,1986,28600381,1987-01-09 20:00:00,Philadelphia,76ers,New York,Knicks,Regular Season,1,0,9.0,2,0,1,1,0,0,2,0,2,0,1,1,1.0,0,0,0.0,1,0,0.0,84,94,0
+78423,1986,28600382,1987-01-10 20:00:00,Philadelphia,76ers,Washington,Bullets,Regular Season,0,0,20.0,9,0,5,5,0,1,0,2,5,0,5,3,0.599,1,1,1.0,2,2,1.0,117,111,0
+78423,1986,28600401,1987-01-13 20:00:00,Philadelphia,76ers,Indiana,Pacers,Regular Season,0,1,17.0,0,0,4,3,1,0,1,0,1,0,2,0,0.0,0,0,0.0,0,0,0.0,94,101,0
+78423,1986,28600443,1987-01-21 20:00:00,Philadelphia,76ers,Seattle,SuperSonics,Regular Season,1,1,5.0,0,1,2,2,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,129,123,0
+78423,1986,28600469,1987-01-25 20:00:00,Philadelphia,76ers,Boston,Celtics,Regular Season,0,0,8.0,0,0,2,2,0,0,1,0,2,0,0,0,0.0,0,0,0.0,0,0,0.0,111,96,0
+78423,1986,28600484,1987-01-28 20:00:00,Philadelphia,76ers,Cleveland,Cavaliers,Regular Season,1,1,20.0,6,1,7,3,4,0,1,1,3,0,5,2,0.4,0,0,0.0,2,2,1.0,109,107,0
+78423,1986,28600498,1987-01-30 20:00:00,Philadelphia,76ers,Chicago,Bulls,Regular Season,1,1,16.0,2,1,1,0,1,0,0,1,1,0,3,1,0.333,1,0,0.0,0,0,0.0,121,112,0
+78423,1986,28600505,1987-01-31 20:00:00,Philadelphia,76ers,Washington,Bullets,Regular Season,0,0,32.0,7,0,6,5,1,1,1,2,5,0,5,3,0.599,0,0,0.0,2,1,0.5,106,105,0
+78423,1986,28600520,1987-02-03 20:00:00,Philadelphia,76ers,Indiana,Pacers,Regular Season,0,1,22.0,6,2,5,3,2,0,1,0,4,0,6,3,0.5,0,0,0.0,0,0,0.0,94,99,0
+78423,1986,28600530,1987-02-04 20:00:00,Philadelphia,76ers,New Jersey,Nets,Regular Season,0,1,33.0,2,0,5,5,0,0,0,0,3,0,5,1,0.2,0,0,0.0,0,0,0.0,95,121,0
+78423,1986,28600544,1987-02-10 20:00:00,Philadelphia,76ers,Chicago,Bulls,Regular Season,0,0,21.0,5,1,4,4,0,1,0,1,5,0,3,2,0.667,0,0,0.0,1,1,1.0,104,99,0
+78423,1986,28600549,1987-02-11 20:00:00,Philadelphia,76ers,Detroit,Pistons,Regular Season,1,0,22.0,4,1,6,4,2,0,1,1,4,0,4,2,0.5,0,0,0.0,0,0,0.0,113,123,0
+78423,1986,28600567,1987-02-14 20:00:00,Philadelphia,76ers,Detroit,Pistons,Regular Season,0,0,17.0,2,1,1,1,0,0,0,0,0,0,2,1,0.5,0,0,0.0,0,0,0.0,125,107,0
+78423,1986,28600575,1987-02-16 20:00:00,Philadelphia,76ers,New York,Knicks,Regular Season,0,1,13.0,5,0,2,1,1,0,0,0,4,0,3,2,0.667,0,0,0.0,2,1,0.5,101,111,0
+78423,1986,28600587,1987-02-18 20:00:00,Philadelphia,76ers,Golden State,Warriors,Regular Season,1,1,15.0,0,0,1,1,0,0,0,0,3,0,2,0,0.0,0,0,0.0,0,0,0.0,114,103,0
+78423,1986,28600601,1987-02-20 20:00:00,Philadelphia,76ers,Sacramento,Kings,Regular Season,1,1,23.0,8,1,2,1,1,0,1,4,5,0,3,3,1.0,0,0,0.0,2,2,1.0,123,91,0
+78423,1986,28600612,1987-02-22 20:00:00,Philadelphia,76ers,Los Angeles,Lakers,Regular Season,1,0,10.0,4,0,2,0,2,0,0,1,0,0,3,2,0.667,0,0,0.0,0,0,0.0,110,112,0
+78423,1986,28600638,1987-02-26 20:00:00,Philadelphia,76ers,San Antonio,Spurs,Regular Season,0,0,24.0,4,1,7,6,1,0,0,1,3,0,3,2,0.667,0,0,0.0,0,0,0.0,96,94,0
+78423,1986,28600643,1987-02-27 20:00:00,Philadelphia,76ers,Dallas,Mavericks,Regular Season,0,0,21.0,4,1,6,3,3,0,1,2,2,0,7,2,0.285,0,0,0.0,0,0,0.0,123,110,0
+78423,1986,28600656,1987-03-01 20:00:00,Philadelphia,76ers,Houston,Rockets,Regular Season,0,1,30.0,10,2,8,3,5,1,1,1,2,0,7,4,0.57,1,0,0.0,4,2,0.5,97,102,0
+78423,1986,28600667,1987-03-04 20:00:00,Philadelphia,76ers,New York,Knicks,Regular Season,1,0,11.0,2,0,2,2,0,1,1,0,0,0,2,1,0.5,0,0,0.0,0,0,0.0,99,102,0
+78423,1986,28600681,1987-03-06 20:00:00,Philadelphia,76ers,Washington,Bullets,Regular Season,1,1,9.0,2,1,2,1,1,1,1,0,1,0,2,1,0.5,1,0,0.0,4,0,0.0,123,113,0
+78423,1986,28600692,1987-03-07 20:00:00,Philadelphia,76ers,New Jersey,Nets,Regular Season,1,0,15.0,6,0,0,0,0,1,0,0,2,0,4,3,0.75,0,0,0.0,1,0,0.0,102,114,0
+78423,1986,28600714,1987-03-11 20:00:00,Philadelphia,76ers,Chicago,Bulls,Regular Season,1,1,10.0,0,0,2,1,1,2,0,1,0,0,2,0,0.0,0,0,0.0,0,0,0.0,117,108,0
+78423,1986,28600729,1987-03-14 20:00:00,Philadelphia,76ers,Detroit,Pistons,Regular Season,0,0,2.0,2,0,0,0,0,0,0,0,1,0,1,1,1.0,0,0,0.0,0,0,0.0,98,95,0
+78423,1986,28600752,1987-03-18 20:00:00,Philadelphia,76ers,Atlanta,Hawks,Regular Season,1,1,13.0,0,0,1,0,1,1,0,0,2,0,1,0,0.0,0,0,0.0,0,0,0.0,109,107,0
+78423,1986,28600762,1987-03-20 20:00:00,Philadelphia,76ers,Denver,Nuggets,Regular Season,1,1,14.0,2,0,0,0,0,1,2,0,4,0,4,1,0.25,0,0,0.0,0,0,0.0,116,106,0
+78423,1986,28600773,1987-03-21 20:00:00,Philadelphia,76ers,Milwaukee,Bucks,Regular Season,0,1,8.0,0,0,1,1,0,1,1,0,4,0,0,0,0.0,0,0,0.0,0,0,0.0,102,105,0
+78423,1986,28600780,1987-03-23 20:00:00,Philadelphia,76ers,Dallas,Mavericks,Regular Season,1,0,10.0,0,1,0,0,0,1,1,0,2,0,0,0,0.0,0,0,0.0,0,0,0.0,100,103,0
+78423,1986,28600790,1987-03-24 20:00:00,Philadelphia,76ers,Chicago,Bulls,Regular Season,0,0,14.0,7,0,4,3,1,0,2,0,4,0,4,3,0.75,0,0,0.0,2,1,0.5,93,91,0
+78423,1986,28600807,1987-03-27 20:00:00,Philadelphia,76ers,New Jersey,Nets,Regular Season,1,1,15.0,2,0,3,1,2,0,1,2,5,0,3,0,0.0,0,0,0.0,4,2,0.5,110,99,0
+78423,1986,28600819,1987-03-29 20:00:00,Philadelphia,76ers,Boston,Celtics,Regular Season,0,0,11.0,0,0,1,1,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,118,100,0
+78423,1986,28600829,1987-03-31 20:00:00,Philadelphia,76ers,Cleveland,Cavaliers,Regular Season,0,1,19.0,3,0,4,1,3,0,1,0,3,0,4,1,0.25,0,0,0.0,2,1,0.5,105,116,0
+78423,1986,28600832,1987-04-01 20:00:00,Philadelphia,76ers,Cleveland,Cavaliers,Regular Season,1,1,7.0,0,0,2,2,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,108,99,0
+78423,1986,28600876,1987-04-08 20:00:00,Philadelphia,76ers,Atlanta,Hawks,Regular Season,0,0,11.0,2,1,4,3,1,1,1,0,0,0,2,1,0.5,0,0,0.0,0,0,0.0,110,92,0
+78423,1986,28600886,1987-04-10 20:00:00,Philadelphia,76ers,Chicago,Bulls,Regular Season,1,1,6.0,0,0,0,0,0,1,1,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,98,96,0
+78423,1986,28600906,1987-04-13 20:00:00,Philadelphia,76ers,Washington,Bullets,Regular Season,1,1,19.0,2,0,3,1,2,1,1,0,4,0,4,1,0.25,0,0,0.0,0,0,0.0,113,105,0
+78423,1986,28600916,1987-04-15 20:00:00,Philadelphia,76ers,Milwaukee,Bucks,Regular Season,0,0,8.0,1,1,3,1,2,2,0,0,2,0,2,0,0.0,0,0,0.0,4,1,0.25,128,95,0
+78423,1986,48600013,1987-04-26 20:00:00,Philadelphia,76ers,Milwaukee,Bucks,Playoffs,0,1,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,122,125,0
+78423,1986,48600032,1987-05-03 20:00:00,Philadelphia,76ers,Milwaukee,Bucks,Playoffs,0,0,2.0,0,0,3,3,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,102,89,0
+78423,1987,28700003,1987-11-06 20:00:00,Philadelphia,76ers,Indiana,Pacers,Regular Season,1,1,17.0,6,0,2,1,1,0,2,0,1,0,3,3,1.0,0,0,0.0,0,0,0.0,108,95,0
+78423,1987,28700016,1987-11-07 20:00:00,Philadelphia,76ers,Chicago,Bulls,Regular Season,0,0,26.0,4,0,7,6,1,0,1,0,3,0,3,2,0.667,0,0,0.0,0,0,0.0,104,94,0
+78423,1987,28700050,1987-11-13 20:00:00,Philadelphia,76ers,Detroit,Pistons,Regular Season,1,0,8.0,0,0,4,4,0,0,1,1,0,0,1,0,0.0,0,0,0.0,0,0,0.0,94,113,0
+78423,1987,28700055,1987-11-14 20:00:00,Philadelphia,76ers,Atlanta,Hawks,Regular Season,0,0,13.0,2,0,1,1,0,0,1,1,2,0,3,0,0.0,0,0,0.0,4,2,0.5,104,83,0
+78423,1987,28700086,1987-11-20 20:00:00,Philadelphia,76ers,Boston,Celtics,Regular Season,1,1,14.0,5,1,4,4,0,1,1,0,4,0,3,2,0.667,0,0,0.0,2,1,0.5,116,85,0
+78423,1987,28700095,1987-11-21 20:00:00,Philadelphia,76ers,Cleveland,Cavaliers,Regular Season,0,0,16.0,5,0,4,2,2,0,1,1,1,0,5,2,0.4,0,0,0.0,2,1,0.5,101,88,0
+78423,1987,28700110,1987-11-24 20:00:00,Philadelphia,76ers,Cleveland,Cavaliers,Regular Season,1,1,6.0,6,0,2,0,2,0,0,0,1,0,3,3,1.0,0,0,0.0,0,0,0.0,108,104,0
+78423,1987,28700121,1987-11-27 20:00:00,Philadelphia,76ers,Golden State,Warriors,Regular Season,0,0,6.0,3,0,2,0,2,0,0,0,2,0,1,1,1.0,0,0,0.0,2,1,0.5,109,103,0
+78423,1987,28700136,1987-11-28 20:00:00,Philadelphia,76ers,Sacramento,Kings,Regular Season,0,0,12.0,7,0,6,4,2,1,1,2,5,0,3,3,1.0,0,0,0.0,4,1,0.25,115,114,0
+78423,1987,28700139,1987-11-30 20:00:00,Philadelphia,76ers,Utah,Jazz,Regular Season,0,1,18.0,0,0,0,0,0,1,1,0,3,0,0,0,0.0,0,0,0.0,0,0,0.0,100,106,0
+78423,1987,28700150,1987-12-02 20:00:00,Philadelphia,76ers,Los Angeles,Clippers,Regular Season,0,0,9.0,0,0,1,0,1,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,88,85,0
+78423,1987,28700164,1987-12-04 20:00:00,Philadelphia,76ers,Seattle,SuperSonics,Regular Season,1,1,15.0,4,0,2,0,2,0,1,0,2,0,3,2,0.667,0,0,0.0,0,0,0.0,118,105,0
+78423,1987,28700179,1987-12-08 20:00:00,Philadelphia,76ers,Chicago,Bulls,Regular Season,0,1,25.0,0,2,5,4,1,1,1,0,3,0,0,0,0.0,0,0,0.0,2,0,0.0,96,109,0
+78423,1987,28700191,1987-12-09 20:00:00,Philadelphia,76ers,Portland,Trail Blazers,Regular Season,1,1,35.0,2,1,4,2,2,1,0,0,4,0,5,1,0.2,0,0,0.0,0,0,0.0,94,86,0
+78423,1987,28700203,1987-12-12 20:00:00,Philadelphia,76ers,Denver,Nuggets,Regular Season,1,0,33.0,10,3,7,4,3,3,2,0,4,0,6,4,0.667,1,0,0.0,4,2,0.5,121,131,0
+78423,1987,28700226,1987-12-16 20:00:00,Philadelphia,76ers,San Antonio,Spurs,Regular Season,1,1,16.0,2,0,1,1,0,2,0,2,4,0,2,1,0.5,0,0,0.0,0,0,0.0,114,102,0
+78423,1987,28700233,1987-12-17 20:00:00,Philadelphia,76ers,New York,Knicks,Regular Season,0,1,24.0,4,3,1,0,1,0,0,1,3,0,5,2,0.4,0,0,0.0,1,0,0.0,96,106,0
+78423,1987,28700242,1987-12-19 20:00:00,Philadelphia,76ers,Dallas,Mavericks,Regular Season,1,1,6.0,0,0,2,1,1,0,0,0,0,0,2,0,0.0,0,0,0.0,0,0,0.0,95,90,0
+78423,1987,28700248,1987-12-20 20:00:00,Philadelphia,76ers,Boston,Celtics,Regular Season,0,0,24.0,4,3,3,3,0,1,1,3,2,0,8,2,0.25,1,0,0.0,0,0,0.0,124,87,0
+78423,1987,28700266,1987-12-23 20:00:00,Philadelphia,76ers,New Jersey,Nets,Regular Season,0,1,5.0,0,1,0,0,0,0,1,0,3,0,0,0,0.0,0,0,0.0,0,0,0.0,106,110,0
+78423,1987,28700270,1987-12-25 20:00:00,Philadelphia,76ers,Atlanta,Hawks,Regular Season,1,0,14.0,0,0,4,4,0,0,0,1,2,0,0,0,0.0,0,0,0.0,0,0,0.0,100,106,0
+78423,1987,28700284,1987-12-28 20:00:00,Philadelphia,76ers,Phoenix,Suns,Regular Season,0,0,8.0,0,1,1,0,1,0,0,2,2,0,2,0,0.0,0,0,0.0,0,0,0.0,117,101,0
+78423,1987,28700289,1987-12-29 20:00:00,Philadelphia,76ers,Los Angeles,Lakers,Regular Season,0,0,9.0,2,1,1,1,0,0,0,0,0,0,5,1,0.2,1,0,0.0,2,0,0.0,131,115,0
+78423,1987,28700301,1988-01-01 20:00:00,Philadelphia,76ers,Portland,Trail Blazers,Regular Season,0,0,8.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,127,125,0
+78423,1987,28700307,1988-01-02 20:00:00,Philadelphia,76ers,Seattle,SuperSonics,Regular Season,0,0,9.0,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0.0,0,0,0.0,116,114,0
+78423,1987,28700332,1988-01-06 20:00:00,Philadelphia,76ers,Utah,Jazz,Regular Season,1,1,22.0,3,0,2,2,0,3,0,0,2,0,1,1,1.0,0,0,0.0,1,1,1.0,116,93,0
+78423,1987,28700344,1988-01-08 20:00:00,Philadelphia,76ers,Los Angeles,Clippers,Regular Season,1,1,4.0,0,1,2,2,0,1,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,117,103,0
+78423,1987,28700352,1988-01-09 20:00:00,Philadelphia,76ers,Cleveland,Cavaliers,Regular Season,1,1,6.0,2,0,1,0,1,0,0,0,0,0,2,1,0.5,0,0,0.0,0,0,0.0,126,110,0
+78423,1987,28700376,1988-01-15 20:00:00,Philadelphia,76ers,New York,Knicks,Regular Season,1,1,3.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,119,104,0
+78423,1987,28700384,1988-01-16 20:00:00,Philadelphia,76ers,New York,Knicks,Regular Season,0,0,3.0,0,0,1,1,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,110,96,0
+78423,1987,28700406,1988-01-20 20:00:00,Philadelphia,76ers,Washington,Bullets,Regular Season,1,0,30.0,4,0,2,2,0,5,1,2,3,0,4,2,0.5,0,0,0.0,0,0,0.0,98,110,0
+78423,1987,28700428,1988-01-24 20:00:00,Philadelphia,76ers,Washington,Bullets,Regular Season,0,0,29.0,2,1,3,2,1,1,2,2,4,0,3,1,0.333,0,0,0.0,0,0,0.0,131,99,0
+78423,1987,28700035,1988-01-25 20:00:00,Philadelphia,76ers,Washington,Bullets,Regular Season,0,0,20.0,0,1,4,3,1,1,2,1,5,0,2,0,0.0,0,0,0.0,0,0,0.0,118,117,0
+78423,1987,28700446,1988-01-27 20:00:00,Philadelphia,76ers,Chicago,Bulls,Regular Season,1,0,30.0,4,1,5,3,2,2,0,0,3,0,5,2,0.4,0,0,0.0,0,0,0.0,109,119,0
+78423,1987,28700453,1988-01-29 20:00:00,Philadelphia,76ers,Indiana,Pacers,Regular Season,1,1,26.0,4,3,7,3,4,1,0,0,3,0,5,2,0.4,0,0,0.0,0,0,0.0,94,89,0
+78423,1987,28700469,1988-01-31 20:00:00,Philadelphia,76ers,Boston,Celtics,Regular Season,0,0,21.0,2,2,4,3,1,2,0,0,4,0,2,1,0.5,0,0,0.0,0,0,0.0,100,85,0
+78423,1987,28700483,1988-02-03 20:00:00,Philadelphia,76ers,Golden State,Warriors,Regular Season,1,1,29.0,10,3,5,2,3,0,0,1,0,0,6,4,0.667,0,0,0.0,2,2,1.0,96,84,0
+78423,1987,28700494,1988-02-04 20:00:00,Philadelphia,76ers,Indiana,Pacers,Regular Season,0,0,16.0,0,0,0,0,0,0,1,0,2,0,0,0,0.0,0,0,0.0,0,0,0.0,109,95,0
+78423,1987,28700503,1988-02-09 20:00:00,Philadelphia,76ers,Atlanta,Hawks,Regular Season,0,0,34.0,4,1,2,1,1,1,0,1,5,0,3,1,0.333,0,0,0.0,2,2,1.0,112,110,0
+78423,1987,28700516,1988-02-11 20:00:00,Philadelphia,76ers,Milwaukee,Bucks,Regular Season,1,1,17.0,2,2,1,0,1,0,1,1,4,0,2,1,0.5,0,0,0.0,2,0,0.0,119,113,0
+78423,1987,28700533,1988-02-14 20:00:00,Philadelphia,76ers,New Jersey,Nets,Regular Season,0,0,7.0,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0,0,0.0,0,0,0.0,109,105,0
+78423,1987,28700563,1988-02-19 20:00:00,Philadelphia,76ers,New Jersey,Nets,Regular Season,1,1,14.0,4,0,2,1,1,1,1,0,0,0,2,2,1.0,0,0,0.0,0,0,0.0,115,100,0
+78423,1987,28700576,1988-02-21 20:00:00,Philadelphia,76ers,Milwaukee,Bucks,Regular Season,0,0,9.0,0,0,0,0,0,0,0,1,1,0,0,0,0.0,0,0,0.0,0,0,0.0,120,115,0
+78423,1987,28700582,1988-02-22 20:00:00,Philadelphia,76ers,Houston,Rockets,Regular Season,0,0,1.0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,119,106,0
+78423,1987,28700594,1988-02-24 20:00:00,Philadelphia,76ers,San Antonio,Spurs,Regular Season,0,0,3.0,1,0,0,0,0,0,1,1,0,0,1,0,0.0,0,0,0.0,2,1,0.5,123,121,0
+78423,1987,28700601,1988-02-26 20:00:00,Philadelphia,76ers,Denver,Nuggets,Regular Season,0,0,12.0,5,0,3,1,2,0,1,1,0,0,3,2,0.667,0,0,0.0,1,1,1.0,120,104,0
+78423,1987,28700610,1988-02-27 20:00:00,Philadelphia,76ers,Dallas,Mavericks,Regular Season,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,100,91,0
+78423,1987,28700696,1988-03-13 20:00:00,Philadelphia,76ers,Washington,Bullets,Regular Season,1,1,3.0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,104,96,0
+78423,1987,28700724,1988-03-18 20:00:00,Philadelphia,76ers,Indiana,Pacers,Regular Season,1,1,5.0,0,1,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0.0,0,0,0.0,129,109,0
+78423,1987,28700745,1988-03-22 20:00:00,Philadelphia,76ers,New Jersey,Nets,Regular Season,0,0,1.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,102,90,0
+78423,1987,28700782,1988-03-28 20:00:00,Philadelphia,76ers,Houston,Rockets,Regular Season,1,1,3.0,0,1,0,0,0,0,0,0,1,0,2,0,0.0,0,0,0.0,0,0,0.0,108,98,0
+78423,1987,28700791,1988-03-30 20:00:00,Philadelphia,76ers,Milwaukee,Bucks,Regular Season,1,1,5.0,2,0,1,0,1,1,0,0,0,0,3,1,0.333,0,0,0.0,0,0,0.0,134,109,0
+78423,1987,28700826,1988-04-05 20:00:00,Philadelphia,76ers,New York,Knicks,Regular Season,1,0,4.0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,119,136,0
+78423,1987,28700843,1988-04-08 20:00:00,Philadelphia,76ers,Detroit,Pistons,Regular Season,1,0,1.0,2,0,0,0,0,0,0,0,2,0,2,1,0.5,0,0,0.0,0,0,0.0,86,96,0
+78423,1987,28700862,1988-04-11 20:00:00,Philadelphia,76ers,Milwaukee,Bucks,Regular Season,0,1,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,102,115,0
+78423,1987,28700892,1988-04-16 20:00:00,Philadelphia,76ers,Indiana,Pacers,Regular Season,0,0,17.0,0,0,3,2,1,1,1,0,0,0,1,0,0.0,0,0,0.0,2,0,0.0,126,92,0
+78423,1987,28700938,1988-04-24 20:00:00,Philadelphia,76ers,Detroit,Pistons,Regular Season,0,0,19.0,4,1,5,2,3,1,1,0,2,0,5,2,0.4,0,0,0.0,0,0,0.0,128,118,0

@@ -1,0 +1,476 @@
+personId,season,gameId,gameDateTimeEst,playerteamCity,playerteamName,opponentteamCity,opponentteamName,gameType,home,win,numMinutes,points,assists,reboundsTotal,reboundsDefensive,reboundsOffensive,blocks,steals,turnovers,foulsPersonal,plusMinusPoints,fieldGoalsAttempted,fieldGoalsMade,fieldGoalsPercentage,threePointersAttempted,threePointersMade,threePointersPercentage,freeThrowsAttempted,freeThrowsMade,freeThrowsPercentage,homeScore,awayScore,attendance
+77331,1975,27500010,1975-10-25 20:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,0,0,6.0,3,0,2,0,2,0,0,0,1,0,3,1,0.333,0,0,0.0,2,1,0.5,100,91,0
+77331,1975,27503001,1975-10-30 19:00:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,1,1,3.0,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,108,91,0
+77331,1975,27500034,1975-11-01 17:00:00,Cleveland,Cavaliers,New Orleans,Jazz,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,91,103,0
+77331,1975,27500043,1975-11-04 20:05:00,Cleveland,Cavaliers,Washington,Bullets,Regular Season,0,0,7.0,3,0,1,0,1,1,0,0,1,0,3,1,0.333,0,0,0.0,3,1,0.333,113,96,0
+77331,1975,27500063,1975-11-08 19:35:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,0,0,7.0,0,0,4,3,1,0,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,116,112,0
+77331,1975,27500087,1975-11-14 20:00:00,Cleveland,Cavaliers,Seattle,SuperSonics,Regular Season,0,0,6.0,0,1,2,2,0,0,0,0,1,0,3,0,0.0,0,0,0.0,0,0,0.0,100,97,0
+77331,1975,27500093,1975-11-15 20:00:00,Cleveland,Cavaliers,Portland,Trail Blazers,Regular Season,0,1,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,95,99,0
+77331,1975,27503002,1975-11-18 19:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,1,0,6.0,0,0,2,2,0,0,0,0,0,0,3,0,0.0,0,0,0.0,0,0,0.0,91,95,0
+77331,1975,27500119,1975-11-22 20:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,0,1,4.0,0,0,1,1,0,0,0,0,2,0,0,0,0.0,0,0,0.0,0,0,0.0,94,95,0
+77331,1975,27503004,1975-11-23 19:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,1,0,4.0,2,1,1,0,1,0,0,0,0,0,2,1,0.5,0,0,0.0,0,0,0.0,90,105,0
+77331,1975,27503005,1975-11-27 19:00:00,Cleveland,Cavaliers,Kansas City,Kings,Regular Season,1,0,6.0,0,1,2,1,1,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,91,95,0
+77331,1975,27503006,1975-11-29 19:00:00,Cleveland,Cavaliers,Seattle,SuperSonics,Regular Season,1,1,1.0,0,0,1,1,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,124,108,0
+77331,1975,27500169,1975-12-05 20:00:00,Cleveland,Cavaliers,Buffalo,Braves,Regular Season,0,0,12.0,8,1,2,2,0,0,0,0,5,0,6,3,0.5,0,0,0.0,3,2,0.667,125,88,0
+77331,1975,27500200,1975-12-12 20:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,0,1,9.0,6,0,3,1,2,0,0,0,0,0,5,2,0.4,0,0,0.0,2,2,1.0,91,109,0
+77331,1975,27503009,1975-12-13 19:00:00,Cleveland,Cavaliers,New Orleans,Jazz,Regular Season,1,1,3.0,3,0,2,1,1,0,0,0,0,0,2,1,0.5,0,0,0.0,1,1,1.0,112,90,0
+77331,1975,27500219,1975-12-16 20:00:00,Cleveland,Cavaliers,Los Angeles,Lakers,Regular Season,0,1,3.0,4,0,2,1,1,0,0,0,0,0,2,1,0.5,0,0,0.0,3,2,0.667,103,123,0
+77331,1975,27500223,1975-12-17 20:00:00,Cleveland,Cavaliers,Seattle,SuperSonics,Regular Season,0,1,3.0,2,0,1,1,0,0,0,0,0,0,1,0,0.0,0,0,0.0,3,2,0.667,101,115,0
+77331,1975,27500267,1975-12-27 20:05:00,Cleveland,Cavaliers,Washington,Bullets,Regular Season,0,1,1.0,0,0,1,1,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,100,106,0
+77331,1975,27503012,1975-12-28 19:00:00,Cleveland,Cavaliers,Buffalo,Braves,Regular Season,1,1,4.0,0,0,1,1,0,0,0,0,3,0,1,0,0.0,0,0,0.0,0,0,0.0,111,88,0
+77331,1975,27500292,1976-01-02 20:05:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,0,0,8.0,2,0,3,2,1,0,0,0,1,0,2,0,0.0,0,0,0.0,2,2,1.0,112,101,0
+77331,1975,27500299,1976-01-03 20:00:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,1,0,13.0,10,0,5,4,1,2,1,0,1,0,5,3,0.599,0,0,0.0,4,4,1.0,100,104,0
+77331,1975,27503013,1976-01-08 19:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,1,1,9.0,2,0,2,1,1,1,1,0,3,0,2,1,0.5,0,0,0.0,0,0,0.0,115,105,0
+77331,1975,27500329,1976-01-10 20:05:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,0,1,9.0,8,0,2,1,1,0,0,0,1,0,5,4,0.8,0,0,0.0,0,0,0.0,100,106,0
+77331,1975,27503014,1976-01-11 19:00:00,Cleveland,Cavaliers,Washington,Bullets,Regular Season,1,1,3.0,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,106,104,0
+77331,1975,27500347,1976-01-14 20:05:00,Cleveland,Cavaliers,Washington,Bullets,Regular Season,0,0,8.0,2,0,2,0,0,0,0,0,0,0,3,1,0.333,0,0,0.0,0,0,0.0,92,88,0
+77331,1975,27503015,1976-01-15 19:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,1,0,10.0,2,0,2,1,1,0,0,0,0,0,4,1,0.25,0,0,0.0,1,0,0.0,91,98,0
+77331,1975,27500364,1976-01-17 20:00:00,Cleveland,Cavaliers,Phoenix,Suns,Regular Season,1,1,3.0,0,0,1,1,0,0,1,0,0,0,2,0,0.0,0,0,0.0,0,0,0.0,105,85,0
+77331,1975,27503016,1976-01-20 19:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,1,1,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,98,85,0
+77331,1975,27503017,1976-01-22 19:00:00,Cleveland,Cavaliers,Seattle,SuperSonics,Regular Season,1,1,9.0,3,0,1,0,1,0,0,0,1,0,0,0,0.0,0,0,0.0,5,3,0.599,109,99,0
+77331,1975,27503018,1976-01-24 19:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,1,1,17.0,6,0,4,3,1,2,0,0,4,0,7,3,0.428,0,0,0.0,0,0,0.0,132,89,0
+77331,1975,27503019,1976-01-27 19:00:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,1,1,7.0,0,0,1,1,0,1,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,85,83,0
+77331,1975,27500411,1976-01-28 19:35:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,0,0,9.0,8,0,6,4,2,0,1,0,0,0,6,4,0.667,0,0,0.0,0,0,0.0,108,93,0
+77331,1975,27500438,1976-02-06 20:05:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,0,1,10.0,2,2,2,2,0,1,1,0,1,0,3,1,0.333,0,0,0.0,0,0,0.0,87,92,0
+77331,1975,27500475,1976-02-13 20:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,0,1,1.0,2,0,1,0,1,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,96,101,0
+77331,1975,27500478,1976-02-14 20:00:00,Cleveland,Cavaliers,Buffalo,Braves,Regular Season,0,1,3.0,0,0,2,1,1,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,111,114,0
+77331,1975,27503022,1976-02-17 19:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,1,1,13.0,2,0,2,0,0,0,0,0,1,0,1,0,0.0,0,0,0.0,2,2,1.0,112,92,0
+77331,1975,27503023,1976-02-19 19:00:00,Cleveland,Cavaliers,Portland,Trail Blazers,Regular Season,1,1,4.0,4,0,3,1,2,0,0,0,3,0,2,2,1.0,0,0,0.0,0,0,0.0,112,94,0
+77331,1975,27500520,1976-02-23 19:35:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,0,0,9.0,2,0,4,3,1,0,1,0,1,0,1,1,1.0,0,0,0.0,1,0,0.0,117,114,0
+77331,1975,27500544,1976-02-29 19:00:00,Cleveland,Cavaliers,Los Angeles,Lakers,Regular Season,0,0,2.0,2,0,1,0,1,0,0,0,1,0,1,1,1.0,0,0,0.0,0,0,0.0,108,97,0
+77331,1975,27500553,1976-03-03 19:30:00,Cleveland,Cavaliers,Phoenix,Suns,Regular Season,0,0,4.0,2,0,1,0,1,0,0,0,1,0,1,1,1.0,0,0,0.0,0,0,0.0,108,92,0
+77331,1975,27500562,1976-03-05 20:00:00,Cleveland,Cavaliers,Portland,Trail Blazers,Regular Season,0,1,5.0,4,0,0,0,0,0,0,0,2,0,2,2,1.0,0,0,0.0,0,0,0.0,100,113,0
+77331,1975,27500567,1976-03-06 20:00:00,Cleveland,Cavaliers,Golden State,Warriors,Regular Season,0,0,4.0,2,0,2,1,1,0,0,0,0,0,3,1,0.333,0,0,0.0,0,0,0.0,117,106,0
+77331,1975,27503025,1976-03-11 19:00:00,Cleveland,Cavaliers,Golden State,Warriors,Regular Season,1,1,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,110,99,0
+77331,1975,27500598,1976-03-13 20:00:00,Cleveland,Cavaliers,Phoenix,Suns,Regular Season,1,1,8.0,2,2,3,2,1,2,0,0,2,0,3,1,0.333,0,0,0.0,0,0,0.0,99,77,0
+77331,1975,27500621,1976-03-19 19:35:00,Cleveland,Cavaliers,New Orleans,Jazz,Regular Season,0,0,4.0,0,0,1,1,0,1,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,103,81,0
+77331,1975,27503030,1976-03-27 19:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,1,1,15.0,8,2,6,3,3,0,0,0,1,0,6,4,0.667,0,0,0.0,0,0,0.0,103,99,0
+77331,1975,27503031,1976-03-30 19:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,1,1,8.0,0,1,2,1,1,0,0,0,2,0,2,0,0.0,0,0,0.0,0,0,0.0,95,86,0
+77331,1975,27500680,1976-03-31 19:35:00,Cleveland,Cavaliers,New Orleans,Jazz,Regular Season,0,1,1.0,0,0,1,1,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,101,110,0
+77331,1975,27503032,1976-04-01 19:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,1,0,7.0,2,0,1,0,1,0,1,0,0,0,2,1,0.5,0,0,0.0,0,0,0.0,88,95,0
+77331,1975,27500210,1976-04-03 19:00:00,Cleveland,Cavaliers,Kansas City,Kings,Regular Season,0,0,3.0,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0,0,0.0,0,0,0.0,104,101,0
+77331,1975,27503033,1976-04-04 19:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,1,1,7.0,1,2,3,2,1,0,0,0,0,0,1,0,0.0,0,0,0.0,2,1,0.5,120,92,0
+77331,1975,27500707,1976-04-06 19:30:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,0,1,1.0,0,0,1,1,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,92,101,0
+77331,1975,27503034,1976-04-08 19:00:00,Cleveland,Cavaliers,New Orleans,Jazz,Regular Season,1,1,7.0,4,1,1,1,0,0,0,0,2,0,3,2,0.667,0,0,0.0,0,0,0.0,111,97,0
+77331,1975,27500734,1976-04-11 19:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,0,0,20.0,10,2,8,5,3,1,1,0,4,0,9,4,0.444,0,0,0.0,3,2,0.667,103,78,0
+77331,1975,47500223,1976-04-17 19:00:00,Cleveland,Cavaliers,Washington,Bullets,Playoffs,1,1,1.0,0,0,2,0,2,0,0,0,0,0,3,0,0.0,0,0,0.0,0,0,0.0,88,76,0
+77331,1975,47500224,1976-04-21 19:00:00,Cleveland,Cavaliers,Washington,Bullets,Playoffs,0,0,1.0,2,0,0,0,0,0,0,0,1,0,1,1,1.0,0,0,0.0,0,0,0.0,109,98,0
+77331,1975,47500301,1976-05-06 19:00:00,Cleveland,Cavaliers,Boston,Celtics,Playoffs,0,0,7.0,2,0,1,1,0,0,1,0,1,0,3,1,0.333,0,0,0.0,0,0,0.0,111,99,0
+77331,1975,47500302,1976-05-09 19:00:00,Cleveland,Cavaliers,Boston,Celtics,Playoffs,0,0,14.0,2,0,3,3,0,1,0,0,3,0,3,1,0.333,0,0,0.0,0,0,0.0,94,89,0
+77331,1975,47500304,1976-05-14 19:00:00,Cleveland,Cavaliers,Boston,Celtics,Playoffs,1,1,2.0,2,0,3,3,0,1,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,106,87,0
+77331,1975,47500305,1976-05-16 19:00:00,Cleveland,Cavaliers,Boston,Celtics,Playoffs,0,0,9.0,4,1,2,2,0,0,0,0,2,0,2,1,0.5,0,0,0.0,2,2,1.0,99,94,0
+77331,1976,27600038,1976-10-28 19:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,1,1,4.0,4,0,1,0,1,0,0,0,0,0,2,2,1.0,0,0,0.0,0,0,0.0,114,90,0
+77331,1976,27600049,1976-10-30 19:00:00,Cleveland,Cavaliers,Buffalo,Braves,Regular Season,0,1,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,105,109,0
+77331,1976,27600057,1976-10-31 19:00:00,Cleveland,Cavaliers,New Orleans,Jazz,Regular Season,1,1,7.0,4,0,2,0,2,0,0,0,3,0,4,1,0.25,0,0,0.0,2,2,1.0,106,92,0
+77331,1976,27600059,1976-11-01 19:00:00,Cleveland,Cavaliers,New York,Nets,Regular Season,0,1,3.0,2,0,1,0,1,0,2,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,75,82,0
+77331,1976,27603004,1976-11-04 19:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,1,1,5.0,2,0,3,2,1,0,0,0,0,0,1,0,0.0,0,0,0.0,4,2,0.5,96,88,0
+77331,1976,27603005,1976-11-06 19:00:00,Cleveland,Cavaliers,New York,Nets,Regular Season,1,1,8.0,0,0,4,2,2,0,0,0,2,0,3,0,0.0,0,0,0.0,0,0,0.0,101,93,0
+77331,1976,27600088,1976-11-07 19:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,107,97,0
+77331,1976,27603003,1976-11-09 19:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,0,1,19.0,10,2,7,4,3,0,0,0,5,0,5,3,0.599,0,0,0.0,4,4,1.0,90,111,0
+77331,1976,27600101,1976-11-10 19:00:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,0,0,13.0,2,1,4,3,1,0,1,0,2,0,3,1,0.333,0,0,0.0,0,0,0.0,123,112,0
+77331,1976,27600124,1976-11-13 19:00:00,Cleveland,Cavaliers,Phoenix,Suns,Regular Season,0,1,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,90,103,0
+77331,1976,27600127,1976-11-14 19:00:00,Cleveland,Cavaliers,Los Angeles,Lakers,Regular Season,0,1,8.0,0,1,2,2,0,0,0,0,0,0,3,0,0.0,0,0,0.0,0,0,0.0,95,97,0
+77331,1976,27600140,1976-11-17 19:00:00,Cleveland,Cavaliers,Seattle,SuperSonics,Regular Season,0,0,4.0,0,0,2,2,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,92,78,0
+77331,1976,27603001,1976-11-26 19:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,0,1,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,92,108,0
+77331,1976,27603007,1976-11-27 19:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,1,1,8.0,2,0,0,0,0,0,0,0,2,0,1,1,1.0,0,0,0.0,0,0,0.0,111,104,0
+77331,1976,27600238,1976-12-07 19:00:00,Cleveland,Cavaliers,Golden State,Warriors,Regular Season,0,0,6.0,2,0,1,1,0,0,0,0,0,0,2,1,0.5,0,0,0.0,0,0,0.0,120,104,0
+77331,1976,27600252,1976-12-09 19:00:00,Cleveland,Cavaliers,Denver,Nuggets,Regular Season,0,0,6.0,4,1,0,0,0,1,1,0,0,0,2,1,0.5,0,0,0.0,2,2,1.0,104,94,0
+77331,1976,27603009,1976-12-11 19:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,1,0,5.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,94,95,0
+77331,1976,27603010,1976-12-16 19:00:00,Cleveland,Cavaliers,Indiana,Pacers,Regular Season,1,1,5.0,0,2,1,1,0,1,1,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,111,105,0
+77331,1976,27603011,1976-12-19 19:00:00,Cleveland,Cavaliers,San Antonio,Spurs,Regular Season,1,1,4.0,0,0,3,2,1,1,0,0,0,0,5,0,0.0,0,0,0.0,0,0,0.0,106,105,0
+77331,1976,27600329,1976-12-25 19:00:00,Cleveland,Cavaliers,Washington,Bullets,Regular Season,0,0,12.0,8,0,5,3,2,0,0,0,1,0,3,3,1.0,0,0,0.0,2,2,1.0,117,99,0
+77331,1976,27600358,1977-01-01 19:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,0,0,16.0,2,2,5,0,0,0,0,0,1,0,3,1,0.333,0,0,0.0,0,0,0.0,121,110,0
+77331,1976,27603015,1977-01-02 19:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,1,1,3.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,104,80,0
+77331,1976,27603016,1977-01-06 19:00:00,Cleveland,Cavaliers,Golden State,Warriors,Regular Season,1,1,14.0,4,2,6,2,4,0,0,0,2,0,5,2,0.4,0,0,0.0,0,0,0.0,129,100,0
+77331,1976,27600390,1977-01-07 19:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,0,0,8.0,4,0,2,1,1,1,0,0,1,0,4,2,0.5,0,0,0.0,0,0,0.0,116,96,0
+77331,1976,27603017,1977-01-08 19:00:00,Cleveland,Cavaliers,Washington,Bullets,Regular Season,1,1,18.0,8,1,7,5,2,0,0,0,2,0,4,4,1.0,0,0,0.0,0,0,0.0,114,107,0
+77331,1976,27600408,1977-01-11 19:00:00,Cleveland,Cavaliers,Los Angeles,Lakers,Regular Season,1,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,99,101,0
+77331,1976,27600426,1977-01-14 19:00:00,Cleveland,Cavaliers,Denver,Nuggets,Regular Season,0,0,6.0,4,1,2,1,1,0,0,0,1,0,4,2,0.5,0,0,0.0,0,0,0.0,116,96,0
+77331,1976,27600435,1977-01-15 19:00:00,Cleveland,Cavaliers,Phoenix,Suns,Regular Season,0,0,7.0,0,0,2,1,1,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,94,79,0
+77331,1976,27603018,1977-01-20 19:00:00,Cleveland,Cavaliers,Portland,Trail Blazers,Regular Season,1,0,8.0,0,1,1,1,0,1,0,0,2,0,1,0,0.0,0,0,0.0,0,0,0.0,91,99,0
+77331,1976,27603019,1977-01-22 19:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,1,1,9.0,4,1,3,1,2,0,0,0,1,0,3,1,0.333,0,0,0.0,2,2,1.0,130,116,0
+77331,1976,27600491,1977-01-26 19:00:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,0,0,6.0,2,1,1,1,0,0,1,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,106,93,0
+77331,1976,27600518,1977-02-01 19:00:00,Cleveland,Cavaliers,San Antonio,Spurs,Regular Season,0,0,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,92,87,0
+77331,1976,27603021,1977-02-06 19:00:00,Cleveland,Cavaliers,New York,Nets,Regular Season,1,0,5.0,2,0,0,0,0,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,90,94,0
+77331,1976,27603022,1977-02-10 19:00:00,Cleveland,Cavaliers,Indiana,Pacers,Regular Season,1,1,10.0,4,0,4,3,1,0,0,0,1,0,3,2,0.667,0,0,0.0,0,0,0.0,116,101,0
+77331,1976,27600575,1977-02-11 19:00:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,0,0,7.0,4,0,2,0,2,1,0,0,2,0,2,1,0.5,0,0,0.0,2,2,1.0,101,94,0
+77331,1976,27603023,1977-02-15 19:00:00,Cleveland,Cavaliers,Portland,Trail Blazers,Regular Season,1,1,2.0,0,1,2,2,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,117,96,0
+77331,1976,27600591,1977-02-17 19:00:00,Cleveland,Cavaliers,Buffalo,Braves,Regular Season,0,0,6.0,2,0,0,0,0,0,0,0,1,0,3,1,0.333,0,0,0.0,0,0,0.0,112,103,0
+77331,1976,27603024,1977-02-19 19:00:00,Cleveland,Cavaliers,Phoenix,Suns,Regular Season,1,1,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,92,88,0
+77331,1976,27600609,1977-02-20 19:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,0,0,1.0,0,0,1,0,1,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,112,111,0
+77331,1976,27603026,1977-02-26 19:00:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,1,0,1.0,0,0,2,1,1,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,98,104,0
+77331,1976,27600662,1977-03-02 19:00:00,Cleveland,Cavaliers,Seattle,SuperSonics,Regular Season,0,1,2.0,3,0,0,0,0,1,0,0,0,0,2,1,0.5,0,0,0.0,2,1,0.5,85,105,0
+77331,1976,27600683,1977-03-06 19:00:00,Cleveland,Cavaliers,Los Angeles,Lakers,Regular Season,0,0,7.0,0,1,3,0,0,0,0,0,2,0,1,0,0.0,0,0,0.0,0,0,0.0,104,99,0
+77331,1976,27600690,1977-03-08 19:00:00,Cleveland,Cavaliers,Golden State,Warriors,Regular Season,0,0,2.0,0,1,2,1,1,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,112,102,0
+77331,1976,27600699,1977-03-10 19:00:00,Cleveland,Cavaliers,San Antonio,Spurs,Regular Season,0,0,16.0,10,0,5,2,3,2,0,0,4,0,9,5,0.556,0,0,0.0,0,0,0.0,106,100,0
+77331,1976,27600711,1977-03-13 19:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,0,1,13.0,0,0,2,1,1,0,0,0,1,0,2,0,0.0,0,0,0.0,0,0,0.0,113,115,0
+77331,1976,27600721,1977-03-15 19:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,1,0,20.0,8,0,4,1,3,1,1,0,3,0,9,4,0.444,0,0,0.0,0,0,0.0,102,133,0
+77331,1976,27603028,1977-03-17 19:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,1,0,20.0,11,3,7,2,5,1,0,0,4,0,7,5,0.713,0,0,0.0,4,1,0.25,87,88,0
+77331,1976,27600741,1977-03-18 19:00:00,Cleveland,Cavaliers,New York,Nets,Regular Season,0,1,17.0,2,1,4,2,2,0,0,0,3,0,4,1,0.25,0,0,0.0,0,0,0.0,88,101,0
+77331,1976,27603029,1977-03-19 19:00:00,Cleveland,Cavaliers,San Antonio,Spurs,Regular Season,1,1,17.0,4,1,2,2,0,0,0,0,2,0,5,2,0.4,0,0,0.0,0,0,0.0,94,89,0
+77331,1976,27603030,1977-03-20 19:00:00,Cleveland,Cavaliers,Buffalo,Braves,Regular Season,1,1,15.0,2,0,0,0,0,0,0,0,3,0,2,1,0.5,0,0,0.0,0,0,0.0,115,108,0
+77331,1976,27603031,1977-03-22 19:00:00,Cleveland,Cavaliers,Seattle,SuperSonics,Regular Season,1,1,19.0,6,1,6,5,1,0,2,0,0,0,8,3,0.375,0,0,0.0,0,0,0.0,108,104,0
+77331,1976,27600767,1977-03-23 19:00:00,Cleveland,Cavaliers,Washington,Bullets,Regular Season,0,0,17.0,2,1,3,3,0,1,0,0,2,0,4,1,0.25,0,0,0.0,0,0,0.0,95,90,0
+77331,1976,27600771,1977-03-24 19:00:00,Cleveland,Cavaliers,New Orleans,Jazz,Regular Season,1,0,12.0,4,1,3,2,1,0,0,0,1,0,3,1,0.333,0,0,0.0,4,2,0.5,87,92,0
+77331,1976,27603032,1977-03-26 19:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,1,1,8.0,0,0,0,0,0,0,0,0,3,0,2,0,0.0,0,0,0.0,0,0,0.0,99,94,0
+77331,1976,27603027,1977-03-27 19:00:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,0,0,8.0,4,0,4,2,2,1,0,0,0,0,3,1,0.333,0,0,0.0,2,2,1.0,95,90,0
+77331,1976,27600803,1977-03-29 19:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,1,1,23.0,6,2,6,4,2,2,1,0,1,0,7,3,0.428,0,0,0.0,0,0,0.0,110,82,0
+77331,1976,27600815,1977-04-01 19:00:00,Cleveland,Cavaliers,New Orleans,Jazz,Regular Season,0,1,14.0,0,1,4,3,1,0,2,0,1,0,1,0,0.0,0,0,0.0,2,0,0.0,106,115,0
+77331,1976,27600825,1977-04-02 19:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,0,0,10.0,2,0,4,3,1,0,0,0,3,0,1,1,1.0,0,0,0.0,0,0,0.0,106,93,0
+77331,1976,27603034,1977-04-03 19:00:00,Cleveland,Cavaliers,Kansas City,Kings,Regular Season,1,1,19.0,9,0,9,5,4,1,2,0,3,0,5,3,0.599,0,0,0.0,4,3,0.75,113,107,0
+77331,1976,27603035,1977-04-05 19:00:00,Cleveland,Cavaliers,Washington,Bullets,Regular Season,1,0,6.0,0,0,1,0,1,1,0,0,2,0,0,0,0.0,0,0,0.0,0,0,0.0,113,119,0
+77331,1976,27603036,1977-04-07 19:00:00,Cleveland,Cavaliers,Denver,Nuggets,Regular Season,1,1,19.0,6,1,7,5,2,0,0,0,3,0,6,3,0.5,0,0,0.0,0,0,0.0,108,94,0
+77331,1976,27603037,1977-04-09 19:00:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,1,0,5.0,0,0,0,0,0,0,0,0,2,0,1,0,0.0,0,0,0.0,0,0,0.0,96,103,0
+77331,1976,27600868,1977-04-10 19:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,0,0,6.0,0,0,2,1,1,0,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,115,105,0
+77331,1976,47600111,1977-04-13 19:00:00,Cleveland,Cavaliers,Washington,Bullets,Playoffs,0,0,7.0,0,0,1,1,0,0,1,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,109,100,0
+77331,1976,47603001,1977-04-15 19:00:00,Cleveland,Cavaliers,Washington,Bullets,Playoffs,1,1,7.0,2,0,0,0,0,0,0,0,2,0,1,1,1.0,0,0,0.0,0,0,0.0,91,83,0
+77331,1976,47600113,1977-04-17 19:00:00,Cleveland,Cavaliers,Washington,Bullets,Playoffs,0,0,5.0,2,0,2,0,2,0,1,0,1,0,2,1,0.5,0,0,0.0,0,0,0.0,104,98,0
+77331,1977,27700003,1977-10-18 20:00:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,1,0,17.0,4,0,2,2,0,0,1,0,2,0,3,2,0.667,0,0,0.0,0,0,0.0,88,91,0
+77331,1977,27700013,1977-10-20 20:00:00,Cleveland,Cavaliers,New Orleans,Jazz,Regular Season,0,1,9.0,2,0,0,0,0,0,0,0,2,0,4,1,0.25,0,0,0.0,0,0,0.0,104,107,0
+77331,1977,27700026,1977-10-22 20:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,0,0,9.0,6,0,3,1,2,1,0,1,1,0,4,3,0.75,0,0,0.0,0,0,0.0,107,101,0
+77331,1977,27700033,1977-10-25 20:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,0,1,12.0,2,0,4,2,2,0,0,0,2,0,2,1,0.5,0,0,0.0,0,0,0.0,112,117,0
+77331,1977,27700047,1977-10-27 20:00:00,Cleveland,Cavaliers,Kansas City,Kings,Regular Season,1,0,13.0,3,1,4,1,3,1,0,3,3,0,4,1,0.25,0,0,0.0,3,1,0.333,104,119,0
+77331,1977,27700061,1977-10-29 20:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,1,1,12.0,3,1,3,2,1,0,0,0,3,0,4,1,0.25,0,0,0.0,2,1,0.5,103,98,0
+77331,1977,27700069,1977-11-01 20:00:00,Cleveland,Cavaliers,Denver,Nuggets,Regular Season,1,1,19.0,10,1,11,6,5,0,0,2,5,0,8,4,0.5,0,0,0.0,3,2,0.667,110,93,0
+77331,1977,27700072,1977-11-02 20:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,0,1,19.0,15,0,3,0,0,1,0,0,2,0,9,7,0.778,0,0,0.0,2,1,0.5,101,104,0
+77331,1977,27700079,1977-11-03 20:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,1,1,16.0,5,3,2,0,2,0,0,2,3,0,2,2,1.0,0,0,0.0,2,1,0.5,100,91,0
+77331,1977,27700092,1977-11-05 20:00:00,Cleveland,Cavaliers,New Jersey,Nets,Regular Season,1,1,15.0,6,1,3,2,1,1,1,1,3,0,6,3,0.5,0,0,0.0,0,0,0.0,105,93,0
+77331,1977,27700118,1977-11-11 20:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,0,1,14.0,2,1,2,0,0,1,0,0,2,0,3,1,0.333,0,0,0.0,0,0,0.0,82,88,0
+77331,1977,27700138,1977-11-15 20:00:00,Cleveland,Cavaliers,Los Angeles,Lakers,Regular Season,0,1,28.0,4,0,12,9,3,2,1,1,2,0,9,2,0.222,0,0,0.0,0,0,0.0,95,102,0
+77331,1977,27700152,1977-11-18 20:00:00,Cleveland,Cavaliers,Golden State,Warriors,Regular Season,0,0,11.0,4,1,1,1,0,0,1,1,2,0,3,2,0.667,0,0,0.0,0,0,0.0,108,104,0
+77331,1977,27700161,1977-11-19 20:00:00,Cleveland,Cavaliers,Portland,Trail Blazers,Regular Season,0,0,18.0,3,1,7,3,4,1,0,3,3,0,7,1,0.142,0,0,0.0,2,1,0.5,109,67,0
+77331,1977,27700166,1977-11-20 20:00:00,Cleveland,Cavaliers,Seattle,SuperSonics,Regular Season,0,1,16.0,8,1,4,2,2,1,1,0,2,0,7,4,0.57,0,0,0.0,0,0,0.0,108,115,0
+77331,1977,27700184,1977-11-24 20:00:00,Cleveland,Cavaliers,Phoenix,Suns,Regular Season,1,1,11.0,8,1,6,3,3,0,3,1,1,0,6,4,0.667,0,0,0.0,0,0,0.0,97,82,0
+77331,1977,27700194,1977-11-26 20:00:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,0,1,24.0,14,0,10,4,6,1,0,1,0,0,9,7,0.778,0,0,0.0,0,0,0.0,87,105,0
+77331,1977,27700208,1977-11-29 20:00:00,Cleveland,Cavaliers,Los Angeles,Lakers,Regular Season,1,1,18.0,7,2,2,2,0,0,0,0,3,0,4,3,0.75,0,0,0.0,2,1,0.5,118,101,0
+77331,1977,27700220,1977-12-01 20:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,1,0,10.0,4,0,4,1,3,0,0,1,1,0,5,2,0.4,0,0,0.0,0,0,0.0,92,105,0
+77331,1977,27700231,1977-12-03 20:00:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,0,0,14.0,3,0,5,2,3,0,0,0,4,0,6,1,0.167,0,0,0.0,2,1,0.5,111,97,0
+77331,1977,27700237,1977-12-04 20:00:00,Cleveland,Cavaliers,Washington,Bullets,Regular Season,1,0,20.0,7,0,4,0,4,0,0,1,4,0,5,3,0.599,0,0,0.0,1,1,1.0,94,100,0
+77331,1977,27700246,1977-12-06 20:00:00,Cleveland,Cavaliers,Portland,Trail Blazers,Regular Season,1,0,22.0,4,2,10,8,2,0,3,3,3,0,7,1,0.142,0,0,0.0,4,2,0.5,94,116,0
+77331,1977,27700249,1977-12-07 20:00:00,Cleveland,Cavaliers,Washington,Bullets,Regular Season,0,0,17.0,4,1,5,5,0,1,1,1,3,0,4,2,0.5,0,0,0.0,0,0,0.0,96,95,0
+77331,1977,27700266,1977-12-10 20:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,1,1,13.0,0,0,2,1,1,2,0,0,5,0,5,0,0.0,0,0,0.0,2,0,0.0,102,87,0
+77331,1977,27700279,1977-12-13 20:00:00,Cleveland,Cavaliers,Seattle,SuperSonics,Regular Season,1,1,13.0,2,0,1,1,0,0,0,2,1,0,2,1,0.5,0,0,0.0,0,0,0.0,116,104,0
+77331,1977,27700293,1977-12-16 20:00:00,Cleveland,Cavaliers,New Jersey,Nets,Regular Season,0,0,10.0,2,0,3,3,0,1,1,0,1,0,2,1,0.5,0,0,0.0,0,0,0.0,116,106,0
+77331,1977,27700304,1977-12-17 20:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,0,0,9.0,0,0,1,0,1,0,0,0,2,0,1,0,0.0,0,0,0.0,0,0,0.0,129,116,0
+77331,1977,27700313,1977-12-18 20:00:00,Cleveland,Cavaliers,Golden State,Warriors,Regular Season,1,1,17.0,4,0,7,5,2,1,0,1,1,0,4,2,0.5,0,0,0.0,0,0,0.0,101,95,0
+77331,1977,27700329,1977-12-22 20:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,1,1,11.0,4,0,3,2,1,0,0,1,1,0,3,2,0.667,0,0,0.0,0,0,0.0,112,100,0
+77331,1977,27700339,1977-12-25 20:00:00,Cleveland,Cavaliers,Buffalo,Braves,Regular Season,1,1,6.0,0,0,1,0,0,0,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,111,105,0
+77331,1977,27700360,1977-12-29 20:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,0,0,4.0,0,0,4,4,0,0,0,0,2,0,2,0,0.0,0,0,0.0,0,0,0.0,104,99,0
+77331,1977,27700373,1977-12-30 20:00:00,Cleveland,Cavaliers,San Antonio,Spurs,Regular Season,0,0,21.0,4,1,5,5,0,0,0,1,2,0,4,2,0.5,0,0,0.0,0,0,0.0,122,101,0
+77331,1977,27700376,1978-01-01 20:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,0,0,8.0,2,1,2,2,0,0,0,0,2,0,4,1,0.25,0,0,0.0,0,0,0.0,96,87,0
+77331,1977,27700386,1978-01-04 20:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,0,0,14.0,4,0,5,0,0,0,0,0,1,0,6,1,0.167,0,0,0.0,2,2,1.0,108,93,0
+77331,1977,27700392,1978-01-05 20:00:00,Cleveland,Cavaliers,New Jersey,Nets,Regular Season,1,1,16.0,2,0,4,3,1,0,0,1,0,0,2,1,0.5,0,0,0.0,0,0,0.0,110,94,0
+77331,1977,27700401,1978-01-07 20:00:00,Cleveland,Cavaliers,San Antonio,Spurs,Regular Season,1,0,10.0,6,2,2,0,2,1,2,0,1,0,5,3,0.599,0,0,0.0,0,0,0.0,107,109,0
+77331,1977,27700446,1978-01-15 20:00:00,Cleveland,Cavaliers,Phoenix,Suns,Regular Season,0,0,16.0,0,1,3,3,0,0,0,1,4,0,0,0,0.0,0,0,0.0,0,0,0.0,113,104,0
+77331,1977,27700452,1978-01-17 20:00:00,Cleveland,Cavaliers,Denver,Nuggets,Regular Season,0,0,15.0,0,1,4,4,0,0,1,2,4,0,1,0,0.0,0,0,0.0,0,0,0.0,104,89,0
+77331,1977,27700466,1978-01-19 20:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,1,1,10.0,2,0,3,1,2,0,1,1,3,0,6,1,0.167,0,0,0.0,0,0,0.0,117,109,0
+77331,1977,27700488,1978-01-24 20:00:00,Cleveland,Cavaliers,Indiana,Pacers,Regular Season,0,1,8.0,8,0,4,2,2,0,0,0,0,0,5,4,0.8,0,0,0.0,0,0,0.0,92,96,0
+77331,1977,27700508,1978-01-28 20:00:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,1,0,6.0,4,0,1,0,1,0,0,0,1,0,3,2,0.667,0,0,0.0,0,0,0.0,105,115,0
+77331,1977,27700513,1978-01-29 20:00:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,0,0,14.0,4,0,4,1,3,0,0,0,3,0,7,2,0.285,0,0,0.0,0,0,0.0,120,116,0
+77331,1977,27700523,1978-01-31 20:00:00,Cleveland,Cavaliers,Los Angeles,Lakers,Regular Season,1,0,2.0,2,0,0,0,0,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,107,116,0
+77331,1977,27700533,1978-02-02 20:00:00,Cleveland,Cavaliers,Washington,Bullets,Regular Season,1,1,11.0,10,1,4,2,2,0,1,3,2,0,7,5,0.713,0,0,0.0,0,0,0.0,110,93,0
+77331,1977,27700543,1978-02-03 20:00:00,Cleveland,Cavaliers,Buffalo,Braves,Regular Season,0,1,14.0,0,0,3,3,0,2,0,0,4,0,2,0,0.0,0,0,0.0,0,0,0.0,101,104,0
+77331,1977,27700550,1978-02-07 20:00:00,Cleveland,Cavaliers,New Orleans,Jazz,Regular Season,1,1,18.0,4,0,11,7,4,0,1,0,0,0,7,2,0.285,0,0,0.0,0,0,0.0,122,99,0
+77331,1977,27700562,1978-02-09 20:00:00,Cleveland,Cavaliers,Portland,Trail Blazers,Regular Season,1,0,7.0,0,0,1,0,1,0,0,1,1,0,2,0,0.0,0,0,0.0,0,0,0.0,88,94,0
+77331,1977,27700565,1978-02-10 20:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,0,0,10.0,2,1,3,3,0,2,0,2,4,0,1,1,1.0,0,0,0.0,0,0,0.0,108,98,0
+77331,1977,27700579,1978-02-12 20:00:00,Cleveland,Cavaliers,Kansas City,Kings,Regular Season,0,0,16.0,16,0,6,3,3,0,0,2,3,0,10,7,0.699,0,0,0.0,2,2,1.0,101,88,0
+77331,1977,27700592,1978-02-14 20:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,1,1,7.0,4,1,3,1,2,0,0,0,0,0,4,2,0.5,0,0,0.0,0,0,0.0,136,127,0
+77331,1977,27700601,1978-02-16 20:00:00,Cleveland,Cavaliers,Denver,Nuggets,Regular Season,1,1,20.0,5,0,3,2,1,3,0,0,3,0,5,2,0.4,0,0,0.0,1,1,1.0,119,87,0
+77331,1977,27700613,1978-02-17 20:00:00,Cleveland,Cavaliers,New Jersey,Nets,Regular Season,0,1,10.0,6,0,7,3,4,0,0,2,3,0,7,3,0.428,0,0,0.0,0,0,0.0,96,99,0
+77331,1977,27700618,1978-02-18 20:00:00,Cleveland,Cavaliers,Kansas City,Kings,Regular Season,1,1,13.0,0,1,6,6,0,3,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,105,101,0
+77331,1977,27700626,1978-02-20 20:00:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,0,0,24.0,6,2,6,1,5,3,0,1,4,0,8,3,0.375,0,0,0.0,0,0,0.0,106,95,0
+77331,1977,27700632,1978-02-21 20:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,1,0,19.0,9,0,5,2,3,2,1,0,2,0,7,4,0.57,0,0,0.0,2,1,0.5,114,127,0
+77331,1977,27700648,1978-02-24 20:00:00,Cleveland,Cavaliers,New Orleans,Jazz,Regular Season,0,0,13.0,7,1,2,2,0,3,1,1,2,0,5,3,0.599,0,0,0.0,1,1,1.0,101,98,0
+77331,1977,27700649,1978-02-25 20:00:00,Cleveland,Cavaliers,San Antonio,Spurs,Regular Season,0,0,23.0,4,0,6,4,2,0,0,2,2,0,6,2,0.333,0,0,0.0,0,0,0.0,112,108,0
+77331,1977,27700661,1978-02-27 20:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,0,1,11.0,4,1,4,2,2,1,0,0,0,0,5,2,0.4,0,0,0.0,0,0,0.0,97,110,0
+77331,1977,27700673,1978-03-01 20:00:00,Cleveland,Cavaliers,Denver,Nuggets,Regular Season,0,1,24.0,9,3,15,8,7,0,1,0,3,0,9,3,0.333,0,0,0.0,5,3,0.599,104,110,0
+77331,1977,27700689,1978-03-04 20:00:00,Cleveland,Cavaliers,Portland,Trail Blazers,Regular Season,0,0,20.0,2,0,3,3,0,1,0,1,4,0,4,1,0.25,0,0,0.0,0,0,0.0,105,100,0
+77331,1977,27700695,1978-03-05 20:00:00,Cleveland,Cavaliers,Los Angeles,Lakers,Regular Season,0,0,12.0,0,0,1,1,0,0,0,0,3,0,3,0,0.0,0,0,0.0,0,0,0.0,128,117,0
+77331,1977,27700711,1978-03-08 20:00:00,Cleveland,Cavaliers,Golden State,Warriors,Regular Season,0,0,5.0,2,1,2,2,0,0,0,0,1,0,0,0,0.0,0,0,0.0,2,2,1.0,118,108,0
+77331,1977,27700716,1978-03-10 20:00:00,Cleveland,Cavaliers,Buffalo,Braves,Regular Season,0,0,9.0,0,1,3,3,0,0,0,0,1,0,2,0,0.0,0,0,0.0,0,0,0.0,118,117,0
+77331,1977,27700728,1978-03-12 20:00:00,Cleveland,Cavaliers,Indiana,Pacers,Regular Season,0,1,4.0,0,0,2,2,0,1,0,2,3,0,1,0,0.0,0,0,0.0,0,0,0.0,90,95,0
+77331,1977,27700776,1978-03-20 20:00:00,Cleveland,Cavaliers,Indiana,Pacers,Regular Season,1,0,2.0,0,0,0,0,0,1,0,0,1,0,2,0,0.0,0,0,0.0,0,0,0.0,104,127,0
+77331,1977,27700791,1978-03-22 20:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,0,0,22.0,10,0,9,6,3,0,0,1,4,0,5,5,1.0,0,0,0.0,0,0,0.0,105,99,0
+77331,1977,27700811,1978-03-26 20:00:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,1,1,30.0,9,2,13,10,3,0,0,1,4,0,7,4,0.57,0,0,0.0,2,1,0.5,95,78,0
+77331,1977,27700816,1978-03-27 20:00:00,Cleveland,Cavaliers,Golden State,Warriors,Regular Season,1,1,19.0,2,0,2,2,0,2,0,1,2,0,4,1,0.25,0,0,0.0,0,0,0.0,98,88,0
+77331,1977,27700818,1978-03-28 20:00:00,Cleveland,Cavaliers,Seattle,SuperSonics,Regular Season,1,1,19.0,6,0,8,4,4,2,1,2,5,0,7,3,0.428,0,0,0.0,2,0,0.0,112,100,0
+77331,1977,27700832,1978-03-30 20:00:00,Cleveland,Cavaliers,San Antonio,Spurs,Regular Season,1,0,12.0,2,0,2,1,1,1,0,1,1,0,2,1,0.5,0,0,0.0,2,0,0.0,95,99,0
+77331,1977,27700836,1978-03-31 20:00:00,Cleveland,Cavaliers,Washington,Bullets,Regular Season,0,1,19.0,0,0,7,3,4,1,0,0,3,0,4,0,0.0,0,0,0.0,0,0,0.0,101,102,0
+77331,1977,27700846,1978-04-01 20:00:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,1,1,21.0,4,0,6,3,3,2,2,2,5,0,9,2,0.222,0,0,0.0,0,0,0.0,113,99,0
+77331,1977,27700865,1978-04-04 20:00:00,Cleveland,Cavaliers,Buffalo,Braves,Regular Season,1,1,3.0,0,0,1,0,1,0,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,116,105,0
+77331,1977,27700878,1978-04-06 20:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,1,1,12.0,2,0,3,3,0,1,0,0,0,0,3,1,0.333,0,0,0.0,0,0,0.0,117,105,0
+77331,1977,27700883,1978-04-07 20:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,0,1,15.0,4,0,1,1,0,0,1,2,5,0,4,2,0.5,0,0,0.0,0,0,0.0,109,111,0
+77331,1977,27700901,1978-04-09 20:00:00,Cleveland,Cavaliers,Kansas City,Kings,Regular Season,0,1,24.0,4,0,10,6,4,3,0,2,1,0,7,1,0.142,0,0,0.0,2,2,1.0,117,120,0
+77331,1977,47700002,1978-04-12 20:00:00,Cleveland,Cavaliers,New York,Knicks,Playoffs,1,0,9.0,0,0,2,0,0,0,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,114,132,0
+77331,1977,47700007,1978-04-14 20:00:00,Cleveland,Cavaliers,New York,Knicks,Playoffs,0,0,10.0,3,0,6,0,0,0,0,0,2,0,2,1,0.5,0,0,0.0,2,1,0.5,109,107,0
+77331,1978,27800002,1978-10-13 20:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,0,1,25.0,4,1,9,6,3,0,0,2,3,0,6,2,0.333,0,0,0.0,0,0,0.0,101,115,0
+77331,1978,27800024,1978-10-17 20:00:00,Cleveland,Cavaliers,Los Angeles,Lakers,Regular Season,1,1,15.0,7,2,1,0,0,2,0,0,5,0,4,3,0.75,0,0,0.0,3,1,0.333,113,111,0
+77331,1978,27800044,1978-10-21 20:00:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,1,1,12.0,4,0,4,3,1,0,1,2,5,0,4,2,0.5,0,0,0.0,0,0,0.0,113,104,0
+77331,1978,27800057,1978-10-24 20:00:00,Cleveland,Cavaliers,New Orleans,Jazz,Regular Season,1,1,16.0,4,1,8,5,3,0,0,1,3,0,5,2,0.4,0,0,0.0,0,0,0.0,122,104,0
+77331,1978,27800064,1978-10-25 20:00:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,0,0,32.0,3,1,9,4,5,2,0,2,3,0,6,1,0.167,0,0,0.0,2,1,0.5,110,105,0
+77331,1978,27800071,1978-10-27 20:00:00,Cleveland,Cavaliers,New Jersey,Nets,Regular Season,0,0,19.0,5,1,3,1,2,0,0,1,4,0,4,2,0.5,0,0,0.0,2,1,0.5,123,108,0
+77331,1978,27800085,1978-10-29 20:00:00,Cleveland,Cavaliers,Golden State,Warriors,Regular Season,1,0,22.0,3,0,9,5,4,1,0,0,2,0,6,1,0.167,0,0,0.0,2,1,0.5,94,99,0
+77331,1978,27800090,1978-10-31 20:00:00,Cleveland,Cavaliers,Indiana,Pacers,Regular Season,1,0,21.0,4,2,6,4,2,0,0,1,4,0,6,2,0.333,0,0,0.0,0,0,0.0,114,119,0
+77331,1978,27800097,1978-11-01 20:00:00,Cleveland,Cavaliers,Kansas City,Kings,Regular Season,0,0,30.0,12,1,6,2,4,0,1,2,3,0,10,6,0.599,0,0,0.0,0,0,0.0,122,107,0
+77331,1978,27800110,1978-11-03 20:00:00,Cleveland,Cavaliers,Denver,Nuggets,Regular Season,0,0,18.0,10,0,9,4,5,0,1,2,3,0,10,4,0.4,0,0,0.0,2,2,1.0,110,93,0
+77331,1978,27800121,1978-11-04 20:00:00,Cleveland,Cavaliers,San Diego,Clippers,Regular Season,0,1,20.0,7,2,5,2,3,0,1,3,3,0,7,2,0.285,0,0,0.0,6,3,0.5,106,112,0
+77331,1978,27800123,1978-11-05 20:00:00,Cleveland,Cavaliers,Los Angeles,Lakers,Regular Season,0,0,13.0,12,0,6,2,4,1,0,1,5,0,10,6,0.599,0,0,0.0,0,0,0.0,117,107,0
+77331,1978,27800129,1978-11-08 20:00:00,Cleveland,Cavaliers,Phoenix,Suns,Regular Season,0,0,29.0,4,1,8,5,3,1,1,2,3,0,7,0,0.0,0,0,0.0,4,4,1.0,118,96,0
+77331,1978,27800143,1978-11-10 20:00:00,Cleveland,Cavaliers,Seattle,SuperSonics,Regular Season,0,0,15.0,8,1,4,3,1,0,0,2,3,0,6,4,0.667,0,0,0.0,0,0,0.0,109,95,0
+77331,1978,27800158,1978-11-12 20:00:00,Cleveland,Cavaliers,Portland,Trail Blazers,Regular Season,0,0,17.0,2,0,1,1,0,1,0,0,4,0,5,1,0.2,0,0,0.0,0,0,0.0,98,91,0
+77331,1978,27800163,1978-11-14 20:00:00,Cleveland,Cavaliers,Washington,Bullets,Regular Season,1,0,21.0,8,3,6,4,2,1,0,1,2,0,11,4,0.363,0,0,0.0,0,0,0.0,106,122,0
+77331,1978,27800173,1978-11-16 20:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,1,0,11.0,2,0,0,0,0,0,0,0,2,0,2,1,0.5,0,0,0.0,0,0,0.0,93,97,0
+77331,1978,27800182,1978-11-18 20:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,1,0,13.0,6,0,0,0,0,1,0,1,3,0,4,2,0.5,0,0,0.0,2,2,1.0,90,92,0
+77331,1978,27800193,1978-11-21 20:00:00,Cleveland,Cavaliers,Phoenix,Suns,Regular Season,1,0,6.0,4,0,2,2,0,0,0,0,1,0,2,1,0.5,0,0,0.0,2,2,1.0,108,110,0
+77331,1978,27800209,1978-11-24 20:00:00,Cleveland,Cavaliers,Indiana,Pacers,Regular Season,0,1,9.0,2,0,3,2,1,0,0,2,4,0,5,1,0.2,0,0,0.0,0,0,0.0,98,104,0
+77331,1978,27800231,1978-11-28 20:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,1,1,17.0,4,0,3,2,1,2,0,0,5,0,5,2,0.4,0,0,0.0,0,0,0.0,112,98,0
+77331,1978,27800244,1978-11-30 20:00:00,Cleveland,Cavaliers,Portland,Trail Blazers,Regular Season,1,0,21.0,2,0,6,5,1,1,1,2,1,0,4,1,0.25,0,0,0.0,0,0,0.0,97,98,0
+77331,1978,27800252,1978-12-02 20:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,1,0,15.0,10,1,3,2,1,2,0,1,3,0,5,5,1.0,0,0,0.0,0,0,0.0,100,106,0
+77331,1978,27800266,1978-12-05 20:00:00,Cleveland,Cavaliers,Washington,Bullets,Regular Season,0,0,29.0,4,0,6,0,0,2,0,0,5,0,8,2,0.25,0,0,0.0,0,0,0.0,117,102,0
+77331,1978,27800276,1978-12-07 20:00:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,0,0,18.0,3,0,5,2,3,0,0,1,3,0,7,1,0.142,0,0,0.0,2,1,0.5,121,105,0
+77331,1978,27800289,1978-12-09 20:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,1,1,10.0,6,1,4,2,2,0,0,1,2,0,4,3,0.75,0,0,0.0,0,0,0.0,115,107,0
+77331,1978,27800299,1978-12-12 20:00:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,1,1,5.0,0,1,2,1,1,0,0,0,4,0,2,0,0.0,0,0,0.0,0,0,0.0,127,110,0
+77331,1978,27800313,1978-12-15 20:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,0,1,7.0,2,0,2,2,0,0,0,1,3,0,2,1,0.5,0,0,0.0,0,0,0.0,106,110,0
+77331,1978,27800323,1978-12-16 20:00:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,0,0,5.0,2,0,0,0,0,0,0,0,1,0,2,1,0.5,0,0,0.0,0,0,0.0,108,100,0
+77331,1978,27800331,1978-12-17 20:00:00,Cleveland,Cavaliers,Seattle,SuperSonics,Regular Season,1,1,3.0,0,0,1,1,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,101,91,0
+77331,1978,27800354,1978-12-23 20:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,0,0,3.0,2,0,0,0,0,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,109,91,0
+77331,1978,27800414,1979-01-04 20:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,1,1,9.0,8,0,2,1,1,0,0,1,1,0,5,4,0.8,0,0,0.0,0,0,0.0,117,103,0
+77331,1978,27800431,1979-01-06 20:00:00,Cleveland,Cavaliers,New Orleans,Jazz,Regular Season,0,1,2.0,2,0,2,1,1,0,0,1,0,0,1,1,1.0,0,0,0.0,0,0,0.0,94,105,0
+77331,1978,27800433,1979-01-07 20:00:00,Cleveland,Cavaliers,Golden State,Warriors,Regular Season,1,1,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,112,108,0
+77331,1978,27800461,1979-01-13 20:00:00,Cleveland,Cavaliers,San Antonio,Spurs,Regular Season,0,0,19.0,2,1,3,3,0,0,0,2,2,0,3,1,0.333,0,0,0.0,0,0,0.0,117,103,0
+77331,1978,27803003,1979-01-16 19:00:00,Cleveland,Cavaliers,Kansas City,Kings,Regular Season,1,0,15.0,2,0,6,5,1,1,0,1,1,0,2,1,0.5,0,0,0.0,0,0,0.0,79,86,0
+77331,1978,27800480,1979-01-17 20:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,0,0,14.0,14,0,4,1,3,0,1,0,0,0,11,7,0.636,0,0,0.0,1,0,0.0,107,94,0
+77331,1978,27800489,1979-01-19 20:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,0,0,18.0,6,0,6,0,0,1,0,0,1,0,9,3,0.333,0,0,0.0,0,0,0.0,105,101,0
+77331,1978,27800502,1979-01-21 20:00:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,1,1,10.0,4,1,3,1,2,0,0,2,0,0,4,2,0.5,0,0,0.0,0,0,0.0,94,93,0
+77331,1978,27800508,1979-01-23 20:00:00,Cleveland,Cavaliers,Denver,Nuggets,Regular Season,1,1,17.0,8,0,5,2,3,0,0,1,3,0,6,3,0.5,0,0,0.0,2,2,1.0,108,107,0
+77331,1978,27800514,1979-01-24 20:00:00,Cleveland,Cavaliers,New Jersey,Nets,Regular Season,0,1,14.0,4,1,1,1,0,0,1,1,3,0,3,2,0.667,0,0,0.0,0,0,0.0,114,123,0
+77331,1978,27800532,1979-01-27 20:00:00,Cleveland,Cavaliers,San Diego,Clippers,Regular Season,1,0,3.0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,2,1,0.5,110,111,0
+77331,1978,27800541,1979-01-28 20:00:00,Cleveland,Cavaliers,Kansas City,Kings,Regular Season,0,0,21.0,14,2,6,3,3,0,0,3,2,0,11,7,0.636,0,0,0.0,3,0,0.0,137,109,0
+77331,1978,27800556,1979-02-01 20:00:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,1,0,6.0,4,1,3,2,1,0,0,0,0,0,2,2,1.0,0,0,0.0,0,0,0.0,116,120,0
+77331,1978,27800564,1979-02-02 20:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,0,0,19.0,10,2,9,6,3,0,0,0,3,0,6,4,0.667,0,0,0.0,2,2,1.0,112,98,0
+77331,1978,27800574,1979-02-06 20:00:00,Cleveland,Cavaliers,New Jersey,Nets,Regular Season,1,1,27.0,11,1,22,17,5,1,2,3,3,0,7,4,0.57,0,0,0.0,3,3,1.0,119,100,0
+77331,1978,27800578,1979-02-07 20:00:00,Cleveland,Cavaliers,Denver,Nuggets,Regular Season,0,0,19.0,9,1,2,1,1,3,0,1,4,0,7,4,0.57,0,0,0.0,2,1,0.5,120,105,0
+77331,1978,27800594,1979-02-09 20:00:00,Cleveland,Cavaliers,Los Angeles,Lakers,Regular Season,0,0,11.0,0,1,3,2,1,0,0,0,4,0,0,0,0.0,0,0,0.0,0,0,0.0,106,103,0
+77331,1978,27800599,1979-02-11 20:00:00,Cleveland,Cavaliers,Phoenix,Suns,Regular Season,0,0,20.0,6,1,10,6,4,0,0,2,3,0,8,3,0.375,0,0,0.0,0,0,0.0,136,101,0
+77331,1978,27800608,1979-02-13 20:00:00,Cleveland,Cavaliers,Los Angeles,Lakers,Regular Season,1,1,7.0,2,0,2,0,2,1,0,0,1,0,3,1,0.333,0,0,0.0,0,0,0.0,117,111,0
+77331,1978,27800623,1979-02-15 20:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,1,1,14.0,6,0,5,2,3,0,0,0,3,0,4,3,0.75,0,0,0.0,0,0,0.0,113,100,0
+77331,1978,27800634,1979-02-17 20:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,0,1,12.0,0,1,3,3,0,0,2,2,4,0,1,0,0.0,0,0,0.0,0,0,0.0,117,127,0
+77331,1978,27800646,1979-02-20 20:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,1,0,14.0,2,0,1,0,1,0,0,1,2,0,1,1,1.0,0,0,0.0,0,0,0.0,109,119,0
+77331,1978,27800658,1979-02-22 20:00:00,Cleveland,Cavaliers,Kansas City,Kings,Regular Season,1,1,2.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,111,107,0
+77331,1978,27803004,1979-02-24 19:00:00,Cleveland,Cavaliers,New Orleans,Jazz,Regular Season,1,0,6.0,0,0,0,0,0,0,0,0,2,0,1,0,0.0,0,0,0.0,0,0,0.0,96,105,0
+77331,1978,27800673,1979-02-25 20:00:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,0,1,22.0,8,1,8,5,3,2,1,1,4,0,8,4,0.5,0,0,0.0,0,0,0.0,108,117,0
+77331,1978,27800692,1979-02-28 20:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,0,0,23.0,16,0,5,1,4,0,0,0,3,0,13,8,0.614,0,0,0.0,0,0,0.0,139,117,0
+77331,1978,27800699,1979-03-02 20:00:00,Cleveland,Cavaliers,Seattle,SuperSonics,Regular Season,0,1,15.0,2,1,2,2,0,0,2,1,2,0,5,1,0.2,0,0,0.0,0,0,0.0,109,111,0
+77331,1978,27800711,1979-03-04 20:00:00,Cleveland,Cavaliers,Portland,Trail Blazers,Regular Season,0,0,13.0,0,1,5,5,0,0,1,1,2,0,1,0,0.0,0,0,0.0,0,0,0.0,106,102,0
+77331,1978,27800725,1979-03-07 20:00:00,Cleveland,Cavaliers,Golden State,Warriors,Regular Season,0,1,21.0,4,1,12,6,6,1,2,0,4,0,5,2,0.4,0,0,0.0,0,0,0.0,101,103,0
+77331,1978,27800735,1979-03-10 20:00:00,Cleveland,Cavaliers,San Diego,Clippers,Regular Season,0,0,17.0,5,1,3,2,1,0,1,1,2,0,4,1,0.25,0,0,0.0,5,3,0.599,121,115,0
+77331,1978,27800749,1979-03-13 20:00:00,Cleveland,Cavaliers,Phoenix,Suns,Regular Season,1,0,9.0,4,0,2,1,1,0,0,0,2,0,1,1,1.0,0,0,0.0,2,2,1.0,120,124,0
+77331,1978,27800759,1979-03-15 20:00:00,Cleveland,Cavaliers,Seattle,SuperSonics,Regular Season,1,0,8.0,0,0,2,2,0,1,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,98,104,0
+77331,1978,27800839,1979-03-29 20:00:00,Cleveland,Cavaliers,Portland,Trail Blazers,Regular Season,1,0,6.0,2,0,2,2,0,0,0,1,1,0,4,1,0.25,0,0,0.0,0,0,0.0,103,120,0
+77331,1978,27800849,1979-03-30 20:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,0,0,16.0,5,0,4,2,2,1,0,1,0,0,9,2,0.222,0,0,0.0,3,1,0.333,129,93,0
+77331,1978,27800857,1979-04-01 20:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,1,1,5.0,4,0,1,0,1,0,0,0,0,0,2,1,0.5,0,0,0.0,3,2,0.667,114,105,0
+77331,1978,27800869,1979-04-03 20:00:00,Cleveland,Cavaliers,San Antonio,Spurs,Regular Season,1,0,17.0,4,0,6,4,2,0,0,0,2,0,4,2,0.5,0,0,0.0,0,0,0.0,112,116,0
+77331,1978,27800873,1979-04-04 20:00:00,Cleveland,Cavaliers,Indiana,Pacers,Regular Season,0,0,18.0,4,0,4,4,0,0,0,2,5,0,6,2,0.333,0,0,0.0,0,0,0.0,102,95,0
+77331,1978,27800886,1979-04-06 20:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,0,0,16.0,4,1,1,1,0,0,0,1,2,0,4,2,0.5,0,0,0.0,0,0,0.0,112,110,0
+77331,1978,27800894,1979-04-08 20:00:00,Cleveland,Cavaliers,San Antonio,Spurs,Regular Season,0,0,27.0,6,5,4,3,1,0,2,1,0,0,6,3,0.5,0,0,0.0,0,0,0.0,117,101,0
+77331,1979,27900002,1979-10-12 20:00:00,Cleveland,Cavaliers,New Jersey,Nets,Regular Season,0,0,26.0,3,1,10,4,6,0,3,2,5,0,8,1,0.125,0,0,0.0,2,1,0.5,102,95,0
+77331,1979,27900015,1979-10-13 20:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,1,0,33.0,11,1,8,5,3,2,0,2,5,0,6,2,0.333,0,0,0.0,8,7,0.875,117,139,0
+77331,1979,27900025,1979-10-16 20:00:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,1,1,28.0,7,2,11,7,4,2,0,2,4,0,6,3,0.5,0,0,0.0,2,1,0.5,137,117,0
+77331,1979,27900032,1979-10-17 20:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,0,0,28.0,0,1,7,6,1,0,1,1,4,0,3,0,0.0,0,0,0.0,0,0,0.0,127,108,0
+77331,1979,27900037,1979-10-18 20:00:00,Cleveland,Cavaliers,San Antonio,Spurs,Regular Season,1,1,30.0,13,0,9,7,2,2,2,1,4,0,8,5,0.625,0,0,0.0,5,3,0.599,141,134,0
+77331,1979,27900051,1979-10-20 20:00:00,Cleveland,Cavaliers,San Antonio,Spurs,Regular Season,0,0,22.0,12,2,8,4,4,0,1,0,6,0,8,6,0.75,0,0,0.0,0,0,0.0,129,127,0
+77331,1979,27900062,1979-10-23 20:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,1,0,22.0,2,0,7,5,2,1,2,1,2,0,3,1,0.333,0,0,0.0,2,0,0.0,111,121,0
+77331,1979,27900068,1979-10-24 20:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,0,0,25.0,6,3,14,7,7,1,1,3,4,0,10,3,0.299,0,0,0.0,0,0,0.0,128,118,0
+77331,1979,27900091,1979-10-27 20:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,1,0,18.0,0,0,2,2,0,0,0,0,5,0,2,0,0.0,0,0,0.0,0,0,0.0,106,112,0
+77331,1979,27900100,1979-10-30 20:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,1,1,28.0,10,1,7,5,2,4,1,2,6,0,9,5,0.556,0,0,0.0,0,0,0.0,124,112,0
+77331,1979,27900106,1979-10-31 20:00:00,Cleveland,Cavaliers,Washington,Bullets,Regular Season,0,0,25.0,4,3,9,9,0,1,1,0,1,0,4,2,0.5,0,0,0.0,0,0,0.0,114,105,0
+77331,1979,27900110,1979-11-01 20:00:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,0,1,24.0,7,2,3,1,2,2,1,1,4,0,8,3,0.375,0,0,0.0,2,1,0.5,125,127,0
+77331,1979,27903001,1979-11-03 19:00:00,Cleveland,Cavaliers,Kansas City,Kings,Regular Season,1,1,19.0,4,0,5,3,2,3,1,3,4,0,3,2,0.667,0,0,0.0,0,0,0.0,123,110,0
+77331,1979,27900131,1979-11-06 20:00:00,Cleveland,Cavaliers,Indiana,Pacers,Regular Season,1,1,23.0,6,0,7,3,4,3,0,0,3,0,9,3,0.333,0,0,0.0,0,0,0.0,134,117,0
+77331,1979,27900152,1979-11-09 20:00:00,Cleveland,Cavaliers,Phoenix,Suns,Regular Season,0,0,28.0,6,1,5,3,2,1,6,2,4,0,5,2,0.4,0,0,0.0,4,2,0.5,110,106,0
+77331,1979,27900161,1979-11-11 20:00:00,Cleveland,Cavaliers,Los Angeles,Lakers,Regular Season,0,0,23.0,4,1,6,3,3,0,0,2,5,0,6,1,0.167,0,0,0.0,2,2,1.0,140,126,0
+77331,1979,27900171,1979-11-13 20:00:00,Cleveland,Cavaliers,Denver,Nuggets,Regular Season,0,0,17.0,2,2,7,6,1,0,0,0,5,0,3,1,0.333,0,0,0.0,0,0,0.0,116,110,0
+77331,1979,27900190,1979-11-16 20:00:00,Cleveland,Cavaliers,Seattle,SuperSonics,Regular Season,0,0,24.0,8,2,10,4,6,0,0,0,2,0,14,4,0.285,0,0,0.0,0,0,0.0,108,100,0
+77331,1979,27900192,1979-11-17 20:00:00,Cleveland,Cavaliers,Portland,Trail Blazers,Regular Season,0,0,16.0,10,1,7,5,2,0,0,1,2,0,8,3,0.375,0,0,0.0,4,4,1.0,103,96,0
+77331,1979,27900210,1979-11-20 20:00:00,Cleveland,Cavaliers,Utah,Jazz,Regular Season,1,1,18.0,2,1,6,0,0,0,0,0,3,0,5,1,0.2,0,0,0.0,0,0,0.0,119,107,0
+77331,1979,27900219,1979-11-21 20:00:00,Cleveland,Cavaliers,Washington,Bullets,Regular Season,0,1,25.0,13,2,6,4,2,4,1,0,4,0,8,6,0.75,0,0,0.0,2,1,0.5,103,122,0
+77331,1979,27900221,1979-11-22 20:00:00,Cleveland,Cavaliers,Golden State,Warriors,Regular Season,1,1,4.0,2,0,2,2,0,0,0,0,1,0,1,1,1.0,0,0,0.0,0,0,0.0,120,93,0
+77331,1979,27900277,1979-12-01 20:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,0,0,14.0,6,0,4,3,1,0,0,0,2,0,3,2,0.667,0,0,0.0,2,2,1.0,117,105,0
+77331,1979,27900281,1979-12-02 20:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,1,1,19.0,8,1,9,7,2,2,1,0,5,0,4,3,0.75,0,0,0.0,2,2,1.0,126,108,0
+77331,1979,27900285,1979-12-04 20:00:00,Cleveland,Cavaliers,San Diego,Clippers,Regular Season,1,1,8.0,2,0,2,1,1,0,0,1,1,0,2,1,0.5,0,0,0.0,0,0,0.0,115,112,0
+77331,1979,27900296,1979-12-05 20:00:00,Cleveland,Cavaliers,Indiana,Pacers,Regular Season,0,0,14.0,1,1,2,2,0,0,1,0,2,0,2,0,0.0,0,0,0.0,2,1,0.5,118,99,0
+77331,1979,27900307,1979-12-08 20:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,1,1,10.0,3,1,1,1,0,0,0,0,0,0,2,1,0.5,0,0,0.0,1,1,1.0,116,100,0
+77331,1979,27900332,1979-12-13 20:00:00,Cleveland,Cavaliers,Washington,Bullets,Regular Season,1,0,13.0,4,0,3,2,1,0,0,0,0,0,5,2,0.4,0,0,0.0,0,0,0.0,113,115,0
+77331,1979,27900360,1979-12-18 20:00:00,Cleveland,Cavaliers,Utah,Jazz,Regular Season,0,0,12.0,5,0,2,1,1,0,0,1,1,0,3,2,0.667,0,0,0.0,1,1,1.0,105,103,0
+77331,1979,27900366,1979-12-19 20:00:00,Cleveland,Cavaliers,Golden State,Warriors,Regular Season,0,1,16.0,6,0,4,4,0,0,0,0,3,0,4,3,0.75,0,0,0.0,0,0,0.0,125,128,0
+77331,1979,27900382,1979-12-22 20:00:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,0,0,15.0,6,1,4,0,4,0,1,0,2,0,4,2,0.5,0,0,0.0,2,2,1.0,126,117,0
+77331,1979,27900393,1979-12-25 20:00:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,1,1,16.0,4,1,4,2,2,0,0,0,4,0,4,2,0.5,0,0,0.0,0,0,0.0,111,101,0
+77331,1979,27900407,1979-12-27 20:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,1,1,23.0,10,2,8,3,5,2,2,1,3,0,8,3,0.375,0,0,0.0,4,4,1.0,125,110,0
+77331,1979,27900416,1979-12-29 20:00:00,Cleveland,Cavaliers,Denver,Nuggets,Regular Season,1,1,16.0,2,2,3,2,1,0,0,1,3,0,3,1,0.333,0,0,0.0,0,0,0.0,124,106,0
+77331,1979,27900439,1980-01-03 20:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,1,0,14.0,6,1,5,4,1,0,3,0,1,0,5,3,0.599,0,0,0.0,0,0,0.0,108,109,0
+77331,1979,27900454,1980-01-05 20:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,1,0,12.0,3,0,2,0,0,0,0,0,0,0,4,1,0.25,0,0,0.0,2,1,0.5,98,99,0
+77331,1979,27900460,1980-01-06 20:00:00,Cleveland,Cavaliers,New Jersey,Nets,Regular Season,0,0,14.0,4,1,1,1,0,0,0,1,4,0,5,2,0.4,0,0,0.0,1,0,0.0,108,100,0
+77331,1979,27900462,1980-01-08 20:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,1,0,22.0,12,2,4,3,1,1,0,0,5,0,10,5,0.5,1,0,0.0,2,2,1.0,115,118,0
+77331,1979,27900476,1980-01-09 20:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,0,0,15.0,2,1,7,4,3,0,0,3,0,0,5,1,0.2,0,0,0.0,0,0,0.0,111,107,0
+77331,1979,27900486,1980-01-11 20:00:00,Cleveland,Cavaliers,San Antonio,Spurs,Regular Season,0,0,11.0,0,0,2,1,1,0,0,1,3,0,2,0,0.0,0,0,0.0,0,0,0.0,116,109,0
+77331,1979,27900489,1980-01-12 20:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,0,0,27.0,10,0,10,4,6,1,1,1,3,0,11,5,0.455,0,0,0.0,1,0,0.0,112,96,0
+77331,1979,27900506,1980-01-15 20:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,0,1,24.0,7,0,9,7,2,1,2,4,3,0,6,3,0.5,0,0,0.0,2,1,0.5,110,129,0
+77331,1979,27900516,1980-01-17 20:00:00,Cleveland,Cavaliers,San Antonio,Spurs,Regular Season,1,1,10.0,3,0,2,0,2,0,0,3,2,0,2,1,0.5,0,0,0.0,2,1,0.5,116,112,0
+77331,1979,27900530,1980-01-19 20:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,0,0,18.0,11,1,4,1,3,0,1,0,3,0,8,5,0.625,0,0,0.0,1,1,1.0,111,107,0
+77331,1979,27900536,1980-01-22 20:00:00,Cleveland,Cavaliers,Washington,Bullets,Regular Season,1,1,23.0,18,1,9,5,4,0,1,2,3,0,13,9,0.691,0,0,0.0,2,0,0.0,114,91,0
+77331,1979,27900548,1980-01-23 20:00:00,Cleveland,Cavaliers,New Jersey,Nets,Regular Season,0,0,21.0,10,0,1,1,0,1,0,0,2,0,11,3,0.273,1,0,0.0,5,4,0.8,117,103,0
+77331,1979,27900564,1980-01-26 20:00:00,Cleveland,Cavaliers,Indiana,Pacers,Regular Season,1,0,11.0,2,0,2,1,1,0,0,0,1,0,3,1,0.333,0,0,0.0,0,0,0.0,114,115,0
+77331,1979,27900571,1980-01-27 20:00:00,Cleveland,Cavaliers,Indiana,Pacers,Regular Season,0,0,11.0,2,0,2,1,1,0,0,1,0,0,4,1,0.25,0,0,0.0,0,0,0.0,123,121,0
+77331,1979,27900581,1980-01-29 20:00:00,Cleveland,Cavaliers,Los Angeles,Lakers,Regular Season,1,1,31.0,8,0,5,3,2,1,1,1,6,0,8,4,0.5,0,0,0.0,0,0,0.0,154,153,0
+77331,1979,27900587,1980-01-30 20:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,0,0,15.0,4,0,6,5,1,1,0,3,3,0,4,1,0.25,0,0,0.0,2,2,1.0,110,103,0
+77331,1979,27900601,1980-02-05 20:00:00,Cleveland,Cavaliers,Seattle,SuperSonics,Regular Season,1,0,14.0,4,0,0,0,0,0,0,0,2,0,3,2,0.667,0,0,0.0,0,0,0.0,121,123,0
+77331,1979,27900600,1980-02-06 20:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,0,0,13.0,6,2,3,0,3,1,0,0,3,0,4,2,0.5,0,0,0.0,2,2,1.0,111,109,0
+77331,1979,27900620,1980-02-08 20:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,0,0,16.0,10,0,4,4,0,0,2,0,0,0,8,4,0.5,0,0,0.0,3,2,0.667,105,104,0
+77331,1979,27900629,1980-02-10 20:00:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,1,0,17.0,2,0,3,1,2,1,1,3,1,0,4,0,0.0,1,0,0.0,3,2,0.667,117,123,0
+77331,1979,27900639,1980-02-13 20:00:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,0,1,28.0,11,1,12,0,0,0,0,0,3,0,9,4,0.444,0,0,0.0,5,3,0.599,102,107,0
+77331,1979,27900648,1980-02-14 20:00:00,Cleveland,Cavaliers,Indiana,Pacers,Regular Season,1,0,26.0,12,0,3,0,0,1,0,0,3,0,9,6,0.667,0,0,0.0,0,0,0.0,114,118,0
+77331,1979,27900661,1980-02-16 20:00:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,1,1,24.0,6,0,8,0,0,0,0,0,2,0,9,3,0.333,0,0,0.0,0,0,0.0,123,104,0
+77331,1979,27900671,1980-02-17 20:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,0,0,32.0,4,0,6,0,0,0,0,0,2,0,10,2,0.2,0,0,0.0,0,0,0.0,115,100,0
+77331,1979,27900675,1980-02-19 20:00:00,Cleveland,Cavaliers,Phoenix,Suns,Regular Season,1,1,12.0,2,1,0,0,0,0,0,1,1,0,5,1,0.2,0,0,0.0,0,0,0.0,128,109,0
+77331,1979,27900686,1980-02-21 20:00:00,Cleveland,Cavaliers,Washington,Bullets,Regular Season,0,0,17.0,8,0,3,0,0,0,0,0,3,0,6,3,0.5,0,0,0.0,4,2,0.5,118,115,0
+77331,1979,27900693,1980-02-23 20:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,0,0,17.0,10,3,4,3,1,0,0,1,5,0,6,2,0.333,0,0,0.0,7,6,0.856,127,112,0
+77331,1979,27900698,1980-02-24 20:00:00,Cleveland,Cavaliers,Portland,Trail Blazers,Regular Season,1,0,10.0,0,1,0,0,0,0,0,0,2,0,4,0,0.0,0,0,0.0,0,0,0.0,100,115,0
+77331,1979,27900725,1980-02-29 20:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,0,0,13.0,0,1,3,0,0,0,0,0,2,0,6,0,0.0,0,0,0.0,0,0,0.0,111,103,0
+77331,1979,27900738,1980-03-02 20:00:00,Cleveland,Cavaliers,San Antonio,Spurs,Regular Season,0,1,13.0,6,0,1,0,0,1,0,0,3,0,3,2,0.667,0,0,0.0,2,2,1.0,119,123,0
+77331,1979,27900747,1980-03-04 20:00:00,Cleveland,Cavaliers,San Diego,Clippers,Regular Season,0,0,18.0,8,0,6,0,0,0,1,0,2,0,9,3,0.333,0,0,0.0,2,2,1.0,116,105,0
+77331,1979,27900763,1980-03-07 20:00:00,Cleveland,Cavaliers,Kansas City,Kings,Regular Season,0,1,19.0,6,0,4,0,0,0,0,0,3,0,2,2,1.0,0,0,0.0,2,2,1.0,104,111,0
+77331,1979,27900781,1980-03-09 20:00:00,Cleveland,Cavaliers,Indiana,Pacers,Regular Season,0,1,10.0,4,1,6,0,0,0,1,0,4,0,4,2,0.5,0,0,0.0,0,0,0.0,107,113,0
+77331,1979,27900785,1980-03-11 20:00:00,Cleveland,Cavaliers,New Jersey,Nets,Regular Season,1,1,1.0,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,122,119,0
+77331,1979,27900808,1980-03-15 20:00:00,Cleveland,Cavaliers,San Antonio,Spurs,Regular Season,1,1,11.0,5,0,5,0,0,0,0,0,2,0,5,2,0.4,0,0,0.0,2,1,0.5,100,98,0
+77331,1979,27900816,1980-03-16 20:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,1,1,16.0,4,2,0,0,0,0,0,0,6,0,2,1,0.5,0,0,0.0,2,2,1.0,123,109,0
+77331,1979,27900827,1980-03-18 20:00:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,0,1,3.0,0,0,1,0,0,1,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,107,108,0
+77331,1979,27900840,1980-03-20 20:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,1,1,17.0,2,2,4,0,0,1,1,0,4,0,5,1,0.2,0,0,0.0,0,0,0.0,109,96,0
+77331,1979,27900849,1980-03-22 20:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,1,1,9.0,2,0,3,2,1,0,0,1,1,0,2,1,0.5,0,0,0.0,0,0,0.0,109,105,0
+77331,1979,27900867,1980-03-25 20:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,1,0,7.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,115,128,0
+77331,1980,28000236,1980-11-22 20:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,1,1,1.0,2,0,0,0,0,0,0,0,1,0,1,1,1.0,0,0,0.0,0,0,0.0,113,98,0
+77331,1980,28000264,1980-11-28 20:00:00,Cleveland,Cavaliers,Washington,Bullets,Regular Season,1,1,2.0,0,1,1,1,0,0,0,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,126,105,0
+77331,1980,28000302,1980-12-03 20:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,0,0,0.0,4,0,0,0,0,0,0,0,0,0,0,2,0.0,0,0,0.0,0,0,0.0,118,109,0
+77331,1980,28000304,1980-12-04 20:00:00,Cleveland,Cavaliers,San Antonio,Spurs,Regular Season,0,0,5.0,4,2,2,1,1,0,0,0,1,0,4,2,0.5,0,0,0.0,0,0,0.0,130,100,0
+77331,1980,28000424,1980-12-26 20:00:00,Kansas City,Kings,Philadelphia,76ers,Regular Season,1,0,5.0,0,0,1,0,0,0,0,0,1,0,2,0,0.0,0,0,0.0,0,0,0.0,103,113,0
+77331,1980,28000435,1980-12-27 20:00:00,Kansas City,Kings,New York,Knicks,Regular Season,0,0,4.0,0,1,0,0,0,0,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,100,99,0
+77331,1980,28000437,1980-12-28 20:00:00,Kansas City,Kings,New Jersey,Nets,Regular Season,0,1,2.0,0,0,0,0,0,0,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,99,102,0
+77331,1980,28000447,1980-12-30 20:00:00,Kansas City,Kings,Golden State,Warriors,Regular Season,1,0,11.0,0,0,1,0,0,0,1,0,2,0,2,0,0.0,0,0,0.0,0,0,0.0,104,106,0
+77331,1980,28000455,1981-01-02 20:00:00,Kansas City,Kings,Utah,Jazz,Regular Season,1,1,28.0,12,1,3,0,0,0,0,0,2,0,10,6,0.599,0,0,0.0,0,0,0.0,101,95,0
+77331,1980,28000487,1981-01-07 20:00:00,Kansas City,Kings,Houston,Rockets,Regular Season,0,1,12.0,4,1,4,0,0,0,1,0,0,0,8,2,0.25,0,0,0.0,0,0,0.0,108,114,0
+77331,1980,28000491,1981-01-08 20:00:00,Kansas City,Kings,Washington,Bullets,Regular Season,1,1,19.0,4,0,4,0,0,0,0,0,3,0,10,2,0.2,0,0,0.0,2,0,0.0,136,118,0
+77331,1980,28000504,1981-01-10 20:00:00,Kansas City,Kings,Utah,Jazz,Regular Season,0,1,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,92,99,0
+77331,1980,28000508,1981-01-11 20:00:00,Kansas City,Kings,San Diego,Clippers,Regular Season,1,0,7.0,0,0,1,0,0,0,0,0,3,0,1,0,0.0,0,0,0.0,0,0,0.0,105,115,0
+77331,1980,28000537,1981-01-16 20:00:00,Kansas City,Kings,Milwaukee,Bucks,Regular Season,0,0,12.0,2,2,3,0,0,0,1,0,0,0,3,1,0.333,0,0,0.0,0,0,0.0,118,112,0
+77331,1980,28000544,1981-01-17 20:00:00,Kansas City,Kings,Denver,Nuggets,Regular Season,1,0,17.0,6,1,0,0,0,0,0,0,2,0,8,3,0.375,0,0,0.0,0,0,0.0,122,123,0
+77331,1980,28000557,1981-01-20 20:00:00,Kansas City,Kings,Dallas,Mavericks,Regular Season,0,1,12.0,6,1,1,0,0,0,0,0,2,0,5,2,0.4,0,0,0.0,2,2,1.0,91,104,0
+77331,1980,28000569,1981-01-21 20:00:00,Kansas City,Kings,San Antonio,Spurs,Regular Season,1,1,16.0,8,3,7,0,0,0,0,0,4,0,4,2,0.5,0,0,0.0,4,4,1.0,115,108,0
+77331,1980,28000576,1981-01-23 20:00:00,Kansas City,Kings,Houston,Rockets,Regular Season,1,1,15.0,4,0,4,0,0,0,0,0,3,0,5,2,0.4,0,0,0.0,0,0,0.0,113,107,0
+77331,1980,28000602,1981-01-27 20:00:00,Kansas City,Kings,San Diego,Clippers,Regular Season,0,0,12.0,8,0,1,0,0,0,1,2,1,0,4,4,1.0,0,0,0.0,0,0,0.0,119,114,0
+77331,1980,28000613,1981-01-29 20:00:00,Kansas City,Kings,Los Angeles,Lakers,Regular Season,0,0,4.0,1,0,1,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,3,1,0.333,118,104,0
+77331,1980,28000621,1981-02-03 20:00:00,Kansas City,Kings,Dallas,Mavericks,Regular Season,0,1,7.0,4,0,0,0,0,0,0,1,4,0,2,2,1.0,0,0,0.0,0,0,0.0,100,121,0
+77331,1980,28000633,1981-02-04 20:00:00,Kansas City,Kings,Detroit,Pistons,Regular Season,1,1,10.0,4,0,4,0,0,0,0,0,2,0,5,2,0.4,0,0,0.0,0,0,0.0,91,90,0
+77331,1980,28000638,1981-02-06 20:00:00,Kansas City,Kings,Seattle,SuperSonics,Regular Season,0,1,10.0,4,0,1,0,1,0,0,0,3,0,3,1,0.333,0,0,0.0,2,2,1.0,92,102,0
+77331,1980,28000658,1981-02-08 20:00:00,Kansas City,Kings,Portland,Trail Blazers,Regular Season,0,0,12.0,6,0,2,1,1,0,0,1,2,0,5,3,0.599,0,0,0.0,0,0,0.0,129,123,0
+77331,1980,28000669,1981-02-10 20:00:00,Kansas City,Kings,Chicago,Bulls,Regular Season,0,0,4.0,0,0,0,0,0,0,1,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,116,115,0
+77331,1980,28000672,1981-02-11 20:00:00,Kansas City,Kings,Utah,Jazz,Regular Season,1,1,8.0,0,0,2,0,0,1,1,0,1,0,2,0,0.0,0,0,0.0,0,0,0.0,99,87,0
+77331,1980,28000682,1981-02-13 20:00:00,Kansas City,Kings,Atlanta,Hawks,Regular Season,1,1,10.0,0,1,3,0,0,0,2,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,113,106,0
+77331,1980,28000700,1981-02-15 20:00:00,Kansas City,Kings,Seattle,SuperSonics,Regular Season,1,1,9.0,4,0,2,1,1,0,0,1,2,0,5,2,0.4,0,0,0.0,0,0,0.0,107,105,0
+77331,1980,28000728,1981-02-20 20:00:00,Kansas City,Kings,Milwaukee,Bucks,Regular Season,1,1,8.0,4,0,0,0,0,0,0,0,4,0,3,2,0.667,0,0,0.0,0,0,0.0,112,109,0
+77331,1980,28000732,1981-02-21 20:00:00,Kansas City,Kings,Denver,Nuggets,Regular Season,0,0,16.0,8,0,4,3,1,0,0,0,3,0,4,3,0.75,0,0,0.0,2,2,1.0,129,109,0
+77331,1980,28000736,1981-02-22 20:00:00,Kansas City,Kings,Golden State,Warriors,Regular Season,0,0,11.0,4,0,3,3,0,0,0,1,4,0,2,2,1.0,0,0,0.0,0,0,0.0,104,96,0
+77331,1980,28000756,1981-02-26 20:00:00,Kansas City,Kings,Dallas,Mavericks,Regular Season,1,1,7.0,6,0,1,0,0,0,0,0,0,0,3,1,0.333,0,0,0.0,4,4,1.0,105,102,0
+77331,1980,28000768,1981-02-28 20:00:00,Kansas City,Kings,Golden State,Warriors,Regular Season,1,0,14.0,6,3,0,0,0,0,0,0,2,0,7,3,0.428,0,0,0.0,0,0,0.0,101,110,0
+77331,1980,28000784,1981-03-03 20:00:00,Kansas City,Kings,Los Angeles,Lakers,Regular Season,1,0,9.0,4,0,2,2,0,0,1,0,1,0,2,1,0.5,0,0,0.0,2,2,1.0,98,99,0
+77331,1980,28000793,1981-03-04 20:00:00,Kansas City,Kings,San Antonio,Spurs,Regular Season,0,1,16.0,2,0,4,0,0,0,1,0,0,0,7,1,0.142,1,0,0.0,0,0,0.0,97,111,0
+77331,1980,28000796,1981-03-05 20:00:00,Kansas City,Kings,Portland,Trail Blazers,Regular Season,1,1,14.0,2,1,3,2,1,0,0,2,1,0,2,1,0.5,0,0,0.0,0,0,0.0,106,100,0
+77331,1980,28000815,1981-03-08 20:00:00,Kansas City,Kings,Phoenix,Suns,Regular Season,1,1,13.0,3,2,2,2,0,1,1,0,1,0,3,1,0.333,0,0,0.0,2,1,0.5,105,68,0
+77331,1980,28000823,1981-03-10 20:00:00,Kansas City,Kings,San Diego,Clippers,Regular Season,0,1,12.0,4,2,3,0,0,0,1,0,3,0,4,2,0.5,0,0,0.0,0,0,0.0,100,107,0
+77331,1980,28000840,1981-03-13 20:00:00,Kansas City,Kings,Los Angeles,Lakers,Regular Season,0,0,15.0,4,0,4,3,1,1,0,1,2,0,5,2,0.4,0,0,0.0,0,0,0.0,116,101,0
+77331,1980,28000854,1981-03-15 20:00:00,Kansas City,Kings,Chicago,Bulls,Regular Season,1,0,12.0,6,1,4,0,0,0,1,0,4,0,6,3,0.5,0,0,0.0,0,0,0.0,87,97,0
+77331,1980,28000870,1981-03-18 20:00:00,Kansas City,Kings,Denver,Nuggets,Regular Season,1,0,20.0,6,0,7,5,2,0,0,0,1,0,7,3,0.428,0,0,0.0,0,0,0.0,124,126,0
+77331,1980,28000880,1981-03-20 20:00:00,Kansas City,Kings,San Antonio,Spurs,Regular Season,1,0,3.0,0,0,1,0,0,1,0,0,2,0,1,0,0.0,0,0,0.0,0,0,0.0,111,114,0
+77331,1980,28000894,1981-03-22 20:00:00,Kansas City,Kings,Houston,Rockets,Regular Season,1,0,6.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,108,114,0
+77331,1980,28000907,1981-03-24 20:00:00,Kansas City,Kings,Utah,Jazz,Regular Season,0,1,16.0,10,1,2,0,0,0,0,0,2,0,7,5,0.713,0,0,0.0,0,0,0.0,92,105,0
+77331,1980,28000913,1981-03-25 20:00:00,Kansas City,Kings,Phoenix,Suns,Regular Season,0,1,11.0,0,1,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,101,110,0
+77331,1980,28000923,1981-03-27 20:00:00,Kansas City,Kings,Houston,Rockets,Regular Season,0,0,15.0,2,2,2,0,0,1,0,0,1,0,7,1,0.142,0,0,0.0,0,0,0.0,91,84,0
+77331,1980,28000938,1981-03-29 20:00:00,Kansas City,Kings,Dallas,Mavericks,Regular Season,1,1,7.0,0,0,3,0,0,0,0,0,2,0,1,0,0.0,1,0,0.0,0,0,0.0,113,104,0
+77331,1980,48000004,1981-04-01 20:00:00,Kansas City,Kings,Portland,Trail Blazers,Playoffs,0,1,9.0,2,2,2,2,0,2,0,1,0,0,3,1,0.333,0,0,0.0,0,0,0.0,97,98,0
+77331,1980,48000007,1981-04-03 20:00:00,Kansas City,Kings,Portland,Trail Blazers,Playoffs,1,0,5.0,0,0,1,0,1,0,0,0,2,0,1,0,0.0,1,0,0.0,0,0,0.0,119,124,0
+77331,1980,48000011,1981-04-05 20:00:00,Kansas City,Kings,Portland,Trail Blazers,Playoffs,0,1,7.0,1,0,0,0,0,0,0,0,1,0,1,0,0.0,0,0,0.0,1,1,1.0,95,104,0
+77331,1980,48000014,1981-04-07 20:00:00,Kansas City,Kings,Phoenix,Suns,Playoffs,0,0,13.0,6,0,4,0,0,0,1,2,2,0,4,3,0.75,0,0,0.0,0,0,0.0,102,80,0
+77331,1980,48000017,1981-04-08 20:00:00,Kansas City,Kings,Phoenix,Suns,Playoffs,0,1,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,83,88,0
+77331,1980,48000020,1981-04-10 20:00:00,Kansas City,Kings,Phoenix,Suns,Playoffs,1,1,5.0,0,0,1,0,0,0,0,0,1,0,2,0,0.0,0,0,0.0,0,0,0.0,93,92,0
+77331,1980,48000024,1981-04-12 20:00:00,Kansas City,Kings,Phoenix,Suns,Playoffs,1,1,14.0,2,1,5,0,0,1,1,0,2,0,4,1,0.25,0,0,0.0,0,0,0.0,102,95,0
+77331,1980,48000029,1981-04-15 20:00:00,Kansas City,Kings,Phoenix,Suns,Playoffs,0,0,15.0,4,0,4,0,0,0,1,0,1,0,4,2,0.5,1,0,0.0,0,0,0.0,101,89,0
+77331,1980,48000032,1981-04-17 20:00:00,Kansas City,Kings,Phoenix,Suns,Playoffs,1,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,76,81,0
+77331,1980,48000035,1981-04-19 20:00:00,Kansas City,Kings,Phoenix,Suns,Playoffs,0,1,31.0,8,2,6,0,0,0,1,0,4,0,12,4,0.333,0,0,0.0,0,0,0.0,88,95,0
+77331,1980,48000036,1981-04-21 20:00:00,Kansas City,Kings,Houston,Rockets,Playoffs,1,0,24.0,6,1,3,0,0,0,0,0,2,0,6,3,0.5,0,0,0.0,0,0,0.0,78,97,0
+77331,1980,48000038,1981-04-22 20:00:00,Kansas City,Kings,Houston,Rockets,Playoffs,1,1,23.0,16,1,5,0,0,1,1,0,1,0,11,7,0.636,0,0,0.0,3,2,0.667,88,79,0
+77331,1980,48000040,1981-04-24 20:00:00,Kansas City,Kings,Houston,Rockets,Playoffs,0,0,17.0,4,1,2,0,0,0,0,0,3,0,3,1,0.333,1,0,0.0,2,2,1.0,92,88,0
+77331,1980,48000043,1981-04-26 20:00:00,Kansas City,Kings,Houston,Rockets,Playoffs,0,0,2.0,0,0,1,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,100,89,0
+77331,1980,48000045,1981-04-29 20:00:00,Kansas City,Kings,Houston,Rockets,Playoffs,1,0,7.0,0,1,3,0,0,0,0,0,2,0,3,0,0.0,0,0,0.0,0,0,0.0,88,97,0
+77331,1981,28100004,1981-10-30 20:00:00,Kansas City,Kings,San Antonio,Spurs,Regular Season,1,0,20.0,2,0,2,0,0,1,1,0,2,0,2,1,0.5,0,0,0.0,1,0,0.0,102,113,0
+77331,1981,28100018,1981-10-31 20:00:00,Kansas City,Kings,Dallas,Mavericks,Regular Season,0,0,21.0,10,0,6,0,0,0,0,2,1,0,6,5,0.832,0,0,0.0,0,0,0.0,95,89,0
+77331,1981,28100028,1981-11-04 20:00:00,Kansas City,Kings,San Diego,Clippers,Regular Season,1,1,19.0,8,1,6,0,0,0,0,3,4,0,6,4,0.667,0,0,0.0,0,0,0.0,129,128,0
+77331,1981,28100041,1981-11-06 20:00:00,Kansas City,Kings,Houston,Rockets,Regular Season,1,1,12.0,4,0,5,0,0,0,0,0,3,0,5,2,0.4,0,0,0.0,0,0,0.0,90,86,0
+77331,1981,28100066,1981-11-10 20:00:00,Kansas City,Kings,Chicago,Bulls,Regular Season,0,0,7.0,6,0,0,0,0,0,0,0,2,0,3,3,1.0,0,0,0.0,0,0,0.0,119,107,0
+77331,1981,28100072,1981-11-11 20:00:00,Kansas City,Kings,Boston,Celtics,Regular Season,0,0,10.0,5,0,1,0,0,0,0,0,0,0,4,2,0.5,0,1,0.0,0,0,0.0,115,100,0
+77331,1981,28100093,1981-11-14 20:00:00,Kansas City,Kings,New Jersey,Nets,Regular Season,0,0,14.0,6,0,2,0,0,1,0,0,3,0,5,3,0.599,0,0,0.0,0,0,0.0,103,92,0
+77331,1981,28100101,1981-11-17 20:00:00,Kansas City,Kings,New York,Knicks,Regular Season,0,1,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,110,124,0
+77331,1981,28100111,1981-11-19 20:00:00,Kansas City,Kings,Indiana,Pacers,Regular Season,0,0,6.0,0,0,1,0,0,0,0,0,1,0,2,0,0.0,1,0,0.0,0,0,0.0,102,99,0
+77331,1981,28100127,1981-11-21 20:00:00,Kansas City,Kings,Denver,Nuggets,Regular Season,0,0,11.0,8,0,2,2,0,1,1,0,3,0,6,3,0.5,1,0,0.0,3,2,0.667,128,121,0
+77331,1981,28100139,1981-11-25 20:00:00,Kansas City,Kings,Detroit,Pistons,Regular Season,1,0,4.0,2,2,1,0,0,0,0,0,1,0,1,1,1.0,0,0,0.0,0,0,0.0,122,129,0
+77331,1981,28100157,1981-11-27 20:00:00,Kansas City,Kings,Denver,Nuggets,Regular Season,1,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,115,123,0
+77331,1981,28100165,1981-11-29 20:00:00,Kansas City,Kings,Golden State,Warriors,Regular Season,1,1,16.0,4,1,5,2,3,1,2,0,1,0,6,2,0.333,0,0,0.0,0,0,0.0,104,100,0
+77331,1981,28100180,1981-12-02 20:00:00,Kansas City,Kings,Portland,Trail Blazers,Regular Season,1,0,4.0,0,0,4,4,0,0,0,1,1,0,0,0,0.0,0,0,0.0,0,0,0.0,107,112,0
+77331,1981,28100189,1981-12-04 20:00:00,Kansas City,Kings,Seattle,SuperSonics,Regular Season,1,1,14.0,4,2,1,1,0,0,1,2,3,0,4,1,0.25,0,0,0.0,2,2,1.0,112,109,0
+77331,1981,28100205,1981-12-06 20:00:00,Kansas City,Kings,Los Angeles,Lakers,Regular Season,0,0,9.0,3,0,5,0,0,0,0,0,1,0,1,1,1.0,0,0,0.0,2,1,0.5,119,106,0
+77331,1981,28100259,1981-12-16 20:00:00,Kansas City,Kings,Phoenix,Suns,Regular Season,1,1,23.0,2,0,4,4,0,0,1,1,0,0,4,1,0.25,0,0,0.0,0,0,0.0,97,81,0
+77331,1981,28100266,1981-12-18 20:00:00,Kansas City,Kings,Utah,Jazz,Regular Season,1,1,12.0,4,0,8,0,0,0,0,0,4,0,4,2,0.5,0,0,0.0,0,0,0.0,100,95,0
+77331,1981,28100279,1981-12-19 20:00:00,Kansas City,Kings,Phoenix,Suns,Regular Season,0,0,12.0,0,1,2,2,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,95,87,0
+77331,1981,28100286,1981-12-22 20:00:00,Kansas City,Kings,Milwaukee,Bucks,Regular Season,0,1,1.0,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,101,106,0
+77331,1981,28100295,1981-12-23 20:00:00,Kansas City,Kings,Cleveland,Cavaliers,Regular Season,0,0,13.0,2,0,7,0,0,0,0,0,3,0,6,1,0.167,0,0,0.0,0,0,0.0,114,95,0
+77331,1981,28100308,1981-12-26 20:00:00,Kansas City,Kings,Boston,Celtics,Regular Season,1,0,4.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,119,124,0
+77331,1981,28100321,1981-12-29 20:00:00,Kansas City,Kings,Dallas,Mavericks,Regular Season,0,0,12.0,6,0,2,0,0,0,1,0,4,0,4,2,0.5,0,0,0.0,2,2,1.0,104,92,0
+77331,1981,28100325,1981-12-30 20:00:00,Kansas City,Kings,Denver,Nuggets,Regular Season,1,1,16.0,4,0,1,1,0,0,2,2,4,0,3,2,0.667,0,0,0.0,0,0,0.0,120,116,0
+77331,1981,28100335,1982-01-01 20:00:00,Kansas City,Kings,Golden State,Warriors,Regular Season,0,0,17.0,2,1,6,5,1,0,1,2,2,0,7,1,0.142,1,0,0.0,0,0,0.0,125,93,0
+77331,1981,28100347,1982-01-03 20:00:00,Kansas City,Kings,Portland,Trail Blazers,Regular Season,0,0,12.0,6,0,3,2,1,0,0,2,3,0,2,2,1.0,0,0,0.0,2,2,1.0,127,116,0
+77331,1981,28100353,1982-01-05 20:00:00,Kansas City,Kings,San Diego,Clippers,Regular Season,0,0,10.0,4,1,3,0,0,0,0,2,2,0,3,1,0.333,0,0,0.0,2,2,1.0,112,104,0
+77331,1981,28100365,1982-01-07 20:00:00,Kansas City,Kings,New York,Knicks,Regular Season,1,1,10.0,3,2,0,0,0,0,0,0,3,0,2,1,0.5,0,0,0.0,2,1,0.5,107,103,0
+77331,1981,28100383,1982-01-09 20:00:00,Kansas City,Kings,San Antonio,Spurs,Regular Season,0,0,15.0,2,0,4,0,0,0,0,0,4,0,3,1,0.333,0,0,0.0,0,0,0.0,113,100,0
+77331,1981,28100389,1982-01-12 20:00:00,Kansas City,Kings,Denver,Nuggets,Regular Season,0,0,18.0,3,2,5,5,0,0,0,0,2,0,3,1,0.333,0,0,0.0,2,1,0.5,139,126,0
+77331,1981,28100401,1982-01-13 20:00:00,Kansas City,Kings,Cleveland,Cavaliers,Regular Season,1,1,10.0,4,1,2,0,0,1,1,0,3,0,3,2,0.667,0,0,0.0,0,0,0.0,117,104,0
+77331,1981,28100417,1982-01-15 20:00:00,Kansas City,Kings,New Jersey,Nets,Regular Season,1,1,2.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,114,104,0
+77331,1981,28100427,1982-01-17 20:00:00,Kansas City,Kings,Los Angeles,Lakers,Regular Season,1,0,22.0,6,2,3,0,0,0,1,0,2,0,4,3,0.75,0,0,0.0,0,0,0.0,97,109,0
+77331,1981,28100435,1982-01-19 20:00:00,Kansas City,Kings,Houston,Rockets,Regular Season,0,0,28.0,13,2,11,0,0,0,0,0,2,0,11,4,0.363,0,0,0.0,6,5,0.832,120,112,0
+77331,1981,28100445,1982-01-21 20:00:00,Kansas City,Kings,Dallas,Mavericks,Regular Season,1,0,14.0,0,3,2,0,0,1,0,1,3,0,1,0,0.0,0,0,0.0,0,0,0.0,94,110,0
+77331,1981,28100492,1982-02-02 20:00:00,Kansas City,Kings,Portland,Trail Blazers,Regular Season,0,0,8.0,0,0,3,3,0,0,0,1,2,0,1,0,0.0,0,0,0.0,0,0,0.0,102,97,0
+77331,1981,28100500,1982-02-03 20:00:00,Kansas City,Kings,Seattle,SuperSonics,Regular Season,0,0,7.0,1,1,4,4,0,0,0,1,3,0,3,0,0.0,0,0,0.0,2,1,0.5,97,87,0
+77331,1981,28100519,1982-02-05 20:00:00,Kansas City,Kings,San Antonio,Spurs,Regular Season,1,1,6.0,0,0,2,0,0,2,0,0,0,0,2,0,0.0,0,0,0.0,0,0,0.0,109,102,0
+77331,1981,28100529,1982-02-07 20:00:00,Kansas City,Kings,Houston,Rockets,Regular Season,1,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,110,126,0
+77331,1981,28100542,1982-02-10 20:00:00,Kansas City,Kings,Los Angeles,Lakers,Regular Season,1,1,12.0,2,1,3,0,0,0,0,0,3,0,5,1,0.2,0,0,0.0,0,0,0.0,125,102,0
+77331,1981,28100552,1982-02-12 20:00:00,Kansas City,Kings,Utah,Jazz,Regular Season,1,0,24.0,8,0,6,0,0,1,0,0,4,0,8,3,0.375,0,0,0.0,2,2,1.0,114,129,0
+77331,1981,28100571,1982-02-14 20:00:00,Kansas City,Kings,Golden State,Warriors,Regular Season,1,0,14.0,8,1,5,3,2,0,1,1,0,0,6,4,0.667,0,0,0.0,0,0,0.0,93,103,0
+77331,1981,28100581,1982-02-17 20:00:00,San Antonio,Spurs,Detroit,Pistons,Regular Season,1,1,11.0,2,0,0,0,0,0,0,0,1,0,1,1,1.0,0,0,0.0,0,0,0.0,126,112,0
+77331,1981,28100597,1982-02-19 20:00:00,San Antonio,Spurs,Denver,Nuggets,Regular Season,0,1,14.0,2,1,4,3,1,3,0,1,4,0,4,1,0.25,0,0,0.0,0,0,0.0,121,126,0
+77331,1981,28100599,1982-02-20 20:00:00,San Antonio,Spurs,San Diego,Clippers,Regular Season,1,0,3.0,0,0,0,0,0,0,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,101,118,0
+77331,1981,28100617,1982-02-23 20:00:00,San Antonio,Spurs,Golden State,Warriors,Regular Season,1,1,17.0,8,3,3,1,2,0,1,0,3,0,4,3,0.75,0,0,0.0,2,2,1.0,143,123,0
+77331,1981,28100628,1982-02-25 20:00:00,San Antonio,Spurs,Detroit,Pistons,Regular Season,0,1,18.0,6,0,5,0,0,1,1,0,1,0,3,3,1.0,0,0,0.0,0,0,0.0,116,119,0
+77331,1981,28100644,1982-02-28 20:00:00,San Antonio,Spurs,Chicago,Bulls,Regular Season,0,0,17.0,4,0,6,0,0,0,0,0,3,0,1,0,0.0,0,0,0.0,4,4,1.0,118,104,0
+77331,1981,28100657,1982-03-02 20:00:00,San Antonio,Spurs,Houston,Rockets,Regular Season,0,1,22.0,4,0,3,0,0,0,0,0,3,0,3,1,0.333,0,0,0.0,2,2,1.0,117,119,0
+77331,1981,28100669,1982-03-04 20:00:00,San Antonio,Spurs,Boston,Celtics,Regular Season,1,0,33.0,4,3,6,0,0,0,1,0,4,0,4,2,0.5,0,0,0.0,0,0,0.0,101,110,0
+77331,1981,28100679,1982-03-06 20:00:00,San Antonio,Spurs,Milwaukee,Bucks,Regular Season,1,1,19.0,4,1,3,0,0,1,0,1,5,0,5,2,0.4,0,0,0.0,0,0,0.0,171,166,0
+77331,1981,28100692,1982-03-08 20:00:00,San Antonio,Spurs,Dallas,Mavericks,Regular Season,1,0,20.0,4,0,1,0,0,0,1,0,3,0,5,2,0.4,0,0,0.0,0,0,0.0,113,121,0
+77331,1981,28100698,1982-03-09 20:00:00,San Antonio,Spurs,San Diego,Clippers,Regular Season,0,0,22.0,0,2,3,0,0,0,0,1,4,0,3,0,0.0,0,0,0.0,0,0,0.0,138,127,0
+77331,1981,28100717,1982-03-12 20:00:00,San Antonio,Spurs,Portland,Trail Blazers,Regular Season,1,0,15.0,2,1,2,2,0,0,0,0,1,0,1,1,1.0,0,0,0.0,0,0,0.0,108,112,0
+77331,1981,28100726,1982-03-14 20:00:00,San Antonio,Spurs,Chicago,Bulls,Regular Season,1,1,4.0,0,0,2,0,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,119,117,0
+77331,1981,28100751,1982-03-19 20:00:00,San Antonio,Spurs,Boston,Celtics,Regular Season,0,0,15.0,4,0,4,0,0,0,0,0,0,0,4,1,0.25,0,0,0.0,2,2,1.0,134,110,0
+77331,1981,28100787,1982-03-24 20:00:00,San Antonio,Spurs,Denver,Nuggets,Regular Season,0,0,7.0,4,0,2,0,2,0,0,0,4,0,4,2,0.5,0,0,0.0,0,0,0.0,129,115,0
+77331,1981,28100837,1982-04-02 20:00:00,San Antonio,Spurs,Seattle,SuperSonics,Regular Season,0,0,6.0,3,0,1,1,0,0,1,1,0,0,3,1,0.333,0,0,0.0,2,1,0.5,111,86,0
+77331,1981,28100886,1982-04-10 20:00:00,San Antonio,Spurs,Houston,Rockets,Regular Season,0,0,2.0,2,1,0,0,0,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,105,100,0
+77331,1981,28100893,1982-04-11 20:00:00,San Antonio,Spurs,Kansas City,Kings,Regular Season,0,1,5.0,2,0,1,0,0,0,0,0,1,0,1,1,1.0,0,0,0.0,0,0,0.0,121,126,0
+77331,1981,28100915,1982-04-14 20:00:00,San Antonio,Spurs,Phoenix,Suns,Regular Season,0,0,5.0,0,0,2,2,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,104,92,0
+77331,1981,28100924,1982-04-16 20:00:00,San Antonio,Spurs,Dallas,Mavericks,Regular Season,0,1,3.0,0,0,1,0,0,0,1,0,0,0,2,0,0.0,0,0,0.0,0,0,0.0,106,118,0
+77331,1981,28100941,1982-04-18 20:00:00,San Antonio,Spurs,Utah,Jazz,Regular Season,1,0,13.0,10,1,2,0,0,1,0,0,4,0,8,4,0.5,1,0,0.0,2,2,1.0,120,128,0
+77331,1981,48100014,1982-04-28 20:00:00,San Antonio,Spurs,Seattle,SuperSonics,Playoffs,0,0,1.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,1,0,0.0,0,0,0.0,114,99,0
+77331,1981,48100033,1982-05-14 20:00:00,San Antonio,Spurs,Los Angeles,Lakers,Playoffs,1,0,2.0,0,1,1,1,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,108,118,0

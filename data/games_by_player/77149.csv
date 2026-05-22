@@ -1,0 +1,964 @@
+personId,season,gameId,gameDateTimeEst,playerteamCity,playerteamName,opponentteamCity,opponentteamName,gameType,home,win,numMinutes,points,assists,reboundsTotal,reboundsDefensive,reboundsOffensive,blocks,steals,turnovers,foulsPersonal,plusMinusPoints,fieldGoalsAttempted,fieldGoalsMade,fieldGoalsPercentage,threePointersAttempted,threePointersMade,threePointersPercentage,freeThrowsAttempted,freeThrowsMade,freeThrowsPercentage,homeScore,awayScore,attendance
+77149,1972,27200057,1972-10-27 19:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,1,5.0,0,0,2,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,91,119,0
+77149,1972,27200059,1972-10-28 19:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,1,1,3.0,2,0,2,0,0,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,122,107,0
+77149,1972,27200071,1972-11-02 19:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,1.0,0,0,1,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,118,104,0
+77149,1972,27200083,1972-11-04 19:00:00,Golden State,Warriors,New York,Knicks,Regular Season,1,1,2.0,2,1,2,0,0,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,127,104,0
+77149,1972,27200091,1972-11-07 19:00:00,Golden State,Warriors,Buffalo,Braves,Regular Season,0,1,2.0,0,0,1,0,0,0,0,0,0,0,2,0,0.0,0,0,0.0,0,0,0.0,91,105,0
+77149,1972,27200092,1972-11-08 19:00:00,Golden State,Warriors,Boston,Celtics,Regular Season,0,0,7.0,2,0,2,0,0,0,0,0,0,0,2,1,0.5,0,0,0.0,0,0,0.0,128,111,0
+77149,1972,27200102,1972-11-10 19:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,0,0,7.0,2,0,2,0,0,0,0,0,0,0,2,1,0.5,0,0,0.0,0,0,0.0,121,96,0
+77149,1972,27200122,1972-11-16 19:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,1,1,6.0,0,0,4,0,0,0,0,0,1,0,2,0,0.0,0,0,0.0,0,0,0.0,128,106,0
+77149,1972,27200134,1972-11-18 19:00:00,Golden State,Warriors,Buffalo,Braves,Regular Season,1,1,6.0,6,0,5,0,0,0,0,0,0,0,5,3,0.599,0,0,0.0,0,0,0.0,120,92,0
+77149,1972,27200145,1972-11-22 19:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,0,13.0,5,0,6,0,0,0,0,0,2,0,6,2,0.333,0,0,0.0,2,1,0.5,132,104,0
+77149,1972,27200154,1972-11-25 19:00:00,Golden State,Warriors,Kansas City-Omaha,Kings,Regular Season,0,1,4.0,2,0,0,0,0,0,0,0,1,0,1,1,1.0,0,0,0.0,0,0,0.0,114,133,0
+77149,1972,27200166,1972-11-28 19:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,1,6.0,2,0,3,0,0,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,110,102,0
+77149,1972,27200179,1972-12-01 19:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,6.0,0,1,1,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,115,106,0
+77149,1972,27200188,1972-12-02 19:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,0,1.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,103,112,0
+77149,1972,27200195,1972-12-05 19:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,1,6.0,0,0,2,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,108,101,0
+77149,1972,27200210,1972-12-08 19:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,0,0,16.0,6,0,6,0,0,0,0,0,1,0,6,3,0.5,0,0,0.0,2,0,0.0,124,91,0
+77149,1972,27200236,1972-12-15 19:00:00,Golden State,Warriors,Buffalo,Braves,Regular Season,0,1,10.0,2,0,5,0,0,0,0,0,2,0,3,1,0.333,0,0,0.0,0,0,0.0,95,129,0
+77149,1972,27200243,1972-12-16 19:00:00,Golden State,Warriors,Baltimore,Bullets,Regular Season,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,105,99,0
+77149,1972,27200267,1972-12-23 19:00:00,Golden State,Warriors,Chicago,Bulls,Regular Season,1,1,14.0,0,1,3,0,0,0,0,0,2,0,3,0,0.0,0,0,0.0,0,0,0.0,127,109,0
+77149,1972,27200283,1972-12-28 19:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,1,1,9.0,0,0,2,0,0,0,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,118,105,0
+77149,1972,27200294,1972-12-30 19:00:00,Golden State,Warriors,Kansas City-Omaha,Kings,Regular Season,1,1,5.0,0,0,2,0,0,0,0,0,2,0,0,0,0.0,0,0,0.0,0,0,0.0,113,107,0
+77149,1972,27200313,1973-01-04 19:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,4.0,2,0,1,0,0,0,0,0,1,0,1,1,1.0,0,0,0.0,0,0,0.0,108,83,0
+77149,1972,27200319,1973-01-05 19:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,1,18.0,0,1,10,0,0,0,0,0,2,0,3,0,0.0,0,0,0.0,0,0,0.0,96,128,0
+77149,1972,27200325,1973-01-06 19:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,1,1,8.0,2,0,0,0,0,0,0,0,1,0,2,1,0.5,0,0,0.0,0,0,0.0,111,79,0
+77149,1972,27200368,1973-01-17 19:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,1,3.0,0,0,0,0,0,0,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,117,123,0
+77149,1972,27200381,1973-01-19 19:00:00,Golden State,Warriors,Chicago,Bulls,Regular Season,0,1,10.0,2,0,6,0,0,0,0,0,1,0,3,1,0.333,0,0,0.0,0,0,0.0,80,115,0
+77149,1972,27200387,1973-01-21 19:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,0,0,3.0,2,1,2,0,0,0,0,0,0,0,2,1,0.5,0,0,0.0,0,0,0.0,124,108,0
+77149,1972,27200393,1973-01-25 19:00:00,Golden State,Warriors,Kansas City-Omaha,Kings,Regular Season,1,1,8.0,2,0,2,0,0,0,0,0,0,0,3,1,0.333,0,0,0.0,0,0,0.0,129,115,0
+77149,1972,27200400,1973-01-26 19:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,3.0,0,0,1,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,100,84,0
+77149,1972,27200413,1973-01-29 19:00:00,Golden State,Warriors,New York,Knicks,Regular Season,0,0,5.0,0,0,4,0,0,0,0,0,2,0,0,0,0.0,0,0,0.0,0,0,0.0,97,84,0
+77149,1972,27200418,1973-01-30 19:00:00,Golden State,Warriors,Baltimore,Bullets,Regular Season,0,0,3.0,1,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0.0,3,1,0.333,104,86,0
+77149,1972,27200419,1973-01-31 19:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,0,1,3.0,2,0,0,0,0,0,0,0,1,0,1,1,1.0,0,0,0.0,0,0,0.0,115,131,0
+77149,1972,27200433,1973-02-03 19:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,1,2.0,0,0,1,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,123,101,0
+77149,1972,27200456,1973-02-08 19:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,1.0,0,0,1,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,123,111,0
+77149,1972,27200463,1973-02-10 19:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,0,0,2.0,0,0,1,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,135,108,0
+77149,1972,27200483,1973-02-16 19:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,0,2.0,0,0,1,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,114,108,0
+77149,1972,27200492,1973-02-17 19:00:00,Golden State,Warriors,Boston,Celtics,Regular Season,1,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,106,110,0
+77149,1972,27200504,1973-02-20 19:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,1,1,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,118,115,0
+77149,1972,27200516,1973-02-23 19:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,1,1.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,106,111,0
+77149,1972,27200523,1973-02-24 19:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,1,1,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,102,93,0
+77149,1972,27200533,1973-02-27 19:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,0,0,3.0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,114,100,0
+77149,1972,27200536,1973-02-28 19:00:00,Golden State,Warriors,Boston,Celtics,Regular Season,0,0,1.0,0,0,1,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,118,111,0
+77149,1972,27200548,1973-03-03 19:00:00,Golden State,Warriors,Chicago,Bulls,Regular Season,1,0,14.0,6,0,5,0,0,0,0,0,2,0,3,3,1.0,0,0,0.0,0,0,0.0,116,117,0
+77149,1972,27200561,1973-03-06 19:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,1,1,2.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,108,93,0
+77149,1972,27200574,1973-03-10 19:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,0,0,7.0,2,0,7,0,0,0,0,0,2,0,6,1,0.167,0,0,0.0,0,0,0.0,117,113,0
+77149,1972,27200583,1973-03-11 19:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,0,1,5.0,0,0,1,0,0,0,0,0,2,0,0,0,0.0,0,0,0.0,0,0,0.0,93,97,0
+77149,1972,27200587,1973-03-13 19:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,1,3.0,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,101,109,0
+77149,1972,27200593,1973-03-15 19:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,1,8.0,3,1,3,0,0,0,0,0,0,0,2,1,0.5,0,0,0.0,2,1,0.5,141,125,0
+77149,1972,27200596,1973-03-16 19:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,0,6.0,0,0,1,0,0,0,0,0,1,0,2,0,0.0,0,0,0.0,0,0,0.0,116,106,0
+77149,1972,27200602,1973-03-17 19:00:00,Golden State,Warriors,New York,Knicks,Regular Season,1,0,19.0,4,0,9,0,0,0,0,0,0,0,6,2,0.333,0,0,0.0,1,0,0.0,108,117,0
+77149,1972,27200617,1973-03-20 19:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,1,4.0,2,0,1,0,0,0,0,0,1,0,1,1,1.0,0,0,0.0,0,0,0.0,114,106,0
+77149,1972,27200627,1973-03-22 19:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,1,0,6.0,0,0,1,0,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,98,108,0
+77149,1972,27200800,1973-03-23 19:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,40.0,19,1,17,0,0,0,0,0,5,0,14,9,0.643,0,0,0.0,3,1,0.333,125,124,0
+77149,1972,27200636,1973-03-24 19:00:00,Golden State,Warriors,Buffalo,Braves,Regular Season,1,1,10.0,4,0,4,0,0,0,0,0,1,0,4,2,0.5,0,0,0.0,0,0,0.0,106,101,0
+77149,1972,27200644,1973-03-26 19:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,0,8.0,3,0,6,0,0,0,0,0,2,0,1,0,0.0,0,0,0.0,4,3,0.75,114,120,0
+77149,1972,27200654,1973-03-28 19:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,0,4.0,2,0,1,0,0,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,89,96,0
+77149,1972,47200221,1973-03-30 19:00:00,Golden State,Warriors,Milwaukee,Bucks,Playoffs,0,0,6.0,4,0,1,0,0,0,0,0,0,0,2,2,1.0,0,0,0.0,2,0,0.0,110,90,0
+77149,1972,47200223,1973-04-05 19:00:00,Golden State,Warriors,Milwaukee,Bucks,Playoffs,1,0,8.0,0,2,1,0,0,0,0,0,0,0,3,0,0.0,0,0,0.0,0,0,0.0,93,113,0
+77149,1972,47200104,1973-04-07 19:00:00,Golden State,Warriors,Milwaukee,Bucks,Playoffs,1,1,6.0,0,0,2,0,0,0,0,0,4,0,1,0,0.0,0,0,0.0,0,0,0.0,102,97,0
+77149,1972,47200225,1973-04-10 19:00:00,Golden State,Warriors,Milwaukee,Bucks,Playoffs,0,1,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,97,100,0
+77149,1972,47200226,1973-04-13 19:00:00,Golden State,Warriors,Milwaukee,Bucks,Playoffs,1,1,2.0,1,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,2,1,0.5,100,86,0
+77149,1972,47200312,1973-04-19 19:00:00,Golden State,Warriors,Los Angeles,Lakers,Playoffs,0,0,1.0,0,0,1,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,104,93,0
+77149,1972,47200313,1973-04-21 19:00:00,Golden State,Warriors,Los Angeles,Lakers,Playoffs,1,0,11.0,6,0,5,0,0,0,0,0,0,0,6,3,0.5,0,0,0.0,0,0,0.0,70,126,0
+77149,1972,47200314,1973-04-23 19:00:00,Golden State,Warriors,Los Angeles,Lakers,Playoffs,1,1,1.0,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,117,109,0
+77149,1972,47200315,1973-04-25 19:00:00,Golden State,Warriors,Los Angeles,Lakers,Playoffs,0,0,8.0,2,1,4,0,0,0,0,0,2,0,2,1,0.5,0,0,0.0,0,0,0.0,128,118,0
+77149,1973,27300100,1973-11-04 19:35:00,Golden State,Warriors,Kansas City-Omaha,Kings,Regular Season,0,1,0.0,12,0,0,0,0,0,0,0,0,0,0,6,0.0,0,0,0.0,0,0,0.0,91,92,0
+77149,1973,27300148,1973-11-17 20:05:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,1,0,6.0,3,1,1,0,1,0,0,0,1,0,2,1,0.5,0,0,0.0,3,1,0.333,106,109,0
+77149,1973,27300156,1973-11-20 20:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,0,1,1.0,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,105,108,0
+77149,1973,27300161,1973-11-22 20:05:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,0,1,6.0,4,1,3,1,2,1,0,0,0,0,5,2,0.4,0,0,0.0,0,0,0.0,99,101,0
+77149,1973,27300166,1973-11-23 20:05:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,0,1,20.0,6,2,7,6,1,0,1,0,5,0,5,3,0.599,0,0,0.0,0,0,0.0,106,111,0
+77149,1973,27300172,1973-11-24 20:00:00,Golden State,Warriors,New York,Knicks,Regular Season,0,1,17.0,7,0,5,1,4,0,0,0,0,0,4,3,0.75,0,0,0.0,3,1,0.333,99,107,0
+77149,1973,27300184,1973-11-27 19:30:00,Golden State,Warriors,Chicago,Bulls,Regular Season,0,0,14.0,6,0,6,0,0,0,0,0,3,0,6,3,0.5,0,0,0.0,0,0,0.0,123,117,0
+77149,1973,27300193,1973-11-29 20:05:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,14.0,5,1,6,5,1,3,0,0,0,0,5,2,0.4,0,0,0.0,3,1,0.333,119,89,0
+77149,1973,27300207,1973-12-01 20:05:00,Golden State,Warriors,Kansas City-Omaha,Kings,Regular Season,1,1,41.0,14,4,18,16,2,5,1,0,4,0,15,5,0.333,0,0,0.0,8,4,0.5,120,108,0
+77149,1973,27300214,1973-12-04 20:05:00,Golden State,Warriors,Detroit,Pistons,Regular Season,1,0,29.0,13,1,5,2,3,0,2,0,2,0,10,6,0.599,0,0,0.0,4,1,0.25,93,112,0
+77149,1973,27300220,1973-12-05 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,3.0,0,0,1,1,0,0,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,103,97,0
+77149,1973,27300234,1973-12-08 20:05:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,1,8.0,6,0,5,3,2,0,0,0,2,0,7,3,0.428,0,0,0.0,0,0,0.0,135,111,0
+77149,1973,27300246,1973-12-11 20:05:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,1,8.0,2,2,4,2,2,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,114,107,0
+77149,1973,27300257,1973-12-14 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,9.0,3,0,0,0,0,0,0,0,2,0,2,1,0.5,0,0,0.0,1,1,1.0,109,101,0
+77149,1973,27300264,1973-12-15 20:05:00,Golden State,Warriors,Capital,Bullets,Regular Season,1,0,8.0,2,0,2,2,0,0,0,0,0,0,3,1,0.333,0,0,0.0,0,0,0.0,93,106,0
+77149,1973,27300275,1973-12-18 20:05:00,Golden State,Warriors,Boston,Celtics,Regular Season,1,0,6.0,0,0,1,1,0,0,1,0,3,0,1,0,0.0,0,0,0.0,0,0,0.0,106,125,0
+77149,1973,27300285,1973-12-21 19:35:00,Golden State,Warriors,Detroit,Pistons,Regular Season,0,0,23.0,4,3,11,5,6,0,0,0,5,0,3,1,0.333,0,0,0.0,2,2,1.0,107,104,0
+77149,1973,27300291,1973-12-22 19:30:00,Golden State,Warriors,Chicago,Bulls,Regular Season,0,0,21.0,4,0,8,5,3,0,1,0,2,0,6,2,0.333,0,0,0.0,0,0,0.0,110,86,0
+77149,1973,27300298,1973-12-23 19:35:00,Golden State,Warriors,Kansas City-Omaha,Kings,Regular Season,0,0,11.0,1,0,3,3,0,0,0,0,2,0,0,0,0.0,0,0,0.0,2,1,0.5,101,93,0
+77149,1973,27300310,1973-12-27 20:05:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,0,7.0,0,0,1,0,1,2,0,0,4,0,0,0,0.0,0,0,0.0,0,0,0.0,117,118,0
+77149,1973,27300323,1973-12-29 20:05:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,1,1.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,102,100,0
+77149,1973,27300333,1974-01-01 20:05:00,Golden State,Warriors,Chicago,Bulls,Regular Season,1,0,17.0,6,2,12,7,5,0,1,0,1,0,12,3,0.25,0,0,0.0,2,0,0.0,80,91,0
+77149,1973,27300345,1974-01-04 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,1.0,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0.0,0,0,0.0,114,111,0
+77149,1973,27300353,1974-01-05 20:05:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,1,5.0,2,1,1,0,1,0,0,0,1,0,2,1,0.5,0,0,0.0,0,0,0.0,108,106,0
+77149,1973,27300358,1974-01-06 19:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,12.0,2,1,8,3,5,1,0,0,5,0,5,1,0.2,0,0,0.0,0,0,0.0,106,105,0
+77149,1973,27300364,1974-01-08 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,1,3.0,6,0,0,0,0,0,1,0,0,0,1,1,1.0,0,0,0.0,5,4,0.8,92,104,0
+77149,1973,27300371,1974-01-10 20:05:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,1,22.0,6,2,15,10,5,0,1,0,5,0,8,2,0.25,0,0,0.0,2,2,1.0,125,89,0
+77149,1973,27300383,1974-01-12 20:05:00,Golden State,Warriors,New York,Knicks,Regular Season,1,0,22.0,2,2,11,8,3,0,0,0,1,0,6,1,0.167,0,0,0.0,0,0,0.0,80,96,0
+77149,1973,27300391,1974-01-17 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,1,15.0,5,1,10,7,3,0,0,0,5,0,4,2,0.5,0,0,0.0,5,1,0.2,127,120,0
+77149,1973,27300400,1974-01-19 20:00:00,Golden State,Warriors,Capital,Bullets,Regular Season,0,0,14.0,2,0,7,3,4,1,1,0,2,0,6,1,0.167,0,0,0.0,0,0,0.0,117,90,0
+77149,1973,27300404,1974-01-20 20:00:00,Golden State,Warriors,Boston,Celtics,Regular Season,0,1,14.0,8,1,5,3,2,1,1,0,5,0,6,4,0.667,0,0,0.0,1,0,0.0,102,123,0
+77149,1973,27300415,1974-01-22 20:00:00,Golden State,Warriors,Capital,Bullets,Regular Season,1,1,8.0,4,0,2,0,2,0,0,0,3,0,3,2,0.667,0,0,0.0,0,0,0.0,99,97,0
+77149,1973,27300431,1974-01-26 20:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,1,1,9.0,2,1,1,1,0,2,0,0,1,0,1,1,1.0,0,0,0.0,0,0,0.0,106,93,0
+77149,1973,27300438,1974-01-29 20:00:00,Golden State,Warriors,Buffalo,Braves,Regular Season,0,1,10.0,8,0,4,3,1,4,1,0,4,0,6,4,0.667,0,0,0.0,0,0,0.0,121,128,0
+77149,1973,27300444,1974-01-30 20:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,0,1,18.0,4,2,10,8,2,0,1,0,3,0,1,1,1.0,0,0,0.0,4,2,0.5,122,129,0
+77149,1973,27300449,1974-01-31 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,1,7.0,3,0,4,2,2,0,0,0,1,0,2,1,0.5,0,0,0.0,3,1,0.333,108,109,0
+77149,1973,27300461,1974-02-02 20:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,1,1,13.0,6,1,5,1,4,1,1,0,1,0,4,3,0.75,0,0,0.0,0,0,0.0,120,91,0
+77149,1973,27300474,1974-02-05 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,1,21.0,4,1,6,6,0,3,1,0,3,0,1,1,1.0,0,0,0.0,2,2,1.0,129,113,0
+77149,1973,27300481,1974-02-07 20:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,1,0,12.0,2,0,5,3,2,2,1,0,1,0,4,1,0.25,0,0,0.0,0,0,0.0,86,110,0
+77149,1973,27300492,1974-02-09 20:00:00,Golden State,Warriors,Kansas City-Omaha,Kings,Regular Season,1,0,10.0,0,1,2,2,0,1,0,0,1,0,1,0,0.0,0,0,0.0,2,0,0.0,120,121,0
+77149,1973,27300497,1974-02-10 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,1,11.0,0,0,3,2,1,0,0,0,4,0,2,0,0.0,0,0,0.0,0,0,0.0,105,121,0
+77149,1973,27300513,1974-02-14 20:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,1,1,6.0,0,1,3,2,1,2,1,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,121,105,0
+77149,1973,27300520,1974-02-16 20:00:00,Golden State,Warriors,New York,Knicks,Regular Season,0,0,30.0,8,1,11,0,0,0,0,0,4,0,4,3,0.75,0,0,0.0,4,2,0.5,117,107,0
+77149,1973,27300535,1974-02-19 20:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,0,1,3.0,0,0,1,0,1,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,98,104,0
+77149,1973,27300541,1974-02-20 20:00:00,Golden State,Warriors,Kansas City-Omaha,Kings,Regular Season,0,0,21.0,10,1,10,5,5,2,0,0,6,0,7,5,0.713,0,0,0.0,0,0,0.0,116,97,0
+77149,1973,27300710,1974-02-21 19:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,0,1,48.0,23,3,26,15,11,5,0,0,3,0,18,10,0.556,0,0,0.0,5,3,0.599,103,122,0
+77149,1973,27300554,1974-02-23 20:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,1,1,25.0,1,0,10,5,5,0,0,0,6,0,5,0,0.0,0,0,0.0,2,1,0.5,125,106,0
+77149,1973,27300567,1974-02-26 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,1,21.0,6,3,7,3,4,2,1,0,1,0,6,3,0.5,0,0,0.0,0,0,0.0,120,100,0
+77149,1973,27300575,1974-02-28 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,44.0,10,5,13,9,4,6,2,0,4,0,9,4,0.444,0,0,0.0,2,2,1.0,129,109,0
+77149,1973,27300588,1974-03-02 20:00:00,Golden State,Warriors,Chicago,Bulls,Regular Season,1,1,13.0,2,2,3,0,0,0,0,0,4,0,2,0,0.0,0,0,0.0,2,2,1.0,103,88,0
+77149,1973,27300592,1974-03-03 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,5.0,0,0,1,1,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,108,104,0
+77149,1973,27300600,1974-03-05 20:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,1,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,93,95,0
+77149,1973,27300606,1974-03-07 20:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,0,1,28.0,10,1,13,9,4,3,2,0,3,0,6,4,0.667,0,0,0.0,4,2,0.5,95,97,0
+77149,1973,27300609,1974-03-08 20:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,0,1,46.0,18,5,21,15,6,6,0,0,4,0,14,8,0.57,0,0,0.0,2,2,1.0,96,106,0
+77149,1973,27300621,1974-03-10 20:00:00,Golden State,Warriors,Capital,Bullets,Regular Season,0,0,48.0,12,0,17,12,5,5,0,0,4,0,10,5,0.5,0,0,0.0,2,2,1.0,117,107,0
+77149,1973,27300712,1974-03-11 19:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,0,1,30.0,10,2,9,3,6,1,3,0,6,0,7,4,0.57,0,0,0.0,3,2,0.667,108,120,0
+77149,1973,27300628,1974-03-12 20:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,0,0,35.0,17,1,13,3,10,1,3,0,5,0,14,8,0.57,0,0,0.0,3,1,0.333,113,108,0
+77149,1973,27300634,1974-03-14 20:00:00,Golden State,Warriors,New York,Knicks,Regular Season,1,0,44.0,10,0,22,15,7,5,2,0,3,0,10,5,0.5,0,0,0.0,0,0,0.0,95,107,0
+77149,1973,27300640,1974-03-15 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,1,48.0,14,7,30,20,10,0,0,0,4,0,11,6,0.545,0,0,0.0,3,2,0.667,107,112,0
+77149,1973,27300646,1974-03-16 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,1,18.0,12,0,15,9,6,0,1,0,5,0,10,6,0.599,0,0,0.0,1,0,0.0,135,105,0
+77149,1973,27300658,1974-03-19 20:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,1,0,41.0,4,2,11,9,2,0,1,0,3,0,7,2,0.285,0,0,0.0,0,0,0.0,100,111,0
+77149,1973,27300665,1974-03-20 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,0,45.0,13,1,20,15,5,4,0,0,5,0,14,6,0.428,0,0,0.0,3,1,0.333,110,107,0
+77149,1973,27300667,1974-03-21 20:00:00,Golden State,Warriors,Buffalo,Braves,Regular Season,1,0,45.0,20,1,20,9,11,4,0,0,2,0,14,9,0.643,0,0,0.0,3,2,0.667,102,115,0
+77149,1973,27300679,1974-03-23 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,0,27.0,15,2,14,10,4,2,2,0,5,0,8,5,0.625,0,0,0.0,6,5,0.832,137,139,0
+77149,1973,27300684,1974-03-24 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,41.0,6,1,7,6,1,2,0,0,5,0,8,3,0.375,0,0,0.0,4,0,0.0,134,121,0
+77149,1973,27300693,1974-03-26 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,44.0,18,3,18,13,5,9,0,0,2,0,14,8,0.57,0,0,0.0,2,2,1.0,143,120,0
+77149,1973,27300696,1974-03-27 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,37.0,14,0,9,8,1,4,0,0,4,0,7,5,0.713,0,0,0.0,4,4,1.0,132,122,0
+77149,1974,27400009,1974-10-18 19:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,14.0,0,0,8,5,3,0,0,0,1,0,2,0,0.0,0,0,0.0,0,0,0.0,105,90,0
+77149,1974,27400011,1974-10-19 19:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,1,1,13.0,4,1,4,1,3,5,0,0,1,0,5,2,0.4,0,0,0.0,0,0,0.0,113,110,0
+77149,1974,27400022,1974-10-22 19:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,0,10.0,0,0,2,1,1,0,0,0,2,0,2,0,0.0,0,0,0.0,0,0,0.0,106,107,0
+77149,1974,27400036,1974-10-25 19:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,1,14.0,2,0,9,4,5,3,0,0,2,0,4,1,0.25,0,0,0.0,0,0,0.0,97,99,0
+77149,1974,27400041,1974-10-26 19:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,1,1,12.0,4,1,2,1,1,0,1,0,3,0,2,2,1.0,0,0,0.0,0,0,0.0,105,104,0
+77149,1974,27400049,1974-10-29 19:00:00,Golden State,Warriors,Buffalo,Braves,Regular Season,1,1,25.0,12,3,15,5,10,3,2,0,4,0,9,5,0.556,0,0,0.0,2,2,1.0,130,101,0
+77149,1974,27400064,1974-11-01 19:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,1,25.0,5,1,11,7,4,1,0,0,2,0,5,2,0.4,0,0,0.0,2,1,0.5,88,99,0
+77149,1974,27400071,1974-11-02 19:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,1,1,21.0,16,2,10,7,3,2,0,0,2,0,9,8,0.889,0,0,0.0,1,0,0.0,99,90,0
+77149,1974,27400074,1974-11-03 19:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,1,30.0,7,1,14,9,5,3,0,0,5,0,5,3,0.599,0,0,0.0,1,1,1.0,100,109,0
+77149,1974,27400086,1974-11-07 19:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,0,31.0,11,1,11,6,5,1,1,0,2,0,9,5,0.556,0,0,0.0,2,1,0.5,93,104,0
+77149,1974,27400094,1974-11-09 19:00:00,Golden State,Warriors,New York,Knicks,Regular Season,1,1,24.0,8,1,15,10,5,3,0,0,1,0,9,4,0.444,0,0,0.0,0,0,0.0,97,93,0
+77149,1974,27400097,1974-11-10 19:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,1,12.0,0,0,4,1,3,2,0,0,1,0,3,0,0.0,0,0,0.0,0,0,0.0,103,106,0
+77149,1974,27400102,1974-11-12 19:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,1,1,24.0,12,0,10,4,6,3,2,0,2,0,8,5,0.625,0,0,0.0,2,2,1.0,128,111,0
+77149,1974,27400123,1974-11-16 19:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,1,0,10.0,0,0,2,2,0,0,1,0,2,0,4,0,0.0,0,0,0.0,0,0,0.0,102,106,0
+77149,1974,27400129,1974-11-17 19:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,1,15.0,9,2,8,7,1,2,1,0,4,0,4,3,0.75,0,0,0.0,4,3,0.75,105,106,0
+77149,1974,27400134,1974-11-19 19:00:00,Golden State,Warriors,Buffalo,Braves,Regular Season,0,0,23.0,6,2,2,1,1,1,0,0,5,0,5,3,0.599,0,0,0.0,0,0,0.0,111,106,0
+77149,1974,27400138,1974-11-20 19:00:00,Golden State,Warriors,Boston,Celtics,Regular Season,0,1,8.0,4,0,2,1,1,0,0,0,2,0,2,2,1.0,0,0,0.0,0,0,0.0,115,120,0
+77149,1974,27403002,1974-11-21 19:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,0,0,16.0,4,1,5,4,1,1,0,0,4,0,3,2,0.667,0,0,0.0,0,0,0.0,106,74,0
+77149,1974,27400154,1974-11-23 19:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,0,1,14.0,4,1,6,4,2,1,0,0,0,0,3,2,0.667,0,0,0.0,0,0,0.0,98,110,0
+77149,1974,27400161,1974-11-26 19:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,1,29.0,16,0,12,6,6,0,0,0,5,0,11,8,0.726,0,0,0.0,0,0,0.0,144,124,0
+77149,1974,27400179,1974-11-30 19:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,1,21.0,3,0,14,10,4,3,0,0,2,0,4,1,0.25,0,0,0.0,2,1,0.5,128,118,0
+77149,1974,27400189,1974-12-03 19:00:00,Golden State,Warriors,New Orleans,Jazz,Regular Season,1,1,25.0,13,2,14,12,2,4,0,0,5,0,7,5,0.713,0,0,0.0,4,3,0.75,122,101,0
+77149,1974,27400199,1974-12-05 19:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,15.0,3,0,8,6,2,1,0,0,3,0,1,0,0.0,0,0,0.0,5,3,0.599,108,106,0
+77149,1974,27400209,1974-12-07 19:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,1,22.0,9,1,15,8,7,2,1,0,3,0,8,4,0.5,0,0,0.0,2,1,0.5,132,96,0
+77149,1974,27400218,1974-12-10 19:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,0,11.0,2,0,3,2,1,0,0,0,2,0,3,1,0.333,0,0,0.0,0,0,0.0,111,97,0
+77149,1974,27400222,1974-12-11 19:00:00,Golden State,Warriors,New Orleans,Jazz,Regular Season,0,0,23.0,6,1,10,8,2,1,0,0,3,0,5,3,0.599,0,0,0.0,0,0,0.0,106,103,0
+77149,1974,27400228,1974-12-12 19:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,0,1,24.0,8,0,7,3,4,4,1,0,2,0,6,4,0.667,0,0,0.0,0,0,0.0,109,129,0
+77149,1974,27400239,1974-12-14 19:00:00,Golden State,Warriors,Washington,Bullets,Regular Season,0,0,22.0,7,1,17,9,8,2,0,0,3,0,9,3,0.333,0,0,0.0,2,1,0.5,99,91,0
+77149,1974,27400245,1974-12-17 19:00:00,Golden State,Warriors,New York,Knicks,Regular Season,0,1,14.0,6,1,5,2,3,0,0,0,4,0,4,2,0.5,0,0,0.0,2,2,1.0,108,126,0
+77149,1974,27400259,1974-12-20 19:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,0,1,12.0,1,0,4,2,2,2,1,0,2,0,4,0,0.0,0,0,0.0,2,1,0.5,93,94,0
+77149,1974,27400267,1974-12-21 19:00:00,Golden State,Warriors,Kansas City-Omaha,Kings,Regular Season,0,0,18.0,4,0,5,2,3,2,0,0,5,0,4,2,0.5,0,0,0.0,0,0,0.0,107,84,0
+77149,1974,27400273,1974-12-23 19:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,1,16.0,2,0,9,6,3,2,0,0,5,0,2,1,0.5,0,0,0.0,0,0,0.0,111,94,0
+77149,1974,27400279,1974-12-26 19:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,14.0,3,0,4,3,1,1,0,0,4,0,2,1,0.5,0,0,0.0,2,1,0.5,112,101,0
+77149,1974,27400287,1974-12-28 19:00:00,Golden State,Warriors,Boston,Celtics,Regular Season,1,0,16.0,3,2,4,3,1,3,0,0,0,0,3,0,0.0,0,0,0.0,4,3,0.75,105,115,0
+77149,1974,27400295,1974-12-30 19:00:00,Golden State,Warriors,Kansas City-Omaha,Kings,Regular Season,1,1,16.0,2,1,2,2,0,2,0,0,1,0,1,0,0.0,0,0,0.0,2,2,1.0,110,102,0
+77149,1974,27400312,1975-01-04 19:00:00,Golden State,Warriors,Washington,Bullets,Regular Season,1,1,18.0,6,2,12,8,4,0,0,0,2,0,1,1,1.0,0,0,0.0,5,4,0.8,104,96,0
+77149,1974,27400327,1975-01-07 19:00:00,Golden State,Warriors,New Orleans,Jazz,Regular Season,1,1,25.0,11,0,11,6,5,1,1,0,3,0,10,5,0.5,0,0,0.0,5,1,0.2,136,94,0
+77149,1974,27400335,1975-01-09 19:00:00,Golden State,Warriors,New York,Knicks,Regular Season,1,1,29.0,4,1,10,9,1,2,1,0,1,0,4,1,0.25,0,0,0.0,2,2,1.0,132,96,0
+77149,1974,27400343,1975-01-10 19:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,1,27.0,10,1,7,4,3,3,2,0,3,0,9,4,0.444,0,0,0.0,2,2,1.0,94,119,0
+77149,1974,27400347,1975-01-11 19:00:00,Golden State,Warriors,Chicago,Bulls,Regular Season,1,0,18.0,2,0,4,4,0,1,3,0,3,0,2,1,0.5,0,0,0.0,0,0,0.0,105,114,0
+77149,1974,27400354,1975-01-16 19:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,0,0,19.0,2,1,5,3,2,0,0,0,3,0,4,0,0.0,0,0,0.0,3,2,0.667,119,100,0
+77149,1974,27400356,1975-01-17 19:00:00,Golden State,Warriors,Buffalo,Braves,Regular Season,0,0,20.0,2,1,5,3,2,2,0,0,4,0,3,0,0.0,0,0,0.0,2,2,1.0,121,116,0
+77149,1974,27400366,1975-01-18 19:00:00,Golden State,Warriors,Washington,Bullets,Regular Season,0,0,25.0,10,3,11,6,5,1,0,0,3,0,8,5,0.625,0,0,0.0,0,0,0.0,125,101,0
+77149,1974,27400376,1975-01-21 19:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,1,22.0,12,2,10,4,6,4,2,0,3,0,8,6,0.75,0,0,0.0,0,0,0.0,138,108,0
+77149,1974,27400385,1975-01-23 19:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,1,1,24.0,6,0,17,10,7,4,0,0,3,0,8,3,0.375,0,0,0.0,0,0,0.0,108,100,0
+77149,1974,27400395,1975-01-25 19:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,24.0,6,0,11,6,5,0,0,0,2,0,5,2,0.4,0,0,0.0,2,2,1.0,114,109,0
+77149,1974,27400401,1975-01-26 19:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,18.0,6,4,5,5,0,4,1,0,6,0,3,1,0.333,0,0,0.0,5,4,0.8,128,113,0
+77149,1974,27400414,1975-01-29 19:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,0,0,11.0,4,0,2,2,0,3,0,0,4,0,2,2,1.0,0,0,0.0,0,0,0.0,93,90,0
+77149,1974,27400419,1975-01-31 19:00:00,Golden State,Warriors,Chicago,Bulls,Regular Season,0,0,15.0,6,1,1,0,1,0,0,0,3,0,5,3,0.599,0,0,0.0,0,0,0.0,127,103,0
+77149,1974,27400431,1975-02-02 19:00:00,Golden State,Warriors,Kansas City-Omaha,Kings,Regular Season,0,0,31.0,3,1,11,7,4,1,0,0,4,0,5,1,0.2,0,0,0.0,2,1,0.5,127,101,0
+77149,1974,27400436,1975-02-04 19:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,1,4.0,0,0,1,1,0,0,1,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,105,107,0
+77149,1974,27400449,1975-02-06 19:00:00,Golden State,Warriors,Washington,Bullets,Regular Season,1,0,8.0,0,1,2,2,0,0,0,0,2,0,0,0,0.0,0,0,0.0,0,0,0.0,97,98,0
+77149,1974,27400460,1975-02-08 19:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,1,8.0,0,0,2,1,1,1,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,105,96,0
+77149,1974,27400469,1975-02-11 19:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,0,4.0,0,0,3,2,1,1,0,0,3,0,0,0,0.0,0,0,0.0,0,0,0.0,108,112,0
+77149,1974,27403025,1975-02-13 19:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,0,0,8.0,2,0,6,3,3,1,0,0,0,0,3,1,0.333,0,0,0.0,0,0,0.0,96,93,0
+77149,1974,27400484,1975-02-14 19:00:00,Golden State,Warriors,Chicago,Bulls,Regular Season,0,0,7.0,2,0,4,4,0,0,0,0,1,0,0,0,0.0,0,0,0.0,2,2,1.0,105,87,0
+77149,1974,27400487,1975-02-15 19:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,0,1,8.0,2,0,2,1,1,2,1,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,101,108,0
+77149,1974,27400497,1975-02-18 19:00:00,Golden State,Warriors,New York,Knicks,Regular Season,0,0,13.0,3,0,5,4,1,0,0,0,0,0,1,1,1.0,0,0,0.0,3,1,0.333,99,98,0
+77149,1974,27400505,1975-02-20 19:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,1,1,16.0,2,0,7,5,2,5,0,0,4,0,6,1,0.167,0,0,0.0,0,0,0.0,108,102,0
+77149,1974,27400511,1975-02-21 19:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,1,12.0,2,1,3,1,2,1,0,0,3,0,3,1,0.333,0,0,0.0,0,0,0.0,93,105,0
+77149,1974,27400514,1975-02-22 19:00:00,Golden State,Warriors,Boston,Celtics,Regular Season,1,1,8.0,0,0,2,1,1,0,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,114,108,0
+77149,1974,27400523,1975-02-25 19:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,0,14.0,4,0,8,4,4,1,1,0,4,0,3,2,0.667,0,0,0.0,0,0,0.0,97,111,0
+77149,1974,27400540,1975-02-28 19:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,9.0,2,1,2,2,0,1,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,102,96,0
+77149,1974,27400546,1975-03-01 19:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,1,1,23.0,3,4,10,8,2,3,2,0,4,0,2,1,0.5,0,0,0.0,2,1,0.5,110,95,0
+77149,1974,27400554,1975-03-02 19:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,20.0,4,0,6,3,3,0,0,0,2,0,4,1,0.25,0,0,0.0,2,2,1.0,122,86,0
+77149,1974,27400556,1975-03-04 19:00:00,Golden State,Warriors,Chicago,Bulls,Regular Season,1,1,25.0,0,1,11,10,1,2,0,0,2,0,1,0,0.0,0,0,0.0,0,0,0.0,117,102,0
+77149,1974,27400566,1975-03-06 19:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,0,0,14.0,2,0,2,2,0,3,0,0,0,0,1,1,1.0,0,0,0.0,1,0,0.0,110,106,0
+77149,1974,27400569,1975-03-07 19:00:00,Golden State,Warriors,New Orleans,Jazz,Regular Season,0,0,24.0,11,0,9,6,3,3,0,0,5,0,9,5,0.556,0,0,0.0,3,1,0.333,110,107,0
+77149,1974,27400580,1975-03-09 19:00:00,Golden State,Warriors,Boston,Celtics,Regular Season,0,1,13.0,2,0,4,3,1,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,101,102,0
+77149,1974,27400590,1975-03-11 19:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,0,1,18.0,2,3,10,6,4,5,1,0,4,0,2,1,0.5,0,0,0.0,1,0,0.0,90,107,0
+77149,1974,27400597,1975-03-13 19:00:00,Golden State,Warriors,Buffalo,Braves,Regular Season,1,0,14.0,4,0,4,2,2,1,0,0,2,0,4,2,0.5,0,0,0.0,0,0,0.0,103,122,0
+77149,1974,27400606,1975-03-15 19:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,1,26.0,10,1,11,5,6,2,0,0,4,0,9,5,0.556,0,0,0.0,0,0,0.0,120,84,0
+77149,1974,27400610,1975-03-16 19:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,16.0,0,4,5,3,2,0,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,111,95,0
+77149,1974,27400615,1975-03-18 19:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,1,31.0,6,2,9,5,4,5,1,0,5,0,4,2,0.5,0,0,0.0,2,2,1.0,133,103,0
+77149,1974,27400626,1975-03-20 19:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,6.0,2,0,2,2,0,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,97,95,0
+77149,1974,27400635,1975-03-22 19:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,1,1,18.0,2,1,6,2,4,2,1,0,0,0,3,1,0.333,0,0,0.0,0,0,0.0,133,117,0
+77149,1974,27400646,1975-03-25 19:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,1,19.0,2,1,7,6,1,1,1,0,4,0,2,1,0.5,0,0,0.0,0,0,0.0,139,122,0
+77149,1974,27400657,1975-03-27 19:00:00,Golden State,Warriors,Kansas City-Omaha,Kings,Regular Season,1,1,5.0,0,0,2,2,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,111,103,0
+77149,1974,27400665,1975-03-28 19:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,0,11.0,1,0,4,2,2,0,0,0,0,0,0,0,0.0,0,0,0.0,2,1,0.5,96,92,0
+77149,1974,27400667,1975-03-29 19:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,1,1,21.0,1,1,5,4,1,0,2,0,4,0,0,0,0.0,0,0,0.0,2,1,0.5,115,112,0
+77149,1974,27400692,1975-04-04 19:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,1,21.0,0,0,8,5,3,3,0,0,2,0,3,0,0.0,0,0,0.0,0,0,0.0,99,128,0
+77149,1974,27400697,1975-04-05 19:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,0,30.0,7,3,17,9,8,2,0,0,5,0,9,3,0.333,0,0,0.0,2,1,0.5,108,109,0
+77149,1974,47400241,1975-04-14 19:00:00,Golden State,Warriors,Seattle,SuperSonics,Playoffs,1,1,24.0,8,2,8,0,0,0,0,0,4,0,3,3,1.0,0,0,0.0,2,2,1.0,123,96,0
+77149,1974,47400242,1975-04-16 19:00:00,Golden State,Warriors,Seattle,SuperSonics,Playoffs,1,0,19.0,7,0,8,0,0,3,0,0,4,0,3,3,1.0,0,0,0.0,2,1,0.5,99,100,0
+77149,1974,47400243,1975-04-17 19:00:00,Golden State,Warriors,Seattle,SuperSonics,Playoffs,0,1,17.0,2,1,13,0,0,0,0,0,4,0,2,1,0.5,0,0,0.0,0,0,0.0,96,105,0
+77149,1974,47400224,1975-04-19 19:00:00,Golden State,Warriors,Seattle,SuperSonics,Playoffs,0,0,21.0,5,0,4,0,0,3,0,0,2,0,6,2,0.333,0,0,0.0,2,1,0.5,111,94,0
+77149,1974,47400245,1975-04-22 19:00:00,Golden State,Warriors,Seattle,SuperSonics,Playoffs,1,1,20.0,3,2,13,0,0,3,0,0,2,0,6,1,0.167,0,0,0.0,2,1,0.5,124,100,0
+77149,1974,47400246,1975-04-24 19:00:00,Golden State,Warriors,Seattle,SuperSonics,Playoffs,0,1,33.0,18,5,15,0,0,8,0,0,4,0,10,8,0.8,0,0,0.0,7,2,0.285,96,105,0
+77149,1974,47400321,1975-04-27 19:00:00,Golden State,Warriors,Chicago,Bulls,Playoffs,1,1,27.0,5,0,11,0,0,0,0,0,3,0,4,2,0.5,0,0,0.0,2,1,0.5,107,89,0
+77149,1974,47400322,1975-04-30 19:00:00,Golden State,Warriors,Chicago,Bulls,Playoffs,0,0,12.0,0,0,4,0,0,2,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,90,89,0
+77149,1974,47400313,1975-05-04 19:00:00,Golden State,Warriors,Chicago,Bulls,Playoffs,0,0,14.0,2,0,2,1,1,1,0,0,1,0,1,1,1.0,0,0,0.0,0,0,0.0,108,101,0
+77149,1974,47400324,1975-05-06 19:00:00,Golden State,Warriors,Chicago,Bulls,Playoffs,1,1,3.0,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0,0,0.0,0,0,0.0,111,106,0
+77149,1974,47400325,1975-05-08 19:00:00,Golden State,Warriors,Chicago,Bulls,Playoffs,1,0,24.0,3,0,7,0,0,2,0,0,3,0,3,1,0.333,0,0,0.0,2,1,0.5,79,89,0
+77149,1974,47400316,1975-05-11 19:00:00,Golden State,Warriors,Chicago,Bulls,Playoffs,0,1,12.0,3,0,4,2,2,0,1,0,2,0,1,0,0.0,0,0,0.0,4,3,0.75,72,86,0
+77149,1974,47400317,1975-05-14 19:00:00,Golden State,Warriors,Chicago,Bulls,Playoffs,1,1,22.0,6,0,7,2,5,5,0,0,4,0,7,3,0.428,0,0,0.0,0,0,0.0,83,79,0
+77149,1974,47400401,1975-05-18 19:00:00,Golden State,Warriors,Washington,Bullets,Playoffs,0,1,10.0,2,1,2,1,1,2,0,0,2,0,2,1,0.5,0,0,0.0,0,0,0.0,95,101,0
+77149,1974,47400402,1975-05-20 19:00:00,Golden State,Warriors,Washington,Bullets,Playoffs,1,1,25.0,6,0,8,5,3,3,0,0,2,0,4,3,0.75,0,0,0.0,0,0,0.0,92,91,0
+77149,1974,47400403,1975-05-23 19:00:00,Golden State,Warriors,Washington,Bullets,Playoffs,1,1,16.0,10,2,9,3,6,2,0,0,6,0,5,3,0.599,0,0,0.0,4,4,1.0,109,101,0
+77149,1974,47409404,1975-05-25 19:00:00,Golden State,Warriors,Washington,Bullets,Playoffs,0,1,22.0,8,2,11,5,6,4,1,0,3,0,6,4,0.667,0,0,0.0,0,0,0.0,95,96,0
+77149,1975,27500001,1975-10-23 20:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,0,1,29.0,3,4,9,5,4,2,0,0,2,0,3,1,0.333,0,0,0.0,2,1,0.5,83,89,0
+77149,1975,27500013,1975-10-25 20:00:00,Golden State,Warriors,Buffalo,Braves,Regular Season,0,0,16.0,8,1,9,4,5,1,2,0,6,0,6,4,0.667,0,0,0.0,0,0,0.0,104,92,0
+77149,1975,27500017,1975-10-28 19:30:00,Golden State,Warriors,New York,Knicks,Regular Season,0,1,12.0,6,0,5,2,3,0,1,0,2,0,5,3,0.599,0,0,0.0,2,0,0.0,94,111,0
+77149,1975,27500022,1975-10-29 19:30:00,Golden State,Warriors,Boston,Celtics,Regular Season,0,0,23.0,8,1,6,3,3,0,0,0,5,0,4,3,0.75,0,0,0.0,4,2,0.5,115,106,0
+77149,1975,27500038,1975-11-01 17:00:00,Golden State,Warriors,Washington,Bullets,Regular Season,1,1,19.0,4,1,6,4,2,2,0,0,2,0,2,2,1.0,0,0,0.0,0,0,0.0,100,89,0
+77149,1975,27500054,1975-11-06 19:30:00,Golden State,Warriors,New York,Knicks,Regular Season,1,1,18.0,10,0,4,3,1,1,1,0,2,0,5,3,0.599,0,0,0.0,4,4,1.0,111,96,0
+77149,1975,27500064,1975-11-08 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,1,15.0,2,0,10,7,3,1,1,0,4,0,3,1,0.333,0,0,0.0,0,0,0.0,114,106,0
+77149,1975,27500072,1975-11-11 19:30:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,1,1,21.0,7,0,11,10,1,2,1,0,2,0,3,2,0.667,0,0,0.0,4,3,0.75,103,98,0
+77149,1975,27500082,1975-11-13 19:30:00,Golden State,Warriors,Chicago,Bulls,Regular Season,1,1,26.0,4,2,13,0,0,0,0,0,2,0,5,2,0.4,0,0,0.0,0,0,0.0,98,87,0
+77149,1975,27500094,1975-11-15 20:00:00,Golden State,Warriors,Kansas City,Kings,Regular Season,1,1,28.0,7,2,12,9,3,4,4,0,3,0,7,3,0.428,0,0,0.0,3,1,0.333,123,92,0
+77149,1975,27500099,1975-11-16 19:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,0,6.0,2,0,2,2,0,0,0,0,5,0,0,0,0.0,0,0,0.0,2,2,1.0,102,98,0
+77149,1975,27500101,1975-11-18 19:35:00,Golden State,Warriors,New Orleans,Jazz,Regular Season,0,1,12.0,4,1,4,3,1,1,0,0,2,0,5,2,0.4,0,0,0.0,0,0,0.0,104,112,0
+77149,1975,27500106,1975-11-19 20:05:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,0,0,15.0,0,1,1,1,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,104,98,0
+77149,1975,27500120,1975-11-22 20:05:00,Golden State,Warriors,Washington,Bullets,Regular Season,0,1,22.0,7,2,10,8,2,2,1,0,3,0,6,1,0.167,0,0,0.0,6,5,0.832,71,111,0
+77149,1975,27500128,1975-11-25 20:05:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,0,0,8.0,0,0,2,2,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,109,108,0
+77149,1975,27500137,1975-11-27 20:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,0,1,17.0,4,1,6,4,2,1,0,0,5,0,3,2,0.667,0,0,0.0,0,0,0.0,105,106,0
+77149,1975,27500150,1975-11-29 20:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,1,22.0,12,1,9,5,4,3,2,0,2,0,10,6,0.599,0,0,0.0,0,0,0.0,112,100,0
+77149,1975,27500156,1975-12-02 19:30:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,20.0,2,0,4,3,1,0,1,0,3,0,2,1,0.5,0,0,0.0,0,0,0.0,115,98,0
+77149,1975,27500180,1975-12-06 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,1,18.0,2,0,9,6,3,1,2,0,2,0,6,1,0.167,0,0,0.0,0,0,0.0,104,94,0
+77149,1975,27500182,1975-12-07 13:40:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,1,17.0,0,0,5,0,0,0,0,0,4,0,5,0,0.0,0,0,0.0,0,0,0.0,106,115,0
+77149,1975,27500185,1975-12-09 19:30:00,Golden State,Warriors,Detroit,Pistons,Regular Season,1,1,14.0,0,0,1,1,0,1,0,0,3,0,2,0,0.0,0,0,0.0,0,0,0.0,129,124,0
+77149,1975,27500198,1975-12-11 19:30:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,24.0,2,3,6,5,1,5,0,0,3,0,2,1,0.5,0,0,0.0,0,0,0.0,101,89,0
+77149,1975,27500214,1975-12-14 19:35:00,Golden State,Warriors,Kansas City,Kings,Regular Season,0,1,25.0,8,1,17,15,2,2,0,0,4,0,6,4,0.667,0,0,0.0,2,0,0.0,105,115,0
+77149,1975,27500220,1975-12-16 19:30:00,Golden State,Warriors,Chicago,Bulls,Regular Season,0,1,24.0,8,0,12,8,4,3,0,0,1,0,5,4,0.8,0,0,0.0,0,0,0.0,87,91,0
+77149,1975,27500224,1975-12-17 19:35:00,Golden State,Warriors,Detroit,Pistons,Regular Season,0,1,25.0,13,0,9,6,3,7,1,0,3,0,7,5,0.713,0,0,0.0,6,3,0.5,102,113,0
+77149,1975,27500242,1975-12-20 20:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,1,1,16.0,10,2,6,3,3,4,0,0,4,0,5,5,1.0,0,0,0.0,0,0,0.0,124,87,0
+77149,1975,27500245,1975-12-21 19:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,1,16.0,4,0,2,2,0,0,0,0,4,0,2,2,1.0,0,0,0.0,0,0,0.0,102,108,0
+77149,1975,27500252,1975-12-23 19:30:00,Golden State,Warriors,New Orleans,Jazz,Regular Season,1,1,22.0,6,0,7,4,3,4,1,0,4,0,6,3,0.5,0,0,0.0,0,0,0.0,105,97,0
+77149,1975,27500269,1975-12-27 20:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,0,25.0,10,1,9,0,0,4,0,0,3,0,5,4,0.8,0,0,0.0,2,2,1.0,110,113,0
+77149,1975,27500277,1975-12-28 19:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,24.0,4,0,11,7,4,4,0,0,2,0,3,2,0.667,0,0,0.0,0,0,0.0,96,92,0
+77149,1975,27500281,1975-12-30 19:30:00,Golden State,Warriors,Boston,Celtics,Regular Season,1,1,23.0,4,0,2,2,0,1,1,0,3,0,6,2,0.333,0,0,0.0,0,0,0.0,133,101,0
+77149,1975,27500293,1976-01-02 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,1,16.0,1,0,8,4,4,5,0,0,4,0,2,0,0.0,0,0,0.0,2,1,0.5,105,113,0
+77149,1975,27500302,1976-01-03 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,1,20.0,6,1,8,7,1,1,0,0,5,0,3,3,1.0,0,0,0.0,0,0,0.0,130,99,0
+77149,1975,27500305,1976-01-04 19:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,0,7.0,0,0,3,1,2,0,1,0,5,0,2,0,0.0,0,0,0.0,0,0,0.0,97,85,0
+77149,1975,27500315,1976-01-07 19:30:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,1,15.0,2,2,7,6,1,3,0,0,2,0,1,1,1.0,0,0,0.0,0,0,0.0,110,114,0
+77149,1975,27500323,1976-01-08 19:30:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,1,31.0,8,2,11,9,2,3,2,0,4,0,7,4,0.57,0,0,0.0,0,0,0.0,129,113,0
+77149,1975,27500333,1976-01-10 20:00:00,Golden State,Warriors,New York,Knicks,Regular Season,1,1,24.0,4,3,7,5,2,3,1,0,2,0,7,2,0.285,0,0,0.0,0,0,0.0,117,87,0
+77149,1975,27500342,1976-01-13 19:30:00,Golden State,Warriors,Buffalo,Braves,Regular Season,1,1,38.0,4,4,17,10,7,4,1,0,3,0,4,2,0.5,0,0,0.0,0,0,0.0,127,101,0
+77149,1975,27500354,1976-01-16 19:35:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,1,17.0,6,2,5,5,0,3,1,0,2,0,5,3,0.599,0,0,0.0,0,0,0.0,103,128,0
+77149,1975,27500361,1976-01-17 20:05:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,0,0,27.0,2,0,7,5,2,4,0,0,4,0,2,1,0.5,0,0,0.0,0,0,0.0,97,91,0
+77149,1975,27500373,1976-01-20 19:35:00,Golden State,Warriors,Kansas City,Kings,Regular Season,0,1,24.0,15,1,10,3,7,1,2,0,2,0,8,7,0.875,0,0,0.0,2,1,0.5,103,116,0
+77149,1975,27500381,1976-01-22 19:30:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,1,21.0,16,1,14,5,9,3,3,0,5,0,9,7,0.778,0,0,0.0,2,2,1.0,129,105,0
+77149,1975,27500393,1976-01-24 20:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,0,14.0,0,0,5,1,4,3,0,0,2,0,4,0,0.0,0,0,0.0,0,0,0.0,123,125,0
+77149,1975,27500400,1976-01-26 20:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,0,1,29.0,5,3,8,5,3,4,1,0,4,0,2,2,1.0,0,0,0.0,2,1,0.5,104,115,0
+77149,1975,27500403,1976-01-27 19:30:00,Golden State,Warriors,Chicago,Bulls,Regular Season,0,0,12.0,4,0,5,1,4,0,0,0,5,0,6,2,0.333,0,0,0.0,0,0,0.0,110,103,0
+77149,1975,27500417,1976-01-29 19:30:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,1,1,28.0,8,1,10,5,5,3,0,0,5,0,6,4,0.667,0,0,0.0,2,0,0.0,123,114,0
+77149,1975,27500426,1976-01-31 15:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,1,1,20.0,6,0,6,4,2,0,0,0,3,0,4,3,0.75,0,0,0.0,0,0,0.0,90,88,0
+77149,1975,27500434,1976-02-01 12:10:00,Golden State,Warriors,Washington,Bullets,Regular Season,1,0,22.0,8,0,7,2,5,2,1,0,4,0,7,4,0.57,0,0,0.0,0,0,0.0,99,101,0
+77149,1975,27500439,1976-02-06 19:30:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,32.0,2,1,7,0,0,2,0,0,6,0,3,1,0.333,0,0,0.0,0,0,0.0,118,111,0
+77149,1975,27500447,1976-02-07 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,1,22.0,4,0,11,8,3,0,1,0,4,0,5,1,0.2,0,0,0.0,3,2,0.667,127,100,0
+77149,1975,27500452,1976-02-08 19:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,1,24.0,2,4,6,5,1,5,0,0,6,0,3,0,0.0,0,0,0.0,2,2,1.0,105,109,0
+77149,1975,27500460,1976-02-10 19:30:00,Golden State,Warriors,New Orleans,Jazz,Regular Season,1,0,35.0,10,2,15,9,6,4,0,0,6,0,9,4,0.444,0,0,0.0,3,2,0.667,124,130,0
+77149,1975,27500469,1976-02-12 19:30:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,1,1,25.0,2,0,8,6,2,1,0,0,3,0,2,1,0.5,0,0,0.0,0,0,0.0,113,104,0
+77149,1975,27500479,1976-02-14 19:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,1,1,28.0,5,1,9,7,2,3,0,0,4,0,3,2,0.667,0,0,0.0,2,1,0.5,106,105,0
+77149,1975,27500492,1976-02-17 19:30:00,Golden State,Warriors,New York,Knicks,Regular Season,0,1,16.0,2,0,7,7,0,1,0,0,3,0,1,1,1.0,0,0,0.0,0,0,0.0,96,104,0
+77149,1975,27500151,1976-02-18 19:00:00,Golden State,Warriors,Kansas City,Kings,Regular Season,0,0,36.0,8,1,9,9,0,1,0,0,3,0,3,2,0.667,0,0,0.0,5,4,0.8,103,91,0
+77149,1975,27500510,1976-02-21 20:00:00,Golden State,Warriors,Boston,Celtics,Regular Season,1,1,14.0,2,0,5,4,1,1,0,0,2,0,2,1,0.5,0,0,0.0,0,0,0.0,100,94,0
+77149,1975,27500519,1976-02-22 19:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,1,1,32.0,5,0,17,11,6,3,2,0,2,0,7,1,0.142,0,0,0.0,4,3,0.75,94,93,0
+77149,1975,27500531,1976-02-27 20:05:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,0,1,29.0,6,2,6,6,0,0,1,0,2,0,5,2,0.4,0,0,0.0,2,2,1.0,114,121,0
+77149,1975,27500545,1976-02-29 15:10:00,Golden State,Warriors,Boston,Celtics,Regular Season,0,0,23.0,7,0,8,4,4,2,0,0,4,0,7,3,0.428,0,0,0.0,2,1,0.5,119,101,0
+77149,1975,27500548,1976-03-02 19:30:00,Golden State,Warriors,Buffalo,Braves,Regular Season,0,1,10.0,2,0,2,2,0,1,0,0,5,0,3,1,0.333,0,0,0.0,0,0,0.0,93,100,0
+77149,1975,27500557,1976-03-04 19:30:00,Golden State,Warriors,Chicago,Bulls,Regular Season,1,1,34.0,5,0,7,5,2,2,0,0,3,0,3,1,0.333,0,0,0.0,4,3,0.75,124,110,0
+77149,1975,27500564,1976-03-05 19:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,11.0,3,1,7,4,3,1,0,0,4,0,5,1,0.2,0,0,0.0,2,1,0.5,106,99,0
+77149,1975,27500567,1976-03-06 20:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,1,1,27.0,5,3,12,8,4,0,0,0,4,0,6,2,0.333,0,0,0.0,2,1,0.5,117,106,0
+77149,1975,27500578,1976-03-09 19:35:00,Golden State,Warriors,Detroit,Pistons,Regular Season,0,1,25.0,4,3,6,5,1,0,2,0,5,0,3,2,0.667,0,0,0.0,0,0,0.0,108,112,0
+77149,1975,27503025,1976-03-11 19:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,0,0,20.0,6,2,7,6,1,1,0,0,3,0,4,2,0.5,0,0,0.0,4,2,0.5,110,99,0
+77149,1975,27500595,1976-03-13 19:35:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,1,28.0,0,3,4,4,0,1,2,0,3,0,2,0,0.0,0,0,0.0,0,0,0.0,97,111,0
+77149,1975,27500602,1976-03-14 19:35:00,Golden State,Warriors,New Orleans,Jazz,Regular Season,0,0,22.0,4,0,8,6,2,0,0,0,3,0,4,1,0.25,0,0,0.0,2,2,1.0,118,103,0
+77149,1975,27500608,1976-03-16 19:30:00,Golden State,Warriors,Detroit,Pistons,Regular Season,1,1,16.0,6,0,10,6,4,1,0,0,2,0,4,3,0.75,0,0,0.0,0,0,0.0,110,101,0
+77149,1975,27500616,1976-03-18 19:30:00,Golden State,Warriors,Buffalo,Braves,Regular Season,1,1,16.0,2,0,5,4,1,1,0,0,2,0,3,1,0.333,0,0,0.0,0,0,0.0,110,109,0
+77149,1975,27500628,1976-03-20 20:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,1,1,24.0,7,0,10,6,4,2,0,0,3,0,4,2,0.5,0,0,0.0,4,3,0.75,120,106,0
+77149,1975,27500637,1976-03-23 19:30:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,1,1,30.0,0,4,10,9,1,8,3,0,2,0,4,0,0.0,0,0,0.0,0,0,0.0,118,100,0
+77149,1975,27500651,1976-03-25 19:30:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,0,22.0,9,0,11,7,4,1,0,0,4,0,6,2,0.333,0,0,0.0,6,5,0.832,104,123,0
+77149,1975,27500661,1976-03-27 20:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,1,19.0,5,2,8,6,2,3,2,0,3,0,7,2,0.285,0,0,0.0,1,1,1.0,113,97,0
+77149,1975,27500667,1976-03-28 19:00:00,Golden State,Warriors,Kansas City,Kings,Regular Season,1,1,9.0,0,3,5,5,0,1,0,0,5,0,0,0,0.0,0,0,0.0,0,0,0.0,134,117,0
+77149,1975,27500674,1976-03-30 19:30:00,Golden State,Warriors,Chicago,Bulls,Regular Season,0,1,29.0,6,0,8,6,2,11,1,0,2,0,3,2,0.667,0,0,0.0,2,2,1.0,84,94,0
+77149,1975,27500681,1976-03-31 20:05:00,Golden State,Warriors,Washington,Bullets,Regular Season,0,1,17.0,2,1,8,7,1,1,0,0,3,0,1,1,1.0,0,0,0.0,0,0,0.0,88,95,0
+77149,1975,27500697,1976-04-03 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,1,26.0,10,1,6,5,1,10,2,0,6,0,7,3,0.428,0,0,0.0,5,4,0.8,130,115,0
+77149,1975,27500700,1976-04-04 19:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,10.0,0,0,1,0,1,0,1,0,3,0,1,0,0.0,0,0,0.0,0,0,0.0,118,111,0
+77149,1975,27500711,1976-04-06 19:30:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,1,31.0,6,1,14,8,6,3,1,0,5,0,7,3,0.428,0,0,0.0,0,0,0.0,111,106,0
+77149,1975,27500720,1976-04-08 19:30:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,25.0,5,1,7,4,3,1,0,0,2,0,5,2,0.4,0,0,0.0,2,1,0.5,121,106,0
+77149,1975,27500724,1976-04-09 20:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,0,17.0,2,2,6,4,2,0,0,0,6,0,1,1,1.0,0,0,0.0,0,0,0.0,119,103,0
+77149,1975,47500231,1976-04-20 19:00:00,Golden State,Warriors,Detroit,Pistons,Playoffs,1,1,21.0,6,0,8,0,0,5,0,0,3,0,2,2,1.0,0,0,0.0,2,2,1.0,127,103,0
+77149,1975,47500232,1976-04-22 19:00:00,Golden State,Warriors,Detroit,Pistons,Playoffs,1,0,22.0,4,2,8,0,0,2,0,0,5,0,5,2,0.4,0,0,0.0,0,0,0.0,111,123,0
+77149,1975,47500233,1976-04-24 19:00:00,Golden State,Warriors,Detroit,Pistons,Playoffs,0,1,24.0,10,1,11,0,0,1,3,0,4,0,8,5,0.625,0,0,0.0,0,0,0.0,96,113,0
+77149,1975,47500234,1976-04-26 19:00:00,Golden State,Warriors,Detroit,Pistons,Playoffs,0,0,23.0,9,2,5,0,0,1,0,0,3,0,7,2,0.285,0,0,0.0,6,5,0.832,106,102,0
+77149,1975,47500019,1976-04-28 19:00:00,Golden State,Warriors,Detroit,Pistons,Playoffs,1,1,19.0,6,1,6,0,0,0,0,0,2,0,4,2,0.5,0,0,0.0,4,2,0.5,128,109,0
+77149,1975,47500216,1976-04-30 19:00:00,Golden State,Warriors,Detroit,Pistons,Playoffs,0,1,13.0,0,0,2,0,0,1,0,0,3,0,0,0,0.0,0,0,0.0,0,0,0.0,116,118,0
+77149,1975,47500321,1976-05-02 19:00:00,Golden State,Warriors,Phoenix,Suns,Playoffs,1,1,22.0,6,0,9,5,4,2,2,0,3,0,5,3,0.599,0,0,0.0,0,0,0.0,128,103,0
+77149,1975,47500322,1976-05-05 19:00:00,Golden State,Warriors,Phoenix,Suns,Playoffs,1,0,22.0,10,1,11,6,5,3,0,0,5,0,6,5,0.832,0,0,0.0,0,0,0.0,101,108,0
+77149,1975,47500323,1976-05-07 19:00:00,Golden State,Warriors,Phoenix,Suns,Playoffs,0,1,19.0,6,1,4,4,0,3,0,0,2,0,5,3,0.599,0,0,0.0,1,0,0.0,91,99,0
+77149,1975,47500314,1976-05-09 19:00:00,Golden State,Warriors,Phoenix,Suns,Playoffs,0,0,27.0,5,3,8,5,3,1,2,0,4,0,4,2,0.5,0,0,0.0,2,1,0.5,133,129,0
+77149,1975,47500325,1976-05-12 19:00:00,Golden State,Warriors,Phoenix,Suns,Playoffs,1,1,8.0,0,2,1,1,0,1,1,0,3,0,1,0,0.0,0,0,0.0,0,0,0.0,111,95,0
+77149,1975,47500326,1976-05-14 19:00:00,Golden State,Warriors,Phoenix,Suns,Playoffs,0,0,26.0,10,2,9,7,2,2,1,0,5,0,3,3,1.0,0,0,0.0,4,4,1.0,105,104,0
+77149,1975,47500317,1976-05-16 19:00:00,Golden State,Warriors,Phoenix,Suns,Playoffs,1,0,15.0,4,2,5,0,0,1,0,0,4,0,4,2,0.5,0,0,0.0,0,0,0.0,86,94,0
+77149,1976,27600010,1976-10-22 19:00:00,Golden State,Warriors,New York,Nets,Regular Season,1,0,11.0,1,1,4,3,1,0,0,0,1,0,2,0,0.0,0,0,0.0,2,1,0.5,103,104,0
+77149,1976,27600028,1976-10-26 19:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,3.0,0,0,1,1,0,0,0,0,3,0,1,0,0.0,0,0,0.0,0,0,0.0,110,96,0
+77149,1976,27600037,1976-10-28 19:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,2.0,0,0,1,1,0,1,0,0,3,0,0,0,0.0,0,0,0.0,0,0,0.0,112,92,0
+77149,1976,27600048,1976-10-30 19:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,1,1,15.0,9,2,6,0,6,4,1,0,3,0,7,4,0.57,0,0,0.0,2,1,0.5,114,106,0
+77149,1976,27600062,1976-11-02 19:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,1,1,8.0,0,1,1,1,0,2,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,111,98,0
+77149,1976,27600070,1976-11-04 19:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,1,0,10.0,3,0,4,3,1,0,0,0,1,0,2,1,0.5,0,0,0.0,1,1,1.0,96,101,0
+77149,1976,27600081,1976-11-06 19:00:00,Golden State,Warriors,New York,Knicks,Regular Season,1,0,5.0,0,1,1,1,0,1,1,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,111,112,0
+77149,1976,27600092,1976-11-09 19:00:00,Golden State,Warriors,Denver,Nuggets,Regular Season,0,0,7.0,0,2,1,1,0,0,1,0,2,0,0,0,0.0,0,0,0.0,0,0,0.0,123,117,0
+77149,1976,27600109,1976-11-11 19:00:00,Golden State,Warriors,Kansas City,Kings,Regular Season,1,0,5.0,0,0,4,3,1,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,86,94,0
+77149,1976,27600116,1976-11-13 19:00:00,Golden State,Warriors,Indiana,Pacers,Regular Season,1,1,13.0,0,0,3,3,0,1,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,120,112,0
+77149,1976,27600142,1976-11-18 19:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,1,16.0,6,0,9,4,5,5,0,0,2,0,7,3,0.428,0,0,0.0,0,0,0.0,131,111,0
+77149,1976,27600148,1976-11-19 19:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,11.0,0,0,6,5,1,1,0,0,3,0,1,0,0.0,0,0,0.0,2,0,0.0,121,99,0
+77149,1976,27600156,1976-11-20 19:00:00,Golden State,Warriors,Buffalo,Braves,Regular Season,1,1,16.0,0,2,5,2,3,0,1,0,4,0,5,0,0.0,0,0,0.0,0,0,0.0,130,93,0
+77149,1976,27600168,1976-11-23 19:00:00,Golden State,Warriors,New Orleans,Jazz,Regular Season,0,0,24.0,4,1,10,4,6,0,0,0,5,0,3,1,0.333,0,0,0.0,2,2,1.0,117,94,0
+77149,1976,27600173,1976-11-24 19:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,0,34.0,8,2,22,7,15,1,0,0,3,0,15,4,0.267,0,0,0.0,0,0,0.0,113,107,0
+77149,1976,27600178,1976-11-26 19:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,0,0,37.0,11,4,12,7,5,6,2,0,5,0,7,4,0.57,0,0,0.0,3,3,1.0,123,121,0
+77149,1976,27600197,1976-11-28 19:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,0,1,20.0,10,0,6,2,4,5,2,0,5,0,7,4,0.57,0,0,0.0,2,2,1.0,98,132,0
+77149,1976,27600201,1976-11-30 19:00:00,Golden State,Warriors,Chicago,Bulls,Regular Season,0,1,10.0,4,0,2,2,0,1,1,0,4,0,1,1,1.0,0,0,0.0,2,2,1.0,120,125,0
+77149,1976,27600214,1976-12-02 19:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,1,1,16.0,6,0,8,6,2,3,0,0,1,0,5,3,0.599,0,0,0.0,0,0,0.0,124,116,0
+77149,1976,27600226,1976-12-04 19:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,1,18.0,2,1,6,6,0,2,1,0,3,0,2,1,0.5,0,0,0.0,0,0,0.0,116,114,0
+77149,1976,27600238,1976-12-07 19:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,1,1,16.0,2,0,8,7,1,2,0,0,1,0,3,1,0.333,0,0,0.0,0,0,0.0,120,104,0
+77149,1976,27600258,1976-12-10 19:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,0,15.0,6,0,1,1,0,1,0,0,4,0,5,3,0.599,0,0,0.0,1,0,0.0,99,93,0
+77149,1976,27600261,1976-12-11 19:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,1,21.0,12,1,7,3,4,3,0,0,4,0,6,4,0.667,0,0,0.0,4,4,1.0,124,112,0
+77149,1976,27600280,1976-12-15 19:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,0,0,10.0,2,1,1,1,0,1,0,0,4,0,2,1,0.5,0,0,0.0,0,0,0.0,136,116,0
+77149,1976,27600288,1976-12-17 19:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,0,1,16.0,7,0,6,2,4,5,0,0,3,0,5,3,0.599,0,0,0.0,1,1,1.0,114,117,0
+77149,1976,27600299,1976-12-18 19:00:00,Golden State,Warriors,Washington,Bullets,Regular Season,0,1,22.0,6,0,5,3,2,1,1,0,6,0,4,2,0.5,0,0,0.0,2,2,1.0,110,115,0
+77149,1976,27600310,1976-12-21 19:00:00,Golden State,Warriors,San Antonio,Spurs,Regular Season,0,0,20.0,8,1,10,6,4,3,0,0,3,0,5,4,0.8,0,0,0.0,0,0,0.0,123,120,0
+77149,1976,27600322,1976-12-23 19:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,0,0,24.0,13,1,11,5,6,2,0,0,2,0,12,5,0.416,0,0,0.0,3,3,1.0,112,103,0
+77149,1976,27600345,1976-12-28 19:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,1,0,11.0,6,0,4,0,4,4,0,0,1,0,3,3,1.0,0,0,0.0,0,0,0.0,102,113,0
+77149,1976,27600356,1976-12-30 19:00:00,Golden State,Warriors,Chicago,Bulls,Regular Season,1,1,17.0,6,1,6,3,3,1,1,0,4,0,5,3,0.599,0,0,0.0,0,0,0.0,124,106,0
+77149,1976,27600366,1977-01-02 19:00:00,Golden State,Warriors,Boston,Celtics,Regular Season,1,1,9.0,2,0,3,1,2,1,0,0,3,0,1,1,1.0,0,0,0.0,0,0,0.0,105,98,0
+77149,1976,27600372,1977-01-04 19:00:00,Golden State,Warriors,New York,Knicks,Regular Season,0,1,14.0,4,1,5,5,0,1,0,0,6,0,2,2,1.0,0,0,0.0,0,0,0.0,110,120,0
+77149,1976,27600378,1977-01-05 19:00:00,Golden State,Warriors,Buffalo,Braves,Regular Season,0,1,12.0,4,0,5,3,2,1,0,0,2,0,6,2,0.333,0,0,0.0,0,0,0.0,109,118,0
+77149,1976,27603016,1977-01-06 19:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,0,0,19.0,0,0,3,3,0,1,0,0,1,0,2,0,0.0,0,0,0.0,0,0,0.0,129,100,0
+77149,1976,27600394,1977-01-08 19:00:00,Golden State,Warriors,New Orleans,Jazz,Regular Season,1,1,29.0,5,1,9,6,3,7,1,0,4,0,7,2,0.285,0,0,0.0,2,1,0.5,114,107,0
+77149,1976,27600403,1977-01-11 19:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,1,0,19.0,10,1,8,6,2,2,0,0,1,0,6,5,0.832,0,0,0.0,0,0,0.0,121,129,0
+77149,1976,27600418,1977-01-13 19:00:00,Golden State,Warriors,Kansas City,Kings,Regular Season,0,0,17.0,2,1,4,4,0,1,1,0,2,0,2,1,0.5,0,0,0.0,0,0,0.0,116,114,0
+77149,1976,27600420,1977-01-14 19:00:00,Golden State,Warriors,Indiana,Pacers,Regular Season,0,1,20.0,12,0,3,3,0,3,1,0,3,0,8,5,0.625,0,0,0.0,2,2,1.0,109,113,0
+77149,1976,27600439,1977-01-16 19:00:00,Golden State,Warriors,New York,Knicks,Regular Season,1,0,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,97,111,0
+77149,1976,27600462,1977-01-21 19:00:00,Buffalo,Braves,Chicago,Bulls,Regular Season,0,0,0.0,7,0,11,0,0,2,0,0,4,0,9,3,0.333,0,0,0.0,1,1,1.0,110,89,0
+77149,1976,27600467,1977-01-22 19:00:00,Buffalo,Braves,Kansas City,Kings,Regular Season,0,0,37.0,12,0,10,0,0,6,0,0,5,0,12,6,0.5,0,0,0.0,0,0,0.0,132,104,0
+77149,1976,27600479,1977-01-24 19:00:00,Buffalo,Braves,Denver,Nuggets,Regular Season,0,0,33.0,16,1,18,7,11,3,0,0,6,0,14,7,0.5,0,0,0.0,4,2,0.5,127,102,0
+77149,1976,27600484,1977-01-26 19:00:00,Buffalo,Braves,Milwaukee,Bucks,Regular Season,1,1,30.0,7,2,11,0,0,1,0,0,2,0,4,2,0.5,0,0,0.0,4,3,0.75,114,109,0
+77149,1976,27600527,1977-02-03 19:00:00,Buffalo,Braves,Atlanta,Hawks,Regular Season,0,0,22.0,2,1,9,0,0,0,0,0,6,0,5,1,0.2,0,0,0.0,0,0,0.0,100,98,0
+77149,1976,27600546,1977-02-06 19:00:00,Buffalo,Braves,Boston,Celtics,Regular Season,0,0,24.0,4,1,7,0,0,0,0,0,3,0,6,2,0.333,0,0,0.0,0,0,0.0,113,97,0
+77149,1976,27600554,1977-02-08 19:00:00,Buffalo,Braves,Philadelphia,76ers,Regular Season,1,1,34.0,13,1,17,0,0,0,0,0,6,0,8,5,0.625,0,0,0.0,4,3,0.75,99,89,0
+77149,1976,27600562,1977-02-09 19:00:00,Buffalo,Braves,Los Angeles,Lakers,Regular Season,1,0,30.0,13,2,10,0,0,0,0,0,2,0,12,5,0.416,0,0,0.0,3,3,1.0,90,105,0
+77149,1976,27600574,1977-02-11 19:00:00,Buffalo,Braves,New York,Nets,Regular Season,0,1,19.0,0,1,11,0,0,0,0,0,5,0,2,0,0.0,0,0,0.0,0,0,0.0,94,96,0
+77149,1976,27600577,1977-02-15 19:00:00,Buffalo,Braves,Washington,Bullets,Regular Season,1,0,31.0,13,1,10,0,0,0,0,0,6,0,11,6,0.545,0,0,0.0,2,1,0.5,114,126,0
+77149,1976,27600584,1977-02-16 19:00:00,Buffalo,Braves,Philadelphia,76ers,Regular Season,0,0,0.0,15,0,0,0,0,0,0,0,0,0,0,5,0.0,0,0,0.0,7,5,0.713,117,113,0
+77149,1976,27600591,1977-02-17 19:00:00,Buffalo,Braves,Cleveland,Cavaliers,Regular Season,1,1,26.0,9,5,11,6,5,3,0,0,3,0,6,4,0.667,0,0,0.0,1,1,1.0,112,103,0
+77149,1976,27600604,1977-02-19 19:00:00,Buffalo,Braves,Seattle,SuperSonics,Regular Season,1,1,21.0,5,1,7,0,0,3,0,0,5,0,2,2,1.0,0,0,0.0,3,1,0.333,103,100,0
+77149,1976,27600615,1977-02-21 19:00:00,Buffalo,Braves,Indiana,Pacers,Regular Season,1,1,36.0,11,2,13,0,0,3,1,0,1,0,10,5,0.5,0,0,0.0,1,1,1.0,117,106,0
+77149,1976,27600616,1977-02-22 19:00:00,Buffalo,Braves,Phoenix,Suns,Regular Season,1,1,32.0,4,2,15,14,1,4,2,0,3,0,4,2,0.5,0,0,0.0,0,0,0.0,115,114,0
+77149,1976,27600634,1977-02-25 19:00:00,Buffalo,Braves,Golden State,Warriors,Regular Season,1,0,33.0,8,4,13,9,4,1,0,0,0,0,10,4,0.4,0,0,0.0,0,0,0.0,97,104,0
+77149,1976,27600643,1977-02-27 19:00:00,Buffalo,Braves,Washington,Bullets,Regular Season,0,0,30.0,10,2,10,0,0,0,0,0,3,0,4,3,0.75,0,0,0.0,5,4,0.8,117,105,0
+77149,1976,27600651,1977-03-01 19:00:00,Buffalo,Braves,New York,Nets,Regular Season,1,0,18.0,0,1,5,0,0,0,0,0,0,0,4,0,0.0,0,0,0.0,0,0,0.0,95,104,0
+77149,1976,27600659,1977-03-02 19:00:00,Buffalo,Braves,Indiana,Pacers,Regular Season,0,0,14.0,4,3,4,0,0,0,0,0,5,0,5,2,0.4,0,0,0.0,0,0,0.0,116,108,0
+77149,1976,27600669,1977-03-04 19:00:00,Buffalo,Braves,New Orleans,Jazz,Regular Season,0,1,26.0,10,0,11,0,0,0,0,0,4,0,9,4,0.444,0,0,0.0,2,2,1.0,91,95,0
+77149,1976,27600672,1977-03-05 19:00:00,Buffalo,Braves,San Antonio,Spurs,Regular Season,1,0,31.0,14,5,15,0,0,3,0,0,4,0,13,6,0.462,0,0,0.0,3,2,0.667,109,120,0
+77149,1976,27600686,1977-03-07 19:00:00,Buffalo,Braves,Houston,Rockets,Regular Season,1,0,30.0,2,6,3,0,0,0,1,0,0,0,0,1,0.0,0,0,0.0,0,0,0.0,107,128,0
+77149,1976,27600692,1977-03-08 19:00:00,Buffalo,Braves,Portland,Trail Blazers,Regular Season,1,1,34.0,7,2,14,12,2,5,1,0,6,0,5,2,0.4,0,0,0.0,4,3,0.75,102,95,0
+77149,1976,27600705,1977-03-11 19:00:00,Buffalo,Braves,Chicago,Bulls,Regular Season,1,1,0.0,5,0,14,0,0,3,0,0,4,0,5,1,0.2,0,0,0.0,3,3,1.0,95,90,0
+77149,1976,27600716,1977-03-13 19:00:00,Buffalo,Braves,Denver,Nuggets,Regular Season,1,1,29.0,6,2,14,12,2,2,1,0,4,0,3,2,0.667,0,0,0.0,3,2,0.667,102,95,0
+77149,1976,27600733,1977-03-17 19:00:00,Buffalo,Braves,Kansas City,Kings,Regular Season,0,0,28.0,13,3,8,0,0,4,0,0,1,0,9,6,0.667,0,0,0.0,2,1,0.5,125,104,0
+77149,1976,27600743,1977-03-19 19:00:00,Buffalo,Braves,Houston,Rockets,Regular Season,0,0,35.0,15,3,5,0,0,6,0,0,0,0,0,6,0.0,0,0,0.0,4,3,0.75,110,104,0
+77149,1976,27603030,1977-03-20 19:00:00,Buffalo,Braves,Cleveland,Cavaliers,Regular Season,0,0,28.0,4,3,8,8,0,5,1,0,2,0,8,2,0.25,0,0,0.0,3,0,0.0,115,108,0
+77149,1976,27600760,1977-03-22 19:00:00,Buffalo,Braves,Atlanta,Hawks,Regular Season,1,0,0.0,4,0,0,0,0,0,0,0,0,0,0,2,0.0,0,0,0.0,0,0,0.0,84,86,0
+77149,1976,27600770,1977-03-24 19:00:00,Buffalo,Braves,Phoenix,Suns,Regular Season,0,1,25.0,11,2,9,6,3,3,1,0,4,0,7,5,0.713,0,0,0.0,2,1,0.5,102,107,0
+77149,1976,27600793,1977-03-27 19:00:00,Buffalo,Braves,Los Angeles,Lakers,Regular Season,0,0,23.0,3,4,16,0,0,0,0,0,4,0,7,1,0.142,0,0,0.0,2,1,0.5,92,89,0
+77149,1976,27600799,1977-03-29 19:00:00,Buffalo,Braves,Portland,Trail Blazers,Regular Season,0,0,25.0,4,2,6,6,0,3,0,0,4,0,6,2,0.333,0,0,0.0,0,0,0.0,127,101,0
+77149,1976,27600811,1977-03-31 19:00:00,Buffalo,Braves,Denver,Nuggets,Regular Season,0,0,18.0,2,3,6,3,3,2,0,0,5,0,5,1,0.2,0,0,0.0,0,0,0.0,110,95,0
+77149,1976,27600824,1977-04-02 19:00:00,Buffalo,Braves,Milwaukee,Bucks,Regular Season,1,1,0.0,6,0,0,0,0,0,0,0,0,0,0,3,0.0,0,0,0.0,0,0,0.0,94,93,0
+77149,1976,27600827,1977-04-03 19:00:00,Buffalo,Braves,New York,Knicks,Regular Season,0,0,29.0,7,1,9,0,0,0,0,0,0,0,9,2,0.222,0,0,0.0,4,3,0.75,130,111,0
+77149,1976,27600840,1977-04-05 19:00:00,Buffalo,Braves,Chicago,Bulls,Regular Season,0,0,0.0,8,0,6,0,0,1,0,0,6,0,8,4,0.5,0,0,0.0,0,0,0.0,91,89,0
+77149,1976,27600844,1977-04-06 19:00:00,Buffalo,Braves,New Orleans,Jazz,Regular Season,1,1,24.0,8,1,12,0,0,0,0,0,4,0,9,4,0.444,0,0,0.0,0,0,0.0,107,102,0
+77149,1976,27600857,1977-04-08 19:00:00,Buffalo,Braves,New York,Knicks,Regular Season,1,0,22.0,6,2,9,0,0,0,0,0,4,0,9,3,0.333,0,0,0.0,0,0,0.0,102,104,0
+77149,1976,27600871,1977-04-10 19:00:00,Buffalo,Braves,Chicago,Bulls,Regular Season,1,0,0.0,8,0,11,0,0,1,0,0,4,0,7,4,0.57,0,0,0.0,0,0,0.0,99,120,0
+77149,1977,27700002,1977-10-18 20:00:00,New Jersey,Nets,Detroit,Pistons,Regular Season,0,0,36.0,13,1,10,0,0,0,0,0,4,0,9,3,0.333,0,0,0.0,8,7,0.875,110,93,0
+77149,1977,27700014,1977-10-21 20:00:00,New Jersey,Nets,New Orleans,Jazz,Regular Season,1,0,17.0,0,0,1,0,0,0,0,0,4,0,4,0,0.0,0,0,0.0,0,0,0.0,103,111,0
+77149,1977,27700029,1977-10-22 20:00:00,New Jersey,Nets,Buffalo,Braves,Regular Season,0,0,0.0,6,0,0,0,0,0,0,0,0,0,0,3,0.0,0,0,0.0,0,0,0.0,101,96,0
+77149,1977,27700041,1977-10-26 20:00:00,New Jersey,Nets,Atlanta,Hawks,Regular Season,1,0,35.0,7,3,12,0,0,10,0,0,6,0,6,2,0.333,0,0,0.0,3,3,1.0,110,113,0
+77149,1977,27700053,1977-10-28 20:00:00,New Jersey,Nets,Boston,Celtics,Regular Season,1,1,38.0,8,3,8,0,0,0,0,0,4,0,7,2,0.285,0,0,0.0,8,4,0.5,116,109,0
+77149,1977,27700075,1977-11-02 20:00:00,New Jersey,Nets,Los Angeles,Lakers,Regular Season,1,0,44.0,8,6,16,11,5,8,1,6,2,0,10,4,0.4,0,0,0.0,0,0,0.0,102,107,0
+77149,1977,27700080,1977-11-04 20:00:00,New Jersey,Nets,Philadelphia,76ers,Regular Season,1,0,36.0,9,1,15,0,0,0,0,0,6,0,12,3,0.25,0,0,0.0,6,3,0.5,104,107,0
+77149,1977,27700092,1977-11-05 20:00:00,New Jersey,Nets,Cleveland,Cavaliers,Regular Season,0,0,27.0,4,2,13,9,4,4,0,5,4,0,7,1,0.142,0,0,0.0,2,2,1.0,105,93,0
+77149,1977,27700106,1977-11-09 20:00:00,New Jersey,Nets,Philadelphia,76ers,Regular Season,0,0,26.0,20,0,7,0,0,0,0,0,6,0,14,9,0.643,0,0,0.0,2,2,1.0,130,107,0
+77149,1977,27700120,1977-11-11 20:00:00,New Jersey,Nets,Chicago,Bulls,Regular Season,1,1,16.0,0,1,2,0,0,1,0,0,6,0,7,0,0.0,0,0,0.0,0,0,0.0,91,89,0
+77149,1977,27700127,1977-11-12 20:00:00,New Jersey,Nets,New York,Knicks,Regular Season,0,0,41.0,13,1,14,0,0,0,0,0,4,0,15,5,0.333,0,0,0.0,5,3,0.599,101,90,0
+77149,1977,27700143,1977-11-16 20:00:00,New Jersey,Nets,Milwaukee,Bucks,Regular Season,1,0,28.0,4,2,5,0,0,5,0,0,3,0,8,2,0.25,0,0,0.0,0,0,0.0,106,116,0
+77149,1977,27700151,1977-11-18 20:00:00,New Jersey,Nets,Indiana,Pacers,Regular Season,1,0,27.0,4,1,10,0,0,0,0,0,4,0,8,2,0.25,0,0,0.0,0,0,0.0,116,124,0
+77149,1977,27700159,1977-11-19 20:00:00,New Jersey,Nets,Atlanta,Hawks,Regular Season,0,0,23.0,4,1,9,0,0,0,0,0,6,0,5,2,0.4,0,0,0.0,0,0,0.0,129,114,0
+77149,1977,27700163,1977-11-20 20:00:00,New Jersey,Nets,Denver,Nuggets,Regular Season,1,0,24.0,8,2,9,6,3,7,1,2,3,0,5,2,0.4,0,0,0.0,5,4,0.8,118,125,0
+77149,1977,27700176,1977-11-23 20:00:00,New Jersey,Nets,San Antonio,Spurs,Regular Season,0,0,11.0,4,1,2,0,0,1,0,0,1,0,5,2,0.4,0,0,0.0,0,0,0.0,132,119,0
+77149,1977,27700185,1977-11-25 20:00:00,New Jersey,Nets,Los Angeles,Lakers,Regular Season,0,0,16.0,6,0,7,0,0,0,0,0,6,0,5,3,0.599,0,0,0.0,0,0,0.0,129,117,0
+77149,1977,27700193,1977-11-26 20:00:00,New Jersey,Nets,Portland,Trail Blazers,Regular Season,0,0,38.0,11,2,16,13,3,6,1,0,4,0,10,4,0.4,0,0,0.0,5,3,0.599,114,102,0
+77149,1977,27700199,1977-11-27 20:00:00,New Jersey,Nets,Seattle,SuperSonics,Regular Season,0,1,35.0,11,0,15,14,1,8,0,0,5,0,6,5,0.832,0,0,0.0,2,1,0.5,96,99,0
+77149,1977,27700211,1977-11-29 20:00:00,New Jersey,Nets,Golden State,Warriors,Regular Season,0,0,34.0,7,1,11,7,4,5,1,4,6,0,5,2,0.4,0,0,0.0,4,3,0.75,110,101,0
+77149,1977,27700227,1977-12-02 20:00:00,New Jersey,Nets,Denver,Nuggets,Regular Season,0,0,23.0,4,0,6,2,4,1,0,1,3,0,6,2,0.333,0,0,0.0,0,0,0.0,126,92,0
+77149,1977,27700235,1977-12-03 20:00:00,New Jersey,Nets,Kansas City,Kings,Regular Season,0,0,22.0,0,1,5,0,0,0,0,0,3,0,6,0,0.0,0,0,0.0,0,0,0.0,118,115,0
+77149,1977,27700240,1977-12-04 20:00:00,New Jersey,Nets,Milwaukee,Bucks,Regular Season,0,0,41.0,14,1,15,0,0,2,0,0,3,0,10,6,0.599,0,0,0.0,2,2,1.0,134,118,0
+77149,1977,27700254,1977-12-07 20:00:00,New Jersey,Nets,San Antonio,Spurs,Regular Season,1,0,36.0,16,1,14,0,0,6,0,0,3,0,12,7,0.582,0,0,0.0,4,2,0.5,122,125,0
+77149,1977,27700256,1977-12-08 20:00:00,New Jersey,Nets,Chicago,Bulls,Regular Season,0,0,0.0,8,0,10,0,0,0,0,0,6,0,10,4,0.4,0,0,0.0,0,0,0.0,104,78,0
+77149,1977,27700261,1977-12-09 20:00:00,New Jersey,Nets,Kansas City,Kings,Regular Season,1,1,31.0,13,3,5,0,0,0,0,0,5,0,6,5,0.832,0,0,0.0,4,3,0.75,122,114,0
+77149,1977,27700275,1977-12-11 20:00:00,New Jersey,Nets,Washington,Bullets,Regular Season,0,1,36.0,8,1,19,0,0,0,0,0,5,0,10,3,0.299,0,0,0.0,2,2,1.0,95,106,0
+77149,1977,27700281,1977-12-13 20:00:00,New Jersey,Nets,Boston,Celtics,Regular Season,0,0,23.0,2,1,7,0,0,0,0,0,6,0,6,0,0.0,0,0,0.0,2,2,1.0,122,108,0
+77149,1977,27700286,1977-12-14 20:00:00,New Jersey,Nets,Golden State,Warriors,Regular Season,1,1,35.0,8,1,14,8,6,3,1,7,2,0,9,2,0.222,0,0,0.0,6,4,0.667,108,104,0
+77149,1977,27700293,1977-12-16 20:00:00,New Jersey,Nets,Cleveland,Cavaliers,Regular Season,1,1,33.0,4,3,9,4,5,2,0,1,4,0,8,1,0.125,0,0,0.0,3,2,0.667,116,106,0
+77149,1977,27700325,1977-12-21 20:00:00,New Jersey,Nets,Houston,Rockets,Regular Season,1,0,30.0,8,1,12,0,0,4,2,0,5,0,5,3,0.599,0,0,0.0,5,2,0.4,93,103,0
+77149,1977,27700328,1977-12-22 20:00:00,New Jersey,Nets,New Orleans,Jazz,Regular Season,0,0,23.0,8,0,9,0,0,0,0,0,2,0,9,3,0.333,0,0,0.0,2,2,1.0,131,110,0
+77149,1977,27700332,1977-12-23 20:00:00,New Jersey,Nets,Buffalo,Braves,Regular Season,1,1,26.0,2,2,8,0,0,0,0,0,6,0,3,1,0.333,0,0,0.0,0,0,0.0,103,102,0
+77149,1977,27700362,1977-12-29 20:00:00,New Jersey,Nets,New York,Knicks,Regular Season,1,0,40.0,21,1,16,0,0,8,0,0,2,0,16,9,0.562,0,0,0.0,4,3,0.75,101,109,0
+77149,1977,27700383,1978-01-04 20:00:00,New Jersey,Nets,Phoenix,Suns,Regular Season,1,1,26.0,4,2,13,10,3,5,2,3,0,0,8,2,0.25,0,0,0.0,0,0,0.0,115,83,0
+77149,1977,27700392,1978-01-05 20:00:00,New Jersey,Nets,Cleveland,Cavaliers,Regular Season,0,0,26.0,4,2,7,6,1,0,2,2,3,0,5,2,0.4,0,0,0.0,0,0,0.0,110,94,0
+77149,1977,27700397,1978-01-06 20:00:00,New Jersey,Nets,San Antonio,Spurs,Regular Season,1,0,33.0,24,2,14,0,0,3,0,0,5,0,17,11,0.647,0,0,0.0,4,2,0.5,105,110,0
+77149,1977,27700411,1978-01-08 20:00:00,New Jersey,Nets,Washington,Bullets,Regular Season,1,0,40.0,14,1,13,0,0,0,0,0,5,0,14,7,0.5,0,0,0.0,0,0,0.0,98,99,0
+77149,1977,27700421,1978-01-11 20:00:00,New Jersey,Nets,Golden State,Warriors,Regular Season,1,0,31.0,4,2,6,6,0,4,0,2,5,0,7,2,0.285,0,0,0.0,0,0,0.0,92,103,0
+77149,1977,27700431,1978-01-13 20:00:00,New Jersey,Nets,Boston,Celtics,Regular Season,0,0,40.0,12,1,12,0,0,0,0,0,6,0,14,6,0.428,0,0,0.0,0,0,0.0,114,111,0
+77149,1977,27700441,1978-01-14 20:00:00,New Jersey,Nets,Philadelphia,76ers,Regular Season,1,0,17.0,4,1,5,0,0,0,0,0,6,0,5,2,0.4,0,0,0.0,0,0,0.0,120,136,0
+77149,1977,27700447,1978-01-16 20:00:00,New Jersey,Nets,Indiana,Pacers,Regular Season,0,0,34.0,14,0,10,0,0,0,2,0,6,0,17,5,0.293,0,0,0.0,6,4,0.667,120,112,0
+77149,1977,27700455,1978-01-17 20:00:00,New Jersey,Nets,Milwaukee,Bucks,Regular Season,0,0,33.0,13,2,8,0,0,2,0,0,1,0,10,6,0.599,0,0,0.0,2,1,0.5,119,109,0
+77149,1977,27700462,1978-01-18 20:00:00,New Jersey,Nets,Portland,Trail Blazers,Regular Season,1,0,21.0,6,2,2,2,0,1,0,6,5,0,6,2,0.333,0,0,0.0,2,2,1.0,101,127,0
+77149,1977,27700480,1978-01-22 20:00:00,New Jersey,Nets,Kansas City,Kings,Regular Season,1,0,39.0,8,2,9,0,0,0,0,0,1,0,13,4,0.307,0,0,0.0,0,0,0.0,97,105,0
+77149,1977,27700497,1978-01-26 20:00:00,New Jersey,Nets,Portland,Trail Blazers,Regular Season,0,0,23.0,4,2,5,4,1,1,0,2,4,0,10,2,0.2,0,0,0.0,0,0,0.0,112,77,0
+77149,1977,27700505,1978-01-27 20:00:00,New Jersey,Nets,Seattle,SuperSonics,Regular Season,0,0,28.0,14,1,9,5,4,0,0,0,6,0,10,7,0.699,0,0,0.0,0,0,0.0,95,90,0
+77149,1977,27700512,1978-01-29 20:00:00,New Jersey,Nets,Phoenix,Suns,Regular Season,0,0,20.0,2,1,5,5,0,1,2,1,2,0,8,1,0.125,0,0,0.0,0,0,0.0,131,100,0
+77149,1977,27700524,1978-01-31 20:00:00,New Jersey,Nets,Golden State,Warriors,Regular Season,0,0,35.0,9,0,9,7,2,8,0,5,1,0,9,3,0.333,0,0,0.0,5,3,0.599,103,92,0
+77149,1977,27700528,1978-02-01 20:00:00,New Jersey,Nets,Houston,Rockets,Regular Season,0,0,41.0,12,5,12,0,0,3,0,0,2,0,9,5,0.556,0,0,0.0,2,2,1.0,124,103,0
+77149,1977,27700545,1978-02-03 20:00:00,New Jersey,Nets,Los Angeles,Lakers,Regular Season,1,0,32.0,4,0,11,8,3,4,4,0,6,0,10,2,0.2,0,0,0.0,0,0,0.0,99,105,0
+77149,1977,27700558,1978-02-08 20:00:00,New Jersey,Nets,Indiana,Pacers,Regular Season,1,1,17.0,6,1,4,0,0,2,0,0,5,0,5,3,0.599,0,0,0.0,0,0,0.0,140,138,0
+77149,1977,27700572,1978-02-10 20:00:00,New Jersey,Nets,Detroit,Pistons,Regular Season,1,1,16.0,4,1,8,0,0,0,0,0,5,0,6,2,0.333,0,0,0.0,0,0,0.0,117,112,0
+77149,1977,27700582,1978-02-12 20:00:00,New Jersey,Nets,New York,Knicks,Regular Season,1,1,33.0,16,1,11,0,0,0,0,0,4,0,13,6,0.462,0,0,0.0,4,4,1.0,112,110,0
+77149,1977,27700585,1978-02-13 20:00:00,New Jersey,Nets,Detroit,Pistons,Regular Season,0,0,30.0,10,2,10,0,0,0,0,0,4,0,8,4,0.5,0,0,0.0,2,2,1.0,125,115,0
+77149,1977,27700599,1978-02-16 20:00:00,New Jersey,Nets,Seattle,SuperSonics,Regular Season,1,1,43.0,14,1,17,11,6,0,0,0,4,0,15,5,0.333,0,0,0.0,4,4,1.0,101,92,0
+77149,1977,27700613,1978-02-17 20:00:00,New Jersey,Nets,Cleveland,Cavaliers,Regular Season,1,0,36.0,15,2,14,7,7,1,1,0,5,0,20,6,0.299,0,0,0.0,4,3,0.75,96,99,0
+77149,1977,27700624,1978-02-19 20:00:00,New Jersey,Nets,Philadelphia,76ers,Regular Season,0,0,30.0,12,1,7,0,0,0,0,0,6,0,6,5,0.832,0,0,0.0,4,2,0.5,120,110,0
+77149,1977,27700642,1978-02-24 20:00:00,New Jersey,Nets,Houston,Rockets,Regular Season,1,1,25.0,0,0,10,0,0,1,0,0,4,0,5,0,0.0,0,0,0.0,0,0,0.0,126,112,0
+77149,1977,27700655,1978-02-26 20:00:00,New Jersey,Nets,Boston,Celtics,Regular Season,1,0,31.0,3,0,14,0,0,0,0,0,3,0,10,1,0.1,0,0,0.0,2,1,0.5,92,94,0
+77149,1977,27700676,1978-03-01 20:00:00,New Jersey,Nets,Atlanta,Hawks,Regular Season,1,1,32.0,8,3,8,0,0,8,0,0,3,0,13,4,0.307,0,0,0.0,0,0,0.0,97,95,0
+77149,1977,27700686,1978-03-04 20:00:00,New Jersey,Nets,Buffalo,Braves,Regular Season,0,0,0.0,13,0,13,0,0,0,0,0,0,0,0,6,0.0,0,0,0.0,2,1,0.5,111,107,0
+77149,1977,27700692,1978-03-05 20:00:00,New Jersey,Nets,Buffalo,Braves,Regular Season,1,1,35.0,17,3,12,0,0,0,0,0,4,0,15,7,0.467,0,0,0.0,4,3,0.75,109,103,0
+77149,1977,27700703,1978-03-07 20:00:00,New Jersey,Nets,San Antonio,Spurs,Regular Season,0,0,25.0,10,1,9,0,0,3,1,0,4,0,10,3,0.299,0,0,0.0,4,4,1.0,129,98,0
+77149,1977,27700706,1978-03-08 20:00:00,New Jersey,Nets,Kansas City,Kings,Regular Season,0,1,25.0,8,0,9,0,0,0,0,0,5,0,4,2,0.5,0,0,0.0,4,4,1.0,121,123,0
+77149,1977,27700720,1978-03-10 20:00:00,New Jersey,Nets,New Orleans,Jazz,Regular Season,1,0,20.0,6,0,6,0,0,0,0,0,4,0,7,2,0.285,0,0,0.0,2,2,1.0,99,105,0
+77149,1977,27700724,1978-03-11 20:00:00,New Jersey,Nets,New York,Knicks,Regular Season,0,0,13.0,2,0,3,0,0,0,0,0,6,0,3,1,0.333,0,0,0.0,0,0,0.0,126,117,0
+77149,1977,27700730,1978-03-12 20:00:00,New Jersey,Nets,Detroit,Pistons,Regular Season,1,0,27.0,12,1,9,0,0,0,0,0,5,0,10,6,0.599,0,0,0.0,0,0,0.0,125,130,0
+77149,1977,27700746,1978-03-15 20:00:00,New Jersey,Nets,Phoenix,Suns,Regular Season,1,1,28.0,10,5,7,6,1,5,1,3,4,0,7,4,0.57,0,0,0.0,2,2,1.0,117,98,0
+77149,1977,27700757,1978-03-17 20:00:00,New Jersey,Nets,Denver,Nuggets,Regular Season,1,1,44.0,9,4,14,10,4,9,1,3,5,0,8,3,0.375,0,0,0.0,4,3,0.75,111,109,0
+77149,1977,27700767,1978-03-18 20:00:00,New Jersey,Nets,Houston,Rockets,Regular Season,0,1,40.0,12,0,10,0,0,2,2,0,4,0,12,4,0.333,0,0,0.0,4,4,1.0,104,106,0
+77149,1977,27700778,1978-03-21 20:00:00,New Jersey,Nets,New Orleans,Jazz,Regular Season,0,0,37.0,17,1,13,0,0,12,0,0,5,0,11,6,0.545,0,0,0.0,7,5,0.713,117,114,0
+77149,1977,27700790,1978-03-22 20:00:00,New Jersey,Nets,Chicago,Bulls,Regular Season,1,1,18.0,7,1,3,0,0,3,0,0,5,0,5,2,0.4,0,0,0.0,3,3,1.0,105,99,0
+77149,1977,27700802,1978-03-24 20:00:00,New Jersey,Nets,Washington,Bullets,Regular Season,1,0,36.0,6,1,9,0,0,0,0,0,6,0,12,3,0.25,0,0,0.0,0,0,0.0,104,107,0
+77149,1977,27700814,1978-03-26 20:00:00,New Jersey,Nets,Washington,Bullets,Regular Season,0,1,38.0,15,5,18,0,0,7,5,0,4,0,13,6,0.462,0,0,0.0,6,3,0.5,104,118,0
+77149,1977,27700841,1978-03-31 20:00:00,New Jersey,Nets,Milwaukee,Bucks,Regular Season,1,1,34.0,7,3,11,0,0,0,0,0,5,0,7,3,0.428,0,0,0.0,3,1,0.333,122,114,0
+77149,1977,27700849,1978-04-02 20:00:00,New Jersey,Nets,Atlanta,Hawks,Regular Season,0,0,31.0,10,0,10,0,0,0,0,0,6,0,8,5,0.625,0,0,0.0,0,0,0.0,124,113,0
+77149,1977,27700860,1978-04-04 20:00:00,New Jersey,Nets,Indiana,Pacers,Regular Season,0,1,25.0,7,1,8,0,0,0,0,0,6,0,6,2,0.333,0,0,0.0,4,3,0.75,121,129,0
+77149,1977,27700868,1978-04-05 20:00:00,New Jersey,Nets,Denver,Nuggets,Regular Season,0,0,24.0,7,0,5,3,2,0,1,3,4,0,5,3,0.599,0,0,0.0,2,1,0.5,129,121,0
+77149,1977,27700887,1978-04-07 20:00:00,New Jersey,Nets,Los Angeles,Lakers,Regular Season,0,0,38.0,17,2,14,0,0,0,0,0,5,0,15,7,0.467,0,0,0.0,6,3,0.5,114,106,0
+77149,1977,27700889,1978-04-08 20:00:00,New Jersey,Nets,Phoenix,Suns,Regular Season,0,0,29.0,8,1,5,5,0,5,1,4,3,0,6,3,0.5,0,0,0.0,3,2,0.667,120,109,0
+77149,1978,27800005,1978-10-13 20:00:00,New Jersey,Nets,Detroit,Pistons,Regular Season,0,1,26.0,4,2,5,0,0,0,0,0,6,0,3,2,0.667,0,0,0.0,0,0,0.0,105,107,0
+77149,1978,27800011,1978-10-14 20:00:00,New Jersey,Nets,Los Angeles,Lakers,Regular Season,1,1,31.0,10,1,5,4,1,6,1,3,3,0,9,4,0.444,0,0,0.0,2,2,1.0,102,100,0
+77149,1978,27800020,1978-10-17 20:00:00,New Jersey,Nets,Washington,Bullets,Regular Season,0,0,22.0,2,0,4,0,0,0,0,0,6,0,4,1,0.25,0,0,0.0,0,0,0.0,113,109,0
+77149,1978,27800029,1978-10-18 20:00:00,New Jersey,Nets,Houston,Rockets,Regular Season,0,0,10.0,4,0,4,0,0,0,0,0,0,0,0,2,0.0,0,0,0.0,0,0,0.0,139,87,0
+77149,1978,27800041,1978-10-20 20:00:00,New Jersey,Nets,Denver,Nuggets,Regular Season,1,0,33.0,0,0,4,4,0,0,1,2,5,0,5,0,0.0,0,0,0.0,0,0,0.0,117,126,0
+77149,1978,27800046,1978-10-21 20:00:00,New Jersey,Nets,New York,Knicks,Regular Season,0,0,19.0,5,0,8,0,0,0,0,0,6,0,3,2,0.667,0,0,0.0,3,1,0.333,109,108,0
+77149,1978,27800055,1978-10-24 20:00:00,New Jersey,Nets,Indiana,Pacers,Regular Season,0,1,31.0,4,0,9,0,0,3,0,0,4,0,7,1,0.142,0,0,0.0,2,2,1.0,95,97,0
+77149,1978,27800065,1978-10-25 20:00:00,New Jersey,Nets,Golden State,Warriors,Regular Season,1,1,19.0,6,0,3,0,3,2,1,3,4,0,6,2,0.333,0,0,0.0,2,2,1.0,121,118,0
+77149,1978,27800071,1978-10-27 20:00:00,New Jersey,Nets,Cleveland,Cavaliers,Regular Season,1,1,31.0,8,0,6,2,4,3,0,3,4,0,7,2,0.285,0,0,0.0,4,4,1.0,123,108,0
+77149,1978,27800079,1978-10-28 20:00:00,New Jersey,Nets,Boston,Celtics,Regular Season,1,1,33.0,10,1,9,6,3,7,2,6,4,0,11,5,0.455,0,0,0.0,0,0,0.0,111,109,0
+77149,1978,27800101,1978-11-01 20:00:00,New Jersey,Nets,Milwaukee,Bucks,Regular Season,1,1,18.0,2,1,3,0,0,3,1,0,4,0,3,0,0.0,0,0,0.0,2,2,1.0,131,110,0
+77149,1978,27800112,1978-11-03 20:00:00,New Jersey,Nets,Seattle,SuperSonics,Regular Season,1,0,29.0,4,1,12,8,4,0,0,0,4,0,6,2,0.333,0,0,0.0,2,0,0.0,81,102,0
+77149,1978,27800120,1978-11-04 20:00:00,New Jersey,Nets,Atlanta,Hawks,Regular Season,0,1,0.0,10,0,0,0,0,6,0,0,0,0,0,5,0.0,0,0,0.0,0,0,0.0,117,118,0
+77149,1978,27800130,1978-11-08 20:00:00,New Jersey,Nets,Philadelphia,76ers,Regular Season,0,0,30.0,8,1,10,0,0,8,0,0,5,0,4,3,0.75,0,0,0.0,2,2,1.0,123,117,0
+77149,1978,27800141,1978-11-10 20:00:00,New Jersey,Nets,Portland,Trail Blazers,Regular Season,1,1,35.0,7,3,10,8,2,6,1,1,5,0,6,2,0.333,0,0,0.0,4,3,0.75,91,86,0
+77149,1978,27800154,1978-11-11 20:00:00,New Jersey,Nets,Chicago,Bulls,Regular Season,0,1,0.0,7,0,11,0,0,0,0,0,0,0,0,2,0.0,0,0,0.0,6,3,0.5,112,125,0
+77149,1978,27800159,1978-11-14 20:00:00,New Jersey,Nets,Philadelphia,76ers,Regular Season,1,1,22.0,0,3,8,0,0,0,0,0,3,0,3,0,0.0,0,0,0.0,0,0,0.0,124,108,0
+77149,1978,27800176,1978-11-17 20:00:00,New Jersey,Nets,Washington,Bullets,Regular Season,1,0,26.0,0,2,8,0,0,0,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,94,143,0
+77149,1978,27800189,1978-11-18 20:00:00,New Jersey,Nets,Kansas City,Kings,Regular Season,0,0,45.0,4,2,8,0,0,0,0,0,3,0,7,2,0.285,0,0,0.0,0,0,0.0,114,100,0
+77149,1978,27800198,1978-11-21 20:00:00,New Jersey,Nets,New Orleans,Jazz,Regular Season,0,0,38.0,14,1,13,0,0,0,0,0,5,0,10,7,0.699,0,0,0.0,0,0,0.0,140,118,0
+77149,1978,27800205,1978-11-22 20:00:00,New Jersey,Nets,Golden State,Warriors,Regular Season,1,1,44.0,16,3,20,15,5,6,3,4,5,0,10,5,0.5,0,0,0.0,8,6,0.75,100,92,0
+77149,1978,27800216,1978-11-24 20:00:00,New Jersey,Nets,New Orleans,Jazz,Regular Season,1,1,17.0,7,0,6,0,0,0,0,0,5,0,6,2,0.333,0,0,0.0,4,3,0.75,103,100,0
+77149,1978,27800218,1978-11-25 20:00:00,New Jersey,Nets,San Antonio,Spurs,Regular Season,0,0,20.0,2,0,3,0,0,1,0,0,4,0,6,1,0.167,0,0,0.0,0,0,0.0,151,110,0
+77149,1978,27800236,1978-11-29 20:00:00,New Jersey,Nets,Seattle,SuperSonics,Regular Season,0,0,30.0,5,2,7,7,0,0,0,0,5,0,3,2,0.667,0,0,0.0,2,1,0.5,125,111,0
+77149,1978,27800247,1978-12-01 20:00:00,New Jersey,Nets,Golden State,Warriors,Regular Season,0,1,42.0,25,1,13,9,4,6,2,2,2,0,13,9,0.691,0,0,0.0,10,7,0.699,110,120,0
+77149,1978,27800262,1978-12-03 20:00:00,New Jersey,Nets,Los Angeles,Lakers,Regular Season,0,1,15.0,6,1,4,2,2,0,0,1,5,0,3,2,0.667,0,0,0.0,3,2,0.667,105,107,0
+77149,1978,27800275,1978-12-06 20:00:00,New Jersey,Nets,Denver,Nuggets,Regular Season,0,0,34.0,4,0,6,4,2,4,3,0,5,0,6,1,0.167,0,0,0.0,2,2,1.0,92,83,0
+77149,1978,27800278,1978-12-08 20:00:00,New Jersey,Nets,Washington,Bullets,Regular Season,0,1,39.0,5,1,19,0,0,0,0,0,3,0,8,1,0.125,0,0,0.0,3,3,1.0,100,108,0
+77149,1978,27800290,1978-12-09 20:00:00,New Jersey,Nets,San Diego,Clippers,Regular Season,1,1,18.0,8,0,7,0,0,1,0,1,5,0,5,4,0.8,0,0,0.0,0,0,0.0,125,120,0
+77149,1978,27800311,1978-12-15 20:00:00,New Jersey,Nets,Atlanta,Hawks,Regular Season,1,0,25.0,4,2,6,0,0,8,0,4,3,0,4,2,0.5,0,0,0.0,0,0,0.0,104,121,0
+77149,1978,27800337,1978-12-20 20:00:00,New Jersey,Nets,Houston,Rockets,Regular Season,1,0,26.0,2,1,6,0,0,0,0,0,3,0,2,1,0.5,0,0,0.0,0,0,0.0,105,108,0
+77149,1978,27800372,1978-12-27 20:00:00,New Jersey,Nets,New York,Knicks,Regular Season,1,0,20.0,0,2,4,0,0,0,0,0,5,0,2,0,0.0,0,0,0.0,0,0,0.0,104,115,0
+77149,1978,27800382,1978-12-29 20:00:00,New Jersey,Nets,Kansas City,Kings,Regular Season,1,0,29.0,4,1,3,0,0,0,2,0,5,0,3,2,0.667,0,0,0.0,0,0,0.0,126,137,0
+77149,1978,27800395,1978-12-30 20:00:00,New Jersey,Nets,Cleveland,Cavaliers,Regular Season,0,0,30.0,2,1,8,6,2,5,1,2,1,0,5,1,0.2,0,0,0.0,0,0,0.0,104,94,0
+77149,1978,27800407,1979-01-03 20:00:00,New Jersey,Nets,Houston,Rockets,Regular Season,0,0,0.0,2,0,5,0,0,0,0,0,0,0,0,1,0.0,0,0,0.0,0,0,0.0,127,122,0
+77149,1978,27800415,1979-01-04 20:00:00,New Jersey,Nets,New Orleans,Jazz,Regular Season,0,1,18.0,4,2,12,0,0,0,0,0,5,0,7,2,0.285,0,0,0.0,0,0,0.0,112,125,0
+77149,1978,27800422,1979-01-05 20:00:00,New Jersey,Nets,San Antonio,Spurs,Regular Season,1,0,21.0,4,2,8,0,0,3,0,0,2,0,4,2,0.5,0,0,0.0,0,0,0.0,104,110,0
+77149,1978,27800432,1979-01-07 20:00:00,New Jersey,Nets,Phoenix,Suns,Regular Season,1,1,21.0,2,1,6,6,0,1,0,2,4,0,3,1,0.333,0,0,0.0,0,0,0.0,117,112,0
+77149,1978,27800474,1979-01-17 20:00:00,New Jersey,Nets,Detroit,Pistons,Regular Season,1,1,30.0,18,1,12,0,0,0,0,0,3,0,11,6,0.545,0,0,0.0,7,6,0.856,106,99,0
+77149,1978,27800514,1979-01-24 20:00:00,New Jersey,Nets,Cleveland,Cavaliers,Regular Season,1,0,24.0,2,0,6,1,5,4,1,2,2,0,6,1,0.167,0,0,0.0,0,0,0.0,114,123,0
+77149,1978,27800524,1979-01-26 20:00:00,New Jersey,Nets,New Orleans,Jazz,Regular Season,1,1,27.0,12,2,13,0,0,0,0,0,3,0,10,6,0.599,0,0,0.0,0,0,0.0,110,104,0
+77149,1978,27800533,1979-01-28 20:00:00,New Jersey,Nets,Phoenix,Suns,Regular Season,0,1,28.0,12,0,13,11,2,4,0,2,4,0,5,4,0.8,0,0,0.0,4,4,1.0,114,117,0
+77149,1978,27800546,1979-01-30 20:00:00,New Jersey,Nets,Los Angeles,Lakers,Regular Season,0,0,17.0,8,0,4,1,3,2,0,1,5,0,7,4,0.57,0,0,0.0,0,0,0.0,127,108,0
+77149,1978,27800555,1979-01-31 20:00:00,New Jersey,Nets,San Diego,Clippers,Regular Season,0,0,30.0,6,2,8,0,0,4,3,1,3,0,8,3,0.375,0,0,0.0,0,0,0.0,112,104,0
+77149,1978,27800557,1979-02-01 20:00:00,New Jersey,Nets,Seattle,SuperSonics,Regular Season,0,0,35.0,9,1,9,5,4,0,0,0,5,0,7,3,0.428,0,0,0.0,4,3,0.75,107,102,0
+77149,1978,27800568,1979-02-02 20:00:00,New Jersey,Nets,Portland,Trail Blazers,Regular Season,0,0,19.0,6,0,4,2,2,1,1,1,4,0,6,3,0.5,0,0,0.0,0,0,0.0,117,100,0
+77149,1978,27800574,1979-02-06 20:00:00,New Jersey,Nets,Cleveland,Cavaliers,Regular Season,0,0,19.0,7,2,4,4,0,1,2,2,5,0,3,3,1.0,0,0,0.0,1,1,1.0,119,100,0
+77149,1978,27800579,1979-02-07 20:00:00,New Jersey,Nets,Indiana,Pacers,Regular Season,0,1,19.0,6,3,7,0,0,0,0,0,4,0,8,2,0.25,0,0,0.0,2,2,1.0,84,90,0
+77149,1978,27800586,1979-02-08 20:00:00,New Jersey,Nets,Detroit,Pistons,Regular Season,0,1,42.0,6,0,10,0,0,0,0,0,2,0,9,3,0.333,0,0,0.0,0,0,0.0,105,106,0
+77149,1978,27800607,1979-02-11 20:00:00,New Jersey,Nets,San Diego,Clippers,Regular Season,1,1,20.0,0,0,7,0,0,4,0,1,2,0,7,0,0.0,0,0,0.0,0,0,0.0,104,98,0
+77149,1978,27800611,1979-02-13 20:00:00,New Jersey,Nets,Kansas City,Kings,Regular Season,1,1,34.0,12,1,11,0,0,0,1,0,4,0,8,3,0.375,0,0,0.0,6,6,1.0,111,102,0
+77149,1978,27800617,1979-02-14 20:00:00,New Jersey,Nets,Milwaukee,Bucks,Regular Season,0,0,30.0,7,2,9,0,0,3,2,0,2,0,8,2,0.25,0,0,0.0,4,3,0.75,115,94,0
+77149,1978,27800627,1979-02-16 20:00:00,New Jersey,Nets,Indiana,Pacers,Regular Season,1,0,31.0,16,0,16,0,0,0,0,0,6,0,13,6,0.462,0,0,0.0,4,4,1.0,100,105,0
+77149,1978,27800642,1979-02-18 20:00:00,New Jersey,Nets,Houston,Rockets,Regular Season,1,1,22.0,4,1,8,0,0,0,0,0,6,0,6,2,0.333,0,0,0.0,0,0,0.0,126,124,0
+77149,1978,27800655,1979-02-21 20:00:00,New Jersey,Nets,Phoenix,Suns,Regular Season,1,1,22.0,6,2,7,5,2,2,1,3,5,0,7,3,0.428,0,0,0.0,0,0,0.0,123,112,0
+77149,1978,27800659,1979-02-23 20:00:00,New Jersey,Nets,Portland,Trail Blazers,Regular Season,1,1,36.0,12,1,10,7,3,8,2,5,4,0,5,4,0.8,0,0,0.0,7,4,0.57,110,99,0
+77149,1978,27800669,1979-02-24 20:00:00,New Jersey,Nets,New York,Knicks,Regular Season,0,0,36.0,4,0,10,0,0,0,0,0,4,0,5,2,0.4,0,0,0.0,0,0,0.0,111,107,0
+77149,1978,27800674,1979-02-25 20:00:00,New Jersey,Nets,New York,Knicks,Regular Season,1,1,26.0,4,3,7,0,0,0,0,0,4,0,4,1,0.25,0,0,0.0,4,2,0.5,116,102,0
+77149,1978,27800695,1979-03-02 20:00:00,New Jersey,Nets,Milwaukee,Bucks,Regular Season,1,1,24.0,6,1,5,0,0,5,1,0,3,0,1,0,0.0,0,0,0.0,6,6,1.0,99,91,0
+77149,1978,27800714,1979-03-06 20:00:00,New Jersey,Nets,San Antonio,Spurs,Regular Season,1,0,30.0,13,3,10,0,0,3,2,0,1,0,11,6,0.545,0,0,0.0,1,1,1.0,99,103,0
+77149,1978,27800723,1979-03-07 20:00:00,New Jersey,Nets,Milwaukee,Bucks,Regular Season,0,0,19.0,2,0,1,0,0,3,0,0,6,0,3,1,0.333,0,0,0.0,0,0,0.0,133,98,0
+77149,1978,27800731,1979-03-09 20:00:00,New Jersey,Nets,Seattle,SuperSonics,Regular Season,1,0,22.0,13,0,11,9,2,0,0,0,6,0,6,5,0.832,0,0,0.0,3,3,1.0,100,108,0
+77149,1978,27800737,1979-03-11 20:00:00,New Jersey,Nets,Philadelphia,76ers,Regular Season,1,1,33.0,8,3,12,0,0,0,0,0,2,0,8,2,0.25,0,0,0.0,6,4,0.667,104,103,0
+77149,1978,27800748,1979-03-13 20:00:00,New Jersey,Nets,Chicago,Bulls,Regular Season,0,0,24.0,8,0,3,0,0,1,0,0,6,0,6,4,0.667,0,0,0.0,0,0,0.0,105,102,0
+77149,1978,27800755,1979-03-14 20:00:00,New Jersey,Nets,Denver,Nuggets,Regular Season,0,0,17.0,6,0,3,3,0,1,1,1,5,0,6,3,0.5,0,0,0.0,0,0,0.0,120,100,0
+77149,1978,27800763,1979-03-16 20:00:00,New Jersey,Nets,Golden State,Warriors,Regular Season,0,0,28.0,10,1,8,5,3,3,0,1,5,0,10,5,0.5,0,0,0.0,0,0,0.0,117,102,0
+77149,1978,27800772,1979-03-17 20:00:00,New Jersey,Nets,Portland,Trail Blazers,Regular Season,0,0,19.0,3,0,6,5,1,2,1,0,6,0,5,1,0.2,0,0,0.0,3,1,0.333,124,113,0
+77149,1978,27800783,1979-03-18 20:00:00,New Jersey,Nets,San Diego,Clippers,Regular Season,0,0,30.0,9,2,10,0,0,3,0,2,5,0,10,4,0.4,0,0,0.0,2,1,0.5,110,98,0
+77149,1978,27800791,1979-03-20 20:00:00,New Jersey,Nets,Detroit,Pistons,Regular Season,1,1,29.0,4,4,14,0,0,0,0,0,5,0,9,2,0.222,0,0,0.0,0,0,0.0,117,110,0
+77149,1978,27800805,1979-03-23 20:00:00,New Jersey,Nets,Philadelphia,76ers,Regular Season,0,0,33.0,10,0,9,0,0,8,0,0,4,0,9,5,0.556,0,0,0.0,0,0,0.0,110,98,0
+77149,1978,27800816,1979-03-25 20:00:00,New Jersey,Nets,Chicago,Bulls,Regular Season,1,1,15.0,8,0,5,0,0,0,0,0,4,0,7,4,0.57,0,0,0.0,0,0,0.0,99,88,0
+77149,1978,27800830,1979-03-28 20:00:00,New Jersey,Nets,Washington,Bullets,Regular Season,1,0,30.0,2,4,10,0,0,0,0,0,4,0,3,1,0.333,0,0,0.0,0,0,0.0,108,127,0
+77149,1978,27800845,1979-03-30 20:00:00,New Jersey,Nets,Atlanta,Hawks,Regular Season,1,1,30.0,15,1,12,0,0,0,0,0,5,0,9,6,0.667,0,0,0.0,5,3,0.599,117,106,0
+77149,1978,27800859,1979-04-01 20:00:00,New Jersey,Nets,Atlanta,Hawks,Regular Season,0,0,22.0,8,1,8,0,0,0,0,5,5,0,6,3,0.5,0,0,0.0,2,2,1.0,109,98,0
+77149,1978,27800863,1979-04-03 20:00:00,New Jersey,Nets,Denver,Nuggets,Regular Season,1,0,24.0,12,0,7,5,2,5,0,2,3,0,6,5,0.832,0,0,0.0,4,2,0.5,97,110,0
+77149,1978,27800874,1979-04-04 20:00:00,New Jersey,Nets,San Antonio,Spurs,Regular Season,0,0,23.0,4,0,5,0,0,3,0,0,2,0,5,1,0.2,0,0,0.0,2,2,1.0,110,103,0
+77149,1978,27800716,1979-04-06 20:00:00,New Jersey,Nets,Kansas City,Kings,Regular Season,0,0,21.0,6,1,4,0,0,5,1,0,5,0,10,3,0.299,0,0,0.0,0,0,0.0,117,114,0
+77149,1978,27800893,1979-04-07 20:00:00,New Jersey,Nets,Boston,Celtics,Regular Season,1,1,11.0,2,0,2,0,0,0,0,0,2,0,2,1,0.5,0,0,0.0,0,0,0.0,126,112,0
+77149,1978,47800004,1979-04-11 20:00:00,New Jersey,Nets,Philadelphia,76ers,Playoffs,0,0,36.0,17,1,12,7,5,5,2,1,2,0,11,8,0.726,0,0,0.0,3,1,0.333,122,114,0
+77149,1978,47800008,1979-04-13 20:00:00,New Jersey,Nets,Philadelphia,76ers,Playoffs,1,0,34.0,12,1,13,10,3,2,0,3,6,0,10,6,0.599,0,0,0.0,0,0,0.0,101,111,0
+77149,1979,27900002,1979-10-12 20:00:00,New Jersey,Nets,Cleveland,Cavaliers,Regular Season,1,1,10.0,0,0,2,1,1,0,0,0,1,0,2,0,0.0,0,0,0.0,0,0,0.0,102,95,0
+77149,1979,27900021,1979-10-16 20:00:00,New Jersey,Nets,Indiana,Pacers,Regular Season,0,0,26.0,5,2,9,0,0,2,0,5,5,0,6,2,0.333,0,0,0.0,1,1,1.0,113,100,0
+77149,1979,27900035,1979-10-17 20:00:00,New Jersey,Nets,Philadelphia,76ers,Regular Season,1,0,19.0,4,1,3,0,0,2,0,0,4,0,5,2,0.4,0,0,0.0,2,0,0.0,88,113,0
+77149,1979,27900041,1979-10-19 20:00:00,New Jersey,Nets,New York,Knicks,Regular Season,1,0,17.0,3,0,3,0,0,0,0,0,3,0,1,1,1.0,0,0,0.0,1,1,1.0,106,111,0
+77149,1979,27900067,1979-10-23 20:00:00,New Jersey,Nets,Chicago,Bulls,Regular Season,0,0,32.0,12,3,3,0,0,3,0,0,2,0,11,5,0.455,0,0,0.0,2,2,1.0,108,103,0
+77149,1979,27900077,1979-10-26 20:00:00,New Jersey,Nets,Atlanta,Hawks,Regular Season,1,0,10.0,0,0,4,0,0,0,0,0,4,0,1,0,0.0,0,0,0.0,0,0,0.0,90,94,0
+77149,1979,27900086,1979-10-27 20:00:00,New Jersey,Nets,New York,Knicks,Regular Season,0,0,15.0,4,0,0,0,0,0,0,0,4,0,2,1,0.5,0,0,0.0,2,2,1.0,94,92,0
+77149,1979,27900094,1979-10-28 20:00:00,New Jersey,Nets,Houston,Rockets,Regular Season,1,1,14.0,2,1,1,0,0,0,0,0,5,0,2,1,0.5,0,0,0.0,0,0,0.0,120,115,0
+77149,1979,27900107,1979-10-31 20:00:00,New Jersey,Nets,Boston,Celtics,Regular Season,1,0,26.0,8,1,14,8,6,5,0,6,4,0,8,3,0.375,0,0,0.0,3,2,0.667,79,116,0
+77149,1979,27900112,1979-11-02 20:00:00,New Jersey,Nets,Indiana,Pacers,Regular Season,1,1,27.0,6,4,13,0,0,4,0,0,2,0,6,3,0.5,0,0,0.0,0,0,0.0,115,93,0
+77149,1979,27900125,1979-11-03 20:00:00,New Jersey,Nets,Atlanta,Hawks,Regular Season,0,0,26.0,7,0,8,0,0,0,0,0,6,0,5,2,0.4,0,0,0.0,5,3,0.599,110,107,0
+77149,1979,27900128,1979-11-04 20:00:00,New Jersey,Nets,Kansas City,Kings,Regular Season,1,1,13.0,8,1,4,0,0,0,0,0,5,0,3,3,1.0,0,0,0.0,2,2,1.0,101,98,0
+77149,1979,27900135,1979-11-06 20:00:00,New Jersey,Nets,San Antonio,Spurs,Regular Season,0,0,16.0,4,1,3,0,0,0,0,0,3,0,3,2,0.667,0,0,0.0,0,0,0.0,108,95,0
+77149,1979,27900140,1979-11-07 20:00:00,New Jersey,Nets,Houston,Rockets,Regular Season,0,0,14.0,8,0,6,0,0,1,0,0,0,0,0,4,0.0,0,0,0.0,0,0,0.0,106,101,0
+77149,1979,27900167,1979-11-13 20:00:00,New Jersey,Nets,Atlanta,Hawks,Regular Season,1,1,28.0,2,4,5,0,0,0,0,0,2,0,4,1,0.25,0,0,0.0,0,0,0.0,101,82,0
+77149,1979,27900183,1979-11-16 20:00:00,New Jersey,Nets,Washington,Bullets,Regular Season,1,0,12.0,0,0,5,0,0,0,0,0,3,0,4,0,0.0,0,0,0.0,0,0,0.0,91,92,0
+77149,1979,27900196,1979-11-17 20:00:00,New Jersey,Nets,Detroit,Pistons,Regular Season,0,1,33.0,5,1,7,0,0,0,0,0,5,0,7,2,0.285,0,0,0.0,2,1,0.5,93,98,0
+77149,1979,27900201,1979-11-18 20:00:00,New Jersey,Nets,San Antonio,Spurs,Regular Season,1,1,28.0,12,6,7,0,0,0,0,0,0,0,8,6,0.75,0,0,0.0,0,0,0.0,107,105,0
+77149,1979,27900216,1979-11-21 20:00:00,New Jersey,Nets,Boston,Celtics,Regular Season,0,0,25.0,6,0,5,0,0,0,0,0,3,0,4,3,0.75,0,0,0.0,0,0,0.0,111,103,0
+77149,1979,27900222,1979-11-22 20:00:00,New Jersey,Nets,Milwaukee,Bucks,Regular Season,1,0,28.0,6,2,6,0,0,3,0,0,1,0,6,3,0.5,0,0,0.0,0,0,0.0,109,117,0
+77149,1979,27900232,1979-11-24 20:00:00,New Jersey,Nets,Philadelphia,76ers,Regular Season,0,0,27.0,8,3,5,0,0,1,0,0,5,0,12,4,0.333,0,0,0.0,0,0,0.0,91,82,0
+77149,1979,27900238,1979-11-25 20:00:00,New Jersey,Nets,Cleveland,Cavaliers,Regular Season,0,0,28.0,6,0,8,4,4,4,1,1,5,0,8,3,0.375,0,0,0.0,0,0,0.0,112,103,0
+77149,1979,27900246,1979-11-27 20:00:00,New Jersey,Nets,Milwaukee,Bucks,Regular Season,0,1,20.0,6,2,6,0,0,2,0,0,5,0,5,3,0.599,0,0,0.0,0,0,0.0,93,118,0
+77149,1979,27900254,1979-11-28 20:00:00,New Jersey,Nets,Detroit,Pistons,Regular Season,1,1,14.0,6,1,4,0,0,0,0,0,5,0,6,3,0.5,0,0,0.0,0,0,0.0,98,89,0
+77149,1979,27900264,1979-11-30 20:00:00,New Jersey,Nets,Denver,Nuggets,Regular Season,1,1,13.0,4,0,2,1,1,4,1,1,4,0,3,2,0.667,0,0,0.0,0,0,0.0,127,118,0
+77149,1979,27900270,1979-12-01 20:00:00,New Jersey,Nets,Washington,Bullets,Regular Season,0,0,40.0,6,3,11,0,0,0,0,0,1,0,11,3,0.273,0,0,0.0,0,0,0.0,104,100,0
+77149,1979,27900294,1979-12-05 20:00:00,New Jersey,Nets,Phoenix,Suns,Regular Season,1,1,32.0,6,4,5,0,0,5,0,2,4,0,5,3,0.599,0,0,0.0,0,0,0.0,115,100,0
+77149,1979,27900314,1979-12-09 20:00:00,New Jersey,Nets,Atlanta,Hawks,Regular Season,1,0,19.0,3,2,4,0,0,0,0,0,2,0,4,1,0.25,0,0,0.0,4,1,0.25,85,122,0
+77149,1979,27900329,1979-12-12 20:00:00,New Jersey,Nets,Boston,Celtics,Regular Season,0,0,14.0,0,1,3,0,0,0,0,0,3,0,2,0,0.0,0,0,0.0,0,0,0.0,116,102,0
+77149,1979,27900335,1979-12-14 20:00:00,New Jersey,Nets,New York,Knicks,Regular Season,1,1,32.0,17,5,9,0,0,0,0,0,4,0,11,8,0.726,0,0,0.0,3,1,0.333,118,105,0
+77149,1979,27900342,1979-12-15 20:00:00,New Jersey,Nets,Cleveland,Cavaliers,Regular Season,0,0,28.0,12,3,8,0,0,3,0,0,5,0,8,6,0.75,0,0,0.0,0,0,0.0,117,111,0
+77149,1979,27900352,1979-12-16 20:00:00,New Jersey,Nets,Boston,Celtics,Regular Season,1,0,34.0,10,5,9,0,0,0,0,0,5,0,8,5,0.625,0,0,0.0,0,0,0.0,112,115,0
+77149,1979,27900361,1979-12-19 20:00:00,New Jersey,Nets,Seattle,SuperSonics,Regular Season,0,1,36.0,15,0,12,7,5,0,0,3,6,0,15,7,0.467,0,0,0.0,1,1,1.0,114,122,0
+77149,1979,27900373,1979-12-21 20:00:00,New Jersey,Nets,Portland,Trail Blazers,Regular Season,0,0,42.0,16,4,13,8,5,2,1,4,4,0,15,8,0.533,0,0,0.0,0,0,0.0,100,97,0
+77149,1979,27900381,1979-12-22 20:00:00,New Jersey,Nets,Golden State,Warriors,Regular Season,0,0,26.0,11,3,8,5,3,2,2,1,4,0,11,3,0.273,0,0,0.0,6,5,0.832,107,101,0
+77149,1979,27900391,1979-12-25 20:00:00,New Jersey,Nets,New York,Knicks,Regular Season,0,0,11.0,4,1,4,0,0,0,0,0,5,0,6,2,0.333,0,0,0.0,0,0,0.0,131,102,0
+77149,1979,27900402,1979-12-26 20:00:00,New Jersey,Nets,Washington,Bullets,Regular Season,1,1,27.0,13,4,15,0,0,0,0,0,5,0,9,5,0.556,0,0,0.0,4,3,0.75,116,104,0
+77149,1979,27900413,1979-12-28 20:00:00,New Jersey,Nets,Indiana,Pacers,Regular Season,1,1,19.0,4,1,10,0,0,3,3,0,3,0,8,2,0.25,0,0,0.0,0,0,0.0,116,101,0
+77149,1979,27900433,1980-01-02 20:00:00,New Jersey,Nets,San Diego,Clippers,Regular Season,1,0,38.0,11,6,10,0,0,6,1,6,3,0,11,5,0.455,0,0,0.0,2,1,0.5,97,103,0
+77149,1979,27900440,1980-01-03 20:00:00,New Jersey,Nets,Atlanta,Hawks,Regular Season,0,1,17.0,11,1,8,0,0,2,0,2,6,0,7,5,0.713,0,0,0.0,1,1,1.0,119,126,0
+77149,1979,27900443,1980-01-04 20:00:00,New Jersey,Nets,Houston,Rockets,Regular Season,1,1,22.0,13,1,9,0,0,0,0,0,6,0,5,4,0.8,0,0,0.0,5,5,1.0,104,101,0
+77149,1979,27900460,1980-01-06 20:00:00,New Jersey,Nets,Cleveland,Cavaliers,Regular Season,1,1,34.0,4,2,9,6,3,4,0,4,4,0,8,2,0.25,0,0,0.0,0,0,0.0,108,100,0
+77149,1979,27900483,1980-01-11 20:00:00,New Jersey,Nets,Portland,Trail Blazers,Regular Season,1,0,13.0,0,0,0,0,0,1,1,1,4,0,2,0,0.0,0,0,0.0,0,0,0.0,107,128,0
+77149,1979,27900496,1980-01-13 20:00:00,New Jersey,Nets,Kansas City,Kings,Regular Season,0,0,17.0,2,2,3,0,0,5,0,0,1,0,7,1,0.142,0,0,0.0,0,0,0.0,120,101,0
+77149,1979,27900507,1980-01-15 20:00:00,New Jersey,Nets,San Antonio,Spurs,Regular Season,0,0,37.0,14,2,13,0,0,1,0,0,3,0,9,5,0.556,0,0,0.0,4,4,1.0,123,119,0
+77149,1979,27900508,1980-01-16 20:00:00,New Jersey,Nets,Houston,Rockets,Regular Season,0,1,21.0,4,0,7,0,0,5,1,0,0,0,0,2,0.0,0,0,0.0,0,0,0.0,112,122,0
+77149,1979,27900519,1980-01-18 20:00:00,New Jersey,Nets,Philadelphia,76ers,Regular Season,1,0,35.0,4,6,13,0,0,0,0,0,5,0,12,1,0.083,0,0,0.0,2,2,1.0,105,112,0
+77149,1979,27900548,1980-01-23 20:00:00,New Jersey,Nets,Cleveland,Cavaliers,Regular Season,1,1,31.0,6,3,12,9,3,3,2,1,3,0,8,3,0.375,0,0,0.0,0,0,0.0,117,103,0
+77149,1979,27900550,1980-01-24 20:00:00,New Jersey,Nets,Washington,Bullets,Regular Season,0,1,29.0,4,0,7,0,0,0,0,0,4,0,5,2,0.4,0,0,0.0,0,0,0.0,87,98,0
+77149,1979,27900553,1980-01-25 20:00:00,New Jersey,Nets,Detroit,Pistons,Regular Season,1,0,25.0,4,2,10,0,0,0,0,0,5,0,5,2,0.4,0,0,0.0,0,0,0.0,116,119,0
+77149,1979,27900569,1980-01-27 20:00:00,New Jersey,Nets,Chicago,Bulls,Regular Season,1,1,15.0,4,1,6,0,0,0,0,0,6,0,4,2,0.5,0,0,0.0,0,0,0.0,128,127,0
+77149,1979,27900591,1980-01-30 20:00:00,New Jersey,Nets,Utah,Jazz,Regular Season,0,0,0.0,4,0,0,0,0,0,0,0,0,0,0,2,0.0,0,0,0.0,0,0,0.0,102,100,0
+77149,1979,27900593,1980-01-31 20:00:00,New Jersey,Nets,Denver,Nuggets,Regular Season,0,0,24.0,4,0,8,5,3,5,0,2,5,0,7,2,0.285,0,0,0.0,0,0,0.0,127,126,0
+77149,1979,27900603,1980-02-05 20:00:00,New Jersey,Nets,San Antonio,Spurs,Regular Season,0,1,23.0,19,4,6,0,0,1,0,0,6,0,11,8,0.726,0,0,0.0,4,3,0.75,115,123,0
+77149,1979,27900610,1980-02-06 20:00:00,New Jersey,Nets,Houston,Rockets,Regular Season,0,0,18.0,4,0,6,0,0,0,0,0,0,0,0,2,0.0,0,0,0.0,0,0,0.0,115,114,0
+77149,1979,27900617,1980-02-08 20:00:00,New Jersey,Nets,Los Angeles,Lakers,Regular Season,1,0,34.0,6,5,6,4,2,2,1,4,3,0,7,3,0.428,0,0,0.0,1,0,0.0,120,125,0
+77149,1979,27900632,1980-02-10 20:00:00,New Jersey,Nets,Seattle,SuperSonics,Regular Season,1,0,24.0,7,3,6,4,2,3,0,4,3,0,8,3,0.375,0,0,0.0,1,1,1.0,107,122,0
+77149,1979,27900641,1980-02-13 20:00:00,New Jersey,Nets,Indiana,Pacers,Regular Season,0,1,35.0,12,3,9,0,0,6,0,5,4,0,8,3,0.375,0,0,0.0,7,6,0.856,96,98,0
+77149,1979,27900650,1980-02-14 20:00:00,New Jersey,Nets,Utah,Jazz,Regular Season,1,1,26.0,4,6,6,0,0,7,0,0,0,0,7,2,0.285,0,0,0.0,1,0,0.0,137,96,0
+77149,1979,27900670,1980-02-17 20:00:00,New Jersey,Nets,Phoenix,Suns,Regular Season,0,0,30.0,12,2,9,0,0,3,3,2,2,0,12,5,0.416,0,0,0.0,4,2,0.5,128,98,0
+77149,1979,27900677,1980-02-19 20:00:00,New Jersey,Nets,San Diego,Clippers,Regular Season,0,1,38.0,22,3,16,0,0,3,1,2,4,0,12,8,0.667,0,0,0.0,6,6,1.0,113,123,0
+77149,1979,27900691,1980-02-22 20:00:00,New Jersey,Nets,Los Angeles,Lakers,Regular Season,0,0,20.0,10,2,8,5,3,3,1,4,1,0,12,4,0.333,0,0,0.0,2,2,1.0,132,110,0
+77149,1979,27900704,1980-02-24 20:00:00,New Jersey,Nets,San Antonio,Spurs,Regular Season,1,1,30.0,6,6,6,0,0,4,1,0,5,0,3,3,1.0,0,0,0.0,0,0,0.0,129,123,0
+77149,1979,27900713,1980-02-27 20:00:00,New Jersey,Nets,Golden State,Warriors,Regular Season,1,0,45.0,14,7,10,7,3,2,3,5,2,0,10,4,0.4,0,0,0.0,8,6,0.75,120,133,0
+77149,1979,27900723,1980-02-29 20:00:00,New Jersey,Nets,Detroit,Pistons,Regular Season,0,0,0.0,4,0,11,0,0,0,0,0,0,0,0,1,0.0,0,0,0.0,3,2,0.667,137,128,0
+77149,1979,27900731,1980-03-01 20:00:00,New Jersey,Nets,New York,Knicks,Regular Season,0,0,29.0,8,2,11,0,0,0,0,0,4,0,10,3,0.299,0,0,0.0,4,2,0.5,115,108,0
+77149,1979,27900733,1980-03-02 20:00:00,New Jersey,Nets,New York,Knicks,Regular Season,1,1,27.0,8,1,5,0,0,0,0,0,5,0,6,4,0.667,0,0,0.0,1,0,0.0,113,96,0
+77149,1979,27900743,1980-03-04 20:00:00,New Jersey,Nets,Indiana,Pacers,Regular Season,1,1,36.0,8,3,11,0,0,10,0,0,5,0,8,4,0.5,0,0,0.0,0,0,0.0,114,109,0
+77149,1979,27900758,1980-03-06 20:00:00,New Jersey,Nets,Washington,Bullets,Regular Season,0,1,30.0,9,3,4,0,0,0,0,0,3,0,8,4,0.5,0,0,0.0,2,1,0.5,96,122,0
+77149,1979,27900768,1980-03-07 20:00:00,New Jersey,Nets,Houston,Rockets,Regular Season,1,0,35.0,8,2,7,0,0,2,1,0,5,0,7,3,0.428,0,0,0.0,2,2,1.0,110,111,0
+77149,1979,27900782,1980-03-09 20:00:00,New Jersey,Nets,Detroit,Pistons,Regular Season,1,1,23.0,7,2,12,0,0,8,0,0,3,0,5,3,0.599,0,0,0.0,2,1,0.5,140,100,0
+77149,1979,27900785,1980-03-11 20:00:00,New Jersey,Nets,Cleveland,Cavaliers,Regular Season,0,0,27.0,6,2,4,0,0,3,0,0,6,0,3,2,0.667,0,0,0.0,4,2,0.5,122,119,0
+77149,1979,27900790,1980-03-12 20:00:00,New Jersey,Nets,Detroit,Pistons,Regular Season,0,1,21.0,16,1,9,0,0,0,0,0,4,0,8,6,0.75,0,0,0.0,4,4,1.0,119,137,0
+77149,1979,27900814,1980-03-16 20:00:00,New Jersey,Nets,San Antonio,Spurs,Regular Season,1,0,35.0,10,1,16,0,0,5,2,0,2,0,9,5,0.556,0,0,0.0,0,0,0.0,107,120,0
+77149,1979,27900818,1980-03-17 20:00:00,New Jersey,Nets,Boston,Celtics,Regular Season,1,0,26.0,8,3,9,8,1,4,1,3,5,0,9,4,0.444,0,0,0.0,1,0,0.0,92,117,0
+77149,1979,27900834,1980-03-19 20:00:00,New Jersey,Nets,Indiana,Pacers,Regular Season,0,0,27.0,7,5,4,0,0,2,0,0,5,0,6,2,0.333,0,0,0.0,3,3,1.0,125,112,0
+77149,1979,27900847,1980-03-21 20:00:00,New Jersey,Nets,Philadelphia,76ers,Regular Season,0,0,25.0,2,2,6,0,0,0,0,0,4,0,2,1,0.5,0,0,0.0,0,0,0.0,108,99,0
+77149,1979,27900860,1980-03-23 20:00:00,New Jersey,Nets,Boston,Celtics,Regular Season,0,1,44.0,11,0,11,10,1,5,1,0,5,0,4,3,0.75,0,0,0.0,6,5,0.832,96,101,0
+77149,1979,27900878,1980-03-27 20:00:00,New Jersey,Nets,Atlanta,Hawks,Regular Season,0,0,25.0,4,2,5,0,0,0,0,0,2,0,5,2,0.4,0,0,0.0,0,0,0.0,117,100,0
+77149,1979,27900883,1980-03-28 20:00:00,New Jersey,Nets,Philadelphia,76ers,Regular Season,1,1,37.0,9,2,11,0,0,2,0,0,4,0,7,4,0.57,0,0,0.0,4,1,0.25,99,92,0
+77149,1979,27900902,1980-03-30 20:00:00,New Jersey,Nets,Washington,Bullets,Regular Season,1,0,42.0,6,1,6,0,0,0,0,0,3,0,5,2,0.4,0,0,0.0,4,2,0.5,87,93,0
+77149,1980,28000002,1980-10-10 20:00:00,San Antonio,Spurs,Denver,Nuggets,Regular Season,0,1,10.0,0,0,0,0,0,2,1,0,4,0,2,0,0.0,0,0,0.0,0,0,0.0,112,113,0
+77149,1980,28000010,1980-10-11 20:00:00,San Antonio,Spurs,Dallas,Mavericks,Regular Season,0,0,27.0,4,0,4,0,0,2,0,3,1,0,2,2,1.0,0,0,0.0,0,0,0.0,103,92,0
+77149,1980,28000026,1980-10-14 20:00:00,San Antonio,Spurs,Kansas City,Kings,Regular Season,1,1,29.0,2,2,9,0,0,6,0,0,3,0,3,1,0.333,0,0,0.0,0,0,0.0,109,103,0
+77149,1980,28000037,1980-10-16 20:00:00,San Antonio,Spurs,Detroit,Pistons,Regular Season,0,1,19.0,0,1,6,0,0,3,2,0,4,0,1,0,0.0,0,0,0.0,0,0,0.0,99,102,0
+77149,1980,28000047,1980-10-18 20:00:00,San Antonio,Spurs,Dallas,Mavericks,Regular Season,1,1,23.0,6,3,7,0,0,3,2,1,2,0,5,3,0.599,0,0,0.0,0,0,0.0,110,96,0
+77149,1980,28000061,1980-10-21 20:00:00,San Antonio,Spurs,San Diego,Clippers,Regular Season,1,1,33.0,12,5,15,0,0,5,1,2,5,0,6,5,0.832,0,0,0.0,3,2,0.667,123,120,0
+77149,1980,28000071,1980-10-23 20:00:00,San Antonio,Spurs,Golden State,Warriors,Regular Season,1,1,27.0,4,7,15,13,2,5,0,0,2,0,5,0,0.0,0,0,0.0,4,4,1.0,128,109,0
+77149,1980,28000091,1980-10-25 20:00:00,San Antonio,Spurs,San Diego,Clippers,Regular Season,0,1,9.0,6,0,1,0,0,0,0,2,1,0,3,2,0.667,0,0,0.0,2,2,1.0,98,116,0
+77149,1980,28000093,1980-10-26 20:00:00,San Antonio,Spurs,Los Angeles,Lakers,Regular Season,0,1,27.0,6,0,12,5,7,5,0,4,6,0,8,3,0.375,0,0,0.0,0,0,0.0,102,108,0
+77149,1980,28000096,1980-10-28 20:00:00,San Antonio,Spurs,Portland,Trail Blazers,Regular Season,1,1,26.0,4,4,10,7,3,3,0,1,4,0,4,2,0.5,0,0,0.0,0,0,0.0,120,112,0
+77149,1980,28000109,1980-10-29 20:00:00,San Antonio,Spurs,Utah,Jazz,Regular Season,0,0,29.0,15,1,15,0,0,4,0,0,3,0,7,6,0.856,0,0,0.0,3,3,1.0,109,96,0
+77149,1980,28000120,1980-10-31 20:00:00,San Antonio,Spurs,Seattle,SuperSonics,Regular Season,0,1,22.0,6,0,6,5,1,4,0,0,2,0,6,3,0.5,0,0,0.0,0,0,0.0,96,112,0
+77149,1980,28000122,1980-11-01 20:00:00,San Antonio,Spurs,Golden State,Warriors,Regular Season,0,0,27.0,5,2,5,1,4,0,0,0,3,0,6,2,0.333,0,0,0.0,2,1,0.5,123,108,0
+77149,1980,28000143,1980-11-05 20:00:00,San Antonio,Spurs,Phoenix,Suns,Regular Season,1,1,22.0,9,2,7,4,3,3,2,0,4,0,6,3,0.5,0,0,0.0,3,3,1.0,114,84,0
+77149,1980,28000164,1980-11-08 20:00:00,San Antonio,Spurs,Los Angeles,Lakers,Regular Season,1,1,22.0,8,0,11,0,0,1,3,0,1,0,5,3,0.599,0,0,0.0,2,2,1.0,112,109,0
+77149,1980,28000171,1980-11-11 20:00:00,San Antonio,Spurs,Indiana,Pacers,Regular Season,1,0,32.0,5,4,13,0,0,6,0,0,4,0,6,2,0.333,0,0,0.0,2,1,0.5,113,119,0
+77149,1980,28000182,1980-11-12 20:00:00,San Antonio,Spurs,Phoenix,Suns,Regular Season,0,0,31.0,0,1,5,5,0,4,2,2,5,0,1,0,0.0,0,0,0.0,0,0,0.0,130,127,0
+77149,1980,28000187,1980-11-13 20:00:00,San Antonio,Spurs,San Diego,Clippers,Regular Season,0,1,19.0,2,0,6,0,0,2,0,0,1,0,4,1,0.25,0,0,0.0,0,0,0.0,107,113,0
+77149,1980,28000199,1980-11-15 20:00:00,San Antonio,Spurs,Utah,Jazz,Regular Season,1,1,22.0,4,2,7,0,0,4,0,0,1,0,4,2,0.5,0,0,0.0,0,0,0.0,120,104,0
+77149,1980,28000220,1980-11-18 20:00:00,San Antonio,Spurs,Atlanta,Hawks,Regular Season,0,0,21.0,4,0,8,0,0,5,0,2,4,0,5,1,0.2,0,0,0.0,2,2,1.0,97,93,0
+77149,1980,28000222,1980-11-19 20:00:00,San Antonio,Spurs,New Jersey,Nets,Regular Season,0,1,26.0,6,1,12,0,0,3,0,0,2,0,7,2,0.285,0,0,0.0,2,2,1.0,104,112,0
+77149,1980,28000238,1980-11-22 20:00:00,San Antonio,Spurs,Philadelphia,76ers,Regular Season,1,0,26.0,8,2,13,0,0,5,1,0,3,0,5,2,0.4,0,0,0.0,6,4,0.667,101,108,0
+77149,1980,28000259,1980-11-26 20:00:00,San Antonio,Spurs,Chicago,Bulls,Regular Season,1,1,17.0,4,0,6,0,0,0,0,0,3,0,5,2,0.4,0,0,0.0,2,0,0.0,125,122,0
+77149,1980,28000270,1980-11-28 20:00:00,San Antonio,Spurs,Houston,Rockets,Regular Season,1,0,19.0,4,1,4,0,0,3,0,0,4,0,5,2,0.4,0,0,0.0,0,0,0.0,115,124,0
+77149,1980,28000279,1980-11-29 20:00:00,San Antonio,Spurs,Kansas City,Kings,Regular Season,0,1,17.0,0,0,3,0,0,0,0,0,5,0,1,0,0.0,0,0,0.0,0,0,0.0,104,106,0
+77149,1980,28000294,1980-12-02 20:00:00,San Antonio,Spurs,Phoenix,Suns,Regular Season,1,0,23.0,8,1,6,5,1,3,1,0,3,0,2,2,1.0,0,0,0.0,4,4,1.0,107,122,0
+77149,1980,28000304,1980-12-04 20:00:00,San Antonio,Spurs,Cleveland,Cavaliers,Regular Season,1,1,20.0,6,1,9,8,1,3,0,0,4,0,5,2,0.4,0,0,0.0,3,2,0.667,130,100,0
+77149,1980,28000325,1980-12-07 20:00:00,San Antonio,Spurs,Portland,Trail Blazers,Regular Season,0,0,27.0,8,4,10,6,4,6,2,3,5,0,6,4,0.667,0,0,0.0,0,0,0.0,116,115,0
+77149,1980,28000326,1980-12-08 20:00:00,San Antonio,Spurs,Seattle,SuperSonics,Regular Season,0,0,15.0,0,0,2,1,1,1,2,2,5,0,4,0,0.0,0,0,0.0,0,0,0.0,104,99,0
+77149,1980,28000334,1980-12-09 20:00:00,San Antonio,Spurs,Utah,Jazz,Regular Season,0,1,17.0,0,0,1,0,0,1,1,0,2,0,1,0,0.0,0,0,0.0,0,0,0.0,90,115,0
+77149,1980,28000345,1980-12-11 20:00:00,San Antonio,Spurs,Kansas City,Kings,Regular Season,1,1,25.0,2,0,4,0,0,0,1,0,0,0,3,1,0.333,0,0,0.0,0,0,0.0,122,104,0
+77149,1980,28000360,1980-12-13 20:00:00,San Antonio,Spurs,Denver,Nuggets,Regular Season,1,1,14.0,0,2,1,1,0,2,2,1,5,0,1,0,0.0,0,0,0.0,0,0,0.0,147,123,0
+77149,1980,28000365,1980-12-14 20:00:00,San Antonio,Spurs,Milwaukee,Bucks,Regular Season,0,0,24.0,8,0,1,0,0,2,0,4,3,0,4,3,0.75,0,0,0.0,2,2,1.0,115,98,0
+77149,1980,28000370,1980-12-16 20:00:00,San Antonio,Spurs,Dallas,Mavericks,Regular Season,0,1,33.0,2,1,15,0,0,5,1,5,3,0,4,1,0.25,0,0,0.0,0,0,0.0,83,89,0
+77149,1980,28000377,1980-12-17 20:00:00,San Antonio,Spurs,Houston,Rockets,Regular Season,0,1,11.0,2,1,3,0,0,2,0,0,5,0,2,1,0.5,0,0,0.0,0,0,0.0,107,113,0
+77149,1980,28000389,1980-12-19 20:00:00,San Antonio,Spurs,Golden State,Warriors,Regular Season,1,1,12.0,4,0,6,5,1,2,0,0,5,0,2,2,1.0,0,0,0.0,0,0,0.0,126,111,0
+77149,1980,28000402,1980-12-21 20:00:00,San Antonio,Spurs,Los Angeles,Lakers,Regular Season,0,0,24.0,11,1,7,4,3,2,0,4,4,0,6,5,0.832,0,0,0.0,2,1,0.5,135,122,0
+77149,1980,28000418,1980-12-25 20:00:00,San Antonio,Spurs,Phoenix,Suns,Regular Season,0,0,26.0,2,0,6,4,2,3,0,3,4,0,2,1,0.5,0,0,0.0,0,0,0.0,131,111,0
+77149,1980,28000428,1980-12-27 20:00:00,San Antonio,Spurs,Utah,Jazz,Regular Season,1,1,24.0,8,0,10,0,0,7,0,0,4,0,4,3,0.75,0,0,0.0,3,2,0.667,142,117,0
+77149,1980,28000445,1980-12-30 20:00:00,San Antonio,Spurs,Seattle,SuperSonics,Regular Season,1,1,30.0,4,2,12,8,4,0,4,2,4,0,1,1,1.0,0,0,0.0,2,2,1.0,102,100,0
+77149,1980,28000454,1981-01-02 20:00:00,San Antonio,Spurs,Los Angeles,Lakers,Regular Season,1,1,21.0,2,1,6,4,2,4,0,2,4,0,4,1,0.25,0,0,0.0,0,0,0.0,118,112,0
+77149,1980,28000465,1981-01-03 20:00:00,San Antonio,Spurs,Chicago,Bulls,Regular Season,0,1,17.0,4,0,5,0,0,4,0,0,4,0,4,2,0.5,0,0,0.0,0,0,0.0,111,119,0
+77149,1980,28000477,1981-01-06 20:00:00,San Antonio,Spurs,New York,Knicks,Regular Season,0,1,11.0,2,0,1,0,0,1,2,0,5,0,1,1,1.0,0,0,0.0,0,0,0.0,108,113,0
+77149,1980,28000483,1981-01-07 20:00:00,San Antonio,Spurs,Philadelphia,76ers,Regular Season,0,0,21.0,0,2,2,0,0,1,1,0,2,0,2,0,0.0,0,0,0.0,0,0,0.0,135,102,0
+77149,1980,28000492,1981-01-09 20:00:00,San Antonio,Spurs,Portland,Trail Blazers,Regular Season,1,1,23.0,8,0,11,7,4,6,0,1,2,0,9,4,0.444,0,0,0.0,0,0,0.0,102,86,0
+77149,1980,28000510,1981-01-11 20:00:00,San Antonio,Spurs,Washington,Bullets,Regular Season,1,1,25.0,6,2,7,0,0,4,0,0,0,0,5,2,0.4,0,0,0.0,2,2,1.0,137,106,0
+77149,1980,28000522,1981-01-14 20:00:00,San Antonio,Spurs,New York,Knicks,Regular Season,1,1,19.0,5,1,5,0,0,4,0,0,2,0,4,2,0.5,0,0,0.0,2,1,0.5,116,105,0
+77149,1980,28000540,1981-01-16 20:00:00,San Antonio,Spurs,Boston,Celtics,Regular Season,0,0,21.0,2,1,5,0,0,3,0,0,3,0,3,1,0.333,0,0,0.0,0,0,0.0,94,85,0
+77149,1980,28000542,1981-01-17 20:00:00,San Antonio,Spurs,Washington,Bullets,Regular Season,0,0,19.0,0,0,4,0,0,3,1,0,5,0,1,0,0.0,0,0,0.0,0,0,0.0,103,93,0
+77149,1980,28000558,1981-01-20 20:00:00,San Antonio,Spurs,Phoenix,Suns,Regular Season,1,1,31.0,9,4,12,5,7,4,0,1,3,0,9,4,0.444,0,0,0.0,3,1,0.333,119,112,0
+77149,1980,28000569,1981-01-21 20:00:00,San Antonio,Spurs,Kansas City,Kings,Regular Season,0,0,20.0,2,0,9,0,0,2,1,0,2,0,5,1,0.2,0,0,0.0,0,0,0.0,115,108,0
+77149,1980,28000583,1981-01-24 20:00:00,San Antonio,Spurs,Denver,Nuggets,Regular Season,0,0,31.0,4,1,6,4,2,3,0,2,4,0,6,2,0.333,0,0,0.0,0,0,0.0,129,115,0
+77149,1980,28000592,1981-01-25 20:00:00,San Antonio,Spurs,Portland,Trail Blazers,Regular Season,0,0,21.0,3,1,6,5,1,0,0,2,2,0,1,1,1.0,0,0,0.0,2,1,0.5,118,100,0
+77149,1980,28000612,1981-01-29 20:00:00,San Antonio,Spurs,New Jersey,Nets,Regular Season,1,1,24.0,11,0,7,0,0,6,0,0,2,0,7,5,0.713,0,0,0.0,2,1,0.5,122,108,0
+77149,1980,28000625,1981-02-03 20:00:00,San Antonio,Spurs,Detroit,Pistons,Regular Season,1,1,25.0,2,1,3,0,0,4,0,0,3,0,2,1,0.5,0,0,0.0,0,0,0.0,102,99,0
+77149,1980,28000626,1981-02-04 20:00:00,San Antonio,Spurs,Denver,Nuggets,Regular Season,0,1,24.0,7,1,5,1,4,2,0,0,5,0,6,3,0.5,0,0,0.0,2,1,0.5,132,135,0
+77149,1980,28000644,1981-02-06 20:00:00,San Antonio,Spurs,Portland,Trail Blazers,Regular Season,1,1,24.0,12,2,12,7,5,6,1,1,4,0,9,5,0.556,0,0,0.0,5,2,0.4,122,96,0
+77149,1980,28000656,1981-02-08 20:00:00,San Antonio,Spurs,Dallas,Mavericks,Regular Season,1,1,31.0,11,0,18,0,0,4,2,1,3,0,3,3,1.0,0,0,0.0,6,5,0.832,102,98,0
+77149,1980,28000673,1981-02-11 20:00:00,San Antonio,Spurs,Houston,Rockets,Regular Season,0,0,18.0,2,0,1,0,0,3,1,0,4,0,2,1,0.5,0,0,0.0,0,0,0.0,108,89,0
+77149,1980,28000679,1981-02-12 20:00:00,San Antonio,Spurs,Atlanta,Hawks,Regular Season,1,1,27.0,6,1,9,0,0,3,0,2,3,0,4,2,0.5,0,0,0.0,3,2,0.667,110,109,0
+77149,1980,28000692,1981-02-14 20:00:00,San Antonio,Spurs,Dallas,Mavericks,Regular Season,0,1,18.0,2,0,2,0,0,1,0,2,5,0,2,1,0.5,0,0,0.0,0,0,0.0,99,107,0
+77149,1980,28000698,1981-02-15 20:00:00,San Antonio,Spurs,Milwaukee,Bucks,Regular Season,1,1,22.0,6,1,8,0,0,2,0,2,3,0,2,2,1.0,0,0,0.0,4,2,0.5,110,108,0
+77149,1980,28000704,1981-02-17 20:00:00,San Antonio,Spurs,Boston,Celtics,Regular Season,1,0,16.0,4,2,3,0,0,2,0,0,4,0,3,2,0.667,0,0,0.0,0,0,0.0,116,128,0
+77149,1980,28000720,1981-02-19 20:00:00,San Antonio,Spurs,Cleveland,Cavaliers,Regular Season,0,0,26.0,2,2,7,3,4,1,0,0,5,0,4,1,0.25,0,0,0.0,0,0,0.0,118,104,0
+77149,1980,28000725,1981-02-20 20:00:00,San Antonio,Spurs,Indiana,Pacers,Regular Season,0,0,24.0,8,0,10,0,0,5,0,0,3,0,8,3,0.375,0,0,0.0,2,2,1.0,109,106,0
+77149,1980,28000737,1981-02-22 20:00:00,San Antonio,Spurs,Denver,Nuggets,Regular Season,1,1,32.0,4,4,11,7,4,7,2,2,1,0,4,2,0.5,0,0,0.0,1,0,0.0,133,129,0
+77149,1980,28000747,1981-02-24 20:00:00,San Antonio,Spurs,Golden State,Warriors,Regular Season,1,1,28.0,9,0,9,6,3,13,0,2,5,0,4,4,1.0,0,0,0.0,1,1,1.0,131,126,0
+77149,1980,28000757,1981-02-26 20:00:00,San Antonio,Spurs,Seattle,SuperSonics,Regular Season,1,1,26.0,0,1,5,5,0,4,0,0,5,0,3,0,0.0,0,0,0.0,0,0,0.0,123,113,0
+77149,1980,28000775,1981-03-01 20:00:00,San Antonio,Spurs,Houston,Rockets,Regular Season,1,1,24.0,4,1,6,0,0,5,1,0,1,0,4,1,0.25,0,0,0.0,2,2,1.0,102,86,0
+77149,1980,28000793,1981-03-04 20:00:00,San Antonio,Spurs,Kansas City,Kings,Regular Season,1,0,28.0,9,3,11,0,0,6,0,0,4,0,7,3,0.428,0,0,0.0,4,3,0.75,97,111,0
+77149,1980,28000804,1981-03-06 20:00:00,San Antonio,Spurs,Seattle,SuperSonics,Regular Season,0,0,33.0,3,0,8,3,5,2,2,3,4,0,5,1,0.2,0,0,0.0,2,1,0.5,102,94,0
+77149,1980,28000818,1981-03-08 20:00:00,San Antonio,Spurs,Dallas,Mavericks,Regular Season,1,1,24.0,0,1,8,0,0,6,0,1,3,0,2,0,0.0,0,0,0.0,0,0,0.0,133,108,0
+77149,1980,28000820,1981-03-10 20:00:00,San Antonio,Spurs,Los Angeles,Lakers,Regular Season,0,0,28.0,8,1,9,3,6,5,1,1,2,0,5,3,0.599,0,0,0.0,2,2,1.0,118,104,0
+77149,1980,28000846,1981-03-14 20:00:00,San Antonio,Spurs,San Diego,Clippers,Regular Season,0,0,21.0,10,0,7,0,0,2,0,3,6,0,7,3,0.428,0,0,0.0,5,4,0.8,126,118,0
+77149,1980,28000848,1981-03-15 20:00:00,San Antonio,Spurs,Golden State,Warriors,Regular Season,0,1,29.0,8,1,9,3,6,3,1,0,5,0,6,3,0.5,0,0,0.0,3,2,0.667,112,114,0
+77149,1980,28000862,1981-03-17 20:00:00,San Antonio,Spurs,Utah,Jazz,Regular Season,1,1,32.0,4,0,12,0,0,5,2,0,3,0,4,2,0.5,0,0,0.0,0,0,0.0,94,86,0
+77149,1980,28000880,1981-03-20 20:00:00,San Antonio,Spurs,Kansas City,Kings,Regular Season,0,1,30.0,10,1,11,0,0,2,1,0,1,0,5,3,0.599,0,0,0.0,5,4,0.8,111,114,0
+77149,1980,28000891,1981-03-22 20:00:00,San Antonio,Spurs,San Diego,Clippers,Regular Season,1,1,22.0,10,0,10,0,0,6,2,1,6,0,7,5,0.713,0,0,0.0,0,0,0.0,107,99,0
+77149,1980,28000909,1981-03-24 20:00:00,San Antonio,Spurs,Denver,Nuggets,Regular Season,1,0,33.0,8,1,8,6,2,8,0,0,2,0,6,3,0.5,0,0,0.0,2,2,1.0,123,125,0
+77149,1980,28000912,1981-03-25 20:00:00,San Antonio,Spurs,Houston,Rockets,Regular Season,0,0,33.0,8,3,9,0,0,2,2,0,5,0,6,4,0.667,0,0,0.0,0,0,0.0,117,111,0
+77149,1980,28000920,1981-03-26 20:00:00,San Antonio,Spurs,Utah,Jazz,Regular Season,0,1,24.0,0,0,5,0,0,0,0,0,2,0,3,0,0.0,0,0,0.0,0,0,0.0,97,98,0
+77149,1980,28000935,1981-03-29 20:00:00,San Antonio,Spurs,Houston,Rockets,Regular Season,1,1,22.0,4,1,7,0,0,2,0,0,4,0,4,2,0.5,0,0,0.0,0,0,0.0,135,109,0
+77149,1980,48000013,1981-04-07 20:00:00,San Antonio,Spurs,Houston,Rockets,Playoffs,1,0,28.0,4,1,12,0,0,3,0,0,3,0,5,1,0.2,0,0,0.0,2,2,1.0,98,107,0
+77149,1980,48000018,1981-04-08 20:00:00,San Antonio,Spurs,Houston,Rockets,Playoffs,1,1,24.0,6,2,7,0,0,4,0,0,2,0,6,3,0.5,0,0,0.0,0,0,0.0,125,113,0
+77149,1980,48000021,1981-04-10 20:00:00,San Antonio,Spurs,Houston,Rockets,Playoffs,0,0,25.0,4,1,8,0,0,0,1,0,2,0,4,2,0.5,0,0,0.0,0,0,0.0,112,99,0
+77149,1980,48000025,1981-04-12 20:00:00,San Antonio,Spurs,Houston,Rockets,Playoffs,0,1,16.0,2,0,7,0,0,2,0,0,4,0,1,1,1.0,0,0,0.0,0,0,0.0,112,114,0
+77149,1980,48000027,1981-04-14 20:00:00,San Antonio,Spurs,Houston,Rockets,Playoffs,1,0,24.0,6,1,11,0,0,3,1,0,3,0,4,2,0.5,0,0,0.0,2,2,1.0,117,123,0
+77149,1980,48000028,1981-04-15 20:00:00,San Antonio,Spurs,Houston,Rockets,Playoffs,0,1,24.0,5,0,8,0,0,2,1,0,3,0,5,2,0.4,0,0,0.0,2,1,0.5,96,101,0
+77149,1980,48000033,1981-04-17 20:00:00,San Antonio,Spurs,Houston,Rockets,Playoffs,1,0,24.0,4,1,10,0,0,2,0,0,3,0,1,1,1.0,0,0,0.0,4,2,0.5,100,105,0
+77149,1981,28100004,1981-10-30 20:00:00,San Antonio,Spurs,Kansas City,Kings,Regular Season,0,1,24.0,10,1,9,0,0,4,0,0,6,0,8,4,0.5,0,0,0.0,5,2,0.4,102,113,0
+77149,1981,28100011,1981-10-31 20:00:00,San Antonio,Spurs,Denver,Nuggets,Regular Season,1,1,18.0,6,0,7,0,0,1,1,0,6,0,5,3,0.599,0,0,0.0,0,0,0.0,145,120,0
+77149,1981,28100025,1981-11-03 20:00:00,San Antonio,Spurs,Phoenix,Suns,Regular Season,0,0,22.0,4,0,9,5,4,2,0,2,2,0,4,1,0.25,0,0,0.0,2,2,1.0,111,88,0
+77149,1981,28100031,1981-11-04 20:00:00,San Antonio,Spurs,Cleveland,Cavaliers,Regular Season,1,1,20.0,7,2,8,0,0,1,0,0,4,0,2,2,1.0,0,0,0.0,3,3,1.0,128,102,0
+77149,1981,28100048,1981-11-07 20:00:00,San Antonio,Spurs,New York,Knicks,Regular Season,1,1,22.0,5,1,10,0,0,5,0,0,4,0,4,1,0.25,0,0,0.0,4,3,0.75,103,96,0
+77149,1981,28100070,1981-11-10 20:00:00,San Antonio,Spurs,Los Angeles,Lakers,Regular Season,1,1,21.0,2,0,6,0,0,3,0,0,2,0,4,1,0.25,0,0,0.0,0,0,0.0,128,102,0
+77149,1981,28100083,1981-11-13 20:00:00,San Antonio,Spurs,Seattle,SuperSonics,Regular Season,0,1,25.0,4,1,4,3,1,3,0,1,3,0,2,1,0.5,0,0,0.0,2,2,1.0,112,119,0
+77149,1981,28100096,1981-11-15 20:00:00,San Antonio,Spurs,Portland,Trail Blazers,Regular Season,0,1,27.0,6,2,14,6,8,5,0,4,3,0,5,2,0.4,0,0,0.0,2,2,1.0,105,110,0
+77149,1981,28100098,1981-11-17 20:00:00,San Antonio,Spurs,Dallas,Mavericks,Regular Season,0,1,24.0,2,1,6,0,0,2,0,1,4,0,4,1,0.25,0,0,0.0,0,0,0.0,105,112,0
+77149,1981,28100110,1981-11-18 20:00:00,San Antonio,Spurs,Seattle,SuperSonics,Regular Season,1,1,23.0,6,3,10,7,3,2,1,5,2,0,5,3,0.599,0,0,0.0,0,0,0.0,111,93,0
+77149,1981,28100120,1981-11-20 20:00:00,San Antonio,Spurs,Los Angeles,Lakers,Regular Season,0,0,22.0,2,2,3,0,0,2,0,0,4,0,3,1,0.333,0,0,0.0,0,0,0.0,136,116,0
+77149,1981,28100122,1981-11-21 20:00:00,San Antonio,Spurs,Golden State,Warriors,Regular Season,0,0,9.0,0,1,7,5,2,1,0,0,6,0,2,0,0.0,0,0,0.0,0,0,0.0,129,122,0
+77149,1981,28100142,1981-11-25 20:00:00,San Antonio,Spurs,Los Angeles,Lakers,Regular Season,1,0,30.0,4,1,7,0,0,0,0,0,1,0,4,2,0.5,0,0,0.0,0,0,0.0,96,117,0
+77149,1981,28100154,1981-11-27 20:00:00,San Antonio,Spurs,New Jersey,Nets,Regular Season,1,1,24.0,0,2,5,0,0,4,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,114,86,0
+77149,1981,28100168,1981-11-29 20:00:00,San Antonio,Spurs,Milwaukee,Bucks,Regular Season,0,0,23.0,0,3,15,0,0,1,1,0,2,0,3,0,0.0,0,0,0.0,0,0,0.0,105,89,0
+77149,1981,28100178,1981-12-01 20:00:00,San Antonio,Spurs,Washington,Bullets,Regular Season,0,1,32.0,4,4,12,0,0,8,0,0,2,0,5,2,0.4,0,0,0.0,0,0,0.0,99,110,0
+77149,1981,28100184,1981-12-02 20:00:00,San Antonio,Spurs,Philadelphia,76ers,Regular Season,0,1,22.0,7,2,7,0,0,0,1,0,3,0,6,3,0.5,0,0,0.0,2,1,0.5,101,106,0
+77149,1981,28100193,1981-12-04 20:00:00,San Antonio,Spurs,Portland,Trail Blazers,Regular Season,1,1,24.0,2,0,5,3,2,5,0,4,3,0,1,1,1.0,0,0,0.0,0,0,0.0,127,111,0
+77149,1981,28100221,1981-12-09 20:00:00,San Antonio,Spurs,Seattle,SuperSonics,Regular Season,1,1,18.0,0,3,5,4,1,4,0,2,5,0,1,0,0.0,0,0,0.0,0,0,0.0,110,99,0
+77149,1981,28100226,1981-12-11 20:00:00,San Antonio,Spurs,Dallas,Mavericks,Regular Season,0,1,24.0,3,3,6,0,0,3,0,2,3,0,3,1,0.333,0,0,0.0,2,1,0.5,99,101,0
+77149,1981,28100242,1981-12-12 20:00:00,San Antonio,Spurs,Utah,Jazz,Regular Season,1,1,31.0,4,1,9,0,0,4,1,0,5,0,1,1,1.0,0,0,0.0,4,2,0.5,111,97,0
+77149,1981,28100255,1981-12-15 20:00:00,San Antonio,Spurs,Utah,Jazz,Regular Season,0,0,11.0,0,0,1,0,0,0,0,0,5,0,0,0,0.0,0,0,0.0,0,0,0.0,108,103,0
+77149,1981,28100280,1981-12-19 20:00:00,San Antonio,Spurs,Denver,Nuggets,Regular Season,0,0,0.0,12,0,0,0,0,0,0,0,0,0,0,5,0.0,0,0,0.0,2,2,1.0,138,125,0
+77149,1981,28100351,1982-01-05 20:00:00,San Antonio,Spurs,Portland,Trail Blazers,Regular Season,0,0,26.0,1,3,11,8,3,3,1,0,5,0,1,0,0.0,0,0,0.0,2,1,0.5,115,110,0
+77149,1981,28100358,1982-01-06 20:00:00,San Antonio,Spurs,Utah,Jazz,Regular Season,0,0,20.0,4,0,5,0,0,2,0,0,3,0,4,2,0.5,0,0,0.0,0,0,0.0,130,115,0
+77149,1981,28100367,1982-01-07 20:00:00,San Antonio,Spurs,Golden State,Warriors,Regular Season,0,1,21.0,2,1,2,2,0,1,0,3,4,0,3,1,0.333,0,0,0.0,0,0,0.0,112,123,0
+77149,1981,28100383,1982-01-09 20:00:00,San Antonio,Spurs,Kansas City,Kings,Regular Season,1,1,17.0,6,0,8,0,0,4,0,0,4,0,5,3,0.599,0,0,0.0,0,0,0.0,113,100,0
+77149,1981,28100396,1982-01-12 20:00:00,San Antonio,Spurs,Dallas,Mavericks,Regular Season,1,1,15.0,4,1,8,0,0,4,0,1,4,0,4,2,0.5,0,0,0.0,1,0,0.0,127,109,0
+77149,1981,28100415,1982-01-15 20:00:00,San Antonio,Spurs,Houston,Rockets,Regular Season,1,1,27.0,2,3,8,0,0,4,0,0,2,0,1,1,1.0,0,0,0.0,0,0,0.0,128,90,0
+77149,1981,28100421,1982-01-16 20:00:00,San Antonio,Spurs,Houston,Rockets,Regular Season,0,0,16.0,0,1,0,0,0,2,0,0,4,0,0,0,0.0,0,0,0.0,0,0,0.0,116,99,0
+77149,1981,28100436,1982-01-19 20:00:00,San Antonio,Spurs,Phoenix,Suns,Regular Season,0,0,22.0,4,0,3,0,0,0,0,1,3,0,1,1,1.0,0,0,0.0,2,2,1.0,108,96,0
+77149,1981,28100447,1982-01-21 20:00:00,San Antonio,Spurs,Utah,Jazz,Regular Season,1,1,29.0,4,3,13,0,0,7,0,0,4,0,4,2,0.5,0,0,0.0,0,0,0.0,123,104,0
+77149,1981,28100449,1982-01-22 20:00:00,San Antonio,Spurs,Atlanta,Hawks,Regular Season,0,1,20.0,4,0,4,0,0,5,0,0,4,0,2,2,1.0,0,0,0.0,0,0,0.0,107,115,0
+77149,1981,28100457,1982-01-23 20:00:00,San Antonio,Spurs,Indiana,Pacers,Regular Season,1,0,25.0,0,1,5,0,0,6,0,0,3,0,1,0,0.0,0,0,0.0,0,0,0.0,98,107,0
+77149,1981,28100474,1982-01-26 20:00:00,San Antonio,Spurs,Philadelphia,76ers,Regular Season,1,1,29.0,0,0,5,0,0,7,1,0,3,0,0,0,0.0,0,0,0.0,0,0,0.0,103,95,0
+77149,1981,28100486,1982-01-28 20:00:00,San Antonio,Spurs,Kansas City,Kings,Regular Season,1,1,22.0,0,1,11,0,0,3,0,0,4,0,4,0,0.0,0,0,0.0,0,0,0.0,126,115,0
+77149,1981,28100498,1982-02-02 20:00:00,San Antonio,Spurs,Dallas,Mavericks,Regular Season,1,1,23.0,7,0,10,0,0,7,0,0,4,0,5,3,0.599,0,0,0.0,2,1,0.5,103,98,0
+77149,1981,28100508,1982-02-04 20:00:00,San Antonio,Spurs,Phoenix,Suns,Regular Season,1,1,23.0,2,1,9,7,2,6,1,1,4,0,1,1,1.0,0,0,0.0,0,0,0.0,118,112,0
+77149,1981,28100519,1982-02-05 20:00:00,San Antonio,Spurs,Kansas City,Kings,Regular Season,0,0,35.0,1,0,9,0,0,4,0,0,2,0,0,0,0.0,0,0,0.0,2,1,0.5,109,102,0
+77149,1981,28100528,1982-02-07 20:00:00,San Antonio,Spurs,Golden State,Warriors,Regular Season,0,0,30.0,4,1,6,5,1,3,0,2,3,0,2,1,0.5,0,0,0.0,2,2,1.0,116,111,0
+77149,1981,28100534,1982-02-09 20:00:00,San Antonio,Spurs,Washington,Bullets,Regular Season,1,0,19.0,0,1,5,0,0,0,0,0,6,0,0,0,0.0,0,0,0.0,0,0,0.0,110,112,0
+77149,1981,28100554,1982-02-12 20:00:00,San Antonio,Spurs,Los Angeles,Lakers,Regular Season,0,1,9.0,0,0,0,0,0,3,0,0,5,0,0,0,0.0,0,0,0.0,0,0,0.0,94,100,0
+77149,1981,28100569,1982-02-14 20:00:00,San Antonio,Spurs,Seattle,SuperSonics,Regular Season,1,1,7.0,0,0,2,2,0,1,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,114,94,0
+77149,1981,28100581,1982-02-17 20:00:00,San Antonio,Spurs,Detroit,Pistons,Regular Season,1,1,10.0,7,1,3,0,0,2,0,0,5,0,3,3,1.0,0,0,0.0,1,1,1.0,126,112,0
+77149,1981,28100597,1982-02-19 20:00:00,San Antonio,Spurs,Denver,Nuggets,Regular Season,0,1,2.0,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,121,126,0
+77149,1981,28100599,1982-02-20 20:00:00,San Antonio,Spurs,San Diego,Clippers,Regular Season,1,0,16.0,0,2,3,0,0,2,0,1,2,0,0,0,0.0,0,0,0.0,0,0,0.0,101,118,0
+77149,1981,28100617,1982-02-23 20:00:00,San Antonio,Spurs,Golden State,Warriors,Regular Season,1,1,20.0,0,1,6,6,0,9,0,0,5,0,0,0,0.0,0,0,0.0,0,0,0.0,143,123,0
+77149,1981,28100628,1982-02-25 20:00:00,San Antonio,Spurs,Detroit,Pistons,Regular Season,0,1,16.0,0,1,2,0,0,1,0,0,4,0,1,0,0.0,0,0,0.0,0,0,0.0,116,119,0
+77149,1981,28100637,1982-02-26 20:00:00,San Antonio,Spurs,Indiana,Pacers,Regular Season,0,0,24.0,9,1,4,0,0,3,3,0,0,0,4,4,1.0,0,0,0.0,3,1,0.333,108,100,0
+77149,1981,28100644,1982-02-28 20:00:00,San Antonio,Spurs,Chicago,Bulls,Regular Season,0,0,16.0,0,0,3,0,0,2,0,0,3,0,0,0,0.0,0,0,0.0,0,0,0.0,118,104,0
+77149,1981,28100657,1982-03-02 20:00:00,San Antonio,Spurs,Houston,Rockets,Regular Season,0,1,22.0,4,0,2,0,0,4,0,0,3,0,2,2,1.0,0,0,0.0,0,0,0.0,117,119,0
+77149,1981,28100669,1982-03-04 20:00:00,San Antonio,Spurs,Boston,Celtics,Regular Season,1,0,20.0,2,1,4,0,0,1,2,0,2,0,1,1,1.0,0,0,0.0,2,0,0.0,101,110,0
+77149,1981,28100679,1982-03-06 20:00:00,San Antonio,Spurs,Milwaukee,Bucks,Regular Season,1,1,20.0,7,3,4,0,0,2,0,1,6,0,3,3,1.0,0,0,0.0,1,1,1.0,171,166,0
+77149,1981,28100692,1982-03-08 20:00:00,San Antonio,Spurs,Dallas,Mavericks,Regular Season,1,0,32.0,8,3,4,0,0,7,0,1,4,0,5,3,0.599,0,0,0.0,2,2,1.0,113,121,0
+77149,1981,28100698,1982-03-09 20:00:00,San Antonio,Spurs,San Diego,Clippers,Regular Season,0,0,1.0,0,0,1,0,0,0,0,0,3,0,0,0,0.0,0,0,0.0,0,0,0.0,138,127,0
+77149,1981,28100717,1982-03-12 20:00:00,San Antonio,Spurs,Portland,Trail Blazers,Regular Season,1,0,26.0,2,1,5,3,2,7,1,1,4,0,2,1,0.5,0,0,0.0,0,0,0.0,108,112,0
+77149,1981,28100726,1982-03-14 20:00:00,San Antonio,Spurs,Chicago,Bulls,Regular Season,1,1,20.0,6,1,9,0,0,1,0,0,3,0,4,1,0.25,0,0,0.0,6,4,0.667,119,117,0
+77149,1981,28100734,1982-03-16 20:00:00,San Antonio,Spurs,New York,Knicks,Regular Season,0,1,22.0,2,0,6,0,0,4,1,0,2,0,5,1,0.2,0,0,0.0,0,0,0.0,91,114,0
+77149,1981,28100742,1982-03-17 20:00:00,San Antonio,Spurs,New Jersey,Nets,Regular Season,0,0,24.0,4,0,8,0,0,3,0,0,3,0,3,2,0.667,0,0,0.0,0,0,0.0,93,90,0
+77149,1981,28100751,1982-03-19 20:00:00,San Antonio,Spurs,Boston,Celtics,Regular Season,0,0,19.0,3,0,10,0,0,1,0,0,6,0,5,1,0.2,0,0,0.0,2,1,0.5,134,110,0
+77149,1981,28100760,1982-03-20 20:00:00,San Antonio,Spurs,Cleveland,Cavaliers,Regular Season,0,1,29.0,6,1,13,0,0,1,1,0,5,0,7,2,0.285,0,0,0.0,2,2,1.0,102,115,0
+77149,1981,28100780,1982-03-23 20:00:00,San Antonio,Spurs,San Diego,Clippers,Regular Season,1,1,23.0,2,1,7,0,0,5,0,1,2,0,1,1,1.0,0,0,0.0,0,0,0.0,106,98,0
+77149,1981,28100787,1982-03-24 20:00:00,San Antonio,Spurs,Denver,Nuggets,Regular Season,0,0,16.0,6,0,4,3,1,1,0,1,5,0,3,3,1.0,0,0,0.0,0,0,0.0,129,115,0
+77149,1981,28100801,1982-03-26 20:00:00,San Antonio,Spurs,Los Angeles,Lakers,Regular Season,1,1,10.0,0,0,4,0,0,1,0,0,2,0,1,0,0.0,0,0,0.0,0,0,0.0,110,105,0
+77149,1981,28100806,1982-03-27 20:00:00,San Antonio,Spurs,Utah,Jazz,Regular Season,0,1,22.0,2,2,9,0,0,6,1,0,3,0,2,1,0.5,0,0,0.0,0,0,0.0,110,114,0
+77149,1981,28100819,1982-03-30 20:00:00,San Antonio,Spurs,Golden State,Warriors,Regular Season,1,0,17.0,2,0,5,2,3,2,0,0,4,0,4,1,0.25,0,0,0.0,0,0,0.0,107,113,0
+77149,1981,28100833,1982-04-01 20:00:00,San Antonio,Spurs,Portland,Trail Blazers,Regular Season,0,0,22.0,4,0,10,4,6,2,0,0,3,0,5,2,0.4,0,0,0.0,0,0,0.0,109,105,0
+77149,1981,28100837,1982-04-02 20:00:00,San Antonio,Spurs,Seattle,SuperSonics,Regular Season,0,0,28.0,0,0,5,4,1,0,0,1,5,0,2,0,0.0,0,0,0.0,0,0,0.0,111,86,0
+77149,1981,28100850,1982-04-04 20:00:00,San Antonio,Spurs,Houston,Rockets,Regular Season,1,0,15.0,0,1,0,0,0,2,0,0,4,0,1,0,0.0,0,0,0.0,0,0,0.0,93,95,0
+77149,1981,28100868,1982-04-07 20:00:00,San Antonio,Spurs,Kansas City,Kings,Regular Season,1,1,22.0,4,3,3,0,0,1,0,0,4,0,3,2,0.667,0,0,0.0,0,0,0.0,118,113,0
+77149,1981,28100886,1982-04-10 20:00:00,San Antonio,Spurs,Houston,Rockets,Regular Season,0,0,20.0,0,0,2,0,0,0,0,0,4,0,2,0,0.0,0,0,0.0,0,0,0.0,105,100,0
+77149,1981,28100893,1982-04-11 20:00:00,San Antonio,Spurs,Kansas City,Kings,Regular Season,0,1,11.0,0,0,3,0,0,1,0,0,5,0,1,0,0.0,0,0,0.0,0,0,0.0,121,126,0
+77149,1981,28100907,1982-04-13 20:00:00,San Antonio,Spurs,Denver,Nuggets,Regular Season,1,1,15.0,0,1,4,2,2,4,1,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,144,137,0
+77149,1981,28100915,1982-04-14 20:00:00,San Antonio,Spurs,Phoenix,Suns,Regular Season,0,0,31.0,6,4,9,4,5,5,0,2,2,0,4,3,0.75,0,0,0.0,0,0,0.0,104,92,0
+77149,1981,28100924,1982-04-16 20:00:00,San Antonio,Spurs,Dallas,Mavericks,Regular Season,0,1,28.0,10,0,6,0,0,8,0,1,5,0,6,3,0.5,0,0,0.0,5,4,0.8,106,118,0
+77149,1981,28100941,1982-04-18 20:00:00,San Antonio,Spurs,Utah,Jazz,Regular Season,1,0,28.0,6,1,7,0,0,5,0,0,1,0,3,2,0.667,0,0,0.0,3,2,0.667,120,128,0
+77149,1981,48100013,1982-04-27 20:00:00,San Antonio,Spurs,Seattle,SuperSonics,Playoffs,0,1,23.0,1,4,8,4,4,0,1,0,4,0,2,0,0.0,0,0,0.0,2,1,0.5,93,95,0
+77149,1981,48100014,1982-04-28 20:00:00,San Antonio,Spurs,Seattle,SuperSonics,Playoffs,0,0,25.0,3,1,8,6,2,2,0,1,3,0,2,1,0.5,0,0,0.0,1,1,1.0,114,99,0
+77149,1981,48100018,1982-04-30 20:00:00,San Antonio,Spurs,Seattle,SuperSonics,Playoffs,1,1,27.0,0,2,3,3,0,2,2,1,4,0,0,0,0.0,0,0,0.0,0,0,0.0,99,97,0
+77149,1981,48100022,1982-05-02 20:00:00,San Antonio,Spurs,Seattle,SuperSonics,Playoffs,1,1,20.0,3,0,4,2,2,2,1,0,4,0,2,1,0.5,0,0,0.0,2,1,0.5,115,113,0
+77149,1981,48100025,1982-05-05 20:00:00,San Antonio,Spurs,Seattle,SuperSonics,Playoffs,0,1,12.0,0,1,5,4,1,0,0,0,5,0,0,0,0.0,0,0,0.0,0,0,0.0,103,109,0
+77149,1981,48100030,1982-05-09 20:00:00,San Antonio,Spurs,Los Angeles,Lakers,Playoffs,0,0,18.0,4,0,3,0,0,2,0,1,4,0,2,2,1.0,0,0,0.0,0,0,0.0,128,117,0
+77149,1981,48100031,1982-05-11 20:00:00,San Antonio,Spurs,Los Angeles,Lakers,Playoffs,0,0,15.0,0,0,2,0,0,0,0,0,3,0,0,0,0.0,0,0,0.0,0,0,0.0,110,101,0
+77149,1981,48100033,1982-05-14 20:00:00,San Antonio,Spurs,Los Angeles,Lakers,Playoffs,1,0,18.0,0,3,9,0,0,0,0,0,4,0,0,0,0.0,0,0,0.0,0,0,0.0,108,118,0
+77149,1981,48100034,1982-05-15 20:00:00,San Antonio,Spurs,Los Angeles,Lakers,Playoffs,1,0,17.0,0,1,4,0,0,1,1,0,3,0,0,0,0.0,0,0,0.0,0,0,0.0,123,128,0
+77149,1982,28200006,1982-10-29 20:00:00,Atlanta,Hawks,Detroit,Pistons,Regular Season,0,0,7.0,0,1,1,1,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,94,86,0
+77149,1982,28200016,1982-10-30 20:00:00,Atlanta,Hawks,Boston,Celtics,Regular Season,1,0,14.0,0,1,5,5,0,0,0,1,2,0,0,0,0.0,0,0,0.0,0,0,0.0,97,112,0
+77149,1982,28200025,1982-11-02 20:00:00,Atlanta,Hawks,Washington,Bullets,Regular Season,1,1,11.0,0,1,2,0,2,1,0,0,2,0,0,0,0.0,0,0,0.0,0,0,0.0,105,88,0
+77149,1982,28200039,1982-11-04 20:00:00,Atlanta,Hawks,Milwaukee,Bucks,Regular Season,1,0,14.0,2,0,6,3,3,1,0,1,2,0,5,1,0.2,0,0,0.0,0,0,0.0,100,104,0
+77149,1982,28200052,1982-11-06 20:00:00,Atlanta,Hawks,Detroit,Pistons,Regular Season,1,1,8.0,2,0,4,0,0,1,0,0,1,0,2,1,0.5,0,0,0.0,0,0,0.0,95,93,0
+77149,1982,28200069,1982-11-09 20:00:00,Atlanta,Hawks,Denver,Nuggets,Regular Season,0,1,21.0,2,0,4,3,1,7,0,1,2,0,1,1,1.0,0,0,0.0,0,0,0.0,105,106,0
+77149,1982,28200082,1982-11-12 20:00:00,Atlanta,Hawks,Utah,Jazz,Regular Season,0,1,12.0,4,0,2,0,0,0,0,0,2,0,2,1,0.5,0,0,0.0,2,2,1.0,98,106,0
+77149,1982,28200094,1982-11-13 20:00:00,Atlanta,Hawks,Golden State,Warriors,Regular Season,0,0,12.0,2,0,4,2,2,0,0,1,1,0,2,1,0.5,0,0,0.0,0,0,0.0,114,101,0
+77149,1982,28200108,1982-11-16 20:00:00,Atlanta,Hawks,Portland,Trail Blazers,Regular Season,0,0,7.0,0,1,2,2,0,0,1,1,3,0,0,0,0.0,0,0,0.0,0,0,0.0,106,87,0
+77149,1982,28200109,1982-11-17 20:00:00,Atlanta,Hawks,Seattle,SuperSonics,Regular Season,0,0,11.0,0,0,2,2,0,0,2,1,3,0,1,0,0.0,0,0,0.0,0,0,0.0,119,97,0
+77149,1982,28200128,1982-11-20 20:00:00,Atlanta,Hawks,Phoenix,Suns,Regular Season,0,0,19.0,2,0,4,0,0,2,1,2,1,0,0,0,0.0,0,0,0.0,2,2,1.0,91,80,0
+77149,1982,28200138,1982-11-23 20:00:00,Atlanta,Hawks,Chicago,Bulls,Regular Season,1,1,20.0,4,0,12,9,3,6,0,0,3,0,4,2,0.5,0,0,0.0,0,0,0.0,132,102,0
+77149,1982,28200162,1982-11-27 20:00:00,Atlanta,Hawks,Indiana,Pacers,Regular Season,1,1,12.0,2,0,0,0,0,0,0,0,1,0,1,0,0.0,0,0,0.0,2,2,1.0,117,98,0
+77149,1982,28200182,1982-11-30 20:00:00,Atlanta,Hawks,Philadelphia,76ers,Regular Season,1,1,11.0,2,0,4,2,2,0,1,0,5,0,2,1,0.5,0,0,0.0,2,0,0.0,111,97,0
+77149,1982,28200188,1982-12-01 20:00:00,Atlanta,Hawks,Boston,Celtics,Regular Season,0,0,23.0,6,0,12,5,7,4,0,0,3,0,7,3,0.428,0,0,0.0,0,0,0.0,122,97,0
+77149,1982,28200202,1982-12-03 20:00:00,Atlanta,Hawks,New Jersey,Nets,Regular Season,1,0,20.0,5,1,10,0,0,4,0,0,4,0,1,1,1.0,0,0,0.0,4,3,0.75,99,107,0
+77149,1982,28200219,1982-12-07 20:00:00,Atlanta,Hawks,Cleveland,Cavaliers,Regular Season,0,1,4.0,0,0,0,0,0,0,0,1,0,0,0,0,0.0,0,0,0.0,0,0,0.0,90,102,0
+77149,1982,28200225,1982-12-08 20:00:00,Atlanta,Hawks,Philadelphia,76ers,Regular Season,0,0,28.0,2,1,5,4,1,3,0,0,2,0,4,1,0.25,0,0,0.0,0,0,0.0,132,85,0
+77149,1982,28200233,1982-12-10 20:00:00,Atlanta,Hawks,Milwaukee,Bucks,Regular Season,1,0,10.0,5,0,6,0,0,1,1,1,5,0,2,2,1.0,0,0,0.0,2,1,0.5,83,104,0
+77149,1982,28200244,1982-12-11 20:00:00,Atlanta,Hawks,Chicago,Bulls,Regular Season,0,1,12.0,1,1,2,0,0,1,0,0,1,0,0,0,0.0,0,0,0.0,2,1,0.5,107,117,0
+77149,1982,28200263,1982-12-15 20:00:00,Atlanta,Hawks,Indiana,Pacers,Regular Season,0,1,13.0,2,1,3,3,0,1,0,2,1,0,3,1,0.333,0,0,0.0,0,0,0.0,101,107,0
+77149,1982,28200267,1982-12-16 20:00:00,Atlanta,Hawks,Cleveland,Cavaliers,Regular Season,1,1,9.0,0,0,1,0,1,1,0,2,0,0,1,0,0.0,0,0,0.0,0,0,0.0,106,97,0
+77149,1982,28200277,1982-12-18 20:00:00,Atlanta,Hawks,Boston,Celtics,Regular Season,1,0,3.0,0,0,2,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,103,107,0
+77149,1982,28200299,1982-12-21 20:00:00,Atlanta,Hawks,Chicago,Bulls,Regular Season,0,0,14.0,0,2,2,1,1,4,0,0,2,0,1,0,0.0,0,0,0.0,0,0,0.0,124,116,0
+77149,1982,28200305,1982-12-23 20:00:00,Atlanta,Hawks,Milwaukee,Bucks,Regular Season,0,0,17.0,4,2,2,0,0,2,1,1,0,0,2,2,1.0,0,0,0.0,0,0,0.0,101,90,0
+77149,1982,28200314,1982-12-25 20:00:00,Atlanta,Hawks,Washington,Bullets,Regular Season,0,1,19.0,1,1,4,0,0,3,0,0,4,0,1,0,0.0,0,0,0.0,1,1,1.0,91,97,0
+77149,1982,28200326,1982-12-28 20:00:00,Atlanta,Hawks,San Diego,Clippers,Regular Season,1,1,7.0,0,0,0,0,0,0,1,0,3,0,0,0,0.0,0,0,0.0,0,0,0.0,123,113,0
+77149,1982,28200334,1982-12-29 20:00:00,Atlanta,Hawks,New Jersey,Nets,Regular Season,0,0,19.0,6,2,2,1,1,2,0,1,2,0,3,3,1.0,0,0,0.0,0,0,0.0,104,99,0
+77149,1982,28200364,1983-01-04 20:00:00,Atlanta,Hawks,San Antonio,Spurs,Regular Season,1,0,14.0,0,0,2,1,1,1,1,0,3,0,2,0,0.0,0,0,0.0,0,0,0.0,95,104,0
+77149,1982,28200382,1983-01-07 20:00:00,Atlanta,Hawks,Dallas,Mavericks,Regular Season,1,1,14.0,2,1,4,0,0,4,0,0,1,0,2,1,0.5,0,0,0.0,0,0,0.0,110,102,0
+77149,1982,28200389,1983-01-08 20:00:00,Atlanta,Hawks,Chicago,Bulls,Regular Season,1,1,16.0,0,1,3,0,0,4,0,0,4,0,1,0,0.0,0,0,0.0,0,0,0.0,109,89,0
+77149,1982,28200404,1983-01-11 20:00:00,Atlanta,Hawks,Philadelphia,76ers,Regular Season,1,0,16.0,0,0,2,1,1,0,0,0,2,0,0,0,0.0,0,0,0.0,0,0,0.0,99,109,0
+77149,1982,28200434,1983-01-15 20:00:00,Atlanta,Hawks,Los Angeles,Lakers,Regular Season,1,0,10.0,4,0,0,0,0,0,0,0,0,0,3,1,0.333,0,0,0.0,2,2,1.0,101,120,0
+77149,1982,28200882,1983-04-08 20:00:00,Atlanta,Hawks,Chicago,Bulls,Regular Season,1,1,7.0,2,0,2,0,0,0,0,0,2,0,1,1,1.0,0,0,0.0,0,0,0.0,138,101,0
+77149,1982,28200887,1983-04-09 20:00:00,Atlanta,Hawks,Washington,Bullets,Regular Season,0,0,5.0,2,0,1,0,0,0,0,0,1,0,2,1,0.5,0,0,0.0,0,0,0.0,100,78,0
+77149,1982,28200914,1983-04-13 20:00:00,Atlanta,Hawks,Kansas City,Kings,Regular Season,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,114,103,0
+77149,1982,28200933,1983-04-16 20:00:00,Atlanta,Hawks,Milwaukee,Bucks,Regular Season,1,1,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,96,79,0
+77149,1982,48200012,1983-04-24 20:00:00,Atlanta,Hawks,Boston,Celtics,Playoffs,0,0,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,98,79,0
+77149,1984,28400004,1984-10-26 20:00:00,New Jersey,Nets,Atlanta,Hawks,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,104,119,0
+77149,1984,28400014,1984-10-27 20:00:00,New Jersey,Nets,Cleveland,Cavaliers,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,106,131,0
+77149,1984,28400027,1984-10-30 20:00:00,New Jersey,Nets,Philadelphia,76ers,Regular Season,1,0,17.0,2,0,5,0,0,0,0,0,1,0,4,1,0.25,0,0,0.0,0,0,0.0,96,118,0
+77149,1984,28400032,1984-10-31 20:00:00,New Jersey,Nets,Boston,Celtics,Regular Season,0,0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,2,1,0.5,116,105,0
+77149,1984,28400046,1984-11-03 20:00:00,New Jersey,Nets,Indiana,Pacers,Regular Season,1,1,0.0,4,0,0,0,0,0,0,0,0,0,3,2,0.667,0,0,0.0,0,0,0.0,118,117,0
+77149,1984,28400067,1984-11-07 20:00:00,New Jersey,Nets,Washington,Bullets,Regular Season,1,1,0.0,2,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,2,2,1.0,99,88,0
+77149,1984,28400078,1984-11-09 20:00:00,New Jersey,Nets,Kansas City,Kings,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,99,101,0
+77149,1984,28400090,1984-11-11 20:00:00,New Jersey,Nets,Los Angeles,Lakers,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,121,111,0
+77149,1984,28400098,1984-11-13 20:00:00,New Jersey,Nets,Los Angeles,Clippers,Regular Season,0,1,0.0,4,0,0,0,0,0,0,0,0,0,3,2,0.667,0,0,0.0,0,0,0.0,90,99,0
+77149,1984,28400103,1984-11-14 20:00:00,New Jersey,Nets,Phoenix,Suns,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,98,86,0
+77149,1984,28400119,1984-11-17 20:00:00,New Jersey,Nets,Golden State,Warriors,Regular Season,0,1,0.0,2,0,0,0,0,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,114,131,0
+77149,1984,28400127,1984-11-18 20:00:00,New Jersey,Nets,Seattle,SuperSonics,Regular Season,0,1,0.0,3,0,0,0,0,0,0,0,0,0,1,1,1.0,0,1,0.0,0,0,0.0,97,102,0
+77149,1984,28400138,1984-11-20 20:00:00,New Jersey,Nets,Portland,Trail Blazers,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,2,0,0.0,0,0,0.0,0,0,0.0,117,107,0
+77149,1984,28400159,1984-11-24 20:00:00,New Jersey,Nets,Atlanta,Hawks,Regular Season,0,0,0.0,4,0,0,0,0,0,0,0,0,0,4,2,0.5,0,0,0.0,0,0,0.0,101,99,0
+77149,1984,28400184,1984-11-28 20:00:00,New Jersey,Nets,New York,Knicks,Regular Season,1,1,0.0,4,0,0,0,0,0,0,0,0,0,2,1,0.5,0,0,0.0,2,2,1.0,111,96,0
+77149,1984,28400188,1984-11-30 20:00:00,New Jersey,Nets,Indiana,Pacers,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,123,100,0
+77149,1984,28400207,1984-12-02 20:00:00,New Jersey,Nets,Philadelphia,76ers,Regular Season,0,0,11.0,0,0,2,0,0,0,0,0,4,0,1,0,0.0,0,0,0.0,0,0,0.0,114,112,0
+77149,1984,28400214,1984-12-04 20:00:00,New Jersey,Nets,Chicago,Bulls,Regular Season,0,0,0.0,2,0,0,0,0,0,0,0,6,0,2,1,0.5,0,0,0.0,0,0,0.0,112,97,0
+77149,1984,28400221,1984-12-05 20:00:00,New Jersey,Nets,Los Angeles,Lakers,Regular Season,1,0,0.0,2,0,0,0,0,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,93,104,0
+77149,1984,28400237,1984-12-08 20:00:00,New Jersey,Nets,Boston,Celtics,Regular Season,1,0,0.0,5,0,0,0,0,0,0,0,0,0,2,2,1.0,0,0,0.0,2,1,0.5,98,107,0
+77149,1984,28400255,1984-12-11 20:00:00,New Jersey,Nets,Boston,Celtics,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,130,121,0
+77149,1984,28400262,1984-12-12 20:00:00,New Jersey,Nets,Milwaukee,Bucks,Regular Season,1,1,0.0,7,0,0,0,0,0,0,0,0,0,1,1,1.0,0,0,0.0,6,5,0.832,116,109,0
+77149,1984,28400279,1984-12-15 20:00:00,New Jersey,Nets,Indiana,Pacers,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,112,100,0
+77149,1984,28400287,1984-12-18 20:00:00,New Jersey,Nets,Washington,Bullets,Regular Season,0,0,0.0,4,0,0,0,0,0,0,0,0,0,4,2,0.5,0,0,0.0,0,0,0.0,104,95,0
+77149,1984,28400299,1984-12-19 20:00:00,New Jersey,Nets,Washington,Bullets,Regular Season,1,1,0.0,4,0,0,0,0,0,0,0,0,0,2,2,1.0,0,0,0.0,1,0,0.0,115,106,0
+77149,1984,28400312,1984-12-21 20:00:00,New Jersey,Nets,San Antonio,Spurs,Regular Season,1,0,0.0,2,0,0,0,0,0,0,0,0,0,3,1,0.333,0,0,0.0,0,0,0.0,116,122,0
+77149,1984,28400315,1984-12-22 20:00:00,New Jersey,Nets,Philadelphia,76ers,Regular Season,0,0,18.0,2,0,6,0,0,2,0,0,1,0,3,1,0.333,0,0,0.0,0,0,0.0,107,93,0
+77149,1984,28400327,1984-12-25 20:00:00,New Jersey,Nets,New York,Knicks,Regular Season,0,1,0.0,2,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,2,2,1.0,114,120,0
+77149,1984,28400335,1984-12-26 20:00:00,New Jersey,Nets,Detroit,Pistons,Regular Season,1,1,0.0,2,0,0,0,0,0,0,0,0,0,3,1,0.333,0,0,0.0,0,0,0.0,112,97,0
+77149,1984,28400347,1984-12-28 20:00:00,New Jersey,Nets,New York,Knicks,Regular Season,1,1,0.0,2,0,0,0,0,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,100,97,0
+77149,1984,28400350,1984-12-29 20:00:00,New Jersey,Nets,Detroit,Pistons,Regular Season,0,1,0.0,2,0,0,0,0,0,0,0,0,0,2,1,0.5,0,0,0.0,0,0,0.0,108,110,0
+77149,1984,28400363,1985-01-02 20:00:00,New Jersey,Nets,Boston,Celtics,Regular Season,1,0,0.0,4,0,0,0,0,0,0,0,0,0,2,2,1.0,0,0,0.0,0,0,0.0,95,110,0
+77149,1984,28400377,1985-01-04 20:00:00,New Jersey,Nets,Phoenix,Suns,Regular Season,1,1,0.0,2,0,0,0,0,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,105,98,0
+77149,1984,28400389,1985-01-05 20:00:00,New Jersey,Nets,Atlanta,Hawks,Regular Season,0,0,0.0,4,0,0,0,0,0,0,0,0,0,3,2,0.667,0,0,0.0,0,0,0.0,124,114,0
+77149,1984,28400402,1985-01-08 20:00:00,New Jersey,Nets,Cleveland,Cavaliers,Regular Season,0,0,0.0,5,0,0,0,0,0,0,0,6,0,2,2,1.0,0,0,0.0,1,1,1.0,107,101,0
+77149,1984,28400415,1985-01-11 20:00:00,New Jersey,Nets,Atlanta,Hawks,Regular Season,1,1,0.0,4,0,0,0,0,0,0,0,0,0,3,2,0.667,0,0,0.0,0,0,0.0,122,103,0
+77149,1984,28400429,1985-01-13 20:00:00,New Jersey,Nets,Houston,Rockets,Regular Season,1,1,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,2,1,0.5,100,99,0
+77149,1984,28400447,1985-01-16 20:00:00,New Jersey,Nets,Chicago,Bulls,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,100,94,0
+77149,1984,28400455,1985-01-18 20:00:00,New Jersey,Nets,Milwaukee,Bucks,Regular Season,0,0,0.0,2,0,0,0,0,0,0,0,0,0,2,1,0.5,0,0,0.0,0,0,0.0,102,93,0
+77149,1984,28400469,1985-01-19 20:00:00,New Jersey,Nets,Detroit,Pistons,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,107,109,0
+77149,1984,28400477,1985-01-22 20:00:00,New Jersey,Nets,Utah,Jazz,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,102,99,0
+77149,1984,28400486,1985-01-24 20:00:00,New Jersey,Nets,Denver,Nuggets,Regular Season,0,0,0.0,2,0,0,0,0,0,0,0,0,0,2,1,0.5,0,0,0.0,0,0,0.0,119,110,0
+77149,1984,28400502,1985-01-26 20:00:00,New Jersey,Nets,Dallas,Mavericks,Regular Season,0,1,0.0,3,0,0,0,0,0,0,0,0,0,1,1,1.0,0,0,0.0,1,1,1.0,93,103,0
+77149,1984,28400510,1985-01-28 20:00:00,New Jersey,Nets,Houston,Rockets,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,97,93,0
+77149,1984,28400519,1985-01-29 20:00:00,New Jersey,Nets,San Antonio,Spurs,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,130,127,0
+77149,1984,28400528,1985-01-31 20:00:00,New Jersey,Nets,Los Angeles,Clippers,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,122,99,0
+77149,1984,28400566,1985-02-06 20:00:00,New Jersey,Nets,Milwaukee,Bucks,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,106,93,0
+77149,1984,28400584,1985-02-12 20:00:00,New Jersey,Nets,Milwaukee,Bucks,Regular Season,0,0,0.0,6,0,0,0,0,0,0,0,0,0,3,3,1.0,0,0,0.0,0,0,0.0,111,103,0
+77149,1984,28400588,1985-02-13 20:00:00,New Jersey,Nets,Cleveland,Cavaliers,Regular Season,1,1,0.0,2,0,0,0,0,0,0,0,0,0,2,1,0.5,0,0,0.0,0,0,0.0,112,105,0
+77149,1984,28400604,1985-02-15 20:00:00,New Jersey,Nets,Detroit,Pistons,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,124,123,0
+77149,1984,28400608,1985-02-16 20:00:00,New Jersey,Nets,New York,Knicks,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,117,126,0
+77149,1984,28400626,1985-02-20 20:00:00,New Jersey,Nets,Utah,Jazz,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,104,110,0
+77149,1984,28400640,1985-02-22 20:00:00,New Jersey,Nets,Golden State,Warriors,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,127,131,0
+77149,1984,28400648,1985-02-23 20:00:00,New Jersey,Nets,Detroit,Pistons,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,103,111,0
+77149,1984,28400702,1985-03-05 20:00:00,New Jersey,Nets,Kansas City,Kings,Regular Season,0,0,0.0,2,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,2,2,1.0,134,113,0
+77149,1984,28400706,1985-03-06 20:00:00,New Jersey,Nets,Seattle,SuperSonics,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,129,108,0
+77149,1984,28400721,1985-03-08 20:00:00,New Jersey,Nets,Portland,Trail Blazers,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,110,128,0
+77149,1984,28400771,1985-03-16 20:00:00,New Jersey,Nets,Philadelphia,76ers,Regular Season,0,0,8.0,0,0,3,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,127,107,0
+77149,1984,28400781,1985-03-17 20:00:00,New Jersey,Nets,Indiana,Pacers,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,129,105,0
+77149,1984,28400786,1985-03-19 20:00:00,New Jersey,Nets,Milwaukee,Bucks,Regular Season,0,0,0.0,4,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,4,4,1.0,130,111,0
+77149,1984,28400798,1985-03-20 20:00:00,New Jersey,Nets,Cleveland,Cavaliers,Regular Season,1,1,0.0,2,0,0,0,0,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,128,108,0
+77149,1984,28400808,1985-03-22 20:00:00,New Jersey,Nets,Denver,Nuggets,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,111,123,0
+77149,1984,28400847,1985-03-29 20:00:00,New Jersey,Nets,Washington,Bullets,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,122,98,0
+77149,1984,48400131,1985-04-18 19:00:00,New Jersey,Nets,Detroit,Pistons,Playoffs,0,0,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,125,105,0
+77149,1985,28500017,1985-10-26 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,0,0,15.0,0,3,4,3,1,2,0,2,3,0,1,0,0.0,0,0,0.0,0,0,0.0,101,95,0
+77149,1985,28500022,1985-10-29 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,0,0,15.0,5,0,3,2,1,1,0,0,0,0,1,1,1.0,0,0,0.0,4,3,0.75,111,99,0
+77149,1985,28500035,1985-10-31 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,0,0,11.0,0,0,2,2,0,4,0,0,4,0,1,0,0.0,0,0,0.0,0,0,0.0,90,73,0
+77149,1985,28500048,1985-11-02 20:00:00,Seattle,SuperSonics,Chicago,Bulls,Regular Season,1,1,16.0,4,2,3,1,2,3,0,1,3,0,1,1,1.0,0,0,0.0,2,2,1.0,118,100,0
+77149,1985,28500063,1985-11-05 20:00:00,Seattle,SuperSonics,New York,Knicks,Regular Season,1,1,6.0,1,0,1,0,1,0,0,0,4,0,0,0,0.0,0,0,0.0,2,1,0.5,84,80,0
+77149,1985,28500086,1985-11-09 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,0,0,3.0,0,0,0,0,0,0,0,1,1,0,0,0,0.0,0,0,0.0,0,0,0.0,98,93,0
+77149,1985,28500101,1985-11-12 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,1,1,11.0,0,1,5,2,3,1,0,0,0,0,2,0,0.0,0,0,0.0,0,0,0.0,109,90,0
+77149,1985,28500102,1985-11-13 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,0,1,3.0,2,0,0,0,0,0,0,0,1,0,1,1,1.0,0,0,0.0,0,0,0.0,89,93,0
+77149,1985,28500002,1985-11-15 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,0,12.0,0,1,3,3,0,0,0,0,3,0,1,0,0.0,0,0,0.0,0,0,0.0,117,99,0
+77149,1985,28500126,1985-11-16 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,0,0,3.0,0,1,1,0,1,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,97,95,0
+77149,1985,28500152,1985-11-22 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,1,1,2.0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,122,103,0
+77149,1985,28500165,1985-11-24 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,1,3.0,0,0,1,0,1,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,110,84,0
+77149,1985,28500171,1985-11-26 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,1,1,3.0,0,1,2,2,0,1,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,131,99,0
+77149,1985,28500189,1985-11-29 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,0,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,108,107,0
+77149,1985,28500206,1985-11-30 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,0,1,4.0,0,0,2,2,0,2,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,123,131,0
+77149,1985,28500213,1985-12-03 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,1,1,5.0,4,1,0,0,0,1,0,1,0,0,1,1,1.0,0,0,0.0,2,2,1.0,123,103,0
+77149,1985,28500232,1985-12-05 20:00:00,Seattle,SuperSonics,Cleveland,Cavaliers,Regular Season,0,0,3.0,0,0,0,0,0,1,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,100,97,0
+77149,1985,28500240,1985-12-06 20:00:00,Seattle,SuperSonics,Washington,Bullets,Regular Season,0,0,7.0,0,0,1,0,1,2,0,2,0,0,0,0,0.0,0,0,0.0,0,0,0.0,115,109,0
+77149,1985,28500250,1985-12-08 20:00:00,Seattle,SuperSonics,Philadelphia,76ers,Regular Season,0,1,9.0,0,0,1,0,1,1,0,2,1,0,1,0,0.0,0,0,0.0,0,0,0.0,100,105,0
+77149,1985,28500254,1985-12-10 20:00:00,Seattle,SuperSonics,Milwaukee,Bucks,Regular Season,0,0,5.0,2,0,2,1,1,0,1,0,2,0,0,0,0.0,0,0,0.0,2,2,1.0,117,98,0
+77149,1985,28500264,1985-12-11 20:00:00,Seattle,SuperSonics,Atlanta,Hawks,Regular Season,0,0,7.0,3,2,1,0,1,0,0,1,1,0,2,1,0.5,0,0,0.0,1,1,1.0,105,97,0
+77149,1985,28500272,1985-12-13 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,1,1,4.0,2,0,1,0,1,1,0,1,3,0,1,1,1.0,0,0,0.0,0,0,0.0,114,95,0
+77149,1985,28500304,1985-12-19 20:00:00,Seattle,SuperSonics,Detroit,Pistons,Regular Season,1,0,5.0,0,0,4,4,0,1,0,1,2,0,0,0,0.0,0,0,0.0,0,0,0.0,97,99,0
+77149,1985,28500347,1985-12-28 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,1,0,1.0,0,0,1,0,1,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,106,111,0
+77149,1985,28500361,1985-12-30 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,0,0,6.0,0,0,1,0,1,0,0,0,2,0,1,0,0.0,0,0,0.0,0,0,0.0,107,105,0
+77149,1985,28500369,1986-01-03 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,1,3.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,117,107,0
+77149,1985,28500385,1986-01-06 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,0,8.0,4,0,0,0,0,0,0,0,1,0,2,2,1.0,0,0,0.0,1,0,0.0,97,114,0
+77149,1985,28500424,1986-01-13 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,1,0,3.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,89,90,0
+77149,1985,28500436,1986-01-15 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,0,0,3.0,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,110,103,0
+77149,1985,28500483,1986-01-23 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,117,107,0
+77149,1985,28500670,1986-02-27 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,1,5.0,2,0,2,1,1,0,0,0,2,0,1,1,1.0,0,0,0.0,0,0,0.0,107,94,0
+77149,1985,28500707,1986-03-05 20:00:00,Seattle,SuperSonics,Indiana,Pacers,Regular Season,1,0,2.0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,112,120,0
+77149,1985,28500722,1986-03-07 20:00:00,Seattle,SuperSonics,Cleveland,Cavaliers,Regular Season,1,1,10.0,0,1,2,2,0,1,2,1,1,0,0,0,0.0,0,0,0.0,0,0,0.0,120,106,0
+77149,1985,28500738,1986-03-10 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,1,10.0,0,0,3,2,1,1,1,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,108,111,0
+77149,1985,28500751,1986-03-12 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,0,0,8.0,0,0,2,0,2,1,1,0,2,0,1,0,0.0,0,0,0.0,0,0,0.0,100,96,0
+77149,1985,28500757,1986-03-13 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,0,8.0,2,0,0,0,0,2,0,1,2,0,1,1,1.0,0,0,0.0,0,0,0.0,105,92,0
+77149,1985,28500803,1986-03-20 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,1,15.0,0,0,5,4,1,3,0,0,2,0,1,0,0.0,0,0,0.0,0,0,0.0,116,104,0
+77149,1985,28500808,1986-03-21 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,0,11.0,2,0,5,2,3,2,0,0,1,0,1,1,1.0,0,0,0.0,0,0,0.0,115,108,0
+77149,1985,28500820,1986-03-23 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,0,1,6.0,2,0,0,0,0,1,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,104,107,0
+77149,1985,28500826,1986-03-24 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,0,0,5.0,0,0,1,0,1,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,116,108,0
+77149,1985,28500838,1986-03-26 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,0,5.0,0,0,1,1,0,3,0,0,0,0,0,0,0.0,0,0,0.0,2,0,0.0,120,107,0

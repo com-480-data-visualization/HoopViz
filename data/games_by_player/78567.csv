@@ -1,0 +1,550 @@
+personId,season,gameId,gameDateTimeEst,playerteamCity,playerteamName,opponentteamCity,opponentteamName,gameType,home,win,numMinutes,points,assists,reboundsTotal,reboundsDefensive,reboundsOffensive,blocks,steals,turnovers,foulsPersonal,plusMinusPoints,fieldGoalsAttempted,fieldGoalsMade,fieldGoalsPercentage,threePointersAttempted,threePointersMade,threePointersPercentage,freeThrowsAttempted,freeThrowsMade,freeThrowsPercentage,homeScore,awayScore,attendance
+78567,1968,26800007,1968-10-18 19:00:00,San Francisco,Warriors,San Diego,Rockets,Regular Season,1,0,23.0,13,7,3,0,0,0,0,0,5,0,11,4,0.363,0,0,0.0,5,5,1.0,108,123,0
+78567,1968,26800015,1968-10-19 19:00:00,San Francisco,Warriors,Seattle,SuperSonics,Regular Season,0,1,23.0,4,0,6,0,0,0,0,0,6,0,6,1,0.167,0,0,0.0,2,2,1.0,95,107,0
+78567,1968,26800020,1968-10-22 19:00:00,San Francisco,Warriors,Phoenix,Suns,Regular Season,1,1,24.0,14,4,3,0,0,0,0,0,5,0,8,5,0.625,0,0,0.0,4,4,1.0,109,101,0
+78567,1968,26800032,1968-10-26 19:00:00,San Francisco,Warriors,Baltimore,Bullets,Regular Season,1,1,9.0,2,1,2,0,0,0,0,0,1,0,2,1,0.5,0,0,0.0,0,0,0.0,107,106,0
+78567,1968,26803001,1968-10-29 19:00:00,San Francisco,Warriors,New York,Knicks,Regular Season,0,0,9.0,2,4,1,0,0,0,0,0,4,0,2,1,0.5,0,0,0.0,0,0,0.0,110,97,0
+78567,1968,26800044,1968-10-30 19:00:00,San Francisco,Warriors,Baltimore,Bullets,Regular Season,0,0,15.0,6,4,1,0,0,0,0,0,0,0,4,2,0.5,0,0,0.0,3,2,0.667,112,110,0
+78567,1968,26800049,1968-11-01 19:00:00,San Francisco,Warriors,Atlanta,Hawks,Regular Season,0,0,25.0,15,5,0,0,0,0,0,0,4,0,7,5,0.713,0,0,0.0,8,5,0.625,109,105,0
+78567,1968,26800055,1968-11-02 19:00:00,San Francisco,Warriors,Milwaukee,Bucks,Regular Season,0,0,34.0,15,5,3,0,0,0,0,0,2,0,17,7,0.411,0,0,0.0,2,1,0.5,102,101,0
+78567,1968,26800061,1968-11-04 19:00:00,San Francisco,Warriors,Phoenix,Suns,Regular Season,0,1,20.0,6,2,2,0,0,0,0,0,1,0,10,3,0.299,0,0,0.0,0,0,0.0,108,119,0
+78567,1968,26800068,1968-11-06 19:00:00,San Francisco,Warriors,New York,Knicks,Regular Season,1,1,25.0,3,3,0,0,0,0,0,0,4,0,1,1,1.0,0,0,0.0,2,1,0.5,94,93,0
+78567,1968,26800070,1968-11-08 19:00:00,San Francisco,Warriors,Detroit,Pistons,Regular Season,0,0,43.0,7,7,7,0,0,0,0,0,5,0,5,2,0.4,0,0,0.0,3,3,1.0,122,118,0
+78567,1968,26800075,1968-11-09 19:00:00,San Francisco,Warriors,Atlanta,Hawks,Regular Season,0,0,47.0,16,6,1,0,0,0,0,0,5,0,15,7,0.467,0,0,0.0,4,2,0.5,113,106,0
+78567,1968,26800086,1968-11-12 19:00:00,San Francisco,Warriors,Atlanta,Hawks,Regular Season,1,1,37.0,8,10,5,0,0,0,0,0,4,0,11,3,0.273,0,0,0.0,2,2,1.0,123,108,0
+78567,1968,26800096,1968-11-15 19:00:00,San Francisco,Warriors,Detroit,Pistons,Regular Season,1,1,39.0,21,12,5,0,0,0,0,0,2,0,21,10,0.475,0,0,0.0,2,1,0.5,133,105,0
+78567,1968,26800100,1968-11-16 19:00:00,San Francisco,Warriors,Los Angeles,Lakers,Regular Season,1,0,28.0,10,6,2,0,0,0,0,0,0,0,6,4,0.667,0,0,0.0,2,2,1.0,112,119,0
+78567,1968,26800107,1968-11-19 19:00:00,San Francisco,Warriors,Chicago,Bulls,Regular Season,0,1,30.0,15,6,2,0,0,0,0,0,1,0,9,6,0.667,0,0,0.0,3,3,1.0,109,121,0
+78567,1968,26800113,1968-11-20 19:00:00,San Francisco,Warriors,Cincinnati,Royals,Regular Season,0,0,9.0,2,4,1,0,0,0,0,0,1,0,1,1,1.0,0,0,0.0,0,0,0.0,113,107,0
+78567,1968,26800122,1968-11-22 19:00:00,San Francisco,Warriors,Los Angeles,Lakers,Regular Season,0,1,7.0,0,2,0,0,0,0,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,98,100,0
+78567,1968,26800124,1968-11-23 19:00:00,San Francisco,Warriors,Seattle,SuperSonics,Regular Season,1,1,30.0,8,5,1,0,0,0,0,0,4,0,8,3,0.375,0,0,0.0,3,2,0.667,132,119,0
+78567,1968,26800142,1968-11-27 19:00:00,San Francisco,Warriors,Chicago,Bulls,Regular Season,1,0,48.0,22,7,4,0,0,0,0,0,2,0,19,9,0.473,0,0,0.0,5,4,0.8,106,119,0
+78567,1968,26800146,1968-11-29 19:00:00,San Francisco,Warriors,Milwaukee,Bucks,Regular Season,1,1,40.0,11,12,6,0,0,0,0,0,2,0,11,2,0.181,0,0,0.0,9,7,0.778,140,119,0
+78567,1968,26800154,1968-11-30 19:00:00,San Francisco,Warriors,Milwaukee,Bucks,Regular Season,1,0,34.0,11,4,6,0,0,0,0,0,1,0,13,5,0.385,0,0,0.0,1,1,1.0,101,107,0
+78567,1968,26800157,1968-12-01 19:00:00,San Francisco,Warriors,San Diego,Rockets,Regular Season,0,0,42.0,12,6,4,0,0,0,0,0,4,0,16,6,0.375,0,0,0.0,0,0,0.0,116,105,0
+78567,1968,26800161,1968-12-03 19:00:00,San Francisco,Warriors,Seattle,SuperSonics,Regular Season,1,1,46.0,26,6,8,0,0,0,0,0,3,0,16,11,0.687,0,0,0.0,4,4,1.0,127,122,0
+78567,1968,26800170,1968-12-04 19:00:00,San Francisco,Warriors,Phoenix,Suns,Regular Season,0,0,26.0,12,1,5,0,0,0,0,0,5,0,10,6,0.599,0,0,0.0,0,0,0.0,126,97,0
+78567,1968,26800176,1968-12-06 19:00:00,San Francisco,Warriors,Seattle,SuperSonics,Regular Season,0,0,34.0,16,5,9,0,0,0,0,0,3,0,16,7,0.438,0,0,0.0,5,2,0.4,109,100,0
+78567,1968,26800180,1968-12-07 19:00:00,San Francisco,Warriors,Seattle,SuperSonics,Regular Season,1,0,20.0,11,2,3,0,0,0,0,0,3,0,11,4,0.363,0,0,0.0,4,3,0.75,107,115,0
+78567,1968,26800190,1968-12-10 19:00:00,San Francisco,Warriors,Atlanta,Hawks,Regular Season,1,0,10.0,3,2,2,0,0,0,0,0,0,0,8,1,0.125,0,0,0.0,1,1,1.0,100,111,0
+78567,1968,26800197,1968-12-11 19:00:00,San Francisco,Warriors,Milwaukee,Bucks,Regular Season,0,0,7.0,4,0,1,0,0,0,0,0,1,0,4,2,0.5,0,0,0.0,0,0,0.0,106,96,0
+78567,1968,26800201,1968-12-13 19:00:00,San Francisco,Warriors,Boston,Celtics,Regular Season,0,1,4.0,2,1,1,0,0,0,0,0,1,0,2,1,0.5,0,0,0.0,0,0,0.0,98,108,0
+78567,1968,26800209,1968-12-14 19:00:00,San Francisco,Warriors,Philadelphia,76ers,Regular Season,0,0,22.0,9,3,1,0,0,0,0,0,3,0,15,3,0.2,0,0,0.0,5,3,0.599,137,91,0
+78567,1968,26800215,1968-12-17 19:00:00,San Francisco,Warriors,New York,Knicks,Regular Season,0,0,6.0,1,2,1,0,0,0,0,0,1,0,1,0,0.0,0,0,0.0,1,1,1.0,114,99,0
+78567,1968,26800221,1968-12-18 19:00:00,San Francisco,Warriors,Baltimore,Bullets,Regular Season,0,0,14.0,8,2,2,0,0,0,0,0,1,0,8,3,0.375,0,0,0.0,3,2,0.667,109,100,0
+78567,1968,26800226,1968-12-20 19:00:00,San Francisco,Warriors,Los Angeles,Lakers,Regular Season,0,0,20.0,15,3,0,0,0,0,0,0,2,0,14,6,0.428,0,0,0.0,3,3,1.0,133,101,0
+78567,1968,26800237,1968-12-23 19:00:00,San Francisco,Warriors,San Diego,Rockets,Regular Season,0,1,12.0,4,2,2,0,0,0,0,0,0,0,8,1,0.125,0,0,0.0,4,2,0.5,95,125,0
+78567,1968,26800244,1968-12-26 19:00:00,San Francisco,Warriors,Phoenix,Suns,Regular Season,1,1,5.0,2,0,2,0,0,0,0,0,1,0,3,1,0.333,0,0,0.0,0,0,0.0,119,118,0
+78567,1968,26800254,1968-12-28 19:00:00,San Francisco,Warriors,Detroit,Pistons,Regular Season,0,0,23.0,9,7,4,0,0,0,0,0,3,0,10,4,0.4,0,0,0.0,1,1,1.0,131,102,0
+78567,1968,26800268,1969-01-01 19:00:00,San Francisco,Warriors,Cincinnati,Royals,Regular Season,0,1,19.0,9,5,1,0,0,0,0,0,2,0,7,4,0.57,0,0,0.0,1,1,1.0,101,106,0
+78567,1968,26800276,1969-01-03 19:00:00,San Francisco,Warriors,Boston,Celtics,Regular Season,1,1,17.0,9,1,1,0,0,0,0,0,4,0,7,4,0.57,0,0,0.0,1,1,1.0,104,102,0
+78567,1968,26800285,1969-01-05 19:00:00,San Francisco,Warriors,Boston,Celtics,Regular Season,1,0,26.0,17,2,6,0,0,0,0,0,3,0,16,5,0.313,0,0,0.0,8,7,0.875,86,134,0
+78567,1968,26800290,1969-01-07 19:00:00,San Francisco,Warriors,San Diego,Rockets,Regular Season,1,0,33.0,16,5,6,0,0,0,0,0,3,0,19,7,0.367,0,0,0.0,3,2,0.667,108,113,0
+78567,1968,26800309,1969-01-11 19:00:00,San Francisco,Warriors,New York,Knicks,Regular Season,1,0,20.0,4,4,5,0,0,0,0,0,3,0,7,2,0.285,0,0,0.0,1,0,0.0,77,85,0
+78567,1968,26800315,1969-01-16 19:00:00,San Francisco,Warriors,Chicago,Bulls,Regular Season,0,1,11.0,6,1,3,0,0,0,0,0,1,0,5,3,0.599,0,0,0.0,0,0,0.0,99,112,0
+78567,1968,26800320,1969-01-17 19:00:00,San Francisco,Warriors,Boston,Celtics,Regular Season,0,0,6.0,0,0,0,0,0,0,0,0,2,0,1,0,0.0,0,0,0.0,0,0,0.0,102,99,0
+78567,1968,26800328,1969-01-19 19:00:00,San Francisco,Warriors,Philadelphia,76ers,Regular Season,0,1,8.0,2,1,3,0,0,0,0,0,1,0,2,1,0.5,0,0,0.0,0,0,0.0,97,98,0
+78567,1968,26800333,1969-01-21 19:00:00,San Francisco,Warriors,Cincinnati,Royals,Regular Season,1,0,4.0,2,1,0,0,0,0,0,0,0,0,2,1,0.5,0,0,0.0,0,0,0.0,107,113,0
+78567,1968,26800343,1969-01-24 19:00:00,San Francisco,Warriors,San Diego,Rockets,Regular Season,1,1,14.0,6,3,0,0,0,0,0,0,3,0,7,3,0.428,0,0,0.0,0,0,0.0,114,107,0
+78567,1968,26800354,1969-01-26 19:00:00,San Francisco,Warriors,Phoenix,Suns,Regular Season,0,1,17.0,9,4,4,0,0,0,0,0,4,0,6,3,0.5,0,0,0.0,3,3,1.0,93,117,0
+78567,1968,26800359,1969-01-28 19:00:00,San Francisco,Warriors,Cincinnati,Royals,Regular Season,0,1,6.0,1,1,1,0,0,0,0,0,0,0,3,0,0.0,0,0,0.0,1,1,1.0,100,107,0
+78567,1968,26800362,1969-01-29 19:00:00,San Francisco,Warriors,Detroit,Pistons,Regular Season,0,1,11.0,1,2,1,0,0,0,0,0,3,0,4,0,0.0,0,0,0.0,1,1,1.0,126,133,0
+78567,1968,26800370,1969-01-30 19:00:00,San Francisco,Warriors,Chicago,Bulls,Regular Season,1,0,4.0,4,0,0,0,0,0,0,0,1,0,3,2,0.667,0,0,0.0,0,0,0.0,101,111,0
+78567,1968,26800376,1969-02-01 19:00:00,San Francisco,Warriors,Los Angeles,Lakers,Regular Season,1,0,5.0,2,0,0,0,0,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,101,106,0
+78567,1968,26800382,1969-02-02 19:00:00,San Francisco,Warriors,Los Angeles,Lakers,Regular Season,0,1,32.0,15,8,3,0,0,0,0,0,6,0,15,6,0.4,0,0,0.0,4,3,0.75,117,122,0
+78567,1968,26800392,1969-02-04 19:00:00,San Francisco,Warriors,Seattle,SuperSonics,Regular Season,1,0,19.0,14,1,4,0,0,0,0,0,4,0,9,6,0.667,0,0,0.0,4,2,0.5,111,116,0
+78567,1968,26800408,1969-02-08 19:00:00,San Francisco,Warriors,Cincinnati,Royals,Regular Season,1,0,11.0,4,0,0,0,0,0,0,0,3,0,4,1,0.25,0,0,0.0,2,2,1.0,116,117,0
+78567,1968,26800411,1969-02-09 19:00:00,San Francisco,Warriors,Seattle,SuperSonics,Regular Season,0,1,15.0,5,4,1,0,0,0,0,0,3,0,4,2,0.5,0,0,0.0,1,1,1.0,120,121,0
+78567,1968,26800418,1969-02-11 19:00:00,San Francisco,Warriors,Atlanta,Hawks,Regular Season,0,1,19.0,0,2,1,0,0,0,0,0,1,0,4,0,0.0,0,0,0.0,0,0,0.0,87,92,0
+78567,1968,26800420,1969-02-12 19:00:00,San Francisco,Warriors,Baltimore,Bullets,Regular Season,0,0,9.0,4,2,0,0,0,0,0,0,1,0,5,2,0.4,0,0,0.0,0,0,0.0,120,110,0
+78567,1968,26800432,1969-02-15 19:00:00,San Francisco,Warriors,New York,Knicks,Regular Season,0,0,6.0,2,1,0,0,0,0,0,0,1,0,2,1,0.5,0,0,0.0,0,0,0.0,98,92,0
+78567,1968,26800441,1969-02-18 19:00:00,San Francisco,Warriors,Detroit,Pistons,Regular Season,1,1,6.0,0,1,1,0,0,0,0,0,0,0,3,0,0.0,0,0,0.0,0,0,0.0,121,114,0
+78567,1968,26800447,1969-02-19 19:00:00,San Francisco,Warriors,Philadelphia,76ers,Regular Season,1,1,19.0,9,5,4,0,0,0,0,0,2,0,7,4,0.57,0,0,0.0,1,1,1.0,134,117,0
+78567,1968,26800451,1969-02-20 19:00:00,San Francisco,Warriors,San Diego,Rockets,Regular Season,0,1,8.0,2,4,1,0,0,0,0,0,1,0,3,1,0.333,0,0,0.0,0,0,0.0,118,128,0
+78567,1968,26800466,1969-02-24 19:00:00,San Francisco,Warriors,Chicago,Bulls,Regular Season,1,0,3.0,0,0,1,0,0,0,0,0,0,0,2,0,0.0,0,0,0.0,0,0,0.0,108,119,0
+78567,1968,26800471,1969-02-25 19:00:00,San Francisco,Warriors,Chicago,Bulls,Regular Season,1,1,4.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,101,99,0
+78567,1968,26800482,1969-02-28 19:00:00,San Francisco,Warriors,Cincinnati,Royals,Regular Season,1,1,3.0,3,0,0,0,0,0,0,0,0,0,1,1,1.0,0,0,0.0,1,1,1.0,131,115,0
+78567,1968,26800491,1969-03-02 19:00:00,San Francisco,Warriors,Los Angeles,Lakers,Regular Season,0,0,22.0,12,5,4,0,0,0,0,0,2,0,11,6,0.545,0,0,0.0,0,0,0.0,107,92,0
+78567,1968,26800499,1969-03-04 19:00:00,San Francisco,Warriors,Boston,Celtics,Regular Season,1,1,24.0,16,5,7,0,0,0,0,0,4,0,11,7,0.636,0,0,0.0,5,2,0.4,99,95,0
+78567,1968,26800502,1969-03-05 19:00:00,San Francisco,Warriors,Baltimore,Bullets,Regular Season,1,1,6.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,114,107,0
+78567,1968,26800518,1969-03-09 19:00:00,San Francisco,Warriors,Boston,Celtics,Regular Season,0,0,34.0,15,4,2,0,0,0,0,0,4,0,16,7,0.438,0,0,0.0,2,1,0.5,138,89,0
+78567,1968,26800520,1969-03-10 19:00:00,San Francisco,Warriors,Milwaukee,Bucks,Regular Season,0,1,30.0,9,4,2,0,0,0,0,0,4,0,9,3,0.333,0,0,0.0,3,3,1.0,106,123,0
+78567,1968,26800529,1969-03-12 19:00:00,San Francisco,Warriors,Los Angeles,Lakers,Regular Season,1,1,13.0,4,1,1,0,0,0,0,0,4,0,5,2,0.4,0,0,0.0,1,0,0.0,97,85,0
+78567,1968,26800535,1969-03-14 19:00:00,San Francisco,Warriors,Detroit,Pistons,Regular Season,1,1,26.0,12,4,5,0,0,0,0,0,6,0,9,5,0.556,0,0,0.0,2,2,1.0,114,110,0
+78567,1968,26800547,1969-03-18 19:00:00,San Francisco,Warriors,Atlanta,Hawks,Regular Season,1,0,19.0,10,4,0,0,0,0,0,0,4,0,6,3,0.5,0,0,0.0,4,4,1.0,115,128,0
+78567,1968,26800561,1969-03-21 19:00:00,San Francisco,Warriors,Milwaukee,Bucks,Regular Season,1,1,26.0,6,2,2,0,0,0,0,0,4,0,8,3,0.375,0,0,0.0,0,0,0.0,103,100,0
+78567,1968,26800565,1969-03-22 19:00:00,San Francisco,Warriors,New York,Knicks,Regular Season,1,0,27.0,10,2,2,0,0,0,0,0,1,0,12,4,0.333,0,0,0.0,2,2,1.0,90,117,0
+78567,1968,46800233,1969-03-31 19:00:00,San Francisco,Warriors,Los Angeles,Lakers,Playoffs,1,0,4.0,6,0,0,0,0,0,0,0,0,0,2,1,0.5,0,0,0.0,4,4,1.0,98,115,0
+78567,1968,46800234,1969-04-02 19:00:00,San Francisco,Warriors,Los Angeles,Lakers,Playoffs,1,0,25.0,16,3,2,0,0,0,0,0,3,0,15,8,0.533,0,0,0.0,0,0,0.0,88,103,0
+78567,1968,46800235,1969-04-04 19:00:00,San Francisco,Warriors,Los Angeles,Lakers,Playoffs,0,0,3.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,103,98,0
+78567,1968,46800236,1969-04-05 19:00:00,San Francisco,Warriors,Los Angeles,Lakers,Playoffs,1,0,9.0,2,0,2,0,0,0,0,0,1,0,8,1,0.125,0,0,0.0,0,0,0.0,78,118,0
+78567,1969,26900009,1969-10-18 19:00:00,San Francisco,Warriors,San Diego,Rockets,Regular Season,1,0,9.0,3,4,0,0,0,0,0,0,2,0,2,1,0.5,0,0,0.0,1,1,1.0,124,125,0
+78567,1969,26900030,1969-10-25 19:00:00,San Francisco,Warriors,Milwaukee,Bucks,Regular Season,1,1,34.0,20,5,1,0,0,0,0,0,1,0,16,9,0.562,0,0,0.0,2,2,1.0,118,104,0
+78567,1969,26900041,1969-10-29 19:00:00,San Francisco,Warriors,Chicago,Bulls,Regular Season,1,0,30.0,7,4,3,0,0,0,0,0,2,0,10,3,0.299,0,0,0.0,3,1,0.333,87,101,0
+78567,1969,26900052,1969-11-01 19:00:00,San Francisco,Warriors,Cincinnati,Royals,Regular Season,1,1,33.0,12,7,4,0,0,0,0,0,1,0,8,4,0.5,0,0,0.0,6,4,0.667,120,97,0
+78567,1969,26900057,1969-11-04 19:00:00,San Francisco,Warriors,Baltimore,Bullets,Regular Season,0,0,23.0,11,3,2,0,0,0,0,0,3,0,10,3,0.299,0,0,0.0,5,5,1.0,124,105,0
+78567,1969,26900064,1969-11-06 19:00:00,San Francisco,Warriors,Cincinnati,Royals,Regular Season,0,1,33.0,23,9,2,0,0,0,0,0,3,0,13,7,0.538,0,0,0.0,9,9,1.0,109,130,0
+78567,1969,26900069,1969-11-07 19:00:00,San Francisco,Warriors,Boston,Celtics,Regular Season,0,1,24.0,13,3,0,0,0,0,0,0,4,0,10,5,0.5,0,0,0.0,3,3,1.0,110,111,0
+78567,1969,26900073,1969-11-08 19:00:00,San Francisco,Warriors,Atlanta,Hawks,Regular Season,0,0,19.0,7,1,1,0,0,0,0,0,6,0,5,2,0.4,0,0,0.0,4,3,0.75,106,93,0
+78567,1969,26900079,1969-11-10 19:00:00,San Francisco,Warriors,San Diego,Rockets,Regular Season,0,0,28.0,15,3,2,0,0,0,0,0,3,0,13,7,0.538,0,0,0.0,3,1,0.333,100,99,0
+78567,1969,26900082,1969-11-11 19:00:00,San Francisco,Warriors,New York,Knicks,Regular Season,1,0,40.0,18,9,2,0,0,0,0,0,3,0,24,9,0.375,0,0,0.0,0,0,0.0,103,116,0
+78567,1969,26900091,1969-11-14 19:00:00,San Francisco,Warriors,Atlanta,Hawks,Regular Season,1,0,39.0,16,7,3,0,0,0,0,0,3,0,12,6,0.5,0,0,0.0,4,4,1.0,109,120,0
+78567,1969,26900098,1969-11-15 19:00:00,San Francisco,Warriors,Chicago,Bulls,Regular Season,0,0,28.0,15,0,1,0,0,0,0,0,5,0,12,6,0.5,0,0,0.0,5,3,0.599,124,105,0
+78567,1969,26900102,1969-11-16 19:00:00,San Francisco,Warriors,Milwaukee,Bucks,Regular Season,0,0,48.0,17,10,3,0,0,0,0,0,3,0,15,7,0.467,0,0,0.0,6,3,0.5,129,123,0
+78567,1969,26900108,1969-11-18 19:00:00,San Francisco,Warriors,Milwaukee,Bucks,Regular Season,1,1,36.0,16,7,0,0,0,0,0,0,5,0,12,5,0.416,0,0,0.0,7,6,0.856,127,110,0
+78567,1969,26900117,1969-11-21 19:00:00,San Francisco,Warriors,Boston,Celtics,Regular Season,1,1,31.0,26,5,2,0,0,0,0,0,5,0,17,9,0.529,0,0,0.0,9,8,0.889,118,115,0
+78567,1969,26900125,1969-11-22 19:00:00,San Francisco,Warriors,Los Angeles,Lakers,Regular Season,1,0,33.0,17,4,4,0,0,0,0,0,6,0,10,7,0.699,0,0,0.0,3,3,1.0,98,106,0
+78567,1969,26900133,1969-11-25 19:00:00,San Francisco,Warriors,Seattle,SuperSonics,Regular Season,0,1,26.0,15,4,0,0,0,0,0,0,5,0,12,6,0.5,0,0,0.0,3,3,1.0,106,114,0
+78567,1969,26900136,1969-11-26 19:00:00,San Francisco,Warriors,San Diego,Rockets,Regular Season,0,1,34.0,24,8,1,0,0,0,0,0,5,0,20,9,0.45,0,0,0.0,7,6,0.856,125,126,0
+78567,1969,26900141,1969-11-27 19:00:00,San Francisco,Warriors,Baltimore,Bullets,Regular Season,1,0,38.0,18,8,6,0,0,0,0,0,4,0,16,6,0.375,0,0,0.0,6,6,1.0,116,118,0
+78567,1969,26900143,1969-11-28 19:00:00,San Francisco,Warriors,Los Angeles,Lakers,Regular Season,0,1,38.0,14,5,4,0,0,0,0,0,4,0,14,6,0.428,0,0,0.0,2,2,1.0,108,114,0
+78567,1969,26900157,1969-12-02 19:00:00,San Francisco,Warriors,Detroit,Pistons,Regular Season,1,1,34.0,23,5,6,0,0,0,0,0,3,0,17,9,0.529,0,0,0.0,5,5,1.0,116,109,0
+78567,1969,26900163,1969-12-03 19:00:00,San Francisco,Warriors,Detroit,Pistons,Regular Season,1,0,30.0,14,5,2,0,0,0,0,0,6,0,12,6,0.5,0,0,0.0,2,2,1.0,102,106,0
+78567,1969,26900169,1969-12-05 19:00:00,San Francisco,Warriors,San Diego,Rockets,Regular Season,1,1,30.0,8,3,0,0,0,0,0,0,3,0,12,3,0.25,0,0,0.0,4,2,0.5,112,107,0
+78567,1969,26900182,1969-12-09 19:00:00,San Francisco,Warriors,Atlanta,Hawks,Regular Season,0,0,47.0,22,7,4,0,0,0,0,0,6,0,14,9,0.643,0,0,0.0,4,4,1.0,117,115,0
+78567,1969,26900194,1969-12-11 19:00:00,San Francisco,Warriors,Chicago,Bulls,Regular Season,0,0,36.0,8,7,1,0,0,0,0,0,2,0,15,3,0.2,0,0,0.0,2,2,1.0,110,104,0
+78567,1969,26900197,1969-12-12 19:00:00,San Francisco,Warriors,Milwaukee,Bucks,Regular Season,0,0,34.0,14,9,5,0,0,0,0,0,3,0,19,4,0.21,0,0,0.0,8,6,0.75,123,109,0
+78567,1969,26900204,1969-12-13 19:00:00,San Francisco,Warriors,Detroit,Pistons,Regular Season,0,1,37.0,21,6,1,0,0,0,0,0,2,0,14,8,0.57,0,0,0.0,6,5,0.832,97,104,0
+78567,1969,26900210,1969-12-16 19:00:00,San Francisco,Warriors,Seattle,SuperSonics,Regular Season,1,1,40.0,24,5,3,0,0,0,0,0,4,0,17,9,0.529,0,0,0.0,7,6,0.856,125,119,0
+78567,1969,26900221,1969-12-19 19:00:00,San Francisco,Warriors,San Diego,Rockets,Regular Season,0,0,37.0,8,4,4,0,0,0,0,0,4,0,16,3,0.188,0,0,0.0,4,2,0.5,119,111,0
+78567,1969,26900227,1969-12-20 19:00:00,San Francisco,Warriors,Philadelphia,76ers,Regular Season,1,0,40.0,12,5,2,0,0,0,0,0,5,0,12,3,0.25,0,0,0.0,7,6,0.856,109,122,0
+78567,1969,26900234,1969-12-23 19:00:00,San Francisco,Warriors,Seattle,SuperSonics,Regular Season,1,1,28.0,15,2,0,0,0,0,0,0,4,0,13,7,0.538,0,0,0.0,1,1,1.0,119,115,0
+78567,1969,26900237,1969-12-25 19:00:00,San Francisco,Warriors,Cincinnati,Royals,Regular Season,0,1,39.0,25,2,1,0,0,0,0,0,5,0,23,11,0.477,0,0,0.0,4,3,0.75,120,124,0
+78567,1969,26900241,1969-12-26 19:00:00,San Francisco,Warriors,Philadelphia,76ers,Regular Season,0,0,12.0,6,2,0,0,0,0,0,0,1,0,7,2,0.285,0,0,0.0,4,2,0.5,141,121,0
+78567,1969,26900247,1969-12-27 19:00:00,San Francisco,Warriors,Baltimore,Bullets,Regular Season,0,0,29.0,27,5,5,0,0,0,0,0,4,0,20,10,0.5,0,0,0.0,10,7,0.699,147,112,0
+78567,1969,26900254,1969-12-28 19:00:00,San Francisco,Warriors,Philadelphia,76ers,Regular Season,0,0,23.0,15,8,0,0,0,0,0,0,5,0,8,4,0.5,0,0,0.0,8,7,0.875,138,112,0
+78567,1969,26900261,1969-12-30 19:00:00,San Francisco,Warriors,Los Angeles,Lakers,Regular Season,1,1,42.0,23,8,2,0,0,0,0,0,4,0,18,9,0.5,0,0,0.0,6,5,0.832,105,100,0
+78567,1969,26900272,1970-01-02 19:00:00,San Francisco,Warriors,Los Angeles,Lakers,Regular Season,0,0,19.0,6,1,0,0,0,0,0,0,3,0,9,2,0.222,0,0,0.0,2,2,1.0,125,95,0
+78567,1969,26900278,1970-01-03 19:00:00,San Francisco,Warriors,Chicago,Bulls,Regular Season,1,1,25.0,15,4,3,0,0,0,0,0,2,0,10,6,0.599,0,0,0.0,3,3,1.0,116,102,0
+78567,1969,26900285,1970-01-05 19:00:00,San Francisco,Warriors,Detroit,Pistons,Regular Season,1,1,36.0,20,4,2,0,0,0,0,0,5,0,13,8,0.614,0,0,0.0,4,4,1.0,118,102,0
+78567,1969,26900293,1970-01-07 19:00:00,San Francisco,Warriors,New York,Knicks,Regular Season,1,0,32.0,14,2,2,0,0,0,0,0,5,0,12,6,0.5,0,0,0.0,2,2,1.0,94,99,0
+78567,1969,26900295,1970-01-08 19:00:00,San Francisco,Warriors,San Diego,Rockets,Regular Season,0,0,23.0,10,5,2,0,0,0,0,0,2,0,14,5,0.356,0,0,0.0,1,0,0.0,120,103,0
+78567,1969,26900300,1970-01-09 19:00:00,San Francisco,Warriors,New York,Knicks,Regular Season,1,0,26.0,8,6,2,0,0,0,0,0,2,0,8,2,0.25,0,0,0.0,6,4,0.667,93,123,0
+78567,1969,26900314,1970-01-13 19:00:00,San Francisco,Warriors,Detroit,Pistons,Regular Season,0,0,20.0,2,2,1,0,0,0,0,0,4,0,4,1,0.25,0,0,0.0,0,0,0.0,115,102,0
+78567,1969,26900319,1970-01-14 19:00:00,San Francisco,Warriors,Atlanta,Hawks,Regular Season,0,1,16.0,2,1,0,0,0,0,0,0,1,0,5,0,0.0,0,0,0.0,2,2,1.0,101,103,0
+78567,1969,26900322,1970-01-16 19:00:00,San Francisco,Warriors,Philadelphia,76ers,Regular Season,0,0,14.0,12,0,2,0,0,0,0,0,3,0,5,4,0.8,0,0,0.0,4,4,1.0,127,105,0
+78567,1969,26900332,1970-01-18 19:00:00,San Francisco,Warriors,Milwaukee,Bucks,Regular Season,0,0,35.0,26,6,4,0,0,0,0,0,3,0,25,11,0.44,0,0,0.0,6,4,0.667,123,107,0
+78567,1969,26900338,1970-01-22 19:00:00,San Francisco,Warriors,Los Angeles,Lakers,Regular Season,0,0,31.0,13,1,2,0,0,0,0,0,5,0,14,5,0.356,0,0,0.0,4,3,0.75,122,108,0
+78567,1969,26900341,1970-01-23 19:00:00,San Francisco,Warriors,Phoenix,Suns,Regular Season,0,1,33.0,25,7,5,0,0,0,0,0,4,0,16,9,0.562,0,0,0.0,7,7,1.0,132,138,0
+78567,1969,26900351,1970-01-24 19:00:00,San Francisco,Warriors,Phoenix,Suns,Regular Season,1,0,36.0,16,7,2,0,0,0,0,0,1,0,12,5,0.416,0,0,0.0,7,6,0.856,99,109,0
+78567,1969,26900359,1970-01-26 19:00:00,San Francisco,Warriors,Atlanta,Hawks,Regular Season,1,0,23.0,14,2,3,0,0,0,0,0,5,0,11,4,0.363,0,0,0.0,8,6,0.75,104,131,0
+78567,1969,26900370,1970-01-29 19:00:00,San Francisco,Warriors,Seattle,SuperSonics,Regular Season,0,0,42.0,13,12,2,0,0,0,0,0,1,0,17,6,0.352,0,0,0.0,1,1,1.0,105,101,0
+78567,1969,26900373,1970-01-30 19:00:00,San Francisco,Warriors,Phoenix,Suns,Regular Season,1,1,33.0,22,6,4,0,0,0,0,0,2,0,19,9,0.473,0,0,0.0,4,4,1.0,125,116,0
+78567,1969,26900387,1970-02-01 19:00:00,San Francisco,Warriors,Boston,Celtics,Regular Season,0,1,27.0,10,5,3,0,0,0,0,0,5,0,11,4,0.363,0,0,0.0,2,2,1.0,105,123,0
+78567,1969,26900393,1970-02-03 19:00:00,San Francisco,Warriors,New York,Knicks,Regular Season,0,0,41.0,11,7,0,0,0,0,0,0,4,0,16,5,0.313,0,0,0.0,1,1,1.0,118,98,0
+78567,1969,26900399,1970-02-05 19:00:00,San Francisco,Warriors,Chicago,Bulls,Regular Season,0,1,36.0,13,6,6,0,0,0,0,0,3,0,12,4,0.333,0,0,0.0,5,5,1.0,105,127,0
+78567,1969,26900403,1970-02-06 19:00:00,San Francisco,Warriors,Phoenix,Suns,Regular Season,0,0,24.0,9,7,3,0,0,0,0,0,5,0,7,4,0.57,0,0,0.0,1,1,1.0,122,117,0
+78567,1969,26900410,1970-02-07 19:00:00,San Francisco,Warriors,Philadelphia,76ers,Regular Season,1,0,39.0,8,12,7,0,0,0,0,0,4,0,15,4,0.267,0,0,0.0,2,0,0.0,111,115,0
+78567,1969,26900421,1970-02-10 19:00:00,San Francisco,Warriors,Atlanta,Hawks,Regular Season,1,1,24.0,13,6,0,0,0,0,0,0,4,0,11,5,0.455,0,0,0.0,4,3,0.75,113,104,0
+78567,1969,26900426,1970-02-11 19:00:00,San Francisco,Warriors,Los Angeles,Lakers,Regular Season,1,0,24.0,17,3,0,0,0,0,0,0,4,0,11,8,0.726,0,0,0.0,1,1,1.0,115,125,0
+78567,1969,26900432,1970-02-13 19:00:00,San Francisco,Warriors,Cincinnati,Royals,Regular Season,1,0,37.0,21,2,4,0,0,0,0,0,3,0,22,8,0.363,0,0,0.0,6,5,0.832,110,128,0
+78567,1969,26900434,1970-02-14 19:00:00,San Francisco,Warriors,San Diego,Rockets,Regular Season,0,0,37.0,25,12,2,0,0,0,0,0,4,0,27,12,0.444,0,0,0.0,2,1,0.5,141,123,0
+78567,1969,26900443,1970-02-16 19:00:00,San Francisco,Warriors,Boston,Celtics,Regular Season,0,0,31.0,3,7,2,0,0,0,0,0,3,0,10,1,0.1,0,0,0.0,2,1,0.5,117,114,0
+78567,1969,26900451,1970-02-18 19:00:00,San Francisco,Warriors,Milwaukee,Bucks,Regular Season,1,0,17.0,7,2,1,0,0,0,0,0,3,0,8,2,0.25,0,0,0.0,4,3,0.75,102,109,0
+78567,1969,26900460,1970-02-21 19:00:00,San Francisco,Warriors,Boston,Celtics,Regular Season,1,1,13.0,14,2,0,0,0,0,0,0,2,0,11,6,0.545,0,0,0.0,2,2,1.0,116,111,0
+78567,1969,26900463,1970-02-22 19:00:00,San Francisco,Warriors,Seattle,SuperSonics,Regular Season,0,0,42.0,22,7,2,0,0,0,0,0,4,0,13,7,0.538,0,0,0.0,10,8,0.8,131,127,0
+78567,1969,26900470,1970-02-24 19:00:00,San Francisco,Warriors,Seattle,SuperSonics,Regular Season,0,0,31.0,23,12,1,0,0,0,0,0,6,0,17,9,0.529,0,0,0.0,5,5,1.0,130,122,0
+78567,1969,26900400,1970-02-25 19:00:00,San Francisco,Warriors,Chicago,Bulls,Regular Season,1,0,22.0,4,5,5,0,0,0,0,0,6,0,7,0,0.0,0,0,0.0,5,4,0.8,104,112,0
+78567,1969,26900484,1970-02-27 19:00:00,San Francisco,Warriors,Seattle,SuperSonics,Regular Season,1,0,22.0,0,1,1,0,0,0,0,0,3,0,10,0,0.0,0,0,0.0,0,0,0.0,99,107,0
+78567,1969,26900491,1970-03-01 19:00:00,San Francisco,Warriors,Detroit,Pistons,Regular Season,0,0,30.0,18,8,2,0,0,0,0,0,3,0,13,8,0.614,0,0,0.0,2,2,1.0,116,99,0
+78567,1969,26900497,1970-03-03 19:00:00,San Francisco,Warriors,New York,Knicks,Regular Season,0,0,38.0,7,8,5,0,0,0,0,0,3,0,8,3,0.375,0,0,0.0,3,1,0.333,115,100,0
+78567,1969,26900500,1970-03-04 19:00:00,San Francisco,Warriors,Boston,Celtics,Regular Season,0,0,31.0,22,7,1,0,0,0,0,0,3,0,13,8,0.614,0,0,0.0,9,6,0.667,115,110,0
+78567,1969,26900507,1970-03-06 19:00:00,San Francisco,Warriors,Phoenix,Suns,Regular Season,1,1,33.0,5,9,5,0,0,0,0,0,4,0,11,1,0.09,0,0,0.0,4,3,0.75,107,97,0
+78567,1969,26900509,1970-03-07 19:00:00,San Francisco,Warriors,Cincinnati,Royals,Regular Season,1,0,24.0,8,3,2,0,0,0,0,0,1,0,10,4,0.4,0,0,0.0,0,0,0.0,119,121,0
+78567,1969,26900520,1970-03-10 19:00:00,San Francisco,Warriors,Los Angeles,Lakers,Regular Season,0,0,23.0,9,4,3,0,0,0,0,0,4,0,7,3,0.428,0,0,0.0,3,3,1.0,106,104,0
+78567,1969,26900524,1970-03-11 19:00:00,San Francisco,Warriors,Baltimore,Bullets,Regular Season,1,1,36.0,28,5,8,0,0,0,0,0,5,0,16,10,0.625,0,0,0.0,9,8,0.889,115,112,0
+78567,1969,26900528,1970-03-13 19:00:00,San Francisco,Warriors,Baltimore,Bullets,Regular Season,1,0,21.0,17,5,1,0,0,0,0,0,3,0,12,7,0.582,0,0,0.0,3,3,1.0,108,114,0
+78567,1969,26900539,1970-03-17 19:00:00,San Francisco,Warriors,Phoenix,Suns,Regular Season,0,0,26.0,17,5,3,0,0,0,0,0,3,0,15,7,0.467,0,0,0.0,3,3,1.0,133,121,0
+78567,1969,26900552,1970-03-20 19:00:00,San Francisco,Warriors,Cincinnati,Royals,Regular Season,0,1,34.0,22,7,4,0,0,0,0,0,3,0,18,9,0.5,0,0,0.0,5,4,0.8,111,118,0
+78567,1969,26900555,1970-03-21 19:00:00,San Francisco,Warriors,Baltimore,Bullets,Regular Season,0,0,36.0,26,3,3,0,0,0,0,0,6,0,19,9,0.473,0,0,0.0,9,8,0.889,127,123,0
+78567,1969,26900561,1970-03-22 19:00:00,San Francisco,Warriors,Philadelphia,76ers,Regular Season,0,0,30.0,12,9,3,0,0,0,0,0,4,0,14,4,0.285,0,0,0.0,4,4,1.0,132,112,0
+78567,1970,27000701,1970-10-16 19:00:00,San Francisco,Warriors,Detroit,Pistons,Regular Season,1,0,27.0,12,5,4,0,0,0,0,0,4,0,10,4,0.4,0,0,0.0,5,4,0.8,106,120,0
+78567,1970,27000020,1970-10-17 19:00:00,San Francisco,Warriors,Cleveland,Cavaliers,Regular Season,1,1,12.0,4,1,1,0,0,0,0,0,4,0,1,0,0.0,0,0,0.0,5,4,0.8,128,108,0
+78567,1970,27000022,1970-10-20 19:00:00,San Francisco,Warriors,Baltimore,Bullets,Regular Season,0,1,36.0,16,7,5,0,0,0,0,0,3,0,14,6,0.428,0,0,0.0,5,4,0.8,105,125,0
+78567,1970,27000031,1970-10-21 19:00:00,San Francisco,Warriors,Atlanta,Hawks,Regular Season,0,0,30.0,12,4,1,0,0,0,0,0,5,0,11,4,0.363,0,0,0.0,4,4,1.0,102,100,0
+78567,1970,27000706,1970-10-22 19:00:00,San Francisco,Warriors,New York,Knicks,Regular Season,0,0,42.0,8,7,9,0,0,0,0,0,4,0,12,2,0.167,0,0,0.0,4,4,1.0,95,92,0
+78567,1970,27000045,1970-10-24 19:00:00,San Francisco,Warriors,Portland,Trail Blazers,Regular Season,1,1,31.0,13,9,3,0,0,0,0,0,4,0,11,5,0.455,0,0,0.0,4,3,0.75,118,115,0
+78567,1970,27000061,1970-10-28 19:00:00,San Francisco,Warriors,Philadelphia,76ers,Regular Season,1,0,26.0,8,3,2,0,0,0,0,0,4,0,7,4,0.57,0,0,0.0,0,0,0.0,108,111,0
+78567,1970,27000066,1970-10-30 19:00:00,San Francisco,Warriors,Chicago,Bulls,Regular Season,1,0,11.0,8,4,1,0,0,0,0,0,4,0,10,3,0.299,0,0,0.0,2,2,1.0,98,101,0
+78567,1970,27000079,1970-11-02 19:00:00,San Francisco,Warriors,New York,Knicks,Regular Season,1,0,30.0,16,3,4,0,0,0,0,0,2,0,12,7,0.582,0,0,0.0,3,2,0.667,99,111,0
+78567,1970,27000089,1970-11-04 19:00:00,San Francisco,Warriors,Baltimore,Bullets,Regular Season,1,1,30.0,10,9,3,0,0,0,0,0,4,0,10,4,0.4,0,0,0.0,2,2,1.0,111,100,0
+78567,1970,27000097,1970-11-06 19:00:00,San Francisco,Warriors,Portland,Trail Blazers,Regular Season,0,1,28.0,9,4,3,0,0,0,0,0,4,0,11,3,0.273,0,0,0.0,4,3,0.75,103,110,0
+78567,1970,27000715,1970-11-07 19:00:00,San Francisco,Warriors,San Diego,Rockets,Regular Season,1,1,41.0,11,9,2,0,0,0,0,0,3,0,9,5,0.556,0,0,0.0,1,1,1.0,114,102,0
+78567,1970,27000110,1970-11-10 19:00:00,San Francisco,Warriors,Cleveland,Cavaliers,Regular Season,1,1,37.0,22,4,6,0,0,0,0,0,4,0,12,8,0.667,0,0,0.0,6,6,1.0,109,74,0
+78567,1970,27000121,1970-11-12 19:00:00,San Francisco,Warriors,Cincinnati,Royals,Regular Season,1,0,36.0,21,4,3,0,0,0,0,0,3,0,18,6,0.333,0,0,0.0,11,9,0.817,107,121,0
+78567,1970,27000717,1970-11-13 19:00:00,San Francisco,Warriors,San Diego,Rockets,Regular Season,0,1,46.0,11,10,3,0,0,0,0,0,4,0,12,5,0.416,0,0,0.0,1,1,1.0,102,107,0
+78567,1970,27000137,1970-11-16 19:00:00,San Francisco,Warriors,Milwaukee,Bucks,Regular Season,0,0,29.0,11,5,1,0,0,0,0,0,5,0,7,4,0.57,0,0,0.0,3,3,1.0,119,100,0
+78567,1970,27000142,1970-11-17 19:00:00,San Francisco,Warriors,Chicago,Bulls,Regular Season,0,1,46.0,28,4,2,0,0,0,0,0,3,0,17,10,0.587,0,0,0.0,12,8,0.667,105,111,0
+78567,1970,27000146,1970-11-18 19:00:00,San Francisco,Warriors,Boston,Celtics,Regular Season,0,1,38.0,7,4,6,0,0,0,0,0,3,0,11,0,0.0,0,0,0.0,9,7,0.778,89,90,0
+78567,1970,27000160,1970-11-20 19:00:00,San Francisco,Warriors,Buffalo,Braves,Regular Season,1,1,27.0,6,9,2,0,0,0,0,0,5,0,2,0,0.0,0,0,0.0,6,6,1.0,123,108,0
+78567,1970,27000165,1970-11-21 19:00:00,San Francisco,Warriors,Milwaukee,Bucks,Regular Season,1,0,13.0,3,3,2,0,0,0,0,0,2,0,3,1,0.333,0,0,0.0,1,1,1.0,102,127,0
+78567,1970,27000176,1970-11-24 19:00:00,San Francisco,Warriors,Philadelphia,76ers,Regular Season,0,1,37.0,9,9,3,0,0,0,0,0,6,0,10,3,0.299,0,0,0.0,4,3,0.75,96,104,0
+78567,1970,27000184,1970-11-25 19:00:00,San Francisco,Warriors,Cleveland,Cavaliers,Regular Season,0,1,35.0,20,6,0,0,0,0,0,0,5,0,10,4,0.4,0,0,0.0,13,12,0.923,99,108,0
+78567,1970,27000192,1970-11-27 19:00:00,San Francisco,Warriors,Seattle,SuperSonics,Regular Season,0,0,25.0,10,2,1,0,0,0,0,0,4,0,13,3,0.231,0,0,0.0,4,4,1.0,101,96,0
+78567,1970,27000199,1970-11-28 19:00:00,San Francisco,Warriors,Los Angeles,Lakers,Regular Season,1,1,28.0,9,5,3,0,0,0,0,0,3,0,10,3,0.299,0,0,0.0,3,3,1.0,92,88,0
+78567,1970,27000210,1970-12-01 19:00:00,San Francisco,Warriors,Atlanta,Hawks,Regular Season,1,1,36.0,19,8,4,0,0,0,0,0,3,0,14,8,0.57,0,0,0.0,3,3,1.0,113,106,0
+78567,1970,27000221,1970-12-04 19:00:00,San Francisco,Warriors,Los Angeles,Lakers,Regular Season,0,0,20.0,4,6,3,0,0,0,0,0,4,0,7,1,0.142,0,0,0.0,3,2,0.667,123,101,0
+78567,1970,27000230,1970-12-05 19:00:00,San Francisco,Warriors,Phoenix,Suns,Regular Season,1,0,39.0,15,7,1,0,0,0,0,0,4,0,14,5,0.356,0,0,0.0,5,5,1.0,100,105,0
+78567,1970,27000235,1970-12-07 19:00:00,San Francisco,Warriors,Cincinnati,Royals,Regular Season,0,0,44.0,28,6,2,0,0,0,0,0,6,0,15,10,0.667,0,0,0.0,9,8,0.889,124,113,0
+78567,1970,27000240,1970-12-08 19:00:00,San Francisco,Warriors,Chicago,Bulls,Regular Season,0,0,47.0,23,10,5,0,0,0,0,0,4,0,13,8,0.614,0,0,0.0,8,7,0.875,98,87,0
+78567,1970,27000245,1970-12-09 19:00:00,San Francisco,Warriors,Detroit,Pistons,Regular Season,0,1,30.0,7,10,4,0,0,0,0,0,5,0,6,3,0.5,0,0,0.0,1,1,1.0,99,110,0
+78567,1970,27000250,1970-12-11 19:00:00,San Francisco,Warriors,Philadelphia,76ers,Regular Season,0,1,47.0,26,9,4,0,0,0,0,0,2,0,15,9,0.599,0,0,0.0,11,8,0.726,101,102,0
+78567,1970,27000255,1970-12-12 19:00:00,San Francisco,Warriors,Baltimore,Bullets,Regular Season,0,0,33.0,17,8,3,0,0,0,0,0,6,0,11,3,0.273,0,0,0.0,12,11,0.917,119,96,0
+78567,1970,27000266,1970-12-13 19:00:00,San Francisco,Warriors,New York,Knicks,Regular Season,1,1,40.0,15,8,3,0,0,0,0,0,3,0,9,4,0.444,0,0,0.0,7,7,1.0,101,94,0
+78567,1970,27000270,1970-12-15 19:00:00,San Francisco,Warriors,Phoenix,Suns,Regular Season,0,1,29.0,20,8,1,0,0,0,0,0,6,0,14,8,0.57,0,0,0.0,5,4,0.8,123,129,0
+78567,1970,27000276,1970-12-16 19:00:00,San Francisco,Warriors,Seattle,SuperSonics,Regular Season,1,1,33.0,11,9,2,0,0,0,0,0,4,0,9,3,0.333,0,0,0.0,5,5,1.0,108,91,0
+78567,1970,27000282,1970-12-18 19:00:00,San Francisco,Warriors,Portland,Trail Blazers,Regular Season,1,1,39.0,18,6,3,0,0,0,0,0,4,0,11,6,0.545,0,0,0.0,10,6,0.599,122,118,0
+78567,1970,27000291,1970-12-19 19:00:00,San Francisco,Warriors,Philadelphia,76ers,Regular Season,1,0,19.0,2,1,4,0,0,0,0,0,3,0,7,1,0.142,0,0,0.0,0,0,0.0,99,108,0
+78567,1970,27000303,1970-12-22 19:00:00,San Francisco,Warriors,Boston,Celtics,Regular Season,1,0,29.0,8,7,2,0,0,0,0,0,3,0,12,3,0.25,0,0,0.0,3,2,0.667,108,138,0
+78567,1970,27000315,1970-12-26 19:00:00,San Francisco,Warriors,Milwaukee,Bucks,Regular Season,0,0,35.0,19,8,3,0,0,0,0,0,3,0,13,6,0.462,0,0,0.0,9,7,0.778,131,111,0
+78567,1970,27000326,1970-12-28 19:00:00,San Francisco,Warriors,Atlanta,Hawks,Regular Season,0,1,45.0,8,7,2,0,0,0,0,0,3,0,13,4,0.307,0,0,0.0,1,0,0.0,104,115,0
+78567,1970,27000335,1970-12-30 19:00:00,San Francisco,Warriors,New York,Knicks,Regular Season,0,0,42.0,26,5,0,0,0,0,0,0,5,0,11,9,0.817,0,0,0.0,9,8,0.889,111,103,0
+78567,1970,27000339,1970-12-31 19:00:00,San Francisco,Warriors,Boston,Celtics,Regular Season,0,1,25.0,20,5,2,0,0,0,0,0,5,0,7,5,0.713,0,0,0.0,11,10,0.909,106,144,0
+78567,1970,27000347,1971-01-02 19:00:00,San Francisco,Warriors,Phoenix,Suns,Regular Season,1,0,45.0,12,5,6,0,0,0,0,0,4,0,17,5,0.293,0,0,0.0,3,2,0.667,116,122,0
+78567,1970,27000353,1971-01-03 19:00:00,San Francisco,Warriors,Phoenix,Suns,Regular Season,0,0,22.0,10,1,2,0,0,0,0,0,6,0,6,1,0.167,0,0,0.0,8,8,1.0,102,81,0
+78567,1970,27000358,1971-01-05 19:00:00,San Francisco,Warriors,Philadelphia,76ers,Regular Season,0,0,35.0,9,6,4,0,0,0,0,0,3,0,15,3,0.2,0,0,0.0,3,3,1.0,97,92,0
+78567,1970,27000365,1971-01-06 19:00:00,San Francisco,Warriors,Buffalo,Braves,Regular Season,0,0,28.0,6,7,1,0,0,0,0,0,6,0,9,3,0.333,0,0,0.0,0,0,0.0,115,108,0
+78567,1970,27000752,1971-01-08 19:00:00,San Francisco,Warriors,San Diego,Rockets,Regular Season,0,1,33.0,26,4,5,0,0,0,0,0,5,0,16,10,0.625,0,0,0.0,7,6,0.856,117,120,0
+78567,1970,27000753,1971-01-09 19:00:00,San Francisco,Warriors,San Diego,Rockets,Regular Season,1,1,32.0,16,4,4,0,0,0,0,0,4,0,11,6,0.545,0,0,0.0,4,4,1.0,109,103,0
+78567,1970,27000406,1971-01-16 19:00:00,San Francisco,Warriors,New York,Knicks,Regular Season,1,1,46.0,23,5,3,0,0,0,0,0,3,0,19,8,0.42,0,0,0.0,8,7,0.875,102,93,0
+78567,1970,27000416,1971-01-19 19:00:00,San Francisco,Warriors,Cincinnati,Royals,Regular Season,1,1,47.0,21,5,3,0,0,0,0,0,2,0,21,10,0.475,0,0,0.0,2,1,0.5,116,108,0
+78567,1970,27000427,1971-01-22 19:00:00,San Francisco,Warriors,Los Angeles,Lakers,Regular Season,0,0,28.0,13,4,1,0,0,0,0,0,4,0,11,5,0.455,0,0,0.0,4,3,0.75,130,110,0
+78567,1970,27000434,1971-01-23 19:00:00,San Francisco,Warriors,Chicago,Bulls,Regular Season,1,0,23.0,0,6,1,0,0,0,0,0,2,0,7,0,0.0,0,0,0.0,1,0,0.0,83,87,0
+78567,1970,27000444,1971-01-26 19:00:00,San Francisco,Warriors,Baltimore,Bullets,Regular Season,0,0,28.0,20,2,3,0,0,0,0,0,5,0,14,9,0.643,0,0,0.0,2,2,1.0,103,98,0
+78567,1970,27000451,1971-01-27 19:00:00,San Francisco,Warriors,Detroit,Pistons,Regular Season,0,1,48.0,34,4,4,0,0,0,0,0,4,0,20,15,0.75,0,0,0.0,8,4,0.5,112,129,0
+78567,1970,27000462,1971-01-29 19:00:00,San Francisco,Warriors,Buffalo,Braves,Regular Season,1,1,42.0,17,7,5,0,0,0,0,0,1,0,17,8,0.47,0,0,0.0,1,1,1.0,106,100,0
+78567,1970,27000468,1971-01-30 19:00:00,San Francisco,Warriors,Los Angeles,Lakers,Regular Season,1,1,41.0,24,3,4,0,0,0,0,0,4,0,16,8,0.5,0,0,0.0,8,8,1.0,87,85,0
+78567,1970,27000479,1971-02-02 19:00:00,San Francisco,Warriors,Atlanta,Hawks,Regular Season,1,1,28.0,13,5,1,0,0,0,0,0,1,0,20,6,0.299,0,0,0.0,1,1,1.0,101,99,0
+78567,1970,27000488,1971-02-04 19:00:00,San Francisco,Warriors,Phoenix,Suns,Regular Season,0,1,36.0,10,8,4,0,0,0,0,0,4,0,10,2,0.2,0,0,0.0,8,6,0.75,105,117,0
+78567,1970,27000497,1971-02-05 19:00:00,San Francisco,Warriors,Portland,Trail Blazers,Regular Season,0,0,34.0,19,6,1,0,0,0,0,0,6,0,17,7,0.411,0,0,0.0,5,5,1.0,123,117,0
+78567,1970,27000502,1971-02-06 19:00:00,San Francisco,Warriors,Milwaukee,Bucks,Regular Season,1,0,29.0,9,5,2,0,0,0,0,0,1,0,8,3,0.375,0,0,0.0,3,3,1.0,85,111,0
+78567,1970,27000506,1971-02-07 19:00:00,San Francisco,Warriors,Los Angeles,Lakers,Regular Season,0,0,36.0,12,4,3,0,0,0,0,0,2,0,10,4,0.4,0,0,0.0,6,4,0.667,119,104,0
+78567,1970,27000519,1971-02-10 19:00:00,San Francisco,Warriors,Seattle,SuperSonics,Regular Season,1,1,31.0,13,4,2,0,0,0,0,0,4,0,12,4,0.333,0,0,0.0,6,5,0.832,133,122,0
+78567,1970,27000776,1971-02-11 19:00:00,San Francisco,Warriors,San Diego,Rockets,Regular Season,0,0,41.0,22,8,8,0,0,0,0,0,3,0,10,7,0.699,0,0,0.0,8,8,1.0,119,111,0
+78567,1970,27000527,1971-02-12 19:00:00,San Francisco,Warriors,Cincinnati,Royals,Regular Season,1,1,42.0,26,7,3,0,0,0,0,0,3,0,20,11,0.55,0,0,0.0,4,4,1.0,133,119,0
+78567,1970,27000538,1971-02-14 19:00:00,San Francisco,Warriors,Seattle,SuperSonics,Regular Season,0,0,27.0,11,1,0,0,0,0,0,0,3,0,7,3,0.428,0,0,0.0,6,5,0.832,146,101,0
+78567,1970,27000550,1971-02-17 19:00:00,San Francisco,Warriors,Boston,Celtics,Regular Season,1,0,30.0,3,4,2,0,0,0,0,0,3,0,10,1,0.1,0,0,0.0,2,1,0.5,99,129,0
+78567,1970,27000779,1971-02-19 19:00:00,San Francisco,Warriors,San Diego,Rockets,Regular Season,1,0,42.0,9,2,5,0,0,0,0,0,2,0,14,4,0.285,0,0,0.0,1,1,1.0,103,109,0
+78567,1970,27000565,1971-02-20 19:00:00,San Francisco,Warriors,Milwaukee,Bucks,Regular Season,1,0,48.0,27,10,4,0,0,0,0,0,3,0,23,12,0.522,0,0,0.0,5,3,0.599,96,104,0
+78567,1970,27000574,1971-02-22 19:00:00,San Francisco,Warriors,Buffalo,Braves,Regular Season,0,1,48.0,18,6,5,0,0,0,0,0,2,0,12,6,0.5,0,0,0.0,6,6,1.0,91,109,0
+78567,1970,27000576,1971-02-23 19:00:00,San Francisco,Warriors,Milwaukee,Bucks,Regular Season,0,0,46.0,20,6,3,0,0,0,0,0,5,0,20,9,0.45,0,0,0.0,3,2,0.667,118,107,0
+78567,1970,27000581,1971-02-24 19:00:00,San Francisco,Warriors,Detroit,Pistons,Regular Season,0,1,24.0,8,5,2,0,0,0,0,0,6,0,7,3,0.428,0,0,0.0,2,2,1.0,115,117,0
+78567,1970,27000593,1971-02-27 19:00:00,San Francisco,Warriors,Los Angeles,Lakers,Regular Season,1,0,31.0,12,9,2,0,0,0,0,0,6,0,11,4,0.363,0,0,0.0,4,4,1.0,107,112,0
+78567,1970,27000613,1971-03-03 19:00:00,San Francisco,Warriors,Atlanta,Hawks,Regular Season,1,0,30.0,17,8,6,0,0,0,0,0,4,0,15,6,0.4,0,0,0.0,6,5,0.832,105,109,0
+78567,1970,27000618,1971-03-05 19:00:00,San Francisco,Warriors,Chicago,Bulls,Regular Season,1,0,35.0,13,6,2,0,0,0,0,0,1,0,10,6,0.599,0,0,0.0,1,1,1.0,103,130,0
+78567,1970,27000625,1971-03-06 19:00:00,San Francisco,Warriors,Baltimore,Bullets,Regular Season,1,1,40.0,16,6,2,0,0,0,0,0,2,0,12,6,0.5,0,0,0.0,5,4,0.8,109,103,0
+78567,1970,27000640,1971-03-09 19:00:00,San Francisco,Warriors,Boston,Celtics,Regular Season,1,0,16.0,5,5,1,0,0,0,0,0,2,0,7,2,0.285,0,0,0.0,1,1,1.0,112,134,0
+78567,1970,27000649,1971-03-12 19:00:00,San Francisco,Warriors,Seattle,SuperSonics,Regular Season,1,1,45.0,18,8,5,0,0,0,0,0,2,0,13,7,0.538,0,0,0.0,4,4,1.0,111,98,0
+78567,1970,27000656,1971-03-13 19:00:00,San Francisco,Warriors,Detroit,Pistons,Regular Season,1,1,43.0,23,10,3,0,0,0,0,0,3,0,14,9,0.643,0,0,0.0,5,5,1.0,116,107,0
+78567,1970,27000670,1971-03-16 19:00:00,San Francisco,Warriors,Cleveland,Cavaliers,Regular Season,0,0,45.0,15,6,2,0,0,0,0,0,3,0,15,5,0.333,0,0,0.0,6,5,0.832,108,103,0
+78567,1970,27000673,1971-03-17 19:00:00,San Francisco,Warriors,Cincinnati,Royals,Regular Season,0,1,46.0,12,7,5,0,0,0,0,0,3,0,14,6,0.428,0,0,0.0,0,0,0.0,92,110,0
+78567,1970,27000677,1971-03-18 19:00:00,San Francisco,Warriors,Chicago,Bulls,Regular Season,0,1,31.0,8,7,4,0,0,0,0,0,4,0,10,3,0.299,0,0,0.0,3,2,0.667,85,91,0
+78567,1970,27000695,1971-03-21 19:00:00,San Francisco,Warriors,Seattle,SuperSonics,Regular Season,0,0,34.0,23,6,3,0,0,0,0,0,5,0,13,9,0.691,0,0,0.0,8,5,0.625,119,106,0
+78567,1970,47000231,1971-03-27 19:00:00,San Francisco,Warriors,Milwaukee,Bucks,Playoffs,1,0,34.0,16,4,3,0,0,0,0,0,4,0,12,7,0.582,0,0,0.0,2,2,1.0,96,107,0
+78567,1970,47000232,1971-03-29 19:00:00,San Francisco,Warriors,Milwaukee,Bucks,Playoffs,0,0,33.0,12,4,6,0,0,0,0,0,3,0,11,3,0.273,0,0,0.0,6,6,1.0,104,90,0
+78567,1970,47000233,1971-03-30 19:00:00,San Francisco,Warriors,Milwaukee,Bucks,Playoffs,0,0,36.0,16,8,4,0,0,0,0,0,6,0,19,7,0.367,0,0,0.0,3,2,0.667,114,102,0
+78567,1970,47000234,1971-04-01 19:00:00,San Francisco,Warriors,Milwaukee,Bucks,Playoffs,1,1,33.0,8,9,1,0,0,0,0,0,4,0,8,2,0.25,0,0,0.0,4,4,1.0,106,104,0
+78567,1970,47000235,1971-04-04 19:00:00,San Francisco,Warriors,Milwaukee,Bucks,Playoffs,0,0,36.0,13,4,3,0,0,0,0,0,2,0,13,5,0.385,0,0,0.0,4,3,0.75,136,86,0
+78567,1971,27100170,1971-10-15 19:00:00,Golden State,Warriors,Boston,Celtics,Regular Season,0,1,25.0,7,7,2,0,0,0,0,0,3,0,7,3,0.428,0,0,0.0,1,1,1.0,75,97,0
+78567,1971,27100171,1971-10-16 19:00:00,Golden State,Warriors,Baltimore,Bullets,Regular Season,0,0,36.0,11,6,2,0,0,0,0,0,3,0,10,5,0.5,0,0,0.0,1,1,1.0,108,93,0
+78567,1971,27100270,1971-10-19 19:00:00,Golden State,Warriors,New York,Knicks,Regular Season,0,0,14.0,5,1,0,0,0,0,0,0,0,0,5,2,0.4,0,0,0.0,1,1,1.0,93,84,0
+78567,1971,27100031,1971-10-20 19:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,0,1,43.0,23,13,6,0,0,0,0,0,4,0,14,9,0.643,0,0,0.0,5,5,1.0,98,115,0
+78567,1971,27100698,1971-10-23 19:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,1,1,26.0,10,2,3,0,0,0,0,0,3,0,9,5,0.556,0,0,0.0,0,0,0.0,115,109,0
+78567,1971,27100699,1971-10-26 19:00:00,Golden State,Warriors,Buffalo,Braves,Regular Season,1,0,26.0,5,4,2,0,0,0,0,0,3,0,5,2,0.4,0,0,0.0,1,1,1.0,89,91,0
+78567,1971,27100700,1971-10-29 19:00:00,Golden State,Warriors,Chicago,Bulls,Regular Season,1,1,47.0,11,17,3,0,0,0,0,0,4,0,8,3,0.375,0,0,0.0,6,5,0.832,99,83,0
+78567,1971,27100701,1971-10-30 19:00:00,Golden State,Warriors,Cincinnati,Royals,Regular Season,1,1,38.0,12,5,4,0,0,0,0,0,5,0,8,5,0.625,0,0,0.0,2,2,1.0,116,112,0
+78567,1971,27100702,1971-10-31 19:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,1,48.0,23,7,3,0,0,0,0,0,3,0,15,10,0.667,0,0,0.0,4,3,0.75,105,109,0
+78567,1971,27100703,1971-11-02 19:00:00,Golden State,Warriors,Baltimore,Bullets,Regular Season,1,1,40.0,7,8,4,0,0,0,0,0,2,0,6,1,0.167,0,0,0.0,5,5,1.0,106,91,0
+78567,1971,27100704,1971-11-04 19:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,1,22.0,4,5,1,0,0,0,0,0,2,0,7,2,0.285,0,0,0.0,0,0,0.0,98,96,0
+78567,1971,27100705,1971-11-06 19:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,0,32.0,15,5,4,0,0,0,0,0,3,0,15,5,0.333,0,0,0.0,5,5,1.0,89,105,0
+78567,1971,27100706,1971-11-07 19:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,1,30.0,13,4,2,0,0,0,0,0,5,0,7,6,0.856,0,0,0.0,1,1,1.0,102,109,0
+78567,1971,27100708,1971-11-09 19:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,1,37.0,17,5,6,0,0,0,0,0,4,0,11,6,0.545,0,0,0.0,7,5,0.713,115,99,0
+78567,1971,27100709,1971-11-11 19:00:00,Golden State,Warriors,New York,Knicks,Regular Season,0,1,21.0,10,4,1,0,0,0,0,0,5,0,6,4,0.667,0,0,0.0,2,2,1.0,103,112,0
+78567,1971,27100710,1971-11-12 19:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,0,0,29.0,9,4,2,0,0,0,0,0,3,0,9,4,0.444,0,0,0.0,1,1,1.0,106,104,0
+78567,1971,27100711,1971-11-13 19:00:00,Golden State,Warriors,Cincinnati,Royals,Regular Season,0,0,42.0,20,7,4,0,0,0,0,0,5,0,19,8,0.42,0,0,0.0,4,4,1.0,110,101,0
+78567,1971,27100712,1971-11-16 19:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,0,1,14.0,2,3,1,0,0,0,0,0,4,0,2,0,0.0,0,0,0.0,2,2,1.0,101,122,0
+78567,1971,27100713,1971-11-18 19:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,23.0,4,2,5,0,0,0,0,0,3,0,3,1,0.333,0,0,0.0,2,2,1.0,115,105,0
+78567,1971,27100714,1971-11-20 19:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,1,1,34.0,7,4,5,0,0,0,0,0,2,0,8,3,0.375,0,0,0.0,1,1,1.0,107,100,0
+78567,1971,27100715,1971-11-21 19:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,0,25.0,10,2,1,0,0,0,0,0,2,0,6,3,0.5,0,0,0.0,4,4,1.0,96,115,0
+78567,1971,27100717,1971-11-25 19:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,1,0,36.0,9,7,5,0,0,0,0,0,2,0,10,4,0.4,0,0,0.0,2,1,0.5,111,112,0
+78567,1971,27100718,1971-11-26 19:00:00,Golden State,Warriors,Chicago,Bulls,Regular Season,0,0,30.0,15,5,2,0,0,0,0,0,1,0,13,5,0.385,0,0,0.0,6,5,0.832,121,89,0
+78567,1971,27100720,1971-11-30 19:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,0,1,37.0,11,5,4,0,0,0,0,0,5,0,8,4,0.5,0,0,0.0,3,3,1.0,103,106,0
+78567,1971,27100721,1971-12-03 19:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,17.0,9,4,2,0,0,0,0,0,1,0,9,3,0.333,0,0,0.0,3,3,1.0,115,107,0
+78567,1971,27100722,1971-12-04 19:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,0,21.0,5,4,1,0,0,0,0,0,3,0,7,1,0.142,0,0,0.0,4,3,0.75,92,128,0
+78567,1971,27100216,1971-12-05 19:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,32.0,7,3,2,0,0,0,0,0,2,0,7,3,0.428,0,0,0.0,3,1,0.333,120,87,0
+78567,1971,27100723,1971-12-07 19:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,1,0,20.0,6,3,1,0,0,0,0,0,5,0,5,2,0.4,0,0,0.0,4,2,0.5,113,116,0
+78567,1971,27100724,1971-12-09 19:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,24.0,10,4,0,0,0,0,0,0,5,0,6,4,0.667,0,0,0.0,3,2,0.667,124,111,0
+78567,1971,27100725,1971-12-10 19:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,0,31.0,10,7,2,0,0,0,0,0,4,0,8,4,0.5,0,0,0.0,2,2,1.0,105,94,0
+78567,1971,27100727,1971-12-16 19:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,1,1,27.0,6,3,2,0,0,0,0,0,4,0,5,2,0.4,0,0,0.0,2,2,1.0,113,93,0
+78567,1971,27100728,1971-12-17 19:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,23.0,5,3,1,0,0,0,0,0,2,0,2,0,0.0,0,0,0.0,7,5,0.713,129,99,0
+78567,1971,27100730,1971-12-18 19:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,1,1,22.0,5,6,1,0,0,0,0,0,2,0,4,2,0.5,0,0,0.0,1,1,1.0,129,102,0
+78567,1971,27100731,1971-12-21 19:00:00,Golden State,Warriors,New York,Knicks,Regular Season,1,0,24.0,5,5,1,0,0,0,0,0,1,0,7,2,0.285,0,0,0.0,2,1,0.5,87,113,0
+78567,1971,27100732,1971-12-25 19:00:00,Golden State,Warriors,New York,Knicks,Regular Season,0,0,32.0,9,3,2,0,0,0,0,0,4,0,7,3,0.428,0,0,0.0,3,3,1.0,114,89,0
+78567,1971,27100733,1971-12-27 19:00:00,Golden State,Warriors,Boston,Celtics,Regular Season,0,0,27.0,6,2,3,0,0,0,0,0,3,0,4,3,0.75,0,0,0.0,0,0,0.0,99,97,0
+78567,1971,27100734,1971-12-29 19:00:00,Golden State,Warriors,Cincinnati,Royals,Regular Season,0,1,16.0,0,1,2,0,0,0,0,0,5,0,2,0,0.0,0,0,0.0,0,0,0.0,102,107,0
+78567,1971,27100735,1971-12-30 19:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,0,1,12.0,2,2,0,0,0,0,0,0,1,0,4,1,0.25,0,0,0.0,0,0,0.0,122,128,0
+78567,1971,27100737,1972-01-04 19:00:00,Golden State,Warriors,Buffalo,Braves,Regular Season,1,1,18.0,6,1,3,0,0,0,0,0,2,0,4,2,0.5,0,0,0.0,4,2,0.5,112,86,0
+78567,1971,27100738,1972-01-06 19:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,13.0,0,3,0,0,0,0,0,0,0,0,5,0,0.0,0,0,0.0,0,0,0.0,119,115,0
+78567,1971,27100742,1972-01-08 19:00:00,Golden State,Warriors,Boston,Celtics,Regular Season,1,1,24.0,21,3,0,0,0,0,0,0,3,0,12,8,0.667,0,0,0.0,7,5,0.713,128,106,0
+78567,1971,27100746,1972-01-09 19:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,1,20.0,8,4,1,0,0,0,0,0,4,0,3,1,0.333,0,0,0.0,7,6,0.856,112,113,0
+78567,1971,27100747,1972-01-11 19:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,1,1,14.0,9,5,0,0,0,0,0,0,4,0,7,3,0.428,0,0,0.0,3,3,1.0,101,92,0
+78567,1971,27100748,1972-01-14 19:00:00,Golden State,Warriors,New York,Knicks,Regular Season,1,1,18.0,6,2,0,0,0,0,0,0,0,0,2,1,0.5,0,0,0.0,5,4,0.8,115,111,0
+78567,1971,27100749,1972-01-15 19:00:00,Golden State,Warriors,Baltimore,Bullets,Regular Season,1,1,35.0,17,8,2,0,0,0,0,0,5,0,11,7,0.636,0,0,0.0,4,3,0.75,105,95,0
+78567,1971,27100750,1972-01-21 19:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,0,1,19.0,13,2,0,0,0,0,0,0,5,0,8,6,0.75,0,0,0.0,1,1,1.0,111,113,0
+78567,1971,27100751,1972-01-22 19:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,0,1,14.0,11,5,2,0,0,0,0,0,4,0,7,4,0.57,0,0,0.0,3,3,1.0,106,113,0
+78567,1971,27100752,1972-01-24 19:00:00,Golden State,Warriors,Chicago,Bulls,Regular Season,0,0,20.0,6,5,1,0,0,0,0,0,2,0,6,3,0.5,0,0,0.0,1,0,0.0,110,105,0
+78567,1971,27100423,1972-01-25 19:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,0,1,11.0,5,0,0,0,0,0,0,0,4,0,3,1,0.333,0,0,0.0,4,3,0.75,111,117,0
+78567,1971,27100753,1972-01-27 19:00:00,Golden State,Warriors,Chicago,Bulls,Regular Season,1,1,37.0,20,4,1,0,0,0,0,0,5,0,14,7,0.5,0,0,0.0,8,6,0.75,108,107,0
+78567,1971,27100754,1972-01-28 19:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,1,12.0,8,2,1,0,0,0,0,0,3,0,7,3,0.428,0,0,0.0,2,2,1.0,102,105,0
+78567,1971,27100755,1972-01-29 19:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,1,30.0,16,6,1,0,0,0,0,0,2,0,11,6,0.545,0,0,0.0,5,4,0.8,111,100,0
+78567,1971,27100756,1972-02-01 19:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,1,0,17.0,8,2,1,0,0,0,0,0,4,0,9,3,0.333,0,0,0.0,2,2,1.0,97,108,0
+78567,1971,27100758,1972-02-03 19:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,1,1,10.0,2,1,1,0,0,0,0,0,1,0,4,1,0.25,0,0,0.0,0,0,0.0,132,115,0
+78567,1971,27100760,1972-02-05 19:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,96,108,0
+78567,1971,27100761,1972-02-08 19:00:00,Golden State,Warriors,Baltimore,Bullets,Regular Season,1,1,12.0,2,0,0,0,0,0,0,0,2,0,4,1,0.25,0,0,0.0,0,0,0.0,111,107,0
+78567,1971,27100762,1972-02-10 19:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,1,1,11.0,4,3,0,0,0,0,0,0,2,0,6,2,0.333,0,0,0.0,0,0,0.0,121,112,0
+78567,1971,27100763,1972-02-12 19:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,0,0,27.0,10,1,4,0,0,0,0,0,3,0,7,4,0.57,0,0,0.0,3,2,0.667,123,100,0
+78567,1971,27100764,1972-02-13 19:00:00,Golden State,Warriors,Chicago,Bulls,Regular Season,0,1,23.0,10,1,1,0,0,0,0,0,3,0,6,4,0.667,0,0,0.0,2,2,1.0,88,107,0
+78567,1971,27100765,1972-02-15 19:00:00,Golden State,Warriors,Buffalo,Braves,Regular Season,0,1,11.0,2,1,0,0,0,0,0,0,1,0,4,1,0.25,0,0,0.0,0,0,0.0,100,103,0
+78567,1971,27100766,1972-02-18 19:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,0,19.0,5,3,1,0,0,0,0,0,4,0,5,2,0.4,0,0,0.0,1,1,1.0,110,108,0
+78567,1971,27100767,1972-02-19 19:00:00,Golden State,Warriors,Boston,Celtics,Regular Season,1,1,43.0,18,7,2,0,0,0,0,0,4,0,17,8,0.47,0,0,0.0,2,2,1.0,115,111,0
+78567,1971,27100768,1972-02-22 19:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,1,11.0,3,5,2,0,0,0,0,0,1,0,4,1,0.25,0,0,0.0,1,1,1.0,120,104,0
+78567,1971,27100770,1972-02-24 19:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,1,1,14.0,2,0,0,0,0,0,0,0,1,0,3,1,0.333,0,0,0.0,0,0,0.0,116,106,0
+78567,1971,27100771,1972-02-26 19:00:00,Golden State,Warriors,Chicago,Bulls,Regular Season,1,0,14.0,2,1,1,0,0,0,0,0,2,0,2,0,0.0,0,0,0.0,2,2,1.0,106,107,0
+78567,1971,27100772,1972-02-27 19:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,1,29.0,16,5,3,0,0,0,0,0,3,0,12,6,0.5,0,0,0.0,6,4,0.667,104,117,0
+78567,1971,27100773,1972-02-29 19:00:00,Golden State,Warriors,Cincinnati,Royals,Regular Season,1,1,24.0,12,2,1,0,0,0,0,0,2,0,7,5,0.713,0,0,0.0,2,2,1.0,128,120,0
+78567,1971,27100774,1972-03-03 19:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,1,16.0,9,5,3,0,0,0,0,0,4,0,8,3,0.375,0,0,0.0,3,3,1.0,108,107,0
+78567,1971,27100775,1972-03-04 19:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,1,30.0,23,5,2,0,0,0,0,0,1,0,11,9,0.817,0,0,0.0,5,5,1.0,114,96,0
+78567,1971,27100776,1972-03-07 19:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,1,1,16.0,5,2,1,0,0,0,0,0,3,0,7,2,0.285,0,0,0.0,3,1,0.333,119,112,0
+78567,1971,27100777,1972-03-10 19:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,1,23.0,15,6,6,0,0,0,0,0,4,0,13,6,0.462,0,0,0.0,3,3,1.0,116,119,0
+78567,1971,27100778,1972-03-12 19:00:00,Golden State,Warriors,Cincinnati,Royals,Regular Season,0,0,21.0,13,3,1,0,0,0,0,0,4,0,9,3,0.333,0,0,0.0,7,7,1.0,117,106,0
+78567,1971,27100779,1972-03-14 19:00:00,Golden State,Warriors,Boston,Celtics,Regular Season,0,0,21.0,15,1,1,0,0,0,0,0,1,0,14,5,0.356,0,0,0.0,5,5,1.0,124,110,0
+78567,1971,27100780,1972-03-16 19:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,24.0,10,2,1,0,0,0,0,0,2,0,8,4,0.5,0,0,0.0,2,2,1.0,107,94,0
+78567,1971,27100781,1972-03-17 19:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,28.0,27,3,1,0,0,0,0,0,4,0,18,11,0.61,0,0,0.0,8,5,0.625,114,109,0
+78567,1971,27100782,1972-03-18 19:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,1,23.0,24,6,2,0,0,0,0,0,1,0,9,9,1.0,0,0,0.0,8,6,0.75,134,116,0
+78567,1971,27100783,1972-03-19 19:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,19.0,9,2,0,0,0,0,0,0,6,0,10,3,0.299,0,0,0.0,4,3,0.75,162,99,0
+78567,1971,27100784,1972-03-22 19:00:00,Golden State,Warriors,Baltimore,Bullets,Regular Season,0,1,26.0,8,2,4,0,0,0,0,0,4,0,8,4,0.5,0,0,0.0,0,0,0.0,101,121,0
+78567,1971,27100785,1972-03-24 19:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,0,0,25.0,18,2,0,0,0,0,0,0,2,0,11,8,0.726,0,0,0.0,3,2,0.667,118,102,0
+78567,1971,27100786,1972-03-26 19:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,0,1,26.0,14,5,4,0,0,0,0,0,2,0,10,3,0.299,0,0,0.0,8,8,1.0,115,116,0
+78567,1971,47100231,1972-03-28 19:00:00,Golden State,Warriors,Milwaukee,Bucks,Playoffs,0,1,13.0,3,0,1,0,0,0,0,0,1,0,2,1,0.5,0,0,0.0,2,1,0.5,106,117,0
+78567,1971,47100232,1972-03-30 19:00:00,Golden State,Warriors,Milwaukee,Bucks,Playoffs,0,0,18.0,6,2,1,0,0,0,0,0,1,0,10,3,0.299,0,0,0.0,0,0,0.0,118,93,0
+78567,1971,47100233,1972-04-01 19:00:00,Golden State,Warriors,Milwaukee,Bucks,Playoffs,1,0,25.0,17,3,4,0,0,0,0,0,2,0,11,4,0.363,0,0,0.0,9,9,1.0,94,122,0
+78567,1971,47100234,1972-04-04 19:00:00,Golden State,Warriors,Milwaukee,Bucks,Playoffs,1,0,18.0,1,5,1,0,0,0,0,0,5,0,5,0,0.0,0,0,0.0,1,1,1.0,99,106,0
+78567,1971,47100235,1972-04-06 19:00:00,Golden State,Warriors,Milwaukee,Bucks,Playoffs,0,0,9.0,5,0,1,0,0,0,0,0,3,0,3,1,0.333,0,0,0.0,3,3,1.0,108,100,0
+78567,1972,27200018,1972-10-14 19:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,1,0,31.0,2,5,4,0,0,0,0,0,3,0,5,1,0.2,0,0,0.0,0,0,0.0,77,81,0
+78567,1972,27200021,1972-10-16 19:00:00,Golden State,Warriors,Baltimore,Bullets,Regular Season,1,1,15.0,7,2,1,0,0,0,0,0,4,0,4,2,0.5,0,0,0.0,3,3,1.0,97,96,0
+78567,1972,27200029,1972-10-20 19:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,1,30.0,11,4,2,0,0,0,0,0,1,0,8,4,0.5,0,0,0.0,4,3,0.75,92,101,0
+78567,1972,27200034,1972-10-21 19:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,1,20.0,10,5,0,0,0,0,0,0,3,0,8,3,0.375,0,0,0.0,5,4,0.8,97,104,0
+78567,1972,27200052,1972-10-26 19:00:00,Golden State,Warriors,Chicago,Bulls,Regular Season,1,0,19.0,2,2,2,0,0,0,0,0,3,0,1,1,1.0,0,0,0.0,0,0,0.0,93,94,0
+78567,1972,27200057,1972-10-27 19:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,1,21.0,13,3,1,0,0,0,0,0,5,0,8,5,0.625,0,0,0.0,4,3,0.75,91,119,0
+78567,1972,27200059,1972-10-28 19:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,1,1,32.0,8,1,1,0,0,0,0,0,4,0,9,2,0.222,0,0,0.0,4,4,1.0,122,107,0
+78567,1972,27200066,1972-10-31 19:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,1,1,19.0,8,4,3,0,0,0,0,0,4,0,7,3,0.428,0,0,0.0,2,2,1.0,112,104,0
+78567,1972,27200071,1972-11-02 19:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,18.0,8,3,0,0,0,0,0,0,1,0,7,3,0.428,0,0,0.0,2,2,1.0,118,104,0
+78567,1972,27200083,1972-11-04 19:00:00,Golden State,Warriors,New York,Knicks,Regular Season,1,1,14.0,2,3,0,0,0,0,0,0,2,0,4,1,0.25,0,0,0.0,0,0,0.0,127,104,0
+78567,1972,27200091,1972-11-07 19:00:00,Golden State,Warriors,Buffalo,Braves,Regular Season,0,1,33.0,17,2,4,0,0,0,0,0,2,0,15,8,0.533,0,0,0.0,1,1,1.0,91,105,0
+78567,1972,27200092,1972-11-08 19:00:00,Golden State,Warriors,Boston,Celtics,Regular Season,0,0,29.0,19,7,3,0,0,0,0,0,3,0,15,9,0.599,0,0,0.0,1,1,1.0,128,111,0
+78567,1972,27200102,1972-11-10 19:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,0,0,20.0,11,2,0,0,0,0,0,0,5,0,13,5,0.385,0,0,0.0,1,1,1.0,121,96,0
+78567,1972,27203038,1972-11-11 19:00:00,Golden State,Warriors,New York,Knicks,Regular Season,0,1,11.0,4,2,1,0,0,0,0,0,2,0,3,1,0.333,0,0,0.0,2,2,1.0,102,103,0
+78567,1972,27200111,1972-11-14 19:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,0,1,11.0,2,1,1,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,2,2,1.0,105,114,0
+78567,1972,27200122,1972-11-16 19:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,1,1,12.0,7,1,1,0,0,0,0,0,1,0,8,2,0.25,0,0,0.0,3,3,1.0,128,106,0
+78567,1972,27200126,1972-11-17 19:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,0,9.0,7,1,1,0,0,0,0,0,2,0,3,3,1.0,0,0,0.0,1,1,1.0,105,97,0
+78567,1972,27200145,1972-11-22 19:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,0,0,22.0,6,2,3,0,0,0,0,0,3,0,6,2,0.333,0,0,0.0,2,2,1.0,132,104,0
+78567,1972,27200152,1972-11-24 19:00:00,Golden State,Warriors,Chicago,Bulls,Regular Season,0,0,27.0,12,4,2,0,0,0,0,0,1,0,8,5,0.625,0,0,0.0,2,2,1.0,100,96,0
+78567,1972,27200154,1972-11-25 19:00:00,Golden State,Warriors,Kansas City-Omaha,Kings,Regular Season,0,1,20.0,10,1,1,0,0,0,0,0,1,0,6,3,0.5,0,0,0.0,4,4,1.0,114,133,0
+78567,1972,27200166,1972-11-28 19:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,1,2.0,2,0,0,0,0,0,0,0,1,0,2,1,0.5,0,0,0.0,0,0,0.0,110,102,0
+78567,1972,27200179,1972-12-01 19:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,19.0,8,2,2,0,0,0,0,0,2,0,6,3,0.5,0,0,0.0,2,2,1.0,115,106,0
+78567,1972,27200188,1972-12-02 19:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,0,5.0,2,0,0,0,0,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,103,112,0
+78567,1972,27200195,1972-12-05 19:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,1,33.0,17,4,3,0,0,0,0,0,0,0,11,6,0.545,0,0,0.0,6,5,0.832,108,101,0
+78567,1972,27200210,1972-12-08 19:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,0,0,17.0,4,3,3,0,0,0,0,0,2,0,10,1,0.1,0,0,0.0,2,2,1.0,124,91,0
+78567,1972,27203016,1972-12-10 19:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,0,1,4.0,0,0,1,0,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,100,103,0
+78567,1972,27200236,1972-12-15 19:00:00,Golden State,Warriors,Buffalo,Braves,Regular Season,0,1,16.0,20,2,1,0,0,0,0,0,2,0,13,8,0.614,0,0,0.0,5,4,0.8,95,129,0
+78567,1972,27200243,1972-12-16 19:00:00,Golden State,Warriors,Baltimore,Bullets,Regular Season,0,0,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,105,99,0
+78567,1972,27200267,1972-12-23 19:00:00,Golden State,Warriors,Chicago,Bulls,Regular Season,1,1,22.0,16,2,2,0,0,0,0,0,3,0,12,6,0.5,0,0,0.0,4,4,1.0,127,109,0
+78567,1972,27200278,1972-12-26 19:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,0,13.0,8,2,1,0,0,0,0,0,0,0,6,4,0.667,0,0,0.0,0,0,0.0,95,97,0
+78567,1972,27200283,1972-12-28 19:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,1,1,14.0,4,4,0,0,0,0,0,0,3,0,4,2,0.5,0,0,0.0,0,0,0.0,118,105,0
+78567,1972,27200294,1972-12-30 19:00:00,Golden State,Warriors,Kansas City-Omaha,Kings,Regular Season,1,1,23.0,15,3,3,0,0,0,0,0,2,0,11,5,0.455,0,0,0.0,5,5,1.0,113,107,0
+78567,1972,27200303,1973-01-02 19:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,1,9.0,0,1,1,0,0,0,0,0,1,0,2,0,0.0,0,0,0.0,0,0,0.0,112,106,0
+78567,1972,27200313,1973-01-04 19:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,1,1,13.0,4,1,1,0,0,0,0,0,1,0,6,2,0.333,0,0,0.0,0,0,0.0,108,83,0
+78567,1972,27200319,1973-01-05 19:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,1,21.0,6,2,0,0,0,0,0,0,3,0,13,3,0.231,0,0,0.0,0,0,0.0,96,128,0
+78567,1972,27200325,1973-01-06 19:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,1,1,19.0,20,0,2,0,0,0,0,0,0,0,11,9,0.817,0,0,0.0,2,2,1.0,111,79,0
+78567,1972,27200335,1973-01-09 19:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,1,1,9.0,0,0,0,0,0,0,0,0,1,0,3,0,0.0,0,0,0.0,0,0,0.0,105,98,0
+78567,1972,27200342,1973-01-11 19:00:00,Golden State,Warriors,Kansas City-Omaha,Kings,Regular Season,0,0,8.0,6,0,0,0,0,0,0,0,2,0,4,3,0.75,0,0,0.0,0,0,0.0,109,108,0
+78567,1972,27200345,1973-01-12 19:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,1,3.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,107,108,0
+78567,1972,27200352,1973-01-13 19:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,0,8.0,4,1,0,0,0,0,0,0,0,0,3,2,0.667,0,0,0.0,0,0,0.0,110,116,0
+78567,1972,27200365,1973-01-16 19:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,1,0,7.0,0,0,1,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,98,100,0
+78567,1972,27200381,1973-01-19 19:00:00,Golden State,Warriors,Chicago,Bulls,Regular Season,0,1,22.0,10,3,0,0,0,0,0,0,1,0,11,5,0.455,0,0,0.0,0,0,0.0,80,115,0
+78567,1972,27200387,1973-01-21 19:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,0,0,20.0,16,2,0,0,0,0,0,0,2,0,14,7,0.5,0,0,0.0,2,2,1.0,124,108,0
+78567,1972,27200393,1973-01-25 19:00:00,Golden State,Warriors,Kansas City-Omaha,Kings,Regular Season,1,1,23.0,16,2,5,0,0,0,0,0,3,0,11,8,0.726,0,0,0.0,0,0,0.0,129,115,0
+78567,1972,27200400,1973-01-26 19:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,0,15.0,2,1,3,0,0,0,0,0,4,0,8,1,0.125,0,0,0.0,0,0,0.0,100,84,0
+78567,1972,27200405,1973-01-27 19:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,0,3.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,107,122,0
+78567,1972,27200413,1973-01-29 19:00:00,Golden State,Warriors,New York,Knicks,Regular Season,0,0,20.0,12,1,0,0,0,0,0,0,1,0,11,6,0.545,0,0,0.0,0,0,0.0,97,84,0
+78567,1972,27200418,1973-01-30 19:00:00,Golden State,Warriors,Baltimore,Bullets,Regular Season,0,0,11.0,2,0,2,0,0,0,0,0,2,0,3,1,0.333,0,0,0.0,0,0,0.0,104,86,0
+78567,1972,27200419,1973-01-31 19:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,0,1,8.0,4,1,3,0,0,0,0,0,4,0,4,1,0.25,0,0,0.0,2,2,1.0,115,131,0
+78567,1972,27200424,1973-02-01 19:00:00,Golden State,Warriors,Kansas City-Omaha,Kings,Regular Season,0,0,7.0,2,0,1,0,0,0,0,0,0,0,3,1,0.333,0,0,0.0,0,0,0.0,98,96,0
+78567,1972,27200463,1973-02-10 19:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,0,0,11.0,2,0,1,0,0,0,0,0,0,0,4,1,0.25,0,0,0.0,0,0,0.0,135,108,0
+78567,1972,27200469,1973-02-11 19:00:00,Golden State,Warriors,Chicago,Bulls,Regular Season,0,1,5.0,4,1,0,0,0,0,0,0,0,0,3,2,0.667,0,0,0.0,0,0,0.0,96,101,0
+78567,1972,27203027,1973-02-13 19:00:00,Golden State,Warriors,Cleveland,Cavaliers,Regular Season,0,1,12.0,0,2,2,0,0,0,0,0,2,0,2,0,0.0,0,0,0.0,0,0,0.0,90,103,0
+78567,1972,27200482,1973-02-15 19:00:00,Golden State,Warriors,Baltimore,Bullets,Regular Season,1,0,2.0,0,0,0,0,0,0,0,0,0,0,2,0,0.0,0,0,0.0,0,0,0.0,94,96,0
+78567,1972,27200483,1973-02-16 19:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,0,19.0,9,5,0,0,0,0,0,0,4,0,6,4,0.667,0,0,0.0,1,1,1.0,114,108,0
+78567,1972,27200516,1973-02-23 19:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,0,1,3.0,0,0,1,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,106,111,0
+78567,1972,27200523,1973-02-24 19:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,1,1,7.0,2,1,0,0,0,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,102,93,0
+78567,1972,27200533,1973-02-27 19:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,0,0,17.0,7,2,1,0,0,0,0,0,0,0,5,3,0.599,0,0,0.0,2,1,0.5,114,100,0
+78567,1972,27200536,1973-02-28 19:00:00,Golden State,Warriors,Boston,Celtics,Regular Season,0,0,20.0,10,3,1,0,0,0,0,0,1,0,8,5,0.625,0,0,0.0,0,0,0.0,118,111,0
+78567,1972,27200542,1973-03-02 19:00:00,Golden State,Warriors,Kansas City-Omaha,Kings,Regular Season,1,1,4.0,0,0,0,0,0,0,0,0,0,0,3,0,0.0,0,0,0.0,0,0,0.0,117,112,0
+78567,1972,27200548,1973-03-03 19:00:00,Golden State,Warriors,Chicago,Bulls,Regular Season,1,0,11.0,4,0,1,0,0,0,0,0,1,0,2,0,0.0,0,0,0.0,4,4,1.0,116,117,0
+78567,1972,27200561,1973-03-06 19:00:00,Golden State,Warriors,Detroit,Pistons,Regular Season,1,1,5.0,0,1,0,0,0,0,0,0,0,0,3,0,0.0,0,0,0.0,0,0,0.0,108,93,0
+78567,1972,27200574,1973-03-10 19:00:00,Golden State,Warriors,Atlanta,Hawks,Regular Season,0,0,19.0,6,1,2,0,0,0,0,0,3,0,9,3,0.333,0,0,0.0,2,0,0.0,117,113,0
+78567,1972,27200583,1973-03-11 19:00:00,Golden State,Warriors,Philadelphia,76ers,Regular Season,0,1,30.0,14,2,1,0,0,0,0,0,0,0,14,7,0.5,0,0,0.0,0,0,0.0,93,97,0
+78567,1972,27200587,1973-03-13 19:00:00,Golden State,Warriors,Portland,Trail Blazers,Regular Season,0,1,6.0,3,1,0,0,0,0,0,0,0,0,3,1,0.333,0,0,0.0,1,1,1.0,101,109,0
+78567,1972,27200593,1973-03-15 19:00:00,Golden State,Warriors,Houston,Rockets,Regular Season,1,1,5.0,2,0,0,0,0,0,0,0,0,0,2,1,0.5,0,0,0.0,0,0,0.0,141,125,0
+78567,1972,27200596,1973-03-16 19:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,0,0,3.0,0,0,1,0,0,0,0,0,2,0,1,0,0.0,0,0,0.0,0,0,0.0,116,106,0
+78567,1972,27200617,1973-03-20 19:00:00,Golden State,Warriors,Seattle,SuperSonics,Regular Season,1,1,5.0,0,1,0,0,0,0,0,0,1,0,2,0,0.0,0,0,0.0,0,0,0.0,114,106,0
+78567,1972,27200627,1973-03-22 19:00:00,Golden State,Warriors,Milwaukee,Bucks,Regular Season,1,0,2.0,0,0,0,0,0,0,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,98,108,0
+78567,1972,27200800,1973-03-23 19:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,0,0,7.0,4,1,1,0,0,0,0,0,2,0,3,2,0.667,0,0,0.0,0,0,0.0,125,124,0
+78567,1972,27200636,1973-03-24 19:00:00,Golden State,Warriors,Buffalo,Braves,Regular Season,1,1,4.0,2,0,1,0,0,0,0,0,0,0,4,1,0.25,0,0,0.0,0,0,0.0,106,101,0
+78567,1972,27200644,1973-03-26 19:00:00,Golden State,Warriors,Phoenix,Suns,Regular Season,1,0,5.0,0,1,1,0,0,0,0,0,0,0,3,0,0.0,0,0,0.0,0,0,0.0,114,120,0
+78567,1972,27200654,1973-03-28 19:00:00,Golden State,Warriors,Los Angeles,Lakers,Regular Season,1,0,5.0,0,0,1,0,0,0,0,0,0,0,3,0,0.0,0,0,0.0,0,0,0.0,89,96,0
+78567,1972,47200221,1973-03-30 19:00:00,Golden State,Warriors,Milwaukee,Bucks,Playoffs,0,0,6.0,5,1,1,0,0,0,0,0,1,0,2,2,1.0,0,0,0.0,1,1,1.0,110,90,0
+78567,1972,47200223,1973-04-05 19:00:00,Golden State,Warriors,Milwaukee,Bucks,Playoffs,1,0,5.0,4,3,0,0,0,0,0,0,0,0,3,2,0.667,0,0,0.0,0,0,0.0,93,113,0
+78567,1972,47200315,1973-04-25 19:00:00,Golden State,Warriors,Los Angeles,Lakers,Playoffs,0,0,9.0,0,1,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,128,118,0
+78567,1973,27300015,1973-10-12 20:00:00,Milwaukee,Bucks,Phoenix,Suns,Regular Season,0,1,12.0,2,0,0,0,0,0,0,0,3,0,2,1,0.5,0,0,0.0,0,0,0.0,84,107,0
+78567,1973,27300023,1973-10-13 20:05:00,Milwaukee,Bucks,Golden State,Warriors,Regular Season,0,1,9.0,4,0,2,2,0,0,0,0,1,0,1,1,1.0,0,0,0.0,3,2,0.667,85,97,0
+78567,1973,27300025,1973-10-14 19:00:00,Milwaukee,Bucks,Seattle,SuperSonics,Regular Season,0,0,5.0,0,1,1,0,0,0,0,0,0,0,3,0,0.0,0,0,0.0,0,0,0.0,109,100,0
+78567,1973,27300029,1973-10-17 20:00:00,Milwaukee,Bucks,Golden State,Warriors,Regular Season,1,1,11.0,4,0,1,1,0,0,1,0,0,0,5,2,0.4,0,0,0.0,0,0,0.0,109,95,0
+78567,1973,27300034,1973-10-19 19:35:00,Milwaukee,Bucks,Detroit,Pistons,Regular Season,0,1,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,94,96,0
+78567,1973,27303013,1973-10-20 19:00:00,Milwaukee,Bucks,Cleveland,Cavaliers,Regular Season,1,1,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,101,88,0
+78567,1973,27300055,1973-10-24 20:00:00,Milwaukee,Bucks,Buffalo,Braves,Regular Season,1,1,7.0,2,1,0,0,0,0,0,0,0,0,4,1,0.25,0,0,0.0,0,0,0.0,130,113,0
+78567,1973,27300060,1973-10-26 20:05:00,Milwaukee,Bucks,Philadelphia,76ers,Regular Season,0,1,17.0,2,3,2,0,0,0,0,0,1,0,3,0,0.0,0,0,0.0,2,2,1.0,92,98,0
+78567,1973,27300079,1973-10-30 19:35:00,Milwaukee,Bucks,Kansas City-Omaha,Kings,Regular Season,0,1,15.0,8,1,0,0,0,0,0,0,0,0,3,3,1.0,0,0,0.0,2,2,1.0,78,112,0
+78567,1973,27300089,1973-11-02 20:00:00,Milwaukee,Bucks,Cleveland,Cavaliers,Regular Season,0,1,11.0,4,2,0,0,0,0,0,0,2,0,3,2,0.667,0,0,0.0,0,0,0.0,100,118,0
+78567,1973,27300095,1973-11-03 20:00:00,Milwaukee,Bucks,Detroit,Pistons,Regular Season,1,1,1.0,2,0,0,0,0,0,0,0,0,0,2,1,0.5,0,0,0.0,0,0,0.0,123,115,0
+78567,1973,27300106,1973-11-07 20:00:00,Milwaukee,Bucks,Los Angeles,Lakers,Regular Season,1,1,18.0,8,1,1,0,0,0,0,0,3,0,6,4,0.667,0,0,0.0,0,0,0.0,109,92,0
+78567,1973,27300123,1973-11-11 19:35:00,Milwaukee,Bucks,Capital,Bullets,Regular Season,0,1,5.0,4,0,0,0,0,0,0,0,0,0,2,1,0.5,0,0,0.0,2,2,1.0,91,110,0
+78567,1973,27300129,1973-11-13 20:00:00,Milwaukee,Bucks,Portland,Trail Blazers,Regular Season,1,1,4.0,0,0,0,0,0,0,1,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,108,100,0
+78567,1973,27300138,1973-11-16 19:30:00,Milwaukee,Bucks,Boston,Celtics,Regular Season,0,0,4.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,105,90,0
+78567,1973,27303000,1973-11-17 19:30:00,Milwaukee,Bucks,New York,Knicks,Regular Season,0,0,1.0,2,0,0,0,0,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,100,93,0
+78567,1973,27300156,1973-11-20 20:00:00,Milwaukee,Bucks,Golden State,Warriors,Regular Season,1,0,11.0,8,1,0,0,0,0,2,0,1,0,8,4,0.5,0,0,0.0,0,0,0.0,105,108,0
+78567,1973,27300162,1973-11-22 20:00:00,Milwaukee,Bucks,New York,Knicks,Regular Season,1,1,2.0,5,1,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0.0,7,5,0.713,107,91,0
+78567,1973,27300173,1973-11-24 20:05:00,Milwaukee,Bucks,Atlanta,Hawks,Regular Season,0,1,18.0,6,6,1,0,0,0,0,0,2,0,4,3,0.75,0,0,0.0,2,0,0.0,92,112,0
+78567,1973,27300180,1973-11-25 20:00:00,Milwaukee,Bucks,Philadelphia,76ers,Regular Season,1,1,6.0,0,2,0,0,0,0,0,0,1,0,2,0,0.0,0,0,0.0,0,0,0.0,105,96,0
+78567,1973,27300181,1973-11-27 19:30:00,Milwaukee,Bucks,Buffalo,Braves,Regular Season,0,1,3.0,2,0,0,0,0,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,110,115,0
+78567,1973,27300191,1973-11-28 20:00:00,Milwaukee,Bucks,Seattle,SuperSonics,Regular Season,1,1,18.0,10,2,2,0,0,0,0,0,1,0,8,5,0.625,0,0,0.0,0,0,0.0,127,93,0
+78567,1973,27300198,1973-11-30 20:00:00,Milwaukee,Bucks,Boston,Celtics,Regular Season,1,1,18.0,10,3,0,0,0,0,0,0,1,0,6,4,0.667,0,0,0.0,2,2,1.0,117,93,0
+78567,1973,27300213,1973-12-04 20:00:00,Milwaukee,Bucks,Houston,Rockets,Regular Season,1,1,23.0,10,2,2,0,0,0,0,0,1,0,8,4,0.5,0,0,0.0,2,2,1.0,124,109,0
+78567,1973,27300228,1973-12-07 20:00:00,Milwaukee,Bucks,Portland,Trail Blazers,Regular Season,1,1,19.0,10,2,2,2,0,0,0,0,5,0,11,4,0.363,0,0,0.0,2,2,1.0,116,86,0
+78567,1973,27300235,1973-12-08 20:05:00,Milwaukee,Bucks,Philadelphia,76ers,Regular Season,0,1,11.0,6,0,1,0,0,0,0,0,0,0,4,2,0.5,0,0,0.0,2,2,1.0,92,105,0
+78567,1973,27300244,1973-12-11 20:00:00,Milwaukee,Bucks,Seattle,SuperSonics,Regular Season,1,1,23.0,8,2,2,0,0,0,0,0,1,0,8,3,0.375,0,0,0.0,2,2,1.0,130,91,0
+78567,1973,27300262,1973-12-15 13:00:00,Milwaukee,Bucks,Atlanta,Hawks,Regular Season,1,1,9.0,4,2,1,0,0,0,0,0,1,0,2,1,0.5,0,0,0.0,2,2,1.0,116,82,0
+78567,1973,27300267,1973-12-16 19:00:00,Milwaukee,Bucks,Portland,Trail Blazers,Regular Season,0,1,2.0,2,0,0,0,0,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,98,121,0
+78567,1973,27300273,1973-12-18 20:00:00,Milwaukee,Bucks,Los Angeles,Lakers,Regular Season,0,0,3.0,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,109,107,0
+78567,1973,27300293,1973-12-22 20:00:00,Milwaukee,Bucks,Phoenix,Suns,Regular Season,0,0,22.0,4,6,0,0,0,0,0,0,0,0,5,2,0.4,0,0,0.0,0,0,0.0,121,112,0
+78567,1973,27300305,1973-12-26 20:00:00,Milwaukee,Bucks,Cleveland,Cavaliers,Regular Season,1,1,30.0,8,6,0,0,0,0,0,0,3,0,9,4,0.444,0,0,0.0,0,0,0.0,123,110,0
+78567,1973,27300309,1973-12-27 20:00:00,Milwaukee,Bucks,Philadelphia,76ers,Regular Season,1,1,33.0,14,7,0,0,0,0,0,0,3,0,10,6,0.599,0,0,0.0,2,2,1.0,129,107,0
+78567,1973,27300312,1973-12-28 20:00:00,Milwaukee,Bucks,Houston,Rockets,Regular Season,0,1,18.0,10,4,1,0,0,0,0,0,4,0,10,4,0.4,0,0,0.0,2,2,1.0,111,127,0
+78567,1973,27300326,1973-12-30 20:00:00,Milwaukee,Bucks,Detroit,Pistons,Regular Season,1,0,25.0,8,3,5,0,0,0,0,0,0,0,7,3,0.428,0,0,0.0,2,2,1.0,91,98,0
+78567,1973,27300337,1974-01-02 19:30:00,Milwaukee,Bucks,Detroit,Pistons,Regular Season,0,0,14.0,0,0,0,0,0,0,0,0,1,0,4,0,0.0,0,0,0.0,0,0,0.0,106,92,0
+78567,1973,27300340,1974-01-03 20:00:00,Milwaukee,Bucks,Kansas City-Omaha,Kings,Regular Season,1,1,6.0,0,0,1,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,120,105,0
+78567,1973,27300352,1974-01-05 20:00:00,Milwaukee,Bucks,Phoenix,Suns,Regular Season,1,1,32.0,21,6,5,0,0,0,0,0,0,0,13,10,0.769,0,0,0.0,1,1,1.0,118,109,0
+78567,1973,27300355,1974-01-06 19:35:00,Milwaukee,Bucks,Capital,Bullets,Regular Season,0,0,48.0,10,7,1,0,0,0,0,0,4,0,11,5,0.455,0,0,0.0,0,0,0.0,90,88,0
+78567,1973,27300376,1974-01-11 20:00:00,Milwaukee,Bucks,Capital,Bullets,Regular Season,1,1,30.0,11,6,3,0,0,0,0,0,3,0,9,4,0.444,0,0,0.0,3,3,1.0,115,113,0
+78567,1973,27300381,1974-01-12 19:30:00,Milwaukee,Bucks,Chicago,Bulls,Regular Season,0,1,19.0,6,4,1,0,0,0,0,0,0,0,5,3,0.599,0,0,0.0,0,0,0.0,82,101,0
+78567,1973,27300387,1974-01-13 19:35:00,Milwaukee,Bucks,Chicago,Bulls,Regular Season,1,1,28.0,20,2,0,0,0,1,0,0,4,0,10,9,0.9,0,0,0.0,2,2,1.0,124,94,0
+78567,1973,27300402,1974-01-19 20:00:00,Milwaukee,Bucks,Portland,Trail Blazers,Regular Season,1,1,27.0,12,3,1,1,0,0,3,0,2,0,6,3,0.5,0,0,0.0,6,6,1.0,121,106,0
+78567,1973,27300409,1974-01-20 20:00:00,Milwaukee,Bucks,Los Angeles,Lakers,Regular Season,1,1,29.0,10,2,2,0,0,0,0,0,5,0,9,4,0.444,0,0,0.0,2,2,1.0,94,90,0
+78567,1973,27300418,1974-01-23 20:00:00,Milwaukee,Bucks,Buffalo,Braves,Regular Season,1,1,34.0,14,3,2,0,0,0,0,0,4,0,12,7,0.582,0,0,0.0,0,0,0.0,114,88,0
+78567,1973,27300426,1974-01-25 20:00:00,Milwaukee,Bucks,Phoenix,Suns,Regular Season,0,1,28.0,9,0,1,0,0,0,0,0,3,0,7,4,0.57,0,0,0.0,2,1,0.5,108,112,0
+78567,1973,27300436,1974-01-27 20:00:00,Milwaukee,Bucks,Los Angeles,Lakers,Regular Season,0,0,28.0,6,6,1,0,0,0,0,0,3,0,13,3,0.231,0,0,0.0,0,0,0.0,99,92,0
+78567,1973,27300442,1974-01-29 20:00:00,Milwaukee,Bucks,Portland,Trail Blazers,Regular Season,0,1,14.0,2,3,2,1,1,0,1,0,1,0,3,1,0.333,0,0,0.0,0,0,0.0,106,126,0
+78567,1973,27300452,1974-02-01 20:00:00,Milwaukee,Bucks,Seattle,SuperSonics,Regular Season,0,0,16.0,7,2,0,0,0,0,0,0,1,0,9,3,0.333,0,0,0.0,2,1,0.5,110,85,0
+78567,1973,27300461,1974-02-02 20:00:00,Milwaukee,Bucks,Golden State,Warriors,Regular Season,0,0,16.0,10,3,1,1,0,0,0,0,1,0,8,4,0.5,0,0,0.0,2,2,1.0,120,91,0
+78567,1973,27300470,1974-02-05 20:00:00,Milwaukee,Bucks,Cleveland,Cavaliers,Regular Season,0,1,11.0,4,1,0,0,0,0,0,0,1,0,5,2,0.4,0,0,0.0,0,0,0.0,87,102,0
+78567,1973,27300477,1974-02-06 20:00:00,Milwaukee,Bucks,Boston,Celtics,Regular Season,1,0,11.0,2,3,0,0,0,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,104,105,0
+78567,1973,27300486,1974-02-08 20:00:00,Milwaukee,Bucks,Capital,Bullets,Regular Season,1,1,15.0,6,4,1,0,0,0,0,0,2,0,5,2,0.4,0,0,0.0,2,2,1.0,105,96,0
+78567,1973,27300502,1974-02-12 20:00:00,Milwaukee,Bucks,Chicago,Bulls,Regular Season,0,0,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,93,81,0
+78567,1973,27300517,1974-02-15 20:00:00,Milwaukee,Bucks,Chicago,Bulls,Regular Season,1,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,90,92,0
+78567,1973,27300533,1974-02-19 20:00:00,Milwaukee,Bucks,Buffalo,Braves,Regular Season,0,0,10.0,8,1,2,0,0,0,0,0,1,0,6,4,0.667,0,0,0.0,0,0,0.0,145,109,0
+78567,1973,27300546,1974-02-22 20:00:00,Milwaukee,Bucks,Houston,Rockets,Regular Season,0,1,2.0,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,113,122,0
+78567,1973,27300572,1974-02-27 20:00:00,Milwaukee,Bucks,Los Angeles,Lakers,Regular Season,1,0,21.0,10,3,0,0,0,0,0,0,6,0,12,5,0.416,0,0,0.0,0,0,0.0,108,110,0
+78567,1973,27300574,1974-02-28 20:00:00,Milwaukee,Bucks,Detroit,Pistons,Regular Season,1,1,14.0,4,2,2,0,0,0,0,0,3,0,4,2,0.5,0,0,0.0,0,0,0.0,113,90,0
+78567,1973,27300577,1974-03-01 20:00:00,Milwaukee,Bucks,Atlanta,Hawks,Regular Season,0,0,23.0,16,4,3,0,0,0,1,0,3,0,18,7,0.389,0,0,0.0,3,2,0.667,105,89,0
+78567,1973,27300587,1974-03-02 20:00:00,Milwaukee,Bucks,Seattle,SuperSonics,Regular Season,1,1,10.0,5,2,0,0,0,0,0,0,0,0,5,2,0.4,0,0,0.0,1,1,1.0,116,99,0
+78567,1973,27300591,1974-03-03 20:00:00,Milwaukee,Bucks,Houston,Rockets,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,112,106,0
+78567,1973,27300606,1974-03-07 20:00:00,Milwaukee,Bucks,Golden State,Warriors,Regular Season,1,0,23.0,6,3,1,0,1,0,0,0,1,0,6,3,0.5,0,0,0.0,0,0,0.0,95,97,0
+78567,1973,27300612,1974-03-09 20:00:00,Milwaukee,Bucks,New York,Knicks,Regular Season,0,0,1.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,88,75,0
+78567,1973,27300623,1974-03-11 20:00:00,Milwaukee,Bucks,Phoenix,Suns,Regular Season,1,1,4.0,2,0,0,0,0,0,0,0,0,0,3,1,0.333,0,0,0.0,0,0,0.0,105,92,0
+78567,1973,27300639,1974-03-15 20:00:00,Milwaukee,Bucks,Detroit,Pistons,Regular Season,0,0,27.0,10,6,2,0,0,0,0,0,3,0,9,4,0.444,0,0,0.0,2,2,1.0,93,89,0
+78567,1973,27300649,1974-03-17 20:00:00,Milwaukee,Bucks,Chicago,Bulls,Regular Season,0,1,23.0,10,0,1,0,0,0,0,0,5,0,7,5,0.713,0,0,0.0,0,0,0.0,82,107,0
+78567,1973,27300658,1974-03-19 20:00:00,Milwaukee,Bucks,Golden State,Warriors,Regular Season,0,1,22.0,12,2,3,1,2,0,2,0,1,0,10,5,0.5,0,0,0.0,2,2,1.0,100,111,0
+78567,1973,27300666,1974-03-20 20:00:00,Milwaukee,Bucks,Los Angeles,Lakers,Regular Season,0,0,34.0,16,1,0,0,0,0,1,0,3,0,11,8,0.726,0,0,0.0,0,0,0.0,120,114,0
+78567,1973,27300674,1974-03-22 20:00:00,Milwaukee,Bucks,Seattle,SuperSonics,Regular Season,0,1,36.0,6,7,2,0,0,0,0,0,2,0,13,3,0.231,0,0,0.0,0,0,0.0,101,106,0
+78567,1973,27300685,1974-03-24 20:00:00,Milwaukee,Bucks,Portland,Trail Blazers,Regular Season,0,1,22.0,8,4,2,2,0,0,0,0,2,0,8,4,0.5,0,0,0.0,0,0,0.0,110,120,0
+78567,1973,27300691,1974-03-26 20:00:00,Milwaukee,Bucks,Kansas City-Omaha,Kings,Regular Season,1,1,27.0,12,6,1,0,0,0,0,0,4,0,9,6,0.667,0,0,0.0,0,0,0.0,118,98,0
+78567,1973,47300231,1974-03-29 19:00:00,Milwaukee,Bucks,Los Angeles,Lakers,Playoffs,1,1,27.0,10,4,2,0,0,0,0,0,2,0,9,4,0.444,0,0,0.0,3,2,0.667,99,95,0
+78567,1973,47300232,1974-03-31 19:00:00,Milwaukee,Bucks,Los Angeles,Lakers,Playoffs,1,1,28.0,11,8,3,0,0,1,3,0,6,0,8,5,0.625,0,0,0.0,2,1,0.5,109,90,0
+78567,1973,47300233,1974-04-02 19:00:00,Milwaukee,Bucks,Los Angeles,Lakers,Playoffs,0,0,27.0,8,2,0,0,0,0,2,0,4,0,8,4,0.5,0,0,0.0,0,0,0.0,98,96,0
+78567,1973,47300234,1974-04-04 19:00:00,Milwaukee,Bucks,Los Angeles,Lakers,Playoffs,0,1,23.0,12,6,1,0,0,0,0,0,5,0,9,5,0.556,0,0,0.0,2,2,1.0,90,112,0
+78567,1973,47300235,1974-04-07 19:00:00,Milwaukee,Bucks,Los Angeles,Lakers,Playoffs,1,1,33.0,22,1,1,0,0,1,0,0,5,0,14,10,0.713,0,0,0.0,2,2,1.0,114,92,0
+78567,1973,47300321,1974-04-16 19:00:00,Milwaukee,Bucks,Chicago,Bulls,Playoffs,1,1,41.0,12,7,3,0,0,0,0,0,4,0,14,6,0.428,0,0,0.0,1,0,0.0,101,85,0
+78567,1973,47300322,1974-04-18 19:00:00,Milwaukee,Bucks,Chicago,Bulls,Playoffs,0,1,40.0,17,6,2,0,0,0,0,0,4,0,18,7,0.389,0,0,0.0,4,3,0.75,111,113,0
+78567,1973,47300323,1974-04-20 19:00:00,Milwaukee,Bucks,Chicago,Bulls,Playoffs,1,1,22.0,8,2,0,0,0,0,0,0,2,0,8,3,0.375,0,0,0.0,2,2,1.0,113,90,0
+78567,1973,47300324,1974-04-22 19:00:00,Milwaukee,Bucks,Chicago,Bulls,Playoffs,0,1,24.0,12,3,6,0,0,0,0,0,2,0,6,5,0.832,0,0,0.0,2,2,1.0,99,115,0
+78567,1973,47300411,1974-04-28 19:00:00,Milwaukee,Bucks,Boston,Celtics,Playoffs,1,0,27.0,6,2,3,3,0,0,0,0,2,0,7,3,0.428,0,0,0.0,0,0,0.0,83,98,0
+78567,1973,47300402,1974-04-30 19:00:00,Milwaukee,Bucks,Boston,Celtics,Playoffs,1,1,36.0,6,3,5,3,2,0,0,0,3,0,10,2,0.2,0,0,0.0,2,2,1.0,105,96,0
+78567,1973,47300413,1974-05-03 19:00:00,Milwaukee,Bucks,Boston,Celtics,Playoffs,0,0,13.0,0,3,0,0,0,0,0,0,0,0,5,0,0.0,0,0,0.0,0,0,0.0,95,83,0
+78567,1973,47300404,1974-05-05 19:00:00,Milwaukee,Bucks,Boston,Celtics,Playoffs,0,1,3.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,89,97,0
+78567,1973,47301405,1974-05-10 19:00:00,Milwaukee,Bucks,Boston,Celtics,Playoffs,0,1,8.0,2,0,1,1,0,0,0,0,1,0,3,1,0.333,0,0,0.0,0,0,0.0,101,102,0
+78567,1973,47300407,1974-05-12 19:00:00,Milwaukee,Bucks,Boston,Celtics,Playoffs,1,0,2.0,4,0,0,0,0,0,0,0,0,0,3,2,0.667,0,0,0.0,0,0,0.0,87,102,0
+78567,1974,27400017,1974-10-19 19:00:00,Milwaukee,Bucks,Chicago,Bulls,Regular Season,0,0,18.0,2,4,2,0,0,0,0,0,1,0,6,1,0.167,0,0,0.0,0,0,0.0,87,70,0
+78567,1974,27400043,1974-10-26 19:00:00,Milwaukee,Bucks,Washington,Bullets,Regular Season,0,0,16.0,8,1,1,0,0,0,1,0,1,0,4,4,1.0,0,0,0.0,0,0,0.0,101,95,0
+78567,1974,27400065,1974-11-01 19:00:00,Milwaukee,Bucks,Los Angeles,Lakers,Regular Season,0,0,18.0,6,0,1,0,0,0,1,0,4,0,6,1,0.167,0,0,0.0,4,4,1.0,109,86,0
+78567,1974,27400071,1974-11-02 19:00:00,Milwaukee,Bucks,Golden State,Warriors,Regular Season,0,0,12.0,6,1,1,1,0,0,0,0,0,0,6,3,0.5,0,0,0.0,0,0,0.0,99,90,0
+78567,1974,27400075,1974-11-03 19:00:00,Milwaukee,Bucks,Seattle,SuperSonics,Regular Season,0,0,9.0,2,2,2,0,0,0,1,0,0,0,2,1,0.5,0,0,0.0,0,0,0.0,101,89,0
+78567,1974,27400106,1974-11-12 19:00:00,Milwaukee,Bucks,Boston,Celtics,Regular Season,1,0,4.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,83,91,0
+78567,1974,27400175,1974-11-29 19:00:00,Milwaukee,Bucks,Kansas City-Omaha,Kings,Regular Season,1,1,5.0,0,1,0,0,0,0,0,0,1,0,3,0,0.0,0,0,0.0,0,0,0.0,102,99,0
+78567,1974,27400182,1974-11-30 19:00:00,Milwaukee,Bucks,Chicago,Bulls,Regular Season,1,1,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,101,99,0
+78567,1974,27400232,1974-12-13 19:00:00,Milwaukee,Bucks,Philadelphia,76ers,Regular Season,0,0,13.0,6,0,1,0,0,0,0,0,4,0,6,3,0.5,0,0,0.0,0,0,0.0,93,89,0
+78567,1974,27400247,1974-12-17 19:00:00,Milwaukee,Bucks,Portland,Trail Blazers,Regular Season,0,0,15.0,2,5,0,0,0,0,0,0,2,0,0,0,0.0,0,0,0.0,2,2,1.0,119,103,0
+78567,1974,27400293,1974-12-29 19:00:00,Milwaukee,Bucks,New York,Knicks,Regular Season,1,1,6.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,115,89,0
+78567,1974,27400320,1975-01-05 19:00:00,Milwaukee,Bucks,Chicago,Bulls,Regular Season,1,1,39.0,9,8,6,0,0,2,0,0,6,0,11,4,0.363,0,0,0.0,1,1,1.0,96,95,0
+78567,1974,27400325,1975-01-07 19:00:00,Milwaukee,Bucks,Kansas City-Omaha,Kings,Regular Season,0,0,23.0,4,1,0,0,0,0,2,0,5,0,4,2,0.5,0,0,0.0,0,0,0.0,108,99,0
+78567,1974,27400333,1975-01-08 19:00:00,Milwaukee,Bucks,Detroit,Pistons,Regular Season,0,1,5.0,0,2,0,0,0,0,0,0,1,0,2,0,0.0,0,0,0.0,0,0,0.0,92,102,0
+78567,1974,27400344,1975-01-10 19:00:00,Milwaukee,Bucks,Detroit,Pistons,Regular Season,1,0,20.0,8,2,1,0,0,0,1,0,1,0,9,4,0.444,0,0,0.0,0,0,0.0,81,89,0
+78567,1974,27400349,1975-01-11 19:00:00,Milwaukee,Bucks,Cleveland,Cavaliers,Regular Season,0,1,3.0,2,0,0,0,0,0,0,0,0,0,2,1,0.5,0,0,0.0,0,0,0.0,81,91,0
+78567,1974,27400352,1975-01-12 19:00:00,Milwaukee,Bucks,Philadelphia,76ers,Regular Season,1,1,7.0,2,0,2,0,0,0,1,0,0,0,3,1,0.333,0,0,0.0,0,0,0.0,99,88,0
+78567,1974,27400354,1975-01-16 19:00:00,Milwaukee,Bucks,Golden State,Warriors,Regular Season,1,1,2.0,2,0,0,0,0,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,119,100,0
+78567,1974,27400371,1975-01-19 19:00:00,Milwaukee,Bucks,Portland,Trail Blazers,Regular Season,1,1,2.0,0,0,1,1,0,0,0,0,0,0,2,0,0.0,0,0,0.0,0,0,0.0,122,108,0
+78567,1974,27400397,1975-01-25 19:00:00,Milwaukee,Bucks,Atlanta,Hawks,Regular Season,0,0,25.0,12,3,6,0,0,0,0,0,6,0,11,5,0.455,0,0,0.0,4,2,0.5,117,101,0
+78567,1974,27400406,1975-01-27 19:00:00,Milwaukee,Bucks,New Orleans,Jazz,Regular Season,0,1,36.0,15,8,2,0,0,0,2,0,2,0,10,4,0.4,0,0,0.0,8,7,0.875,115,117,0
+78567,1974,27400412,1975-01-29 19:00:00,Milwaukee,Bucks,Kansas City-Omaha,Kings,Regular Season,0,0,23.0,4,3,1,0,0,0,0,0,5,0,3,2,0.667,0,0,0.0,0,0,0.0,106,102,0
+78567,1974,27400445,1975-02-05 19:00:00,Milwaukee,Bucks,Boston,Celtics,Regular Season,1,0,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,90,92,0
+78567,1974,27400452,1975-02-07 19:00:00,Milwaukee,Bucks,New Orleans,Jazz,Regular Season,1,1,2.0,0,0,0,0,0,0,0,0,2,0,1,0,0.0,0,0,0.0,0,0,0.0,119,98,0
+78567,1974,27400466,1975-02-10 19:00:00,Milwaukee,Bucks,Detroit,Pistons,Regular Season,1,1,2.0,2,0,0,0,0,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,130,109,0
+78567,1974,27400471,1975-02-12 19:00:00,Milwaukee,Bucks,Washington,Bullets,Regular Season,0,0,11.0,2,1,0,0,0,0,0,0,1,0,3,1,0.333,0,0,0.0,0,0,0.0,112,108,0
+78567,1974,27403027,1975-02-18 19:00:00,Milwaukee,Bucks,Cleveland,Cavaliers,Regular Season,0,1,10.0,6,0,0,0,0,0,1,0,3,0,3,1,0.333,0,0,0.0,4,4,1.0,93,104,0
+78567,1974,27400512,1975-02-21 19:00:00,Milwaukee,Bucks,Chicago,Bulls,Regular Season,0,0,7.0,2,0,0,0,0,0,1,0,0,0,2,1,0.5,0,0,0.0,0,0,0.0,96,85,0
+78567,1974,27400520,1975-02-23 19:00:00,Milwaukee,Bucks,Phoenix,Suns,Regular Season,1,0,4.0,2,1,1,1,0,0,0,0,1,0,1,1,1.0,0,0,0.0,0,0,0.0,97,106,0
+78567,1974,27400525,1975-02-25 19:00:00,Milwaukee,Bucks,Kansas City-Omaha,Kings,Regular Season,0,0,28.0,4,2,1,0,0,0,0,0,4,0,7,2,0.285,0,0,0.0,0,0,0.0,93,90,0
+78567,1974,27400532,1975-02-26 19:00:00,Milwaukee,Bucks,Detroit,Pistons,Regular Season,0,0,19.0,6,1,1,0,0,0,1,0,2,0,3,3,1.0,0,0,0.0,0,0,0.0,104,84,0
+78567,1974,27400561,1975-03-04 19:00:00,Milwaukee,Bucks,Detroit,Pistons,Regular Season,1,1,4.0,1,2,0,0,0,0,0,0,1,0,1,0,0.0,0,0,0.0,2,1,0.5,101,83,0
+78567,1974,27400567,1975-03-06 19:00:00,Milwaukee,Bucks,Seattle,SuperSonics,Regular Season,1,1,6.0,2,2,0,0,0,0,0,0,1,0,3,1,0.333,0,0,0.0,0,0,0.0,102,92,0
+78567,1974,27400577,1975-03-08 19:00:00,Milwaukee,Bucks,Buffalo,Braves,Regular Season,0,0,5.0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,110,95,0
+78567,1974,27400590,1975-03-11 19:00:00,Milwaukee,Bucks,Golden State,Warriors,Regular Season,1,0,7.0,2,0,0,0,0,0,0,0,0,0,4,1,0.25,0,0,0.0,0,0,0.0,90,107,0
+78567,1974,27400595,1975-03-13 19:00:00,Milwaukee,Bucks,Atlanta,Hawks,Regular Season,0,1,6.0,2,1,0,0,0,0,0,0,1,0,2,1,0.5,0,0,0.0,0,0,0.0,104,120,0
+78567,1974,27400599,1975-03-14 19:00:00,Milwaukee,Bucks,Los Angeles,Lakers,Regular Season,1,0,15.0,2,2,1,0,0,0,0,0,2,0,5,1,0.2,0,0,0.0,0,0,0.0,104,105,0
+78567,1974,27400613,1975-03-16 19:00:00,Milwaukee,Bucks,Chicago,Bulls,Regular Season,0,1,18.0,2,0,2,0,0,0,0,0,2,0,6,1,0.167,0,0,0.0,0,0,0.0,90,103,0
+78567,1974,27400621,1975-03-18 19:00:00,Milwaukee,Bucks,Portland,Trail Blazers,Regular Season,0,0,18.0,4,4,0,0,0,0,1,0,1,0,5,1,0.2,0,0,0.0,2,2,1.0,95,89,0
+78567,1974,27400623,1975-03-19 19:00:00,Milwaukee,Bucks,Seattle,SuperSonics,Regular Season,0,0,6.0,2,1,0,0,0,0,0,0,0,0,2,1,0.5,0,0,0.0,0,0,0.0,101,100,0
+78567,1974,27400635,1975-03-22 19:00:00,Milwaukee,Bucks,Golden State,Warriors,Regular Season,0,0,23.0,15,7,7,3,4,0,1,0,5,0,9,7,0.778,0,0,0.0,2,1,0.5,133,117,0
+78567,1974,27400643,1975-03-23 19:00:00,Milwaukee,Bucks,Los Angeles,Lakers,Regular Season,0,0,12.0,2,2,1,0,0,0,1,0,4,0,4,1,0.25,0,0,0.0,0,0,0.0,116,97,0
+78567,1974,27400661,1975-03-28 19:00:00,Milwaukee,Bucks,Portland,Trail Blazers,Regular Season,1,1,4.0,0,0,1,1,0,0,0,0,0,0,4,0,0.0,0,0,0.0,0,0,0.0,128,105,0
+78567,1974,27400691,1975-04-04 19:00:00,Milwaukee,Bucks,New York,Knicks,Regular Season,1,1,2.0,0,1,1,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,109,101,0
+78567,1974,27400702,1975-04-06 19:00:00,Milwaukee,Bucks,Chicago,Bulls,Regular Season,1,0,8.0,0,2,0,0,0,0,0,0,1,0,3,0,0.0,0,0,0.0,0,0,0.0,100,112,0
+78567,1975,27500003,1975-10-23 19:30:00,Los Angeles,Lakers,New York,Knicks,Regular Season,0,1,19.0,6,3,2,0,0,0,0,0,3,0,4,3,0.75,0,0,0.0,0,0,0.0,101,104,0
+78567,1975,27500016,1975-10-27 20:05:00,Los Angeles,Lakers,Philadelphia,76ers,Regular Season,0,0,32.0,2,2,4,0,0,0,0,0,0,0,9,1,0.111,0,0,0.0,0,0,0.0,117,104,0
+78567,1975,27500019,1975-10-28 20:00:00,Los Angeles,Lakers,Milwaukee,Bucks,Regular Season,0,1,40.0,11,6,3,0,0,0,0,0,2,0,7,5,0.713,0,0,0.0,2,1,0.5,92,99,0
+78567,1975,27500023,1975-10-29 19:35:00,Los Angeles,Lakers,Detroit,Pistons,Regular Season,0,0,28.0,12,2,2,0,0,0,0,0,4,0,9,4,0.444,0,0,0.0,4,4,1.0,112,99,0
+78567,1975,27500031,1975-10-31 20:00:00,Los Angeles,Lakers,Seattle,SuperSonics,Regular Season,1,1,12.0,2,5,4,0,0,0,0,0,3,0,3,0,0.0,0,0,0.0,3,2,0.667,120,104,0
+78567,1975,27500064,1975-11-08 20:00:00,Los Angeles,Lakers,Golden State,Warriors,Regular Season,0,0,14.0,5,1,1,1,0,0,0,0,1,0,4,1,0.25,0,0,0.0,4,3,0.75,114,106,0
+78567,1975,27500068,1975-11-09 19:00:00,Los Angeles,Lakers,Kansas City,Kings,Regular Season,1,1,8.0,2,2,3,3,0,0,0,0,0,0,4,1,0.25,0,0,0.0,0,0,0.0,125,112,0
+78567,1975,27500080,1975-11-12 20:00:00,Los Angeles,Lakers,New Orleans,Jazz,Regular Season,1,1,1.0,2,0,0,0,0,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,116,100,0
+78567,1975,27500098,1975-11-16 19:00:00,Los Angeles,Lakers,Chicago,Bulls,Regular Season,1,1,4.0,2,0,0,0,0,0,0,0,2,0,2,1,0.5,0,0,0.0,0,0,0.0,110,93,0
+78567,1975,27500627,1976-03-20 19:30:00,Los Angeles,Lakers,Phoenix,Suns,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,106,93,0

@@ -1,0 +1,680 @@
+personId,season,gameId,gameDateTimeEst,playerteamCity,playerteamName,opponentteamCity,opponentteamName,gameType,home,win,numMinutes,points,assists,reboundsTotal,reboundsDefensive,reboundsOffensive,blocks,steals,turnovers,foulsPersonal,plusMinusPoints,fieldGoalsAttempted,fieldGoalsMade,fieldGoalsPercentage,threePointersAttempted,threePointersMade,threePointersPercentage,freeThrowsAttempted,freeThrowsMade,freeThrowsPercentage,homeScore,awayScore,attendance
+76402,1971,27100007,1971-10-15 19:00:00,Los Angeles,Lakers,Detroit,Pistons,Regular Season,0,1,7.0,6,2,4,0,0,0,0,0,2,0,4,2,0.5,0,0,0.0,2,2,1.0,103,132,0
+76402,1971,27100026,1971-10-19 19:00:00,Los Angeles,Lakers,Buffalo,Braves,Regular Season,0,1,5.0,4,1,2,0,0,0,0,0,0,0,3,1,0.333,0,0,0.0,3,2,0.667,106,123,0
+76402,1971,27100064,1971-10-29 19:00:00,Los Angeles,Lakers,Cincinnati,Royals,Regular Season,1,1,27.0,10,4,3,0,0,0,0,0,4,0,9,3,0.333,0,0,0.0,7,4,0.57,119,107,0
+76402,1971,27100072,1971-10-30 19:00:00,Los Angeles,Lakers,Seattle,SuperSonics,Regular Season,0,0,10.0,0,2,1,0,0,0,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,115,106,0
+76402,1971,27100702,1971-10-31 19:00:00,Los Angeles,Lakers,Golden State,Warriors,Regular Season,1,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,105,109,0
+76402,1971,27100705,1971-11-06 19:00:00,Los Angeles,Lakers,Golden State,Warriors,Regular Season,0,1,4.0,0,0,0,0,0,0,0,0,0,0,5,0,0.0,0,0,0.0,0,0,0.0,89,105,0
+76402,1971,27100102,1971-11-09 19:00:00,Los Angeles,Lakers,Chicago,Bulls,Regular Season,0,1,2.0,0,1,1,0,0,0,0,0,0,0,2,0,0.0,0,0,0.0,0,0,0.0,109,122,0
+76402,1971,27100108,1971-11-10 19:00:00,Los Angeles,Lakers,Philadelphia,76ers,Regular Season,0,1,9.0,2,2,1,0,0,0,0,0,1,0,2,1,0.5,0,0,0.0,0,0,0.0,103,143,0
+76402,1971,27100125,1971-11-13 19:00:00,Los Angeles,Lakers,Portland,Trail Blazers,Regular Season,0,1,10.0,0,3,0,0,0,0,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,108,130,0
+76402,1971,27100126,1971-11-14 19:00:00,Los Angeles,Lakers,Boston,Celtics,Regular Season,1,1,3.0,0,0,0,0,0,0,0,0,0,0,2,0,0.0,0,0,0.0,0,0,0.0,128,115,0
+76402,1971,27100133,1971-11-16 19:00:00,Los Angeles,Lakers,Cleveland,Cavaliers,Regular Season,1,1,5.0,2,1,1,0,0,0,0,0,0,0,2,1,0.5,0,0,0.0,0,0,0.0,108,90,0
+76402,1971,27100716,1971-11-25 19:00:00,Los Angeles,Lakers,Seattle,SuperSonics,Regular Season,0,1,8.0,6,3,0,0,0,0,0,0,2,0,3,2,0.667,0,0,0.0,3,2,0.667,115,139,0
+76402,1971,27100176,1971-11-26 19:00:00,Los Angeles,Lakers,Detroit,Pistons,Regular Season,1,1,5.0,4,1,1,0,0,0,0,0,1,0,5,1,0.2,0,0,0.0,2,2,1.0,132,113,0
+76402,1971,27100185,1971-11-28 19:00:00,Los Angeles,Lakers,Seattle,SuperSonics,Regular Season,1,1,7.0,1,1,1,0,0,0,0,0,3,0,2,0,0.0,0,0,0.0,2,1,0.5,138,121,0
+76402,1971,27100215,1971-12-05 19:00:00,Los Angeles,Lakers,Portland,Trail Blazers,Regular Season,1,1,3.0,6,0,0,0,0,0,0,0,0,0,2,2,1.0,0,0,0.0,2,2,1.0,123,107,0
+76402,1971,27100728,1971-12-17 19:00:00,Los Angeles,Lakers,Golden State,Warriors,Regular Season,1,1,5.0,5,0,3,0,0,0,0,0,0,0,3,2,0.667,0,0,0.0,2,1,0.5,129,99,0
+76402,1971,27100272,1971-12-18 19:00:00,Los Angeles,Lakers,Phoenix,Suns,Regular Season,0,1,4.0,5,0,0,0,0,0,0,0,0,0,4,2,0.5,0,0,0.0,1,1,1.0,106,132,0
+76402,1971,27100277,1971-12-19 19:00:00,Los Angeles,Lakers,Philadelphia,76ers,Regular Season,1,1,3.0,5,1,0,0,0,0,0,0,0,0,3,2,0.667,0,0,0.0,1,1,1.0,154,132,0
+76402,1971,27100303,1971-12-26 19:00:00,Los Angeles,Lakers,Houston,Rockets,Regular Season,1,1,3.0,4,0,1,0,0,0,0,0,0,0,2,2,1.0,0,0,0.0,1,0,0.0,137,115,0
+76402,1971,27100313,1971-12-28 19:00:00,Los Angeles,Lakers,Buffalo,Braves,Regular Season,1,1,3.0,0,2,0,0,0,0,0,0,0,0,3,0,0.0,0,0,0.0,0,0,0.0,105,87,0
+76402,1971,27100323,1971-12-30 19:00:00,Los Angeles,Lakers,Seattle,SuperSonics,Regular Season,0,1,3.0,2,0,0,0,0,0,0,0,1,0,1,1,1.0,0,0,0.0,0,0,0.0,106,122,0
+76402,1971,27100349,1972-01-07 19:00:00,Los Angeles,Lakers,Atlanta,Hawks,Regular Season,0,1,9.0,4,3,3,0,0,0,0,0,0,0,4,2,0.5,0,0,0.0,0,0,0.0,90,134,0
+76402,1971,27100368,1972-01-11 19:00:00,Los Angeles,Lakers,Detroit,Pistons,Regular Season,0,1,3.0,6,1,0,0,0,0,0,0,0,0,3,3,1.0,0,0,0.0,0,0,0.0,103,123,0
+76402,1971,27100383,1972-01-14 19:00:00,Los Angeles,Lakers,Philadelphia,76ers,Regular Season,0,1,2.0,0,2,1,0,0,0,0,0,0,0,2,0,0.0,0,0,0.0,0,0,0.0,121,135,0
+76402,1971,27100421,1972-01-25 19:00:00,Los Angeles,Lakers,Phoenix,Suns,Regular Season,1,1,3.0,0,0,1,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,129,119,0
+76402,1971,27100436,1972-01-28 19:00:00,Los Angeles,Lakers,Houston,Rockets,Regular Season,1,1,4.0,2,0,0,0,0,0,0,0,0,0,3,1,0.333,0,0,0.0,0,0,0.0,118,105,0
+76402,1971,27100480,1972-02-06 19:00:00,Los Angeles,Lakers,Baltimore,Bullets,Regular Season,1,1,5.0,4,0,1,0,0,0,0,0,0,0,1,1,1.0,0,0,0.0,2,2,1.0,151,127,0
+76402,1971,27100499,1972-02-11 19:00:00,Los Angeles,Lakers,Boston,Celtics,Regular Season,0,0,2.0,2,0,0,0,0,0,0,0,0,0,3,1,0.333,0,0,0.0,0,0,0.0,121,108,0
+76402,1971,27100544,1972-02-19 19:00:00,Los Angeles,Lakers,Portland,Trail Blazers,Regular Season,0,1,5.0,4,1,1,0,0,0,0,0,0,0,3,1,0.333,0,0,0.0,2,2,1.0,94,115,0
+76402,1971,27100548,1972-02-20 19:00:00,Los Angeles,Lakers,Boston,Celtics,Regular Season,1,1,4.0,4,1,0,0,0,0,0,0,1,0,3,1,0.333,0,0,0.0,2,2,1.0,132,113,0
+76402,1971,27100567,1972-02-25 19:00:00,Los Angeles,Lakers,Cincinnati,Royals,Regular Season,1,1,5.0,2,1,1,0,0,0,0,0,1,0,4,1,0.25,0,0,0.0,0,0,0.0,109,88,0
+76402,1971,27100594,1972-03-03 19:00:00,Los Angeles,Lakers,Atlanta,Hawks,Regular Season,1,1,2.0,2,0,0,0,0,0,0,0,1,0,1,1,1.0,0,0,0.0,0,0,0.0,114,104,0
+76402,1971,27100606,1972-03-05 19:00:00,Los Angeles,Lakers,Baltimore,Bullets,Regular Season,1,0,2.0,2,0,0,0,0,0,0,0,1,0,1,0,0.0,0,0,0.0,2,2,1.0,94,108,0
+76402,1971,27100613,1972-03-07 19:00:00,Los Angeles,Lakers,Philadelphia,76ers,Regular Season,1,1,3.0,0,0,0,0,0,0,0,0,0,0,2,0,0.0,0,0,0.0,0,0,0.0,114,97,0
+76402,1971,27100622,1972-03-10 19:00:00,Los Angeles,Lakers,Cleveland,Cavaliers,Regular Season,1,1,3.0,0,0,1,0,0,0,0,0,0,0,2,0,0.0,0,0,0.0,0,0,0.0,132,98,0
+76402,1971,27100630,1972-03-12 19:00:00,Los Angeles,Lakers,Buffalo,Braves,Regular Season,1,1,9.0,4,0,5,0,0,0,0,0,1,0,5,1,0.2,0,0,0.0,2,2,1.0,141,102,0
+76402,1971,27100783,1972-03-19 19:00:00,Los Angeles,Lakers,Golden State,Warriors,Regular Season,1,1,7.0,0,0,3,0,0,0,0,0,0,0,3,0,0.0,0,0,0.0,0,0,0.0,162,99,0
+76402,1971,27100693,1972-03-26 19:00:00,Los Angeles,Lakers,Seattle,SuperSonics,Regular Season,1,1,6.0,0,2,1,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,124,98,0
+76402,1971,47100311,1972-04-09 19:00:00,Los Angeles,Lakers,Milwaukee,Bucks,Playoffs,1,0,3.0,0,1,1,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,72,93,0
+76402,1971,47100312,1972-04-12 19:00:00,Los Angeles,Lakers,Milwaukee,Bucks,Playoffs,1,1,1.0,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,135,134,0
+76402,1971,47100314,1972-04-16 19:00:00,Los Angeles,Lakers,Milwaukee,Bucks,Playoffs,0,0,4.0,4,0,1,0,0,0,0,0,0,0,2,2,1.0,0,0,0.0,0,0,0.0,114,88,0
+76402,1971,47100315,1972-04-18 19:00:00,Los Angeles,Lakers,Milwaukee,Bucks,Playoffs,1,1,3.0,0,1,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,115,90,0
+76402,1971,47100401,1972-04-26 19:00:00,Los Angeles,Lakers,New York,Knicks,Playoffs,1,0,5.0,2,2,1,0,0,0,0,0,2,0,2,1,0.5,0,0,0.0,0,0,0.0,92,114,0
+76402,1971,47100405,1972-05-07 19:00:00,Los Angeles,Lakers,New York,Knicks,Playoffs,1,1,1.0,2,0,1,0,0,0,0,0,0,0,2,1,0.5,0,0,0.0,0,0,0.0,114,100,0
+76402,1972,27203002,1972-10-10 19:00:00,Cleveland,Cavaliers,Baltimore,Bullets,Regular Season,1,0,33.0,6,3,6,0,0,0,0,0,1,0,10,3,0.299,0,0,0.0,0,0,0.0,90,102,0
+76402,1972,27203003,1972-10-13 19:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,1,0,27.0,5,6,2,0,0,0,0,0,3,0,8,2,0.25,0,0,0.0,2,1,0.5,108,109,0
+76402,1972,27203004,1972-10-15 19:00:00,Cleveland,Cavaliers,Los Angeles,Lakers,Regular Season,1,0,16.0,2,3,3,0,0,0,0,0,0,0,3,1,0.333,0,0,0.0,0,0,0.0,83,95,0
+76402,1972,27203005,1972-10-20 19:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,1,0,26.0,6,6,5,0,0,0,0,0,4,0,7,3,0.428,0,0,0.0,0,0,0.0,89,92,0
+76402,1972,27200036,1972-10-21 19:00:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,0,0,38.0,7,1,6,0,0,0,0,0,3,0,9,3,0.333,0,0,0.0,2,1,0.5,103,96,0
+76402,1972,27203006,1972-10-22 19:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,1,0,35.0,10,7,5,0,0,0,0,0,4,0,11,5,0.455,0,0,0.0,0,0,0.0,84,104,0
+76402,1972,27200045,1972-10-24 19:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,0,0,15.0,12,0,1,0,0,0,0,0,4,0,10,4,0.4,0,0,0.0,5,4,0.8,123,90,0
+76402,1972,27200047,1972-10-25 19:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,0,1,15.0,8,0,0,0,0,0,0,0,3,0,5,3,0.599,0,0,0.0,2,2,1.0,108,113,0
+76402,1972,27200055,1972-10-27 19:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,0,0,18.0,14,2,2,0,0,0,0,0,4,0,12,5,0.416,0,0,0.0,4,4,1.0,123,97,0
+76402,1972,27203007,1972-10-29 19:00:00,Cleveland,Cavaliers,Kansas City-Omaha,Kings,Regular Season,1,1,11.0,2,2,2,0,0,0,0,0,2,0,6,1,0.167,0,0,0.0,0,0,0.0,115,97,0
+76402,1972,27203008,1972-10-31 19:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,1,1,7.0,2,1,1,0,0,0,0,0,0,0,3,1,0.333,0,0,0.0,0,0,0.0,126,116,0
+76402,1972,27203009,1972-11-03 19:00:00,Cleveland,Cavaliers,Buffalo,Braves,Regular Season,1,1,13.0,4,4,2,0,0,0,0,0,0,0,2,1,0.5,0,0,0.0,2,2,1.0,124,97,0
+76402,1972,27200085,1972-11-04 19:00:00,Cleveland,Cavaliers,Baltimore,Bullets,Regular Season,0,0,17.0,4,3,1,0,0,0,0,0,0,0,2,1,0.5,0,0,0.0,2,2,1.0,108,98,0
+76402,1972,27203010,1972-11-05 19:00:00,Cleveland,Cavaliers,Phoenix,Suns,Regular Season,1,0,5.0,2,1,0,0,0,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,106,107,0
+76402,1972,27200095,1972-11-08 19:00:00,Cleveland,Cavaliers,Phoenix,Suns,Regular Season,0,0,15.0,2,3,1,0,0,0,0,0,1,0,2,1,0.5,0,0,0.0,0,0,0.0,107,99,0
+76402,1972,27200103,1972-11-10 19:00:00,Cleveland,Cavaliers,Los Angeles,Lakers,Regular Season,0,0,21.0,7,2,4,0,0,0,0,0,2,0,12,3,0.25,0,0,0.0,2,1,0.5,118,88,0
+76402,1972,27200109,1972-11-12 19:00:00,Cleveland,Cavaliers,Seattle,SuperSonics,Regular Season,0,1,13.0,4,0,1,0,0,0,0,0,0,0,4,1,0.25,0,0,0.0,2,2,1.0,107,113,0
+76402,1972,27200116,1972-11-14 19:00:00,Cleveland,Cavaliers,Portland,Trail Blazers,Regular Season,0,0,16.0,2,0,4,0,0,0,0,0,1,0,7,1,0.142,0,0,0.0,0,0,0.0,100,91,0
+76402,1972,27200128,1972-11-17 19:00:00,Cleveland,Cavaliers,Kansas City-Omaha,Kings,Regular Season,0,0,14.0,8,1,1,0,0,0,0,0,1,0,6,4,0.667,0,0,0.0,0,0,0.0,115,96,0
+76402,1972,27203011,1972-11-19 19:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,1,1,11.0,0,1,1,0,0,0,0,0,0,0,2,0,0.0,0,0,0.0,0,0,0.0,109,98,0
+76402,1972,27203012,1972-11-21 19:00:00,Cleveland,Cavaliers,Seattle,SuperSonics,Regular Season,1,1,4.0,0,1,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,98,88,0
+76402,1972,27200161,1972-11-25 19:00:00,Cleveland,Cavaliers,Buffalo,Braves,Regular Season,0,1,9.0,4,3,0,0,0,0,0,0,0,0,3,2,0.667,0,0,0.0,0,0,0.0,90,103,0
+76402,1972,27203013,1972-11-26 19:00:00,Cleveland,Cavaliers,Portland,Trail Blazers,Regular Season,1,0,20.0,11,2,0,0,0,0,0,0,4,0,7,4,0.57,0,0,0.0,3,3,1.0,102,105,0
+76402,1972,27200170,1972-11-28 19:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,0,0,9.0,4,0,1,0,0,0,0,0,2,0,6,2,0.333,0,0,0.0,0,0,0.0,107,84,0
+76402,1972,27203014,1972-12-01 19:00:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,1,0,18.0,2,3,3,0,0,0,0,0,1,0,4,1,0.25,0,0,0.0,0,0,0.0,113,114,0
+76402,1972,27203015,1972-12-03 19:00:00,Cleveland,Cavaliers,Seattle,SuperSonics,Regular Season,1,1,4.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,105,103,0
+76402,1972,27200196,1972-12-05 19:00:00,Cleveland,Cavaliers,Baltimore,Bullets,Regular Season,1,0,12.0,4,4,1,0,0,0,0,0,0,0,3,2,0.667,0,0,0.0,0,0,0.0,100,103,0
+76402,1972,27200212,1972-12-08 19:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,1,0,18.0,7,2,2,0,0,0,0,0,1,0,7,3,0.428,0,0,0.0,2,1,0.5,87,96,0
+76402,1972,27200218,1972-12-09 19:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,0,0,15.0,3,0,0,0,0,0,0,0,3,0,5,1,0.2,0,0,0.0,2,1,0.5,123,88,0
+76402,1972,27203016,1972-12-10 19:00:00,Cleveland,Cavaliers,Golden State,Warriors,Regular Season,1,0,17.0,8,4,4,0,0,0,0,0,2,0,7,4,0.57,0,0,0.0,0,0,0.0,100,103,0
+76402,1972,27200224,1972-12-12 19:00:00,Cleveland,Cavaliers,Kansas City-Omaha,Kings,Regular Season,0,0,12.0,0,0,2,0,0,0,0,0,2,0,1,0,0.0,0,0,0.0,0,0,0.0,100,99,0
+76402,1972,27200239,1972-12-15 19:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,0,0,24.0,10,3,2,0,0,0,0,0,1,0,8,4,0.5,0,0,0.0,2,2,1.0,98,82,0
+76402,1972,27200244,1972-12-16 19:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,0,0,18.0,2,2,2,0,0,0,0,0,0,0,4,1,0.25,0,0,0.0,0,0,0.0,100,94,0
+76402,1972,27203017,1972-12-17 19:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,1,0,8.0,0,0,1,0,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,109,110,0
+76402,1972,27203018,1972-12-22 19:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,1,0,7.0,0,0,0,0,0,0,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,87,98,0
+76402,1972,27203019,1972-12-26 19:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,1,1,15.0,2,2,3,0,0,0,0,0,0,0,4,1,0.25,0,0,0.0,0,0,0.0,115,96,0
+76402,1972,27200283,1972-12-28 19:00:00,Cleveland,Cavaliers,Golden State,Warriors,Regular Season,0,0,13.0,0,2,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,118,105,0
+76402,1972,27200292,1972-12-29 19:00:00,Cleveland,Cavaliers,Seattle,SuperSonics,Regular Season,0,0,15.0,7,4,2,0,0,0,0,0,1,0,7,3,0.428,0,0,0.0,1,1,1.0,99,91,0
+76402,1972,27203020,1973-01-02 19:00:00,Cleveland,Cavaliers,Phoenix,Suns,Regular Season,1,1,13.0,3,7,0,0,0,0,0,0,1,0,1,1,1.0,0,0,0.0,2,1,0.5,111,88,0
+76402,1972,27200311,1973-01-03 19:00:00,Cleveland,Cavaliers,Baltimore,Bullets,Regular Season,0,0,14.0,2,0,4,0,0,0,0,0,0,0,3,1,0.333,0,0,0.0,0,0,0.0,89,80,0
+76402,1972,27200324,1973-01-06 19:00:00,Cleveland,Cavaliers,Los Angeles,Lakers,Regular Season,1,1,21.0,2,5,3,0,0,0,0,0,3,0,4,1,0.25,0,0,0.0,0,0,0.0,108,93,0
+76402,1972,27203021,1973-01-07 19:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,1,1,23.0,12,1,1,0,0,0,0,0,3,0,9,6,0.667,0,0,0.0,0,0,0.0,102,97,0
+76402,1972,27200334,1973-01-09 19:00:00,Cleveland,Cavaliers,Buffalo,Braves,Regular Season,0,0,19.0,8,2,2,0,0,0,0,0,0,0,8,4,0.5,0,0,0.0,0,0,0.0,106,102,0
+76402,1972,27200344,1973-01-12 19:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,0,1,15.0,6,0,1,0,0,0,0,0,1,0,4,3,0.75,0,0,0.0,0,0,0.0,109,113,0
+76402,1972,27200351,1973-01-13 19:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,0,1,20.0,12,4,4,0,0,0,0,0,1,0,7,3,0.428,0,0,0.0,7,6,0.856,115,123,0
+76402,1972,27200365,1973-01-16 19:00:00,Cleveland,Cavaliers,Golden State,Warriors,Regular Season,0,1,17.0,6,2,2,0,0,0,0,0,2,0,6,3,0.5,0,0,0.0,0,0,0.0,98,100,0
+76402,1972,27200376,1973-01-19 19:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,0,1,18.0,9,1,3,0,0,0,0,0,1,0,7,3,0.428,0,0,0.0,4,3,0.75,104,108,0
+76402,1972,27200386,1973-01-20 19:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,0,0,23.0,4,1,1,0,0,0,0,0,1,0,6,2,0.333,0,0,0.0,0,0,0.0,96,84,0
+76402,1972,27203022,1973-01-26 19:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,1,1,22.0,8,1,3,0,0,0,0,0,5,0,6,2,0.333,0,0,0.0,5,4,0.8,105,100,0
+76402,1972,27200412,1973-01-28 19:00:00,Cleveland,Cavaliers,Baltimore,Bullets,Regular Season,1,0,19.0,14,1,0,0,0,0,0,0,3,0,9,7,0.778,0,0,0.0,0,0,0.0,93,102,0
+76402,1972,27203023,1973-01-30 19:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,1,1,13.0,6,1,1,0,0,0,0,0,1,0,4,3,0.75,0,0,0.0,0,0,0.0,112,98,0
+76402,1972,27200422,1973-01-31 19:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,0,0,14.0,4,2,5,0,0,0,0,0,2,0,2,1,0.5,0,0,0.0,2,2,1.0,94,89,0
+76402,1972,27200436,1973-02-03 19:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,0,0,18.0,11,0,0,0,0,0,0,0,1,0,9,4,0.444,0,0,0.0,3,3,1.0,95,90,0
+76402,1972,27203024,1973-02-04 19:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,1,0,7.0,0,1,2,0,0,0,0,0,2,0,2,0,0.0,0,0,0.0,0,0,0.0,97,114,0
+76402,1972,27200448,1973-02-06 19:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,1,1,14.0,2,5,2,0,0,0,0,0,1,0,3,1,0.333,0,0,0.0,0,0,0.0,110,105,0
+76402,1972,27200454,1973-02-08 19:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,0,1,46.0,18,7,3,0,0,0,0,0,2,0,10,7,0.699,0,0,0.0,4,4,1.0,132,136,0
+76402,1972,27203025,1973-02-09 19:00:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,1,0,14.0,6,2,1,0,0,0,0,0,1,0,6,2,0.333,0,0,0.0,2,2,1.0,97,103,0
+76402,1972,27203026,1973-02-11 19:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,1,0,26.0,8,5,3,0,0,0,0,0,1,0,8,3,0.375,0,0,0.0,4,2,0.5,107,115,0
+76402,1972,27203027,1973-02-13 19:00:00,Cleveland,Cavaliers,Golden State,Warriors,Regular Season,1,0,22.0,0,6,2,0,0,0,0,0,1,0,3,0,0.0,0,0,0.0,0,0,0.0,90,103,0
+76402,1972,27200490,1973-02-16 19:00:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,0,0,18.0,3,1,3,0,0,0,0,0,0,0,3,1,0.333,0,0,0.0,2,1,0.5,100,92,0
+76402,1972,27200493,1973-02-17 19:00:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,0,1,16.0,2,4,4,0,0,0,0,0,1,0,2,1,0.5,0,0,0.0,0,0,0.0,104,106,0
+76402,1972,27203028,1973-02-18 19:00:00,Cleveland,Cavaliers,Buffalo,Braves,Regular Season,1,1,21.0,11,5,5,0,0,0,0,0,1,0,6,5,0.832,0,0,0.0,4,1,0.25,122,98,0
+76402,1972,27200507,1973-02-20 19:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,0,0,23.0,12,8,3,0,0,0,0,0,0,0,11,6,0.545,0,0,0.0,1,0,0.0,118,100,0
+76402,1972,27203032,1973-02-23 19:00:00,Cleveland,Cavaliers,Portland,Trail Blazers,Regular Season,1,1,17.0,8,3,4,0,0,0,0,0,0,0,5,3,0.599,0,0,0.0,3,2,0.667,121,102,0
+76402,1972,27203033,1973-02-25 19:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,1,0,15.0,4,6,4,0,0,0,0,0,2,0,5,2,0.4,0,0,0.0,0,0,0.0,92,105,0
+76402,1972,27200534,1973-02-27 19:00:00,Cleveland,Cavaliers,Baltimore,Bullets,Regular Season,0,0,16.0,10,1,1,0,0,0,0,0,3,0,7,4,0.57,0,0,0.0,3,2,0.667,99,95,0
+76402,1972,27200545,1973-03-02 19:00:00,Cleveland,Cavaliers,Portland,Trail Blazers,Regular Season,0,0,26.0,2,3,4,0,0,0,0,0,1,0,3,1,0.333,0,0,0.0,0,0,0.0,106,92,0
+76402,1972,27200556,1973-03-04 19:00:00,Cleveland,Cavaliers,Los Angeles,Lakers,Regular Season,0,0,14.0,4,0,1,0,0,0,0,0,2,0,4,2,0.5,0,0,0.0,0,0,0.0,127,84,0
+76402,1972,27200558,1973-03-06 19:00:00,Cleveland,Cavaliers,Phoenix,Suns,Regular Season,0,0,21.0,12,2,4,0,0,0,0,0,0,0,9,5,0.556,0,0,0.0,2,2,1.0,110,102,0
+76402,1972,27200563,1973-03-07 19:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,0,1,0.0,4,0,0,0,0,0,0,0,0,0,0,1,0.0,0,0,0.0,2,2,1.0,100,118,0
+76402,1972,27200573,1973-03-10 19:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,0,0,12.0,10,0,0,0,0,0,0,0,0,0,5,4,0.8,0,0,0.0,2,2,1.0,131,116,0
+76402,1972,27203029,1973-03-13 19:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,1,1,25.0,14,7,3,0,0,0,0,0,1,0,11,6,0.545,0,0,0.0,5,2,0.4,115,107,0
+76402,1972,27203030,1973-03-16 19:00:00,Cleveland,Cavaliers,Kansas City-Omaha,Kings,Regular Season,1,1,22.0,6,6,1,0,0,0,0,0,3,0,4,3,0.75,0,0,0.0,0,0,0.0,114,99,0
+76402,1972,27203034,1973-03-20 19:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,1,1,11.0,11,3,2,0,0,0,0,0,0,0,4,4,1.0,0,0,0.0,4,3,0.75,131,105,0
+76402,1972,27200622,1973-03-21 19:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,0,1,13.0,0,2,3,0,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,109,112,0
+76402,1972,27200631,1973-03-23 19:00:00,Cleveland,Cavaliers,Baltimore,Bullets,Regular Season,1,0,18.0,4,6,2,0,0,0,0,0,1,0,6,2,0.333,0,0,0.0,0,0,0.0,104,106,0
+76402,1972,27200633,1973-03-24 19:00:00,Cleveland,Cavaliers,Baltimore,Bullets,Regular Season,0,0,27.0,2,7,3,0,0,0,0,0,1,0,4,1,0.25,0,0,0.0,0,0,0.0,120,116,0
+76402,1972,27203035,1973-03-25 19:00:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,1,1,20.0,8,3,5,0,0,0,0,0,2,0,7,4,0.57,0,0,0.0,0,0,0.0,112,105,0
+76402,1972,27200648,1973-03-27 19:00:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,0,0,24.0,10,2,5,0,0,0,0,0,3,0,8,4,0.5,0,0,0.0,4,2,0.5,121,105,0
+76402,1972,27203036,1973-03-28 19:00:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,1,0,17.0,6,4,0,0,0,0,0,0,2,0,5,3,0.599,0,0,0.0,1,0,0.0,119,131,0
+76402,1973,27300012,1973-10-12 20:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,1,0,19.0,11,2,2,2,0,0,1,0,4,0,7,5,0.713,0,0,0.0,1,1,1.0,99,106,0
+76402,1973,27300024,1973-10-14 19:30:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,1,0,0.0,8,0,6,0,0,0,0,0,1,0,9,4,0.444,0,0,0.0,0,0,0.0,83,95,0
+76402,1973,27300032,1973-10-19 20:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,1,0,21.0,6,4,7,0,0,0,0,0,2,0,8,3,0.375,0,0,0.0,2,0,0.0,90,92,0
+76402,1973,27303013,1973-10-20 19:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,0,0,34.0,8,1,3,0,0,1,0,0,4,0,12,3,0.25,0,0,0.0,2,2,1.0,101,88,0
+76402,1973,27303011,1973-10-23 19:00:00,Cleveland,Cavaliers,Portland,Trail Blazers,Regular Season,1,1,10.0,0,0,1,1,0,0,0,0,3,0,0,0,0.0,0,0,0.0,0,0,0.0,103,96,0
+76402,1973,27300059,1973-10-26 20:00:00,Cleveland,Cavaliers,Buffalo,Braves,Regular Season,0,0,0.0,3,0,0,0,0,0,0,0,0,0,0,1,0.0,0,0,0.0,2,1,0.5,104,97,0
+76402,1973,27303012,1973-10-27 19:00:00,Cleveland,Cavaliers,Buffalo,Braves,Regular Season,1,0,0.0,4,0,3,0,0,0,0,0,0,0,4,2,0.5,0,0,0.0,0,0,0.0,101,111,0
+76402,1973,27300073,1973-10-28 19:30:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,1,1,23.0,2,4,0,0,0,0,0,0,2,0,3,1,0.333,0,0,0.0,0,0,0.0,102,99,0
+76402,1973,27300081,1973-10-31 19:30:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,0,0,20.0,10,1,2,0,0,0,0,0,0,0,8,3,0.375,0,0,0.0,4,4,1.0,128,110,0
+76402,1973,27300089,1973-11-02 20:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,1,0,19.0,4,6,1,0,0,0,0,0,1,0,7,2,0.285,0,0,0.0,0,0,0.0,100,118,0
+76402,1973,27300094,1973-11-03 19:30:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,0,0,0.0,2,0,0,0,0,0,0,0,0,0,0,1,0.0,0,0,0.0,0,0,0.0,105,94,0
+76402,1973,27300099,1973-11-04 19:30:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,1,0,10.0,5,3,0,0,0,0,0,0,1,0,3,2,0.667,0,0,0.0,2,1,0.5,110,115,0
+76402,1973,27300103,1973-11-06 20:00:00,Cleveland,Cavaliers,Los Angeles,Lakers,Regular Season,1,1,20.0,8,4,2,0,0,0,0,0,1,0,10,4,0.4,0,0,0.0,0,0,0.0,115,96,0
+76402,1973,27300113,1973-11-09 20:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,1,1,0.0,15,0,0,0,0,0,0,0,0,0,0,7,0.0,0,0,0.0,3,1,0.333,111,106,0
+76402,1973,27300118,1973-11-10 20:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,0,0,11.0,6,1,1,0,0,0,0,0,1,0,3,2,0.667,0,0,0.0,2,2,1.0,100,90,0
+76402,1973,27303014,1973-11-11 19:00:00,Cleveland,Cavaliers,Kansas City-Omaha,Kings,Regular Season,1,0,0.0,0,0,1,0,0,0,0,0,0,0,3,0,0.0,0,0,0.0,0,0,0.0,93,103,0
+76402,1973,27300131,1973-11-13 20:05:00,Cleveland,Cavaliers,Golden State,Warriors,Regular Season,0,0,14.0,4,4,3,0,3,0,0,0,2,0,7,2,0.285,0,0,0.0,0,0,0.0,128,115,0
+76402,1973,27300141,1973-11-16 20:00:00,Cleveland,Cavaliers,Seattle,SuperSonics,Regular Season,0,0,16.0,7,2,2,0,0,0,0,0,2,0,7,2,0.285,0,0,0.0,4,3,0.75,117,93,0
+76402,1973,27300150,1973-11-18 19:00:00,Cleveland,Cavaliers,Los Angeles,Lakers,Regular Season,0,0,22.0,9,2,5,0,0,0,0,0,1,0,7,4,0.57,0,0,0.0,3,1,0.333,102,100,0
+76402,1973,27300164,1973-11-22 14:30:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,0,1,0.0,7,0,0,0,0,0,0,0,0,0,0,2,0.0,0,0,0.0,4,3,0.75,96,104,0
+76402,1973,27300168,1973-11-23 20:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,0,1,0.0,6,0,0,0,0,0,0,0,0,0,0,2,0.0,0,0,0.0,2,2,1.0,83,85,0
+76402,1973,27300179,1973-11-25 19:30:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,1,0,18.0,4,3,4,0,0,0,0,0,1,0,4,1,0.25,0,0,0.0,2,2,1.0,101,107,0
+76402,1973,27300182,1973-11-27 20:00:00,Cleveland,Cavaliers,Seattle,SuperSonics,Regular Season,1,1,15.0,0,2,4,0,0,0,0,0,2,0,1,0,0.0,0,0,0.0,0,0,0.0,120,118,0
+76402,1973,27300190,1973-11-28 19:35:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,0,1,0.0,15,0,0,0,0,0,0,0,0,0,0,7,0.0,0,0,0.0,2,1,0.5,91,96,0
+76402,1973,27300195,1973-11-30 20:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,1,1,0.0,6,0,0,0,0,0,0,0,0,0,0,2,0.0,0,0,0.0,3,2,0.667,112,110,0
+76402,1973,27300202,1973-12-01 20:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,0,0,18.0,10,0,4,0,0,0,0,0,3,0,7,5,0.713,0,0,0.0,2,0,0.0,119,99,0
+76402,1973,27300209,1973-12-02 19:30:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,1,0,0.0,14,12,6,0,0,0,0,0,2,0,11,6,0.545,0,0,0.0,2,2,1.0,104,130,0
+76402,1973,27300217,1973-12-05 20:05:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,0,1,37.0,6,2,0,0,0,0,0,0,3,0,8,2,0.25,0,0,0.0,2,2,1.0,75,89,0
+76402,1973,27300227,1973-12-07 20:00:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,1,0,41.0,7,10,5,0,0,0,0,0,3,0,10,3,0.299,0,0,0.0,1,1,1.0,91,96,0
+76402,1973,27300237,1973-12-09 19:30:00,Cleveland,Cavaliers,Phoenix,Suns,Regular Season,1,0,32.0,12,8,2,0,0,0,0,0,3,0,13,6,0.462,0,0,0.0,0,0,0.0,106,117,0
+76402,1973,27300242,1973-12-11 20:00:00,Cleveland,Cavaliers,Los Angeles,Lakers,Regular Season,1,1,29.0,15,3,6,0,0,0,0,0,6,0,10,5,0.5,0,0,0.0,7,5,0.713,101,100,0
+76402,1973,27300253,1973-12-14 20:00:00,Cleveland,Cavaliers,Buffalo,Braves,Regular Season,1,0,0.0,8,0,0,0,0,0,0,0,0,0,0,4,0.0,0,0,0.0,0,0,0.0,98,102,0
+76402,1973,27300270,1973-12-18 19:30:00,Cleveland,Cavaliers,Buffalo,Braves,Regular Season,0,0,0.0,11,0,0,0,0,0,0,0,0,0,0,4,0.0,0,0,0.0,4,3,0.75,100,93,0
+76402,1973,27300279,1973-12-19 19:35:00,Cleveland,Cavaliers,Kansas City-Omaha,Kings,Regular Season,0,0,0.0,21,4,5,0,0,0,0,0,5,0,17,10,0.587,0,0,0.0,2,1,0.5,106,92,0
+76402,1973,27300283,1973-12-21 20:00:00,Cleveland,Cavaliers,Seattle,SuperSonics,Regular Season,1,1,30.0,14,4,6,0,0,0,0,0,3,0,6,5,0.832,0,0,0.0,5,4,0.8,101,96,0
+76402,1973,27300289,1973-12-22 20:05:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,0,1,0.0,10,0,0,0,0,0,0,0,0,0,0,4,0.0,0,0,0.0,2,2,1.0,98,108,0
+76402,1973,27300296,1973-12-23 19:30:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,1,1,0.0,8,8,4,0,0,0,0,0,2,0,10,4,0.4,0,0,0.0,0,0,0.0,99,91,0
+76402,1973,27300305,1973-12-26 20:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,0,0,29.0,9,2,7,0,0,0,0,0,1,0,6,4,0.667,0,0,0.0,1,1,1.0,123,110,0
+76402,1973,27303015,1973-12-27 19:00:00,Cleveland,Cavaliers,Kansas City-Omaha,Kings,Regular Season,1,0,0.0,4,0,2,0,0,0,0,0,4,0,7,2,0.285,0,0,0.0,0,0,0.0,100,110,0
+76402,1973,27300704,1973-12-29 19:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,0,0,28.0,18,5,3,0,0,0,0,0,4,0,11,5,0.455,0,0,0.0,8,8,1.0,111,92,0
+76402,1973,27300324,1973-12-30 19:30:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,1,0,0.0,12,0,0,0,0,0,0,0,0,0,0,4,0.0,0,0,0.0,6,4,0.667,94,99,0
+76402,1973,27300342,1974-01-04 20:00:00,Cleveland,Cavaliers,Capital,Bullets,Regular Season,1,0,27.0,10,4,3,0,0,0,0,0,5,0,9,4,0.444,0,0,0.0,2,2,1.0,91,94,0
+76402,1973,27300350,1974-01-05 20:05:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,0,0,0.0,8,0,0,0,0,0,0,0,0,0,0,4,0.0,0,0,0.0,0,0,0.0,99,86,0
+76402,1973,27300366,1974-01-09 20:05:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,0,0,26.0,9,5,4,0,0,0,0,0,2,0,9,3,0.333,0,0,0.0,5,3,0.599,90,86,0
+76402,1973,27300375,1974-01-11 20:00:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,1,0,0.0,2,0,0,0,0,0,0,0,0,0,0,1,0.0,0,0,0.0,0,0,0.0,96,106,0
+76402,1973,27300382,1974-01-12 19:35:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,0,1,0.0,2,0,0,0,0,0,0,0,0,0,0,1,0.0,0,0,0.0,0,0,0.0,112,117,0
+76402,1973,27300385,1974-01-13 19:30:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,1,1,0.0,0,1,1,0,0,0,0,0,3,0,3,0,0.0,0,0,0.0,0,0,0.0,96,94,0
+76402,1973,27300392,1974-01-17 20:00:00,Cleveland,Cavaliers,Capital,Bullets,Regular Season,0,0,19.0,8,1,2,0,0,0,0,0,2,0,5,2,0.4,0,0,0.0,5,4,0.8,101,86,0
+76402,1973,27300401,1974-01-19 20:00:00,Cleveland,Cavaliers,Kansas City-Omaha,Kings,Regular Season,0,0,0.0,5,2,0,0,0,0,0,0,0,0,4,2,0.5,0,0,0.0,2,1,0.5,111,108,0
+76402,1973,27300414,1974-01-22 20:00:00,Cleveland,Cavaliers,Los Angeles,Lakers,Regular Season,0,1,16.0,6,2,0,0,0,0,0,0,2,0,4,3,0.75,0,0,0.0,0,0,0.0,110,111,0
+76402,1973,27300419,1974-01-23 20:00:00,Cleveland,Cavaliers,Phoenix,Suns,Regular Season,0,0,19.0,4,3,1,0,0,0,0,0,0,0,2,1,0.5,0,0,0.0,2,2,1.0,110,103,0
+76402,1973,27300708,1974-01-25 19:00:00,Cleveland,Cavaliers,Portland,Trail Blazers,Regular Season,0,1,22.0,6,5,1,1,0,0,2,0,2,0,7,3,0.428,0,0,0.0,0,0,0.0,84,87,0
+76402,1973,27300431,1974-01-26 20:00:00,Cleveland,Cavaliers,Golden State,Warriors,Regular Season,0,0,19.0,6,3,4,2,2,0,0,0,4,0,5,2,0.4,0,0,0.0,2,2,1.0,106,93,0
+76402,1973,27300440,1974-01-29 20:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,1,1,0.0,5,5,6,0,0,0,0,0,2,0,5,2,0.4,0,0,0.0,2,1,0.5,118,111,0
+76402,1973,27300443,1974-01-30 20:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,0,0,11.0,4,4,0,0,0,0,0,0,1,0,5,2,0.4,0,0,0.0,0,0,0.0,120,108,0
+76402,1973,27300451,1974-02-01 20:00:00,Cleveland,Cavaliers,Capital,Bullets,Regular Season,1,0,19.0,2,9,3,0,0,0,0,0,2,0,10,1,0.1,0,0,0.0,0,0,0.0,99,107,0
+76402,1973,27300456,1974-02-02 20:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,0,0,26.0,14,0,1,0,0,0,0,0,3,0,11,6,0.545,0,0,0.0,2,2,1.0,103,87,0
+76402,1973,27300464,1974-02-03 20:00:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,1,0,15.0,0,2,1,0,0,0,0,0,1,0,3,0,0.0,0,0,0.0,0,0,0.0,94,108,0
+76402,1973,27300470,1974-02-05 20:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,1,0,16.0,4,1,0,0,0,0,0,0,0,0,5,2,0.4,0,0,0.0,3,0,0.0,87,102,0
+76402,1973,27300485,1974-02-08 20:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,0,0,0.0,10,0,0,0,0,0,0,0,0,0,0,4,0.0,0,0,0.0,3,2,0.667,120,106,0
+76402,1973,27300490,1974-02-09 20:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,0,0,0.0,4,0,2,0,0,0,0,0,1,0,3,2,0.667,0,0,0.0,2,0,0.0,99,90,0
+76402,1973,27300507,1974-02-12 20:00:00,Cleveland,Cavaliers,Capital,Bullets,Regular Season,1,0,3.0,2,0,1,0,0,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,99,107,0
+76402,1973,27300523,1974-02-16 20:00:00,Cleveland,Cavaliers,Portland,Trail Blazers,Regular Season,0,1,16.0,7,4,2,2,0,0,0,0,1,0,7,3,0.428,0,0,0.0,2,1,0.5,101,106,0
+76402,1973,27300531,1974-02-17 20:00:00,Cleveland,Cavaliers,Seattle,SuperSonics,Regular Season,0,0,12.0,4,2,4,0,0,0,0,0,1,0,4,2,0.5,0,0,0.0,0,0,0.0,106,97,0
+76402,1973,27300535,1974-02-19 20:00:00,Cleveland,Cavaliers,Golden State,Warriors,Regular Season,1,0,4.0,0,1,0,0,0,0,0,0,0,0,3,0,0.0,0,0,0.0,0,0,0.0,98,104,0
+76402,1973,27300710,1974-02-21 19:00:00,Cleveland,Cavaliers,Golden State,Warriors,Regular Season,1,0,20.0,4,2,2,1,1,0,1,0,0,0,8,2,0.25,0,0,0.0,0,0,0.0,103,122,0
+76402,1973,27300545,1974-02-22 20:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,1,0,23.0,10,1,8,0,0,0,0,0,2,0,8,3,0.375,0,0,0.0,5,4,0.8,110,117,0
+76402,1973,27300552,1974-02-23 20:00:00,Cleveland,Cavaliers,Capital,Bullets,Regular Season,0,1,0.0,12,0,3,0,0,0,0,0,2,0,9,6,0.667,0,0,0.0,0,0,0.0,101,104,0
+76402,1973,27300558,1974-02-24 20:00:00,Cleveland,Cavaliers,Phoenix,Suns,Regular Season,1,1,17.0,6,2,2,0,0,0,0,0,0,0,6,3,0.5,0,0,0.0,0,0,0.0,101,97,0
+76402,1973,27300583,1974-03-01 20:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,0,1,7.0,4,0,2,0,0,0,0,0,1,0,2,1,0.5,0,0,0.0,3,2,0.667,93,110,0
+76402,1973,27300590,1974-03-03 20:00:00,Cleveland,Cavaliers,Capital,Bullets,Regular Season,0,0,13.0,2,3,1,0,0,0,0,0,5,0,3,1,0.333,0,0,0.0,0,0,0.0,98,93,0
+76402,1973,27300616,1974-03-09 20:00:00,Cleveland,Cavaliers,Phoenix,Suns,Regular Season,0,0,20.0,13,3,6,0,0,0,0,0,0,0,10,5,0.5,0,0,0.0,3,3,1.0,109,100,0
+76402,1973,27300622,1974-03-10 20:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,0,0,0.0,7,0,0,0,0,0,0,0,0,0,0,3,0.0,0,0,0.0,4,1,0.25,113,108,0
+76402,1973,27300626,1974-03-12 20:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,95,84,0
+76402,1973,27300636,1974-03-15 20:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,1,1,18.0,2,3,2,0,0,0,0,0,1,0,7,1,0.142,0,0,0.0,0,0,0.0,104,103,0
+76402,1973,27300643,1974-03-16 20:00:00,Cleveland,Cavaliers,Buffalo,Braves,Regular Season,0,0,0.0,12,0,0,0,0,0,0,0,0,0,0,6,0.0,0,0,0.0,0,0,0.0,114,105,0
+76402,1973,27300648,1974-03-17 20:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,1,1,0.0,2,0,0,0,0,0,0,0,1,0,5,1,0.2,0,0,0.0,0,0,0.0,115,99,0
+76402,1973,27300655,1974-03-19 20:00:00,Cleveland,Cavaliers,Portland,Trail Blazers,Regular Season,1,1,20.0,8,3,3,3,0,0,1,0,1,0,5,4,0.8,0,0,0.0,0,0,0.0,107,103,0
+76402,1973,27300661,1974-03-20 20:00:00,Cleveland,Cavaliers,Capital,Bullets,Regular Season,0,0,15.0,2,1,1,0,0,0,0,0,0,0,6,1,0.167,0,0,0.0,0,0,0.0,101,91,0
+76402,1973,27300682,1974-03-24 20:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,1,1,24.0,12,3,3,0,0,0,0,0,1,0,6,5,0.832,0,0,0.0,3,2,0.667,114,92,0
+76402,1973,27300692,1974-03-26 20:00:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,0,0,0.0,16,4,5,0,0,0,0,0,4,0,12,7,0.582,0,0,0.0,3,2,0.667,104,98,0
+76402,1974,27400003,1974-10-18 19:00:00,Cleveland,Cavaliers,Portland,Trail Blazers,Regular Season,0,0,49.0,9,9,5,4,1,1,0,0,0,0,12,3,0.25,0,0,0.0,4,3,0.75,131,129,0
+76402,1974,27400011,1974-10-19 19:00:00,Cleveland,Cavaliers,Golden State,Warriors,Regular Season,0,0,46.0,11,9,3,1,2,1,1,0,4,0,10,5,0.5,0,0,0.0,1,1,1.0,113,110,0
+76402,1974,27400019,1974-10-20 19:00:00,Cleveland,Cavaliers,Seattle,SuperSonics,Regular Season,0,0,28.0,8,2,2,1,1,0,0,0,4,0,8,4,0.5,0,0,0.0,0,0,0.0,100,93,0
+76402,1974,27400026,1974-10-23 19:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,0,1,42.0,20,5,3,3,0,0,0,0,3,0,10,7,0.699,0,0,0.0,6,6,1.0,107,108,0
+76402,1974,27400031,1974-10-24 19:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,0,1,36.0,10,9,3,2,1,0,1,0,2,0,5,3,0.599,0,0,0.0,4,4,1.0,97,116,0
+76402,1974,27400044,1974-10-26 19:00:00,Cleveland,Cavaliers,New Orleans,Jazz,Regular Season,0,1,35.0,10,6,4,4,0,0,5,0,5,0,10,4,0.4,0,0,0.0,2,2,1.0,88,90,0
+76402,1974,27400050,1974-10-29 19:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,1,0,36.0,10,6,5,0,0,0,0,0,2,0,10,4,0.4,0,0,0.0,2,2,1.0,92,107,0
+76402,1974,27403001,1974-10-31 19:00:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,1,1,0.0,6,7,4,0,0,0,0,0,0,0,6,3,0.5,0,0,0.0,0,0,0.0,118,101,0
+76402,1974,27400072,1974-11-03 19:00:00,Cleveland,Cavaliers,Phoenix,Suns,Regular Season,1,1,20.0,2,2,6,4,2,0,0,0,3,0,5,0,0.0,0,0,0.0,4,2,0.5,104,101,0
+76402,1974,27400081,1974-11-06 19:00:00,Cleveland,Cavaliers,Washington,Bullets,Regular Season,0,1,31.0,13,3,5,3,2,1,1,0,5,0,9,5,0.556,0,0,0.0,7,3,0.428,99,107,0
+76402,1974,27400105,1974-11-12 19:00:00,Cleveland,Cavaliers,Buffalo,Braves,Regular Season,0,0,0.0,10,0,0,0,0,0,0,0,0,0,0,5,0.0,0,0,0.0,0,0,0.0,112,94,0
+76402,1974,27400115,1974-11-14 19:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,0,0,39.0,4,8,2,1,1,0,1,0,5,0,7,2,0.285,0,0,0.0,0,0,0.0,94,89,0
+76402,1974,27400128,1974-11-16 19:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,0,1,33.0,4,3,4,0,0,0,0,0,3,0,6,2,0.333,0,0,0.0,1,0,0.0,89,92,0
+76402,1974,27403014,1974-11-19 19:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,1,1,7.0,0,1,0,0,0,0,0,0,1,0,2,0,0.0,0,0,0.0,0,0,0.0,94,85,0
+76402,1974,27403002,1974-11-21 19:00:00,Cleveland,Cavaliers,Golden State,Warriors,Regular Season,1,1,35.0,0,10,8,8,0,0,2,0,3,0,1,0,0.0,0,0,0.0,0,0,0.0,106,74,0
+76402,1974,27403003,1974-11-23 19:00:00,Cleveland,Cavaliers,New Orleans,Jazz,Regular Season,1,1,0.0,6,8,6,0,0,0,0,0,3,0,9,3,0.333,0,0,0.0,0,0,0.0,121,100,0
+76402,1974,27400159,1974-11-24 19:00:00,Cleveland,Cavaliers,Kansas City-Omaha,Kings,Regular Season,0,0,32.0,10,5,9,8,1,0,2,0,4,0,8,5,0.625,0,0,0.0,0,0,0.0,109,94,0
+76402,1974,27403004,1974-11-26 19:00:00,Cleveland,Cavaliers,Seattle,SuperSonics,Regular Season,1,1,43.0,19,7,9,0,0,0,0,0,0,0,12,8,0.667,0,0,0.0,4,3,0.75,102,94,0
+76402,1974,27403005,1974-11-28 19:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,1,1,20.0,7,3,2,0,2,0,1,0,2,0,7,3,0.428,0,0,0.0,2,1,0.5,110,103,0
+76402,1974,27400192,1974-12-03 19:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,1,1,40.0,15,9,8,7,1,1,4,0,0,0,14,5,0.356,0,0,0.0,6,5,0.832,97,91,0
+76402,1974,27403006,1974-12-05 19:00:00,Cleveland,Cavaliers,Kansas City-Omaha,Kings,Regular Season,1,1,40.0,16,9,5,5,0,1,0,0,3,0,9,8,0.889,0,0,0.0,0,0,0.0,124,91,0
+76402,1974,27400204,1974-12-06 19:00:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,0,0,40.0,12,8,3,2,1,1,2,0,4,0,10,5,0.5,0,0,0.0,2,2,1.0,117,91,0
+76402,1974,27403007,1974-12-08 19:00:00,Cleveland,Cavaliers,Washington,Bullets,Regular Season,1,0,42.0,14,4,5,3,2,0,1,0,2,0,12,5,0.416,0,0,0.0,4,4,1.0,75,88,0
+76402,1974,27400225,1974-12-11 19:00:00,Cleveland,Cavaliers,Seattle,SuperSonics,Regular Season,0,1,39.0,4,8,6,4,2,1,1,0,2,0,9,2,0.222,0,0,0.0,0,0,0.0,95,97,0
+76402,1974,27400234,1974-12-13 19:00:00,Cleveland,Cavaliers,Phoenix,Suns,Regular Season,0,0,35.0,11,4,5,5,0,0,0,0,5,0,7,5,0.713,0,0,0.0,4,1,0.25,85,84,0
+76402,1974,27400246,1974-12-17 19:00:00,Cleveland,Cavaliers,Los Angeles,Lakers,Regular Season,0,1,43.0,29,5,4,3,1,1,2,0,4,0,16,12,0.75,0,0,0.0,5,5,1.0,106,119,0
+76402,1974,27403008,1974-12-19 19:00:00,Cleveland,Cavaliers,Buffalo,Braves,Regular Season,1,1,44.0,16,7,6,4,2,0,0,0,2,0,14,7,0.5,0,0,0.0,2,2,1.0,106,104,0
+76402,1974,27403009,1974-12-21 19:00:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,1,0,45.0,10,4,4,1,3,0,0,0,3,0,11,4,0.363,0,0,0.0,2,2,1.0,74,87,0
+76402,1974,27403010,1974-12-23 19:00:00,Cleveland,Cavaliers,New Orleans,Jazz,Regular Season,1,1,43.0,13,7,4,3,1,1,5,0,2,0,16,6,0.375,0,0,0.0,2,1,0.5,95,79,0
+76402,1974,27403011,1974-12-26 19:00:00,Cleveland,Cavaliers,Los Angeles,Lakers,Regular Season,1,0,40.0,13,5,2,1,1,0,0,0,5,0,12,5,0.416,0,0,0.0,3,3,1.0,89,99,0
+76402,1974,27403012,1974-12-29 19:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,1,1,34.0,8,3,5,4,1,0,0,0,4,0,7,4,0.57,0,0,0.0,0,0,0.0,110,103,0
+76402,1974,27400297,1974-12-30 19:00:00,Cleveland,Cavaliers,Washington,Bullets,Regular Season,0,0,38.0,16,5,3,2,1,2,1,0,2,0,13,7,0.538,0,0,0.0,2,2,1.0,103,90,0
+76402,1974,27403013,1975-01-03 19:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,1,1,43.0,14,3,6,5,1,0,2,0,0,0,10,7,0.699,0,0,0.0,0,0,0.0,95,83,0
+76402,1974,27400311,1975-01-04 19:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,0,0,41.0,16,7,7,4,3,0,1,0,4,0,15,7,0.467,0,0,0.0,2,2,1.0,103,102,0
+76402,1974,27400321,1975-01-05 19:00:00,Cleveland,Cavaliers,Phoenix,Suns,Regular Season,1,1,39.0,10,6,4,2,2,0,0,0,1,0,12,4,0.333,0,0,0.0,6,2,0.333,97,86,0
+76402,1974,27400323,1975-01-07 19:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,0,0,43.0,20,5,5,4,1,0,2,0,3,0,11,9,0.817,0,0,0.0,3,2,0.667,113,112,0
+76402,1974,27400340,1975-01-10 19:00:00,Cleveland,Cavaliers,Buffalo,Braves,Regular Season,0,0,43.0,19,10,1,1,0,0,1,0,4,0,20,9,0.45,0,0,0.0,1,1,1.0,104,100,0
+76402,1974,27400349,1975-01-11 19:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,1,0,43.0,10,2,4,3,1,2,5,0,0,0,14,5,0.356,0,0,0.0,0,0,0.0,81,91,0
+76402,1974,27403016,1975-01-16 19:00:00,Cleveland,Cavaliers,Portland,Trail Blazers,Regular Season,1,1,43.0,14,6,6,5,1,0,2,0,2,0,14,6,0.428,0,0,0.0,2,2,1.0,89,81,0
+76402,1974,27400364,1975-01-18 19:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,0,1,46.0,24,6,8,0,0,0,0,0,3,0,10,8,0.8,0,0,0.0,8,8,1.0,106,108,0
+76402,1974,27400373,1975-01-19 19:00:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,0,0,46.0,15,7,2,2,0,1,0,0,3,0,15,7,0.467,0,0,0.0,1,1,1.0,100,98,0
+76402,1974,27403015,1975-01-21 19:00:00,Cleveland,Cavaliers,Washington,Bullets,Regular Season,1,0,44.0,20,5,3,1,2,0,2,0,3,0,12,7,0.582,0,0,0.0,7,6,0.856,88,97,0
+76402,1974,27403017,1975-01-23 19:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,1,0,42.0,8,4,5,3,2,0,2,0,2,0,10,2,0.2,0,0,0.0,4,4,1.0,89,100,0
+76402,1974,27400399,1975-01-25 19:00:00,Cleveland,Cavaliers,Washington,Bullets,Regular Season,0,0,23.0,4,1,1,1,0,1,3,0,2,0,3,2,0.667,0,0,0.0,0,0,0.0,94,92,0
+76402,1974,27403018,1975-01-26 19:00:00,Cleveland,Cavaliers,Seattle,SuperSonics,Regular Season,1,0,41.0,15,6,8,4,4,1,0,0,4,0,13,7,0.538,0,0,0.0,4,1,0.25,93,96,0
+76402,1974,27400409,1975-01-28 19:00:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,0,0,43.0,14,5,3,1,2,0,0,0,3,0,12,6,0.5,0,0,0.0,2,2,1.0,125,97,0
+76402,1974,27403019,1975-01-30 19:00:00,Cleveland,Cavaliers,Buffalo,Braves,Regular Season,1,0,42.0,15,3,4,1,3,0,1,0,3,0,12,7,0.582,0,0,0.0,2,1,0.5,91,97,0
+76402,1974,27400423,1975-01-31 19:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,0,0,28.0,12,5,2,2,0,0,1,0,2,0,11,4,0.363,0,0,0.0,4,4,1.0,121,99,0
+76402,1974,27403020,1975-02-01 19:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,1,1,43.0,16,5,5,5,0,0,1,0,5,0,14,7,0.5,0,0,0.0,2,2,1.0,112,109,0
+76402,1974,27403021,1975-02-02 19:00:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,1,1,42.0,22,10,5,5,0,0,0,0,1,0,13,10,0.769,0,0,0.0,2,2,1.0,116,96,0
+76402,1974,27400438,1975-02-04 19:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,0,0,37.0,18,6,2,2,0,0,2,0,2,0,13,7,0.538,0,0,0.0,5,4,0.8,111,97,0
+76402,1974,27403022,1975-02-06 19:00:00,Cleveland,Cavaliers,Portland,Trail Blazers,Regular Season,1,1,48.0,18,4,5,3,2,0,0,0,2,0,13,8,0.614,0,0,0.0,2,2,1.0,98,90,0
+76402,1974,27403023,1975-02-08 19:00:00,Cleveland,Cavaliers,Kansas City-Omaha,Kings,Regular Season,1,1,24.0,14,1,2,1,1,0,0,0,4,0,10,6,0.599,0,0,0.0,2,2,1.0,92,91,0
+76402,1974,27403024,1975-02-11 19:00:00,Cleveland,Cavaliers,New Orleans,Jazz,Regular Season,1,1,30.0,1,6,4,2,2,0,1,0,2,0,5,0,0.0,0,0,0.0,2,1,0.5,100,86,0
+76402,1974,27400474,1975-02-12 19:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,0,1,36.0,9,3,6,5,1,0,3,0,0,0,7,2,0.285,0,0,0.0,5,5,1.0,102,105,0
+76402,1974,27403025,1975-02-13 19:00:00,Cleveland,Cavaliers,Golden State,Warriors,Regular Season,1,1,46.0,23,7,6,5,1,0,1,0,4,0,14,10,0.713,0,0,0.0,3,3,1.0,96,93,0
+76402,1974,27400480,1975-02-14 19:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,0,0,36.0,24,0,7,4,3,0,1,0,2,0,20,10,0.5,0,0,0.0,4,4,1.0,112,105,0
+76402,1974,27403026,1975-02-16 19:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,1,1,30.0,5,4,3,0,3,0,1,0,3,0,11,2,0.181,0,0,0.0,1,1,1.0,100,95,0
+76402,1974,27403027,1975-02-18 19:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,1,0,31.0,4,0,1,1,0,0,0,0,0,0,10,2,0.2,0,0,0.0,0,0,0.0,93,104,0
+76402,1974,27403028,1975-02-20 19:00:00,Cleveland,Cavaliers,Washington,Bullets,Regular Season,1,1,33.0,17,8,5,3,2,0,0,0,3,0,10,6,0.599,0,0,0.0,5,5,1.0,106,95,0
+76402,1974,27403029,1975-02-23 19:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,1,1,4.0,1,1,2,1,1,0,0,0,1,0,0,0,0.0,0,0,0.0,2,1,0.5,111,105,0
+76402,1974,27403030,1975-03-13 19:00:00,Cleveland,Cavaliers,Los Angeles,Lakers,Regular Season,1,1,11.0,1,1,2,1,1,0,1,0,1,0,4,0,0.0,0,0,0.0,1,1,1.0,104,85,0
+76402,1974,27403032,1975-03-15 19:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,1,0,19.0,2,0,2,2,0,0,0,0,1,0,5,1,0.2,0,0,0.0,0,0,0.0,88,96,0
+76402,1974,27400608,1975-03-16 19:00:00,Cleveland,Cavaliers,New Orleans,Jazz,Regular Season,0,1,38.0,17,4,6,3,3,0,1,0,3,0,20,7,0.349,0,0,0.0,4,3,0.75,111,113,0
+76402,1974,27400618,1975-03-18 19:00:00,Cleveland,Cavaliers,Washington,Bullets,Regular Season,1,1,39.0,8,8,5,4,1,0,1,0,2,0,7,4,0.57,0,0,0.0,0,0,0.0,112,98,0
+76402,1974,27403033,1975-03-20 19:00:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,1,1,43.0,11,7,8,5,3,0,0,0,3,0,11,4,0.363,0,0,0.0,4,3,0.75,87,83,0
+76402,1974,27400638,1975-03-22 19:00:00,Cleveland,Cavaliers,Washington,Bullets,Regular Season,0,0,33.0,6,4,5,5,0,0,0,0,4,0,7,2,0.285,0,0,0.0,3,2,0.667,100,97,0
+76402,1974,27403034,1975-03-23 19:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,1,1,34.0,10,6,3,3,0,0,2,0,3,0,6,3,0.5,0,0,0.0,5,4,0.8,101,95,0
+76402,1974,27403036,1975-03-25 19:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,1,0,35.0,13,4,3,3,0,1,1,0,4,0,14,5,0.356,0,0,0.0,4,3,0.75,84,89,0
+76402,1974,27400658,1975-03-27 19:00:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,0,1,43.0,12,4,3,3,0,0,1,0,3,0,13,6,0.462,0,0,0.0,0,0,0.0,83,86,0
+76402,1974,27400660,1975-03-28 19:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,0,0,31.0,18,4,4,3,1,0,1,0,4,0,12,8,0.667,0,0,0.0,2,2,1.0,112,105,0
+76402,1974,27400670,1975-03-29 19:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,0,0,35.0,14,7,9,5,4,0,1,0,4,0,11,7,0.636,0,0,0.0,0,0,0.0,103,97,0
+76402,1974,27400688,1975-04-03 19:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,1,1,46.0,19,6,4,4,0,0,1,0,5,0,16,8,0.5,0,0,0.0,4,3,0.75,100,95,0
+76402,1974,27400704,1975-04-06 19:00:00,Cleveland,Cavaliers,Kansas City-Omaha,Kings,Regular Season,0,0,40.0,17,3,9,6,3,0,1,0,1,0,13,7,0.538,0,0,0.0,6,3,0.5,95,94,0
+76402,1975,27500001,1975-10-23 20:00:00,Cleveland,Cavaliers,Golden State,Warriors,Regular Season,1,0,41.0,18,9,3,2,1,1,2,0,1,0,10,5,0.5,0,0,0.0,9,8,0.889,83,89,0
+76402,1975,27500010,1975-10-25 20:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,0,0,37.0,13,1,1,1,0,0,1,0,6,0,13,5,0.385,0,0,0.0,4,3,0.75,100,91,0
+76402,1975,27503001,1975-10-30 19:00:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,1,1,46.0,16,8,4,0,0,0,0,0,2,0,13,5,0.385,0,0,0.0,7,6,0.856,108,91,0
+76402,1975,27500034,1975-11-01 17:00:00,Cleveland,Cavaliers,New Orleans,Jazz,Regular Season,1,0,0.0,17,4,2,0,0,0,0,0,3,0,7,6,0.856,0,0,0.0,5,5,1.0,91,103,0
+76402,1975,27500043,1975-11-04 20:05:00,Cleveland,Cavaliers,Washington,Bullets,Regular Season,0,0,23.0,4,0,3,3,0,0,0,0,0,0,5,2,0.4,0,0,0.0,0,0,0.0,113,96,0
+76402,1975,27500053,1975-11-06 20:05:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,0,1,33.0,10,5,3,3,0,0,1,0,4,0,7,3,0.428,0,0,0.0,4,4,1.0,108,113,0
+76402,1975,27500057,1975-11-07 19:35:00,Cleveland,Cavaliers,New Orleans,Jazz,Regular Season,0,1,25.0,10,3,5,2,3,0,2,0,4,0,11,4,0.363,0,0,0.0,2,2,1.0,90,94,0
+76402,1975,27500063,1975-11-08 19:35:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,0,0,41.0,14,7,2,2,0,1,2,0,4,0,10,6,0.599,0,0,0.0,2,2,1.0,116,112,0
+76402,1975,27500072,1975-11-11 19:30:00,Cleveland,Cavaliers,Golden State,Warriors,Regular Season,0,0,42.0,12,6,8,7,1,2,1,0,3,0,16,6,0.375,0,0,0.0,0,0,0.0,103,98,0
+76402,1975,27500087,1975-11-14 20:00:00,Cleveland,Cavaliers,Seattle,SuperSonics,Regular Season,0,0,40.0,6,8,10,5,5,2,1,0,5,0,7,3,0.428,0,0,0.0,0,0,0.0,100,97,0
+76402,1975,27500093,1975-11-15 20:00:00,Cleveland,Cavaliers,Portland,Trail Blazers,Regular Season,0,1,39.0,12,9,4,3,1,0,3,0,3,0,10,6,0.599,0,0,0.0,0,0,0.0,95,99,0
+76402,1975,27503002,1975-11-18 19:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,1,0,35.0,10,5,3,2,1,0,3,0,5,0,5,4,0.8,0,0,0.0,2,2,1.0,91,95,0
+76402,1975,27503003,1975-11-20 19:00:00,Cleveland,Cavaliers,Buffalo,Braves,Regular Season,1,0,51.0,17,9,7,6,1,0,2,0,2,0,13,7,0.538,0,0,0.0,6,3,0.5,115,118,0
+76402,1975,27500119,1975-11-22 20:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,0,1,35.0,10,3,3,3,0,0,0,0,4,0,6,4,0.667,0,0,0.0,2,2,1.0,94,95,0
+76402,1975,27503004,1975-11-23 19:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,1,0,37.0,9,5,1,0,1,0,2,0,1,0,14,4,0.285,0,0,0.0,4,1,0.25,90,105,0
+76402,1975,27500127,1975-11-25 19:30:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,0,1,31.0,5,3,6,3,3,0,0,0,0,0,4,1,0.25,0,0,0.0,4,3,0.75,94,98,0
+76402,1975,27503005,1975-11-27 19:00:00,Cleveland,Cavaliers,Kansas City,Kings,Regular Season,1,0,42.0,2,9,8,4,4,0,1,0,1,0,5,1,0.2,0,0,0.0,0,0,0.0,91,95,0
+76402,1975,27503006,1975-11-29 19:00:00,Cleveland,Cavaliers,Seattle,SuperSonics,Regular Season,1,1,27.0,2,6,0,0,0,0,2,0,5,0,3,0,0.0,0,0,0.0,2,2,1.0,124,108,0
+76402,1975,27503007,1975-12-02 19:00:00,Cleveland,Cavaliers,Portland,Trail Blazers,Regular Season,1,1,37.0,11,7,7,5,2,0,3,0,0,0,9,3,0.333,0,0,0.0,5,5,1.0,91,80,0
+76402,1975,27500167,1975-12-04 19:35:00,Cleveland,Cavaliers,Kansas City,Kings,Regular Season,0,0,36.0,18,2,4,1,3,0,1,0,3,0,10,5,0.5,0,0,0.0,10,8,0.8,105,101,0
+76402,1975,27500169,1975-12-05 20:00:00,Cleveland,Cavaliers,Buffalo,Braves,Regular Season,0,0,34.0,10,7,3,3,0,0,0,0,2,0,10,3,0.299,0,0,0.0,4,4,1.0,125,88,0
+76402,1975,27500184,1975-12-09 20:05:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,0,0,46.0,14,5,8,4,4,0,1,0,2,0,16,7,0.438,0,0,0.0,0,0,0.0,100,85,0
+76402,1975,27503008,1975-12-11 19:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,1,1,34.0,10,7,11,7,4,0,1,0,5,0,6,3,0.5,0,0,0.0,4,4,1.0,109,95,0
+76402,1975,27500200,1975-12-12 20:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,0,1,23.0,3,1,3,2,1,0,1,0,1,0,6,1,0.167,0,0,0.0,1,1,1.0,91,109,0
+76402,1975,27503009,1975-12-13 19:00:00,Cleveland,Cavaliers,New Orleans,Jazz,Regular Season,1,1,29.0,14,5,4,3,1,3,2,0,2,0,7,5,0.713,0,0,0.0,4,4,1.0,112,90,0
+76402,1975,27500219,1975-12-16 20:00:00,Cleveland,Cavaliers,Los Angeles,Lakers,Regular Season,0,1,40.0,15,7,5,4,1,2,1,0,2,0,13,6,0.462,0,0,0.0,3,3,1.0,103,123,0
+76402,1975,27500223,1975-12-17 20:00:00,Cleveland,Cavaliers,Seattle,SuperSonics,Regular Season,0,1,41.0,16,8,5,4,1,0,1,0,2,0,10,8,0.8,0,0,0.0,0,0,0.0,101,115,0
+76402,1975,27500231,1975-12-19 19:30:00,Cleveland,Cavaliers,Phoenix,Suns,Regular Season,0,1,46.0,18,5,4,3,1,0,3,0,5,0,15,8,0.533,0,0,0.0,2,2,1.0,124,128,0
+76402,1975,27503010,1975-12-21 19:00:00,Cleveland,Cavaliers,Los Angeles,Lakers,Regular Season,1,1,37.0,17,6,7,3,4,0,0,0,5,0,13,8,0.614,0,0,0.0,2,1,0.5,99,98,0
+76402,1975,27503011,1975-12-26 19:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,1,0,20.0,9,3,3,1,2,0,0,0,1,0,6,2,0.333,0,0,0.0,5,5,1.0,97,98,0
+76402,1975,27500267,1975-12-27 20:05:00,Cleveland,Cavaliers,Washington,Bullets,Regular Season,0,1,37.0,7,5,0,0,0,0,5,0,4,0,7,3,0.428,0,0,0.0,2,1,0.5,100,106,0
+76402,1975,27503012,1975-12-28 19:00:00,Cleveland,Cavaliers,Buffalo,Braves,Regular Season,1,1,36.0,12,8,5,5,0,0,3,0,1,0,12,6,0.5,0,0,0.0,0,0,0.0,111,88,0
+76402,1975,27500284,1975-12-30 20:00:00,Cleveland,Cavaliers,Kansas City,Kings,Regular Season,1,1,30.0,8,5,5,4,1,0,1,0,4,0,8,3,0.375,0,0,0.0,4,2,0.5,110,106,0
+76402,1975,27500292,1976-01-02 20:05:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,0,0,29.0,6,0,5,3,2,0,1,0,3,0,8,3,0.375,0,0,0.0,0,0,0.0,112,101,0
+76402,1975,27500299,1976-01-03 20:00:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,1,0,28.0,3,2,4,4,0,0,2,0,3,0,4,1,0.25,0,0,0.0,1,1,1.0,100,104,0
+76402,1975,27500314,1976-01-07 19:35:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,0,0,30.0,15,6,3,3,0,0,2,0,5,0,16,6,0.375,0,0,0.0,3,3,1.0,119,118,0
+76402,1975,27503013,1976-01-08 19:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,1,1,38.0,11,6,4,2,2,0,0,0,2,0,9,4,0.444,0,0,0.0,4,3,0.75,115,105,0
+76402,1975,27500329,1976-01-10 20:05:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,0,1,25.0,8,1,5,3,2,0,2,0,4,0,7,4,0.57,0,0,0.0,0,0,0.0,100,106,0
+76402,1975,27503014,1976-01-11 19:00:00,Cleveland,Cavaliers,Washington,Bullets,Regular Season,1,1,30.0,16,2,1,0,1,0,1,0,3,0,12,6,0.5,0,0,0.0,4,4,1.0,106,104,0
+76402,1975,27500347,1976-01-14 20:05:00,Cleveland,Cavaliers,Washington,Bullets,Regular Season,0,0,35.0,15,1,2,0,0,0,0,0,4,0,15,6,0.4,0,0,0.0,3,3,1.0,92,88,0
+76402,1975,27503015,1976-01-15 19:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,1,0,40.0,7,6,6,4,2,0,1,0,1,0,10,3,0.299,0,0,0.0,3,1,0.333,91,98,0
+76402,1975,27500364,1976-01-17 20:00:00,Cleveland,Cavaliers,Phoenix,Suns,Regular Season,1,1,45.0,29,9,3,1,2,0,3,0,4,0,17,13,0.765,0,0,0.0,4,3,0.75,105,85,0
+76402,1975,27503016,1976-01-20 19:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,1,1,38.0,10,7,3,3,0,0,3,0,3,0,11,5,0.455,0,0,0.0,2,0,0.0,98,85,0
+76402,1975,27503017,1976-01-22 19:00:00,Cleveland,Cavaliers,Seattle,SuperSonics,Regular Season,1,1,38.0,14,8,3,2,1,0,3,0,1,0,11,4,0.363,0,0,0.0,7,6,0.856,109,99,0
+76402,1975,27503018,1976-01-24 19:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,1,1,31.0,20,7,6,5,1,0,1,0,1,0,14,8,0.57,0,0,0.0,5,4,0.8,132,89,0
+76402,1975,27503019,1976-01-27 19:00:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,1,1,41.0,13,11,8,7,1,0,1,0,3,0,12,6,0.5,0,0,0.0,1,1,1.0,85,83,0
+76402,1975,27500411,1976-01-28 19:35:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,0,0,36.0,11,8,3,2,1,0,0,0,3,0,14,5,0.356,0,0,0.0,1,1,1.0,108,93,0
+76402,1975,27500418,1976-01-30 19:30:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,0,1,40.0,16,5,5,3,2,0,1,0,3,0,15,8,0.533,0,0,0.0,0,0,0.0,89,91,0
+76402,1975,27500431,1976-02-01 19:35:00,Cleveland,Cavaliers,New Orleans,Jazz,Regular Season,0,0,34.0,10,2,1,0,1,0,2,0,3,0,14,4,0.285,0,0,0.0,3,2,0.667,96,95,0
+76402,1975,27500438,1976-02-06 20:05:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,0,1,41.0,14,4,3,2,1,0,3,0,3,0,12,7,0.582,0,0,0.0,0,0,0.0,87,92,0
+76402,1975,27503020,1976-02-08 19:00:00,Cleveland,Cavaliers,Washington,Bullets,Regular Season,1,1,32.0,12,5,3,2,1,0,3,0,2,0,13,6,0.462,0,0,0.0,1,0,0.0,83,78,0
+76402,1975,27503021,1976-02-12 19:00:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,1,1,39.0,17,6,6,2,4,0,2,0,2,0,13,7,0.538,0,0,0.0,4,3,0.75,86,83,0
+76402,1975,27500475,1976-02-13 20:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,0,1,34.0,6,6,3,1,2,0,2,0,2,0,10,1,0.1,0,0,0.0,5,4,0.8,96,101,0
+76402,1975,27500478,1976-02-14 20:00:00,Cleveland,Cavaliers,Buffalo,Braves,Regular Season,0,1,36.0,15,11,2,0,2,0,0,0,3,0,15,7,0.467,0,0,0.0,2,1,0.5,111,114,0
+76402,1975,27503022,1976-02-17 19:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,1,1,33.0,8,8,3,0,0,0,0,0,3,0,8,4,0.5,0,0,0.0,0,0,0.0,112,92,0
+76402,1975,27503023,1976-02-19 19:00:00,Cleveland,Cavaliers,Portland,Trail Blazers,Regular Season,1,1,31.0,6,3,8,6,2,0,1,0,1,0,9,2,0.222,0,0,0.0,2,2,1.0,112,94,0
+76402,1975,27503024,1976-02-22 19:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,1,1,43.0,18,9,9,7,2,0,2,0,3,0,17,8,0.47,0,0,0.0,3,2,0.667,107,103,0
+76402,1975,27500520,1976-02-23 19:35:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,0,0,40.0,23,11,5,1,4,0,0,0,3,0,18,10,0.556,0,0,0.0,4,3,0.75,117,114,0
+76402,1975,27500525,1976-02-25 19:35:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,0,1,28.0,14,8,1,1,0,0,1,0,2,0,10,6,0.599,0,0,0.0,2,2,1.0,101,108,0
+76402,1975,27500544,1976-02-29 19:00:00,Cleveland,Cavaliers,Los Angeles,Lakers,Regular Season,0,0,31.0,9,2,4,2,2,0,2,0,2,0,13,4,0.307,0,0,0.0,2,1,0.5,108,97,0
+76402,1975,27500553,1976-03-03 19:30:00,Cleveland,Cavaliers,Phoenix,Suns,Regular Season,0,0,31.0,11,4,3,3,0,0,2,0,1,0,8,5,0.625,0,0,0.0,2,1,0.5,108,92,0
+76402,1975,27500562,1976-03-05 20:00:00,Cleveland,Cavaliers,Portland,Trail Blazers,Regular Season,0,1,28.0,17,4,4,1,3,1,3,0,2,0,13,7,0.538,0,0,0.0,4,3,0.75,100,113,0
+76402,1975,27500567,1976-03-06 20:00:00,Cleveland,Cavaliers,Golden State,Warriors,Regular Season,0,0,30.0,16,4,4,1,3,0,1,0,4,0,15,7,0.467,0,0,0.0,2,2,1.0,117,106,0
+76402,1975,27503025,1976-03-11 19:00:00,Cleveland,Cavaliers,Golden State,Warriors,Regular Season,1,1,42.0,21,3,9,7,2,1,1,0,3,0,11,6,0.545,0,0,0.0,10,9,0.9,110,99,0
+76402,1975,27500598,1976-03-13 20:00:00,Cleveland,Cavaliers,Phoenix,Suns,Regular Season,1,1,30.0,15,4,7,3,4,0,2,0,2,0,9,7,0.778,0,0,0.0,2,1,0.5,99,77,0
+76402,1975,27503026,1976-03-16 19:00:00,Cleveland,Cavaliers,Los Angeles,Lakers,Regular Season,1,0,33.0,14,6,3,2,1,0,4,0,1,0,10,7,0.699,0,0,0.0,2,0,0.0,105,109,0
+76402,1975,27503027,1976-03-18 19:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,1,1,26.0,6,4,1,0,1,0,0,0,4,0,6,2,0.333,0,0,0.0,2,2,1.0,110,104,0
+76402,1975,27500621,1976-03-19 19:35:00,Cleveland,Cavaliers,New Orleans,Jazz,Regular Season,0,0,36.0,8,2,0,0,0,0,1,0,3,0,10,4,0.4,0,0,0.0,0,0,0.0,103,81,0
+76402,1975,27500626,1976-03-20 20:05:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,0,1,29.0,20,4,4,1,3,0,0,0,6,0,13,9,0.691,0,0,0.0,3,2,0.667,99,107,0
+76402,1975,27503028,1976-03-21 19:00:00,Cleveland,Cavaliers,Washington,Bullets,Regular Season,1,1,36.0,9,5,4,3,1,0,0,0,3,0,10,4,0.4,0,0,0.0,2,1,0.5,95,92,0
+76402,1975,27503029,1976-03-25 19:00:00,Cleveland,Cavaliers,Buffalo,Braves,Regular Season,1,0,32.0,6,5,3,2,1,0,1,0,2,0,8,3,0.375,0,0,0.0,0,0,0.0,94,109,0
+76402,1975,27500655,1976-03-26 19:30:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,0,0,38.0,16,4,6,5,1,0,0,0,3,0,16,7,0.438,0,0,0.0,2,2,1.0,95,93,0
+76402,1975,27503030,1976-03-27 19:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,1,1,12.0,2,0,0,0,0,0,1,0,0,0,2,1,0.5,0,0,0.0,0,0,0.0,103,99,0
+76402,1975,27503031,1976-03-30 19:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,1,1,41.0,19,4,4,2,2,0,1,0,3,0,13,8,0.614,0,0,0.0,4,3,0.75,95,86,0
+76402,1975,27500680,1976-03-31 19:35:00,Cleveland,Cavaliers,New Orleans,Jazz,Regular Season,0,1,33.0,18,4,5,4,1,2,3,0,3,0,19,8,0.42,0,0,0.0,2,2,1.0,101,110,0
+76402,1975,27503032,1976-04-01 19:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,1,0,40.0,15,5,7,6,1,1,2,0,1,0,13,6,0.462,0,0,0.0,4,3,0.75,88,95,0
+76402,1975,27500210,1976-04-03 19:00:00,Cleveland,Cavaliers,Kansas City,Kings,Regular Season,0,0,38.0,14,3,11,5,6,0,1,0,3,0,16,5,0.313,0,0,0.0,4,4,1.0,104,101,0
+76402,1975,27503033,1976-04-04 19:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,1,1,30.0,8,9,2,1,1,0,3,0,1,0,8,3,0.375,0,0,0.0,2,2,1.0,120,92,0
+76402,1975,27500707,1976-04-06 19:30:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,0,1,24.0,12,4,7,6,1,0,1,0,2,0,13,6,0.462,0,0,0.0,0,0,0.0,92,101,0
+76402,1975,27503034,1976-04-08 19:00:00,Cleveland,Cavaliers,New Orleans,Jazz,Regular Season,1,1,36.0,12,6,5,3,2,0,1,0,1,0,10,6,0.599,0,0,0.0,0,0,0.0,111,97,0
+76402,1975,27503035,1976-04-10 19:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,1,1,35.0,13,7,6,5,1,1,1,0,2,0,17,5,0.293,0,0,0.0,4,3,0.75,99,94,0
+76402,1975,27500734,1976-04-11 19:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,0,0,18.0,11,2,3,1,2,0,2,0,0,0,12,5,0.416,0,0,0.0,2,1,0.5,103,78,0
+76402,1975,47503001,1976-04-13 19:00:00,Cleveland,Cavaliers,Washington,Bullets,Playoffs,1,0,36.0,17,8,4,3,1,1,1,0,3,0,12,7,0.582,0,0,0.0,5,3,0.599,95,100,0
+76402,1975,47500222,1976-04-15 19:00:00,Cleveland,Cavaliers,Washington,Bullets,Playoffs,0,1,45.0,14,1,5,3,2,0,0,0,2,0,18,6,0.333,0,0,0.0,2,2,1.0,79,80,0
+76402,1975,47500223,1976-04-17 19:00:00,Cleveland,Cavaliers,Washington,Bullets,Playoffs,1,1,35.0,14,4,2,1,1,0,0,0,4,0,10,5,0.5,0,0,0.0,4,4,1.0,88,76,0
+76402,1975,47500224,1976-04-21 19:00:00,Cleveland,Cavaliers,Washington,Bullets,Playoffs,0,0,29.0,12,4,2,1,1,0,0,0,3,0,14,5,0.356,0,0,0.0,2,2,1.0,109,98,0
+76402,1975,47503003,1976-04-22 19:00:00,Cleveland,Cavaliers,Washington,Bullets,Playoffs,1,1,36.0,6,4,9,6,3,1,0,0,5,0,9,2,0.222,0,0,0.0,2,2,1.0,92,91,0
+76402,1975,47500226,1976-04-26 19:00:00,Cleveland,Cavaliers,Washington,Bullets,Playoffs,0,0,43.0,11,5,4,2,2,0,1,0,4,0,18,3,0.167,0,0,0.0,6,5,0.832,102,98,0
+76402,1975,47500227,1976-04-29 19:00:00,Cleveland,Cavaliers,Washington,Bullets,Playoffs,1,1,41.0,14,6,3,1,2,1,1,0,2,0,18,6,0.333,0,0,0.0,4,2,0.5,87,85,0
+76402,1975,47500301,1976-05-06 19:00:00,Cleveland,Cavaliers,Boston,Celtics,Playoffs,0,0,36.0,18,6,6,4,2,0,0,0,4,0,18,8,0.444,0,0,0.0,2,2,1.0,111,99,0
+76402,1975,47500302,1976-05-09 19:00:00,Cleveland,Cavaliers,Boston,Celtics,Playoffs,0,0,36.0,14,3,4,3,1,0,1,0,0,0,12,6,0.5,0,0,0.0,2,2,1.0,94,89,0
+76402,1975,47503004,1976-05-11 19:00:00,Cleveland,Cavaliers,Boston,Celtics,Playoffs,1,1,43.0,18,3,9,8,1,0,0,0,1,0,14,8,0.57,0,0,0.0,2,2,1.0,83,78,0
+76402,1975,47500304,1976-05-14 19:00:00,Cleveland,Cavaliers,Boston,Celtics,Playoffs,1,1,42.0,16,8,5,5,0,0,2,0,0,0,12,7,0.582,0,0,0.0,3,2,0.667,106,87,0
+76402,1975,47500305,1976-05-16 19:00:00,Cleveland,Cavaliers,Boston,Celtics,Playoffs,0,0,39.0,18,4,7,4,3,0,1,0,1,0,16,7,0.438,0,0,0.0,4,4,1.0,99,94,0
+76402,1975,47500306,1976-05-18 19:00:00,Cleveland,Cavaliers,Boston,Celtics,Playoffs,1,0,42.0,7,5,11,7,4,0,1,0,5,0,13,3,0.231,0,0,0.0,2,1,0.5,87,94,0
+76402,1976,27600013,1976-10-22 19:00:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,1,1,30.0,12,1,6,3,3,1,0,0,2,0,8,4,0.5,0,0,0.0,8,4,0.5,106,95,0
+76402,1976,27603002,1976-10-24 19:00:00,Cleveland,Cavaliers,Los Angeles,Lakers,Regular Season,1,1,34.0,12,8,9,4,5,0,1,0,2,0,12,6,0.5,0,0,0.0,0,0,0.0,100,95,0
+76402,1976,27600038,1976-10-28 19:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,1,1,36.0,9,3,9,7,2,0,1,0,3,0,7,1,0.142,0,0,0.0,9,7,0.778,114,90,0
+76402,1976,27600049,1976-10-30 19:00:00,Cleveland,Cavaliers,Buffalo,Braves,Regular Season,0,1,37.0,14,7,8,4,4,0,3,0,1,0,13,6,0.462,0,0,0.0,3,2,0.667,105,109,0
+76402,1976,27600057,1976-10-31 19:00:00,Cleveland,Cavaliers,New Orleans,Jazz,Regular Season,1,1,35.0,12,5,8,6,2,0,2,0,5,0,7,6,0.856,0,0,0.0,0,0,0.0,106,92,0
+76402,1976,27600059,1976-11-01 19:00:00,Cleveland,Cavaliers,New York,Nets,Regular Season,0,1,38.0,10,3,0,0,0,0,2,0,4,0,9,5,0.556,0,0,0.0,0,0,0.0,75,82,0
+76402,1976,27603004,1976-11-04 19:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,1,1,33.0,12,11,5,4,1,0,3,0,2,0,9,3,0.333,0,0,0.0,7,6,0.856,96,88,0
+76402,1976,27603005,1976-11-06 19:00:00,Cleveland,Cavaliers,New York,Nets,Regular Season,1,1,41.0,13,7,8,6,2,0,2,0,5,0,8,5,0.625,0,0,0.0,4,3,0.75,101,93,0
+76402,1976,27600088,1976-11-07 19:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,0,0,33.0,6,7,3,3,0,0,0,0,3,0,8,3,0.375,0,0,0.0,0,0,0.0,107,97,0
+76402,1976,27603003,1976-11-09 19:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,0,1,33.0,13,4,5,2,3,0,0,0,0,0,14,6,0.428,0,0,0.0,3,1,0.333,90,111,0
+76402,1976,27600101,1976-11-10 19:00:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,0,0,29.0,7,4,6,3,3,0,1,0,2,0,11,2,0.181,0,0,0.0,3,3,1.0,123,112,0
+76402,1976,27600124,1976-11-13 19:00:00,Cleveland,Cavaliers,Phoenix,Suns,Regular Season,0,1,45.0,16,11,6,5,1,1,1,0,3,0,7,5,0.713,0,0,0.0,6,6,1.0,90,103,0
+76402,1976,27600127,1976-11-14 19:00:00,Cleveland,Cavaliers,Los Angeles,Lakers,Regular Season,0,1,36.0,12,8,6,3,3,0,0,0,3,0,12,6,0.5,0,0,0.0,0,0,0.0,95,97,0
+76402,1976,27600140,1976-11-17 19:00:00,Cleveland,Cavaliers,Seattle,SuperSonics,Regular Season,0,0,29.0,6,6,3,1,2,0,2,0,3,0,7,3,0.428,0,0,0.0,1,0,0.0,92,78,0
+76402,1976,27600160,1976-11-21 19:00:00,Cleveland,Cavaliers,New Orleans,Jazz,Regular Season,0,0,28.0,8,2,5,2,3,0,0,0,2,0,9,4,0.444,0,0,0.0,0,0,0.0,97,92,0
+76402,1976,27603006,1976-11-25 19:00:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,1,1,35.0,18,2,6,5,1,0,1,0,1,0,11,7,0.636,0,0,0.0,5,4,0.8,111,105,0
+76402,1976,27603001,1976-11-26 19:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,0,1,43.0,14,7,5,5,0,0,0,0,1,0,9,7,0.778,0,0,0.0,0,0,0.0,92,108,0
+76402,1976,27603007,1976-11-27 19:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,1,1,33.0,6,7,7,5,2,1,3,0,0,0,6,2,0.333,0,0,0.0,2,2,1.0,111,104,0
+76402,1976,27603008,1976-11-30 19:00:00,Cleveland,Cavaliers,Denver,Nuggets,Regular Season,1,1,27.0,2,3,3,1,2,0,3,0,2,0,2,1,0.5,0,0,0.0,0,0,0.0,99,93,0
+76402,1976,27600213,1976-12-01 19:00:00,Cleveland,Cavaliers,Kansas City,Kings,Regular Season,0,1,35.0,5,4,4,3,1,0,0,0,1,0,5,2,0.4,0,0,0.0,3,1,0.333,91,98,0
+76402,1976,27600221,1976-12-03 19:00:00,Cleveland,Cavaliers,Indiana,Pacers,Regular Season,0,0,32.0,14,1,3,3,0,0,0,0,3,0,11,7,0.636,0,0,0.0,2,0,0.0,112,109,0
+76402,1976,27600236,1976-12-05 19:00:00,Cleveland,Cavaliers,Portland,Trail Blazers,Regular Season,0,0,18.0,4,3,2,1,1,0,1,0,1,0,3,1,0.333,0,0,0.0,2,2,1.0,93,89,0
+76402,1976,27600238,1976-12-07 19:00:00,Cleveland,Cavaliers,Golden State,Warriors,Regular Season,0,0,30.0,11,5,4,3,1,2,2,0,4,0,13,4,0.307,0,0,0.0,3,3,1.0,120,104,0
+76402,1976,27600252,1976-12-09 19:00:00,Cleveland,Cavaliers,Denver,Nuggets,Regular Season,0,0,35.0,14,7,4,4,0,1,1,0,4,0,11,6,0.545,0,0,0.0,2,2,1.0,104,94,0
+76402,1976,27603009,1976-12-11 19:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,1,0,43.0,14,2,3,3,0,0,0,0,3,0,13,6,0.462,0,0,0.0,2,2,1.0,94,95,0
+76402,1976,27603010,1976-12-16 19:00:00,Cleveland,Cavaliers,Indiana,Pacers,Regular Season,1,1,37.0,19,5,4,2,2,1,2,0,0,0,12,7,0.582,0,0,0.0,5,5,1.0,111,105,0
+76402,1976,27600297,1976-12-18 19:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,0,0,48.0,25,7,12,8,4,0,5,0,3,0,18,10,0.556,0,0,0.0,5,5,1.0,115,113,0
+76402,1976,27603011,1976-12-19 19:00:00,Cleveland,Cavaliers,San Antonio,Spurs,Regular Season,1,1,38.0,10,10,3,0,3,0,4,0,1,0,12,4,0.333,0,0,0.0,2,2,1.0,106,105,0
+76402,1976,27600314,1976-12-21 19:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,1,1,41.0,23,5,10,6,4,2,0,0,2,0,17,11,0.647,0,0,0.0,3,1,0.333,108,101,0
+76402,1976,27600329,1976-12-25 19:00:00,Cleveland,Cavaliers,Washington,Bullets,Regular Season,0,0,25.0,10,3,2,1,1,0,1,0,3,0,10,5,0.5,0,0,0.0,0,0,0.0,117,99,0
+76402,1976,27603012,1976-12-26 19:00:00,Cleveland,Cavaliers,Buffalo,Braves,Regular Season,1,0,35.0,5,4,5,4,1,0,1,0,3,0,12,2,0.167,0,0,0.0,2,1,0.5,96,103,0
+76402,1976,27603014,1976-12-30 19:00:00,Cleveland,Cavaliers,Seattle,SuperSonics,Regular Season,1,1,31.0,6,1,4,2,2,0,1,0,1,0,7,1,0.142,0,0,0.0,4,4,1.0,105,100,0
+76402,1976,27600358,1977-01-01 19:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,0,0,41.0,18,7,11,0,0,0,0,0,3,0,20,8,0.4,0,0,0.0,2,2,1.0,121,110,0
+76402,1976,27603015,1977-01-02 19:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,1,1,42.0,15,1,3,2,1,0,1,0,3,0,13,7,0.538,0,0,0.0,2,1,0.5,104,80,0
+76402,1976,27603016,1977-01-06 19:00:00,Cleveland,Cavaliers,Golden State,Warriors,Regular Season,1,1,34.0,14,9,11,9,2,1,0,0,2,0,11,6,0.545,0,0,0.0,2,2,1.0,129,100,0
+76402,1976,27600390,1977-01-07 19:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,0,0,30.0,12,3,5,2,3,0,0,0,4,0,16,5,0.313,0,0,0.0,3,2,0.667,116,96,0
+76402,1976,27603017,1977-01-08 19:00:00,Cleveland,Cavaliers,Washington,Bullets,Regular Season,1,1,37.0,10,7,4,4,0,0,1,0,4,0,9,4,0.444,0,0,0.0,4,2,0.5,114,107,0
+76402,1976,27600408,1977-01-11 19:00:00,Cleveland,Cavaliers,Los Angeles,Lakers,Regular Season,1,0,45.0,11,6,1,1,0,1,2,0,0,0,16,5,0.313,0,0,0.0,1,1,1.0,99,101,0
+76402,1976,27600426,1977-01-14 19:00:00,Cleveland,Cavaliers,Denver,Nuggets,Regular Season,0,0,39.0,14,4,4,3,1,1,3,0,0,0,16,5,0.313,0,0,0.0,6,4,0.667,116,96,0
+76402,1976,27600435,1977-01-15 19:00:00,Cleveland,Cavaliers,Phoenix,Suns,Regular Season,0,0,40.0,17,0,4,1,3,0,2,0,3,0,20,8,0.4,0,0,0.0,2,1,0.5,94,79,0
+76402,1976,27600445,1977-01-18 19:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,0,1,44.0,12,9,6,0,0,0,0,0,1,0,15,4,0.267,0,0,0.0,5,4,0.8,93,101,0
+76402,1976,27603018,1977-01-20 19:00:00,Cleveland,Cavaliers,Portland,Trail Blazers,Regular Season,1,0,33.0,6,6,5,4,1,0,1,0,2,0,7,2,0.285,0,0,0.0,4,2,0.5,91,99,0
+76402,1976,27603019,1977-01-22 19:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,1,1,32.0,9,2,3,2,1,0,0,0,1,0,7,4,0.57,0,0,0.0,2,1,0.5,130,116,0
+76402,1976,27600491,1977-01-26 19:00:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,0,0,33.0,8,8,4,0,4,1,4,0,1,0,11,2,0.181,0,0,0.0,7,4,0.57,106,93,0
+76402,1976,27603020,1977-01-27 19:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,1,1,43.0,18,5,6,3,3,1,0,0,2,0,14,8,0.57,0,0,0.0,2,2,1.0,113,111,0
+76402,1976,27600518,1977-02-01 19:00:00,Cleveland,Cavaliers,San Antonio,Spurs,Regular Season,0,0,37.0,6,5,6,5,1,0,0,0,1,0,6,3,0.5,0,0,0.0,0,0,0.0,92,87,0
+76402,1976,27600535,1977-02-04 19:00:00,Cleveland,Cavaliers,Kansas City,Kings,Regular Season,0,1,36.0,8,9,2,1,1,0,1,0,1,0,8,4,0.5,0,0,0.0,0,0,0.0,101,102,0
+76402,1976,27603021,1977-02-06 19:00:00,Cleveland,Cavaliers,New York,Nets,Regular Season,1,0,28.0,2,4,2,2,0,1,0,0,2,0,5,1,0.2,0,0,0.0,0,0,0.0,90,94,0
+76402,1976,27600556,1977-02-08 19:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,0,0,37.0,12,2,6,0,6,1,0,0,1,0,8,4,0.5,0,0,0.0,4,4,1.0,97,81,0
+76402,1976,27603022,1977-02-10 19:00:00,Cleveland,Cavaliers,Indiana,Pacers,Regular Season,1,1,33.0,2,7,3,2,1,2,1,0,3,0,4,1,0.25,0,0,0.0,0,0,0.0,116,101,0
+76402,1976,27600575,1977-02-11 19:00:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,0,0,35.0,12,4,5,4,1,0,1,0,1,0,12,5,0.416,0,0,0.0,2,2,1.0,101,94,0
+76402,1976,27603023,1977-02-15 19:00:00,Cleveland,Cavaliers,Portland,Trail Blazers,Regular Season,1,1,32.0,6,6,2,1,1,1,1,0,2,0,2,1,0.5,0,0,0.0,6,4,0.667,117,96,0
+76402,1976,27600591,1977-02-17 19:00:00,Cleveland,Cavaliers,Buffalo,Braves,Regular Season,0,0,31.0,4,6,2,2,0,1,0,0,0,0,7,2,0.285,0,0,0.0,0,0,0.0,112,103,0
+76402,1976,27603024,1977-02-19 19:00:00,Cleveland,Cavaliers,Phoenix,Suns,Regular Season,1,1,35.0,8,5,5,3,2,1,1,0,3,0,10,4,0.4,0,0,0.0,0,0,0.0,92,88,0
+76402,1976,27600609,1977-02-20 19:00:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,0,0,37.0,13,13,1,1,0,0,0,0,3,0,9,3,0.333,0,0,0.0,7,7,1.0,112,111,0
+76402,1976,27603025,1977-02-24 19:00:00,Cleveland,Cavaliers,Golden State,Warriors,Regular Season,1,1,13.0,0,1,2,2,0,0,0,0,3,0,4,0,0.0,0,0,0.0,0,0,0.0,99,86,0
+76402,1976,27603026,1977-02-26 19:00:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,1,0,34.0,6,4,1,0,1,1,0,0,2,0,7,3,0.428,0,0,0.0,0,0,0.0,98,104,0
+76402,1976,27603028,1977-03-17 19:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,1,0,20.0,4,5,1,1,0,0,1,0,2,0,6,2,0.333,0,0,0.0,0,0,0.0,87,88,0
+76402,1976,27600741,1977-03-18 19:00:00,Cleveland,Cavaliers,New York,Nets,Regular Season,0,1,26.0,13,3,0,0,0,0,0,0,1,0,11,6,0.545,0,0,0.0,1,1,1.0,88,101,0
+76402,1976,27603029,1977-03-19 19:00:00,Cleveland,Cavaliers,San Antonio,Spurs,Regular Season,1,1,15.0,4,4,0,0,0,0,1,0,2,0,5,2,0.4,0,0,0.0,0,0,0.0,94,89,0
+76402,1977,27700005,1977-10-18 20:00:00,New York,Knicks,Kansas City,Kings,Regular Season,1,1,26.0,5,4,3,0,0,0,0,0,1,0,3,2,0.667,0,0,0.0,2,1,0.5,120,113,0
+76402,1977,27700025,1977-10-22 20:00:00,New York,Knicks,Washington,Bullets,Regular Season,1,1,25.0,8,6,1,0,0,0,0,0,2,0,7,3,0.428,0,0,0.0,2,2,1.0,141,115,0
+76402,1977,27700033,1977-10-25 20:00:00,New York,Knicks,Cleveland,Cavaliers,Regular Season,1,0,25.0,4,2,3,3,0,0,1,2,1,0,5,2,0.4,0,0,0.0,0,0,0.0,112,117,0
+76402,1977,27700044,1977-10-26 20:00:00,New York,Knicks,New Orleans,Jazz,Regular Season,0,0,12.0,2,1,0,0,0,0,0,0,0,0,3,1,0.333,0,0,0.0,0,0,0.0,123,106,0
+76402,1977,27700067,1977-11-01 20:00:00,New York,Knicks,Portland,Trail Blazers,Regular Season,0,0,18.0,0,1,1,1,0,0,2,3,1,0,4,0,0.0,0,0,0.0,0,0,0.0,113,104,0
+76402,1977,27700081,1977-11-04 20:00:00,New York,Knicks,Seattle,SuperSonics,Regular Season,0,1,15.0,2,0,1,0,1,0,0,0,0,0,2,0,0.0,0,0,0.0,2,2,1.0,92,95,0
+76402,1977,27700096,1977-11-06 20:00:00,New York,Knicks,Los Angeles,Lakers,Regular Season,0,1,14.0,3,3,1,1,0,0,1,2,3,0,3,1,0.333,0,0,0.0,1,1,1.0,102,106,0
+76402,1977,27700101,1977-11-08 20:00:00,New York,Knicks,San Antonio,Spurs,Regular Season,1,1,22.0,0,3,0,0,0,0,1,2,4,0,1,0,0.0,0,0,0.0,0,0,0.0,123,117,0
+76402,1977,27700107,1977-11-09 20:00:00,New York,Knicks,Buffalo,Braves,Regular Season,0,0,17.0,3,3,3,0,0,0,0,0,1,0,4,0,0.0,0,0,0.0,4,3,0.75,124,113,0
+76402,1977,27700119,1977-11-11 20:00:00,New York,Knicks,Philadelphia,76ers,Regular Season,0,0,15.0,0,5,2,0,0,0,0,0,2,0,2,0,0.0,0,0,0.0,0,0,0.0,127,119,0
+76402,1977,27700127,1977-11-12 20:00:00,New York,Knicks,New Jersey,Nets,Regular Season,1,1,19.0,0,4,1,0,0,0,0,0,1,0,2,0,0.0,0,0,0.0,0,0,0.0,101,90,0
+76402,1977,27700135,1977-11-15 20:00:00,New York,Knicks,New Orleans,Jazz,Regular Season,1,1,40.0,9,5,6,0,0,0,0,0,0,0,7,4,0.57,0,0,0.0,2,1,0.5,108,105,0
+76402,1977,27700148,1977-11-18 20:00:00,New York,Knicks,Washington,Bullets,Regular Season,0,0,36.0,8,4,8,0,0,0,0,0,0,0,7,3,0.428,0,0,0.0,3,2,0.667,123,103,0
+76402,1977,27700157,1977-11-19 20:00:00,New York,Knicks,Indiana,Pacers,Regular Season,1,1,42.0,8,3,3,0,0,0,0,0,2,0,7,2,0.285,0,0,0.0,4,4,1.0,129,127,0
+76402,1977,27700170,1977-11-22 20:00:00,New York,Knicks,Buffalo,Braves,Regular Season,1,0,45.0,6,5,2,0,0,0,0,0,4,0,6,3,0.5,0,0,0.0,0,0,0.0,101,102,0
+76402,1977,27700188,1977-11-25 20:00:00,New York,Knicks,Boston,Celtics,Regular Season,0,0,24.0,2,5,5,0,0,0,0,0,6,0,5,1,0.2,0,0,0.0,0,0,0.0,121,119,0
+76402,1977,27700196,1977-11-26 20:00:00,New York,Knicks,Golden State,Warriors,Regular Season,1,1,37.0,18,3,3,3,0,0,0,0,2,0,9,7,0.778,0,0,0.0,4,4,1.0,112,106,0
+76402,1977,27700203,1977-11-28 20:00:00,New York,Knicks,Houston,Rockets,Regular Season,1,1,26.0,5,2,3,0,0,0,0,0,2,0,3,2,0.667,0,0,0.0,2,1,0.5,104,86,0
+76402,1977,27700206,1977-11-29 20:00:00,New York,Knicks,Houston,Rockets,Regular Season,0,0,26.0,4,6,4,0,0,0,1,0,0,0,6,2,0.333,0,0,0.0,0,0,0.0,120,103,0
+76402,1977,27700221,1977-12-01 20:00:00,New York,Knicks,San Antonio,Spurs,Regular Season,0,0,34.0,14,7,3,0,0,0,1,0,3,0,9,7,0.778,0,0,0.0,1,0,0.0,120,116,0
+76402,1977,27700232,1977-12-03 20:00:00,New York,Knicks,Milwaukee,Bucks,Regular Season,1,0,36.0,12,6,3,0,0,0,3,0,4,0,8,5,0.625,0,0,0.0,2,2,1.0,108,115,0
+76402,1977,27700245,1977-12-06 20:00:00,New York,Knicks,Boston,Celtics,Regular Season,1,1,12.0,2,1,2,0,0,0,0,0,0,0,2,1,0.5,0,0,0.0,0,0,0.0,122,119,0
+76402,1977,27700262,1977-12-09 20:00:00,New York,Knicks,Atlanta,Hawks,Regular Season,0,1,28.0,7,0,5,0,0,0,0,0,4,0,4,3,0.75,0,0,0.0,1,1,1.0,84,103,0
+76402,1977,27700268,1977-12-10 20:00:00,New York,Knicks,Portland,Trail Blazers,Regular Season,1,0,15.0,6,1,3,3,0,0,2,1,0,0,4,3,0.75,0,0,0.0,0,0,0.0,106,107,0
+76402,1977,27700282,1977-12-13 20:00:00,New York,Knicks,Atlanta,Hawks,Regular Season,1,1,37.0,10,8,1,0,0,0,0,0,2,0,5,3,0.599,0,0,0.0,4,4,1.0,107,106,0
+76402,1977,27700285,1977-12-14 20:00:00,New York,Knicks,Indiana,Pacers,Regular Season,0,1,33.0,10,7,7,0,0,0,0,0,2,0,6,4,0.667,0,0,0.0,2,2,1.0,98,101,0
+76402,1977,27700297,1977-12-16 20:00:00,New York,Knicks,Milwaukee,Bucks,Regular Season,0,0,35.0,2,6,5,0,0,0,0,3,2,0,2,1,0.5,0,0,0.0,0,0,0.0,152,150,0
+76402,1977,27700301,1977-12-17 20:00:00,New York,Knicks,Chicago,Bulls,Regular Season,1,1,20.0,2,4,2,0,0,0,0,0,1,0,2,1,0.5,0,0,0.0,0,0,0.0,112,103,0
+76402,1977,27700320,1977-12-20 20:00:00,New York,Knicks,Phoenix,Suns,Regular Season,1,0,33.0,10,8,3,2,1,0,2,2,3,0,9,5,0.556,0,0,0.0,0,0,0.0,99,110,0
+76402,1977,27700329,1977-12-22 20:00:00,New York,Knicks,Cleveland,Cavaliers,Regular Season,0,0,34.0,7,10,8,5,3,0,2,2,5,0,6,2,0.333,0,0,0.0,4,3,0.75,112,100,0
+76402,1977,27700344,1977-12-25 20:00:00,New York,Knicks,Philadelphia,76ers,Regular Season,1,1,25.0,3,4,3,0,0,0,0,0,2,0,3,1,0.333,0,0,0.0,2,1,0.5,113,110,0
+76402,1977,27700362,1977-12-29 20:00:00,New York,Knicks,New Jersey,Nets,Regular Season,0,1,28.0,4,2,7,0,0,0,0,0,3,0,8,2,0.25,0,0,0.0,0,0,0.0,101,109,0
+76402,1977,27700368,1977-12-30 20:00:00,New York,Knicks,New Orleans,Jazz,Regular Season,1,1,41.0,12,7,3,0,0,0,0,0,3,0,11,6,0.545,0,0,0.0,0,0,0.0,118,116,0
+76402,1977,27700376,1978-01-01 20:00:00,New York,Knicks,Cleveland,Cavaliers,Regular Season,1,1,35.0,11,6,4,2,2,0,0,1,2,0,8,4,0.5,0,0,0.0,4,3,0.75,96,87,0
+76402,1977,27700377,1978-01-03 20:00:00,New York,Knicks,Los Angeles,Lakers,Regular Season,1,0,34.0,9,3,8,6,2,0,0,3,2,0,8,4,0.5,0,0,0.0,2,1,0.5,117,120,0
+76402,1977,27700399,1978-01-06 20:00:00,New York,Knicks,Chicago,Bulls,Regular Season,0,1,32.0,11,3,2,0,0,0,0,0,1,0,8,4,0.5,0,0,0.0,3,3,1.0,97,99,0
+76402,1977,27700403,1978-01-07 20:00:00,New York,Knicks,Kansas City,Kings,Regular Season,0,1,40.0,2,6,7,0,0,1,1,0,3,0,8,1,0.125,0,0,0.0,0,0,0.0,93,100,0
+76402,1977,27700417,1978-01-10 20:00:00,New York,Knicks,Portland,Trail Blazers,Regular Season,0,0,22.0,9,2,2,2,0,0,0,1,3,0,7,4,0.57,0,0,0.0,3,1,0.333,126,113,0
+76402,1977,27700430,1978-01-13 20:00:00,New York,Knicks,Golden State,Warriors,Regular Season,0,0,33.0,14,6,3,2,1,0,1,5,3,0,12,7,0.582,0,0,0.0,0,0,0.0,109,96,0
+76402,1977,27700443,1978-01-15 20:00:00,New York,Knicks,Seattle,SuperSonics,Regular Season,0,0,28.0,11,4,4,4,0,0,0,0,1,0,9,5,0.556,0,0,0.0,1,1,1.0,108,102,0
+76402,1977,27700448,1978-01-17 20:00:00,New York,Knicks,Los Angeles,Lakers,Regular Season,0,0,42.0,8,6,0,0,0,0,1,0,2,0,10,4,0.4,0,0,0.0,0,0,0.0,121,108,0
+76402,1977,27700464,1978-01-19 20:00:00,New York,Knicks,Phoenix,Suns,Regular Season,0,0,29.0,4,2,1,1,0,1,2,2,3,0,5,2,0.4,0,0,0.0,2,0,0.0,134,114,0
+76402,1977,27700476,1978-01-22 20:00:00,New York,Knicks,Denver,Nuggets,Regular Season,0,1,27.0,6,4,2,1,1,0,0,1,1,0,4,3,0.75,0,0,0.0,0,0,0.0,141,143,0
+76402,1977,27700485,1978-01-24 20:00:00,New York,Knicks,Golden State,Warriors,Regular Season,1,1,24.0,8,3,3,2,1,1,0,1,2,0,4,4,1.0,0,0,0.0,0,0,0.0,99,97,0
+76402,1977,27700498,1978-01-26 20:00:00,New York,Knicks,Kansas City,Kings,Regular Season,1,1,33.0,10,4,4,0,0,0,0,0,1,0,6,3,0.5,0,0,0.0,4,4,1.0,112,105,0
+76402,1977,27700502,1978-01-27 20:00:00,New York,Knicks,Atlanta,Hawks,Regular Season,0,0,39.0,16,4,5,0,0,0,0,0,1,0,11,6,0.545,0,0,0.0,6,4,0.667,105,96,0
+76402,1977,27700507,1978-01-28 20:00:00,New York,Knicks,Chicago,Bulls,Regular Season,1,1,28.0,10,7,4,0,0,0,0,0,3,0,10,5,0.5,0,0,0.0,0,0,0.0,108,96,0
+76402,1977,27700519,1978-01-31 20:00:00,New York,Knicks,Denver,Nuggets,Regular Season,1,0,28.0,8,9,2,2,0,0,0,4,3,0,6,3,0.5,0,0,0.0,2,2,1.0,115,119,0
+76402,1977,27700536,1978-02-02 20:00:00,New York,Knicks,San Antonio,Spurs,Regular Season,0,0,30.0,14,3,3,0,0,0,0,0,2,0,9,5,0.556,0,0,0.0,5,4,0.8,123,113,0
+76402,1977,27700544,1978-02-03 20:00:00,New York,Knicks,Houston,Rockets,Regular Season,0,0,39.0,14,10,6,0,0,0,2,0,0,0,10,6,0.599,0,0,0.0,2,2,1.0,112,102,0
+76402,1977,27700561,1978-02-09 20:00:00,New York,Knicks,Indiana,Pacers,Regular Season,1,1,11.0,4,2,2,0,0,0,0,0,1,0,4,1,0.25,0,0,0.0,2,2,1.0,126,117,0
+76402,1977,27700592,1978-02-14 20:00:00,New York,Knicks,Cleveland,Cavaliers,Regular Season,0,0,25.0,0,6,0,0,0,0,1,1,1,0,5,0,0.0,0,0,0.0,0,0,0.0,136,127,0
+76402,1977,27700612,1978-02-17 20:00:00,New York,Knicks,Detroit,Pistons,Regular Season,0,1,7.0,2,1,1,0,0,0,0,0,3,0,1,1,1.0,0,0,0.0,0,0,0.0,108,128,0
+76402,1977,27700616,1978-02-18 20:00:00,New York,Knicks,Buffalo,Braves,Regular Season,1,0,11.0,3,0,1,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,4,3,0.75,112,122,0
+76402,1977,27700629,1978-02-21 20:00:00,New York,Knicks,Seattle,SuperSonics,Regular Season,1,1,9.0,0,1,0,0,0,0,0,0,2,0,2,0,0.0,0,0,0.0,0,0,0.0,122,120,0
+76402,1977,27700653,1978-02-25 20:00:00,New York,Knicks,Phoenix,Suns,Regular Season,1,1,15.0,6,1,0,0,0,0,0,1,1,0,4,3,0.75,0,0,0.0,0,0,0.0,122,115,0
+76402,1977,27700665,1978-02-28 20:00:00,New York,Knicks,San Antonio,Spurs,Regular Season,1,1,21.0,2,4,2,0,0,0,1,0,3,0,5,1,0.2,0,0,0.0,0,0,0.0,138,123,0
+76402,1977,27700677,1978-03-02 20:00:00,New York,Knicks,Portland,Trail Blazers,Regular Season,1,1,16.0,2,1,2,0,2,0,1,0,0,0,3,1,0.333,0,0,0.0,0,0,0.0,128,117,0
+76402,1977,27700688,1978-03-04 20:00:00,New York,Knicks,Boston,Celtics,Regular Season,1,1,12.0,2,2,0,0,0,0,0,0,1,0,3,1,0.333,0,0,0.0,0,0,0.0,99,91,0
+76402,1977,27700698,1978-03-05 20:00:00,New York,Knicks,Boston,Celtics,Regular Season,0,0,16.0,0,0,2,0,0,0,0,0,0,0,4,0,0.0,0,0,0.0,0,0,0.0,112,94,0
+76402,1977,27700701,1978-03-07 20:00:00,New York,Knicks,Houston,Rockets,Regular Season,1,1,9.0,4,1,1,0,0,0,0,0,0,0,2,2,1.0,0,0,0.0,0,0,0.0,112,101,0
+76402,1977,27700707,1978-03-08 20:00:00,New York,Knicks,Milwaukee,Bucks,Regular Season,0,0,34.0,6,3,2,0,0,0,2,2,2,0,9,3,0.333,0,0,0.0,0,0,0.0,127,125,0
+76402,1977,27700722,1978-03-10 20:00:00,New York,Knicks,Indiana,Pacers,Regular Season,0,0,29.0,8,5,3,0,0,2,0,0,4,0,8,4,0.5,0,0,0.0,0,0,0.0,122,115,0
+76402,1977,27700724,1978-03-11 20:00:00,New York,Knicks,New Jersey,Nets,Regular Season,1,1,34.0,10,8,4,0,0,0,0,0,5,0,7,4,0.57,0,0,0.0,3,2,0.667,126,117,0
+76402,1977,27700741,1978-03-14 20:00:00,New York,Knicks,Los Angeles,Lakers,Regular Season,1,0,18.0,8,2,5,3,2,0,0,1,1,0,7,4,0.57,0,0,0.0,0,0,0.0,117,135,0
+76402,1977,27700754,1978-03-17 20:00:00,New York,Knicks,Chicago,Bulls,Regular Season,0,0,19.0,13,0,1,0,0,0,0,0,2,0,9,5,0.556,0,0,0.0,3,3,1.0,129,117,0
+76402,1977,27700764,1978-03-18 20:00:00,New York,Knicks,Philadelphia,76ers,Regular Season,1,0,20.0,4,2,1,0,0,0,0,0,1,0,7,2,0.285,0,0,0.0,0,0,0.0,127,141,0
+76402,1977,27700772,1978-03-19 20:00:00,New York,Knicks,Philadelphia,76ers,Regular Season,0,0,13.0,4,1,2,0,0,0,0,0,0,0,5,2,0.4,0,0,0.0,0,0,0.0,125,118,0
+76402,1977,27700785,1978-03-21 20:00:00,New York,Knicks,Denver,Nuggets,Regular Season,0,1,14.0,0,2,1,1,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,114,115,0
+76402,1977,27700793,1978-03-23 20:00:00,New York,Knicks,Phoenix,Suns,Regular Season,0,0,21.0,13,3,3,3,0,0,2,1,1,0,10,6,0.599,0,0,0.0,1,1,1.0,120,108,0
+76402,1977,27700807,1978-03-25 20:00:00,New York,Knicks,Golden State,Warriors,Regular Season,0,0,30.0,8,3,1,1,0,0,1,1,2,0,7,3,0.428,0,0,0.0,2,2,1.0,133,123,0
+76402,1977,27700823,1978-03-28 20:00:00,New York,Knicks,Denver,Nuggets,Regular Season,1,1,15.0,4,2,2,0,0,0,0,1,1,0,5,2,0.4,0,0,0.0,0,0,0.0,106,103,0
+76402,1977,27700833,1978-03-30 20:00:00,New York,Knicks,Washington,Bullets,Regular Season,1,0,26.0,11,4,1,0,0,0,0,0,2,0,7,4,0.57,0,0,0.0,5,3,0.599,108,123,0
+76402,1977,27700840,1978-03-31 20:00:00,New York,Knicks,New Orleans,Jazz,Regular Season,0,1,22.0,11,3,0,0,0,0,0,0,2,0,5,5,1.0,0,0,0.0,1,1,1.0,116,117,0
+76402,1977,27700851,1978-04-02 20:00:00,New York,Knicks,Washington,Bullets,Regular Season,0,1,23.0,6,0,2,0,0,0,0,0,0,0,5,3,0.599,0,0,0.0,0,0,0.0,109,114,0
+76402,1977,27700864,1978-04-04 20:00:00,New York,Knicks,Atlanta,Hawks,Regular Season,1,0,38.0,7,4,2,0,0,0,0,0,3,0,5,2,0.4,0,0,0.0,4,3,0.75,101,105,0
+76402,1977,27700874,1978-04-06 20:00:00,New York,Knicks,Detroit,Pistons,Regular Season,1,1,20.0,4,0,3,0,0,0,0,0,1,0,7,2,0.285,0,0,0.0,0,0,0.0,129,125,0
+76402,1977,27700886,1978-04-07 20:00:00,New York,Knicks,Kansas City,Kings,Regular Season,0,1,23.0,10,3,3,0,0,0,0,0,2,0,5,4,0.8,0,0,0.0,2,2,1.0,112,125,0
+76402,1977,27700894,1978-04-08 20:00:00,New York,Knicks,Buffalo,Braves,Regular Season,0,1,20.0,6,1,0,0,0,0,0,0,2,0,6,3,0.5,0,0,0.0,0,0,0.0,107,118,0
+76402,1977,47700002,1978-04-12 20:00:00,New York,Knicks,Cleveland,Cavaliers,Playoffs,0,1,26.0,6,5,5,0,0,0,0,1,2,0,6,3,0.5,0,0,0.0,0,0,0.0,114,132,0
+76402,1977,47700007,1978-04-14 20:00:00,New York,Knicks,Cleveland,Cavaliers,Playoffs,1,1,22.0,8,3,1,0,0,0,0,0,2,0,5,3,0.599,0,0,0.0,2,2,1.0,109,107,0
+76402,1977,47700011,1978-04-16 20:00:00,New York,Knicks,Philadelphia,76ers,Playoffs,0,0,20.0,4,4,2,0,0,0,1,3,3,0,6,1,0.167,0,0,0.0,2,2,1.0,130,90,0
+76402,1977,47700013,1978-04-18 20:00:00,New York,Knicks,Philadelphia,76ers,Playoffs,0,0,25.0,10,4,0,0,0,0,2,3,3,0,12,5,0.416,0,0,0.0,0,0,0.0,119,100,0
+76402,1977,47700016,1978-04-20 20:00:00,New York,Knicks,Philadelphia,76ers,Playoffs,1,0,13.0,2,4,1,0,0,0,0,0,1,0,4,1,0.25,0,0,0.0,0,0,0.0,126,137,0
+76402,1977,47700021,1978-04-23 20:00:00,New York,Knicks,Philadelphia,76ers,Playoffs,1,0,21.0,4,3,4,0,0,0,0,1,2,0,3,1,0.333,0,0,0.0,2,2,1.0,107,112,0
+76402,1978,27800001,1978-10-13 20:00:00,New York,Knicks,Houston,Rockets,Regular Season,1,0,19.0,0,2,5,0,0,0,0,0,1,0,4,0,0.0,0,0,0.0,0,0,0.0,107,111,0
+76402,1978,27800021,1978-10-17 20:00:00,New York,Knicks,Seattle,SuperSonics,Regular Season,1,0,16.0,4,4,2,1,1,0,0,0,0,0,8,2,0.25,0,0,0.0,0,0,0.0,109,120,0
+76402,1978,27800040,1978-10-20 20:00:00,New York,Knicks,Milwaukee,Bucks,Regular Season,0,1,32.0,4,8,0,0,0,0,2,3,3,0,2,1,0.5,0,0,0.0,5,2,0.4,105,115,0
+76402,1978,27800046,1978-10-21 20:00:00,New York,Knicks,New Jersey,Nets,Regular Season,1,1,26.0,5,3,1,0,0,0,0,0,0,0,3,2,0.667,0,0,0.0,2,1,0.5,109,108,0
+76402,1978,27800053,1978-10-24 20:00:00,New York,Knicks,Atlanta,Hawks,Regular Season,1,1,26.0,0,4,3,0,0,0,0,0,1,0,3,0,0.0,0,0,0.0,0,0,0.0,113,109,0
+76402,1978,27800068,1978-10-25 20:00:00,New York,Knicks,Houston,Rockets,Regular Season,0,0,31.0,14,4,0,0,0,0,2,0,2,0,9,6,0.667,0,0,0.0,2,2,1.0,106,101,0
+76402,1978,27800069,1978-10-26 20:00:00,New York,Knicks,New Orleans,Jazz,Regular Season,0,0,35.0,8,4,3,0,0,0,0,0,3,0,10,4,0.4,0,0,0.0,0,0,0.0,123,111,0
+76402,1978,27800077,1978-10-28 20:00:00,New York,Knicks,Indiana,Pacers,Regular Season,1,1,36.0,9,5,6,0,0,0,2,0,3,0,6,2,0.333,0,0,0.0,7,5,0.713,111,106,0
+76402,1978,27800092,1978-10-31 20:00:00,New York,Knicks,Phoenix,Suns,Regular Season,0,0,27.0,4,3,3,2,1,0,0,0,4,0,6,1,0.167,0,0,0.0,2,2,1.0,120,108,0
+76402,1978,27800102,1978-11-02 20:00:00,New York,Knicks,San Diego,Clippers,Regular Season,0,1,41.0,12,7,4,0,0,0,2,2,3,0,6,4,0.667,0,0,0.0,4,4,1.0,122,127,0
+76402,1978,27800107,1978-11-03 20:00:00,New York,Knicks,Los Angeles,Lakers,Regular Season,0,0,38.0,14,5,4,4,0,0,1,0,0,0,10,7,0.699,0,0,0.0,0,0,0.0,147,124,0
+76402,1978,27800122,1978-11-05 20:00:00,New York,Knicks,Portland,Trail Blazers,Regular Season,0,0,41.0,10,2,1,1,0,0,2,6,1,0,8,5,0.625,0,0,0.0,0,0,0.0,111,96,0
+76402,1978,27800134,1978-11-08 20:00:00,New York,Knicks,Seattle,SuperSonics,Regular Season,0,1,35.0,10,2,4,1,3,0,0,0,3,0,8,4,0.5,0,0,0.0,2,2,1.0,100,104,0
+76402,1978,27800136,1978-11-09 20:00:00,New York,Knicks,Denver,Nuggets,Regular Season,0,0,32.0,12,5,1,0,1,0,3,2,4,0,13,6,0.462,0,0,0.0,0,0,0.0,116,109,0
+76402,1978,27800149,1978-11-11 20:00:00,New York,Knicks,Boston,Celtics,Regular Season,1,1,40.0,11,2,2,1,1,0,0,3,3,0,6,4,0.667,0,0,0.0,3,3,1.0,111,98,0
+76402,1978,27800194,1978-11-21 20:00:00,New York,Knicks,Detroit,Pistons,Regular Season,1,1,28.0,8,4,2,0,0,0,0,0,1,0,9,4,0.444,0,0,0.0,0,0,0.0,96,79,0
+76402,1978,27800914,1978-11-24 19:00:00,New York,Knicks,Boston,Celtics,Regular Season,0,0,34.0,4,3,4,4,0,0,0,3,1,0,5,2,0.4,0,0,0.0,0,0,0.0,109,98,0
+76402,1978,27800221,1978-11-25 20:00:00,New York,Knicks,New Orleans,Jazz,Regular Season,1,1,36.0,8,7,2,0,0,0,0,0,1,0,6,3,0.5,0,0,0.0,2,2,1.0,103,96,0
+76402,1978,27800233,1978-11-28 20:00:00,New York,Knicks,Washington,Bullets,Regular Season,1,0,32.0,9,7,3,0,0,0,0,0,1,0,6,4,0.667,0,0,0.0,1,1,1.0,106,133,0
+76402,1978,27800239,1978-11-29 20:00:00,New York,Knicks,Indiana,Pacers,Regular Season,0,0,31.0,8,4,6,0,0,0,0,0,2,0,8,4,0.5,0,0,0.0,0,0,0.0,101,99,0
+76402,1978,27800241,1978-11-30 20:00:00,New York,Knicks,Atlanta,Hawks,Regular Season,0,0,39.0,8,6,0,0,0,0,0,2,2,0,9,3,0.333,0,0,0.0,2,2,1.0,102,96,0
+76402,1978,27800260,1978-12-02 20:00:00,New York,Knicks,Portland,Trail Blazers,Regular Season,1,1,24.0,8,0,2,1,1,1,2,1,2,0,8,4,0.5,0,0,0.0,0,0,0.0,111,77,0
+76402,1978,27800265,1978-12-05 20:00:00,New York,Knicks,Kansas City,Kings,Regular Season,1,0,28.0,13,5,1,0,0,0,0,0,2,0,7,5,0.713,0,0,0.0,5,3,0.599,92,105,0
+76402,1978,27800287,1978-12-09 20:00:00,New York,Knicks,Chicago,Bulls,Regular Season,1,0,32.0,12,5,1,0,0,0,0,0,1,0,7,5,0.713,0,0,0.0,4,2,0.5,96,101,0
+76402,1978,27800296,1978-12-12 20:00:00,New York,Knicks,San Diego,Clippers,Regular Season,1,0,32.0,6,6,3,0,0,0,3,1,2,0,4,1,0.25,0,0,0.0,5,4,0.8,103,105,0
+76402,1978,27800307,1978-12-13 20:00:00,New York,Knicks,San Antonio,Spurs,Regular Season,0,0,28.0,4,0,3,0,0,0,2,0,3,0,9,2,0.222,0,0,0.0,0,0,0.0,139,109,0
+76402,1978,27800318,1978-12-15 20:00:00,New York,Knicks,Chicago,Bulls,Regular Season,0,1,37.0,4,5,4,0,0,0,0,0,2,0,3,0,0.0,0,0,0.0,4,4,1.0,94,118,0
+76402,1978,27800327,1978-12-17 20:00:00,New York,Knicks,Atlanta,Hawks,Regular Season,1,1,20.0,1,3,1,0,0,0,0,0,4,0,1,0,0.0,0,0,0.0,1,1,1.0,111,105,0
+76402,1978,27800335,1978-12-19 20:00:00,New York,Knicks,Indiana,Pacers,Regular Season,1,1,28.0,16,5,3,0,0,0,0,0,3,0,10,7,0.699,0,0,0.0,3,2,0.667,130,102,0
+76402,1978,27800344,1978-12-20 20:00:00,New York,Knicks,Atlanta,Hawks,Regular Season,0,0,31.0,17,7,1,0,0,0,0,5,1,0,9,7,0.778,0,0,0.0,4,3,0.75,121,112,0
+76402,1978,27800357,1978-12-23 20:00:00,New York,Knicks,Houston,Rockets,Regular Season,0,0,23.0,6,2,2,0,0,0,0,0,1,0,4,3,0.75,0,0,0.0,0,0,0.0,129,107,0
+76402,1978,27800360,1978-12-25 20:00:00,New York,Knicks,Philadelphia,76ers,Regular Season,1,0,29.0,6,3,3,0,0,0,0,0,1,0,7,3,0.428,0,0,0.0,0,0,0.0,94,109,0
+76402,1978,27800372,1978-12-27 20:00:00,New York,Knicks,New Jersey,Nets,Regular Season,0,1,20.0,6,2,3,0,0,0,0,0,4,0,7,3,0.428,0,0,0.0,0,0,0.0,104,115,0
+76402,1978,27800376,1978-12-28 20:00:00,New York,Knicks,Washington,Bullets,Regular Season,1,1,32.0,10,9,2,0,0,0,0,0,0,0,9,5,0.556,0,0,0.0,0,0,0.0,109,99,0
+76402,1978,27800394,1978-12-30 20:00:00,New York,Knicks,Kansas City,Kings,Regular Season,1,1,33.0,18,0,4,0,0,0,0,0,2,0,13,7,0.538,0,0,0.0,5,4,0.8,112,108,0
+76402,1978,27800402,1979-01-02 20:00:00,New York,Knicks,Phoenix,Suns,Regular Season,1,0,33.0,6,4,0,0,0,0,0,2,1,0,8,2,0.25,0,0,0.0,3,2,0.667,102,114,0
+76402,1978,27800414,1979-01-04 20:00:00,New York,Knicks,Cleveland,Cavaliers,Regular Season,0,0,32.0,11,6,4,1,3,0,2,2,1,0,10,4,0.4,0,0,0.0,4,3,0.75,117,103,0
+76402,1978,27800430,1979-01-06 20:00:00,New York,Knicks,San Antonio,Spurs,Regular Season,1,1,27.0,6,6,6,0,0,0,1,0,2,0,7,2,0.285,0,0,0.0,2,2,1.0,108,105,0
+76402,1978,27800439,1979-01-09 20:00:00,New York,Knicks,Los Angeles,Lakers,Regular Season,1,0,23.0,2,1,1,1,0,0,1,1,1,0,4,1,0.25,0,0,0.0,0,0,0.0,94,106,0
+76402,1978,27800454,1979-01-12 20:00:00,New York,Knicks,Denver,Nuggets,Regular Season,0,0,31.0,13,5,3,2,1,0,0,3,1,0,11,6,0.545,0,0,0.0,2,1,0.5,126,119,0
+76402,1978,27800466,1979-01-14 20:00:00,New York,Knicks,Kansas City,Kings,Regular Season,0,0,34.0,10,2,3,0,0,0,0,0,4,0,5,4,0.8,0,0,0.0,2,2,1.0,124,104,0
+76402,1978,27800472,1979-01-16 20:00:00,New York,Knicks,Detroit,Pistons,Regular Season,1,1,15.0,4,3,2,0,0,0,0,0,1,0,0,0,0.0,0,0,0.0,5,4,0.8,111,110,0
+76402,1978,27800489,1979-01-19 20:00:00,New York,Knicks,Cleveland,Cavaliers,Regular Season,1,1,33.0,17,8,1,0,0,0,0,0,2,0,11,7,0.636,0,0,0.0,4,3,0.75,105,101,0
+76402,1978,27800503,1979-01-21 20:00:00,New York,Knicks,Milwaukee,Bucks,Regular Season,0,0,29.0,12,9,2,0,0,0,1,0,2,0,13,5,0.385,0,0,0.0,2,2,1.0,138,114,0
+76402,1978,27800507,1979-01-23 20:00:00,New York,Knicks,Los Angeles,Lakers,Regular Season,0,0,25.0,12,7,1,1,0,0,0,3,1,0,13,6,0.462,0,0,0.0,0,0,0.0,148,124,0
+76402,1978,27800517,1979-01-24 20:00:00,New York,Knicks,Golden State,Warriors,Regular Season,0,0,37.0,17,7,6,5,1,0,1,1,6,0,15,8,0.533,0,0,0.0,2,1,0.5,126,123,0
+76402,1978,27800526,1979-01-26 20:00:00,New York,Knicks,Phoenix,Suns,Regular Season,0,0,23.0,8,2,2,2,0,0,1,3,0,0,9,4,0.444,0,0,0.0,0,0,0.0,108,107,0
+76402,1978,27800535,1979-01-28 20:00:00,New York,Knicks,Washington,Bullets,Regular Season,0,0,27.0,3,3,0,0,0,0,0,0,0,0,5,1,0.2,0,0,0.0,2,1,0.5,122,105,0
+76402,1978,27800542,1979-01-29 20:00:00,New York,Knicks,Golden State,Warriors,Regular Season,1,0,38.0,24,14,4,2,2,0,2,0,1,0,16,10,0.625,0,0,0.0,4,4,1.0,104,107,0
+76402,1978,27800553,1979-01-31 20:00:00,New York,Knicks,Detroit,Pistons,Regular Season,0,1,40.0,11,12,7,0,0,0,0,0,0,0,12,3,0.25,0,0,0.0,7,5,0.713,86,108,0
+76402,1978,27800563,1979-02-02 20:00:00,New York,Knicks,Philadelphia,76ers,Regular Season,0,1,38.0,12,4,7,0,0,0,0,0,3,0,11,5,0.455,0,0,0.0,2,2,1.0,101,105,0
+76402,1978,27800575,1979-02-06 20:00:00,New York,Knicks,Seattle,SuperSonics,Regular Season,1,1,33.0,7,5,5,2,3,0,0,0,2,0,10,3,0.299,0,0,0.0,2,1,0.5,108,99,0
+76402,1978,27800583,1979-02-07 20:00:00,New York,Knicks,New Orleans,Jazz,Regular Season,0,0,44.0,19,7,7,0,0,0,0,0,3,0,16,8,0.5,0,0,0.0,7,3,0.428,125,123,0
+76402,1978,27800596,1979-02-10 20:00:00,New York,Knicks,Boston,Celtics,Regular Season,1,0,36.0,11,6,4,3,1,0,1,1,3,0,7,4,0.57,0,0,0.0,3,3,1.0,102,106,0
+76402,1978,27800603,1979-02-11 20:00:00,New York,Knicks,Boston,Celtics,Regular Season,0,0,33.0,12,5,5,5,0,1,2,3,2,0,11,3,0.273,0,0,0.0,6,6,1.0,107,102,0
+76402,1978,27800620,1979-02-14 20:00:00,New York,Knicks,Indiana,Pacers,Regular Season,0,0,34.0,13,4,5,0,0,0,0,0,1,0,12,5,0.416,0,0,0.0,4,3,0.75,106,97,0
+76402,1978,27800625,1979-02-16 20:00:00,New York,Knicks,Chicago,Bulls,Regular Season,0,0,37.0,8,7,3,0,0,0,0,0,3,0,9,3,0.333,0,0,0.0,2,2,1.0,107,104,0
+76402,1978,27800634,1979-02-17 20:00:00,New York,Knicks,Cleveland,Cavaliers,Regular Season,1,0,40.0,14,9,6,2,4,0,0,1,5,0,15,7,0.467,0,0,0.0,0,0,0.0,117,127,0
+76402,1978,27800645,1979-02-20 20:00:00,New York,Knicks,Phoenix,Suns,Regular Season,1,0,28.0,15,7,1,0,1,0,0,2,2,0,7,5,0.713,0,0,0.0,5,5,1.0,107,117,0
+76402,1978,27800669,1979-02-24 20:00:00,New York,Knicks,New Jersey,Nets,Regular Season,1,1,42.0,12,6,6,0,0,0,0,0,1,0,12,6,0.5,0,0,0.0,0,0,0.0,111,107,0
+76402,1978,27800674,1979-02-25 20:00:00,New York,Knicks,New Jersey,Nets,Regular Season,0,0,43.0,18,9,4,0,0,0,0,0,3,0,13,6,0.462,0,0,0.0,8,6,0.75,116,102,0
+76402,1978,27800681,1979-02-27 20:00:00,New York,Knicks,Golden State,Warriors,Regular Season,1,1,32.0,12,5,1,1,0,1,0,2,1,0,9,6,0.667,0,0,0.0,1,0,0.0,101,99,0
+76402,1978,27800690,1979-02-28 20:00:00,New York,Knicks,San Antonio,Spurs,Regular Season,0,0,21.0,9,2,0,0,0,0,1,0,2,0,11,4,0.363,0,0,0.0,3,1,0.333,135,112,0
+76402,1978,27800705,1979-03-03 20:00:00,New York,Knicks,San Diego,Clippers,Regular Season,1,1,34.0,12,7,5,0,0,0,0,1,2,0,10,5,0.5,0,0,0.0,2,2,1.0,111,108,0
+76402,1978,27800718,1979-03-06 20:00:00,New York,Knicks,Portland,Trail Blazers,Regular Season,1,0,28.0,14,4,0,0,0,0,0,1,2,0,9,6,0.667,0,0,0.0,4,2,0.5,110,118,0
+76402,1978,27800736,1979-03-10 20:00:00,New York,Knicks,San Antonio,Spurs,Regular Season,1,0,35.0,14,8,4,0,0,0,2,0,2,0,11,6,0.545,0,0,0.0,2,2,1.0,110,111,0
+76402,1978,27800750,1979-03-13 20:00:00,New York,Knicks,New Orleans,Jazz,Regular Season,1,1,33.0,10,5,5,0,0,0,0,0,1,0,11,5,0.455,0,0,0.0,0,0,0.0,104,91,0
+76402,1978,27800962,1979-03-15 19:00:00,New York,Knicks,Detroit,Pistons,Regular Season,0,0,26.0,8,4,3,0,0,0,0,0,2,0,9,3,0.333,0,0,0.0,2,2,1.0,88,83,0
+76402,1978,27800773,1979-03-17 20:00:00,New York,Knicks,Philadelphia,76ers,Regular Season,1,1,21.0,2,4,2,0,0,0,0,0,2,0,4,0,0.0,0,0,0.0,2,2,1.0,103,101,0
+76402,1978,27800782,1979-03-18 20:00:00,New York,Knicks,Philadelphia,76ers,Regular Season,0,0,22.0,8,2,1,0,0,0,0,0,0,0,9,4,0.444,0,0,0.0,0,0,0.0,106,90,0
+76402,1978,27800788,1979-03-20 20:00:00,New York,Knicks,Milwaukee,Bucks,Regular Season,1,1,18.0,0,1,2,0,0,0,0,1,1,0,4,0,0.0,0,0,0.0,0,0,0.0,118,110,0
+76402,1978,27800796,1979-03-21 20:00:00,New York,Knicks,Washington,Bullets,Regular Season,0,0,22.0,6,2,2,0,0,0,0,0,0,0,7,3,0.428,0,0,0.0,0,0,0.0,119,106,0
+76402,1978,27800811,1979-03-24 20:00:00,New York,Knicks,Chicago,Bulls,Regular Season,1,0,28.0,8,2,5,0,0,0,0,0,2,0,8,4,0.5,0,0,0.0,0,0,0.0,143,148,0
+76402,1978,27800828,1979-03-27 20:00:00,New York,Knicks,Portland,Trail Blazers,Regular Season,0,0,23.0,8,8,2,1,1,0,2,2,2,0,7,3,0.428,0,0,0.0,2,2,1.0,123,112,0
+76402,1978,27800835,1979-03-28 20:00:00,New York,Knicks,Seattle,SuperSonics,Regular Season,0,0,23.0,9,3,1,1,0,0,0,0,1,0,6,3,0.5,0,0,0.0,6,3,0.5,111,105,0
+76402,1978,27800846,1979-03-30 20:00:00,New York,Knicks,Golden State,Warriors,Regular Season,0,0,19.0,11,3,0,0,0,0,0,1,2,0,9,5,0.556,0,0,0.0,3,1,0.333,114,98,0
+76402,1978,27800858,1979-04-01 20:00:00,New York,Knicks,San Diego,Clippers,Regular Season,0,0,17.0,11,1,3,0,0,0,0,2,1,0,9,5,0.556,0,0,0.0,1,1,1.0,126,116,0
+76402,1978,27800865,1979-04-03 20:00:00,New York,Knicks,Houston,Rockets,Regular Season,1,0,34.0,14,8,2,0,0,0,0,0,1,0,9,7,0.778,0,0,0.0,0,0,0.0,115,116,0
+76402,1978,27800879,1979-04-05 20:00:00,New York,Knicks,Denver,Nuggets,Regular Season,1,0,27.0,10,6,3,2,1,0,1,1,2,0,10,4,0.4,0,0,0.0,2,2,1.0,107,114,0
+76402,1979,27900006,1979-10-12 20:00:00,New York,Knicks,Atlanta,Hawks,Regular Season,0,0,17.0,8,2,3,0,0,0,0,2,0,0,8,2,0.25,1,0,0.0,4,4,1.0,121,104,0
+76402,1979,27900014,1979-10-13 20:00:00,New York,Knicks,Washington,Bullets,Regular Season,1,1,6.0,0,1,1,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,125,118,0
+76402,1979,27900023,1979-10-16 20:00:00,New York,Knicks,Houston,Rockets,Regular Season,1,1,7.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,1,0,0.0,126,121,0
+76402,1979,27900038,1979-10-18 20:00:00,New York,Knicks,Detroit,Pistons,Regular Season,0,0,12.0,6,1,0,0,0,0,0,0,2,0,4,2,0.5,3,1,0.333,1,1,1.0,129,115,0
+76402,1979,27900041,1979-10-19 20:00:00,New York,Knicks,New Jersey,Nets,Regular Season,0,1,19.0,3,4,1,0,0,0,0,0,2,0,3,1,0.333,0,0,0.0,2,1,0.5,106,111,0
+76402,1979,27900053,1979-10-20 20:00:00,New York,Knicks,Philadelphia,76ers,Regular Season,1,0,4.0,4,0,0,0,0,0,0,0,0,0,2,1,0.5,0,0,0.0,2,2,1.0,111,136,0
+76402,1979,27900079,1979-10-26 20:00:00,New York,Knicks,Philadelphia,76ers,Regular Season,0,0,18.0,10,2,2,0,0,0,0,0,2,0,10,5,0.5,0,0,0.0,0,0,0.0,127,116,0
+76402,1979,27900086,1979-10-27 20:00:00,New York,Knicks,New Jersey,Nets,Regular Season,1,1,20.0,4,1,0,0,0,0,0,0,1,0,7,2,0.285,0,0,0.0,0,0,0.0,94,92,0
+76402,1979,27900099,1979-10-30 20:00:00,New York,Knicks,Denver,Nuggets,Regular Season,0,0,11.0,6,1,3,2,1,0,0,0,0,0,6,3,0.5,1,0,0.0,0,0,0.0,121,112,0
+76402,1979,27900111,1979-11-01 20:00:00,New York,Knicks,Utah,Jazz,Regular Season,0,1,22.0,0,5,0,0,0,0,0,0,1,0,2,0,0.0,0,0,0.0,0,0,0.0,118,134,0
+76402,1979,27900115,1979-11-02 20:00:00,New York,Knicks,Kansas City,Kings,Regular Season,0,1,12.0,4,2,1,0,0,0,0,0,2,0,2,2,1.0,0,0,0.0,1,0,0.0,111,112,0
+76402,1979,27900132,1979-11-06 20:00:00,New York,Knicks,Atlanta,Hawks,Regular Season,1,0,4.0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,96,98,0
+76402,1979,27900154,1979-11-10 20:00:00,New York,Knicks,San Antonio,Spurs,Regular Season,1,0,13.0,4,5,2,0,0,0,0,0,0,0,4,2,0.5,0,0,0.0,0,0,0.0,119,123,0
+76402,1979,27900165,1979-11-13 20:00:00,New York,Knicks,Washington,Bullets,Regular Season,1,0,12.0,0,2,2,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,107,111,0
+76402,1979,27900179,1979-11-15 20:00:00,New York,Knicks,San Antonio,Spurs,Regular Season,0,0,21.0,13,4,0,0,0,0,3,0,1,0,5,4,0.8,1,1,1.0,4,4,1.0,136,132,0
+76402,1979,27900189,1979-11-16 20:00:00,New York,Knicks,Houston,Rockets,Regular Season,0,0,4.0,2,0,1,0,0,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,133,130,0
+76402,1979,27900204,1979-11-20 20:00:00,New York,Knicks,Houston,Rockets,Regular Season,1,1,10.0,2,2,1,0,0,1,2,0,0,0,2,1,0.5,0,0,0.0,0,0,0.0,130,125,0
+76402,1979,27900214,1979-11-21 20:00:00,New York,Knicks,Indiana,Pacers,Regular Season,0,0,8.0,5,0,1,0,0,0,0,0,1,0,3,2,0.667,0,1,0.0,0,0,0.0,119,108,0
+76402,1979,27900249,1979-11-27 20:00:00,New York,Knicks,Detroit,Pistons,Regular Season,1,1,8.0,2,1,0,0,0,0,0,0,0,0,3,1,0.333,0,0,0.0,0,0,0.0,116,114,0
+76402,1979,27900259,1979-11-29 20:00:00,New York,Knicks,Cleveland,Cavaliers,Regular Season,0,0,7.0,0,3,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,117,115,0
+76402,1979,27900263,1979-11-30 20:00:00,New York,Knicks,Boston,Celtics,Regular Season,0,0,13.0,2,1,1,0,0,0,0,0,0,0,3,1,0.333,0,0,0.0,0,0,0.0,100,97,0
+76402,1979,27900273,1979-12-01 20:00:00,New York,Knicks,Denver,Nuggets,Regular Season,1,1,6.0,0,1,0,0,0,0,0,1,0,0,1,0,0.0,0,0,0.0,0,0,0.0,121,112,0
+76402,1979,27900288,1979-12-05 20:00:00,Washington,Bullets,New York,Knicks,Regular Season,1,0,13.0,0,1,0,0,0,0,0,0,1,0,2,0,0.0,0,0,0.0,0,0,0.0,104,107,0
+76402,1979,27900311,1979-12-08 20:00:00,Washington,Bullets,Atlanta,Hawks,Regular Season,1,1,30.0,10,2,1,0,0,0,0,0,4,0,6,5,0.832,0,0,0.0,0,0,0.0,96,95,0
+76402,1979,27900321,1979-12-11 20:00:00,Washington,Bullets,Phoenix,Suns,Regular Season,1,0,17.0,6,1,3,0,0,0,0,1,0,0,5,3,0.599,0,0,0.0,0,0,0.0,99,123,0
+76402,1979,27900332,1979-12-13 20:00:00,Washington,Bullets,Cleveland,Cavaliers,Regular Season,0,1,28.0,3,7,5,3,2,0,2,2,2,0,3,1,0.333,1,0,0.0,2,1,0.5,113,115,0
+76402,1979,27900337,1979-12-14 20:00:00,Washington,Bullets,Indiana,Pacers,Regular Season,0,0,27.0,10,5,4,0,0,0,0,0,0,0,6,5,0.832,0,0,0.0,0,0,0.0,111,109,0
+76402,1979,27900346,1979-12-15 20:00:00,Washington,Bullets,Chicago,Bulls,Regular Season,0,1,33.0,10,2,2,0,0,0,0,0,3,0,7,3,0.428,0,1,0.0,4,3,0.75,113,115,0
+76402,1979,27900367,1979-12-19 20:00:00,Washington,Bullets,Kansas City,Kings,Regular Season,1,0,29.0,4,3,0,0,0,0,0,0,0,0,7,2,0.285,0,0,0.0,0,0,0.0,97,107,0
+76402,1979,27900379,1979-12-22 20:00:00,Washington,Bullets,Houston,Rockets,Regular Season,1,1,35.0,13,7,2,0,0,0,0,0,5,0,6,4,0.667,0,0,0.0,6,5,0.832,122,114,0
+76402,1979,27900392,1979-12-25 20:00:00,Washington,Bullets,Philadelphia,76ers,Regular Season,1,0,42.0,9,7,6,0,0,0,0,0,2,0,10,3,0.299,0,0,0.0,4,3,0.75,92,95,0
+76402,1979,27900402,1979-12-26 20:00:00,Washington,Bullets,New Jersey,Nets,Regular Season,0,0,31.0,9,7,2,0,0,0,0,0,4,0,10,4,0.4,0,0,0.0,2,1,0.5,116,104,0
+76402,1979,27900404,1979-12-27 20:00:00,Washington,Bullets,Milwaukee,Bucks,Regular Season,1,1,24.0,4,5,1,0,0,0,0,0,2,0,3,2,0.667,0,0,0.0,0,0,0.0,117,108,0
+76402,1979,27900417,1979-12-29 20:00:00,Washington,Bullets,San Diego,Clippers,Regular Season,1,0,39.0,10,11,7,0,0,0,2,3,3,0,10,5,0.5,1,0,0.0,0,0,0.0,90,93,0
+76402,1979,27900428,1980-01-01 20:00:00,Washington,Bullets,Portland,Trail Blazers,Regular Season,0,0,41.0,14,6,3,2,1,0,1,1,1,0,10,6,0.599,0,0,0.0,2,2,1.0,109,99,0
+76402,1979,27900437,1980-01-02 20:00:00,Washington,Bullets,Seattle,SuperSonics,Regular Season,0,1,46.0,20,3,4,4,0,1,2,4,2,0,11,7,0.636,0,0,0.0,9,6,0.667,134,139,0
+76402,1979,27900445,1980-01-04 20:00:00,Washington,Bullets,Golden State,Warriors,Regular Season,0,1,32.0,18,4,5,2,3,0,1,3,2,0,12,5,0.416,1,0,0.0,10,8,0.8,105,117,0
+76402,1979,27900451,1980-01-05 20:00:00,Washington,Bullets,Utah,Jazz,Regular Season,0,1,38.0,17,3,2,0,0,0,0,0,1,0,12,6,0.5,0,1,0.0,4,4,1.0,107,108,0
+76402,1979,27900472,1980-01-09 20:00:00,Washington,Bullets,Los Angeles,Lakers,Regular Season,1,1,38.0,8,9,5,5,0,0,1,2,3,0,10,4,0.4,0,0,0.0,0,0,0.0,103,101,0
+76402,1979,27900447,1980-01-11 20:00:00,Washington,Bullets,Philadelphia,76ers,Regular Season,0,0,30.0,12,4,4,0,0,0,0,0,2,0,9,5,0.556,0,0,0.0,3,2,0.667,119,106,0
+76402,1979,27900494,1980-01-13 20:00:00,Washington,Bullets,Portland,Trail Blazers,Regular Season,1,1,29.0,10,4,2,2,0,0,1,0,1,0,6,4,0.667,0,0,0.0,3,2,0.667,127,95,0
+76402,1979,27900505,1980-01-15 20:00:00,Washington,Bullets,Seattle,SuperSonics,Regular Season,1,0,37.0,12,7,1,0,1,0,0,3,3,0,11,6,0.545,1,0,0.0,0,0,0.0,100,120,0
+76402,1979,27900517,1980-01-17 20:00:00,Washington,Bullets,Detroit,Pistons,Regular Season,0,0,34.0,16,1,1,0,0,0,0,0,3,0,10,5,0.5,0,0,0.0,8,6,0.75,110,107,0
+76402,1979,27900521,1980-01-18 20:00:00,Washington,Bullets,Houston,Rockets,Regular Season,0,0,36.0,6,5,1,0,0,0,0,0,5,0,12,3,0.25,0,0,0.0,0,0,0.0,134,111,0
+76402,1979,27900529,1980-01-19 20:00:00,Washington,Bullets,San Antonio,Spurs,Regular Season,0,0,31.0,14,6,0,0,0,0,1,0,1,0,13,5,0.385,3,2,0.667,2,2,1.0,130,117,0
+76402,1979,27900536,1980-01-22 20:00:00,Washington,Bullets,Cleveland,Cavaliers,Regular Season,0,0,29.0,4,5,1,0,1,0,0,3,2,0,9,2,0.222,0,0,0.0,0,0,0.0,114,91,0
+76402,1979,27900550,1980-01-24 20:00:00,Washington,Bullets,New Jersey,Nets,Regular Season,1,0,30.0,14,5,4,0,0,0,0,0,3,0,8,6,0.75,0,0,0.0,5,2,0.4,87,98,0
+76402,1979,27900559,1980-01-25 20:00:00,Washington,Bullets,Boston,Celtics,Regular Season,0,1,35.0,7,6,2,0,0,0,0,0,4,0,4,3,0.75,1,0,0.0,2,1,0.5,107,118,0
+76402,1979,27900572,1980-01-27 20:00:00,Washington,Bullets,Golden State,Warriors,Regular Season,1,1,27.0,2,3,1,1,0,1,0,2,4,0,5,1,0.2,1,0,0.0,0,0,0.0,116,107,0
+76402,1979,27900583,1980-01-29 20:00:00,Washington,Bullets,Atlanta,Hawks,Regular Season,0,0,26.0,4,1,3,0,0,0,0,0,2,0,9,2,0.222,0,0,0.0,0,0,0.0,98,82,0
+76402,1979,27900585,1980-01-30 20:00:00,Washington,Bullets,Indiana,Pacers,Regular Season,1,1,12.0,0,0,1,0,0,0,0,0,4,0,1,0,0.0,0,0,0.0,0,0,0.0,120,119,0
+76402,1979,27900612,1980-02-07 20:00:00,Washington,Bullets,Indiana,Pacers,Regular Season,0,0,16.0,8,4,4,0,0,0,0,0,5,0,5,4,0.8,0,0,0.0,0,0,0.0,134,104,0
+76402,1979,27900622,1980-02-08 20:00:00,Washington,Bullets,Milwaukee,Bucks,Regular Season,0,0,42.0,9,9,4,0,0,1,1,1,1,0,12,4,0.333,2,0,0.0,1,1,1.0,115,90,0
+76402,1979,27900631,1980-02-10 20:00:00,Washington,Bullets,Kansas City,Kings,Regular Season,0,0,26.0,6,3,3,0,0,0,0,0,5,0,7,3,0.428,0,0,0.0,0,0,0.0,108,106,0
+76402,1979,27900635,1980-02-12 20:00:00,Washington,Bullets,Denver,Nuggets,Regular Season,0,1,39.0,18,8,2,1,1,0,0,3,1,0,12,9,0.75,0,0,0.0,0,0,0.0,111,128,0
+76402,1979,27900646,1980-02-13 20:00:00,Washington,Bullets,San Diego,Clippers,Regular Season,0,1,31.0,10,1,2,0,0,0,2,2,1,0,9,4,0.444,0,0,0.0,2,2,1.0,103,108,0
+76402,1979,27900658,1980-02-15 20:00:00,Washington,Bullets,Phoenix,Suns,Regular Season,0,0,21.0,6,4,1,0,0,0,0,3,1,0,6,3,0.5,0,0,0.0,0,0,0.0,116,104,0
+76402,1979,27900673,1980-02-17 20:00:00,Washington,Bullets,Los Angeles,Lakers,Regular Season,0,0,34.0,12,4,4,3,1,0,2,2,2,0,12,6,0.5,0,0,0.0,0,0,0.0,111,107,0
+76402,1979,27900686,1980-02-21 20:00:00,Washington,Bullets,Cleveland,Cavaliers,Regular Season,1,1,24.0,10,7,0,0,0,0,0,0,3,0,6,5,0.832,0,0,0.0,0,0,0.0,118,115,0
+76402,1979,27900690,1980-02-22 20:00:00,Washington,Bullets,San Antonio,Spurs,Regular Season,1,1,27.0,6,7,2,0,0,0,0,0,4,0,6,3,0.5,0,0,0.0,4,0,0.0,123,117,0
+76402,1979,27900700,1980-02-24 20:00:00,Washington,Bullets,New York,Knicks,Regular Season,1,1,21.0,4,4,2,0,0,0,0,0,3,0,3,2,0.667,0,0,0.0,0,0,0.0,112,97,0
+76402,1979,27900717,1980-02-27 20:00:00,Washington,Bullets,Houston,Rockets,Regular Season,0,0,24.0,5,4,5,0,0,0,0,0,0,0,5,2,0.4,0,0,0.0,2,1,0.5,110,97,0
+76402,1979,27900721,1980-02-28 20:00:00,Washington,Bullets,Houston,Rockets,Regular Season,1,1,24.0,2,8,5,0,0,0,0,0,3,0,4,1,0.25,0,0,0.0,0,0,0.0,105,99,0
+76402,1979,27900742,1980-03-02 20:00:00,Washington,Bullets,Indiana,Pacers,Regular Season,1,1,29.0,6,11,0,0,0,0,0,0,1,0,7,3,0.428,1,0,0.0,0,0,0.0,118,104,0
+76402,1979,27900749,1980-03-04 20:00:00,Washington,Bullets,Detroit,Pistons,Regular Season,1,1,24.0,13,6,5,0,0,0,0,0,3,0,7,5,0.713,0,0,0.0,4,3,0.75,135,107,0
+76402,1979,27900758,1980-03-06 20:00:00,Washington,Bullets,New Jersey,Nets,Regular Season,1,0,25.0,4,6,3,0,0,0,0,0,3,0,6,2,0.333,0,0,0.0,0,0,0.0,96,122,0
+76402,1979,27900766,1980-03-07 20:00:00,Washington,Bullets,Detroit,Pistons,Regular Season,0,1,25.0,7,7,0,0,0,0,0,0,0,0,3,1,0.333,0,0,0.0,5,5,1.0,105,106,0
+76402,1979,27900774,1980-03-09 20:00:00,Washington,Bullets,Boston,Celtics,Regular Season,0,1,33.0,13,3,4,2,2,0,1,0,4,0,5,3,0.599,0,0,0.0,8,7,0.875,128,133,0
+76402,1979,27900789,1980-03-11 20:00:00,Washington,Bullets,San Antonio,Spurs,Regular Season,1,0,24.0,8,2,2,0,0,0,0,0,2,0,7,4,0.57,1,0,0.0,0,0,0.0,104,111,0
+76402,1979,27900794,1980-03-12 20:00:00,Washington,Bullets,Philadelphia,76ers,Regular Season,0,0,21.0,10,6,0,0,0,0,0,0,1,0,8,4,0.5,0,0,0.0,2,2,1.0,105,98,0
+76402,1979,27900799,1980-03-14 20:00:00,Washington,Bullets,Houston,Rockets,Regular Season,1,1,25.0,6,1,2,0,0,0,1,0,1,0,3,2,0.667,0,0,0.0,2,2,1.0,92,85,0
+76402,1979,27900809,1980-03-16 20:00:00,Washington,Bullets,New York,Knicks,Regular Season,1,0,20.0,4,2,0,0,0,0,0,0,2,0,5,2,0.4,0,0,0.0,0,0,0.0,124,133,0
+76402,1979,27900826,1980-03-18 20:00:00,Washington,Bullets,San Antonio,Spurs,Regular Season,0,0,28.0,5,2,2,0,0,0,0,0,1,0,7,2,0.285,0,0,0.0,2,1,0.5,100,94,0
+76402,1979,27900835,1980-03-19 20:00:00,Washington,Bullets,Atlanta,Hawks,Regular Season,0,0,15.0,2,2,3,0,0,0,0,0,3,0,5,1,0.2,0,0,0.0,0,0,0.0,109,93,0
+76402,1979,27900839,1980-03-20 20:00:00,Washington,Bullets,Philadelphia,76ers,Regular Season,1,1,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,119,113,0
+76402,1979,27900861,1980-03-23 20:00:00,Washington,Bullets,Detroit,Pistons,Regular Season,1,1,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,119,114,0
+76402,1979,27900877,1980-03-27 20:00:00,Washington,Bullets,Cleveland,Cavaliers,Regular Season,0,0,6.0,2,0,3,0,0,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,118,111,0
+76402,1979,27900882,1980-03-28 20:00:00,Washington,Bullets,Atlanta,Hawks,Regular Season,1,1,18.0,0,1,2,0,0,0,0,0,0,0,2,0,0.0,0,0,0.0,0,0,0.0,100,80,0
+76402,1979,27900902,1980-03-30 20:00:00,Washington,Bullets,New Jersey,Nets,Regular Season,0,1,9.0,2,1,0,0,0,0,0,0,1,0,1,1,1.0,0,0,0.0,0,0,0.0,87,93,0
+76402,1979,47900002,1980-04-02 20:00:00,Washington,Bullets,Philadelphia,76ers,Playoffs,0,0,12.0,0,1,1,1,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,111,96,0
+76402,1979,47900005,1980-04-04 20:00:00,Washington,Bullets,Philadelphia,76ers,Playoffs,1,0,8.0,0,0,0,0,0,0,0,0,0,0,2,0,0.0,0,0,0.0,0,0,0.0,104,112,0

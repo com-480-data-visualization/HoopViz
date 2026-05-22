@@ -1,0 +1,969 @@
+personId,season,gameId,gameDateTimeEst,playerteamCity,playerteamName,opponentteamCity,opponentteamName,gameType,home,win,numMinutes,points,assists,reboundsTotal,reboundsDefensive,reboundsOffensive,blocks,steals,turnovers,foulsPersonal,plusMinusPoints,fieldGoalsAttempted,fieldGoalsMade,fieldGoalsPercentage,threePointersAttempted,threePointersMade,threePointersPercentage,freeThrowsAttempted,freeThrowsMade,freeThrowsPercentage,homeScore,awayScore,attendance
+203500,0,11300001,,Oklahoma City,,,,Pre Season,0,0,15.0,7,0,6,3,3,0,0,3,5,0,4,3,0.75,0,0,0.0,2,1,0.5,0,0,0
+203500,0,11500034,,Oklahoma City,,,,Pre Season,0,0,21.15,10,0,8,3,5,1,0,2,3,4,5,3,0.6,0,0,0.0,5,4,0.8,0,0,0
+203500,0,11600010,,Oklahoma City,,,,Pre Season,0,0,9.283333333333333,7,0,1,1,0,0,0,0,0,8,5,3,0.6,0,0,0.0,2,1,0.5,0,0,0
+203500,0,11600020,,Oklahoma City,,,,Pre Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,,0,0,,0,0,0
+203500,0,11700039,,Oklahoma City,,,,Pre Season,0,0,34.68333333333333,12,0,11,4,7,2,1,2,1,8,10,5,0.5,0,0,0.0,5,2,0.4,0,0,0
+203500,0,11900032,,Oklahoma City,,,,Pre Season,0,0,21.316666666666666,19,1,10,6,4,1,1,2,1,19,12,9,0.75,0,0,0.0,4,1,0.25,0,0,0
+203500,2013,11300021,2013-10-08 15:00:00,Oklahoma City,Thunder,Philadelphia,76ers,Preseason,0,1,17.0,6,1,4,2,2,2,1,1,3,0,4,3,0.75,0,0,0.0,0,0,0.0,99,103,0
+203500,2013,11300054,2013-10-15 20:00:00,Oklahoma City,Thunder,Denver,Nuggets,Preseason,1,1,18.0,5,0,6,1,5,0,1,2,6,0,4,2,0.5,0,0,0.0,4,1,0.25,109,81,0
+203500,2013,11300066,2013-10-17 20:00:00,Oklahoma City,Thunder,New Orleans,Pelicans,Preseason,1,0,34.0,10,2,15,9,6,1,0,3,6,0,7,5,0.713,0,0,0.0,0,0,0.0,102,105,0
+203500,2013,11300082,2013-10-20 19:00:00,Oklahoma City,Thunder,Utah,Jazz,Preseason,1,1,24.0,6,0,10,7,3,2,2,2,3,0,6,2,0.333,1,0,0.0,2,2,1.0,88,82,0
+203500,2013,11300088,2013-10-22 22:00:00,Oklahoma City,Thunder,Phoenix,Suns,Preseason,0,0,26.0,10,0,8,3,5,1,0,4,3,0,6,4,0.667,0,0,0.0,4,2,0.5,88,76,0
+203500,2013,11300103,2013-10-23 21:30:00,Oklahoma City,Thunder,Chicago,Bulls,Preseason,1,0,30.0,11,2,7,5,2,2,2,0,1,0,6,4,0.667,0,0,0.0,5,3,0.599,95,104,0
+203500,2013,21300014,2013-10-30 21:00:00,Oklahoma City,Thunder,Utah,Jazz,Regular Season,0,1,18.0,2,1,3,1,2,0,0,0,3,-7,1,1,1.0,0,0,0.0,1,0,0.0,98,101,0
+203500,2013,21300027,2013-11-01 20:00:00,Oklahoma City,Thunder,Minnesota,Timberwolves,Regular Season,0,0,22.0,8,1,8,3,5,1,0,0,5,-14,5,2,0.4,0,0,0.0,6,4,0.667,100,81,0
+203500,2013,21300044,2013-11-03 19:00:00,Oklahoma City,Thunder,Phoenix,Suns,Regular Season,1,1,8.0,2,0,4,0,4,1,0,1,2,-7,3,1,0.333,0,0,0.0,0,0,0.0,103,96,0
+203500,2013,21300069,2013-11-06 21:30:00,Oklahoma City,Thunder,Dallas,Mavericks,Regular Season,1,1,20.0,6,0,9,7,2,1,2,0,1,8,3,2,0.667,0,0,0.0,2,2,1.0,107,93,0
+203500,2013,21300078,2013-11-08 19:30:00,Oklahoma City,Thunder,Detroit,Pistons,Regular Season,0,1,30.0,17,3,10,5,5,3,1,0,5,20,10,7,0.7,0,0,0.0,4,3,0.75,110,119,0
+203500,2013,21300095,2013-11-10 19:00:00,Oklahoma City,Thunder,Washington,Wizards,Regular Season,1,1,19.0,1,0,2,1,1,2,0,1,2,0,3,0,0.0,0,0,0.0,2,1,0.5,106,105,0
+203500,2013,21300122,2013-11-13 22:30:00,Oklahoma City,Thunder,Los Angeles,Clippers,Regular Season,0,0,21.0,7,0,4,2,2,1,0,1,2,-5,4,3,0.75,0,0,0.0,2,1,0.5,111,103,0
+203500,2013,21300124,2013-11-14 22:30:00,Oklahoma City,Thunder,Golden State,Warriors,Regular Season,0,0,14.0,3,0,0,0,0,0,0,1,2,-10,1,1,1.0,0,0,0.0,2,1,0.5,116,115,0
+203500,2013,21300144,2013-11-16 20:30:00,Oklahoma City,Thunder,Milwaukee,Bucks,Regular Season,0,1,13.0,2,1,7,3,4,2,1,0,3,10,4,0,0.0,0,0,0.0,2,2,1.0,79,92,0
+203500,2013,21300152,2013-11-18 20:00:00,Oklahoma City,Thunder,Denver,Nuggets,Regular Season,1,1,5.0,0,1,0,0,0,1,0,0,1,-4,0,0,0.0,0,0,0.0,0,0,0.0,115,113,0
+203500,2013,21300174,2013-11-21 20:00:00,Oklahoma City,Thunder,Los Angeles,Clippers,Regular Season,1,1,23.0,6,2,7,4,3,3,0,1,4,10,5,2,0.4,0,0,0.0,4,2,0.5,105,91,0
+203500,2013,21300200,2013-11-24 19:00:00,Oklahoma City,Thunder,Utah,Jazz,Regular Season,1,1,26.0,3,2,7,7,0,0,1,4,4,-4,5,1,0.2,0,0,0.0,2,1,0.5,95,73,0
+203500,2013,21300224,2013-11-27 20:00:00,Oklahoma City,Thunder,San Antonio,Spurs,Regular Season,1,1,11.0,2,0,3,2,1,0,0,2,1,-3,1,1,1.0,0,0,0.0,0,0,0.0,94,88,0
+203500,2013,21300235,2013-11-29 20:00:00,Oklahoma City,Thunder,Golden State,Warriors,Regular Season,1,1,14.0,5,1,7,3,4,1,0,0,3,-13,3,2,0.667,0,0,0.0,2,1,0.5,113,112,0
+203500,2013,21300253,2013-12-01 19:00:00,Oklahoma City,Thunder,Minnesota,Timberwolves,Regular Season,1,1,8.0,2,1,4,3,1,0,0,0,1,-3,1,1,1.0,0,0,0.0,0,0,0.0,113,103,0
+203500,2013,21300267,2013-12-03 22:00:00,Oklahoma City,Thunder,Sacramento,Kings,Regular Season,0,1,13.0,3,0,5,2,3,0,1,1,3,10,1,0,0.0,0,0,0.0,4,3,0.75,95,97,0
+203500,2013,21300276,2013-12-04 22:00:00,Oklahoma City,Thunder,Portland,Trail Blazers,Regular Season,0,0,13.0,5,1,5,3,2,0,0,1,3,-8,3,2,0.667,0,0,0.0,2,1,0.5,111,104,0
+203500,2013,21300286,2013-12-06 20:00:00,Oklahoma City,Thunder,New Orleans,Pelicans,Regular Season,0,1,3.0,0,0,3,2,1,0,0,0,1,-4,1,0,0.0,0,0,0.0,0,0,0.0,95,109,0
+203500,2013,21300302,2013-12-08 19:00:00,Oklahoma City,Thunder,Indiana,Pacers,Regular Season,1,1,17.0,5,2,4,2,2,2,1,2,4,0,1,1,1.0,0,0,0.0,3,3,1.0,118,94,0
+203500,2013,21300313,2013-12-10 19:30:00,Oklahoma City,Thunder,Atlanta,Hawks,Regular Season,0,1,11.0,4,1,4,2,2,1,0,0,1,-3,3,2,0.667,0,0,0.0,0,0,0.0,92,101,0
+203500,2013,21300320,2013-12-11 20:00:00,Oklahoma City,Thunder,Memphis,Grizzlies,Regular Season,0,1,15.0,3,0,5,3,2,0,1,3,4,3,2,1,0.5,0,0,0.0,2,1,0.5,100,116,0
+203500,2013,21300336,2013-12-13 20:00:00,Oklahoma City,Thunder,Los Angeles,Lakers,Regular Season,1,1,15.0,1,3,5,2,3,2,0,0,5,24,0,0,0.0,0,0,0.0,2,1,0.5,122,97,0
+203500,2013,21300353,2013-12-15 19:00:00,Oklahoma City,Thunder,Orlando,Magic,Regular Season,1,1,20.0,6,0,4,3,1,1,2,3,3,4,3,2,0.667,0,0,0.0,2,2,1.0,101,98,0
+203500,2013,21300367,2013-12-17 21:00:00,Oklahoma City,Thunder,Denver,Nuggets,Regular Season,0,1,9.0,1,0,2,1,1,0,0,1,3,-1,1,0,0.0,0,0,0.0,2,1,0.5,93,105,0
+203500,2013,21300381,2013-12-19 20:00:00,Oklahoma City,Thunder,Chicago,Bulls,Regular Season,1,1,27.0,4,0,7,4,3,2,4,2,5,7,4,1,0.25,0,0,0.0,2,2,1.0,107,95,0
+203500,2013,21300399,2013-12-21 20:30:00,Oklahoma City,Thunder,San Antonio,Spurs,Regular Season,0,1,18.0,4,0,6,5,1,2,1,1,3,1,3,1,0.333,0,0,0.0,4,2,0.5,100,113,0
+203500,2013,21300405,2013-12-22 19:00:00,Oklahoma City,Thunder,Toronto,Raptors,Regular Season,1,0,10.0,0,0,5,2,3,2,0,1,5,6,3,0,0.0,0,0,0.0,0,0,0.0,98,104,0
+203500,2013,21300419,2013-12-25 14:30:00,Oklahoma City,Thunder,New York,Knicks,Regular Season,0,1,12.0,5,2,2,1,1,0,0,0,3,9,1,1,1.0,0,0,0.0,4,3,0.75,94,123,0
+203500,2013,21300427,2013-12-27 19:00:00,Oklahoma City,Thunder,Charlotte,Bobcats,Regular Season,0,1,16.0,6,1,3,1,2,1,0,0,3,1,1,1,1.0,0,0,0.0,6,4,0.667,85,89,0
+203500,2013,21300450,2013-12-29 19:00:00,Oklahoma City,Thunder,Houston,Rockets,Regular Season,1,1,6.0,6,1,1,1,0,0,0,1,0,6,4,3,0.75,0,0,0.0,0,0,0.0,117,86,0
+203500,2013,21300466,2013-12-31 20:00:00,Oklahoma City,Thunder,Portland,Trail Blazers,Regular Season,1,0,19.0,4,1,3,2,1,0,0,3,3,-6,4,1,0.25,0,0,0.0,2,2,1.0,94,98,0
+203500,2013,21300476,2014-01-02 20:00:00,Oklahoma City,Thunder,Brooklyn,Nets,Regular Season,1,0,14.0,7,2,1,0,1,0,2,2,3,-2,3,2,0.667,0,0,0.0,4,3,0.75,93,95,0
+203500,2013,21300493,2014-01-04 20:00:00,Oklahoma City,Thunder,Minnesota,Timberwolves,Regular Season,0,1,15.0,10,0,9,5,4,2,0,2,2,1,5,4,0.8,0,0,0.0,2,2,1.0,111,115,0
+203500,2013,21300502,2014-01-05 19:00:00,Oklahoma City,Thunder,Boston,Celtics,Regular Season,1,1,4.0,0,0,1,0,1,0,0,0,1,-5,2,0,0.0,0,0,0.0,0,0,0.0,119,96,0
+203500,2013,21300518,2014-01-07 21:00:00,Oklahoma City,Thunder,Utah,Jazz,Regular Season,0,0,12.0,4,0,5,3,2,0,0,1,3,-10,3,2,0.667,0,0,0.0,0,0,0.0,112,101,0
+203500,2013,21300530,2014-01-09 22:30:00,Oklahoma City,Thunder,Denver,Nuggets,Regular Season,0,0,18.0,3,1,5,5,0,0,0,1,2,-1,1,1,1.0,0,0,0.0,2,1,0.5,101,88,0
+203500,2013,21300548,2014-01-11 20:00:00,Oklahoma City,Thunder,Milwaukee,Bucks,Regular Season,1,1,11.0,1,1,5,3,2,0,0,0,1,4,2,0,0.0,0,0,0.0,4,1,0.25,101,85,0
+203500,2013,21300564,2014-01-14 20:00:00,Oklahoma City,Thunder,Memphis,Grizzlies,Regular Season,0,0,21.0,5,0,9,5,4,0,1,0,4,10,5,2,0.4,0,0,0.0,1,1,1.0,90,87,0
+203500,2013,21300580,2014-01-16 21:30:00,Oklahoma City,Thunder,Houston,Rockets,Regular Season,0,1,10.0,5,1,4,2,2,0,0,2,6,-6,2,1,0.5,0,0,0.0,4,3,0.75,92,104,0
+203500,2013,21300592,2014-01-17 21:30:00,Oklahoma City,Thunder,Golden State,Warriors,Regular Season,1,1,10.0,6,0,5,2,3,0,1,1,6,8,4,3,0.75,0,0,0.0,0,0,0.0,127,121,0
+203500,2013,21300603,2014-01-19 19:00:00,Oklahoma City,Thunder,Sacramento,Kings,Regular Season,1,1,19.0,0,1,7,4,3,0,2,2,6,6,2,0,0.0,0,0,0.0,0,0,0.0,108,93,0
+203500,2013,21300619,2014-01-21 20:00:00,Oklahoma City,Thunder,Portland,Trail Blazers,Regular Season,1,1,17.0,4,1,6,4,2,1,0,0,2,-1,3,2,0.667,0,0,0.0,0,0,0.0,105,97,0
+203500,2013,21300630,2014-01-22 20:00:00,Oklahoma City,Thunder,San Antonio,Spurs,Regular Season,0,1,14.0,1,0,7,3,4,0,1,2,3,0,2,0,0.0,0,0,0.0,2,1,0.5,105,111,0
+203500,2013,21300636,2014-01-24 19:30:00,Oklahoma City,Thunder,Boston,Celtics,Regular Season,0,1,19.0,3,0,5,3,2,1,0,1,2,-2,4,1,0.25,0,0,0.0,2,1,0.5,83,101,0
+203500,2013,21300648,2014-01-25 19:30:00,Oklahoma City,Thunder,Philadelphia,76ers,Regular Season,0,1,8.0,1,1,1,0,1,1,0,1,1,7,0,0,0.0,0,0,0.0,2,1,0.5,91,103,0
+203500,2013,21300666,2014-01-27 20:00:00,Oklahoma City,Thunder,Atlanta,Hawks,Regular Season,1,1,9.0,2,0,4,1,3,0,1,0,1,1,2,1,0.5,0,0,0.0,2,0,0.0,111,109,0
+203500,2013,21300675,2014-01-29 19:00:00,Oklahoma City,Thunder,Miami,Heat,Regular Season,0,1,1.0,0,0,0,0,0,0,0,0,0,-4,0,0,0.0,0,0,0.0,0,0,0.0,95,112,0
+203500,2013,21300692,2014-01-31 20:00:00,Oklahoma City,Thunder,Brooklyn,Nets,Regular Season,0,1,12.0,4,1,1,1,0,1,1,1,2,-5,3,2,0.667,0,0,0.0,0,0,0.0,95,120,0
+203500,2013,21300698,2014-02-01 19:00:00,Oklahoma City,Thunder,Washington,Wizards,Regular Season,0,0,13.0,2,0,3,1,2,1,0,2,3,-4,2,1,0.5,0,0,0.0,0,0,0.0,96,81,0
+203500,2013,21300716,2014-02-03 20:00:00,Oklahoma City,Thunder,Memphis,Grizzlies,Regular Season,1,1,22.0,3,1,5,2,3,4,1,1,5,0,2,1,0.5,0,0,0.0,4,1,0.25,86,77,0
+203500,2013,21300732,2014-02-05 20:00:00,Oklahoma City,Thunder,Minnesota,Timberwolves,Regular Season,1,1,8.0,0,0,2,1,1,1,0,1,0,-9,0,0,0.0,0,0,0.0,0,0,0.0,106,97,0
+203500,2013,21300740,2014-02-07 19:00:00,Oklahoma City,Thunder,Orlando,Magic,Regular Season,0,0,11.0,0,0,4,3,1,0,0,3,2,5,0,0,0.0,0,0,0.0,0,0,0.0,103,102,0
+203500,2013,21300756,2014-02-09 13:00:00,Oklahoma City,Thunder,New York,Knicks,Regular Season,1,1,5.0,0,0,0,0,0,0,0,0,1,-1,0,0,0.0,0,0,0.0,0,0,0.0,112,100,0
+203500,2013,21300775,2014-02-11 22:00:00,Oklahoma City,Thunder,Portland,Trail Blazers,Regular Season,0,1,12.0,0,0,2,1,1,1,0,1,1,4,1,0,0.0,0,0,0.0,0,0,0.0,95,98,0
+203500,2013,21300791,2014-02-13 22:30:00,Oklahoma City,Thunder,Los Angeles,Lakers,Regular Season,0,1,7.0,0,0,2,1,1,0,0,0,0,-6,0,0,0.0,0,0,0.0,2,0,0.0,103,107,0
+203500,2013,21300813,2014-02-20 20:00:00,Oklahoma City,Thunder,Miami,Heat,Regular Season,1,0,1.0,0,0,0,0,0,0,0,0,0,-4,0,0,0.0,0,0,0.0,0,0,0.0,81,103,0
+203500,2013,21300833,2014-02-23 13:00:00,Oklahoma City,Thunder,Los Angeles,Clippers,Regular Season,1,0,16.0,1,0,6,4,2,1,0,1,3,-16,1,0,0.0,0,0,0.0,2,1,0.5,117,125,0
+203500,2013,21300858,2014-02-26 20:00:00,Oklahoma City,Thunder,Cleveland,Cavaliers,Regular Season,1,0,25.0,4,0,4,3,1,1,1,1,1,1,5,2,0.4,0,0,0.0,0,0,0.0,104,114,0
+203500,2013,21300868,2014-02-28 20:00:00,Oklahoma City,Thunder,Memphis,Grizzlies,Regular Season,1,1,25.0,7,0,5,1,4,2,0,1,3,15,3,1,0.333,0,0,0.0,7,5,0.714,113,107,0
+203500,2013,21300887,2014-03-02 19:00:00,Oklahoma City,Thunder,Charlotte,Bobcats,Regular Season,1,1,19.0,4,1,6,4,2,1,0,0,5,-1,2,2,1.0,0,0,0.0,0,0,0.0,116,99,0
+203500,2013,21300901,2014-03-04 20:00:00,Oklahoma City,Thunder,Philadelphia,76ers,Regular Season,1,1,14.0,2,0,3,2,1,0,0,1,2,13,1,1,1.0,0,0,0.0,4,0,0.0,125,92,0
+203500,2013,21300915,2014-03-06 21:00:00,Oklahoma City,Thunder,Phoenix,Suns,Regular Season,0,0,11.0,0,0,1,1,0,0,0,0,2,12,0,0,0.0,0,0,0.0,0,0,0.0,128,122,0
+203500,2013,21300935,2014-03-09 15:30:00,Oklahoma City,Thunder,Los Angeles,Lakers,Regular Season,0,0,10.0,0,0,2,1,1,0,1,0,1,5,0,0,0.0,0,0,0.0,0,0,0.0,114,110,0
+203500,2013,21300955,2014-03-11 20:00:00,Oklahoma City,Thunder,Houston,Rockets,Regular Season,1,1,23.0,2,0,8,7,1,2,0,0,4,7,2,1,0.5,0,0,0.0,0,0,0.0,106,98,0
+203500,2013,21300970,2014-03-13 21:30:00,Oklahoma City,Thunder,Los Angeles,Lakers,Regular Season,1,1,11.0,4,1,3,2,1,0,0,1,3,8,3,2,0.667,0,0,0.0,0,0,0.0,131,102,0
+203500,2013,21300992,2014-03-16 19:00:00,Oklahoma City,Thunder,Dallas,Mavericks,Regular Season,1,0,11.0,0,0,2,1,1,0,0,1,3,-10,0,0,0.0,0,0,0.0,0,0,0.0,86,109,0
+203500,2013,21300999,2014-03-17 20:00:00,Oklahoma City,Thunder,Chicago,Bulls,Regular Season,0,1,20.0,0,0,6,5,1,2,0,1,3,-2,0,0,0.0,0,0,0.0,0,0,0.0,85,97,0
+203500,2013,21301018,2014-03-20 19:00:00,Oklahoma City,Thunder,Cleveland,Cavaliers,Regular Season,0,1,18.0,4,0,6,3,3,1,0,2,2,-13,3,2,0.667,0,0,0.0,0,0,0.0,95,102,0
+203500,2013,21301024,2014-03-21 19:00:00,Oklahoma City,Thunder,Toronto,Raptors,Regular Season,0,1,18.0,0,2,7,5,2,1,0,0,0,2,2,0,0.0,0,0,0.0,0,0,0.0,118,119,0
+203500,2013,21301053,2014-03-24 20:00:00,Oklahoma City,Thunder,Denver,Nuggets,Regular Season,1,1,23.0,10,1,6,4,2,0,6,1,4,2,6,4,0.667,0,0,0.0,4,2,0.5,117,96,0
+203500,2013,21301059,2014-03-25 20:00:00,Oklahoma City,Thunder,Dallas,Mavericks,Regular Season,0,0,10.0,2,1,2,1,1,0,0,2,1,-3,1,1,1.0,0,0,0.0,0,0,0.0,128,119,0
+203500,2013,21301083,2014-03-28 20:00:00,Oklahoma City,Thunder,Sacramento,Kings,Regular Season,1,1,14.0,5,1,2,2,0,0,0,2,4,-3,2,1,0.5,0,0,0.0,6,3,0.5,94,81,0
+203500,2013,21301093,2014-03-30 15:00:00,Oklahoma City,Thunder,Utah,Jazz,Regular Season,1,1,18.0,8,0,8,5,3,0,2,1,3,15,6,4,0.667,0,0,0.0,0,0,0.0,116,96,0
+203500,2013,21301127,2014-04-03 20:00:00,Oklahoma City,Thunder,San Antonio,Spurs,Regular Season,1,1,12.0,5,0,5,2,3,0,1,1,3,6,4,2,0.5,0,0,0.0,2,1,0.5,106,94,0
+203500,2013,21301139,2014-04-04 21:30:00,Oklahoma City,Thunder,Houston,Rockets,Regular Season,0,0,12.0,2,1,2,1,1,0,0,1,0,5,3,1,0.333,0,0,0.0,0,0,0.0,111,107,0
+203500,2013,21301156,2014-04-06 21:00:00,Oklahoma City,Thunder,Phoenix,Suns,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,122,115,0
+203500,2013,21301160,2014-04-08 22:00:00,Oklahoma City,Thunder,Sacramento,Kings,Regular Season,0,1,27.0,5,0,5,2,3,3,1,0,3,11,1,0,0.0,0,0,0.0,8,5,0.625,92,107,0
+203500,2013,21301173,2014-04-09 22:30:00,Oklahoma City,Thunder,Los Angeles,Clippers,Regular Season,0,1,19.0,7,0,7,5,2,1,1,0,3,5,2,2,1.0,0,0,0.0,5,3,0.6,101,107,0
+203500,2013,21301184,2014-04-11 20:00:00,Oklahoma City,Thunder,New Orleans,Pelicans,Regular Season,1,1,10.0,4,0,1,1,0,0,0,0,1,-3,2,2,1.0,0,0,0.0,1,0,0.0,116,94,0
+203500,2013,21301200,2014-04-13 13:00:00,Oklahoma City,Thunder,Indiana,Pacers,Regular Season,0,0,13.0,4,0,1,1,0,0,2,0,3,-5,3,2,0.667,0,0,0.0,0,0,0.0,102,97,0
+203500,2013,21301210,2014-04-14 20:00:00,Oklahoma City,Thunder,New Orleans,Pelicans,Regular Season,0,0,1.0,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,101,89,0
+203500,2013,21301220,2014-04-16 20:00:00,Oklahoma City,Thunder,Detroit,Pistons,Regular Season,1,1,10.0,1,0,2,0,2,0,0,0,0,-7,1,0,0.0,0,0,0.0,2,1,0.5,112,111,0
+203500,2013,41300151,2014-04-19 21:30:00,Oklahoma City,Thunder,Memphis,Grizzlies,Playoffs,1,1,12.0,0,0,1,1,0,3,0,0,5,2,1,0,0.0,0,0,0.0,0,0,0.0,100,86,0
+203500,2013,41300152,2014-04-21 20:00:00,Oklahoma City,Thunder,Memphis,Grizzlies,Playoffs,1,0,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,105,111,0
+203500,2013,41300153,2014-04-24 20:00:00,Oklahoma City,Thunder,Memphis,Grizzlies,Playoffs,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,98,95,0
+203500,2013,41300154,2014-04-26 21:30:00,Oklahoma City,Thunder,Memphis,Grizzlies,Playoffs,0,1,5.0,0,0,0,0,0,1,0,1,3,2,0,0,0.0,0,0,0.0,0,0,0.0,89,92,0
+203500,2013,41300155,2014-04-29 21:00:00,Oklahoma City,Thunder,Memphis,Grizzlies,Playoffs,1,0,0.0,0,0,1,1,0,1,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,99,100,0
+203500,2013,41300156,2014-05-01 20:00:00,Oklahoma City,Thunder,Memphis,Grizzlies,Playoffs,0,1,20.0,2,0,3,3,0,5,0,2,4,2,2,1,0.5,0,0,0.0,0,0,0.0,84,104,0
+203500,2013,41300157,2014-05-03 20:00:00,Oklahoma City,Thunder,Memphis,Grizzlies,Playoffs,1,1,25.0,8,0,1,0,1,0,0,1,4,-20,3,3,1.0,0,0,0.0,3,2,0.667,120,109,0
+203500,2013,41300231,2014-05-05 21:30:00,Oklahoma City,Thunder,Los Angeles,Clippers,Playoffs,1,0,19.0,0,0,4,3,1,0,0,1,3,2,0,0,0.0,0,0,0.0,0,0,0.0,105,122,0
+203500,2013,41300232,2014-05-07 21:30:00,Oklahoma City,Thunder,Los Angeles,Clippers,Playoffs,1,1,17.0,6,0,5,3,2,1,0,0,3,-2,4,3,0.75,0,0,0.0,0,0,0.0,112,101,0
+203500,2013,41300233,2014-05-09 22:30:00,Oklahoma City,Thunder,Los Angeles,Clippers,Playoffs,0,1,17.0,4,0,9,5,4,2,0,0,1,1,4,2,0.5,0,0,0.0,0,0,0.0,112,118,0
+203500,2013,41300234,2014-05-11 15:30:00,Oklahoma City,Thunder,Los Angeles,Clippers,Playoffs,0,0,11.0,1,0,4,3,1,1,0,0,5,0,0,0,0.0,0,0,0.0,4,1,0.25,101,99,0
+203500,2013,41300235,2014-05-13 21:30:00,Oklahoma City,Thunder,Los Angeles,Clippers,Playoffs,1,1,23.0,9,1,4,4,0,2,0,0,2,10,5,4,0.8,0,0,0.0,2,1,0.5,105,104,0
+203500,2013,41300236,2014-05-15 22:30:00,Oklahoma City,Thunder,Los Angeles,Clippers,Playoffs,0,1,39.0,10,0,11,8,3,1,1,0,3,17,7,5,0.714,0,0,0.0,1,0,0.0,98,104,0
+203500,2013,41300311,2014-05-19 21:00:00,Oklahoma City,Thunder,San Antonio,Spurs,Playoffs,0,0,17.0,4,1,2,1,1,1,0,0,2,-3,3,2,0.667,0,0,0.0,0,0,0.0,122,105,0
+203500,2013,41300312,2014-05-21 21:00:00,Oklahoma City,Thunder,San Antonio,Spurs,Playoffs,0,0,33.0,9,1,8,3,5,1,0,2,2,-19,5,4,0.8,0,0,0.0,4,1,0.25,112,77,0
+203500,2013,41300313,2014-05-25 20:30:00,Oklahoma City,Thunder,San Antonio,Spurs,Playoffs,1,1,27.0,7,0,9,7,2,4,0,1,2,12,3,2,0.667,0,0,0.0,7,3,0.429,106,97,0
+203500,2013,41300314,2014-05-27 21:00:00,Oklahoma City,Thunder,San Antonio,Spurs,Playoffs,1,1,25.0,4,0,6,6,0,1,0,0,5,5,3,2,0.667,0,0,0.0,2,0,0.0,105,92,0
+203500,2013,41300315,2014-05-29 21:00:00,Oklahoma City,Thunder,San Antonio,Spurs,Playoffs,0,0,19.0,6,1,4,2,2,0,0,1,3,-20,4,3,0.75,0,0,0.0,0,0,0.0,117,89,0
+203500,2013,41300316,2014-05-31 20:30:00,Oklahoma City,Thunder,San Antonio,Spurs,Playoffs,1,0,12.0,0,0,2,2,0,0,0,1,1,-17,1,0,0.0,0,0,0.0,0,0,0.0,107,112,0
+203500,2014,11400019,2014-10-08 21:00:00,Oklahoma City,Thunder,Denver,Nuggets,Preseason,0,0,21.0,15,0,7,3,4,2,1,2,6,-1,8,7,0.875,0,0,0.0,5,1,0.2,114,101,0
+203500,2014,11400032,2014-10-10 20:30:00,Oklahoma City,Thunder,Dallas,Mavericks,Preseason,0,1,28.0,19,0,5,5,0,3,4,2,5,12,9,8,0.889,0,0,0.0,3,3,1.0,109,118,0
+203500,2014,11400051,2014-10-14 20:00:00,Oklahoma City,Thunder,Memphis,Grizzlies,Preseason,1,1,21.0,22,1,6,4,2,1,1,1,3,15,11,9,0.818,0,0,0.0,5,4,0.8,117,107,0
+203500,2014,11400061,2014-10-16 20:00:00,Oklahoma City,Thunder,New Orleans,Pelicans,Preseason,0,0,28.0,12,0,8,4,4,1,1,0,1,-20,11,6,0.545,0,0,0.0,0,0,0.0,120,86,0
+203500,2014,11400069,2014-10-17 20:00:00,Oklahoma City,Thunder,Toronto,Raptors,Preseason,1,0,24.0,8,1,7,4,3,0,0,4,6,-8,7,4,0.571,0,0,0.0,0,0,0.0,90,109,0
+203500,2014,11400081,2014-10-19 19:00:00,Oklahoma City,Thunder,Minnesota,Timberwolves,Preseason,1,0,26.0,4,3,7,5,2,0,1,1,2,-13,2,2,1.0,0,0,0.0,2,0,0.0,94,112,0
+203500,2014,11400093,2014-10-21 20:00:00,Oklahoma City,Thunder,Utah,Jazz,Preseason,1,0,29.0,9,2,8,4,4,2,0,0,4,-17,9,3,0.333,0,0,0.0,7,3,0.429,91,105,0
+203500,2014,21400015,2014-10-29 22:30:00,Oklahoma City,Thunder,Portland,Trail Blazers,Regular Season,0,0,26.0,8,2,7,5,2,0,2,4,3,-4,4,3,0.75,0,0,0.0,3,2,0.667,106,89,0
+203500,2014,21400020,2014-10-30 22:30:00,Oklahoma City,Thunder,Los Angeles,Clippers,Regular Season,0,0,29.0,6,1,10,6,4,0,0,3,5,3,8,2,0.25,1,0,0.0,2,2,1.0,93,90,0
+203500,2014,21400036,2014-11-01 20:00:00,Oklahoma City,Thunder,Denver,Nuggets,Regular Season,1,1,26.0,13,1,3,2,1,1,1,2,3,9,10,6,0.6,0,0,0.0,2,1,0.5,102,91,0
+203500,2014,21400044,2014-11-03 19:30:00,Oklahoma City,Thunder,Brooklyn,Nets,Regular Season,0,0,29.0,9,0,9,5,4,0,1,1,4,-12,10,4,0.4,0,0,0.0,4,1,0.25,116,85,0
+203500,2014,21400052,2014-11-04 19:30:00,Oklahoma City,Thunder,Toronto,Raptors,Regular Season,0,0,30.0,10,2,6,6,0,0,1,2,5,-6,4,3,0.75,0,0,0.0,6,4,0.667,100,88,0
+203500,2014,21400078,2014-11-07 20:00:00,Oklahoma City,Thunder,Memphis,Grizzlies,Regular Season,1,0,33.0,13,2,11,6,5,0,2,1,3,-1,9,6,0.667,0,0,0.0,2,1,0.5,89,91,0
+203500,2014,21400092,2014-11-09 19:00:00,Oklahoma City,Thunder,Sacramento,Kings,Regular Season,1,1,22.0,4,0,5,5,0,0,0,3,5,-5,3,2,0.667,0,0,0.0,0,0,0.0,101,93,0
+203500,2014,21400105,2014-11-11 20:00:00,Oklahoma City,Thunder,Milwaukee,Bucks,Regular Season,0,0,25.0,2,0,10,6,4,1,0,1,2,0,4,0,0.0,0,0,0.0,4,2,0.5,85,78,0
+203500,2014,21400111,2014-11-12 19:30:00,Oklahoma City,Thunder,Boston,Celtics,Regular Season,0,1,24.0,9,1,5,3,2,1,0,3,2,-11,8,3,0.375,0,0,0.0,4,3,0.75,94,109,0
+203500,2014,21400129,2014-11-14 20:00:00,Oklahoma City,Thunder,Detroit,Pistons,Regular Season,1,0,31.0,11,2,8,3,5,5,1,2,4,-16,10,5,0.5,0,0,0.0,3,1,0.333,89,96,0
+203500,2014,21400144,2014-11-16 19:00:00,Oklahoma City,Thunder,Houston,Rockets,Regular Season,1,0,22.0,1,1,6,3,3,6,0,2,5,-5,2,0,0.0,0,0,0.0,2,1,0.5,65,69,0
+203500,2014,21400157,2014-11-18 21:00:00,Oklahoma City,Thunder,Utah,Jazz,Regular Season,0,0,26.0,11,0,8,5,3,3,0,4,4,-2,9,5,0.556,0,0,0.0,4,1,0.25,98,81,0
+203500,2014,21400168,2014-11-19 21:00:00,Oklahoma City,Thunder,Denver,Nuggets,Regular Season,0,0,17.0,8,0,1,0,1,0,0,0,2,-12,3,3,1.0,0,0,0.0,5,2,0.4,107,100,0
+203500,2014,21400178,2014-11-21 20:00:00,Oklahoma City,Thunder,Brooklyn,Nets,Regular Season,1,0,25.0,10,2,4,3,1,2,1,4,2,6,5,4,0.8,0,0,0.0,5,2,0.4,92,94,0
+203500,2014,21400196,2014-11-23 19:00:00,Oklahoma City,Thunder,Golden State,Warriors,Regular Season,1,0,25.0,10,0,6,4,2,1,0,0,2,1,7,4,0.571,0,0,0.0,2,2,1.0,86,91,0
+203500,2014,21400219,2014-11-26 20:00:00,Oklahoma City,Thunder,Utah,Jazz,Regular Season,1,1,23.0,6,2,11,6,5,0,0,1,2,1,9,3,0.333,0,0,0.0,0,0,0.0,97,82,0
+203500,2014,21400229,2014-11-28 20:00:00,Oklahoma City,Thunder,New York,Knicks,Regular Season,1,1,23.0,6,0,13,11,2,0,1,2,3,21,9,3,0.333,0,0,0.0,0,0,0.0,105,78,0
+203500,2014,21400258,2014-12-02 20:00:00,Oklahoma City,Thunder,New Orleans,Pelicans,Regular Season,0,0,22.0,2,1,5,5,0,2,1,0,2,-11,2,1,0.5,0,0,0.0,1,0,0.0,112,104,0
+203500,2014,21400277,2014-12-05 19:00:00,Oklahoma City,Thunder,Philadelphia,76ers,Regular Season,0,1,13.0,7,1,0,0,0,1,0,1,3,12,3,3,1.0,0,0,0.0,2,1,0.5,91,103,0
+203500,2014,21400297,2014-12-07 18:00:00,Oklahoma City,Thunder,Detroit,Pistons,Regular Season,0,1,17.0,3,0,1,1,0,2,0,3,2,-3,4,1,0.25,0,0,0.0,2,1,0.5,94,96,0
+203500,2014,21400312,2014-12-09 20:00:00,Oklahoma City,Thunder,Milwaukee,Bucks,Regular Season,1,1,12.0,4,0,6,3,3,0,0,1,2,7,5,2,0.4,0,0,0.0,0,0,0.0,114,101,0
+203500,2014,21400326,2014-12-11 20:00:00,Oklahoma City,Thunder,Cleveland,Cavaliers,Regular Season,1,1,22.0,8,0,10,5,5,2,0,0,2,0,5,2,0.4,0,0,0.0,4,4,1.0,103,94,0
+203500,2014,21400335,2014-12-12 20:00:00,Oklahoma City,Thunder,Minnesota,Timberwolves,Regular Season,0,1,28.0,16,1,11,4,7,1,0,2,3,24,12,8,0.667,0,0,0.0,0,0,0.0,92,111,0
+203500,2014,21400352,2014-12-14 19:00:00,Oklahoma City,Thunder,Phoenix,Suns,Regular Season,1,1,24.0,6,1,8,6,2,1,0,1,2,16,2,2,1.0,0,0,0.0,2,2,1.0,112,88,0
+203500,2014,21400368,2014-12-16 22:30:00,Oklahoma City,Thunder,Sacramento,Kings,Regular Season,0,1,26.0,5,0,10,6,4,1,1,1,2,20,2,2,1.0,0,0,0.0,4,1,0.25,92,104,0
+203500,2014,21400382,2014-12-18 22:30:00,Oklahoma City,Thunder,Golden State,Warriors,Regular Season,0,0,13.0,6,0,5,4,1,0,0,1,1,10,4,3,0.75,0,0,0.0,1,0,0.0,114,109,0
+203500,2014,21400392,2014-12-19 22:30:00,Oklahoma City,Thunder,Los Angeles,Lakers,Regular Season,0,1,34.0,9,1,10,8,2,1,1,1,3,-2,9,4,0.444,0,0,0.0,5,1,0.2,103,104,0
+203500,2014,21400408,2014-12-21 19:00:00,Oklahoma City,Thunder,New Orleans,Pelicans,Regular Season,1,0,32.0,12,2,10,5,5,2,2,4,0,7,6,5,0.833,0,0,0.0,4,2,0.5,99,101,0
+203500,2014,21400424,2014-12-23 20:00:00,Oklahoma City,Thunder,Portland,Trail Blazers,Regular Season,1,0,22.0,7,0,11,7,4,1,0,1,3,1,4,3,0.75,0,0,0.0,1,1,1.0,111,115,0
+203500,2014,21400428,2014-12-25 14:30:00,Oklahoma City,Thunder,San Antonio,Spurs,Regular Season,0,1,31.0,16,1,15,8,7,3,2,2,4,27,8,5,0.625,0,0,0.0,12,6,0.5,106,114,0
+203500,2014,21400438,2014-12-26 20:00:00,Oklahoma City,Thunder,Charlotte,Hornets,Regular Season,1,1,25.0,5,1,9,7,2,2,0,1,3,16,3,2,0.667,0,0,0.0,3,1,0.333,98,75,0
+203500,2014,21400455,2014-12-28 19:30:00,Oklahoma City,Thunder,Dallas,Mavericks,Regular Season,0,0,25.0,11,2,6,4,2,1,0,0,4,-7,8,4,0.5,0,0,0.0,5,3,0.6,112,107,0
+203500,2014,21400480,2014-12-31 20:00:00,Oklahoma City,Thunder,Phoenix,Suns,Regular Season,1,1,27.0,9,1,7,4,3,0,1,0,5,-2,7,3,0.429,0,0,0.0,3,3,1.0,137,134,0
+203500,2014,21400489,2015-01-02 20:00:00,Oklahoma City,Thunder,Washington,Wizards,Regular Season,1,1,18.0,0,2,5,5,0,0,0,1,2,1,1,0,0.0,0,0,0.0,0,0,0.0,109,102,0
+203500,2014,21400518,2015-01-05 22:30:00,Oklahoma City,Thunder,Golden State,Warriors,Regular Season,0,0,20.0,10,1,9,7,2,1,1,0,2,-10,6,4,0.667,0,0,0.0,2,2,1.0,117,91,0
+203500,2014,21400532,2015-01-07 22:00:00,Oklahoma City,Thunder,Sacramento,Kings,Regular Season,0,0,14.0,3,1,5,1,4,1,0,1,3,-8,2,1,0.5,0,0,0.0,2,1,0.5,104,83,0
+203500,2014,21400542,2015-01-09 20:00:00,Oklahoma City,Thunder,Utah,Jazz,Regular Season,1,1,22.0,2,0,4,2,2,1,0,2,2,10,3,1,0.333,0,0,0.0,0,0,0.0,99,94,0
+203500,2014,21400584,2015-01-15 20:00:00,Oklahoma City,Thunder,Houston,Rockets,Regular Season,0,0,15.0,5,0,2,0,2,1,1,0,1,-19,3,1,0.333,0,0,0.0,4,3,0.75,112,101,0
+203500,2014,21400593,2015-01-16 20:00:00,Oklahoma City,Thunder,Golden State,Warriors,Regular Season,1,1,26.0,3,2,7,5,2,0,0,3,4,-2,3,1,0.333,0,0,0.0,2,1,0.5,127,115,0
+203500,2014,21400609,2015-01-18 18:00:00,Oklahoma City,Thunder,Orlando,Magic,Regular Season,0,1,17.0,5,3,3,2,1,1,0,0,5,5,4,2,0.5,0,0,0.0,3,1,0.333,99,127,0
+203500,2014,21400623,2015-01-20 19:30:00,Oklahoma City,Thunder,Miami,Heat,Regular Season,0,1,18.0,10,0,3,2,1,1,0,1,4,2,7,5,0.714,0,0,0.0,1,0,0.0,86,94,0
+203500,2014,21400633,2015-01-21 20:00:00,Oklahoma City,Thunder,Washington,Wizards,Regular Season,0,1,38.0,6,2,20,16,4,2,0,0,5,-6,7,3,0.429,0,0,0.0,1,0,0.0,103,105,0
+203500,2014,21400642,2015-01-23 19:30:00,Oklahoma City,Thunder,Atlanta,Hawks,Regular Season,0,0,27.0,9,1,7,4,3,1,0,1,4,-5,6,4,0.667,0,0,0.0,2,1,0.5,103,93,0
+203500,2014,21400658,2015-01-25 15:30:00,Oklahoma City,Thunder,Cleveland,Cavaliers,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,108,98,0
+203500,2014,21400672,2015-01-26 20:00:00,Oklahoma City,Thunder,Minnesota,Timberwolves,Regular Season,1,1,23.0,8,1,5,3,2,4,0,2,3,-2,6,3,0.5,0,0,0.0,4,2,0.5,92,84,0
+203500,2014,21400688,2015-01-28 20:00:00,Oklahoma City,Thunder,New York,Knicks,Regular Season,0,0,29.0,6,0,9,7,2,3,0,3,3,-13,5,2,0.4,0,0,0.0,3,2,0.667,100,92,0
+203500,2014,21400710,2015-01-31 20:00:00,Oklahoma City,Thunder,Memphis,Grizzlies,Regular Season,0,0,22.0,6,1,2,0,2,2,0,1,3,-8,4,3,0.75,0,0,0.0,2,0,0.0,85,74,0
+203500,2014,21400723,2015-02-02 20:00:00,Oklahoma City,Thunder,Orlando,Magic,Regular Season,1,1,26.0,12,2,4,3,1,0,0,3,5,7,7,5,0.714,0,0,0.0,2,2,1.0,104,97,0
+203500,2014,21400738,2015-02-04 20:00:00,Oklahoma City,Thunder,New Orleans,Pelicans,Regular Season,0,1,25.0,8,4,10,5,5,0,0,2,4,5,7,4,0.571,0,0,0.0,0,0,0.0,91,102,0
+203500,2014,21400755,2015-02-06 20:00:00,Oklahoma City,Thunder,New Orleans,Pelicans,Regular Season,1,0,27.0,10,1,6,3,3,1,2,4,4,7,4,4,1.0,0,0,0.0,3,2,0.667,113,116,0
+203500,2014,21400765,2015-02-08 13:00:00,Oklahoma City,Thunder,Los Angeles,Clippers,Regular Season,1,1,12.0,5,1,2,1,1,2,0,0,0,-3,3,2,0.667,0,0,0.0,3,1,0.333,131,108,0
+203500,2014,21400801,2015-02-19 20:00:00,Oklahoma City,Thunder,Dallas,Mavericks,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,104,89,0
+203500,2014,21400936,2015-03-08 19:00:00,Oklahoma City,Thunder,Toronto,Raptors,Regular Season,1,1,15.0,6,0,6,5,1,2,0,2,1,1,4,3,0.75,0,0,0.0,0,0,0.0,108,104,0
+203500,2014,21400957,2015-03-11 20:00:00,Oklahoma City,Thunder,Los Angeles,Clippers,Regular Season,1,0,22.0,2,2,5,4,1,3,0,1,5,18,1,1,1.0,0,0,0.0,0,0,0.0,108,120,0
+203500,2014,21400971,2015-03-13 20:00:00,Oklahoma City,Thunder,Minnesota,Timberwolves,Regular Season,1,1,20.0,3,2,9,5,4,2,1,0,2,-4,3,1,0.333,0,0,0.0,1,1,1.0,113,99,0
+203500,2014,21400982,2015-03-15 13:00:00,Oklahoma City,Thunder,Chicago,Bulls,Regular Season,1,1,32.0,14,1,11,5,6,2,1,1,6,2,13,6,0.462,0,0,0.0,6,2,0.333,109,100,0
+203500,2014,21400996,2015-03-16 20:30:00,Oklahoma City,Thunder,Dallas,Mavericks,Regular Season,0,0,30.0,15,0,8,3,5,0,0,3,6,-1,8,5,0.625,0,0,0.0,6,5,0.833,119,115,0
+203500,2014,21401011,2015-03-18 20:00:00,Oklahoma City,Thunder,Boston,Celtics,Regular Season,1,1,37.0,14,1,13,7,6,0,2,2,5,-6,9,5,0.556,0,0,0.0,7,4,0.571,122,118,0
+203500,2014,21401026,2015-03-20 20:00:00,Oklahoma City,Thunder,Atlanta,Hawks,Regular Season,1,1,35.0,12,2,16,12,4,2,2,1,5,8,9,5,0.556,0,0,0.0,3,2,0.667,123,115,0
+203500,2014,21401038,2015-03-22 15:00:00,Oklahoma City,Thunder,Miami,Heat,Regular Season,1,1,30.0,10,0,10,6,4,1,0,1,4,8,10,5,0.5,0,0,0.0,1,0,0.0,93,75,0
+203500,2014,21401056,2015-03-24 20:00:00,Oklahoma City,Thunder,Los Angeles,Lakers,Regular Season,1,1,30.0,16,3,10,7,3,0,2,1,5,19,6,5,0.833,0,0,0.0,6,6,1.0,127,117,0
+203500,2014,21401071,2015-03-25 21:30:00,Oklahoma City,Thunder,San Antonio,Spurs,Regular Season,0,0,21.0,4,0,4,3,1,0,1,1,1,-24,5,2,0.4,0,0,0.0,0,0,0.0,130,91,0
+203500,2014,21401090,2015-03-28 21:00:00,Oklahoma City,Thunder,Utah,Jazz,Regular Season,0,0,23.0,5,2,14,9,5,1,1,1,4,2,6,2,0.333,0,0,0.0,5,1,0.2,94,89,0
+203500,2014,21401100,2015-03-29 21:00:00,Oklahoma City,Thunder,Phoenix,Suns,Regular Season,0,1,41.0,13,0,16,11,5,1,1,2,4,9,9,6,0.667,0,0,0.0,4,1,0.25,97,109,0
+203500,2014,21401120,2015-04-01 20:00:00,Oklahoma City,Thunder,Dallas,Mavericks,Regular Season,1,0,23.0,7,2,2,1,1,0,2,1,4,2,5,3,0.6,0,0,0.0,4,1,0.25,131,135,0
+203500,2014,21401132,2015-04-03 20:00:00,Oklahoma City,Thunder,Memphis,Grizzlies,Regular Season,0,0,35.0,9,0,6,5,1,0,0,0,4,-2,5,4,0.8,0,0,0.0,3,1,0.333,100,92,0
+203500,2014,21401147,2015-04-05 13:00:00,Oklahoma City,Thunder,Houston,Rockets,Regular Season,1,0,14.0,6,1,4,3,1,0,0,2,6,-7,4,2,0.5,0,0,0.0,4,2,0.5,112,115,0
+203500,2014,21401157,2015-04-07 20:00:00,Oklahoma City,Thunder,San Antonio,Spurs,Regular Season,1,0,26.0,5,0,4,2,2,2,0,1,1,-36,6,2,0.333,0,0,0.0,2,1,0.5,88,113,0
+203500,2014,21401183,2015-04-10 20:00:00,Oklahoma City,Thunder,Sacramento,Kings,Regular Season,1,1,31.0,6,0,11,6,5,4,0,0,1,5,6,2,0.333,0,0,0.0,4,2,0.5,116,103,0
+203500,2014,21401197,2015-04-12 18:00:00,Oklahoma City,Thunder,Indiana,Pacers,Regular Season,0,0,24.0,4,0,10,3,7,1,0,1,2,-13,6,2,0.333,0,0,0.0,6,0,0.0,116,104,0
+203500,2014,21401209,2015-04-13 20:00:00,Oklahoma City,Thunder,Portland,Trail Blazers,Regular Season,1,1,35.0,8,0,10,4,6,4,2,0,3,4,5,2,0.4,1,0,0.0,10,4,0.4,101,90,0
+203500,2014,21401222,2015-04-15 20:00:00,Oklahoma City,Thunder,Minnesota,Timberwolves,Regular Season,0,1,21.0,7,0,4,1,3,0,1,0,2,18,3,3,1.0,0,0,0.0,2,1,0.5,113,138,0
+203500,2015,11500018,2015-10-07 20:00:00,Oklahoma City,Thunder,Minnesota,Timberwolves,Preseason,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,99,122,0
+203500,2015,11500053,2015-10-13 20:00:00,Oklahoma City,Thunder,Dallas,Mavericks,Preseason,1,1,23.0,4,3,8,6,2,0,2,2,4,10,2,1,0.5,0,0,0.0,4,2,0.5,100,88,0
+203500,2015,11500065,2015-10-16 20:00:00,Oklahoma City,Thunder,Memphis,Grizzlies,Preseason,0,0,31.0,15,0,7,5,2,2,0,4,4,-10,8,6,0.75,0,0,0.0,5,3,0.6,94,78,0
+203500,2015,11500079,2015-10-18 19:00:00,Oklahoma City,Thunder,Denver,Nuggets,Preseason,1,1,15.0,8,1,4,1,3,0,0,2,0,12,4,3,0.75,0,0,0.0,4,2,0.5,111,98,0
+203500,2015,11500089,2015-10-20 21:00:00,Oklahoma City,Thunder,Utah,Jazz,Preseason,0,1,34.0,14,3,10,5,5,2,0,3,3,11,8,6,0.75,0,0,0.0,3,2,0.667,102,113,0
+203500,2015,21500013,2015-10-28 20:00:00,Oklahoma City,Thunder,San Antonio,Spurs,Regular Season,1,1,29.0,6,1,7,6,1,1,0,2,4,4,4,3,0.75,0,0,0.0,0,0,0.0,112,106,0
+203500,2015,21500022,2015-10-30 19:00:00,Oklahoma City,Thunder,Orlando,Magic,Regular Season,0,1,35.0,9,2,8,3,5,2,2,2,5,-3,5,3,0.6,0,0,0.0,4,3,0.75,136,139,0
+203500,2015,21500044,2015-11-01 19:00:00,Oklahoma City,Thunder,Denver,Nuggets,Regular Season,1,1,21.0,2,1,3,0,3,2,0,2,4,24,3,1,0.333,0,0,0.0,2,0,0.0,117,93,0
+203500,2015,21500049,2015-11-02 20:00:00,Oklahoma City,Thunder,Houston,Rockets,Regular Season,0,0,19.0,5,0,3,3,0,0,1,0,1,-8,3,2,0.667,0,0,0.0,2,1,0.5,110,105,0
+203500,2015,21500066,2015-11-04 20:00:00,Oklahoma City,Thunder,Toronto,Raptors,Regular Season,1,0,26.0,10,1,7,4,3,4,0,2,3,8,7,5,0.714,0,0,0.0,0,0,0.0,98,103,0
+203500,2015,21500070,2015-11-05 20:00:00,Oklahoma City,Thunder,Chicago,Bulls,Regular Season,0,0,24.0,6,1,6,6,0,2,0,0,1,11,4,3,0.75,0,0,0.0,0,0,0.0,104,98,0
+203500,2015,21500097,2015-11-08 19:00:00,Oklahoma City,Thunder,Phoenix,Suns,Regular Season,1,1,19.0,7,1,5,2,3,5,0,2,1,12,6,3,0.5,0,0,0.0,1,1,1.0,124,103,0
+203500,2015,21500107,2015-11-10 19:00:00,Oklahoma City,Thunder,Washington,Wizards,Regular Season,0,1,20.0,4,0,6,4,2,1,1,0,4,5,3,2,0.667,0,0,0.0,2,0,0.0,101,125,0
+203500,2015,21500134,2015-11-13 20:00:00,Oklahoma City,Thunder,Philadelphia,76ers,Regular Season,1,1,25.0,6,0,2,1,1,3,1,0,5,19,6,3,0.5,0,0,0.0,0,0,0.0,102,85,0
+203500,2015,21500149,2015-11-15 19:00:00,Oklahoma City,Thunder,Boston,Celtics,Regular Season,1,0,29.0,6,3,7,5,2,0,0,1,2,-1,0,0,0.0,0,0,0.0,8,6,0.75,85,100,0
+203500,2015,21500155,2015-11-16 20:00:00,Oklahoma City,Thunder,Memphis,Grizzlies,Regular Season,0,0,26.0,14,1,7,2,5,1,0,2,6,-4,5,4,0.8,0,0,0.0,8,6,0.75,122,114,0
+203500,2015,21500171,2015-11-18 20:00:00,Oklahoma City,Thunder,New Orleans,Pelicans,Regular Season,1,1,11.0,0,0,2,1,1,1,0,0,1,2,2,0,0.0,0,0,0.0,0,0,0.0,110,103,0
+203500,2015,21500183,2015-11-20 20:00:00,Oklahoma City,Thunder,New York,Knicks,Regular Season,1,0,21.0,4,0,8,4,4,1,0,0,3,-3,5,1,0.2,0,0,0.0,2,2,1.0,90,93,0
+203500,2015,21500199,2015-11-22 19:00:00,Oklahoma City,Thunder,Dallas,Mavericks,Regular Season,1,1,24.0,6,3,4,2,2,0,0,1,4,-7,4,3,0.75,0,0,0.0,2,0,0.0,117,114,0
+203500,2015,21500208,2015-11-23 21:00:00,Oklahoma City,Thunder,Utah,Jazz,Regular Season,0,1,23.0,7,0,3,2,1,3,0,0,4,13,5,3,0.6,0,0,0.0,2,1,0.5,89,111,0
+203500,2015,21500223,2015-11-25 20:00:00,Oklahoma City,Thunder,Brooklyn,Nets,Regular Season,1,1,21.0,4,1,4,4,0,2,1,0,3,-6,4,2,0.5,0,0,0.0,1,0,0.0,110,99,0
+203500,2015,21500234,2015-11-27 20:00:00,Oklahoma City,Thunder,Detroit,Pistons,Regular Season,1,1,27.0,8,1,13,9,4,1,0,0,2,12,5,4,0.8,0,0,0.0,0,0,0.0,103,87,0
+203500,2015,21500256,2015-11-30 20:00:00,Oklahoma City,Thunder,Atlanta,Hawks,Regular Season,0,0,14.0,0,0,2,2,0,0,0,0,1,-14,1,0,0.0,0,0,0.0,2,0,0.0,106,100,0
+203500,2015,21500277,2015-12-03 19:00:00,Oklahoma City,Thunder,Miami,Heat,Regular Season,0,0,20.0,9,0,8,5,3,0,0,1,2,3,4,3,0.75,0,0,0.0,4,3,0.75,97,95,0
+203500,2015,21500303,2015-12-06 19:00:00,Oklahoma City,Thunder,Sacramento,Kings,Regular Season,1,1,28.0,6,1,12,6,6,1,1,0,3,14,8,3,0.375,0,0,0.0,0,0,0.0,98,95,0
+203500,2015,21500316,2015-12-08 20:00:00,Oklahoma City,Thunder,Memphis,Grizzlies,Regular Season,0,1,14.0,4,0,5,1,4,0,1,1,2,12,5,1,0.2,0,0,0.0,4,2,0.5,88,125,0
+203500,2015,21500331,2015-12-10 20:00:00,Oklahoma City,Thunder,Atlanta,Hawks,Regular Season,1,1,30.0,11,1,7,5,2,0,1,0,1,9,7,5,0.714,0,0,0.0,3,1,0.333,107,94,0
+203500,2015,21500341,2015-12-11 21:00:00,Oklahoma City,Thunder,Utah,Jazz,Regular Season,0,1,24.0,4,0,4,1,3,0,0,0,3,0,4,2,0.5,0,0,0.0,0,0,0.0,90,94,0
+203500,2015,21500356,2015-12-13 19:00:00,Oklahoma City,Thunder,Utah,Jazz,Regular Season,1,1,32.0,9,0,7,6,1,2,0,1,3,17,6,3,0.5,0,0,0.0,3,3,1.0,104,98,0
+203500,2015,21500378,2015-12-16 20:00:00,Oklahoma City,Thunder,Portland,Trail Blazers,Regular Season,1,1,21.0,11,0,12,6,6,1,0,1,3,17,8,5,0.625,0,0,0.0,1,1,1.0,106,90,0
+203500,2015,21500384,2015-12-17 20:00:00,Oklahoma City,Thunder,Cleveland,Cavaliers,Regular Season,0,0,27.0,4,0,5,2,3,1,0,2,6,3,3,2,0.667,0,0,0.0,0,0,0.0,104,100,0
+203500,2015,21500398,2015-12-19 17:00:00,Oklahoma City,Thunder,Los Angeles,Lakers,Regular Season,1,1,24.0,10,0,7,4,3,0,0,0,3,15,4,4,1.0,0,0,0.0,4,2,0.5,118,78,0
+203500,2015,21500418,2015-12-21 22:30:00,Oklahoma City,Thunder,Los Angeles,Clippers,Regular Season,0,1,25.0,6,0,11,7,4,1,0,1,3,0,6,2,0.333,0,0,0.0,2,2,1.0,99,100,0
+203500,2015,21500435,2015-12-23 22:30:00,Oklahoma City,Thunder,Los Angeles,Lakers,Regular Season,0,1,24.0,6,1,7,5,2,2,1,2,2,39,5,3,0.6,0,0,0.0,1,0,0.0,85,120,0
+203500,2015,21500437,2015-12-25 14:30:00,Oklahoma City,Thunder,Chicago,Bulls,Regular Season,1,0,12.0,3,0,4,3,1,0,0,0,2,-24,4,1,0.25,0,0,0.0,2,1,0.5,96,105,0
+203500,2015,21500456,2015-12-27 19:00:00,Oklahoma City,Thunder,Denver,Nuggets,Regular Season,1,1,21.0,2,0,3,3,0,0,0,2,3,6,1,0,0.0,0,0,0.0,2,2,1.0,122,112,0
+203500,2015,21500472,2015-12-29 20:00:00,Oklahoma City,Thunder,Milwaukee,Bucks,Regular Season,1,1,24.0,8,0,6,1,5,2,1,0,0,-4,5,4,0.8,0,0,0.0,0,0,0.0,131,123,0
+203500,2015,21500488,2015-12-31 20:00:00,Oklahoma City,Thunder,Phoenix,Suns,Regular Season,1,1,24.0,6,1,8,5,3,0,1,2,2,0,4,2,0.5,0,0,0.0,2,2,1.0,110,106,0
+203500,2015,21500497,2016-01-02 19:00:00,Oklahoma City,Thunder,Charlotte,Hornets,Regular Season,0,1,17.0,8,1,9,7,2,3,0,2,3,10,4,4,1.0,0,0,0.0,0,0,0.0,90,109,0
+203500,2015,21500517,2016-01-04 20:00:00,Oklahoma City,Thunder,Sacramento,Kings,Regular Season,1,0,26.0,15,2,10,4,6,0,0,1,5,9,6,5,0.833,0,0,0.0,6,5,0.833,104,116,0
+203500,2015,21500534,2016-01-06 21:30:00,Oklahoma City,Thunder,Memphis,Grizzlies,Regular Season,1,1,24.0,6,1,5,3,2,3,0,2,3,9,4,2,0.5,0,0,0.0,4,2,0.5,112,94,0
+203500,2015,21500549,2016-01-08 22:30:00,Oklahoma City,Thunder,Los Angeles,Lakers,Regular Season,0,1,22.0,10,2,6,3,3,0,1,0,2,22,6,4,0.667,0,0,0.0,2,2,1.0,113,117,0
+203500,2015,21500564,2016-01-10 21:00:00,Oklahoma City,Thunder,Portland,Trail Blazers,Regular Season,0,0,34.0,17,0,10,7,3,1,0,2,1,4,6,6,1.0,0,0,0.0,9,5,0.556,115,110,0
+203500,2015,21500574,2016-01-12 20:00:00,Oklahoma City,Thunder,Minnesota,Timberwolves,Regular Season,0,1,28.0,8,0,5,3,2,1,0,1,0,11,3,3,1.0,0,0,0.0,2,2,1.0,96,101,0
+203500,2015,21500582,2016-01-13 20:00:00,Oklahoma City,Thunder,Dallas,Mavericks,Regular Season,1,1,24.0,6,0,7,5,2,2,1,1,2,19,6,2,0.333,0,0,0.0,3,2,0.667,108,89,0
+203500,2015,21500594,2016-01-15 19:00:00,Oklahoma City,Thunder,Minnesota,Timberwolves,Regular Season,1,1,24.0,12,0,4,3,1,1,1,0,4,21,7,4,0.571,0,0,0.0,6,4,0.667,113,93,0
+203500,2015,21500611,2016-01-17 19:00:00,Oklahoma City,Thunder,Miami,Heat,Regular Season,1,1,24.0,6,1,4,3,1,2,1,1,2,18,5,3,0.6,0,0,0.0,0,0,0.0,99,74,0
+203500,2015,21500627,2016-01-19 21:00:00,Oklahoma City,Thunder,Denver,Nuggets,Regular Season,0,1,30.0,10,1,6,4,2,0,0,1,3,-4,7,5,0.714,0,0,0.0,2,0,0.0,104,110,0
+203500,2015,21500636,2016-01-20 20:00:00,Oklahoma City,Thunder,Charlotte,Hornets,Regular Season,1,1,27.0,10,0,10,7,3,1,0,3,4,21,5,3,0.6,0,0,0.0,6,4,0.667,109,95,0
+203500,2015,21500651,2016-01-22 20:30:00,Oklahoma City,Thunder,Dallas,Mavericks,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,106,109,0
+203500,2015,21500664,2016-01-24 19:30:00,Oklahoma City,Thunder,Brooklyn,Nets,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,116,106,0
+203500,2015,21500679,2016-01-26 19:30:00,Oklahoma City,Thunder,New York,Knicks,Regular Season,0,1,35.0,9,3,8,2,6,0,3,0,4,19,10,4,0.4,0,0,0.0,2,1,0.5,122,128,0
+203500,2015,21500688,2016-01-27 20:00:00,Oklahoma City,Thunder,Minnesota,Timberwolves,Regular Season,0,1,20.0,8,0,2,1,1,0,0,1,3,0,7,4,0.571,0,0,0.0,0,0,0.0,123,126,0
+203500,2015,21500701,2016-01-29 20:00:00,Oklahoma City,Thunder,Houston,Rockets,Regular Season,1,1,23.0,5,0,10,8,2,2,1,0,2,2,3,1,0.333,0,0,0.0,4,3,0.75,116,108,0
+203500,2015,21500725,2016-02-01 20:00:00,Oklahoma City,Thunder,Washington,Wizards,Regular Season,1,1,30.0,10,1,3,2,1,1,1,0,1,18,5,4,0.8,0,0,0.0,6,2,0.333,114,98,0
+203500,2015,21500740,2016-02-03 20:00:00,Oklahoma City,Thunder,Orlando,Magic,Regular Season,1,1,36.0,7,0,9,6,3,0,0,3,4,15,7,3,0.429,0,0,0.0,2,1,0.5,117,114,0
+203500,2015,21500769,2016-02-06 21:00:00,Oklahoma City,Thunder,Golden State,Warriors,Regular Season,0,0,33.0,12,1,8,5,3,2,1,4,3,-12,7,4,0.571,0,0,0.0,7,4,0.571,116,108,0
+203500,2015,21500783,2016-02-08 21:00:00,Oklahoma City,Thunder,Phoenix,Suns,Regular Season,0,1,24.0,6,2,4,2,2,0,1,0,5,-9,3,2,0.667,0,0,0.0,6,2,0.333,106,122,0
+203500,2015,21500802,2016-02-11 20:00:00,Oklahoma City,Thunder,New Orleans,Pelicans,Regular Season,1,1,20.0,8,0,6,3,3,2,0,2,4,5,2,2,1.0,0,0,0.0,4,4,1.0,121,95,0
+203500,2015,21500812,2016-02-19 20:00:00,Oklahoma City,Thunder,Indiana,Pacers,Regular Season,1,0,32.0,6,1,7,7,0,2,0,2,3,-10,3,2,0.667,0,0,0.0,2,2,1.0,98,101,0
+203500,2015,21500824,2016-02-21 15:30:00,Oklahoma City,Thunder,Cleveland,Cavaliers,Regular Season,1,0,28.0,9,1,9,5,4,2,1,2,4,-2,5,4,0.8,0,0,0.0,1,1,1.0,92,115,0
+203500,2015,21500852,2016-02-24 20:30:00,Oklahoma City,Thunder,Dallas,Mavericks,Regular Season,0,1,24.0,15,0,7,4,3,2,0,0,5,3,9,7,0.778,0,0,0.0,3,1,0.333,103,116,0
+203500,2015,21500857,2016-02-25 20:00:00,Oklahoma City,Thunder,New Orleans,Pelicans,Regular Season,0,0,19.0,8,1,5,2,3,1,0,2,4,-3,6,4,0.667,0,0,0.0,0,0,0.0,123,119,0
+203500,2015,21500874,2016-02-27 20:30:00,Oklahoma City,Thunder,Golden State,Warriors,Regular Season,1,0,27.0,10,2,9,6,3,0,1,3,2,5,6,4,0.667,0,0,0.0,6,2,0.333,118,121,0
+203500,2015,21500889,2016-02-29 22:00:00,Oklahoma City,Thunder,Sacramento,Kings,Regular Season,0,1,13.0,4,0,3,1,2,0,0,1,5,1,4,2,0.5,0,0,0.0,0,0,0.0,116,131,0
+203500,2015,21500907,2016-03-02 22:30:00,Oklahoma City,Thunder,Los Angeles,Clippers,Regular Season,0,0,26.0,6,0,9,3,6,1,0,0,1,-9,4,3,0.75,0,0,0.0,0,0,0.0,103,98,0
+203500,2015,21500911,2016-03-03 22:30:00,Oklahoma City,Thunder,Golden State,Warriors,Regular Season,0,0,19.0,3,2,3,3,0,0,0,0,0,3,2,1,0.5,0,0,0.0,2,1,0.5,121,106,0
+203500,2015,21500930,2016-03-06 15:30:00,Oklahoma City,Thunder,Milwaukee,Bucks,Regular Season,0,1,28.0,14,4,9,4,5,0,0,1,2,13,13,6,0.462,0,0,0.0,4,2,0.5,96,104,0
+203500,2015,21500955,2016-03-09 21:30:00,Oklahoma City,Thunder,Los Angeles,Clippers,Regular Season,1,1,29.0,9,1,9,6,3,0,0,1,2,6,8,4,0.5,0,0,0.0,2,1,0.5,120,108,0
+203500,2015,21500968,2016-03-11 20:00:00,Oklahoma City,Thunder,Minnesota,Timberwolves,Regular Season,1,0,25.0,8,0,13,9,4,4,0,4,4,-13,5,4,0.8,0,0,0.0,1,0,0.0,96,99,0
+203500,2015,21500979,2016-03-12 20:30:00,Oklahoma City,Thunder,San Antonio,Spurs,Regular Season,0,0,21.0,10,0,5,1,4,0,0,0,4,-5,8,5,0.625,0,0,0.0,0,0,0.0,93,85,0
+203500,2015,21500993,2016-03-14 20:00:00,Oklahoma City,Thunder,Portland,Trail Blazers,Regular Season,1,1,18.0,13,0,3,2,1,1,2,0,2,5,6,5,0.833,0,0,0.0,4,3,0.75,128,94,0
+203500,2015,21501003,2016-03-16 19:00:00,Oklahoma City,Thunder,Boston,Celtics,Regular Season,0,1,20.0,5,1,8,6,2,0,1,0,1,12,3,2,0.667,0,0,0.0,2,1,0.5,109,130,0
+203500,2015,21501021,2016-03-18 19:00:00,Oklahoma City,Thunder,Philadelphia,76ers,Regular Season,0,1,26.0,12,1,11,7,4,3,0,0,1,29,10,6,0.6,0,0,0.0,0,0,0.0,97,111,0
+203500,2015,21501031,2016-03-19 19:00:00,Oklahoma City,Thunder,Indiana,Pacers,Regular Season,0,1,25.0,11,1,2,1,1,0,3,0,2,-9,6,5,0.833,0,0,0.0,2,1,0.5,111,115,0
+203500,2015,21501054,2016-03-22 20:00:00,Oklahoma City,Thunder,Houston,Rockets,Regular Season,1,1,26.0,8,0,3,0,3,2,2,1,2,-3,4,3,0.75,0,0,0.0,3,2,0.667,111,107,0
+203500,2015,21501071,2016-03-24 20:00:00,Oklahoma City,Thunder,Utah,Jazz,Regular Season,1,1,22.0,14,0,7,5,2,0,1,1,0,18,11,7,0.636,0,0,0.0,0,0,0.0,113,91,0
+203500,2015,21501088,2016-03-26 20:00:00,Oklahoma City,Thunder,San Antonio,Spurs,Regular Season,1,1,26.0,9,1,6,3,3,0,1,3,3,30,5,4,0.8,0,0,0.0,2,1,0.5,111,92,0
+203500,2015,21501098,2016-03-28 19:30:00,Oklahoma City,Thunder,Toronto,Raptors,Regular Season,0,1,28.0,10,2,9,6,3,1,0,1,5,33,5,3,0.6,0,0,0.0,5,4,0.8,100,119,0
+203500,2015,21501110,2016-03-29 19:30:00,Oklahoma City,Thunder,Detroit,Pistons,Regular Season,0,0,35.0,7,1,5,4,1,3,3,3,4,-2,6,3,0.5,0,0,0.0,2,1,0.5,88,82,0
+203500,2015,21501126,2016-03-31 21:30:00,Oklahoma City,Thunder,Los Angeles,Clippers,Regular Season,1,1,29.0,13,0,6,2,4,1,1,2,2,2,7,6,0.857,0,0,0.0,3,1,0.333,119,117,0
+203500,2015,21501145,2016-04-03 15:30:00,Oklahoma City,Thunder,Houston,Rockets,Regular Season,0,0,31.0,6,3,9,6,3,2,0,1,1,-2,8,3,0.375,0,0,0.0,2,0,0.0,118,110,0
+203500,2015,21501160,2016-04-05 21:00:00,Oklahoma City,Thunder,Denver,Nuggets,Regular Season,0,1,21.0,5,1,3,2,1,0,0,1,4,20,5,2,0.4,0,0,0.0,1,1,1.0,102,124,0
+203500,2015,21501171,2016-04-06 22:00:00,Oklahoma City,Thunder,Portland,Trail Blazers,Regular Season,0,0,22.0,9,1,12,5,7,0,0,1,2,-20,7,4,0.571,0,0,0.0,2,1,0.5,120,115,0
+203500,2015,21501193,2016-04-09 22:30:00,Oklahoma City,Thunder,Sacramento,Kings,Regular Season,0,0,25.0,6,1,8,5,3,1,1,1,4,1,4,2,0.5,0,0,0.0,4,2,0.5,114,112,0
+203500,2015,21501209,2016-04-11 20:00:00,Oklahoma City,Thunder,Los Angeles,Lakers,Regular Season,1,1,24.0,13,2,15,8,7,1,2,0,2,30,9,6,0.667,0,0,0.0,5,1,0.2,112,79,0
+203500,2015,21501215,2016-04-12 20:00:00,Oklahoma City,Thunder,San Antonio,Spurs,Regular Season,0,0,37.0,17,0,9,3,6,2,0,2,5,-4,8,7,0.875,0,0,0.0,3,3,1.0,102,98,0
+203500,2015,41500161,2016-04-16 21:30:00,Oklahoma City,Thunder,Dallas,Mavericks,Playoffs,1,1,22.0,4,0,7,5,2,1,1,2,4,24,4,2,0.5,0,0,0.0,1,0,0.0,108,70,0
+203500,2015,41500162,2016-04-18 20:00:00,Oklahoma City,Thunder,Dallas,Mavericks,Playoffs,1,0,30.0,9,1,7,2,5,1,0,0,2,0,6,4,0.667,0,0,0.0,2,1,0.5,84,85,0
+203500,2015,41500163,2016-04-21 19:00:00,Oklahoma City,Thunder,Dallas,Mavericks,Playoffs,0,1,22.0,4,1,6,2,4,0,1,0,2,11,4,2,0.5,0,0,0.0,0,0,0.0,102,131,0
+203500,2015,41500164,2016-04-23 20:00:00,Oklahoma City,Thunder,Dallas,Mavericks,Playoffs,0,1,24.0,14,2,8,5,3,0,0,1,2,4,7,5,0.714,0,0,0.0,6,4,0.667,108,119,0
+203500,2015,41500165,2016-04-25 20:00:00,Oklahoma City,Thunder,Dallas,Mavericks,Playoffs,1,1,37.0,15,1,10,5,5,1,0,1,4,15,8,5,0.625,0,0,0.0,9,5,0.556,118,104,0
+203500,2015,41500231,2016-04-30 20:30:00,Oklahoma City,Thunder,San Antonio,Spurs,Playoffs,0,0,25.0,9,0,10,6,4,1,0,1,2,-27,7,4,0.571,0,0,0.0,2,1,0.5,124,92,0
+203500,2015,41500232,2016-05-02 21:30:00,Oklahoma City,Thunder,San Antonio,Spurs,Playoffs,0,1,37.0,12,0,17,14,3,1,1,2,1,12,6,5,0.833,0,0,0.0,2,2,1.0,97,98,0
+203500,2015,41500233,2016-05-06 21:30:00,Oklahoma City,Thunder,San Antonio,Spurs,Playoffs,1,0,41.0,2,1,11,8,3,1,0,1,3,-1,1,0,0.0,0,0,0.0,2,2,1.0,96,100,0
+203500,2015,41500234,2016-05-08 20:00:00,Oklahoma City,Thunder,San Antonio,Spurs,Playoffs,1,1,36.0,16,0,11,9,2,2,0,1,5,21,8,6,0.75,1,0,0.0,6,4,0.667,111,97,0
+203500,2015,41500235,2016-05-10 20:00:00,Oklahoma City,Thunder,San Antonio,Spurs,Playoffs,0,1,35.0,12,1,11,7,4,0,1,1,4,11,8,5,0.625,0,0,0.0,6,2,0.333,91,95,0
+203500,2015,41500236,2016-05-12 20:30:00,Oklahoma City,Thunder,San Antonio,Spurs,Playoffs,1,1,40.0,15,0,11,6,5,1,2,0,5,6,7,6,0.857,0,0,0.0,4,3,0.75,113,99,0
+203500,2015,41500311,2016-05-16 21:00:00,Oklahoma City,Thunder,Golden State,Warriors,Playoffs,0,1,36.0,16,0,12,10,2,2,0,1,2,19,8,5,0.625,0,0,0.0,9,6,0.667,102,108,0
+203500,2015,41500312,2016-05-18 21:00:00,Oklahoma City,Thunder,Golden State,Warriors,Playoffs,0,0,35.0,9,0,10,8,2,0,0,0,2,-25,6,4,0.667,0,0,0.0,2,1,0.5,118,91,0
+203500,2015,41500313,2016-05-22 20:00:00,Oklahoma City,Thunder,Golden State,Warriors,Playoffs,1,1,17.0,8,1,5,5,0,1,0,1,4,0,4,2,0.5,0,0,0.0,6,4,0.667,133,105,0
+203500,2015,41500314,2016-05-24 21:00:00,Oklahoma City,Thunder,Golden State,Warriors,Playoffs,1,1,24.0,11,2,7,3,4,1,2,1,4,-7,4,2,0.5,0,0,0.0,8,7,0.875,118,94,0
+203500,2015,41500315,2016-05-26 21:00:00,Oklahoma City,Thunder,Golden State,Warriors,Playoffs,0,0,31.0,8,1,10,7,3,1,0,1,3,-7,6,4,0.667,0,0,0.0,1,0,0.0,120,111,0
+203500,2015,41500316,2016-05-28 21:00:00,Oklahoma City,Thunder,Golden State,Warriors,Playoffs,1,0,28.0,9,1,9,3,6,0,1,2,4,-12,6,3,0.5,0,0,0.0,5,3,0.6,101,108,0
+203500,2015,41500317,2016-05-30 21:00:00,Oklahoma City,Thunder,Golden State,Warriors,Playoffs,0,0,25.0,9,1,9,4,5,0,0,1,2,0,11,4,0.364,0,0,0.0,2,1,0.5,96,88,0
+203500,2016,11600046,2016-10-11 20:30:00,Oklahoma City,Thunder,Dallas,Mavericks,Preseason,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,114,109,0
+203500,2016,11600054,2016-10-13 20:00:00,Oklahoma City,Thunder,Memphis,Grizzlies,Preseason,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,94,110,0
+203500,2016,11600074,2016-10-16 19:00:00,Oklahoma City,Thunder,Minnesota,Timberwolves,Preseason,1,1,22.0,20,1,11,5,6,4,1,3,1,16,15,8,0.533,0,0,0.0,4,4,1.0,112,94,0
+203500,2016,11600081,2016-10-18 20:00:00,Oklahoma City,Thunder,Denver,Nuggets,Preseason,1,1,25.0,17,1,9,6,3,0,2,0,1,10,12,8,0.667,0,0,0.0,2,1,0.5,97,87,0
+203500,2016,21600011,2016-10-26 20:00:00,Oklahoma City,Thunder,Philadelphia,76ers,Regular Season,0,1,35.0,16,1,5,3,2,0,3,2,4,13,16,7,0.438,0,0,0.0,2,2,1.0,97,103,0
+203500,2016,21600021,2016-10-28 20:00:00,Oklahoma City,Thunder,Phoenix,Suns,Regular Season,1,1,39.0,9,0,10,4,6,0,1,6,2,-4,8,3,0.375,0,0,0.0,3,3,1.0,113,110,0
+203500,2016,21600040,2016-10-30 19:00:00,Oklahoma City,Thunder,Los Angeles,Lakers,Regular Season,1,1,29.0,14,2,12,9,3,2,3,2,2,13,12,6,0.5,0,0,0.0,2,2,1.0,113,96,0
+203500,2016,21600064,2016-11-02 22:30:00,Oklahoma City,Thunder,Los Angeles,Clippers,Regular Season,0,1,31.0,2,1,11,9,2,0,1,3,5,10,3,1,0.333,0,0,0.0,0,0,0.0,83,85,0
+203500,2016,21600069,2016-11-03 22:30:00,Oklahoma City,Thunder,Golden State,Warriors,Regular Season,0,0,23.0,11,1,4,1,3,2,2,1,3,7,7,5,0.714,0,0,0.0,2,1,0.5,122,96,0
+203500,2016,21600079,2016-11-05 18:00:00,Oklahoma City,Thunder,Minnesota,Timberwolves,Regular Season,1,1,28.0,14,2,8,5,3,2,2,3,1,24,7,6,0.857,0,0,0.0,2,2,1.0,112,92,0
+203500,2016,21600097,2016-11-07 20:00:00,Oklahoma City,Thunder,Miami,Heat,Regular Season,1,1,29.0,6,0,6,6,0,2,3,2,3,18,5,3,0.6,0,0,0.0,0,0,0.0,97,85,0
+203500,2016,21600112,2016-11-09 20:00:00,Oklahoma City,Thunder,Toronto,Raptors,Regular Season,1,0,35.0,14,1,12,6,6,1,2,1,3,-7,5,3,0.6,0,0,0.0,8,8,1.0,102,112,0
+203500,2016,21600126,2016-11-11 20:00:00,Oklahoma City,Thunder,Los Angeles,Clippers,Regular Season,1,0,32.0,6,1,5,4,1,0,0,1,4,-4,5,2,0.4,0,0,0.0,2,2,1.0,108,110,0
+203500,2016,21600141,2016-11-13 19:00:00,Oklahoma City,Thunder,Orlando,Magic,Regular Season,1,0,34.0,13,0,10,6,4,1,1,1,1,4,13,6,0.462,0,0,0.0,1,1,1.0,117,119,0
+203500,2016,21600147,2016-11-14 19:30:00,Oklahoma City,Thunder,Detroit,Pistons,Regular Season,0,0,29.0,4,0,11,6,5,1,1,3,2,2,3,1,0.333,0,0,0.0,4,2,0.5,104,88,0
+203500,2016,21600164,2016-11-16 20:00:00,Oklahoma City,Thunder,Houston,Rockets,Regular Season,1,1,33.0,6,1,6,6,0,3,0,2,1,6,7,3,0.429,0,0,0.0,0,0,0.0,105,103,0
+203500,2016,21600178,2016-11-18 20:00:00,Oklahoma City,Thunder,Brooklyn,Nets,Regular Season,1,1,31.0,15,0,7,4,3,2,0,3,1,13,6,4,0.667,0,0,0.0,8,7,0.875,124,105,0
+203500,2016,21600195,2016-11-20 19:00:00,Oklahoma City,Thunder,Indiana,Pacers,Regular Season,1,0,33.0,8,0,8,4,4,0,2,4,5,-15,7,3,0.429,0,0,0.0,2,2,1.0,111,115,0
+203500,2016,21600211,2016-11-22 22:30:00,Oklahoma City,Thunder,Los Angeles,Lakers,Regular Season,0,0,31.0,20,2,6,2,4,1,1,1,1,6,13,9,0.692,0,0,0.0,2,2,1.0,111,109,0
+203500,2016,21600224,2016-11-23 22:30:00,Oklahoma City,Thunder,Sacramento,Kings,Regular Season,0,0,28.0,11,0,4,4,0,2,0,0,3,-19,7,4,0.571,0,0,0.0,4,3,0.75,116,101,0
+203500,2016,21600235,2016-11-25 21:00:00,Oklahoma City,Thunder,Denver,Nuggets,Regular Season,0,1,30.0,7,1,6,5,1,0,3,1,5,5,7,3,0.429,0,0,0.0,2,1,0.5,129,132,0
+203500,2016,21600242,2016-11-26 20:00:00,Oklahoma City,Thunder,Detroit,Pistons,Regular Season,1,1,29.0,16,0,9,6,3,0,1,2,1,10,9,7,0.778,0,0,0.0,5,2,0.4,106,88,0
+203500,2016,21600255,2016-11-28 19:30:00,Oklahoma City,Thunder,New York,Knicks,Regular Season,0,1,31.0,14,0,10,6,4,0,0,1,2,7,11,7,0.636,0,0,0.0,0,0,0.0,103,112,0
+203500,2016,21600270,2016-11-30 20:00:00,Oklahoma City,Thunder,Washington,Wizards,Regular Season,1,1,27.0,12,0,6,4,2,0,0,1,1,-5,6,3,0.5,0,0,0.0,10,6,0.6,126,115,0
+203500,2016,21600301,2016-12-04 19:00:00,Oklahoma City,Thunder,New Orleans,Pelicans,Regular Season,1,1,8.0,7,0,3,3,0,0,1,0,0,6,3,3,1.0,0,0,0.0,1,1,1.0,101,92,0
+203500,2016,21600307,2016-12-05 19:30:00,Oklahoma City,Thunder,Atlanta,Hawks,Regular Season,0,1,27.0,12,0,10,4,6,0,1,2,4,6,10,5,0.5,0,0,0.0,5,2,0.4,99,102,0
+203500,2016,21600341,2016-12-09 20:00:00,Oklahoma City,Thunder,Houston,Rockets,Regular Season,1,0,28.0,24,1,10,8,2,0,1,4,2,-12,9,8,0.889,0,0,0.0,9,8,0.889,99,102,0
+203500,2016,21600357,2016-12-11 19:00:00,Oklahoma City,Thunder,Boston,Celtics,Regular Season,1,1,32.0,16,2,8,4,4,1,1,0,0,2,8,7,0.875,0,0,0.0,5,2,0.4,99,96,0
+203500,2016,21600373,2016-12-13 22:30:00,Oklahoma City,Thunder,Portland,Trail Blazers,Regular Season,0,0,26.0,14,1,4,2,2,0,4,4,0,-8,10,6,0.6,1,0,0.0,3,2,0.667,114,95,0
+203500,2016,21600382,2016-12-14 21:00:00,Oklahoma City,Thunder,Utah,Jazz,Regular Season,0,0,27.0,10,1,5,2,3,2,1,2,3,-10,7,4,0.571,0,0,0.0,2,2,1.0,109,89,0
+203500,2016,21600399,2016-12-17 17:00:00,Oklahoma City,Thunder,Phoenix,Suns,Regular Season,1,1,29.0,19,2,7,3,4,0,2,2,4,11,13,8,0.615,0,0,0.0,5,3,0.6,114,101,0
+203500,2016,21600415,2016-12-19 20:00:00,Oklahoma City,Thunder,Atlanta,Hawks,Regular Season,1,0,30.0,6,0,9,5,4,1,3,1,2,0,4,2,0.5,0,0,0.0,5,2,0.4,108,110,0
+203500,2016,21600433,2016-12-21 20:00:00,Oklahoma City,Thunder,New Orleans,Pelicans,Regular Season,0,1,23.0,12,3,4,0,4,1,0,2,4,-8,11,6,0.545,0,0,0.0,0,0,0.0,110,121,0
+203500,2016,21600445,2016-12-23 19:30:00,Oklahoma City,Thunder,Boston,Celtics,Regular Season,0,1,29.0,8,3,11,8,3,1,2,1,0,12,6,4,0.667,0,0,0.0,2,0,0.0,112,117,0
+203500,2016,21600459,2016-12-25 20:00:00,Oklahoma City,Thunder,Minnesota,Timberwolves,Regular Season,1,1,28.0,22,1,6,5,1,0,2,2,3,13,12,9,0.75,0,0,0.0,4,4,1.0,112,100,0
+203500,2016,21600473,2016-12-27 19:30:00,Oklahoma City,Thunder,Miami,Heat,Regular Season,0,1,22.0,15,1,9,3,6,2,0,4,5,15,10,7,0.7,0,0,0.0,1,1,1.0,94,106,0
+203500,2016,21600487,2016-12-29 20:00:00,Oklahoma City,Thunder,Memphis,Grizzlies,Regular Season,0,0,27.0,6,2,14,6,8,2,0,3,2,-17,9,1,0.111,0,0,0.0,8,4,0.5,114,80,0
+203500,2016,21600507,2016-12-31 20:00:00,Oklahoma City,Thunder,Los Angeles,Clippers,Regular Season,1,1,29.0,11,2,5,3,2,0,1,0,1,29,5,4,0.8,0,0,0.0,5,3,0.6,114,88,0
+203500,2016,21600513,2017-01-02 19:00:00,Oklahoma City,Thunder,Milwaukee,Bucks,Regular Season,0,0,34.0,20,2,8,5,3,3,1,0,3,5,11,9,0.818,0,0,0.0,2,2,1.0,98,94,0
+203500,2016,21600529,2017-01-04 19:00:00,Oklahoma City,Thunder,Charlotte,Hornets,Regular Season,0,0,36.0,18,3,12,8,4,1,1,2,5,-8,10,8,0.8,0,0,0.0,2,2,1.0,123,112,0
+203500,2016,21600540,2017-01-05 20:00:00,Oklahoma City,Thunder,Houston,Rockets,Regular Season,0,0,29.0,8,3,8,7,1,2,2,2,2,-7,6,2,0.333,0,0,0.0,4,4,1.0,118,116,0
+203500,2016,21600555,2017-01-07 20:00:00,Oklahoma City,Thunder,Denver,Nuggets,Regular Season,1,1,30.0,16,2,5,5,0,4,1,2,3,23,10,7,0.7,0,0,0.0,3,2,0.667,121,106,0
+203500,2016,21600569,2017-01-09 20:00:00,Oklahoma City,Thunder,Chicago,Bulls,Regular Season,0,1,36.0,22,2,5,4,1,1,0,1,0,13,14,11,0.786,0,0,0.0,0,0,0.0,94,109,0
+203500,2016,21600581,2017-01-11 20:00:00,Oklahoma City,Thunder,Memphis,Grizzlies,Regular Season,1,1,38.0,12,1,8,4,4,2,1,0,2,9,13,6,0.462,0,0,0.0,1,0,0.0,103,95,0
+203500,2016,21600596,2017-01-13 20:00:00,Oklahoma City,Thunder,Minnesota,Timberwolves,Regular Season,0,0,32.0,4,1,5,2,3,0,2,2,4,-12,5,2,0.4,0,0,0.0,0,0,0.0,96,86,0
+203500,2016,21600610,2017-01-15 21:00:00,Oklahoma City,Thunder,Sacramento,Kings,Regular Season,0,1,19.0,6,1,4,3,1,0,1,3,1,1,6,3,0.5,0,0,0.0,0,0,0.0,118,122,0
+203500,2016,21600621,2017-01-16 22:30:00,Oklahoma City,Thunder,Los Angeles,Clippers,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,120,98,0
+203500,2016,21600634,2017-01-18 22:30:00,Oklahoma City,Thunder,Golden State,Warriors,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,121,100,0
+203500,2016,21600673,2017-01-23 21:00:00,Oklahoma City,Thunder,Utah,Jazz,Regular Season,0,1,37.0,9,1,6,3,3,4,0,2,2,7,10,4,0.4,0,0,0.0,2,1,0.5,95,97,0
+203500,2016,21600686,2017-01-25 20:00:00,Oklahoma City,Thunder,New Orleans,Pelicans,Regular Season,0,1,31.0,20,3,11,6,5,4,1,4,2,6,15,9,0.6,0,0,0.0,4,2,0.5,105,114,0
+203500,2016,21600690,2017-01-26 20:00:00,Oklahoma City,Thunder,Dallas,Mavericks,Regular Season,1,1,36.0,15,0,7,4,3,0,0,1,3,27,7,5,0.714,0,0,0.0,6,5,0.833,109,98,0
+203500,2016,21600712,2017-01-29 15:30:00,Oklahoma City,Thunder,Cleveland,Cavaliers,Regular Season,0,0,27.0,7,1,10,8,2,1,0,4,3,-17,4,3,0.75,0,0,0.0,1,1,1.0,107,91,0
+203500,2016,21600727,2017-01-31 20:30:00,Oklahoma City,Thunder,San Antonio,Spurs,Regular Season,0,0,33.0,16,2,11,6,5,1,1,2,4,8,13,7,0.538,0,0,0.0,4,2,0.5,108,94,0
+203500,2016,21600740,2017-02-01 21:30:00,Oklahoma City,Thunder,Chicago,Bulls,Regular Season,1,0,29.0,8,0,6,3,3,0,0,1,1,-30,7,3,0.429,0,0,0.0,2,2,1.0,100,128,0
+203500,2016,21600750,2017-02-03 20:00:00,Oklahoma City,Thunder,Memphis,Grizzlies,Regular Season,1,1,44.0,16,2,12,2,10,2,1,3,4,16,13,7,0.538,0,0,0.0,6,2,0.333,114,102,0
+203500,2016,21600767,2017-02-05 15:00:00,Oklahoma City,Thunder,Portland,Trail Blazers,Regular Season,1,1,37.0,7,1,13,4,9,0,2,2,2,3,11,3,0.273,0,0,0.0,4,1,0.25,105,99,0
+203500,2016,21600770,2017-02-06 19:00:00,Oklahoma City,Thunder,Indiana,Pacers,Regular Season,0,0,36.0,15,2,9,2,7,1,0,3,3,4,13,6,0.462,0,0,0.0,4,3,0.75,93,90,0
+203500,2016,21600796,2017-02-09 20:00:00,Oklahoma City,Thunder,Cleveland,Cavaliers,Regular Season,1,1,39.0,20,1,13,4,9,2,1,4,3,6,14,9,0.643,0,0,0.0,3,2,0.667,118,109,0
+203500,2016,21600813,2017-02-11 20:30:00,Oklahoma City,Thunder,Golden State,Warriors,Regular Season,1,0,35.0,13,0,3,1,2,1,1,0,1,-16,9,6,0.667,0,0,0.0,6,1,0.167,114,130,0
+203500,2016,21600820,2017-02-13 20:00:00,Oklahoma City,Thunder,Washington,Wizards,Regular Season,0,0,18.0,9,0,11,4,7,1,1,3,2,-25,7,2,0.286,0,0,0.0,6,5,0.833,120,98,0
+203500,2016,21600845,2017-02-15 21:30:00,Oklahoma City,Thunder,New York,Knicks,Regular Season,1,1,31.0,11,1,7,4,3,1,0,1,1,12,9,4,0.444,0,0,0.0,4,3,0.75,116,105,0
+203500,2016,21600861,2017-02-24 20:00:00,Oklahoma City,Thunder,Los Angeles,Lakers,Regular Season,1,1,31.0,15,4,10,7,3,2,3,0,0,24,13,7,0.538,0,0,0.0,2,1,0.5,110,93,0
+203500,2016,21600880,2017-02-26 19:00:00,Oklahoma City,Thunder,New Orleans,Pelicans,Regular Season,1,1,29.0,13,0,10,1,9,0,0,0,3,-8,10,6,0.6,0,0,0.0,5,1,0.2,118,110,0
+203500,2016,21600893,2017-02-28 20:00:00,Oklahoma City,Thunder,Utah,Jazz,Regular Season,1,1,26.0,2,2,6,4,2,2,1,1,2,5,6,1,0.167,0,0,0.0,2,0,0.0,109,106,0
+203500,2016,21600908,2017-03-02 22:30:00,Oklahoma City,Thunder,Portland,Trail Blazers,Regular Season,0,0,23.0,2,0,6,4,2,0,1,3,5,-23,4,1,0.25,0,0,0.0,0,0,0.0,114,109,0
+203500,2016,21600916,2017-03-03 21:00:00,Oklahoma City,Thunder,Phoenix,Suns,Regular Season,0,0,29.0,9,1,10,7,3,1,1,2,6,3,4,3,0.75,0,0,0.0,6,3,0.5,118,111,0
+203500,2016,21600932,2017-03-05 20:30:00,Oklahoma City,Thunder,Dallas,Mavericks,Regular Season,0,0,25.0,19,1,5,2,3,1,1,4,2,-8,10,8,0.8,0,0,0.0,5,3,0.6,104,89,0
+203500,2016,21600946,2017-03-07 20:00:00,Oklahoma City,Thunder,Portland,Trail Blazers,Regular Season,1,0,28.0,4,0,3,3,0,0,0,0,3,2,1,1,1.0,0,0,0.0,5,2,0.4,121,126,0
+203500,2016,21600962,2017-03-09 20:00:00,Oklahoma City,Thunder,San Antonio,Spurs,Regular Season,1,1,29.0,11,0,6,3,3,0,1,1,2,3,8,5,0.625,0,0,0.0,5,1,0.2,102,92,0
+203500,2016,21600973,2017-03-11 15:00:00,Oklahoma City,Thunder,Utah,Jazz,Regular Season,1,1,31.0,11,0,9,5,4,1,2,1,2,9,8,5,0.625,0,0,0.0,2,1,0.5,112,104,0
+203500,2016,21601000,2017-03-14 19:30:00,Oklahoma City,Thunder,Brooklyn,Nets,Regular Season,0,1,29.0,11,1,6,3,3,0,2,1,5,4,6,4,0.667,0,0,0.0,4,3,0.75,104,122,0
+203500,2016,21601015,2017-03-16 19:00:00,Oklahoma City,Thunder,Toronto,Raptors,Regular Season,0,1,24.0,10,2,5,3,2,1,1,1,3,29,8,5,0.625,0,0,0.0,0,0,0.0,102,123,0
+203500,2016,21601028,2017-03-18 15:00:00,Oklahoma City,Thunder,Sacramento,Kings,Regular Season,1,1,34.0,16,3,13,9,4,1,2,2,3,12,7,6,0.857,0,0,0.0,6,4,0.667,110,94,0
+203500,2016,21601049,2017-03-20 20:00:00,Oklahoma City,Thunder,Golden State,Warriors,Regular Season,1,0,22.0,9,0,1,0,1,0,0,2,1,-23,5,4,0.8,0,0,0.0,4,1,0.25,95,111,0
+203500,2016,21601062,2017-03-22 20:00:00,Oklahoma City,Thunder,Philadelphia,76ers,Regular Season,1,1,24.0,6,0,5,0,5,1,1,1,1,18,7,3,0.429,0,0,0.0,5,0,0.0,122,97,0
+203500,2016,21601091,2017-03-26 15:30:00,Oklahoma City,Thunder,Houston,Rockets,Regular Season,0,0,24.0,11,2,4,1,3,0,1,0,0,-8,6,3,0.5,0,0,0.0,6,5,0.833,137,125,0
+203500,2016,21601100,2017-03-27 20:30:00,Oklahoma City,Thunder,Dallas,Mavericks,Regular Season,0,1,29.0,8,1,6,3,3,2,2,3,3,9,6,4,0.667,0,0,0.0,0,0,0.0,91,92,0
+203500,2016,21601112,2017-03-29 19:00:00,Oklahoma City,Thunder,Orlando,Magic,Regular Season,0,1,29.0,7,0,9,6,3,2,0,1,1,-2,5,3,0.6,0,0,0.0,5,1,0.2,106,114,0
+203500,2016,21601135,2017-03-31 20:00:00,Oklahoma City,Thunder,San Antonio,Spurs,Regular Season,1,0,34.0,13,1,8,4,4,0,1,2,5,-2,8,5,0.625,0,0,0.0,4,3,0.75,95,100,0
+203500,2016,21601142,2017-04-02 15:00:00,Oklahoma City,Thunder,Charlotte,Hornets,Regular Season,1,0,26.0,2,0,7,4,3,1,2,4,3,-8,5,1,0.2,0,0,0.0,0,0,0.0,101,113,0
+203500,2016,21601159,2017-04-04 20:00:00,Oklahoma City,Thunder,Milwaukee,Bucks,Regular Season,1,1,23.0,9,1,5,1,4,0,0,1,2,21,7,4,0.571,0,0,0.0,2,1,0.5,110,79,0
+203500,2016,21601167,2017-04-05 20:00:00,Oklahoma City,Thunder,Memphis,Grizzlies,Regular Season,0,1,33.0,5,1,10,5,5,1,0,1,2,4,8,2,0.25,0,0,0.0,3,1,0.333,100,103,0
+203500,2016,21601186,2017-04-07 22:00:00,Oklahoma City,Thunder,Phoenix,Suns,Regular Season,0,0,32.0,12,2,11,3,8,0,0,0,2,-13,10,4,0.4,0,0,0.0,6,4,0.667,120,99,0
+203500,2016,21601198,2017-04-09 17:00:00,Oklahoma City,Thunder,Denver,Nuggets,Regular Season,0,1,26.0,10,2,10,4,6,0,1,1,4,8,9,4,0.444,0,0,0.0,2,2,1.0,105,106,0
+203500,2016,21601213,2017-04-11 20:00:00,Oklahoma City,Thunder,Minnesota,Timberwolves,Regular Season,0,1,29.0,10,1,9,3,6,2,2,4,2,-2,6,5,0.833,0,0,0.0,0,0,0.0,98,100,0
+203500,2016,21601225,2017-04-12 20:00:00,Oklahoma City,Thunder,Denver,Nuggets,Regular Season,1,0,13.0,8,0,4,2,2,0,2,1,2,-7,7,4,0.571,0,0,0.0,0,0,0.0,105,111,0
+203500,2016,41600161,2017-04-16 21:00:00,Oklahoma City,Thunder,Houston,Rockets,Playoffs,0,0,27.0,6,1,5,4,1,0,1,1,1,-22,6,3,0.5,0,0,0.0,2,0,0.0,118,87,0
+203500,2016,41600162,2017-04-19 20:00:00,Oklahoma City,Thunder,Houston,Rockets,Playoffs,0,0,27.0,5,1,7,4,3,2,1,0,6,18,3,2,0.667,0,0,0.0,2,1,0.5,115,111,0
+203500,2016,41600163,2017-04-21 21:30:00,Oklahoma City,Thunder,Houston,Rockets,Playoffs,1,1,25.0,4,2,6,3,3,0,1,0,2,5,5,2,0.4,0,0,0.0,0,0,0.0,115,113,0
+203500,2016,41600164,2017-04-23 15:30:00,Oklahoma City,Thunder,Houston,Rockets,Playoffs,1,0,36.0,18,2,7,3,4,3,1,2,1,5,10,8,0.8,0,0,0.0,5,2,0.4,109,113,0
+203500,2016,41600165,2017-04-25 20:00:00,Oklahoma City,Thunder,Houston,Rockets,Playoffs,0,0,39.0,7,1,9,3,6,4,2,1,4,10,4,3,0.75,0,0,0.0,2,1,0.5,105,99,0
+203500,2017,11700013,2017-10-03 20:00:00,Oklahoma City,Thunder,Houston,Rockets,Preseason,1,0,19.0,4,1,4,4,0,1,0,2,4,-11,1,1,1.0,0,0,0.0,2,2,1.0,97,104,0
+203500,2017,11700033,2017-10-06 20:00:00,Oklahoma City,Thunder,New Orleans,Pelicans,Preseason,1,1,20.0,8,2,6,5,1,1,0,2,2,10,4,4,1.0,0,0,0.0,1,0,0.0,102,91,0
+203500,2017,11700056,2017-10-10 21:00:00,Oklahoma City,Thunder,Denver,Nuggets,Preseason,0,1,23.0,8,1,7,7,0,5,1,2,4,17,7,3,0.429,1,0,0.0,4,2,0.5,86,96,0
+203500,2017,21700015,2017-10-19 20:00:00,Oklahoma City,Thunder,New York,Knicks,Regular Season,1,1,29.0,12,1,5,3,2,3,5,1,3,27,5,5,1.0,0,0,0.0,3,2,0.667,105,84,0
+203500,2017,21700036,2017-10-21 21:00:00,Oklahoma City,Thunder,Utah,Jazz,Regular Season,0,0,32.0,9,0,5,2,3,0,0,1,1,-6,6,3,0.5,0,0,0.0,6,3,0.5,96,87,0
+203500,2017,21700039,2017-10-22 19:00:00,Oklahoma City,Thunder,Minnesota,Timberwolves,Regular Season,1,0,34.0,17,3,13,5,8,2,1,2,1,-17,12,8,0.667,0,0,0.0,1,1,1.0,113,115,0
+203500,2017,21700060,2017-10-25 20:00:00,Oklahoma City,Thunder,Indiana,Pacers,Regular Season,1,1,30.0,17,1,11,4,7,2,2,3,1,16,13,8,0.615,0,0,0.0,1,1,1.0,114,96,0
+203500,2017,21700074,2017-10-27 20:00:00,Oklahoma City,Thunder,Minnesota,Timberwolves,Regular Season,0,0,31.0,20,1,8,2,6,1,0,2,4,-19,10,8,0.8,0,0,0.0,4,4,1.0,119,116,0
+203500,2017,21700079,2017-10-28 20:00:00,Oklahoma City,Thunder,Chicago,Bulls,Regular Season,0,1,28.0,12,2,8,3,5,1,1,1,0,23,10,6,0.6,0,0,0.0,0,0,0.0,69,101,0
+203500,2017,21700103,2017-10-31 20:00:00,Oklahoma City,Thunder,Milwaukee,Bucks,Regular Season,0,1,26.0,14,2,11,8,3,0,1,1,2,13,10,7,0.7,0,0,0.0,0,0,0.0,91,110,0
+203500,2017,21700129,2017-11-03 21:30:00,Oklahoma City,Thunder,Boston,Celtics,Regular Season,1,0,32.0,7,2,10,6,4,2,1,1,3,-7,5,3,0.6,0,0,0.0,2,1,0.5,94,101,0
+203500,2017,21700144,2017-11-05 21:00:00,Oklahoma City,Thunder,Portland,Trail Blazers,Regular Season,0,0,31.0,4,1,4,4,0,1,1,4,4,-12,3,2,0.667,0,0,0.0,0,0,0.0,103,99,0
+203500,2017,21700158,2017-11-07 22:00:00,Oklahoma City,Thunder,Sacramento,Kings,Regular Season,0,0,29.0,14,0,6,4,2,1,5,3,4,4,5,4,0.8,0,0,0.0,6,6,1.0,94,86,0
+203500,2017,21700168,2017-11-09 22:30:00,Oklahoma City,Thunder,Denver,Nuggets,Regular Season,0,0,30.0,9,0,11,7,4,1,0,1,1,-2,10,4,0.4,0,0,0.0,2,1,0.5,102,94,0
+203500,2017,21700223,2017-11-17 20:00:00,Oklahoma City,Thunder,San Antonio,Spurs,Regular Season,0,0,34.0,16,0,8,2,6,2,0,1,4,-8,8,6,0.75,0,0,0.0,7,4,0.571,104,101,0
+203500,2017,21700248,2017-11-20 20:00:00,Oklahoma City,Thunder,New Orleans,Pelicans,Regular Season,0,0,25.0,15,1,3,1,2,1,0,3,4,14,9,7,0.778,0,0,0.0,2,1,0.5,114,107,0
+203500,2017,21700263,2017-11-22 20:00:00,Oklahoma City,Thunder,Golden State,Warriors,Regular Season,1,1,37.0,14,0,12,6,6,0,2,3,2,8,8,4,0.5,0,0,0.0,8,6,0.75,108,91,0
+203500,2017,21700273,2017-11-24 20:00:00,Oklahoma City,Thunder,Detroit,Pistons,Regular Season,1,0,37.0,12,0,12,6,6,2,2,1,4,5,10,6,0.6,0,0,0.0,0,0,0.0,98,99,0
+203500,2017,21700283,2017-11-25 20:30:00,Oklahoma City,Thunder,Dallas,Mavericks,Regular Season,0,0,27.0,6,0,3,0,3,0,1,3,3,-8,8,3,0.375,0,0,0.0,0,0,0.0,97,81,0
+203500,2017,21700304,2017-11-29 19:00:00,Oklahoma City,Thunder,Orlando,Magic,Regular Season,0,0,28.0,6,0,8,1,7,1,1,0,4,-5,10,3,0.3,0,0,0.0,2,0,0.0,121,108,0
+203500,2017,21700324,2017-12-01 20:00:00,Oklahoma City,Thunder,Minnesota,Timberwolves,Regular Season,1,1,32.0,27,0,6,2,4,0,1,0,5,18,11,11,1.0,0,0,0.0,5,5,1.0,111,107,0
+203500,2017,21700337,2017-12-03 19:00:00,Oklahoma City,Thunder,San Antonio,Spurs,Regular Season,1,1,33.0,19,1,10,6,4,1,3,2,1,13,13,8,0.615,0,0,0.0,6,3,0.5,90,87,0
+203500,2017,21700351,2017-12-05 20:00:00,Oklahoma City,Thunder,Utah,Jazz,Regular Season,1,1,32.0,20,1,9,3,6,0,1,2,3,9,10,9,0.9,0,0,0.0,3,2,0.667,100,94,0
+203500,2017,21700365,2017-12-07 22:00:00,Oklahoma City,Thunder,Brooklyn,Nets,Regular Season,0,0,30.0,12,0,14,5,9,0,1,4,3,-13,13,6,0.462,0,0,0.0,3,0,0.0,100,95,0
+203500,2017,21700382,2017-12-09 21:00:00,Oklahoma City,Thunder,Memphis,Grizzlies,Regular Season,0,1,43.0,21,0,9,3,6,1,0,0,4,9,11,7,0.636,0,0,0.0,12,7,0.583,101,102,0
+203500,2017,21700394,2017-12-11 20:00:00,Oklahoma City,Thunder,Charlotte,Hornets,Regular Season,1,0,28.0,11,2,10,5,5,1,0,0,3,-15,6,5,0.833,0,0,0.0,2,1,0.5,103,116,0
+203500,2017,21700404,2017-12-13 19:00:00,Oklahoma City,Thunder,Indiana,Pacers,Regular Season,0,1,35.0,23,1,13,4,9,1,0,2,0,1,16,11,0.688,1,0,0.0,1,1,1.0,95,100,0
+203500,2017,21700421,2017-12-15 19:00:00,Oklahoma City,Thunder,Philadelphia,76ers,Regular Season,0,1,50.0,5,2,12,5,7,0,1,1,6,-3,8,2,0.25,0,0,0.0,1,1,1.0,117,119,0
+203500,2017,21700460,2017-12-20 20:00:00,Oklahoma City,Thunder,Utah,Jazz,Regular Season,1,1,25.0,11,3,9,6,3,0,0,1,2,38,7,4,0.571,0,0,0.0,3,3,1.0,107,79,0
+203500,2017,21700477,2017-12-22 20:00:00,Oklahoma City,Thunder,Atlanta,Hawks,Regular Season,1,1,33.0,16,1,10,3,7,0,2,2,3,-8,9,6,0.667,0,0,0.0,6,4,0.667,120,117,0
+203500,2017,21700488,2017-12-23 20:00:00,Oklahoma City,Thunder,Utah,Jazz,Regular Season,0,1,31.0,12,0,9,3,6,1,1,0,1,6,9,5,0.556,0,0,0.0,4,2,0.5,89,103,0
+203500,2017,21700496,2017-12-25 20:00:00,Oklahoma City,Thunder,Houston,Rockets,Regular Season,1,1,38.0,15,0,10,3,7,3,1,0,1,9,9,7,0.778,0,0,0.0,1,1,1.0,112,107,0
+203500,2017,21700512,2017-12-27 20:00:00,Oklahoma City,Thunder,Toronto,Raptors,Regular Season,1,1,23.0,18,2,9,3,6,0,4,1,5,23,9,8,0.889,0,0,0.0,3,2,0.667,124,107,0
+203500,2017,21700526,2017-12-29 20:00:00,Oklahoma City,Thunder,Milwaukee,Bucks,Regular Season,1,0,32.0,6,1,7,5,2,1,1,1,3,-8,7,2,0.286,0,0,0.0,3,2,0.667,95,97,0
+203500,2017,21700541,2017-12-31 19:00:00,Oklahoma City,Thunder,Dallas,Mavericks,Regular Season,1,0,31.0,10,0,8,3,5,0,1,3,4,-1,8,5,0.625,0,0,0.0,0,0,0.0,113,116,0
+203500,2017,21700565,2018-01-03 22:30:00,Oklahoma City,Thunder,Los Angeles,Lakers,Regular Season,0,1,26.0,12,2,6,3,3,3,1,0,4,20,10,6,0.6,0,0,0.0,0,0,0.0,96,133,0
+203500,2017,21700567,2018-01-04 22:30:00,Oklahoma City,Thunder,Los Angeles,Clippers,Regular Season,0,1,34.0,12,2,9,2,7,1,1,2,3,9,11,5,0.455,0,0,0.0,2,2,1.0,117,127,0
+203500,2017,21700588,2018-01-07 20:00:00,Oklahoma City,Thunder,Phoenix,Suns,Regular Season,0,0,32.0,18,1,5,3,2,3,0,0,1,-7,11,9,0.818,0,0,0.0,2,0,0.0,114,100,0
+203500,2017,21700600,2018-01-09 20:00:00,Oklahoma City,Thunder,Portland,Trail Blazers,Regular Season,1,0,31.0,16,1,6,1,5,0,0,2,2,-13,8,6,0.75,0,0,0.0,4,4,1.0,106,117,0
+203500,2017,21700611,2018-01-10 20:00:00,Oklahoma City,Thunder,Minnesota,Timberwolves,Regular Season,0,0,33.0,8,0,8,5,3,0,2,3,3,-16,5,2,0.4,0,0,0.0,7,4,0.571,104,88,0
+203500,2017,21700629,2018-01-13 17:00:00,Oklahoma City,Thunder,Charlotte,Hornets,Regular Season,0,1,31.0,14,1,11,4,7,4,3,3,5,6,11,7,0.636,0,0,0.0,0,0,0.0,91,101,0
+203500,2017,21700643,2018-01-15 20:00:00,Oklahoma City,Thunder,Sacramento,Kings,Regular Season,1,1,31.0,13,3,13,5,8,1,0,2,4,10,11,5,0.455,0,0,0.0,12,3,0.25,95,88,0
+203500,2017,21700660,2018-01-17 20:00:00,Oklahoma City,Thunder,Los Angeles,Lakers,Regular Season,1,1,26.0,21,1,10,3,7,1,0,3,1,24,12,10,0.833,0,0,0.0,2,1,0.5,114,90,0
+203500,2017,21700674,2018-01-20 15:30:00,Oklahoma City,Thunder,Cleveland,Cavaliers,Regular Season,0,1,29.0,25,1,10,5,5,1,0,1,3,30,13,12,0.923,1,0,0.0,5,1,0.2,124,148,0
+203500,2017,21700697,2018-01-23 20:00:00,Oklahoma City,Thunder,Brooklyn,Nets,Regular Season,1,1,34.0,6,0,14,5,9,0,3,1,3,15,12,3,0.25,0,0,0.0,2,0,0.0,109,108,0
+203500,2017,21700711,2018-01-25 20:00:00,Oklahoma City,Thunder,Washington,Wizards,Regular Season,1,1,35.0,12,0,10,3,7,0,3,1,3,2,7,5,0.714,0,0,0.0,3,2,0.667,121,112,0
+203500,2017,21700724,2018-01-27 17:00:00,Oklahoma City,Thunder,Detroit,Pistons,Regular Season,0,1,31.0,13,2,7,4,3,1,1,0,5,28,9,6,0.667,0,0,0.0,3,1,0.333,108,121,0
+203500,2017,21700736,2018-01-28 18:00:00,Oklahoma City,Thunder,Philadelphia,76ers,Regular Season,1,1,32.0,20,2,13,3,10,0,0,2,3,10,11,10,0.909,0,0,0.0,0,0,0.0,122,112,0
+203500,2017,21700744,2018-01-30 19:00:00,Oklahoma City,Thunder,Washington,Wizards,Regular Season,0,0,38.0,16,2,12,6,6,1,1,4,4,-6,11,6,0.545,0,0,0.0,7,4,0.571,102,96,0
+203500,2017,21700765,2018-02-01 22:30:00,Oklahoma City,Thunder,Denver,Nuggets,Regular Season,0,0,31.0,10,1,8,4,4,1,0,1,3,-12,11,5,0.455,0,0,0.0,0,0,0.0,127,124,0
+203500,2017,21700772,2018-02-02 21:00:00,Oklahoma City,Thunder,New Orleans,Pelicans,Regular Season,1,0,37.0,23,0,12,5,7,2,0,2,2,-5,13,8,0.615,0,0,0.0,10,7,0.7,100,114,0
+203500,2017,21700788,2018-02-04 14:00:00,Oklahoma City,Thunder,Los Angeles,Lakers,Regular Season,1,0,37.0,12,0,5,3,2,1,5,1,3,-4,8,5,0.625,0,0,0.0,2,2,1.0,104,108,0
+203500,2017,21700803,2018-02-06 22:30:00,Oklahoma City,Thunder,Golden State,Warriors,Regular Season,0,1,26.0,14,0,10,7,3,0,3,2,4,16,9,7,0.778,0,0,0.0,3,0,0.0,105,125,0
+203500,2017,21700816,2018-02-08 22:30:00,Oklahoma City,Thunder,Los Angeles,Lakers,Regular Season,0,0,33.0,13,1,9,2,7,0,0,0,1,-13,11,4,0.364,0,0,0.0,8,5,0.625,106,81,0
+203500,2017,21700839,2018-02-11 19:00:00,Oklahoma City,Thunder,Memphis,Grizzlies,Regular Season,1,1,29.0,9,1,9,6,3,1,1,1,5,15,8,4,0.5,0,0,0.0,5,1,0.2,110,92,0
+203500,2017,21700850,2018-02-13 20:00:00,Oklahoma City,Thunder,Cleveland,Cavaliers,Regular Season,1,0,42.0,22,1,17,5,12,1,2,1,3,-1,12,8,0.667,0,0,0.0,10,6,0.6,112,120,0
+203500,2017,21700861,2018-02-14 20:00:00,Oklahoma City,Thunder,Memphis,Grizzlies,Regular Season,0,1,31.0,11,1,4,1,3,1,0,2,5,14,9,4,0.444,0,0,0.0,5,3,0.6,114,121,0
+203500,2017,21700871,2018-02-22 22:00:00,Oklahoma City,Thunder,Sacramento,Kings,Regular Season,0,1,39.0,18,1,11,5,6,4,2,1,3,19,12,9,0.75,0,0,0.0,2,0,0.0,107,110,0
+203500,2017,21700887,2018-02-24 20:30:00,Oklahoma City,Thunder,Golden State,Warriors,Regular Season,0,0,33.0,14,3,7,5,2,2,2,1,2,-6,9,6,0.667,0,0,0.0,5,2,0.4,112,80,0
+203500,2017,21700903,2018-02-26 20:00:00,Oklahoma City,Thunder,Orlando,Magic,Regular Season,1,1,34.0,16,2,8,6,2,2,1,3,1,-2,8,6,0.75,0,0,0.0,6,4,0.667,112,105,0
+203500,2017,21700919,2018-02-28 20:30:00,Oklahoma City,Thunder,Dallas,Mavericks,Regular Season,0,1,38.0,9,2,12,3,9,1,0,4,4,4,4,4,1.0,0,0,0.0,1,1,1.0,110,111,0
+203500,2017,21700933,2018-03-02 21:00:00,Oklahoma City,Thunder,Phoenix,Suns,Regular Season,0,1,32.0,11,1,7,6,1,2,1,1,2,7,8,5,0.625,0,0,0.0,3,1,0.333,116,124,0
+203500,2017,21700941,2018-03-03 22:00:00,Oklahoma City,Thunder,Portland,Trail Blazers,Regular Season,0,0,36.0,12,1,7,3,4,1,2,1,4,-8,9,4,0.444,0,0,0.0,6,4,0.667,108,100,0
+203500,2017,21700960,2018-03-06 20:00:00,Oklahoma City,Thunder,Houston,Rockets,Regular Season,1,0,38.0,16,1,8,5,3,0,3,3,3,-3,9,7,0.778,0,0,0.0,3,2,0.667,112,122,0
+203500,2017,21700975,2018-03-08 20:00:00,Oklahoma City,Thunder,Phoenix,Suns,Regular Season,1,1,29.0,16,2,12,6,6,3,2,3,3,27,8,7,0.875,0,0,0.0,5,2,0.4,115,87,0
+203500,2017,21700990,2018-03-10 20:30:00,Oklahoma City,Thunder,San Antonio,Spurs,Regular Season,1,1,17.0,8,0,1,0,1,0,1,2,4,3,8,4,0.5,0,0,0.0,0,0,0.0,104,94,0
+203500,2017,21701003,2018-03-12 20:00:00,Oklahoma City,Thunder,Sacramento,Kings,Regular Season,1,1,22.0,6,2,6,3,3,2,0,0,2,9,5,3,0.6,0,0,0.0,0,0,0.0,106,101,0
+203500,2017,21701032,2018-03-16 20:00:00,Oklahoma City,Thunder,Los Angeles,Clippers,Regular Season,1,1,37.0,18,1,14,4,10,5,3,4,2,-2,15,8,0.533,0,0,0.0,4,2,0.5,121,113,0
+203500,2017,21701046,2018-03-18 13:00:00,Oklahoma City,Thunder,Toronto,Raptors,Regular Season,0,1,33.0,25,4,8,3,5,0,1,2,3,20,13,10,0.769,0,0,0.0,9,5,0.556,125,132,0
+203500,2017,21701059,2018-03-20 20:00:00,Oklahoma City,Thunder,Boston,Celtics,Regular Season,0,0,37.0,14,2,7,4,3,0,0,1,1,7,7,4,0.571,0,0,0.0,10,6,0.6,100,99,0
+203500,2017,21701084,2018-03-23 20:00:00,Oklahoma City,Thunder,Miami,Heat,Regular Season,1,1,31.0,24,1,12,6,6,0,1,0,4,4,13,9,0.692,0,0,0.0,11,6,0.545,105,99,0
+203500,2017,21701100,2018-03-25 19:00:00,Oklahoma City,Thunder,Portland,Trail Blazers,Regular Season,1,0,35.0,18,1,10,1,9,2,0,2,2,-6,14,8,0.571,0,0,0.0,2,2,1.0,105,108,0
+203500,2017,21701126,2018-03-29 20:00:00,Oklahoma City,Thunder,San Antonio,Spurs,Regular Season,0,0,37.0,10,1,13,8,5,0,0,2,3,10,11,5,0.455,0,0,0.0,2,0,0.0,103,99,0
+203500,2017,21701133,2018-03-30 20:00:00,Oklahoma City,Thunder,Denver,Nuggets,Regular Season,1,0,33.0,7,5,10,5,5,0,4,0,1,-8,8,3,0.375,0,0,0.0,4,1,0.25,125,126,0
+203500,2017,21701150,2018-04-01 18:00:00,Oklahoma City,Thunder,New Orleans,Pelicans,Regular Season,0,1,36.0,14,1,10,3,7,1,0,6,2,-3,9,6,0.667,0,0,0.0,4,2,0.5,104,109,0
+203500,2017,21701163,2018-04-03 20:00:00,Oklahoma City,Thunder,Golden State,Warriors,Regular Season,1,0,32.0,7,2,13,5,8,0,0,5,5,11,6,3,0.5,0,0,0.0,6,1,0.167,107,111,0
+203500,2017,21701194,2018-04-07 20:30:00,Oklahoma City,Thunder,Houston,Rockets,Regular Season,0,1,28.0,12,3,8,5,3,0,1,0,1,-4,7,5,0.714,0,0,0.0,3,2,0.667,102,108,0
+203500,2017,21701206,2018-04-09 19:30:00,Oklahoma City,Thunder,Miami,Heat,Regular Season,0,1,31.0,7,1,3,1,2,1,1,1,2,-1,6,3,0.5,0,0,0.0,4,1,0.25,93,115,0
+203500,2017,21701227,2018-04-11 20:00:00,Oklahoma City,Thunder,Memphis,Grizzlies,Regular Season,1,1,36.0,24,0,7,6,1,0,1,2,2,17,12,9,0.75,0,0,0.0,7,6,0.857,137,123,0
+203500,2017,41700171,2018-04-15 18:30:00,Oklahoma City,Thunder,Utah,Jazz,Playoffs,1,1,36.0,12,3,7,3,4,0,0,0,1,-4,9,4,0.444,0,0,0.0,6,4,0.667,116,108,0
+203500,2017,41700172,2018-04-18 20:00:00,Oklahoma City,Thunder,Utah,Jazz,Playoffs,1,0,22.0,9,1,7,2,5,0,1,2,6,-10,5,4,0.8,0,0,0.0,2,1,0.5,95,102,0
+203500,2017,41700173,2018-04-21 22:00:00,Oklahoma City,Thunder,Utah,Jazz,Playoffs,0,0,26.0,8,0,2,2,0,1,0,1,4,-2,6,4,0.667,0,0,0.0,0,0,0.0,115,102,0
+203500,2017,41700174,2018-04-23 22:30:00,Oklahoma City,Thunder,Utah,Jazz,Playoffs,0,0,35.0,9,1,7,6,1,2,0,0,0,-19,9,4,0.444,0,0,0.0,2,1,0.5,113,96,0
+203500,2017,41700175,2018-04-25 21:30:00,Oklahoma City,Thunder,Utah,Jazz,Playoffs,1,1,40.0,6,1,6,5,1,0,2,0,1,16,6,2,0.333,0,0,0.0,2,2,1.0,107,99,0
+203500,2017,41700176,2018-04-27 22:30:00,Oklahoma City,Thunder,Utah,Jazz,Playoffs,0,0,39.0,19,3,16,8,8,1,1,1,3,4,11,9,0.818,0,0,0.0,1,1,1.0,96,91,0
+203500,2018,11800023,2018-10-03 20:00:00,Oklahoma City,Thunder,Detroit,Pistons,Preseason,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,,0,0,,91,97,0
+203500,2018,11800034,2018-10-05 20:00:00,Oklahoma City,Thunder,Minnesota,Timberwolves,Preseason,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,,0,0,,101,113,0
+203500,2018,11800043,2018-10-07 15:00:00,Oklahoma City,Thunder,Atlanta,Hawks,Preseason,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,,0,0,,113,94,0
+203500,2018,11800056,2018-10-09 20:00:00,Oklahoma City,Thunder,Milwaukee,Bucks,Preseason,1,1,16.0,5,1,5,2,3,3,1,0,1,7,4,2,0.5,0,0,0.0,2,1,0.5,119,115,0
+203500,2018,21800002,2018-10-16 22:30:00,Oklahoma City,Thunder,Golden State,Warriors,Regular Season,0,0,35.0,17,4,11,7,4,0,2,2,3,-6,12,6,0.5,0,0,0.0,8,5,0.625,108,100,0
+203500,2018,21800025,2018-10-19 22:30:00,Oklahoma City,Thunder,Los Angeles,Clippers,Regular Season,0,0,33.0,17,0,18,12,6,0,1,0,3,-16,11,8,0.727,0,0,0.0,2,1,0.5,108,92,0
+203500,2018,21800037,2018-10-21 19:00:00,Oklahoma City,Thunder,Sacramento,Kings,Regular Season,1,0,33.0,10,0,14,6,8,3,2,3,4,-6,7,3,0.429,0,0,0.0,8,4,0.5,120,131,0
+203500,2018,21800065,2018-10-25 20:00:00,Oklahoma City,Thunder,Boston,Celtics,Regular Season,1,0,32.0,12,2,6,3,3,1,0,1,1,-2,10,5,0.5,0,0,0.0,6,2,0.333,95,101,0
+203500,2018,21800085,2018-10-28 19:00:00,Oklahoma City,Thunder,Phoenix,Suns,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,117,110,0
+203500,2018,21800103,2018-10-30 20:00:00,Oklahoma City,Thunder,Los Angeles,Clippers,Regular Season,1,1,37.0,18,2,10,6,4,1,3,1,1,25,15,8,0.533,0,0,0.0,4,2,0.5,128,110,0
+203500,2018,21800111,2018-11-01 19:00:00,Oklahoma City,Thunder,Charlotte,Hornets,Regular Season,0,1,33.0,5,0,12,5,7,3,3,2,2,6,5,1,0.2,0,0,0.0,4,3,0.75,107,111,0
+203500,2018,21800119,2018-11-02 20:00:00,Oklahoma City,Thunder,Washington,Wizards,Regular Season,0,1,23.0,15,1,3,2,1,1,0,1,4,12,7,6,0.857,0,0,0.0,4,3,0.75,111,134,0
+203500,2018,21800144,2018-11-05 20:00:00,Oklahoma City,Thunder,New Orleans,Pelicans,Regular Season,1,1,36.0,18,1,8,5,3,1,1,2,2,22,12,9,0.75,0,0,0.0,2,0,0.0,122,116,0
+203500,2018,21800153,2018-11-07 19:00:00,Oklahoma City,Thunder,Cleveland,Cavaliers,Regular Season,0,1,34.0,9,2,13,8,5,2,2,2,2,20,6,3,0.5,0,0,0.0,6,3,0.5,86,95,0
+203500,2018,21800163,2018-11-08 20:00:00,Oklahoma City,Thunder,Houston,Rockets,Regular Season,1,1,32.0,19,4,10,4,6,0,1,1,2,22,12,7,0.583,0,0,0.0,9,5,0.556,98,80,0
+203500,2018,21800181,2018-11-10 21:00:00,Oklahoma City,Thunder,Dallas,Mavericks,Regular Season,0,0,36.0,20,2,13,6,7,0,0,0,3,-2,11,8,0.727,0,0,0.0,8,4,0.5,111,96,0
+203500,2018,21800196,2018-11-12 20:00:00,Oklahoma City,Thunder,Phoenix,Suns,Regular Season,1,1,33.0,18,1,7,2,5,2,4,3,1,23,13,9,0.692,0,0,0.0,0,0,0.0,118,101,0
+203500,2018,21800209,2018-11-14 20:00:00,Oklahoma City,Thunder,New York,Knicks,Regular Season,1,1,30.0,19,5,6,4,2,0,2,2,1,25,13,9,0.692,0,0,0.0,2,1,0.5,128,103,0
+203500,2018,21800233,2018-11-17 21:00:00,Oklahoma City,Thunder,Phoenix,Suns,Regular Season,0,1,36.0,26,0,10,5,5,0,1,2,5,-2,15,11,0.733,0,0,0.0,5,4,0.8,100,110,0
+203500,2018,21800247,2018-11-19 22:00:00,Oklahoma City,Thunder,Sacramento,Kings,Regular Season,0,0,36.0,11,1,15,8,7,1,1,1,2,-1,10,5,0.5,0,0,0.0,4,1,0.25,117,113,0
+203500,2018,21800264,2018-11-21 22:30:00,Oklahoma City,Thunder,Golden State,Warriors,Regular Season,0,1,33.0,20,2,11,4,7,0,2,0,2,28,14,9,0.643,0,0,0.0,2,2,1.0,95,123,0
+203500,2018,21800274,2018-11-23 20:00:00,Oklahoma City,Thunder,Charlotte,Hornets,Regular Season,1,1,37.0,13,4,8,3,5,1,1,1,3,13,11,5,0.455,0,0,0.0,7,3,0.429,109,104,0
+203500,2018,21800282,2018-11-24 20:00:00,Oklahoma City,Thunder,Denver,Nuggets,Regular Season,1,0,37.0,12,0,14,7,7,0,1,2,3,-5,15,6,0.4,0,0,0.0,1,0,0.0,98,105,0
+203500,2018,21800313,2018-11-28 20:00:00,Oklahoma City,Thunder,Cleveland,Cavaliers,Regular Season,1,1,32.0,6,1,6,5,1,2,1,1,1,10,6,3,0.5,0,0,0.0,0,0,0.0,100,83,0
+203500,2018,21800325,2018-11-30 20:00:00,Oklahoma City,Thunder,Atlanta,Hawks,Regular Season,1,1,31.0,6,3,13,10,3,1,3,2,2,8,7,3,0.429,0,0,0.0,0,0,0.0,124,109,0
+203500,2018,21800343,2018-12-03 19:00:00,Oklahoma City,Thunder,Detroit,Pistons,Regular Season,0,1,27.0,21,1,6,4,2,2,0,1,1,21,8,7,0.875,0,0,0.0,7,7,1.0,83,110,0
+203500,2018,21800358,2018-12-05 19:30:00,Oklahoma City,Thunder,Brooklyn,Nets,Regular Season,0,1,31.0,15,2,8,3,5,1,2,3,3,16,11,7,0.636,0,0,0.0,6,1,0.167,112,114,0
+203500,2018,21800373,2018-12-07 20:00:00,Oklahoma City,Thunder,Chicago,Bulls,Regular Season,0,0,31.0,21,0,10,1,9,1,2,4,4,7,17,9,0.529,0,0,0.0,7,3,0.429,114,112,0
+203500,2018,21800396,2018-12-10 20:00:00,Oklahoma City,Thunder,Utah,Jazz,Regular Season,1,1,29.0,22,1,7,1,6,0,1,1,1,19,13,7,0.538,0,0,0.0,10,8,0.8,122,113,0
+203500,2018,21800411,2018-12-12 20:00:00,Oklahoma City,Thunder,New Orleans,Pelicans,Regular Season,0,0,36.0,20,2,6,5,1,1,1,1,3,-2,9,7,0.778,0,0,0.0,10,6,0.6,118,114,0
+203500,2018,21800426,2018-12-14 22:00:00,Oklahoma City,Thunder,Denver,Nuggets,Regular Season,0,0,37.0,26,2,14,3,11,2,1,1,4,-4,20,12,0.6,0,0,0.0,6,2,0.333,109,98,0
+203500,2018,21800434,2018-12-15 21:00:00,Oklahoma City,Thunder,Los Angeles,Clippers,Regular Season,1,1,31.0,16,2,5,2,3,0,0,1,1,-3,14,6,0.429,0,0,0.0,6,4,0.667,110,104,0
+203500,2018,21800447,2018-12-17 20:00:00,Oklahoma City,Thunder,Chicago,Bulls,Regular Season,1,1,30.0,19,1,8,3,5,0,2,2,2,26,14,8,0.571,0,0,0.0,6,3,0.5,121,96,0
+203500,2018,21800466,2018-12-19 22:00:00,Oklahoma City,Thunder,Sacramento,Kings,Regular Season,0,1,34.0,20,1,23,14,9,0,2,3,1,10,12,8,0.667,0,0,0.0,4,4,1.0,113,132,0
+203500,2018,21800485,2018-12-22 21:00:00,Oklahoma City,Thunder,Utah,Jazz,Regular Season,0,1,39.0,15,0,10,6,4,1,1,2,1,8,12,7,0.583,0,0,0.0,4,1,0.25,106,107,0
+203500,2018,21800493,2018-12-23 20:00:00,Oklahoma City,Thunder,Minnesota,Timberwolves,Regular Season,1,0,27.0,12,0,4,1,3,0,0,1,4,-12,10,6,0.6,0,0,0.0,1,0,0.0,112,114,0
+203500,2018,21800498,2018-12-25 15:00:00,Oklahoma City,Thunder,Houston,Rockets,Regular Season,0,0,37.0,17,3,7,4,3,0,1,1,2,-2,11,8,0.727,0,0,0.0,2,1,0.5,113,109,0
+203500,2018,21800525,2018-12-28 21:00:00,Oklahoma City,Thunder,Phoenix,Suns,Regular Season,0,1,35.0,12,3,13,9,4,0,3,1,3,5,10,5,0.5,0,0,0.0,3,2,0.667,102,118,0
+203500,2018,21800539,2018-12-30 19:00:00,Oklahoma City,Thunder,Dallas,Mavericks,Regular Season,0,0,37.0,8,2,9,7,2,0,2,0,5,-11,5,4,0.8,1,0,0.0,2,0,0.0,105,103,0
+203500,2018,21800547,2018-12-31 20:00:00,Oklahoma City,Thunder,Dallas,Mavericks,Regular Season,1,1,33.0,12,4,13,7,6,0,1,1,3,20,8,5,0.625,0,0,0.0,8,2,0.25,122,102,0
+203500,2018,21800562,2019-01-02 22:30:00,Oklahoma City,Thunder,Los Angeles,Lakers,Regular Season,0,1,36.0,14,3,15,7,8,2,0,2,3,6,10,5,0.5,0,0,0.0,6,4,0.667,100,107,0
+203500,2018,21800575,2019-01-04 22:30:00,Oklahoma City,Thunder,Portland,Trail Blazers,Regular Season,0,1,33.0,6,3,12,7,5,1,2,0,4,-3,7,3,0.429,0,0,0.0,0,0,0.0,109,111,0
+203500,2018,21800588,2019-01-06 19:00:00,Oklahoma City,Thunder,Washington,Wizards,Regular Season,1,0,31.0,12,1,8,8,0,0,2,1,3,8,6,5,0.833,0,0,0.0,4,2,0.5,98,116,0
+203500,2018,21800603,2019-01-08 20:00:00,Oklahoma City,Thunder,Minnesota,Timberwolves,Regular Season,1,0,37.0,20,1,12,9,3,0,2,5,4,5,9,8,0.889,0,0,0.0,6,4,0.667,117,119,0
+203500,2018,21800619,2019-01-10 21:30:00,Oklahoma City,Thunder,San Antonio,Spurs,Regular Season,0,0,37.0,19,1,7,3,4,2,2,2,5,-4,13,8,0.615,0,0,0.0,4,3,0.75,154,147,0
+203500,2018,21800634,2019-01-12 20:00:00,Oklahoma City,Thunder,San Antonio,Spurs,Regular Season,1,1,34.0,12,2,9,7,2,1,2,0,3,14,5,3,0.6,0,0,0.0,8,6,0.75,122,112,0
+203500,2018,21800653,2019-01-15 19:30:00,Oklahoma City,Thunder,Atlanta,Hawks,Regular Season,0,0,37.0,16,0,7,5,2,0,2,3,3,1,7,7,1.0,0,0,0.0,5,2,0.4,142,126,0
+203500,2018,21800670,2019-01-17 21:30:00,Oklahoma City,Thunder,Los Angeles,Lakers,Regular Season,1,0,41.0,17,1,15,8,7,0,4,2,3,10,9,6,0.667,0,0,0.0,6,5,0.833,128,138,0
+203500,2018,21800678,2019-01-19 15:30:00,Oklahoma City,Thunder,Philadelphia,76ers,Regular Season,0,1,35.0,16,3,9,2,7,2,1,2,2,-16,13,8,0.615,0,0,0.0,0,0,0.0,115,117,0
+203500,2018,21800691,2019-01-21 12:30:00,Oklahoma City,Thunder,New York,Knicks,Regular Season,0,1,29.0,10,3,7,4,3,0,0,2,3,15,8,5,0.625,0,0,0.0,0,0,0.0,109,127,0
+203500,2018,21800703,2019-01-22 20:00:00,Oklahoma City,Thunder,Portland,Trail Blazers,Regular Season,1,1,36.0,14,3,8,4,4,1,2,1,2,-4,12,7,0.583,0,0,0.0,0,0,0.0,123,114,0
+203500,2018,21800717,2019-01-24 20:00:00,Oklahoma City,Thunder,New Orleans,Pelicans,Regular Season,1,1,35.0,20,2,12,6,6,0,1,4,2,14,12,9,0.75,0,0,0.0,2,2,1.0,122,116,0
+203500,2018,21800738,2019-01-27 18:00:00,Oklahoma City,Thunder,Milwaukee,Bucks,Regular Season,1,1,30.0,14,2,8,4,4,1,1,1,1,1,10,7,0.7,0,0,0.0,2,0,0.0,118,112,0
+203500,2018,21800751,2019-01-29 19:00:00,Oklahoma City,Thunder,Orlando,Magic,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,117,126,0
+203500,2018,21800772,2019-02-01 20:00:00,Oklahoma City,Thunder,Miami,Heat,Regular Season,0,1,27.0,13,2,7,2,5,0,3,3,3,19,15,6,0.4,0,0,0.0,1,1,1.0,102,118,0
+203500,2018,21800788,2019-02-03 14:00:00,Oklahoma City,Thunder,Boston,Celtics,Regular Season,0,0,35.0,16,0,9,5,4,0,2,0,3,-7,11,7,0.636,0,0,0.0,4,2,0.5,134,129,0
+203500,2018,21800802,2019-02-05 20:00:00,Oklahoma City,Thunder,Orlando,Magic,Regular Season,1,1,36.0,14,1,4,1,3,0,2,1,1,16,12,7,0.583,0,0,0.0,0,0,0.0,132,122,0
+203500,2018,21800815,2019-02-07 20:00:00,Oklahoma City,Thunder,Memphis,Grizzlies,Regular Season,1,1,19.0,11,2,6,1,5,1,2,2,3,21,5,5,1.0,0,0,0.0,4,1,0.25,117,95,0
+203500,2018,21800832,2019-02-09 20:30:00,Oklahoma City,Thunder,Houston,Rockets,Regular Season,0,1,38.0,6,0,9,6,3,2,2,2,1,12,6,3,0.5,0,0,0.0,0,0,0.0,112,117,0
+203500,2018,21800846,2019-02-11 20:00:00,Oklahoma City,Thunder,Portland,Trail Blazers,Regular Season,1,1,34.0,9,0,1,1,0,1,2,2,4,6,7,4,0.571,0,0,0.0,2,1,0.5,120,111,0
+203500,2018,21800866,2019-02-14 20:00:00,Oklahoma City,Thunder,New Orleans,Pelicans,Regular Season,0,0,35.0,4,2,5,1,4,1,2,2,1,-11,5,2,0.4,0,0,0.0,0,0,0.0,131,122,0
+203500,2018,21800881,2019-02-22 21:30:00,Oklahoma City,Thunder,Utah,Jazz,Regular Season,1,1,47.0,16,3,10,3,7,1,5,3,2,19,14,7,0.5,0,0,0.0,4,2,0.5,148,147,0
+203500,2018,21800890,2019-02-23 20:00:00,Oklahoma City,Thunder,Sacramento,Kings,Regular Season,1,0,27.0,11,1,9,5,4,0,0,1,2,-2,7,5,0.714,0,0,0.0,3,1,0.333,116,119,0
+203500,2018,21800910,2019-02-26 22:30:00,Oklahoma City,Thunder,Denver,Nuggets,Regular Season,0,0,30.0,15,2,5,1,4,1,1,3,5,-23,12,7,0.583,0,0,0.0,2,1,0.5,121,112,0
+203500,2018,21800927,2019-02-28 20:00:00,Oklahoma City,Thunder,Philadelphia,76ers,Regular Season,1,0,31.0,11,1,14,6,8,0,1,3,1,-5,9,4,0.444,0,0,0.0,6,3,0.5,104,108,0
+203500,2018,21800940,2019-03-02 20:30:00,Oklahoma City,Thunder,San Antonio,Spurs,Regular Season,0,0,24.0,17,0,13,7,6,1,2,2,4,-12,11,7,0.636,0,0,0.0,5,3,0.6,116,102,0
+203500,2018,21800951,2019-03-03 19:00:00,Oklahoma City,Thunder,Memphis,Grizzlies,Regular Season,1,1,32.0,13,0,22,14,8,1,2,4,1,-3,10,6,0.6,0,0,0.0,6,1,0.167,99,95,0
+203500,2018,21800963,2019-03-05 20:00:00,Oklahoma City,Thunder,Minnesota,Timberwolves,Regular Season,0,0,36.0,13,2,11,2,9,3,1,3,0,-16,6,5,0.833,0,0,0.0,9,3,0.333,131,120,0
+203500,2018,21800976,2019-03-07 22:30:00,Oklahoma City,Thunder,Portland,Trail Blazers,Regular Season,0,1,38.0,12,0,7,2,5,2,2,1,4,4,11,6,0.545,0,0,0.0,0,0,0.0,121,129,0
+203500,2018,21800985,2019-03-08 22:30:00,Oklahoma City,Thunder,Los Angeles,Clippers,Regular Season,0,0,31.0,6,3,10,3,7,0,0,1,6,-21,5,3,0.6,0,0,0.0,2,0,0.0,118,110,0
+203500,2018,21801005,2019-03-11 21:00:00,Oklahoma City,Thunder,Utah,Jazz,Regular Season,0,1,33.0,12,0,7,4,3,2,2,3,4,14,10,6,0.6,0,0,0.0,0,0,0.0,89,98,0
+203500,2018,21801017,2019-03-13 19:00:00,Oklahoma City,Thunder,Brooklyn,Nets,Regular Season,1,1,30.0,13,1,7,1,6,1,2,2,2,11,12,6,0.5,0,0,0.0,2,1,0.5,108,96,0
+203500,2018,21801020,2019-03-14 19:00:00,Oklahoma City,Thunder,Indiana,Pacers,Regular Season,0,0,33.0,17,1,8,5,3,0,0,4,3,-7,14,8,0.571,0,0,0.0,2,1,0.5,108,106,0
+203500,2018,21801038,2019-03-16 20:30:00,Oklahoma City,Thunder,Golden State,Warriors,Regular Season,1,0,33.0,9,1,9,2,7,2,1,2,1,-19,7,4,0.571,0,0,0.0,4,1,0.25,88,110,0
+203500,2018,21801054,2019-03-18 20:00:00,Oklahoma City,Thunder,Miami,Heat,Regular Season,1,0,24.0,10,3,12,8,4,2,1,2,6,4,6,5,0.833,0,0,0.0,2,0,0.0,107,116,0
+203500,2018,21801072,2019-03-20 21:30:00,Oklahoma City,Thunder,Toronto,Raptors,Regular Season,1,0,39.0,4,2,7,0,7,0,1,2,3,-4,7,2,0.286,0,0,0.0,0,0,0.0,114,123,0
+203500,2018,21801083,2019-03-22 19:30:00,Oklahoma City,Thunder,Toronto,Raptors,Regular Season,0,1,33.0,9,1,5,1,4,3,2,1,2,10,9,4,0.444,0,0,0.0,2,1,0.5,109,116,0
+203500,2018,21801104,2019-03-25 20:00:00,Oklahoma City,Thunder,Memphis,Grizzlies,Regular Season,0,0,31.0,2,0,8,2,6,3,4,1,2,-20,7,1,0.143,0,0,0.0,0,0,0.0,115,103,0
+203500,2018,21801119,2019-03-27 20:00:00,Oklahoma City,Thunder,Indiana,Pacers,Regular Season,1,1,34.0,25,3,12,5,7,1,2,0,1,13,14,11,0.786,0,0,0.0,6,3,0.5,107,99,0
+203500,2018,21801133,2019-03-29 20:00:00,Oklahoma City,Thunder,Denver,Nuggets,Regular Season,1,0,34.0,16,2,5,3,2,1,0,1,0,2,12,8,0.667,0,0,0.0,1,0,0.0,105,115,0
+203500,2018,21801146,2019-03-31 15:30:00,Oklahoma City,Thunder,Dallas,Mavericks,Regular Season,1,0,38.0,20,2,15,6,9,2,0,0,2,10,17,10,0.588,1,0,0.0,3,0,0.0,103,106,0
+203500,2018,21801161,2019-04-02 20:00:00,Oklahoma City,Thunder,Los Angeles,Lakers,Regular Season,1,1,33.0,13,3,8,1,7,5,1,2,2,26,11,6,0.545,0,0,0.0,7,1,0.143,119,103,0
+203500,2018,21801186,2019-04-05 20:00:00,Oklahoma City,Thunder,Detroit,Pistons,Regular Season,1,1,23.0,14,0,14,6,8,2,0,2,4,1,9,7,0.778,0,0,0.0,0,0,0.0,123,110,0
+203500,2018,21801197,2019-04-07 15:30:00,Oklahoma City,Thunder,Minnesota,Timberwolves,Regular Season,0,1,27.0,8,1,6,4,2,0,1,3,6,31,5,4,0.8,0,0,0.0,0,0,0.0,126,132,0
+203500,2018,21801218,2019-04-09 21:30:00,Oklahoma City,Thunder,Houston,Rockets,Regular Season,1,1,36.0,8,1,13,5,8,0,0,0,1,2,11,3,0.273,0,0,0.0,4,2,0.5,112,111,0
+203500,2018,21801226,2019-04-10 20:00:00,Oklahoma City,Thunder,Milwaukee,Bucks,Regular Season,0,1,12.0,4,0,2,0,2,1,0,0,1,-1,5,1,0.2,0,0,0.0,4,2,0.5,116,127,0
+203500,2018,41800161,2019-04-14 15:30:00,Oklahoma City,Thunder,Portland,Trail Blazers,Playoffs,0,0,36.0,17,1,9,3,6,0,3,3,2,-13,14,8,0.571,0,0,0.0,2,1,0.5,104,99,0
+203500,2018,41800162,2019-04-16 22:30:00,Oklahoma City,Thunder,Portland,Trail Blazers,Playoffs,0,0,30.0,16,1,9,6,3,0,1,2,4,-22,8,7,0.875,0,0,0.0,5,2,0.4,114,94,0
+203500,2018,41800163,2019-04-19 21:30:00,Oklahoma City,Thunder,Portland,Trail Blazers,Playoffs,1,1,34.0,10,2,7,5,2,1,0,3,2,18,6,5,0.833,1,0,0.0,0,0,0.0,120,108,0
+203500,2018,41800164,2019-04-21 21:30:00,Oklahoma City,Thunder,Portland,Trail Blazers,Playoffs,1,0,28.0,6,1,7,6,1,1,1,1,1,-21,6,3,0.5,0,0,0.0,0,0,0.0,98,111,0
+203500,2018,41800165,2019-04-23 22:30:00,Oklahoma City,Thunder,Portland,Trail Blazers,Playoffs,0,0,29.0,10,2,4,4,0,3,0,0,4,-1,8,5,0.625,0,0,0.0,1,0,0.0,118,115,0
+203500,2019,11900021,2019-10-08 20:00:00,Oklahoma City,Thunder,Dallas,Mavericks,Preseason,1,1,21.0,17,3,3,2,1,0,0,2,2,8,8,5,0.625,1,1,1.0,9,6,0.667,119,104,0
+203500,2019,11900055,2019-10-14 20:30:00,Oklahoma City,Thunder,Dallas,Mavericks,Preseason,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,107,70,0
+203500,2019,11900065,2019-10-16 20:00:00,Oklahoma City,Thunder,Memphis,Grizzlies,Preseason,1,0,25.0,12,1,9,6,3,0,1,2,2,-11,9,6,0.667,0,0,0.0,2,0,0.0,119,124,0
+203500,2019,21900011,2019-10-23 21:00:00,Oklahoma City,Thunder,Utah,Jazz,Regular Season,0,0,27.0,3,2,11,8,3,0,1,2,4,-1,8,1,0.125,0,0,0.0,6,1,0.167,100,95,0
+203500,2019,21900022,2019-10-25 20:00:00,Oklahoma City,Thunder,Washington,Wizards,Regular Season,1,0,29.0,7,0,14,10,4,1,1,1,1,-2,9,3,0.333,0,0,0.0,2,1,0.5,85,97,0
+203500,2019,21900036,2019-10-27 15:30:00,Oklahoma City,Thunder,Golden State,Warriors,Regular Season,1,1,25.0,8,3,10,5,5,0,0,1,2,26,8,4,0.5,0,0,0.0,2,0,0.0,120,92,0
+203500,2019,21900045,2019-10-28 20:00:00,Oklahoma City,Thunder,Houston,Rockets,Regular Season,0,0,26.0,6,1,12,10,2,2,0,1,3,-5,7,2,0.286,0,0,0.0,4,2,0.5,116,112,0
+203500,2019,21900101,2019-11-05 20:00:00,Oklahoma City,Thunder,Orlando,Magic,Regular Season,1,1,25.0,11,3,11,7,4,1,0,1,1,10,7,5,0.714,0,0,0.0,2,1,0.5,102,94,0
+203500,2019,21900113,2019-11-07 20:30:00,Oklahoma City,Thunder,San Antonio,Spurs,Regular Season,0,0,27.0,10,3,5,3,2,0,0,3,2,-6,6,5,0.833,0,0,0.0,4,0,0.0,121,112,0
+203500,2019,21900131,2019-11-09 20:00:00,Oklahoma City,Thunder,Golden State,Warriors,Regular Season,1,1,25.0,13,2,8,4,4,2,1,1,0,-1,7,6,0.857,0,0,0.0,3,1,0.333,114,108,0
+203500,2019,21900146,2019-11-12 19:00:00,Oklahoma City,Thunder,Indiana,Pacers,Regular Season,0,0,19.0,10,1,6,5,1,0,0,0,0,-4,8,5,0.625,0,0,0.0,0,0,0.0,111,85,0
+203500,2019,21900172,2019-11-15 20:00:00,Oklahoma City,Thunder,Philadelphia,76ers,Regular Season,1,1,31.0,7,4,7,3,4,2,1,1,2,8,6,3,0.5,0,0,0.0,2,1,0.5,127,119,0
+203500,2019,21900197,2019-11-18 22:30:00,Oklahoma City,Thunder,Los Angeles,Clippers,Regular Season,0,0,27.0,9,6,10,10,0,0,2,2,2,0,8,4,0.5,0,0,0.0,2,1,0.5,90,88,0
+203500,2019,21900201,2019-11-19 22:30:00,Oklahoma City,Thunder,Los Angeles,Lakers,Regular Season,0,0,24.0,2,4,6,4,2,0,0,2,2,-4,3,1,0.333,0,0,0.0,0,0,0.0,112,107,0
+203500,2019,21900220,2019-11-22 20:00:00,Oklahoma City,Thunder,Los Angeles,Lakers,Regular Season,1,0,26.0,22,4,6,4,2,0,0,3,4,-4,10,9,0.9,0,0,0.0,4,4,1.0,127,130,0
+203500,2019,21900250,2019-11-25 22:30:00,Oklahoma City,Thunder,Golden State,Warriors,Regular Season,0,1,27.0,10,5,10,6,4,3,0,2,1,10,6,4,0.667,0,0,0.0,4,2,0.5,97,100,0
+203500,2019,21900265,2019-11-27 22:00:00,Oklahoma City,Thunder,Portland,Trail Blazers,Regular Season,0,0,24.0,8,3,6,5,1,0,0,1,1,-19,7,4,0.571,0,0,0.0,0,0,0.0,136,119,0
+203500,2019,21900275,2019-11-29 20:00:00,Oklahoma City,Thunder,New Orleans,Pelicans,Regular Season,1,1,24.0,14,2,12,9,3,2,1,0,2,4,11,7,0.636,0,0,0.0,0,0,0.0,109,104,0
+203500,2019,21900289,2019-12-01 17:00:00,Oklahoma City,Thunder,New Orleans,Pelicans,Regular Season,0,1,28.0,17,2,10,8,2,2,1,1,3,2,7,6,0.857,0,0,0.0,6,5,0.833,104,107,0
+203500,2019,21900312,2019-12-04 20:00:00,Oklahoma City,Thunder,Indiana,Pacers,Regular Season,1,0,28.0,20,3,9,4,5,2,0,2,2,-2,8,8,1.0,0,0,0.0,4,4,1.0,100,107,0
+203500,2019,21900326,2019-12-06 20:00:00,Oklahoma City,Thunder,Minnesota,Timberwolves,Regular Season,1,1,36.0,22,2,11,5,6,4,2,2,4,5,13,9,0.692,1,0,0.0,8,4,0.5,139,127,0
+203500,2019,21900341,2019-12-08 21:00:00,Oklahoma City,Thunder,Portland,Trail Blazers,Regular Season,0,1,28.0,6,4,9,5,4,0,0,1,1,5,6,2,0.333,0,0,0.0,2,2,1.0,96,108,0
+203500,2019,21900350,2019-12-09 21:00:00,Oklahoma City,Thunder,Utah,Jazz,Regular Season,0,1,28.0,11,4,13,11,2,4,0,2,1,14,4,4,1.0,0,0,0.0,4,3,0.75,90,104,0
+203500,2019,21900365,2019-12-11 22:00:00,Oklahoma City,Thunder,Sacramento,Kings,Regular Season,0,0,28.0,12,4,10,5,5,2,0,1,1,-3,10,5,0.5,0,0,0.0,5,2,0.4,94,93,0
+203500,2019,21900387,2019-12-14 21:00:00,Oklahoma City,Thunder,Denver,Nuggets,Regular Season,0,0,30.0,18,0,14,8,6,2,0,1,4,-10,15,9,0.6,0,0,0.0,2,0,0.0,110,102,0
+203500,2019,21900399,2019-12-16 20:00:00,Oklahoma City,Thunder,Chicago,Bulls,Regular Season,1,1,28.0,9,1,11,5,6,1,0,4,1,1,8,4,0.5,0,0,0.0,2,1,0.5,109,106,0
+203500,2019,21900412,2019-12-18 20:00:00,Oklahoma City,Thunder,Memphis,Grizzlies,Regular Season,1,1,30.0,13,5,10,7,3,0,0,3,2,8,7,6,0.857,0,0,0.0,4,1,0.25,126,122,0
+203500,2019,21900426,2019-12-20 20:00:00,Oklahoma City,Thunder,Phoenix,Suns,Regular Season,1,1,25.0,10,2,9,6,3,2,0,3,2,8,6,5,0.833,0,0,0.0,0,0,0.0,126,108,0
+203500,2019,21900442,2019-12-22 19:00:00,Oklahoma City,Thunder,Los Angeles,Clippers,Regular Season,1,1,31.0,20,2,17,11,6,0,3,1,2,-4,15,10,0.667,0,0,0.0,2,0,0.0,118,112,0
+203500,2019,21900462,2019-12-26 20:00:00,Oklahoma City,Thunder,Memphis,Grizzlies,Regular Season,1,0,27.0,16,4,6,4,2,1,1,0,3,8,10,7,0.7,0,0,0.0,4,2,0.5,97,110,0
+203500,2019,21900467,2019-12-27 19:00:00,Oklahoma City,Thunder,Charlotte,Hornets,Regular Season,0,1,33.0,14,3,12,8,4,2,2,2,2,1,9,6,0.667,0,0,0.0,4,2,0.5,102,104,0
+203500,2019,21900486,2019-12-29 18:00:00,Oklahoma City,Thunder,Toronto,Raptors,Regular Season,0,1,28.0,9,0,6,2,4,1,2,1,0,0,7,2,0.286,0,0,0.0,6,5,0.833,97,98,0
+203500,2019,21900503,2019-12-31 20:00:00,Oklahoma City,Thunder,Dallas,Mavericks,Regular Season,1,1,25.0,10,2,11,7,4,0,1,1,5,3,7,4,0.571,0,0,0.0,4,2,0.5,106,101,0
+203500,2019,21900514,2020-01-02 20:30:00,Oklahoma City,Thunder,San Antonio,Spurs,Regular Season,0,1,29.0,14,3,9,5,4,1,0,1,4,8,8,5,0.625,0,0,0.0,6,4,0.667,103,109,0
+203500,2019,21900527,2020-01-04 19:30:00,Oklahoma City,Thunder,Cleveland,Cavaliers,Regular Season,0,1,30.0,10,4,16,8,8,1,1,1,1,15,7,2,0.286,0,0,0.0,7,6,0.857,106,121,0
+203500,2019,21900541,2020-01-06 19:00:00,Oklahoma City,Thunder,Philadelphia,76ers,Regular Season,0,0,35.0,24,1,15,6,9,2,0,1,1,-4,14,9,0.643,0,0,0.0,8,6,0.75,120,113,0
+203500,2019,21900550,2020-01-07 19:30:00,Oklahoma City,Thunder,Brooklyn,Nets,Regular Season,0,1,35.0,10,3,18,14,4,0,2,2,0,17,5,3,0.6,0,0,0.0,7,4,0.571,103,111,0
+203500,2019,21900566,2020-01-09 21:30:00,Oklahoma City,Thunder,Houston,Rockets,Regular Season,1,1,24.0,15,3,8,7,1,0,1,1,1,17,8,6,0.75,0,0,0.0,4,3,0.75,113,92,0
+203500,2019,21900580,2020-01-11 20:00:00,Oklahoma City,Thunder,Los Angeles,Lakers,Regular Season,1,0,29.0,12,1,8,6,2,1,2,1,0,-12,10,6,0.6,0,0,0.0,0,0,0.0,110,125,0
+203500,2019,21900594,2020-01-13 20:00:00,Oklahoma City,Thunder,Minnesota,Timberwolves,Regular Season,0,1,28.0,13,5,11,7,4,3,1,2,1,8,7,5,0.714,0,0,0.0,4,3,0.75,104,117,0
+203500,2019,21900609,2020-01-15 20:00:00,Oklahoma City,Thunder,Toronto,Raptors,Regular Season,1,0,6.0,2,1,2,2,0,0,1,1,0,-2,1,1,1.0,0,0,0.0,0,0,0.0,121,130,0
+203500,2019,21900635,2020-01-18 21:00:00,Oklahoma City,Thunder,Portland,Trail Blazers,Regular Season,1,1,24.0,5,3,9,4,5,0,0,3,2,20,7,1,0.143,0,0,0.0,4,3,0.75,119,106,0
+203500,2019,21900645,2020-01-20 17:00:00,Oklahoma City,Thunder,Houston,Rockets,Regular Season,0,1,1.0,0,0,0,0,0,0,0,0,0,2,2,0,0.0,0,0,0.0,2,0,0.0,107,112,0
+203500,2019,21900683,2020-01-25 20:00:00,Oklahoma City,Thunder,Minnesota,Timberwolves,Regular Season,0,1,23.0,0,2,1,1,0,4,0,1,4,1,2,0,0.0,0,0,0.0,0,0,0.0,104,113,0
+203500,2019,21900697,2020-01-27 20:00:00,Oklahoma City,Thunder,Dallas,Mavericks,Regular Season,1,0,23.0,9,4,5,5,0,0,0,0,2,-3,5,4,0.8,0,0,0.0,2,1,0.5,97,107,0
+203500,2019,21900713,2020-01-29 22:00:00,Oklahoma City,Thunder,Sacramento,Kings,Regular Season,0,1,25.0,8,1,8,3,5,1,1,0,2,14,5,2,0.4,0,0,0.0,4,4,1.0,100,120,0
+203500,2019,21900725,2020-01-31 21:00:00,Oklahoma City,Thunder,Phoenix,Suns,Regular Season,0,1,22.0,8,2,5,1,4,1,2,4,5,-11,6,4,0.667,0,0,0.0,0,0,0.0,107,111,0
+203500,2019,21900760,2020-02-05 20:00:00,Oklahoma City,Thunder,Cleveland,Cavaliers,Regular Season,1,1,29.0,6,3,8,7,1,0,0,1,2,2,5,2,0.4,0,0,0.0,3,2,0.667,109,103,0
+203500,2019,21900773,2020-02-07 20:00:00,Oklahoma City,Thunder,Detroit,Pistons,Regular Season,1,1,28.0,16,3,8,6,2,1,0,3,3,-9,10,7,0.7,0,0,0.0,2,2,1.0,108,101,0
+203500,2019,21900786,2020-02-09 15:30:00,Oklahoma City,Thunder,Boston,Celtics,Regular Season,1,0,30.0,4,2,11,6,5,1,0,2,3,8,10,2,0.2,1,0,0.0,0,0,0.0,111,112,0
+203500,2019,21900805,2020-02-11 20:00:00,Oklahoma City,Thunder,San Antonio,Spurs,Regular Season,1,0,32.0,10,2,10,7,3,1,4,4,5,1,9,4,0.444,0,0,0.0,2,2,1.0,106,114,0
+203500,2019,21900819,2020-02-13 20:00:00,Oklahoma City,Thunder,New Orleans,Pelicans,Regular Season,0,1,27.0,11,2,11,8,3,3,1,1,4,9,10,5,0.5,1,1,1.0,1,0,0.0,118,123,0
+203500,2019,21900831,2020-02-21 20:00:00,Oklahoma City,Thunder,Denver,Nuggets,Regular Season,1,1,32.0,19,2,17,10,7,2,4,0,0,9,14,7,0.5,0,0,0.0,6,5,0.833,113,101,0
+203500,2019,21900846,2020-02-23 19:00:00,Oklahoma City,Thunder,San Antonio,Spurs,Regular Season,1,1,27.0,21,0,14,11,3,0,1,1,0,7,12,8,0.667,0,0,0.0,6,5,0.833,131,103,0
+203500,2019,21900859,2020-02-25 20:00:00,Oklahoma City,Thunder,Chicago,Bulls,Regular Season,0,1,28.0,16,2,9,4,5,3,3,1,1,11,8,6,0.75,0,0,0.0,6,4,0.667,122,124,0
+203500,2019,21900875,2020-02-27 20:00:00,Oklahoma City,Thunder,Sacramento,Kings,Regular Season,1,1,27.0,15,1,7,1,6,0,0,1,2,-10,9,7,0.778,0,0,0.0,2,1,0.5,112,108,0
+203500,2019,21900882,2020-02-28 20:00:00,Oklahoma City,Thunder,Milwaukee,Bucks,Regular Season,0,0,16.0,8,3,7,6,1,0,1,1,1,-5,5,4,0.8,0,0,0.0,0,0,0.0,133,86,0
+203500,2019,21900912,2020-03-03 20:00:00,Oklahoma City,Thunder,Los Angeles,Clippers,Regular Season,1,0,27.0,4,2,10,5,5,0,0,1,5,-17,6,2,0.333,0,0,0.0,2,0,0.0,94,109,0
+203500,2019,21900918,2020-03-04 19:00:00,Oklahoma City,Thunder,Detroit,Pistons,Regular Season,0,1,32.0,8,3,7,7,0,1,3,5,1,2,5,4,0.8,0,0,0.0,3,0,0.0,107,114,0
+203500,2019,21900932,2020-03-06 19:30:00,Oklahoma City,Thunder,New York,Knicks,Regular Season,0,1,23.0,12,1,11,5,6,2,0,0,0,14,8,5,0.625,0,0,0.0,2,2,1.0,103,126,0
+203500,2019,21900949,2020-03-08 18:00:00,Oklahoma City,Thunder,Boston,Celtics,Regular Season,0,1,26.0,6,1,6,6,0,1,3,1,1,4,2,1,0.5,0,0,0.0,8,4,0.5,104,105,0
+203500,2019,11900110,2020-07-24 17:00:00,Oklahoma City,Thunder,Boston,Celtics,Preseason,0,1,0.0,17,1,7,3,4,1,0,1,1,7,11,8,0.727,1,0,0.0,2,1,0.5,84,98,0
+203500,2019,11900118,2020-07-26 12:00:00,Oklahoma City,Thunder,Philadelphia,76ers,Preseason,1,1,22.0,11,1,9,6,3,0,0,2,1,-15,8,5,0.625,0,0,0.0,2,1,0.5,102,97,0
+203500,2019,11900131,2020-07-28 18:00:00,Oklahoma City,Thunder,Portland,Trail Blazers,Preseason,0,1,15.0,9,1,3,2,1,0,1,1,1,-2,5,3,0.6,0,0,0.0,6,3,0.5,120,131,0
+203500,2019,21901240,2020-08-01 15:30:00,Oklahoma City,Thunder,Utah,Jazz,Regular Season,1,1,27.0,16,2,11,8,3,2,0,4,3,15,10,7,0.7,0,0,0.0,5,2,0.4,110,94,0
+203500,2019,21901251,2020-08-03 16:00:00,Oklahoma City,Thunder,Denver,Nuggets,Regular Season,1,0,34.0,9,1,10,7,3,0,0,2,6,-18,6,3,0.5,0,0,0.0,4,3,0.75,113,121,0
+203500,2019,21901265,2020-08-05 18:30:00,Oklahoma City,Thunder,Los Angeles,Lakers,Regular Season,0,1,28.0,18,2,7,6,1,0,0,1,2,13,10,7,0.7,0,0,0.0,7,4,0.571,86,105,0
+203500,2019,21901285,2020-08-09 12:30:00,Oklahoma City,Thunder,Washington,Wizards,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,121,103,0
+203500,2019,21901306,2020-08-12 20:00:00,Oklahoma City,Thunder,Miami,Heat,Regular Season,1,1,19.0,8,0,8,6,2,0,1,0,0,-7,7,4,0.571,0,0,0.0,2,0,0.0,116,115,0
+203500,2019,21901317,2020-08-14 18:30:00,Oklahoma City,Thunder,Los Angeles,Clippers,Regular Season,0,0,6.0,0,0,4,2,2,0,0,1,0,2,2,0,0.0,0,0,0.0,0,0,0.0,107,103,0
+203500,2019,41900171,2020-08-18 18:30:00,Oklahoma City,Thunder,Houston,Rockets,Playoffs,0,0,27.0,17,2,12,8,4,0,0,1,2,-3,13,7,0.538,1,0,0.0,6,3,0.5,123,108,0
+203500,2019,41900172,2020-08-20 15:30:00,Oklahoma City,Thunder,Houston,Rockets,Playoffs,0,0,30.0,8,3,11,8,3,0,1,4,1,-26,4,4,1.0,0,0,0.0,0,0,0.0,111,98,0
+203500,2019,41900173,2020-08-22 18:00:00,Oklahoma City,Thunder,Houston,Rockets,Playoffs,1,1,35.0,6,2,13,11,2,1,0,3,4,5,7,3,0.429,0,0,0.0,3,0,0.0,119,107,0
+203500,2019,41900174,2020-08-24 16:00:00,Oklahoma City,Thunder,Houston,Rockets,Playoffs,1,1,26.0,12,1,8,4,4,0,0,3,1,-7,5,4,0.8,0,0,0.0,6,4,0.667,117,114,0
+203500,2019,41900175,2020-08-29 18:30:00,Oklahoma City,Thunder,Houston,Rockets,Playoffs,0,0,25.0,12,0,14,6,8,0,0,0,1,-15,8,6,0.75,0,0,0.0,2,0,0.0,114,80,0
+203500,2019,41900176,2020-08-31 21:00:00,Oklahoma City,Thunder,Houston,Rockets,Playoffs,1,1,31.0,6,1,14,5,9,0,1,4,1,-4,9,3,0.333,0,0,0.0,0,0,0.0,104,100,0
+203500,2020,41900177,2020-09-02 21:00:00,Oklahoma City,Thunder,Houston,Rockets,Playoffs,0,0,33.0,10,0,9,5,4,1,2,1,0,0,6,4,0.667,0,0,0.0,3,2,0.667,104,102,0
+203500,2020,12000021,2020-12-14 19:00:00,New Orleans,Pelicans,Miami,Heat,Preseason,0,1,19.0,7,1,8,3,5,0,1,0,3,1,4,3,0.75,0,0,0.0,4,1,0.25,92,114,0
+203500,2020,12000043,2020-12-18 20:00:00,New Orleans,Pelicans,Milwaukee,Bucks,Preseason,1,1,22.0,6,2,9,2,7,1,0,1,0,-3,6,3,0.5,0,0,0.0,2,0,0.0,127,113,0
+203500,2020,22000014,2020-12-23 19:30:00,New Orleans,Pelicans,Toronto,Raptors,Regular Season,0,1,30.0,8,3,8,6,2,2,4,0,1,16,6,4,0.667,0,0,0.0,0,0,0.0,99,113,0
+203500,2020,22000005,2020-12-25 12:00:00,New Orleans,Pelicans,Miami,Heat,Regular Season,0,0,32.0,6,1,9,5,4,1,2,2,2,5,3,3,1.0,0,0,0.0,0,0,0.0,111,98,0
+203500,2020,22000034,2020-12-27 19:00:00,New Orleans,Pelicans,San Antonio,Spurs,Regular Season,1,1,30.0,8,3,9,6,3,1,0,0,1,18,7,4,0.571,0,0,0.0,2,0,0.0,98,95,0
+203500,2020,22000053,2020-12-29 22:00:00,New Orleans,Pelicans,Phoenix,Suns,Regular Season,0,0,23.0,11,1,8,5,3,1,0,4,1,-15,5,5,1.0,0,0,0.0,2,1,0.5,111,86,0
+203500,2020,22000067,2020-12-31 20:00:00,New Orleans,Pelicans,Oklahoma City,Thunder,Regular Season,0,1,31.0,14,2,10,4,6,1,1,0,1,15,13,7,0.538,0,0,0.0,0,0,0.0,80,113,0
+203500,2020,22000084,2021-01-02 19:30:00,New Orleans,Pelicans,Toronto,Raptors,Regular Season,1,1,31.0,13,1,10,6,4,0,2,3,2,4,7,4,0.571,0,0,0.0,8,5,0.625,120,116,0
+203500,2020,22000100,2021-01-04 20:00:00,New Orleans,Pelicans,Indiana,Pacers,Regular Season,1,0,31.0,10,0,8,4,4,0,3,4,5,3,7,4,0.571,0,0,0.0,4,2,0.5,116,118,0
+203500,2020,22000114,2021-01-06 20:00:00,New Orleans,Pelicans,Oklahoma City,Thunder,Regular Season,1,0,34.0,10,10,11,9,2,0,1,2,2,4,5,4,0.8,0,0,0.0,5,2,0.4,110,111,0
+203500,2020,22000126,2021-01-08 19:30:00,New Orleans,Pelicans,Charlotte,Hornets,Regular Season,1,0,34.0,13,2,7,6,1,2,1,4,3,-4,7,5,0.714,0,0,0.0,6,3,0.5,110,118,0
+203500,2020,22000172,2021-01-13 22:00:00,New Orleans,Pelicans,Los Angeles,Clippers,Regular Season,0,0,28.0,12,5,6,3,3,1,0,1,3,-2,7,6,0.857,0,0,0.0,2,0,0.0,111,106,0
+203500,2020,22000187,2021-01-15 22:00:00,New Orleans,Pelicans,Los Angeles,Lakers,Regular Season,0,0,33.0,4,1,7,3,4,0,0,0,0,-21,4,2,0.5,0,0,0.0,0,0,0.0,112,95,0
+203500,2020,22000201,2021-01-17 21:00:00,New Orleans,Pelicans,Sacramento,Kings,Regular Season,0,1,31.0,12,4,15,7,8,0,0,2,0,0,8,3,0.375,0,0,0.0,8,6,0.75,123,128,0
+203500,2020,22000214,2021-01-19 21:00:00,New Orleans,Pelicans,Utah,Jazz,Regular Season,0,0,23.0,6,1,9,4,5,0,1,1,0,-8,6,3,0.5,0,0,0.0,0,0,0.0,118,102,0
+203500,2020,22000227,2021-01-21 22:00:00,New Orleans,Pelicans,Utah,Jazz,Regular Season,0,0,30.0,8,3,16,10,6,1,1,5,4,-20,9,4,0.444,0,0,0.0,0,0,0.0,129,118,0
+203500,2020,22000246,2021-01-23 20:00:00,New Orleans,Pelicans,Minnesota,Timberwolves,Regular Season,0,0,23.0,5,2,3,0,3,0,0,3,3,-10,3,2,0.667,0,0,0.0,2,1,0.5,120,110,0
+203500,2020,22000279,2021-01-27 21:00:00,New Orleans,Pelicans,Washington,Wizards,Regular Season,1,1,32.0,6,3,18,12,6,1,0,1,1,27,8,3,0.375,0,0,0.0,2,0,0.0,124,106,0
+203500,2020,22000293,2021-01-29 19:30:00,New Orleans,Pelicans,Milwaukee,Bucks,Regular Season,1,1,38.0,4,2,20,10,10,0,0,1,3,-4,5,2,0.4,0,0,0.0,0,0,0.0,131,126,0
+203500,2020,22000300,2021-01-30 20:00:00,New Orleans,Pelicans,Houston,Rockets,Regular Season,1,0,23.0,4,1,2,1,1,0,1,3,2,-6,3,2,0.667,1,0,0.0,0,0,0.0,112,126,0
+203500,2020,22000335,2021-02-03 21:30:00,New Orleans,Pelicans,Phoenix,Suns,Regular Season,1,1,28.0,11,4,13,5,8,0,1,0,2,21,10,4,0.4,0,0,0.0,4,3,0.75,123,101,0
+203500,2020,22000343,2021-02-05 19:00:00,New Orleans,Pelicans,Indiana,Pacers,Regular Season,0,1,30.0,12,1,12,5,7,0,1,4,3,11,5,5,1.0,0,0,0.0,5,2,0.4,113,114,0
+203500,2020,22000355,2021-02-06 21:00:00,New Orleans,Pelicans,Memphis,Grizzlies,Regular Season,1,1,29.0,4,1,2,0,2,1,0,0,2,23,3,2,0.667,0,0,0.0,4,0,0.0,118,109,0
+203500,2020,22000377,2021-02-09 19:30:00,New Orleans,Pelicans,Houston,Rockets,Regular Season,1,1,21.0,6,2,4,1,3,1,2,1,3,13,6,3,0.5,0,0,0.0,0,0,0.0,130,101,0
+203500,2020,22000385,2021-02-10 21:00:00,New Orleans,Pelicans,Chicago,Bulls,Regular Season,0,0,21.0,3,2,6,2,4,0,2,1,1,-16,2,1,0.5,0,0,0.0,1,1,1.0,129,116,0
+203500,2020,22000399,2021-02-12 19:30:00,New Orleans,Pelicans,Dallas,Mavericks,Regular Season,0,0,19.0,4,1,4,0,4,0,0,2,2,-13,4,2,0.5,0,0,0.0,0,0,0.0,143,130,0
+203500,2020,22000561,2021-02-14 19:00:00,New Orleans,Pelicans,Detroit,Pistons,Regular Season,0,0,29.0,13,2,12,3,9,0,0,1,1,-2,7,5,0.714,0,0,0.0,5,3,0.6,123,112,0
+203500,2020,22000429,2021-02-16 20:00:00,New Orleans,Pelicans,Memphis,Grizzlies,Regular Season,0,1,23.0,8,0,7,4,3,2,3,1,2,9,5,4,0.8,0,0,0.0,2,0,0.0,113,144,0
+203500,2020,22000441,2021-02-17 21:00:00,New Orleans,Pelicans,Portland,Trail Blazers,Regular Season,1,0,9.0,2,0,3,2,1,0,0,0,1,-8,1,1,1.0,0,0,0.0,0,0,0.0,124,126,0
+203500,2020,22000455,2021-02-19 20:00:00,New Orleans,Pelicans,Phoenix,Suns,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,114,132,0
+203500,2020,22000465,2021-02-21 15:30:00,New Orleans,Pelicans,Boston,Celtics,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,120,115,0
+203500,2020,22000494,2021-02-24 20:00:00,New Orleans,Pelicans,Detroit,Pistons,Regular Season,1,1,30.0,14,3,15,9,6,2,1,1,1,10,8,7,0.875,0,0,0.0,2,0,0.0,128,118,0
+203500,2020,22000503,2021-02-25 21:30:00,New Orleans,Pelicans,Milwaukee,Bucks,Regular Season,0,0,27.0,7,4,13,8,5,2,1,0,2,-4,4,3,0.75,0,0,0.0,2,1,0.5,129,125,0
+203500,2020,22000514,2021-02-27 20:00:00,New Orleans,Pelicans,San Antonio,Spurs,Regular Season,0,0,26.0,7,3,6,6,0,0,0,1,3,-1,5,3,0.6,0,0,0.0,2,1,0.5,117,114,0
+203500,2020,22000533,2021-03-01 20:00:00,New Orleans,Pelicans,Utah,Jazz,Regular Season,1,1,25.0,5,0,11,10,1,0,1,1,2,5,6,2,0.333,0,0,0.0,2,1,0.5,129,124,0
+203500,2020,22000548,2021-03-03 20:00:00,New Orleans,Pelicans,Chicago,Bulls,Regular Season,1,0,21.0,0,0,5,3,2,1,0,0,0,-24,1,0,0.0,0,0,0.0,2,0,0.0,124,128,0
+203500,2020,22000557,2021-03-04 20:30:00,New Orleans,Pelicans,Miami,Heat,Regular Season,1,0,25.0,15,1,5,2,3,0,0,1,4,-9,7,6,0.857,0,0,0.0,7,3,0.429,93,103,0
+203500,2020,22000574,2021-03-11 20:00:00,New Orleans,Pelicans,Minnesota,Timberwolves,Regular Season,1,0,28.0,13,0,12,5,7,0,1,1,1,-16,10,6,0.6,1,0,0.0,2,1,0.5,105,135,0
+203500,2020,22000581,2021-03-12 20:00:00,New Orleans,Pelicans,Cleveland,Cavaliers,Regular Season,1,1,21.0,10,2,17,14,3,0,0,3,1,25,5,5,1.0,0,0,0.0,0,0,0.0,116,82,0
+203500,2020,22000601,2021-03-14 21:00:00,New Orleans,Pelicans,Los Angeles,Clippers,Regular Season,1,1,19.0,9,2,8,7,1,0,2,1,1,14,3,3,1.0,0,0,0.0,4,3,0.75,135,115,0
+203500,2020,22000614,2021-03-16 22:00:00,New Orleans,Pelicans,Portland,Trail Blazers,Regular Season,0,0,25.0,4,2,5,1,4,0,1,2,4,4,4,2,0.5,0,0,0.0,0,0,0.0,125,124,0
+203500,2020,22000629,2021-03-18 22:00:00,New Orleans,Pelicans,Portland,Trail Blazers,Regular Season,0,0,34.0,6,2,10,5,5,0,1,1,5,-2,3,2,0.667,0,0,0.0,2,2,1.0,101,93,0
+203500,2020,22000646,2021-03-21 15:00:00,New Orleans,Pelicans,Denver,Nuggets,Regular Season,0,1,36.0,4,3,13,6,7,2,1,3,2,-5,4,1,0.25,0,0,0.0,6,2,0.333,108,113,0
+203500,2020,22000663,2021-03-23 19:30:00,New Orleans,Pelicans,Los Angeles,Lakers,Regular Season,1,1,25.0,12,0,7,6,1,1,0,1,3,14,6,6,1.0,0,0,0.0,0,0,0.0,128,111,0
+203500,2020,22000689,2021-03-26 20:00:00,New Orleans,Pelicans,Denver,Nuggets,Regular Season,1,0,41.0,8,1,4,3,1,1,1,1,1,-23,7,3,0.429,1,0,0.0,2,2,1.0,108,113,0
+203500,2020,22000698,2021-03-27 21:00:00,New Orleans,Pelicans,Dallas,Mavericks,Regular Season,1,1,30.0,4,1,7,4,3,4,1,0,2,4,2,2,1.0,0,0,0.0,0,0,0.0,112,103,0
+203500,2020,22000708,2021-03-29 19:30:00,New Orleans,Pelicans,Boston,Celtics,Regular Season,0,1,29.0,4,1,5,4,1,1,2,1,3,-9,2,2,1.0,0,0,0.0,4,0,0.0,109,115,0
+203500,2020,22000734,2021-04-01 20:00:00,New Orleans,Pelicans,Orlando,Magic,Regular Season,1,0,36.0,8,3,10,7,3,0,0,2,4,4,8,4,0.5,0,0,0.0,0,0,0.0,110,115,0
+203500,2020,22000742,2021-04-02 21:00:00,New Orleans,Pelicans,Atlanta,Hawks,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,103,126,0
+203500,2020,22000760,2021-04-04 20:00:00,New Orleans,Pelicans,Houston,Rockets,Regular Season,0,1,22.0,12,3,11,4,7,1,2,1,3,3,9,5,0.556,0,0,0.0,6,2,0.333,115,122,0
+203500,2020,22000770,2021-04-06 19:30:00,New Orleans,Pelicans,Atlanta,Hawks,Regular Season,0,0,25.0,6,1,8,2,6,0,3,2,1,-25,6,2,0.333,0,0,0.0,4,2,0.5,123,107,0
+203500,2020,22000779,2021-04-07 19:30:00,New Orleans,Pelicans,Brooklyn,Nets,Regular Season,0,0,20.0,8,1,5,1,4,0,0,1,1,-10,6,4,0.667,0,0,0.0,2,0,0.0,139,111,0
+203500,2020,22000795,2021-04-09 20:00:00,New Orleans,Pelicans,Philadelphia,76ers,Regular Season,1,1,27.0,7,1,5,3,2,3,3,1,4,-7,5,3,0.6,0,0,0.0,4,1,0.25,101,94,0
+203500,2020,22000807,2021-04-11 19:00:00,New Orleans,Pelicans,Cleveland,Cavaliers,Regular Season,0,1,26.0,0,3,8,7,1,0,1,2,1,-7,1,0,0.0,0,0,0.0,0,0,0.0,109,116,0
+203500,2020,22000819,2021-04-12 21:00:00,New Orleans,Pelicans,Sacramento,Kings,Regular Season,1,1,26.0,6,0,16,11,5,0,1,0,1,-2,4,2,0.5,0,0,0.0,6,2,0.333,117,110,0
+203500,2020,22000835,2021-04-14 20:00:00,New Orleans,Pelicans,New York,Knicks,Regular Season,1,0,30.0,10,3,10,7,3,0,0,0,1,17,7,5,0.714,0,0,0.0,0,0,0.0,106,116,0
+203500,2020,22000847,2021-04-16 19:00:00,New Orleans,Pelicans,Washington,Wizards,Regular Season,0,0,29.0,6,4,12,10,2,2,0,0,1,7,1,1,1.0,0,0,0.0,4,4,1.0,117,115,0
+203500,2020,22000862,2021-04-18 13:00:00,New Orleans,Pelicans,New York,Knicks,Regular Season,0,0,36.0,10,3,14,6,8,0,1,2,2,-1,7,5,0.714,0,0,0.0,2,0,0.0,122,112,0
+203500,2020,22000878,2021-04-20 19:30:00,New Orleans,Pelicans,Brooklyn,Nets,Regular Season,1,0,29.0,7,1,5,5,0,2,0,0,3,0,5,3,0.6,0,0,0.0,2,1,0.5,129,134,0
+203500,2020,22000893,2021-04-22 19:00:00,New Orleans,Pelicans,Orlando,Magic,Regular Season,0,1,16.0,12,0,9,8,1,0,0,0,2,15,8,5,0.625,0,0,0.0,2,2,1.0,100,135,0
+203500,2020,22000264,2021-04-24 20:00:00,New Orleans,Pelicans,San Antonio,Spurs,Regular Season,1,0,31.0,4,1,10,6,4,0,3,3,2,-2,3,2,0.667,0,0,0.0,2,0,0.0,108,110,0
+203500,2020,22000940,2021-04-28 21:00:00,New Orleans,Pelicans,Denver,Nuggets,Regular Season,0,0,12.0,2,2,1,1,0,0,1,0,1,-5,2,1,0.5,0,0,0.0,0,0,0.0,114,112,0
+203500,2020,22000987,2021-05-04 20:00:00,New Orleans,Pelicans,Golden State,Warriors,Regular Season,1,1,23.0,1,2,8,7,1,1,0,0,0,5,3,0,0.0,0,0,0.0,2,1,0.5,108,103,0
+203500,2021,12100014,2021-10-05 20:00:00,Memphis,Grizzlies,Milwaukee,Bucks,Preseason,1,1,21.0,11,3,10,4,6,1,0,3,2,10,6,5,0.833,0,0,0.0,1,1,1.0,87,77,0
+203500,2021,12100022,2021-10-07 19:00:00,Memphis,Grizzlies,Charlotte,Hornets,Preseason,0,1,23.0,15,3,16,8,8,1,0,6,3,23,7,5,0.714,0,0,0.0,6,5,0.833,98,128,0
+203500,2021,12100034,2021-10-09 20:00:00,Memphis,Grizzlies,Atlanta,Hawks,Preseason,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,87,91,0
+203500,2021,12100042,2021-10-11 20:00:00,Memphis,Grizzlies,Detroit,Pistons,Preseason,1,1,25.0,7,3,9,5,4,0,1,2,1,18,5,3,0.6,0,0,0.0,2,1,0.5,127,92,0
+203500,2021,12100063,2021-10-15 20:00:00,Memphis,Grizzlies,Chicago,Bulls,Preseason,0,0,24.0,10,0,9,8,1,1,0,3,2,-8,7,5,0.714,0,0,0.0,2,0,0.0,118,105,0
+203500,2021,22100007,2021-10-20 20:00:00,Memphis,Grizzlies,Cleveland,Cavaliers,Regular Season,1,1,31.0,8,3,14,8,6,1,1,2,0,1,7,4,0.571,0,0,0.0,0,0,0.0,132,121,0
+203500,2021,22100034,2021-10-23 22:30:00,Memphis,Grizzlies,Los Angeles,Clippers,Regular Season,0,1,26.0,17,5,9,4,5,0,2,1,0,17,9,6,0.667,0,0,0.0,5,5,1.0,114,120,0
+203500,2021,22100040,2021-10-24 21:30:00,Memphis,Grizzlies,Los Angeles,Lakers,Regular Season,0,0,33.0,14,6,16,8,8,0,0,4,5,15,11,7,0.636,0,0,0.0,0,0,0.0,121,118,0
+203500,2021,22100063,2021-10-27 22:00:00,Memphis,Grizzlies,Portland,Trail Blazers,Regular Season,0,0,17.0,4,0,7,2,5,0,0,0,4,-20,8,2,0.25,0,0,0.0,0,0,0.0,116,96,0
+203500,2021,22100070,2021-10-28 22:00:00,Memphis,Grizzlies,Golden State,Warriors,Regular Season,0,1,21.0,12,2,7,4,3,1,2,3,0,-5,6,4,0.667,0,0,0.0,4,4,1.0,101,104,0
+203500,2021,22100084,2021-10-30 20:00:00,Memphis,Grizzlies,Miami,Heat,Regular Season,1,0,18.0,6,2,5,4,1,0,0,0,1,-12,1,1,1.0,0,0,0.0,4,4,1.0,103,129,0
+203500,2021,22100100,2021-11-01 20:00:00,Memphis,Grizzlies,Denver,Nuggets,Regular Season,1,1,30.0,6,1,7,6,1,2,1,1,1,2,8,3,0.375,0,0,0.0,0,0,0.0,106,97,0
+203500,2021,22100114,2021-11-03 20:00:00,Memphis,Grizzlies,Denver,Nuggets,Regular Season,1,1,30.0,8,4,8,7,1,0,1,1,2,9,5,3,0.6,0,0,0.0,2,2,1.0,108,106,0
+203500,2021,22100126,2021-11-05 19:00:00,Memphis,Grizzlies,Washington,Wizards,Regular Season,0,0,19.0,5,2,6,3,3,0,0,0,1,-20,5,2,0.4,0,0,0.0,2,1,0.5,115,87,0
+203500,2021,22100149,2021-11-08 20:00:00,Memphis,Grizzlies,Minnesota,Timberwolves,Regular Season,1,1,19.0,3,1,3,1,2,1,0,2,2,-17,4,1,0.25,0,0,0.0,1,1,1.0,125,118,0
+203500,2021,22100164,2021-11-10 20:00:00,Memphis,Grizzlies,Charlotte,Hornets,Regular Season,1,0,28.0,9,3,14,6,8,2,0,2,1,9,5,4,0.8,0,0,0.0,5,1,0.2,108,118,0
+203500,2021,22100178,2021-11-12 20:00:00,Memphis,Grizzlies,Phoenix,Suns,Regular Season,1,0,21.0,5,1,10,4,6,0,1,1,2,-26,6,2,0.333,0,0,0.0,4,1,0.25,94,119,0
+203500,2021,22100188,2021-11-13 19:00:00,Memphis,Grizzlies,New Orleans,Pelicans,Regular Season,0,0,36.0,15,4,9,5,4,3,2,1,3,0,8,5,0.625,0,0,0.0,7,5,0.714,112,101,0
+203500,2021,22100205,2021-11-15 20:00:00,Memphis,Grizzlies,Houston,Rockets,Regular Season,1,1,21.0,2,4,5,3,2,0,2,1,2,21,1,0,0.0,0,0,0.0,4,2,0.5,136,102,0
+203500,2021,22100226,2021-11-18 20:00:00,Memphis,Grizzlies,Los Angeles,Clippers,Regular Season,1,1,26.0,2,5,10,5,5,1,0,4,3,15,4,1,0.25,0,0,0.0,0,0,0.0,120,108,0
+203500,2021,22100245,2021-11-20 20:00:00,Memphis,Grizzlies,Minnesota,Timberwolves,Regular Season,0,0,17.0,6,1,2,2,0,1,0,2,2,-21,1,1,1.0,0,0,0.0,6,4,0.667,138,95,0
+203500,2021,22100261,2021-11-22 21:00:00,Memphis,Grizzlies,Utah,Jazz,Regular Season,0,1,24.0,2,4,8,4,4,1,3,0,2,4,3,0,0.0,0,0,0.0,2,2,1.0,118,119,0
+203500,2021,22100272,2021-11-24 20:00:00,Memphis,Grizzlies,Toronto,Raptors,Regular Season,1,0,19.0,2,2,6,4,2,0,0,2,1,-3,3,1,0.333,0,0,0.0,0,0,0.0,113,126,0
+203500,2021,22100285,2021-11-26 20:00:00,Memphis,Grizzlies,Atlanta,Hawks,Regular Season,1,0,17.0,2,2,2,1,1,0,0,1,0,-16,1,1,1.0,0,0,0.0,0,0,0.0,100,132,0
+203500,2021,22100303,2021-11-28 18:00:00,Memphis,Grizzlies,Sacramento,Kings,Regular Season,1,1,20.0,3,4,12,8,4,3,1,2,3,22,4,1,0.25,0,0,0.0,2,1,0.5,128,101,0
+203500,2021,22100315,2021-11-30 19:30:00,Memphis,Grizzlies,Toronto,Raptors,Regular Season,0,1,26.0,4,2,8,5,3,0,2,2,0,-3,3,2,0.667,0,0,0.0,0,0,0.0,91,98,0
+203500,2021,22100330,2021-12-02 20:00:00,Memphis,Grizzlies,Oklahoma City,Thunder,Regular Season,1,1,21.0,9,2,8,6,2,1,0,0,2,39,2,2,1.0,0,0,0.0,6,5,0.833,152,79,0
+203500,2021,22100345,2021-12-04 20:30:00,Memphis,Grizzlies,Dallas,Mavericks,Regular Season,0,1,27.0,11,3,13,5,8,0,1,2,2,14,7,4,0.571,0,0,0.0,7,3,0.429,90,97,0
+203500,2021,22100356,2021-12-06 19:30:00,Memphis,Grizzlies,Miami,Heat,Regular Season,0,1,31.0,17,2,16,9,7,1,1,2,3,15,8,6,0.75,0,0,0.0,9,5,0.556,90,105,0
+203500,2021,22100373,2021-12-08 20:00:00,Memphis,Grizzlies,Dallas,Mavericks,Regular Season,1,0,30.0,6,3,9,6,3,0,2,6,2,2,4,2,0.5,0,0,0.0,6,2,0.333,96,104,0
+203500,2021,22100380,2021-12-09 20:00:00,Memphis,Grizzlies,Los Angeles,Lakers,Regular Season,1,1,30.0,4,2,13,5,8,0,0,3,0,-6,3,1,0.333,0,0,0.0,6,2,0.333,108,95,0
+203500,2021,22100395,2021-12-11 20:00:00,Memphis,Grizzlies,Houston,Rockets,Regular Season,1,1,21.0,6,3,9,7,2,0,0,2,1,13,4,3,0.75,0,0,0.0,0,0,0.0,113,106,0
+203500,2021,22100409,2021-12-13 20:00:00,Memphis,Grizzlies,Philadelphia,76ers,Regular Season,1,1,20.0,6,1,4,2,2,0,1,1,1,9,5,3,0.6,0,0,0.0,0,0,0.0,126,91,0
+203500,2021,22100426,2021-12-15 22:00:00,Memphis,Grizzlies,Portland,Trail Blazers,Regular Season,0,1,30.0,10,2,14,7,7,0,3,3,2,5,6,4,0.667,0,0,0.0,2,2,1.0,103,113,0
+203500,2021,22100440,2021-12-17 22:00:00,Memphis,Grizzlies,Sacramento,Kings,Regular Season,0,1,30.0,5,4,12,7,5,0,1,1,2,1,4,1,0.25,0,0,0.0,7,3,0.429,105,124,0
+203500,2021,22100450,2021-12-19 18:00:00,Memphis,Grizzlies,Portland,Trail Blazers,Regular Season,1,0,35.0,13,5,9,5,4,0,3,0,0,6,8,5,0.625,0,0,0.0,3,3,1.0,100,105,0
+203500,2021,22100460,2021-12-20 20:00:00,Memphis,Grizzlies,Oklahoma City,Thunder,Regular Season,1,0,20.0,3,3,14,9,5,0,0,2,1,-3,5,1,0.2,0,0,0.0,1,1,1.0,99,102,0
+203500,2021,22100485,2021-12-23 22:00:00,Memphis,Grizzlies,Golden State,Warriors,Regular Season,0,0,22.0,0,2,5,3,2,0,0,0,1,-4,2,0,0.0,0,0,0.0,0,0,0.0,113,104,0
+203500,2021,22100496,2021-12-26 18:00:00,Memphis,Grizzlies,Sacramento,Kings,Regular Season,0,1,26.0,10,6,9,3,6,0,2,1,3,31,8,5,0.625,0,0,0.0,0,0,0.0,102,127,0
+203500,2021,22100505,2021-12-27 21:00:00,Memphis,Grizzlies,Phoenix,Suns,Regular Season,0,1,31.0,13,7,16,7,9,1,0,3,4,14,5,4,0.8,0,0,0.0,7,5,0.714,113,114,0
+203500,2021,22100520,2021-12-29 20:00:00,Memphis,Grizzlies,Los Angeles,Lakers,Regular Season,1,1,26.0,4,1,6,3,3,0,0,0,0,1,2,2,1.0,0,0,0.0,0,0,0.0,104,99,0
+203500,2021,22100535,2021-12-31 20:00:00,Memphis,Grizzlies,San Antonio,Spurs,Regular Season,1,1,26.0,12,3,13,5,8,2,0,1,3,4,10,5,0.5,0,0,0.0,5,2,0.4,118,105,0
+203500,2021,22100554,2022-01-03 19:30:00,Memphis,Grizzlies,Brooklyn,Nets,Regular Season,0,1,26.0,6,5,12,5,7,0,1,3,2,20,5,3,0.6,0,0,0.0,0,0,0.0,104,118,0
+203500,2021,22100562,2022-01-04 19:00:00,Memphis,Grizzlies,Cleveland,Cavaliers,Regular Season,0,1,32.0,7,3,11,6,5,1,0,1,1,2,5,3,0.6,0,0,0.0,2,1,0.5,106,110,0
+203500,2021,22100579,2022-01-06 20:00:00,Memphis,Grizzlies,Detroit,Pistons,Regular Season,1,1,22.0,2,4,14,9,5,1,0,1,1,26,2,0,0.0,0,0,0.0,6,2,0.333,118,88,0
+203500,2021,22100639,2022-01-14 22:00:00,Memphis,Grizzlies,Dallas,Mavericks,Regular Season,1,0,20.0,6,3,6,2,4,2,2,1,3,-14,4,3,0.75,0,0,0.0,0,0,0.0,85,112,0
+203500,2021,22100658,2022-01-17 15:30:00,Memphis,Grizzlies,Chicago,Bulls,Regular Season,1,1,22.0,2,6,10,6,4,1,2,1,1,8,3,1,0.333,0,0,0.0,1,0,0.0,119,106,0
+203500,2021,22100674,2022-01-19 20:00:00,Memphis,Grizzlies,Milwaukee,Bucks,Regular Season,0,0,26.0,4,2,11,3,8,0,2,1,2,5,8,2,0.25,0,0,0.0,4,0,0.0,126,114,0
+203500,2021,22100692,2022-01-21 21:00:00,Memphis,Grizzlies,Denver,Nuggets,Regular Season,0,1,34.0,4,3,6,3,3,0,4,2,2,4,4,2,0.5,0,0,0.0,2,0,0.0,118,122,0
+203500,2021,22100705,2022-01-23 19:30:00,Memphis,Grizzlies,Dallas,Mavericks,Regular Season,0,0,32.0,5,2,11,10,1,0,1,0,1,-13,4,1,0.25,0,0,0.0,4,3,0.75,104,91,0
+203500,2021,22100728,2022-01-26 20:30:00,Memphis,Grizzlies,San Antonio,Spurs,Regular Season,0,1,28.0,4,3,8,6,2,1,1,2,3,7,2,2,1.0,0,0,0.0,0,0,0.0,110,118,0
+203500,2021,22100740,2022-01-28 20:00:00,Memphis,Grizzlies,Utah,Jazz,Regular Season,1,1,23.0,2,3,7,4,3,0,0,3,3,5,4,1,0.25,0,0,0.0,0,0,0.0,119,109,0
+203500,2021,22100749,2022-01-29 20:00:00,Memphis,Grizzlies,Washington,Wizards,Regular Season,1,1,28.0,10,4,15,5,10,3,1,1,2,25,7,4,0.571,0,0,0.0,2,2,1.0,115,95,0
+203500,2021,22100761,2022-01-31 19:00:00,Memphis,Grizzlies,Philadelphia,76ers,Regular Season,0,0,37.0,7,2,12,7,5,3,2,3,1,6,5,3,0.6,0,0,0.0,3,1,0.333,122,119,0
+203500,2021,22100776,2022-02-02 19:30:00,Memphis,Grizzlies,New York,Knicks,Regular Season,0,1,30.0,2,4,13,5,8,0,0,2,3,5,4,1,0.25,0,0,0.0,0,0,0.0,108,120,0
+203500,2021,22100796,2022-02-05 17:00:00,Memphis,Grizzlies,Orlando,Magic,Regular Season,0,1,23.0,12,8,11,7,4,0,0,2,3,13,6,6,1.0,0,0,0.0,0,0,0.0,115,135,0
+203500,2021,22100818,2022-02-08 20:00:00,Memphis,Grizzlies,Los Angeles,Clippers,Regular Season,1,1,20.0,9,3,8,5,3,0,0,2,1,24,4,3,0.75,0,0,0.0,3,3,1.0,135,109,0
+203500,2021,22100831,2022-02-10 19:00:00,Memphis,Grizzlies,Detroit,Pistons,Regular Season,0,1,26.0,16,5,14,7,7,1,0,1,1,8,9,6,0.667,0,0,0.0,9,4,0.444,107,132,0
+203500,2021,22100846,2022-02-12 19:00:00,Memphis,Grizzlies,Charlotte,Hornets,Regular Season,0,1,15.0,15,4,11,3,8,3,0,0,6,19,8,6,0.75,0,0,0.0,7,3,0.429,118,125,0
+203500,2021,22100872,2022-02-15 20:00:00,Memphis,Grizzlies,New Orleans,Pelicans,Regular Season,0,1,31.0,14,5,13,7,6,0,1,1,3,6,8,7,0.875,0,0,0.0,3,0,0.0,109,121,0
+203500,2021,22100879,2022-02-16 20:00:00,Memphis,Grizzlies,Portland,Trail Blazers,Regular Season,1,0,35.0,2,4,6,3,3,1,0,3,5,-7,4,1,0.25,0,0,0.0,0,0,0.0,119,123,0
+203500,2021,22100892,2022-02-24 20:00:00,Memphis,Grizzlies,Minnesota,Timberwolves,Regular Season,0,0,27.0,6,5,12,6,6,1,0,2,4,-7,6,2,0.333,0,0,0.0,4,2,0.5,119,114,0
+203500,2021,22100909,2022-02-26 20:00:00,Memphis,Grizzlies,Chicago,Bulls,Regular Season,0,1,34.0,12,5,21,13,8,2,0,3,0,16,9,5,0.556,0,0,0.0,4,2,0.5,110,116,0
+203500,2021,22100923,2022-02-28 20:00:00,Memphis,Grizzlies,San Antonio,Spurs,Regular Season,1,1,31.0,4,5,14,9,5,3,1,2,1,11,3,2,0.667,0,0,0.0,0,0,0.0,118,105,0
+203500,2021,22100940,2022-03-03 19:30:00,Memphis,Grizzlies,Boston,Celtics,Regular Season,0,0,26.0,4,4,8,1,7,0,0,1,2,-16,4,2,0.5,0,0,0.0,0,0,0.0,120,107,0
+203500,2021,22100957,2022-03-05 20:00:00,Memphis,Grizzlies,Orlando,Magic,Regular Season,1,1,22.0,4,4,6,5,1,0,0,1,2,14,2,2,1.0,0,0,0.0,0,0,0.0,124,96,0
+203500,2021,22100964,2022-03-06 19:00:00,Memphis,Grizzlies,Houston,Rockets,Regular Season,0,0,36.0,23,5,12,5,7,3,1,0,2,-13,11,9,0.818,0,0,0.0,9,5,0.556,123,112,0
+203500,2021,22100978,2022-03-08 19:30:00,Memphis,Grizzlies,New Orleans,Pelicans,Regular Season,1,1,28.0,4,3,5,3,2,0,1,1,1,27,3,2,0.667,0,0,0.0,2,0,0.0,132,111,0
+203500,2021,22101000,2022-03-11 20:00:00,Memphis,Grizzlies,New York,Knicks,Regular Season,1,1,24.0,6,0,9,3,6,1,1,1,4,-8,7,2,0.286,0,0,0.0,4,2,0.5,118,114,0
+203500,2021,22101018,2022-03-13 19:00:00,Memphis,Grizzlies,Oklahoma City,Thunder,Regular Season,0,1,24.0,9,2,16,9,7,1,0,2,1,14,7,4,0.571,1,0,0.0,1,1,1.0,118,125,0
+203500,2021,22101029,2022-03-15 19:00:00,Memphis,Grizzlies,Indiana,Pacers,Regular Season,0,1,22.0,13,2,13,6,7,1,0,2,1,17,7,6,0.857,0,0,0.0,2,1,0.5,102,135,0
+203500,2021,22101047,2022-03-18 19:30:00,Memphis,Grizzlies,Atlanta,Hawks,Regular Season,0,0,30.0,3,1,11,7,4,1,1,0,1,-16,3,1,0.333,0,0,0.0,3,1,0.333,120,105,0
+203500,2021,22101063,2022-03-20 15:30:00,Memphis,Grizzlies,Houston,Rockets,Regular Season,0,1,24.0,5,3,9,6,3,0,1,2,5,16,6,2,0.333,0,0,0.0,2,1,0.5,98,122,0
+203500,2021,22101089,2022-03-23 19:30:00,Memphis,Grizzlies,Brooklyn,Nets,Regular Season,1,1,27.0,7,5,11,6,5,1,1,0,1,-14,3,2,0.667,0,0,0.0,4,3,0.75,132,120,0
+203500,2021,22101096,2022-03-24 20:00:00,Memphis,Grizzlies,Indiana,Pacers,Regular Season,1,1,22.0,6,6,16,7,9,3,3,0,3,25,7,3,0.429,0,0,0.0,0,0,0.0,133,103,0
+203500,2021,22101112,2022-03-26 20:00:00,Memphis,Grizzlies,Milwaukee,Bucks,Regular Season,1,1,24.0,4,5,11,5,6,2,1,1,2,5,7,2,0.286,0,0,0.0,0,0,0.0,127,102,0
+203500,2021,22101129,2022-03-28 20:00:00,Memphis,Grizzlies,Golden State,Warriors,Regular Season,1,1,20.0,8,2,9,6,3,1,2,0,4,19,5,3,0.6,0,0,0.0,3,2,0.667,123,95,0
+203500,2021,22101144,2022-03-30 20:30:00,Memphis,Grizzlies,San Antonio,Spurs,Regular Season,0,1,30.0,8,2,8,5,3,0,1,2,4,2,4,3,0.75,0,0,0.0,2,2,1.0,111,112,0
+203500,2021,22101187,2022-04-05 21:00:00,Memphis,Grizzlies,Utah,Jazz,Regular Season,0,0,28.0,3,8,13,10,3,1,2,3,2,2,4,1,0.25,0,0,0.0,4,1,0.25,121,115,0
+203500,2021,22101201,2022-04-07 21:00:00,Memphis,Grizzlies,Denver,Nuggets,Regular Season,0,0,23.0,2,5,8,6,2,0,0,1,3,-13,1,1,1.0,0,0,0.0,2,0,0.0,122,109,0
+203500,2021,22101213,2022-04-09 18:00:00,Memphis,Grizzlies,New Orleans,Pelicans,Regular Season,1,1,21.0,4,4,11,7,4,1,0,2,4,10,3,2,0.667,0,0,0.0,0,0,0.0,141,114,0
+203500,2021,42100151,2022-04-16 15:30:00,Memphis,Grizzlies,Minnesota,Timberwolves,Playoffs,1,0,24.0,0,3,3,2,1,0,0,1,4,-13,0,0,0.0,0,0,0.0,0,0,0.0,117,130,0
+203500,2021,42100152,2022-04-19 20:30:00,Memphis,Grizzlies,Minnesota,Timberwolves,Playoffs,1,1,2.0,0,1,0,0,0,0,0,0,2,-1,0,0,0.0,0,0,0.0,0,0,0.0,124,96,0
+203500,2021,42100153,2022-04-21 19:30:00,Memphis,Grizzlies,Minnesota,Timberwolves,Playoffs,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,95,104,0
+203500,2021,42100154,2022-04-23 22:00:00,Memphis,Grizzlies,Minnesota,Timberwolves,Playoffs,0,0,3.0,0,0,2,1,1,0,0,0,1,-5,0,0,0.0,0,0,0.0,0,0,0.0,119,118,0
+203500,2021,42100155,2022-04-26 19:30:00,Memphis,Grizzlies,Minnesota,Timberwolves,Playoffs,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,111,109,0
+203500,2021,42100233,2022-05-07 20:30:00,Memphis,Grizzlies,Golden State,Warriors,Playoffs,0,0,5.0,3,2,2,2,0,0,0,0,0,-7,2,1,0.5,0,0,0.0,2,1,0.5,142,112,0
+203500,2021,42100234,2022-05-09 22:00:00,Memphis,Grizzlies,Golden State,Warriors,Playoffs,0,0,27.0,10,3,15,9,6,1,1,2,2,13,9,5,0.556,0,0,0.0,0,0,0.0,101,98,0
+203500,2021,42100235,2022-05-11 21:30:00,Memphis,Grizzlies,Golden State,Warriors,Playoffs,1,1,21.0,7,3,13,7,6,0,0,0,1,32,7,2,0.286,0,0,0.0,5,3,0.6,134,95,0
+203500,2021,42100236,2022-05-13 22:00:00,Memphis,Grizzlies,Golden State,Warriors,Playoffs,0,0,28.0,4,3,10,9,1,0,0,1,2,-6,3,1,0.333,0,0,0.0,4,2,0.5,110,96,0
+203500,2022,12200003,2022-10-01 20:00:00,Memphis,Grizzlies,Milwaukee,Bucks,Preseason,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,102,107,0
+203500,2022,12200010,2022-10-03 20:00:00,Memphis,Grizzlies,Orlando,Magic,Preseason,1,1,21.0,4,2,6,3,3,0,3,5,4,14,4,2,0.5,0,0,0.0,0,0,0.0,109,97,0
+203500,2022,12200033,2022-10-07 20:00:00,Memphis,Grizzlies,Miami,Heat,Preseason,1,0,22.0,8,3,8,3,5,0,2,2,0,-2,5,3,0.6,0,0,0.0,6,2,0.333,108,111,0
+203500,2022,12200048,2022-10-11 19:00:00,Memphis,Grizzlies,Orlando,Magic,Preseason,0,0,25.0,6,2,10,5,5,0,2,2,3,-17,6,2,0.333,0,0,0.0,2,2,1.0,109,105,0
+203500,2022,12200060,2022-10-13 19:00:00,Memphis,Grizzlies,Detroit,Pistons,Preseason,0,1,15.0,5,1,8,5,3,0,1,3,1,7,4,2,0.5,0,0,0.0,5,1,0.2,111,126,0
+203500,2022,22200009,2022-10-19 19:30:00,Memphis,Grizzlies,New York,Knicks,Regular Season,1,1,32.0,3,3,14,8,6,1,1,1,1,-1,2,1,0.5,0,0,0.0,4,1,0.25,115,112,0
+203500,2022,22200024,2022-10-21 20:00:00,Memphis,Grizzlies,Houston,Rockets,Regular Season,0,1,33.0,6,2,9,7,2,2,0,0,5,23,4,3,0.75,0,0,0.0,2,0,0.0,122,129,0
+203500,2022,22200034,2022-10-22 20:30:00,Memphis,Grizzlies,Dallas,Mavericks,Regular Season,0,0,22.0,2,1,4,3,1,4,1,3,1,-30,3,1,0.333,0,0,0.0,2,0,0.0,137,96,0
+203500,2022,22200049,2022-10-24 20:00:00,Memphis,Grizzlies,Brooklyn,Nets,Regular Season,1,1,31.0,9,2,13,9,4,1,1,0,2,20,5,3,0.6,0,0,0.0,6,3,0.5,134,124,0
+203500,2022,22200069,2022-10-27 22:00:00,Memphis,Grizzlies,Sacramento,Kings,Regular Season,0,1,23.0,12,4,11,4,7,0,0,4,4,2,9,6,0.667,0,0,0.0,3,0,0.0,110,125,0
+203500,2022,22200087,2022-10-29 21:00:00,Memphis,Grizzlies,Utah,Jazz,Regular Season,0,0,19.0,2,1,10,5,5,1,1,4,4,11,2,1,0.5,0,0,0.0,0,0,0.0,124,123,0
+203500,2022,22200101,2022-10-31 21:00:00,Memphis,Grizzlies,Utah,Jazz,Regular Season,0,0,18.0,2,1,9,7,2,1,1,4,1,-11,4,1,0.25,0,0,0.0,1,0,0.0,121,105,0
+203500,2022,22200116,2022-11-02 22:00:00,Memphis,Grizzlies,Portland,Trail Blazers,Regular Season,0,1,33.0,14,5,11,7,4,2,0,1,2,-6,9,6,0.667,0,0,0.0,3,2,0.667,106,111,0
+203500,2022,22200125,2022-11-04 20:00:00,Memphis,Grizzlies,Charlotte,Hornets,Regular Season,1,1,21.0,13,4,19,8,11,2,2,2,2,31,10,6,0.6,0,0,0.0,2,1,0.5,130,99,0
+203500,2022,22200142,2022-11-06 18:00:00,Memphis,Grizzlies,Washington,Wizards,Regular Season,1,1,22.0,4,1,10,5,5,0,0,1,3,9,2,2,1.0,0,0,0.0,0,0,0.0,103,97,0
+203500,2022,22200169,2022-11-09 20:00:00,Memphis,Grizzlies,San Antonio,Spurs,Regular Season,0,1,37.0,7,2,19,9,10,1,1,6,3,5,4,3,0.75,0,0,0.0,2,1,0.5,122,124,0
+203500,2022,22200181,2022-11-11 21:30:00,Memphis,Grizzlies,Minnesota,Timberwolves,Regular Season,1,1,26.0,3,3,9,4,5,1,1,1,4,6,3,1,0.333,0,0,0.0,4,1,0.25,114,103,0
+203500,2022,22200194,2022-11-13 18:00:00,Memphis,Grizzlies,Washington,Wizards,Regular Season,0,0,29.0,12,6,10,4,6,0,1,3,5,4,8,6,0.75,0,0,0.0,0,0,0.0,102,92,0
+203500,2022,22200206,2022-11-15 19:30:00,Memphis,Grizzlies,New Orleans,Pelicans,Regular Season,0,0,12.0,2,1,5,3,2,0,0,2,3,-2,2,1,0.5,0,0,0.0,2,0,0.0,113,102,0
+203500,2022,22200229,2022-11-18 20:00:00,Memphis,Grizzlies,Oklahoma City,Thunder,Regular Season,1,1,25.0,6,0,7,4,3,0,0,2,1,15,3,3,1.0,0,0,0.0,4,0,0.0,121,110,0
+203500,2022,22200243,2022-11-20 19:00:00,Memphis,Grizzlies,Brooklyn,Nets,Regular Season,0,0,28.0,15,2,10,6,4,0,3,5,2,3,10,7,0.7,0,0,0.0,8,1,0.125,127,115,0
+203500,2022,22200257,2022-11-22 20:00:00,Memphis,Grizzlies,Sacramento,Kings,Regular Season,1,0,30.0,5,0,16,11,5,1,0,3,3,1,5,2,0.4,0,0,0.0,4,1,0.25,109,113,0
+203500,2022,22200279,2022-11-25 20:00:00,Memphis,Grizzlies,New Orleans,Pelicans,Regular Season,1,1,25.0,15,1,11,7,4,0,1,2,1,26,10,7,0.7,0,0,0.0,2,1,0.5,132,111,0
+203500,2022,22200296,2022-11-27 18:00:00,Memphis,Grizzlies,New York,Knicks,Regular Season,0,1,31.0,16,2,10,3,7,1,0,0,1,2,9,6,0.667,0,0,0.0,9,4,0.444,123,127,0
+203500,2022,22200317,2022-11-30 20:00:00,Memphis,Grizzlies,Minnesota,Timberwolves,Regular Season,0,0,29.0,8,2,12,6,6,1,1,0,1,-3,8,3,0.375,1,0,0.0,2,2,1.0,109,101,0
+203500,2022,22200332,2022-12-02 20:00:00,Memphis,Grizzlies,Philadelphia,76ers,Regular Season,1,1,33.0,9,6,16,6,10,3,3,3,4,-1,11,4,0.364,0,0,0.0,2,1,0.5,117,109,0
+203500,2022,22200357,2022-12-05 20:00:00,Memphis,Grizzlies,Miami,Heat,Regular Season,1,1,27.0,8,1,4,3,1,0,0,1,2,-2,6,4,0.667,0,0,0.0,0,0,0.0,101,93,0
+203500,2022,22200368,2022-12-07 20:00:00,Memphis,Grizzlies,Oklahoma City,Thunder,Regular Season,1,1,20.0,8,2,5,3,2,2,0,1,0,10,4,4,1.0,0,0,0.0,1,0,0.0,123,102,0
+203500,2022,22200383,2022-12-09 20:00:00,Memphis,Grizzlies,Detroit,Pistons,Regular Season,1,1,23.0,10,4,8,5,3,1,1,2,1,17,8,5,0.625,0,0,0.0,2,0,0.0,114,103,0
+203500,2022,22200425,2022-12-15 20:00:00,Memphis,Grizzlies,Milwaukee,Bucks,Regular Season,1,1,20.0,10,1,6,1,5,5,1,1,2,21,8,4,0.5,0,0,0.0,2,2,1.0,142,101,0
+203500,2022,22200443,2022-12-17 20:00:00,Memphis,Grizzlies,Oklahoma City,Thunder,Regular Season,0,0,28.0,9,2,7,5,2,2,2,2,6,7,5,3,0.6,0,0,0.0,5,3,0.6,115,109,0
+203500,2022,22200465,2022-12-20 22:00:00,Memphis,Grizzlies,Denver,Nuggets,Regular Season,0,0,30.0,4,2,10,6,4,0,1,2,2,-8,5,2,0.4,0,0,0.0,0,0,0.0,105,91,0
+203500,2022,22200490,2022-12-23 22:00:00,Memphis,Grizzlies,Phoenix,Suns,Regular Season,0,1,22.0,6,2,11,4,7,1,1,0,0,16,5,3,0.6,0,0,0.0,4,0,0.0,100,125,0
+203500,2022,22200496,2022-12-25 20:00:00,Memphis,Grizzlies,Golden State,Warriors,Regular Season,0,0,21.0,6,1,14,7,7,1,0,0,2,2,6,2,0.333,0,0,0.0,2,2,1.0,123,109,0
+203500,2022,22200510,2022-12-27 20:00:00,Memphis,Grizzlies,Phoenix,Suns,Regular Season,1,0,25.0,6,1,9,6,3,1,0,1,1,-13,5,3,0.6,0,0,0.0,0,0,0.0,108,125,0
+203500,2022,22200526,2022-12-29 19:30:00,Memphis,Grizzlies,Toronto,Raptors,Regular Season,0,1,32.0,14,3,17,9,8,0,1,2,1,17,11,7,0.636,0,0,0.0,2,0,0.0,106,119,0
+203500,2022,22200543,2022-12-31 20:00:00,Memphis,Grizzlies,New Orleans,Pelicans,Regular Season,1,1,27.0,10,3,21,16,5,2,2,0,3,-1,6,4,0.667,0,0,0.0,6,2,0.333,116,101,0
+203500,2022,22200547,2023-01-01 20:00:00,Memphis,Grizzlies,Sacramento,Kings,Regular Season,1,1,34.0,11,3,23,10,13,2,1,4,4,4,12,5,0.417,0,0,0.0,2,1,0.5,118,108,0
+203500,2022,22200564,2023-01-04 19:00:00,Memphis,Grizzlies,Charlotte,Hornets,Regular Season,0,1,27.0,9,2,15,11,4,2,1,2,1,24,7,3,0.429,0,0,0.0,7,3,0.429,107,131,0
+203500,2022,22200576,2023-01-05 19:00:00,Memphis,Grizzlies,Orlando,Magic,Regular Season,0,1,30.0,4,0,6,5,1,0,1,2,5,-5,5,2,0.4,0,0,0.0,1,0,0.0,115,123,0
+203500,2022,22200608,2023-01-09 20:00:00,Memphis,Grizzlies,San Antonio,Spurs,Regular Season,1,1,28.0,13,4,15,11,4,0,1,2,0,11,7,5,0.714,0,0,0.0,11,3,0.273,121,113,0
+203500,2022,22200623,2023-01-11 20:00:00,Memphis,Grizzlies,San Antonio,Spurs,Regular Season,1,1,32.0,11,5,18,11,7,3,1,1,2,14,7,5,0.714,0,0,0.0,2,1,0.5,135,129,0
+203500,2022,22200643,2023-01-14 19:00:00,Memphis,Grizzlies,Indiana,Pacers,Regular Season,0,1,22.0,10,2,9,6,3,1,0,3,3,16,4,4,1.0,0,0,0.0,2,2,1.0,112,130,0
+203500,2022,22200663,2023-01-16 18:00:00,Memphis,Grizzlies,Phoenix,Suns,Regular Season,1,1,24.0,8,2,9,4,5,0,0,1,3,17,5,4,0.8,0,0,0.0,0,0,0.0,136,106,0
+203500,2022,22200672,2023-01-18 20:00:00,Memphis,Grizzlies,Cleveland,Cavaliers,Regular Season,1,1,28.0,13,4,10,5,5,0,1,1,3,-8,8,6,0.75,0,0,0.0,2,1,0.5,115,114,0
+203500,2022,22200690,2023-01-20 22:00:00,Memphis,Grizzlies,Los Angeles,Lakers,Regular Season,0,0,25.0,16,2,17,9,8,1,0,1,2,-1,7,6,0.857,0,0,0.0,9,4,0.444,122,121,0
+203500,2022,22200703,2023-01-22 20:00:00,Memphis,Grizzlies,Phoenix,Suns,Regular Season,0,0,32.0,10,2,16,8,8,0,3,3,2,1,9,3,0.333,0,0,0.0,7,4,0.571,112,110,0
+203500,2023,12300007,2023-10-08 20:00:00,Memphis,Grizzlies,Indiana,Pacers,Preseason,1,1,11.0,4,0,5,4,1,1,0,0,0,6,2,2,1.0,0,0,0.0,0,0,0.0,127,122,0
+203500,2023,12300018,2023-10-10 20:00:00,Memphis,Grizzlies,Milwaukee,Bucks,Preseason,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,108,102,0
+203500,2023,12300028,2023-10-12 19:30:00,Memphis,Grizzlies,Atlanta,Hawks,Preseason,0,0,15.0,5,1,5,2,3,1,1,3,0,-4,4,2,0.5,1,0,0.0,2,1,0.5,103,102,0
+203500,2023,12300039,2023-10-15 18:00:00,Memphis,Grizzlies,Miami,Heat,Preseason,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,132,124,0
+203500,2023,12300072,2023-10-20 20:00:00,Memphis,Grizzlies,Milwaukee,Bucks,Preseason,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,124,116,0
+203500,2024,12400014,2024-10-07 21:00:00,Houston,Rockets,Utah,Jazz,Preseason,0,0,13.53,0,1,4,4,0,0,0,0,1,-8,1,0,0.0,0,0,0.0,0,0,0.0,122,113,0
+203500,2024,12400021,2024-10-09 20:00:00,Houston,Rockets,Oklahoma City,Thunder,Preseason,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,113,122,0
+203500,2024,12400053,2024-10-15 20:00:00,Houston,Rockets,New Orleans,Pelicans,Preseason,1,1,14.58,6,2,11,8,3,0,0,1,1,6,3,3,1.0,0,0,0.0,0,0,0.0,118,98,0
+203500,2024,12400063,2024-10-17 20:00:00,Houston,Rockets,San Antonio,Spurs,Preseason,1,1,15.22,4,2,7,6,1,0,0,1,3,19,2,2,1.0,0,0,0.0,0,0,0.0,129,107,0
+203500,2024,22400109,2024-10-28 20:00:00,Houston,Rockets,San Antonio,Spurs,Regular Season,0,1,13.52,6,0,3,2,1,0,0,1,3,11,3,3,1.0,0,0,0.0,1,0,0.0,101,106,0
+203500,2024,22400129,2024-10-31 20:30:00,Houston,Rockets,Dallas,Mavericks,Regular Season,0,1,9.58,0,3,1,0,1,0,1,0,2,-4,0,0,0.0,0,0,0.0,0,0,0.0,102,108,0
+203500,2024,22400161,2024-11-04 20:45:00,Houston,Rockets,New York,Knicks,Regular Season,1,1,13.39,4,3,5,2,3,0,0,1,1,-6,4,1,0.25,0,0,0.0,4,2,0.5,109,97,0
+203500,2024,22400192,2024-11-08 20:00:00,Houston,Rockets,Oklahoma City,Thunder,Regular Season,0,0,15.31,5,1,2,1,1,0,1,3,1,-11,2,2,1.0,0,0,0.0,3,1,0.333,126,107,0
+203500,2024,22400213,2024-11-11 20:00:00,Houston,Rockets,Washington,Wizards,Regular Season,1,1,15.11,2,1,7,4,3,0,0,4,2,-4,2,1,0.5,0,0,0.0,0,0,0.0,107,92,0
+203500,2024,22400016,2024-11-15 20:00:00,Houston,Rockets,Los Angeles,Clippers,Regular Season,1,1,6.57,0,0,0,0,0,0,1,1,1,-10,0,0,0.0,0,0,0.0,0,0,0.0,125,104,0
+203500,2024,22400248,2024-11-18 20:00:00,Houston,Rockets,Milwaukee,Bucks,Regular Season,0,0,5.29,2,0,2,1,1,0,0,1,0,-12,2,1,0.5,0,0,0.0,0,0,0.0,101,100,0
+203500,2024,22400254,2024-11-20 20:00:00,Houston,Rockets,Indiana,Pacers,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,130,113,0
+203500,2024,22400031,2024-11-22 20:00:00,Houston,Rockets,Portland,Trail Blazers,Regular Season,1,1,14.59,1,3,1,1,0,0,0,3,1,15,0,0,0.0,0,0,0.0,2,1,0.5,116,88,0
+203500,2024,22400290,2024-11-27 19:00:00,Houston,Rockets,Philadelphia,76ers,Regular Season,0,1,7.0,2,0,4,2,2,1,0,1,2,4,2,0,0.0,0,0,0.0,4,2,0.5,115,122,0
+203500,2024,22400310,2024-12-01 19:00:00,Houston,Rockets,Oklahoma City,Thunder,Regular Season,1,1,3.3,1,0,1,1,0,0,0,0,0,5,0,0,0.0,0,0,0.0,2,1,0.5,119,116,0
+203500,2024,22400059,2024-12-03 22:00:00,Houston,Rockets,Sacramento,Kings,Regular Season,0,0,10.31,1,0,6,4,2,0,0,1,1,9,1,0,0.0,0,0,0.0,2,1,0.5,120,111,0
+203500,2024,22400332,2024-12-05 22:00:00,Houston,Rockets,Golden State,Warriors,Regular Season,0,0,17.34,6,3,6,2,4,1,0,0,2,10,4,3,0.75,0,0,0.0,0,0,0.0,99,93,0
+203500,2024,22400356,2024-12-08 21:00:00,Houston,Rockets,Los Angeles,Clippers,Regular Season,0,1,9.56,4,0,4,3,1,0,0,1,0,0,2,2,1.0,0,0,0.0,2,0,0.0,106,117,0
+203500,2024,22401204,2024-12-11 21:30:00,Houston,Rockets,Golden State,Warriors,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,91,90,0
+203500,2024,22401230,2024-12-14 20:30:00,Houston,Rockets,Oklahoma City,Thunder,Regular Season,0,0,6.19,4,0,6,3,3,0,0,1,0,-1,2,1,0.5,0,0,0.0,4,2,0.5,111,96,0
+203500,2024,22400365,2024-12-19 20:00:00,Houston,Rockets,New Orleans,Pelicans,Regular Season,1,1,10.19,2,1,4,3,1,0,1,2,0,-7,1,1,1.0,0,0,0.0,0,0,0.0,133,113,0
+203500,2024,22400388,2024-12-22 18:00:00,Houston,Rockets,Toronto,Raptors,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,110,114,0
+203500,2024,22400391,2024-12-23 19:00:00,Houston,Rockets,Charlotte,Hornets,Regular Season,0,1,11.35,2,3,8,4,4,1,0,0,2,4,1,1,1.0,0,0,0.0,2,0,0.0,101,114,0
+203500,2024,22400416,2024-12-26 20:00:00,Houston,Rockets,New Orleans,Pelicans,Regular Season,0,1,10.48,2,0,5,5,0,1,0,1,1,9,1,1,1.0,0,0,0.0,1,0,0.0,111,128,0
+203500,2024,22400422,2024-12-27 20:00:00,Houston,Rockets,Minnesota,Timberwolves,Regular Season,1,0,2.48,0,1,1,0,1,0,1,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,112,113,0
+203500,2024,22400439,2024-12-29 19:00:00,Houston,Rockets,Miami,Heat,Regular Season,1,0,12.29,4,3,9,4,5,0,0,0,1,-6,3,2,0.667,0,0,0.0,0,0,0.0,100,104,0
+203500,2024,22400460,2025-01-01 20:00:00,Houston,Rockets,Dallas,Mavericks,Regular Season,1,1,7.23,4,0,4,3,1,0,0,0,0,-2,3,2,0.667,0,0,0.0,0,0,0.0,110,99,0
+203500,2024,22400471,2025-01-03 20:00:00,Houston,Rockets,Boston,Celtics,Regular Season,1,0,6.51,6,1,4,0,4,0,0,0,0,8,4,2,0.5,0,0,0.0,2,2,1.0,86,109,0
+203500,2024,22400491,2025-01-05 19:00:00,Houston,Rockets,Los Angeles,Lakers,Regular Season,1,1,16.35,8,1,9,2,7,1,1,0,2,17,4,3,0.75,0,0,0.0,4,2,0.5,119,115,0
+203500,2024,22400503,2025-01-07 19:00:00,Houston,Rockets,Washington,Wizards,Regular Season,0,1,11.25,0,0,6,4,2,0,0,1,1,-7,1,0,0.0,0,0,0.0,2,0,0.0,112,135,0
+203500,2024,22400520,2025-01-09 20:00:00,Houston,Rockets,Memphis,Grizzlies,Regular Season,0,1,12.27,0,0,9,5,4,0,0,2,2,0,0,0,0.0,0,0,0.0,2,0,0.0,115,119,0
+203500,2024,22400551,2025-01-13 20:00:00,Houston,Rockets,Memphis,Grizzlies,Regular Season,1,1,13.02,2,1,7,1,6,1,0,2,0,3,2,1,0.5,0,0,0.0,1,0,0.0,120,118,0
+203500,2024,22400568,2025-01-15 21:00:00,Houston,Rockets,Denver,Nuggets,Regular Season,0,1,7.07,2,1,3,1,2,1,0,1,0,6,1,1,1.0,0,0,0.0,0,0,0.0,108,128,0
+203500,2024,22400576,2025-01-16 22:00:00,Houston,Rockets,Sacramento,Kings,Regular Season,0,0,14.15,5,2,5,4,1,2,0,0,0,16,2,2,1.0,0,0,0.0,2,1,0.5,132,127,0
+203500,2024,22400591,2025-01-18 22:00:00,Houston,Rockets,Portland,Trail Blazers,Regular Season,0,1,17.11,2,2,9,4,5,1,1,0,2,13,4,1,0.25,0,0,0.0,0,0,0.0,103,125,0
+203500,2024,22400600,2025-01-20 14:00:00,Houston,Rockets,Detroit,Pistons,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,96,107,0
+203500,2024,22400615,2025-01-22 20:00:00,Houston,Rockets,Cleveland,Cavaliers,Regular Season,1,1,18.4,3,2,11,6,5,2,0,1,1,-2,2,1,0.5,0,0,0.0,4,1,0.25,109,108,0
+203500,2024,22400640,2025-01-25 19:30:00,Houston,Rockets,Cleveland,Cavaliers,Regular Season,0,1,14.58,14,2,4,2,2,1,1,1,0,7,6,4,0.667,0,0,0.0,9,6,0.667,131,135,0
+203500,2024,22400650,2025-01-27 19:30:00,Houston,Rockets,Boston,Celtics,Regular Season,0,1,13.37,4,0,4,1,3,0,0,2,2,-11,3,2,0.667,0,0,0.0,0,0,0.0,112,114,0
+203500,2024,22400676,2025-01-30 21:30:00,Houston,Rockets,Memphis,Grizzlies,Regular Season,0,0,23.02,11,3,10,3,7,0,1,1,2,-6,9,4,0.444,0,0,0.0,3,3,1.0,120,119,0
+203500,2024,22400689,2025-02-01 20:00:00,Houston,Rockets,Brooklyn,Nets,Regular Season,1,0,24.59,11,0,7,5,2,3,1,0,2,3,5,4,0.8,0,0,0.0,6,3,0.5,98,110,0
+203500,2024,22400702,2025-02-03 19:30:00,Houston,Rockets,New York,Knicks,Regular Season,0,0,26.29,8,1,13,6,7,1,0,1,3,18,9,4,0.444,0,0,0.0,0,0,0.0,124,118,0
+203500,2024,22400711,2025-02-04 19:30:00,Houston,Rockets,Brooklyn,Nets,Regular Season,0,0,13.24,4,1,1,1,0,0,0,0,1,-5,4,2,0.5,0,0,0.0,0,0,0.0,99,97,0
+203500,2024,22400741,2025-02-08 15:00:00,Houston,Rockets,Dallas,Mavericks,Regular Season,0,0,22.18,2,1,12,3,9,0,0,0,0,4,9,1,0.111,0,0,0.0,0,0,0.0,116,105,0
+203500,2024,22400753,2025-02-09 14:00:00,Houston,Rockets,Toronto,Raptors,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,94,87,0
+203500,2024,22400779,2025-02-12 20:30:00,Houston,Rockets,Phoenix,Suns,Regular Season,1,1,9.34,5,0,6,1,5,0,0,1,0,-5,5,2,0.4,0,0,0.0,3,1,0.333,119,111,0
+203500,2024,22400784,2025-02-13 20:00:00,Houston,Rockets,Golden State,Warriors,Regular Season,1,0,5.38,0,0,3,3,0,0,1,1,0,-3,0,0,0.0,0,0,0.0,0,0,0.0,98,105,0
+203500,2024,22400801,2025-02-21 21:30:00,Houston,Rockets,Minnesota,Timberwolves,Regular Season,1,1,4.38,0,0,0,0,0,0,0,0,1,-10,0,0,0.0,0,0,0.0,0,0,0.0,121,115,0
+203500,2024,22400809,2025-02-22 21:30:00,Houston,Rockets,Utah,Jazz,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,124,115,0
+203500,2024,22400831,2025-02-25 20:00:00,Houston,Rockets,Milwaukee,Bucks,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,100,97,0
+203500,2024,22400844,2025-02-26 21:30:00,Houston,Rockets,San Antonio,Spurs,Regular Season,1,1,18.57,4,5,5,3,2,2,2,1,0,6,6,2,0.333,1,0,0.0,0,0,0.0,118,106,0
+203500,2024,22400862,2025-03-01 20:00:00,Houston,Rockets,Sacramento,Kings,Regular Season,1,0,7.45,2,1,2,1,1,0,0,0,0,-6,3,1,0.333,0,0,0.0,0,0,0.0,103,113,0
+203500,2024,22400879,2025-03-03 20:00:00,Houston,Rockets,Oklahoma City,Thunder,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,137,128,0
+203500,2024,22400882,2025-03-04 19:00:00,Houston,Rockets,Indiana,Pacers,Regular Season,0,0,15.29,3,1,3,1,2,0,0,0,0,0,3,1,0.333,0,0,0.0,2,1,0.5,115,102,0
+203500,2024,22400902,2025-03-06 20:00:00,Houston,Rockets,New Orleans,Pelicans,Regular Season,0,1,18.44,3,6,8,5,3,0,1,2,3,17,2,1,0.5,0,0,0.0,2,1,0.5,97,109,0
+203500,2024,22400913,2025-03-08 19:00:00,Houston,Rockets,New Orleans,Pelicans,Regular Season,1,1,18.16,6,2,8,5,3,2,2,1,2,16,5,3,0.6,0,0,0.0,0,0,0.0,146,117,0
+203500,2024,22400934,2025-03-10 20:00:00,Houston,Rockets,Orlando,Magic,Regular Season,1,1,23.14,11,1,17,6,11,0,0,3,0,17,6,5,0.833,0,0,0.0,3,1,0.333,97,84,0
+203500,2024,22400949,2025-03-12 20:00:00,Houston,Rockets,Phoenix,Suns,Regular Season,1,1,11.17,1,1,4,2,2,0,0,0,1,1,1,0,0.0,0,0,0.0,2,1,0.5,111,104,0
+203500,2024,22400961,2025-03-14 20:00:00,Houston,Rockets,Dallas,Mavericks,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,133,96,0
+203500,2024,22400970,2025-03-15 20:00:00,Houston,Rockets,Chicago,Bulls,Regular Season,1,1,22.27,4,3,9,5,4,0,1,1,1,3,4,2,0.5,0,0,0.0,4,0,0.0,117,114,0
+203500,2024,22400985,2025-03-17 20:00:00,Houston,Rockets,Philadelphia,76ers,Regular Season,1,1,0.01,0,0,0,0,0,0,0,0,0,2,0,0,0.0,0,0,0.0,0,0,0.0,144,137,0
+203500,2024,22400999,2025-03-19 19:00:00,Houston,Rockets,Orlando,Magic,Regular Season,0,1,22.49,3,0,6,5,1,1,1,4,1,22,2,1,0.5,0,0,0.0,1,1,1.0,108,116,0
+203500,2024,22401015,2025-03-21 20:00:00,Houston,Rockets,Miami,Heat,Regular Season,0,1,20.3,4,1,8,4,4,0,1,1,2,7,2,2,1.0,0,0,0.0,2,0,0.0,98,102,0
+203500,2024,22401035,2025-03-23 19:00:00,Houston,Rockets,Denver,Nuggets,Regular Season,1,0,22.25,14,2,12,2,10,3,0,1,3,9,10,6,0.6,0,0,0.0,4,2,0.5,111,116,0
+203500,2024,22401049,2025-03-25 20:00:00,Houston,Rockets,Atlanta,Hawks,Regular Season,1,1,25.27,7,1,7,3,4,0,0,1,2,19,2,2,1.0,0,0,0.0,4,3,0.75,121,114,0
+203500,2024,22401065,2025-03-27 21:00:00,Houston,Rockets,Utah,Jazz,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,110,121,0
+203500,2024,22401088,2025-03-30 21:00:00,Houston,Rockets,Phoenix,Suns,Regular Season,0,1,12.01,6,0,3,1,2,0,0,0,1,21,2,2,1.0,0,0,0.0,2,2,1.0,109,148,0
+203500,2024,22401096,2025-03-31 22:00:00,Houston,Rockets,Los Angeles,Lakers,Regular Season,0,0,15.43,4,0,7,5,2,0,1,3,0,-3,2,1,0.5,1,0,0.0,2,2,1.0,104,98,0
+203500,2024,22401107,2025-04-02 20:00:00,Houston,Rockets,Utah,Jazz,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,143,105,0
+203500,2024,22401123,2025-04-04 20:00:00,Houston,Rockets,Oklahoma City,Thunder,Regular Season,1,1,22.57,8,0,12,6,6,1,2,0,2,7,7,4,0.571,0,0,0.0,0,0,0.0,125,111,0
+203500,2024,22401143,2025-04-06 20:30:00,Houston,Rockets,Golden State,Warriors,Regular Season,0,1,16.52,2,1,8,6,2,2,0,0,1,7,2,1,0.5,0,0,0.0,0,0,0.0,96,106,0
+203500,2024,22401166,2025-04-09 22:30:00,Houston,Rockets,Los Angeles,Clippers,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,134,117,0
+203500,2024,22401185,2025-04-11 22:30:00,Houston,Rockets,Los Angeles,Lakers,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,140,109,0
+203500,2024,22401193,2025-04-13 15:30:00,Houston,Rockets,Denver,Nuggets,Regular Season,1,0,17.13,4,1,6,4,2,0,0,1,2,-23,4,2,0.5,0,0,0.0,0,0,0.0,111,126,0
+203500,2024,42400151,2025-04-20 21:30:00,Houston,Rockets,Golden State,Warriors,Playoffs,1,0,19.3,6,1,12,7,5,0,0,1,0,4,4,3,0.75,0,0,0.0,2,0,0.0,85,95,0
+203500,2024,42400152,2025-04-23 21:30:00,Houston,Rockets,Golden State,Warriors,Playoffs,1,1,16.48,1,0,3,2,1,1,1,0,0,2,0,0,0.0,0,0,0.0,2,1,0.5,109,94,0
+203500,2024,42400153,2025-04-26 20:30:00,Houston,Rockets,Golden State,Warriors,Playoffs,0,0,18.09,8,2,6,2,4,0,1,1,0,1,2,2,1.0,0,0,0.0,6,4,0.667,104,93,0
+203500,2024,42400154,2025-04-28 22:00:00,Houston,Rockets,Golden State,Warriors,Playoffs,0,0,26.24,5,0,7,2,5,4,0,2,4,16,4,2,0.5,0,0,0.0,2,1,0.5,109,106,0
+203500,2024,42400155,2025-04-30 19:30:00,Houston,Rockets,Golden State,Warriors,Playoffs,1,1,17.09,0,1,6,3,3,0,0,0,2,15,2,0,0.0,0,0,0.0,0,0,0.0,131,116,0
+203500,2024,42400156,2025-05-02 21:00:00,Houston,Rockets,Golden State,Warriors,Playoffs,0,1,31.03,17,0,5,2,3,3,1,0,1,15,4,4,1.0,0,0,0.0,16,9,0.563,107,115,0
+203500,2024,42400157,2025-05-04 20:30:00,Houston,Rockets,Golden State,Warriors,Playoffs,1,0,25.44,3,0,7,5,2,0,0,1,0,-9,4,1,0.25,0,0,0.0,2,1,0.5,89,103,0
+203500,2025,12500014,2025-10-06 20:00:00,Houston,Rockets,Atlanta,Hawks,Preseason,1,1,16.15,8,2,5,2,3,0,0,3,2,-4,4,4,1.0,0,0,0.0,0,0,0.0,122,113,15995
+203500,2025,12500037,2025-10-08 20:00:00,Houston,Rockets,Utah,Jazz,Preseason,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,140,127,15785
+203500,2025,12500020,2025-10-14 20:00:00,Houston,Rockets,New Orleans,Pelicans,Preseason,0,1,24.11,2,1,9,3,6,1,1,0,2,26,4,1,0.25,0,0,0.0,0,0,0.0,128,130,12444
+203500,2025,12500024,2025-10-16 19:30:00,Houston,Rockets,Atlanta,Hawks,Preseason,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,115,133,15678
+203500,2025,22500001,2025-10-21 19:30:00,Houston,Rockets,Oklahoma City,Thunder,Regular Season,0,0,36.3,4,3,13,8,5,0,0,3,4,2,4,1,0.25,0,0,0.0,2,2,1.0,125,124,18203
+203500,2025,22500093,2025-10-24 20:00:00,Houston,Rockets,Detroit,Pistons,Regular Season,1,0,25.14,11,0,10,4,6,0,3,1,2,-4,4,4,1.0,0,0,0.0,4,3,0.75,111,115,18055
+203500,2025,22500116,2025-10-27 20:00:00,Houston,Rockets,Brooklyn,Nets,Regular Season,1,1,16.04,4,1,8,3,5,1,0,1,1,20,1,0,0.0,0,0,0.0,4,4,1.0,137,109,18055
+203500,2025,22500131,2025-10-29 18:30:00,Houston,Rockets,Toronto,Raptors,Regular Season,0,1,19.42,12,2,12,4,8,1,1,1,3,14,6,5,0.833,0,0,0.0,2,2,1.0,121,139,17234
+203500,2025,22500146,2025-11-01 20:00:00,Houston,Rockets,Boston,Celtics,Regular Season,0,1,14.27,4,3,5,2,3,0,0,1,1,13,3,2,0.667,0,0,0.0,0,0,0.0,101,128,19156
+203500,2025,22500160,2025-11-03 20:00:00,Houston,Rockets,Dallas,Mavericks,Regular Season,1,1,23.08,4,1,9,6,3,2,2,1,3,6,3,2,0.667,0,0,0.0,2,0,0.0,110,102,18055
+203500,2025,22500032,2025-11-07 19:30:00,Houston,Rockets,San Antonio,Spurs,Regular Season,0,0,20.05,3,1,8,5,3,0,1,0,2,-7,4,1,0.25,0,0,0.0,1,1,1.0,121,110,19035
+203500,2025,22500191,2025-11-09 15:30:00,Houston,Rockets,Milwaukee,Bucks,Regular Season,0,1,22.18,12,1,6,1,5,0,0,1,2,-3,7,5,0.714,0,0,0.0,2,2,1.0,115,122,17341
+203500,2025,22500218,2025-11-12 20:00:00,Houston,Rockets,Washington,Wizards,Regular Season,1,1,16.53,5,4,8,3,5,2,0,1,2,21,5,2,0.4,0,0,0.0,2,1,0.5,135,112,18055
+203500,2025,22500042,2025-11-14 20:00:00,Houston,Rockets,Portland,Trail Blazers,Regular Season,1,1,17.31,5,0,11,6,5,2,1,0,1,22,4,2,0.5,0,0,0.0,2,1,0.5,140,116,18055
+203500,2025,22500236,2025-11-16 19:00:00,Houston,Rockets,Orlando,Magic,Regular Season,1,1,27.15,3,0,13,5,8,0,0,2,3,-2,8,1,0.125,0,0,0.0,2,1,0.5,117,113,18055
+203500,2025,22500255,2025-11-19 19:00:00,Houston,Rockets,Cleveland,Cavaliers,Regular Season,0,1,27.59,6,3,11,5,6,1,0,2,2,6,6,2,0.333,0,0,0.0,2,2,1.0,104,114,19432
+203500,2025,22500054,2025-11-21 21:30:00,Houston,Rockets,Denver,Nuggets,Regular Season,1,0,23.07,5,2,8,3,5,0,0,1,1,14,2,2,1.0,0,0,0.0,3,1,0.333,109,112,18108
+203500,2025,22500290,2025-11-24 21:30:00,Houston,Rockets,Phoenix,Suns,Regular Season,0,1,16.29,6,0,7,4,3,0,1,0,2,6,4,2,0.5,0,0,0.0,2,2,1.0,92,114,17071
+203500,2025,22500066,2025-11-26 22:00:00,Houston,Rockets,Golden State,Warriors,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,100,104,18064
+203500,2025,22500301,2025-11-30 15:00:00,Houston,Rockets,Utah,Jazz,Regular Season,0,1,16.57,13,2,12,8,4,1,1,0,0,24,4,2,0.5,0,0,0.0,10,9,0.9,101,129,18186
+203500,2025,22500316,2025-12-01 21:00:00,Houston,Rockets,Utah,Jazz,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,133,125,18186
+203500,2025,22500330,2025-12-03 20:00:00,Houston,Rockets,Sacramento,Kings,Regular Season,1,1,17.5,11,0,8,3,5,2,0,3,0,7,6,5,0.833,0,0,0.0,2,1,0.5,121,95,18055
+203500,2025,22500346,2025-12-05 20:00:00,Houston,Rockets,Phoenix,Suns,Regular Season,1,1,29.52,4,3,8,5,3,1,2,1,5,18,4,2,0.5,0,0,0.0,0,0,0.0,117,98,18055
+203500,2025,22501205,2025-12-11 20:00:00,Houston,Rockets,LA,Clippers,Regular Season,1,1,17.55,4,2,6,3,3,0,2,1,0,10,4,2,0.5,0,0,0.0,0,0,0.0,115,113,18055
+203500,2025,22501225,2025-12-15 21:30:00,Houston,Rockets,Denver,Nuggets,Regular Season,0,0,15.3,3,0,0,0,0,0,0,1,3,-8,1,1,1.0,0,0,0.0,2,1,0.5,128,125,19596
+203500,2025,22500375,2025-12-18 20:00:00,Houston,Rockets,New Orleans,Pelicans,Regular Season,0,0,27.49,6,3,10,4,6,1,1,1,3,3,10,2,0.2,0,0,0.0,5,2,0.4,133,128,16766
+203500,2025,22500386,2025-12-20 17:00:00,Houston,Rockets,Denver,Nuggets,Regular Season,0,1,25.14,1,0,12,7,5,0,0,0,1,-10,4,0,0.0,0,0,0.0,2,1,0.5,101,115,19955
+203500,2025,22500401,2025-12-21 22:00:00,Houston,Rockets,Sacramento,Kings,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,125,124,15796
+203500,2025,22500422,2025-12-23 22:30:00,Houston,Rockets,LA,Clippers,Regular Season,0,0,14.0,2,1,4,3,1,0,0,1,1,-5,3,1,0.333,0,0,0.0,0,0,0.0,128,108,17927
+203500,2025,22500012,2025-12-25 20:00:00,Houston,Rockets,Los Angeles,Lakers,Regular Season,0,1,25.33,4,2,9,5,4,0,0,1,0,-4,3,2,0.667,0,0,0.0,0,0,0.0,96,119,18997
+203500,2025,22500438,2025-12-27 20:00:00,Houston,Rockets,Cleveland,Cavaliers,Regular Season,1,1,22.1,9,1,8,3,5,0,2,3,0,26,6,3,0.5,0,0,0.0,6,3,0.5,117,100,18067
+203500,2025,22500453,2025-12-29 20:00:00,Houston,Rockets,Indiana,Pacers,Regular Season,1,1,22.17,8,0,5,2,3,0,0,0,2,17,4,3,0.75,0,0,0.0,6,2,0.333,126,119,18055
+203500,2025,22500471,2026-01-01 18:00:00,Houston,Rockets,Brooklyn,Nets,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,96,120,18003
+203500,2025,22500505,2026-01-05 20:00:00,Houston,Rockets,Phoenix,Suns,Regular Season,1,1,31.19,8,2,11,5,6,0,1,2,1,7,7,4,0.571,0,0,0.0,4,0,0.0,100,97,18055
+203500,2025,22500527,2026-01-07 22:00:00,Houston,Rockets,Portland,Trail Blazers,Regular Season,0,0,30.08,7,4,11,5,6,2,2,2,3,3,6,3,0.5,0,0,0.0,2,1,0.5,103,102,16144
+203500,2025,22500540,2026-01-09 22:00:00,Houston,Rockets,Portland,Trail Blazers,Regular Season,0,0,32.42,5,3,9,3,6,1,0,1,2,-14,2,2,1.0,0,0,0.0,4,1,0.25,111,105,17012
+203500,2025,22500557,2026-01-11 21:00:00,Houston,Rockets,Sacramento,Kings,Regular Season,0,0,23.46,3,1,6,2,4,1,0,2,2,0,0,0,0.0,0,0,0.0,4,3,0.75,111,98,15268
+203500,2025,22500565,2026-01-13 20:00:00,Houston,Rockets,Chicago,Bulls,Regular Season,1,1,18.12,4,1,7,4,3,0,2,0,2,9,5,2,0.4,0,0,0.0,2,0,0.0,119,113,18055
+203500,2025,22500581,2026-01-15 19:30:00,Houston,Rockets,Oklahoma City,Thunder,Regular Season,1,0,25.01,6,0,11,5,6,2,0,0,0,-7,6,3,0.5,0,0,0.0,0,0,0.0,91,111,18055
+203500,2025,22500591,2026-01-16 21:30:00,Houston,Rockets,Minnesota,Timberwolves,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,110,105,18055
+203500,2025,22500604,2026-01-18 19:00:00,Houston,Rockets,New Orleans,Pelicans,Regular Season,1,1,27.25,5,2,10,5,5,0,0,1,1,10,3,2,0.667,0,0,0.0,2,1,0.5,119,110,18055

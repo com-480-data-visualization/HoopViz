@@ -1,0 +1,630 @@
+personId,season,gameId,gameDateTimeEst,playerteamCity,playerteamName,opponentteamCity,opponentteamName,gameType,home,win,numMinutes,points,assists,reboundsTotal,reboundsDefensive,reboundsOffensive,blocks,steals,turnovers,foulsPersonal,plusMinusPoints,fieldGoalsAttempted,fieldGoalsMade,fieldGoalsPercentage,threePointersAttempted,threePointersMade,threePointersPercentage,freeThrowsAttempted,freeThrowsMade,freeThrowsPercentage,homeScore,awayScore,attendance
+1709,1998,29800010,1999-02-05 22:30:00,Los Angeles,Clippers,Phoenix,Suns,Regular Season,1,0,21.0,14,0,6,3,3,1,0,2,4,-4,9,5,0.556,0,0,0.0,5,4,0.8,92,101,0
+1709,1998,29800024,1999-02-07 21:00:00,Los Angeles,Clippers,Chicago,Bulls,Regular Season,1,0,28.0,12,0,6,3,3,1,2,0,3,7,11,5,0.455,0,0,0.0,4,2,0.5,84,89,0
+1709,1998,29800051,1999-02-10 22:00:00,Los Angeles,Clippers,Vancouver,Grizzlies,Regular Season,0,0,32.0,17,0,9,5,4,2,0,2,5,-5,10,5,0.5,0,0,0.0,10,7,0.7,105,99,0
+1709,1998,29800065,1999-02-13 21:00:00,Los Angeles,Clippers,Phoenix,Suns,Regular Season,0,0,34.0,9,1,7,4,3,1,0,1,4,-8,8,4,0.5,0,0,0.0,2,1,0.5,107,104,0
+1709,1998,29800070,1999-02-14 21:00:00,Los Angeles,Clippers,Minnesota,Timberwolves,Regular Season,1,0,26.0,6,1,4,4,0,1,0,4,1,-15,5,3,0.6,0,0,0.0,0,0,0.0,73,95,0
+1709,1998,29800087,1999-02-16 22:30:00,Los Angeles,Clippers,Vancouver,Grizzlies,Regular Season,1,0,35.0,10,0,15,8,7,3,0,4,6,-14,11,4,0.364,0,0,0.0,7,2,0.286,89,93,0
+1709,1998,29800121,1999-02-20 22:30:00,Los Angeles,Clippers,Dallas,Mavericks,Regular Season,1,0,35.0,8,0,11,9,2,1,1,1,1,-14,13,4,0.308,0,0,0.0,1,0,0.0,90,105,0
+1709,1998,29800136,1999-02-22 21:00:00,Los Angeles,Clippers,Utah,Jazz,Regular Season,0,0,26.0,6,0,6,4,2,1,0,0,4,-22,8,3,0.375,0,0,0.0,2,0,0.0,104,89,0
+1709,1998,29800144,1999-02-23 22:30:00,Los Angeles,Clippers,Golden State,Warriors,Regular Season,1,0,26.0,4,1,4,3,1,3,0,2,1,4,4,2,0.5,0,0,0.0,1,0,0.0,89,94,0
+1709,1998,29800160,1999-02-25 22:30:00,Los Angeles,Clippers,Los Angeles,Lakers,Regular Season,1,0,29.0,12,1,6,5,1,1,0,2,4,-12,10,5,0.5,0,0,0.0,3,2,0.667,100,115,0
+1709,1998,29800169,1999-02-26 22:30:00,Los Angeles,Clippers,Los Angeles,Lakers,Regular Season,0,0,18.0,9,0,12,6,6,0,1,1,5,-3,9,3,0.333,0,0,0.0,6,3,0.5,99,83,0
+1709,1998,29800265,1999-03-10 22:30:00,Los Angeles,Clippers,Los Angeles,Lakers,Regular Season,0,0,22.0,1,0,2,2,0,0,0,1,4,-8,4,0,0.0,0,0,0.0,2,1,0.5,94,75,0
+1709,1998,29800273,1999-03-11 22:30:00,Los Angeles,Clippers,Sacramento,Kings,Regular Season,1,1,7.0,2,0,2,1,1,0,0,1,5,-1,2,1,0.5,0,0,0.0,0,0,0.0,106,92,0
+1709,1998,29800289,1999-03-13 22:30:00,Los Angeles,Clippers,Portland,Trail Blazers,Regular Season,1,0,15.0,2,0,3,2,1,0,0,3,3,-11,2,1,0.5,0,0,0.0,0,0,0.0,96,106,0
+1709,1998,29800298,1999-03-14 21:00:00,Los Angeles,Clippers,Seattle,SuperSonics,Regular Season,0,0,31.0,12,0,7,6,1,1,0,2,2,-6,9,6,0.667,0,0,0.0,1,0,0.0,108,89,0
+1709,1998,29800307,1999-03-16 19:30:00,Los Angeles,Clippers,New York,Knicks,Regular Season,0,0,27.0,12,1,5,5,0,0,0,3,3,-11,10,5,0.5,0,0,0.0,6,2,0.333,113,89,0
+1709,1998,29800317,1999-03-17 19:00:00,Los Angeles,Clippers,Boston,Celtics,Regular Season,0,0,26.0,17,0,8,4,4,2,0,1,3,-23,15,6,0.4,0,0,0.0,6,5,0.833,118,84,0
+1709,1998,29800336,1999-03-19 19:00:00,Los Angeles,Clippers,Toronto,Raptors,Regular Season,0,0,26.0,1,0,3,1,2,3,1,1,1,-4,6,0,0.0,0,0,0.0,2,1,0.5,93,82,0
+1709,1998,29800355,1999-03-21 15:30:00,Los Angeles,Clippers,Minnesota,Timberwolves,Regular Season,0,1,25.0,6,0,16,12,4,1,1,3,2,6,9,3,0.333,0,0,0.0,0,0,0.0,85,100,0
+1709,1998,29800378,1999-03-24 22:30:00,Los Angeles,Clippers,Golden State,Warriors,Regular Season,1,0,32.0,13,0,9,7,2,3,1,0,4,-6,8,5,0.625,0,0,0.0,6,3,0.5,80,92,0
+1709,1998,29800398,1999-03-26 22:00:00,Los Angeles,Clippers,Seattle,SuperSonics,Regular Season,0,0,38.0,16,2,13,7,6,1,0,5,3,-8,12,8,0.667,0,0,0.0,1,0,0.0,104,98,0
+1709,1998,29800404,1999-03-27 22:30:00,Los Angeles,Clippers,Utah,Jazz,Regular Season,1,1,35.0,15,0,13,11,2,1,3,4,1,26,11,6,0.545,0,0,0.0,4,3,0.75,103,77,0
+1709,1998,29800417,1999-03-29 21:00:00,Los Angeles,Clippers,Denver,Nuggets,Regular Season,0,0,29.0,7,0,6,5,1,1,1,4,1,-7,11,1,0.091,0,0,0.0,6,5,0.833,100,88,0
+1709,1998,29800428,1999-03-30 22:30:00,Los Angeles,Clippers,Houston,Rockets,Regular Season,1,0,28.0,7,1,10,7,3,3,1,2,5,6,10,2,0.2,0,0,0.0,3,3,1.0,95,104,0
+1709,1998,29800442,1999-04-01 20:30:00,Los Angeles,Clippers,Dallas,Mavericks,Regular Season,0,0,25.0,10,1,8,2,6,1,0,2,1,-22,11,5,0.455,0,0,0.0,0,0,0.0,93,84,0
+1709,1998,29800459,1999-04-03 20:30:00,Los Angeles,Clippers,San Antonio,Spurs,Regular Season,0,0,30.0,13,0,10,6,4,0,1,1,4,-19,12,6,0.5,0,0,0.0,4,1,0.25,103,82,0
+1709,1998,29800469,1999-04-04 21:00:00,Los Angeles,Clippers,Denver,Nuggets,Regular Season,0,0,38.0,13,1,9,7,2,0,1,4,2,-4,12,6,0.5,0,0,0.0,2,1,0.5,82,80,0
+1709,1998,29800483,1999-04-06 22:30:00,Los Angeles,Clippers,Phoenix,Suns,Regular Season,1,0,30.0,11,3,4,2,2,1,0,3,4,-15,9,5,0.556,0,0,0.0,2,1,0.5,83,88,0
+1709,1998,29800501,1999-04-08 22:30:00,Los Angeles,Clippers,Minnesota,Timberwolves,Regular Season,1,1,28.0,10,0,8,5,3,0,1,1,2,10,11,5,0.455,0,0,0.0,0,0,0.0,99,91,0
+1709,1998,29800517,1999-04-10 22:30:00,Los Angeles,Clippers,Portland,Trail Blazers,Regular Season,1,0,29.0,13,1,12,9,3,0,1,2,4,-4,12,5,0.417,0,0,0.0,6,3,0.5,70,97,0
+1709,1998,29800526,1999-04-11 21:00:00,Los Angeles,Clippers,Portland,Trail Blazers,Regular Season,0,1,37.0,6,1,7,5,2,1,0,1,2,9,9,3,0.333,0,0,0.0,2,0,0.0,83,89,0
+1709,1998,29800540,1999-04-13 22:30:00,Los Angeles,Clippers,New Jersey,Nets,Regular Season,1,1,29.0,6,1,11,8,3,5,0,2,2,5,7,3,0.429,0,0,0.0,0,0,0.0,109,101,0
+1709,1998,29800556,1999-04-15 22:30:00,Los Angeles,Clippers,Utah,Jazz,Regular Season,1,0,23.0,6,1,4,3,1,1,2,1,6,-13,11,3,0.273,0,0,0.0,0,0,0.0,89,103,0
+1709,1998,29800569,1999-04-16 22:30:00,Los Angeles,Clippers,Golden State,Warriors,Regular Season,0,1,25.0,8,1,11,6,5,2,1,0,2,7,10,4,0.4,0,0,0.0,0,0,0.0,83,86,0
+1709,1998,29800584,1999-04-18 21:00:00,Los Angeles,Clippers,Denver,Nuggets,Regular Season,1,0,19.0,4,1,5,4,1,0,0,1,3,4,3,2,0.667,0,0,0.0,0,0,0.0,101,103,0
+1709,1998,29800592,1999-04-19 22:30:00,Los Angeles,Clippers,Sacramento,Kings,Regular Season,1,0,26.0,7,1,10,8,2,1,1,2,2,2,7,3,0.429,0,0,0.0,3,1,0.333,98,102,0
+1709,1998,29800612,1999-04-21 22:00:00,Los Angeles,Clippers,Vancouver,Grizzlies,Regular Season,0,0,43.0,16,1,17,9,8,2,3,2,3,-3,16,7,0.438,0,0,0.0,6,2,0.333,97,94,0
+1709,1998,29800624,1999-04-23 22:30:00,Los Angeles,Clippers,Houston,Rockets,Regular Season,1,1,44.0,8,1,14,11,3,1,1,1,3,-1,7,3,0.429,0,0,0.0,4,2,0.5,106,101,0
+1709,1998,29800630,1999-04-24 23:00:00,Los Angeles,Clippers,Vancouver,Grizzlies,Regular Season,1,1,24.0,8,0,2,2,0,1,1,0,3,-13,5,4,0.8,0,0,0.0,3,0,0.0,105,96,0
+1709,1998,29800648,1999-04-26 22:30:00,Los Angeles,Clippers,San Antonio,Spurs,Regular Season,1,0,22.0,12,0,8,4,4,3,1,2,1,-22,11,6,0.545,0,0,0.0,2,0,0.0,88,94,0
+1709,1998,29800673,1999-04-29 22:30:00,Los Angeles,Clippers,Sacramento,Kings,Regular Season,0,0,27.0,4,0,7,6,1,2,0,3,5,-12,5,2,0.4,0,0,0.0,2,0,0.0,103,81,0
+1709,1998,29800687,1999-05-01 20:00:00,Los Angeles,Clippers,Minnesota,Timberwolves,Regular Season,0,0,19.0,8,1,4,3,1,0,0,3,4,-15,4,4,1.0,0,0,0.0,0,0,0.0,103,93,0
+1709,1998,29800695,1999-05-02 20:30:00,Los Angeles,Clippers,Houston,Rockets,Regular Season,0,0,24.0,5,0,5,3,2,0,1,2,2,-12,7,2,0.286,0,0,0.0,2,1,0.5,110,84,0
+1709,1998,29800710,1999-05-04 21:00:00,Los Angeles,Clippers,Utah,Jazz,Regular Season,0,0,41.0,11,1,12,6,6,2,0,1,4,-15,18,5,0.278,0,0,0.0,2,1,0.5,99,82,0
+1709,1998,29800722,1999-05-05 22:30:00,Los Angeles,Clippers,Seattle,SuperSonics,Regular Season,1,0,28.0,4,1,6,4,2,1,0,2,3,-11,5,2,0.4,0,0,0.0,0,0,0.0,105,107,0
+1709,1999,29900012,1999-11-02 22:30:00,Los Angeles,Clippers,Seattle,SuperSonics,Regular Season,1,0,33.0,6,1,16,12,4,5,0,5,4,-12,7,3,0.429,0,0,0.0,1,0,0.0,92,104,0
+1709,1999,29900019,1999-11-03 22:00:00,Los Angeles,Clippers,Portland,Trail Blazers,Regular Season,0,0,25.0,8,0,1,0,1,1,1,1,6,-18,6,4,0.667,0,0,0.0,0,0,0.0,121,98,0
+1709,1999,29900033,1999-11-05 22:30:00,Los Angeles,Clippers,Philadelphia,76ers,Regular Season,1,1,25.0,0,2,6,6,0,6,1,0,5,-1,5,0,0.0,0,0,0.0,0,0,0.0,91,81,0
+1709,1999,29900054,1999-11-08 22:30:00,Los Angeles,Clippers,Utah,Jazz,Regular Season,1,0,30.0,10,0,4,3,1,0,0,0,2,-10,8,4,0.5,0,0,0.0,5,2,0.4,79,94,0
+1709,1999,29900066,1999-11-10 22:30:00,Los Angeles,Clippers,San Antonio,Spurs,Regular Season,1,0,37.0,12,0,9,6,3,1,2,2,4,-2,9,5,0.556,0,0,0.0,2,2,1.0,94,99,0
+1709,1999,29900095,1999-11-14 21:00:00,Los Angeles,Clippers,Vancouver,Grizzlies,Regular Season,0,0,37.0,14,0,11,7,4,2,1,5,4,-24,13,6,0.462,0,0,0.0,4,2,0.5,109,89,0
+1709,1999,29900104,1999-11-16 20:00:00,Los Angeles,Clippers,Milwaukee,Bucks,Regular Season,0,0,32.0,9,0,5,4,1,0,0,4,6,1,8,3,0.375,0,0,0.0,4,3,0.75,101,93,0
+1709,1999,29900115,1999-11-17 20:00:00,Los Angeles,Clippers,Minnesota,Timberwolves,Regular Season,0,1,43.0,16,0,12,9,3,1,0,2,3,6,12,6,0.5,0,0,0.0,6,4,0.667,85,89,0
+1709,1999,29900127,1999-11-19 19:00:00,Los Angeles,Clippers,Toronto,Raptors,Regular Season,0,0,15.0,2,0,1,0,1,1,0,3,6,-17,2,1,0.5,0,0,0.0,0,0,0.0,106,100,0
+1709,1999,29900135,1999-11-20 19:30:00,Los Angeles,Clippers,Washington,Wizards,Regular Season,0,1,39.0,11,1,9,7,2,2,0,1,5,13,11,2,0.182,0,0,0.0,8,7,0.875,89,98,0
+1709,1999,29900158,1999-11-23 22:30:00,Los Angeles,Clippers,New York,Knicks,Regular Season,1,1,15.0,2,0,6,4,2,0,0,1,4,-14,0,0,0.0,0,0,0.0,2,2,1.0,100,95,0
+1709,1999,29900182,1999-11-26 22:00:00,Los Angeles,Clippers,Seattle,SuperSonics,Regular Season,0,0,24.0,16,1,6,5,1,1,0,1,6,-5,11,8,0.727,0,0,0.0,0,0,0.0,98,93,0
+1709,1999,29900192,1999-11-27 23:00:00,Los Angeles,Clippers,Portland,Trail Blazers,Regular Season,1,0,29.0,10,0,9,6,3,2,1,3,2,-26,8,4,0.5,0,0,0.0,5,2,0.4,71,88,0
+1709,1999,29900208,1999-11-30 22:30:00,Los Angeles,Clippers,Phoenix,Suns,Regular Season,1,0,24.0,4,0,5,4,1,2,0,2,3,-8,7,2,0.286,0,0,0.0,2,0,0.0,80,94,0
+1709,1999,29900222,1999-12-02 22:30:00,Los Angeles,Clippers,Houston,Rockets,Regular Season,1,0,25.0,10,0,7,6,1,0,1,3,3,-14,7,5,0.714,0,0,0.0,2,0,0.0,96,109,0
+1709,1999,29900239,1999-12-04 16:00:00,Los Angeles,Clippers,Seattle,SuperSonics,Regular Season,1,0,19.0,6,0,5,2,3,1,0,1,5,-6,6,3,0.5,0,0,0.0,0,0,0.0,89,102,0
+1709,1999,29900251,1999-12-06 22:30:00,Los Angeles,Clippers,Miami,Heat,Regular Season,1,0,23.0,4,0,7,6,1,1,1,1,5,-5,3,2,0.667,0,0,0.0,0,0,0.0,91,99,0
+1709,1999,29900264,1999-12-08 19:30:00,Los Angeles,Clippers,Atlanta,Hawks,Regular Season,0,0,39.0,17,1,20,11,9,3,0,0,3,-20,14,6,0.429,0,0,0.0,6,5,0.833,99,81,0
+1709,1999,29900277,1999-12-10 20:00:00,Los Angeles,Clippers,Detroit,Pistons,Regular Season,0,0,33.0,16,0,3,3,0,1,1,3,2,-17,13,6,0.462,0,0,0.0,5,4,0.8,107,83,0
+1709,1999,29900286,1999-12-11 19:00:00,Los Angeles,Clippers,Indiana,Pacers,Regular Season,0,0,43.0,21,1,13,10,3,0,1,3,5,-26,16,8,0.5,0,0,0.0,8,5,0.625,108,90,0
+1709,1999,29900297,1999-12-13 22:30:00,Los Angeles,Clippers,Vancouver,Grizzlies,Regular Season,1,1,33.0,16,0,10,4,6,1,0,0,5,13,11,7,0.636,0,0,0.0,5,2,0.4,102,90,0
+1709,1999,29900305,1999-12-14 22:30:00,Los Angeles,Clippers,Los Angeles,Lakers,Regular Season,0,0,34.0,13,1,10,7,3,1,0,3,4,-43,16,6,0.375,0,0,0.0,1,1,1.0,95,68,0
+1709,1999,29900329,1999-12-17 22:30:00,Los Angeles,Clippers,Golden State,Warriors,Regular Season,1,1,39.0,16,2,9,5,4,3,0,5,4,3,13,6,0.462,0,0,0.0,8,4,0.5,92,91,0
+1709,1999,29900345,1999-12-19 21:00:00,Los Angeles,Clippers,Vancouver,Grizzlies,Regular Season,0,0,38.0,6,1,11,10,1,0,0,2,4,-1,8,3,0.375,0,0,0.0,0,0,0.0,85,84,0
+1709,1999,29900367,1999-12-22 22:30:00,Los Angeles,Clippers,Golden State,Warriors,Regular Season,0,1,29.0,8,1,7,5,2,1,0,1,4,14,5,4,0.8,0,0,0.0,0,0,0.0,99,103,0
+1709,1999,29900375,1999-12-23 22:30:00,Los Angeles,Clippers,Sacramento,Kings,Regular Season,1,1,25.0,6,0,1,1,0,0,1,3,6,-17,8,3,0.375,0,0,0.0,0,0,0.0,97,91,0
+1709,1999,29900387,1999-12-26 16:00:00,Los Angeles,Clippers,Boston,Celtics,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,103,100,0
+1709,1999,29900400,1999-12-28 21:00:00,Los Angeles,Clippers,Denver,Nuggets,Regular Season,0,0,31.0,11,1,9,5,4,2,0,3,2,-13,8,3,0.375,0,0,0.0,8,5,0.625,128,105,0
+1709,1999,29900419,1999-12-30 20:30:00,Los Angeles,Clippers,Houston,Rockets,Regular Season,0,0,24.0,4,0,4,3,1,6,0,4,2,-23,5,2,0.4,0,0,0.0,0,0,0.0,122,100,0
+1709,1999,29900440,2000-01-04 22:30:00,Los Angeles,Clippers,Los Angeles,Lakers,Regular Season,1,0,22.0,1,0,10,7,3,0,0,1,4,-20,8,0,0.0,0,0,0.0,4,1,0.25,98,122,0
+1709,1999,29900447,2000-01-05 22:30:00,Los Angeles,Clippers,Los Angeles,Lakers,Regular Season,0,0,17.0,4,0,2,2,0,0,0,0,6,-9,4,1,0.25,0,0,0.0,2,2,1.0,118,101,0
+1709,1999,29900471,2000-01-08 22:30:00,Los Angeles,Clippers,Indiana,Pacers,Regular Season,1,1,34.0,24,1,17,12,5,0,0,3,4,29,12,9,0.75,0,0,0.0,10,6,0.6,107,94,0
+1709,1999,29900480,2000-01-10 19:30:00,Los Angeles,Clippers,Cleveland,Cavaliers,Regular Season,0,0,27.0,5,1,5,5,0,0,0,3,5,5,6,2,0.333,0,0,0.0,2,1,0.5,111,106,0
+1709,1999,29900491,2000-01-12 19:00:00,Los Angeles,Clippers,Boston,Celtics,Regular Season,0,0,43.0,8,1,15,11,4,4,1,1,4,0,9,4,0.444,0,0,0.0,0,0,0.0,95,88,0
+1709,1999,29900500,2000-01-13 19:30:00,Los Angeles,Clippers,New Jersey,Nets,Regular Season,0,0,45.0,16,4,10,8,2,4,0,3,4,-5,17,8,0.471,0,0,0.0,0,0,0.0,110,105,0
+1709,1999,29900524,2000-01-15 21:00:00,Los Angeles,Clippers,Utah,Jazz,Regular Season,0,0,30.0,18,0,6,4,2,4,0,1,4,-12,15,8,0.533,0,0,0.0,2,2,1.0,112,75,0
+1709,1999,29900536,2000-01-17 22:30:00,Los Angeles,Clippers,San Antonio,Spurs,Regular Season,1,0,22.0,5,0,3,2,1,0,1,0,3,-3,8,2,0.25,0,0,0.0,2,1,0.5,93,99,0
+1709,1999,29900541,2000-01-18 22:30:00,Los Angeles,Clippers,Sacramento,Kings,Regular Season,0,0,40.0,14,0,15,8,7,2,1,6,3,-10,15,6,0.4,0,0,0.0,6,2,0.333,104,98,0
+1709,1999,29900562,2000-01-21 22:30:00,Los Angeles,Clippers,Minnesota,Timberwolves,Regular Season,1,0,21.0,6,0,4,2,2,0,0,1,6,-1,4,2,0.5,0,0,0.0,2,2,1.0,89,95,0
+1709,1999,29900577,2000-01-23 22:30:00,Los Angeles,Clippers,Orlando,Magic,Regular Season,1,0,39.0,12,1,13,10,3,5,0,4,2,-19,10,5,0.5,0,0,0.0,3,2,0.667,89,102,0
+1709,1999,29900592,2000-01-25 20:30:00,Los Angeles,Clippers,San Antonio,Spurs,Regular Season,0,0,37.0,10,0,13,12,1,2,0,2,3,-15,12,5,0.417,0,0,0.0,0,0,0.0,105,82,0
+1709,1999,29900601,2000-01-27 20:30:00,Los Angeles,Clippers,Dallas,Mavericks,Regular Season,0,0,38.0,4,0,14,11,3,3,1,1,3,-3,10,2,0.2,0,0,0.0,0,0,0.0,99,90,0
+1709,1999,29900620,2000-01-29 22:30:00,Los Angeles,Clippers,New Jersey,Nets,Regular Season,1,1,30.0,6,0,13,10,3,4,0,2,5,4,8,3,0.375,0,0,0.0,0,0,0.0,98,93,0
+1709,1999,29900637,2000-02-01 22:30:00,Los Angeles,Clippers,Golden State,Warriors,Regular Season,1,0,30.0,4,0,10,8,2,1,0,3,0,-19,6,2,0.333,0,0,0.0,0,0,0.0,76,107,0
+1709,1999,29900644,2000-02-02 21:00:00,Los Angeles,Clippers,Phoenix,Suns,Regular Season,0,0,30.0,6,1,9,4,5,2,0,1,3,-31,14,3,0.214,0,0,0.0,0,0,0.0,114,68,0
+1709,1999,29900667,2000-02-05 22:30:00,Los Angeles,Clippers,Dallas,Mavericks,Regular Season,1,0,28.0,10,0,11,8,3,2,1,3,1,-6,8,5,0.625,0,0,0.0,0,0,0.0,106,119,0
+1709,1999,29900675,2000-02-06 21:00:00,Los Angeles,Clippers,Chicago,Bulls,Regular Season,1,0,33.0,12,0,8,5,3,1,0,0,3,-5,11,6,0.545,0,0,0.0,1,0,0.0,90,100,0
+1709,1999,29900699,2000-02-09 22:00:00,Los Angeles,Clippers,Portland,Trail Blazers,Regular Season,0,0,27.0,10,0,5,3,2,3,0,2,6,-9,8,4,0.5,0,0,0.0,2,2,1.0,107,100,0
+1709,1999,29900701,2000-02-10 22:30:00,Los Angeles,Clippers,Vancouver,Grizzlies,Regular Season,1,0,28.0,14,1,6,5,1,2,0,4,4,-14,7,5,0.714,0,0,0.0,4,4,1.0,90,112,0
+1709,1999,29900704,2000-02-15 19:30:00,Los Angeles,Clippers,Miami,Heat,Regular Season,0,0,28.0,12,0,9,5,4,4,0,2,5,-5,11,4,0.364,0,0,0.0,4,4,1.0,107,88,0
+1709,1999,29900717,2000-02-16 19:30:00,Los Angeles,Clippers,Orlando,Magic,Regular Season,0,0,34.0,10,0,15,9,6,3,2,0,1,-31,13,5,0.385,0,0,0.0,0,0,0.0,129,96,0
+1709,1999,29900730,2000-02-18 19:30:00,Los Angeles,Clippers,Charlotte,Hornets,Regular Season,0,0,34.0,14,0,3,1,2,2,0,1,4,-17,14,6,0.429,0,0,0.0,2,2,1.0,115,87,0
+1709,1999,29900739,2000-02-19 20:30:00,Los Angeles,Clippers,Chicago,Bulls,Regular Season,0,0,27.0,5,1,9,6,3,5,1,2,5,6,7,2,0.286,0,0,0.0,2,1,0.5,74,72,0
+1709,1999,29900750,2000-02-21 13:00:00,Los Angeles,Clippers,New York,Knicks,Regular Season,0,0,33.0,12,0,8,7,1,1,0,5,3,-3,9,4,0.444,0,0,0.0,5,4,0.8,87,76,0
+1709,1999,29900766,2000-02-23 19:00:00,Los Angeles,Clippers,Philadelphia,76ers,Regular Season,0,0,23.0,4,0,7,6,1,0,0,0,5,-8,4,2,0.5,0,0,0.0,0,0,0.0,94,78,0
+1709,1999,29900775,2000-02-24 20:00:00,Los Angeles,Clippers,Minnesota,Timberwolves,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,116,91,0
+1709,1999,29900793,2000-02-26 22:30:00,Los Angeles,Clippers,Atlanta,Hawks,Regular Season,1,1,39.0,6,0,10,6,4,3,0,5,2,-9,11,3,0.273,0,0,0.0,0,0,0.0,78,77,0
+1709,1999,29900806,2000-02-28 22:30:00,Los Angeles,Clippers,Houston,Rockets,Regular Season,1,0,22.0,4,0,4,3,1,0,0,1,4,-13,6,1,0.167,0,0,0.0,2,2,1.0,77,96,0
+1709,1999,29900844,2000-03-04 15:30:00,Los Angeles,Clippers,Cleveland,Cavaliers,Regular Season,1,0,24.0,13,1,12,7,5,2,0,4,5,6,9,5,0.556,0,0,0.0,4,3,0.75,99,109,0
+1709,1999,29900856,2000-03-06 22:30:00,Los Angeles,Clippers,Los Angeles,Lakers,Regular Season,1,0,13.0,2,1,4,2,2,0,0,0,5,0,2,0,0.0,0,0,0.0,2,2,1.0,103,123,0
+1709,1999,29900872,2000-03-08 22:30:00,Los Angeles,Clippers,Toronto,Raptors,Regular Season,1,0,36.0,10,0,14,10,4,1,1,1,3,-15,12,5,0.417,0,0,0.0,0,0,0.0,94,95,0
+1709,1999,29900887,2000-03-10 22:30:00,Los Angeles,Clippers,Charlotte,Hornets,Regular Season,1,0,22.0,9,0,5,4,1,2,0,4,4,-13,7,3,0.429,0,0,0.0,4,3,0.75,101,118,0
+1709,1999,29900902,2000-03-12 21:00:00,Los Angeles,Clippers,Golden State,Warriors,Regular Season,0,1,32.0,7,0,12,7,5,2,1,3,2,-7,7,2,0.286,0,0,0.0,6,3,0.5,103,112,0
+1709,1999,29900916,2000-03-14 22:30:00,Los Angeles,Clippers,Denver,Nuggets,Regular Season,1,1,30.0,12,0,3,2,1,1,3,4,3,-16,9,6,0.667,0,0,0.0,0,0,0.0,110,106,0
+1709,1999,29900922,2000-03-15 22:30:00,Los Angeles,Clippers,Sacramento,Kings,Regular Season,0,0,27.0,16,0,14,9,5,4,0,3,5,1,17,8,0.471,0,0,0.0,0,0,0.0,98,78,0
+1709,1999,29900937,2000-03-17 21:00:00,Los Angeles,Clippers,Denver,Nuggets,Regular Season,0,0,30.0,10,1,9,6,3,1,0,1,4,0,14,5,0.357,0,0,0.0,0,0,0.0,114,87,0
+1709,1999,29900945,2000-03-18 22:30:00,Los Angeles,Clippers,Sacramento,Kings,Regular Season,1,0,37.0,9,1,8,7,1,3,0,4,6,-5,8,3,0.375,0,0,0.0,4,3,0.75,83,104,0
+1709,1999,29900960,2000-03-20 22:30:00,Los Angeles,Clippers,Washington,Wizards,Regular Season,1,0,28.0,6,0,5,4,1,1,0,1,4,-5,7,3,0.429,0,0,0.0,2,0,0.0,93,105,0
+1709,1999,29900975,2000-03-22 20:30:00,Los Angeles,Clippers,San Antonio,Spurs,Regular Season,0,0,34.0,16,0,6,4,2,1,0,2,4,-20,14,8,0.571,0,0,0.0,0,0,0.0,103,78,0
+1709,1999,29900981,2000-03-23 20:30:00,Los Angeles,Clippers,Houston,Rockets,Regular Season,0,0,12.0,0,0,2,1,1,1,0,1,1,-5,1,0,0.0,0,0,0.0,0,0,0.0,110,95,0
+1709,1999,29900997,2000-03-25 22:30:00,Los Angeles,Clippers,Detroit,Pistons,Regular Season,1,0,39.0,21,1,3,2,1,1,1,3,3,-18,14,9,0.643,0,0,0.0,3,3,1.0,107,126,0
+1709,1999,29901017,2000-03-28 22:30:00,Los Angeles,Clippers,Dallas,Mavericks,Regular Season,1,0,46.0,27,0,8,5,3,1,1,3,5,-11,19,10,0.526,0,0,0.0,7,7,1.0,102,112,0
+1709,1999,29901031,2000-03-30 22:30:00,Los Angeles,Clippers,Milwaukee,Bucks,Regular Season,1,0,32.0,13,0,10,9,1,1,0,1,5,-15,17,6,0.353,0,0,0.0,4,1,0.25,85,104,0
+1709,1999,29901066,2000-04-04 22:30:00,Los Angeles,Clippers,Utah,Jazz,Regular Season,1,0,34.0,16,0,6,3,3,4,0,1,5,-18,13,7,0.538,0,0,0.0,2,2,1.0,93,103,0
+1709,1999,29901080,2000-04-06 22:30:00,Los Angeles,Clippers,Minnesota,Timberwolves,Regular Season,1,0,25.0,4,0,1,1,0,1,0,3,1,-28,4,2,0.5,0,0,0.0,0,0,0.0,90,112,0
+1709,1999,29901095,2000-04-08 15:00:00,Los Angeles,Clippers,Dallas,Mavericks,Regular Season,0,0,20.0,2,1,7,6,1,1,0,1,3,-14,5,1,0.2,0,0,0.0,0,0,0.0,98,96,0
+1709,1999,29901118,2000-04-11 22:30:00,Los Angeles,Clippers,Phoenix,Suns,Regular Season,1,0,44.0,4,2,7,5,2,2,1,5,5,-5,5,2,0.4,0,0,0.0,0,0,0.0,88,95,0
+1709,1999,29901128,2000-04-12 21:00:00,Los Angeles,Clippers,Utah,Jazz,Regular Season,0,0,30.0,8,0,5,3,2,3,1,2,0,-3,8,4,0.5,0,0,0.0,2,0,0.0,102,93,0
+1709,1999,29901143,2000-04-14 22:00:00,Los Angeles,Clippers,Phoenix,Suns,Regular Season,0,0,37.0,15,2,12,11,1,4,3,5,4,-13,15,5,0.333,0,0,0.0,6,5,0.833,112,88,0
+1709,1999,29901150,2000-04-15 23:00:00,Los Angeles,Clippers,Denver,Nuggets,Regular Season,1,0,36.0,8,1,7,6,1,1,1,2,6,-1,10,4,0.4,0,0,0.0,0,0,0.0,114,115,0
+1709,1999,29901174,2000-04-18 22:30:00,Los Angeles,Clippers,Portland,Trail Blazers,Regular Season,1,0,43.0,10,2,14,8,6,0,3,3,3,-16,13,4,0.308,0,0,0.0,4,2,0.5,100,116,0
+1709,1999,29901189,2000-04-19 22:00:00,Los Angeles,Clippers,Seattle,SuperSonics,Regular Season,0,1,40.0,15,1,12,9,3,1,0,1,2,5,19,7,0.368,0,0,0.0,2,1,0.5,106,114,0
+1709,2000,20000010,2000-10-31 21:00:00,Los Angeles,Clippers,Utah,Jazz,Regular Season,0,0,16.0,0,1,4,3,1,0,0,6,5,0,2,0,0.0,0,0,0.0,0,0,0.0,107,94,0
+1709,2000,20000027,2000-11-02 22:30:00,Los Angeles,Clippers,Vancouver,Grizzlies,Regular Season,1,0,34.0,16,0,10,8,2,2,1,3,3,-6,13,7,0.538,0,0,0.0,4,2,0.5,91,99,0
+1709,2000,20000044,2000-11-04 22:30:00,Los Angeles,Clippers,Houston,Rockets,Regular Season,1,1,29.0,6,1,8,7,1,0,2,4,2,-7,8,2,0.25,0,0,0.0,4,2,0.5,77,74,0
+1709,2000,20000049,2000-11-05 21:30:00,Los Angeles,Clippers,Los Angeles,Lakers,Regular Season,0,0,21.0,8,0,2,1,1,1,0,1,4,-8,14,3,0.214,0,0,0.0,2,2,1.0,108,103,0
+1709,2000,20000070,2000-11-08 22:30:00,Los Angeles,Clippers,Utah,Jazz,Regular Season,1,0,13.0,2,0,4,3,1,0,0,2,3,-12,6,1,0.167,0,0,0.0,0,0,0.0,87,93,0
+1709,2000,20000084,2000-11-10 22:30:00,Los Angeles,Clippers,Atlanta,Hawks,Regular Season,1,1,39.0,14,1,6,3,3,4,0,5,4,12,9,7,0.778,0,0,0.0,0,0,0.0,115,106,0
+1709,2000,20000097,2000-11-12 21:00:00,Los Angeles,Clippers,Denver,Nuggets,Regular Season,0,0,23.0,6,0,9,7,2,0,0,4,0,-9,9,3,0.333,0,0,0.0,0,0,0.0,95,79,0
+1709,2000,20000102,2000-11-13 22:30:00,Los Angeles,Clippers,Dallas,Mavericks,Regular Season,1,0,20.0,4,0,3,1,2,1,0,0,0,-28,3,1,0.333,0,0,0.0,4,2,0.5,76,90,0
+1709,2000,20000118,2000-11-15 22:30:00,Los Angeles,Clippers,New York,Knicks,Regular Season,1,1,19.0,4,0,2,2,0,1,0,2,1,-8,6,2,0.333,0,0,0.0,0,0,0.0,78,74,0
+1709,2000,20000125,2000-11-16 22:00:00,Los Angeles,Clippers,Vancouver,Grizzlies,Regular Season,0,1,21.0,14,0,5,3,2,0,0,1,5,17,13,7,0.538,0,0,0.0,0,0,0.0,72,76,0
+1709,2000,20000142,2000-11-18 22:30:00,Los Angeles,Clippers,Seattle,SuperSonics,Regular Season,1,0,22.0,2,0,7,6,1,0,0,3,2,-4,4,1,0.25,0,0,0.0,0,0,0.0,83,86,0
+1709,2000,20000151,2000-11-20 22:30:00,Los Angeles,Clippers,New Jersey,Nets,Regular Season,1,0,31.0,14,1,8,4,4,1,0,7,3,0,13,6,0.462,0,0,0.0,4,2,0.5,85,86,0
+1709,2000,20000181,2000-11-24 22:00:00,Los Angeles,Clippers,Seattle,SuperSonics,Regular Season,0,0,39.0,10,1,15,11,4,1,0,2,4,-14,11,5,0.455,0,0,0.0,0,0,0.0,98,81,0
+1709,2000,20000189,2000-11-25 22:30:00,Los Angeles,Clippers,Phoenix,Suns,Regular Season,1,0,21.0,6,0,6,4,2,1,0,4,1,-27,5,2,0.4,0,0,0.0,5,2,0.4,89,95,0
+1709,2000,20000198,2000-11-27 22:30:00,Los Angeles,Clippers,Los Angeles,Lakers,Regular Season,1,0,26.0,10,0,5,1,4,0,0,2,3,1,13,5,0.385,0,0,0.0,0,0,0.0,83,98,0
+1709,2000,20000215,2000-11-29 22:30:00,Los Angeles,Clippers,Golden State,Warriors,Regular Season,1,1,16.0,6,1,4,4,0,1,0,1,4,10,4,3,0.75,0,0,0.0,0,0,0.0,106,83,0
+1709,2000,20000227,2000-12-01 19:00:00,Los Angeles,Clippers,Toronto,Raptors,Regular Season,0,0,24.0,7,1,8,5,3,2,0,1,3,2,9,2,0.222,0,0,0.0,3,3,1.0,104,95,0
+1709,2000,20000242,2000-12-03 12:30:00,Los Angeles,Clippers,Boston,Celtics,Regular Season,0,0,22.0,4,0,7,4,3,0,0,2,2,-11,9,2,0.222,0,0,0.0,0,0,0.0,96,87,0
+1709,2000,20000249,2000-12-04 19:30:00,Los Angeles,Clippers,New York,Knicks,Regular Season,0,0,21.0,12,0,2,1,1,0,0,4,2,-9,6,5,0.833,0,0,0.0,4,2,0.5,106,78,0
+1709,2000,20000262,2000-12-06 19:00:00,Los Angeles,Clippers,Washington,Wizards,Regular Season,0,1,20.0,6,0,3,3,0,0,0,2,4,-13,11,3,0.273,0,0,0.0,0,0,0.0,88,93,0
+1709,2000,20000278,2000-12-08 19:30:00,Los Angeles,Clippers,Charlotte,Hornets,Regular Season,0,0,24.0,0,0,3,3,0,2,1,3,4,-7,6,0,0.0,0,0,0.0,0,0,0.0,92,87,0
+1709,2000,20000288,2000-12-09 20:00:00,Los Angeles,Clippers,Minnesota,Timberwolves,Regular Season,0,0,29.0,10,0,15,15,0,0,1,2,1,-10,13,5,0.385,0,0,0.0,0,0,0.0,85,73,0
+1709,2000,20000302,2000-12-11 22:30:00,Los Angeles,Clippers,Orlando,Magic,Regular Season,1,1,16.0,2,0,3,2,1,0,0,0,1,4,5,1,0.2,0,0,0.0,0,0,0.0,92,80,0
+1709,2000,20000319,2000-12-13 22:30:00,Los Angeles,Clippers,Miami,Heat,Regular Season,1,0,16.0,2,0,3,2,1,1,0,1,4,-5,4,1,0.25,0,0,0.0,0,0,0.0,88,94,0
+1709,2000,20000333,2000-12-15 21:00:00,Los Angeles,Clippers,Phoenix,Suns,Regular Season,0,1,28.0,9,0,10,7,3,0,0,3,0,16,8,4,0.5,0,0,0.0,2,1,0.5,88,98,0
+1709,2000,20000349,2000-12-17 21:00:00,Los Angeles,Clippers,Washington,Wizards,Regular Season,1,0,19.0,8,1,3,0,3,3,1,0,4,-7,8,3,0.375,0,0,0.0,2,2,1.0,94,103,0
+1709,2000,20000367,2000-12-20 22:30:00,Los Angeles,Clippers,Minnesota,Timberwolves,Regular Season,1,1,18.0,5,1,9,5,4,2,0,2,3,6,3,2,0.667,0,0,0.0,6,1,0.167,103,96,0
+1709,2000,20000393,2000-12-23 22:30:00,Los Angeles,Clippers,Vancouver,Grizzlies,Regular Season,1,1,23.0,12,0,8,6,2,2,2,2,2,8,12,6,0.5,0,0,0.0,0,0,0.0,92,90,0
+1709,2000,20000405,2000-12-26 21:00:00,Los Angeles,Clippers,Denver,Nuggets,Regular Season,0,0,25.0,10,3,9,2,7,1,0,1,2,-4,9,5,0.556,0,0,0.0,0,0,0.0,109,108,0
+1709,2000,20000417,2000-12-28 20:00:00,Los Angeles,Clippers,Dallas,Mavericks,Regular Season,0,0,17.0,0,1,2,0,2,0,1,1,3,-15,2,0,0.0,0,0,0.0,2,0,0.0,105,96,0
+1709,2000,20000434,2000-12-30 22:30:00,Los Angeles,Clippers,Los Angeles,Lakers,Regular Season,1,0,17.0,6,0,5,4,1,0,0,2,5,-8,6,3,0.5,0,0,0.0,2,0,0.0,114,116,0
+1709,2000,20000448,2001-01-02 22:30:00,Los Angeles,Clippers,Toronto,Raptors,Regular Season,1,1,28.0,14,0,9,6,3,0,0,1,4,17,9,5,0.556,0,0,0.0,4,4,1.0,110,97,0
+1709,2000,20000455,2001-01-03 21:00:00,Los Angeles,Clippers,Phoenix,Suns,Regular Season,0,0,14.0,4,0,1,1,0,0,0,1,4,-20,3,1,0.333,0,0,0.0,2,2,1.0,90,85,0
+1709,2000,20000470,2001-01-05 22:30:00,Los Angeles,Clippers,Charlotte,Hornets,Regular Season,1,0,16.0,2,1,1,1,0,1,0,0,5,4,3,1,0.333,0,0,0.0,0,0,0.0,73,86,0
+1709,2000,20000484,2001-01-07 21:30:00,Los Angeles,Clippers,Los Angeles,Lakers,Regular Season,0,1,25.0,8,1,7,5,2,0,0,1,5,18,8,3,0.375,0,0,0.0,6,2,0.333,95,118,0
+1709,2000,20000490,2001-01-08 22:30:00,Los Angeles,Clippers,Indiana,Pacers,Regular Season,1,0,27.0,12,2,5,2,3,1,1,1,2,11,11,6,0.545,0,0,0.0,0,0,0.0,82,85,0
+1709,2000,20000505,2001-01-10 22:30:00,Los Angeles,Clippers,Denver,Nuggets,Regular Season,1,1,32.0,12,0,10,9,1,3,0,2,6,10,9,6,0.667,0,0,0.0,0,0,0.0,92,86,0
+1709,2000,20000517,2001-01-12 20:00:00,Los Angeles,Clippers,Minnesota,Timberwolves,Regular Season,0,0,30.0,14,0,8,5,3,3,1,1,2,-9,12,7,0.583,0,0,0.0,0,0,0.0,95,89,0
+1709,2000,20000524,2001-01-13 20:00:00,Los Angeles,Clippers,Atlanta,Hawks,Regular Season,0,0,26.0,10,0,4,4,0,2,0,1,2,-8,7,4,0.571,0,0,0.0,3,2,0.667,108,88,0
+1709,2000,20000540,2001-01-15 19:00:00,Los Angeles,Clippers,Indiana,Pacers,Regular Season,0,0,17.0,5,0,3,3,0,2,1,2,5,1,6,2,0.333,0,0,0.0,2,1,0.5,89,74,0
+1709,2000,20000548,2001-01-16 20:00:00,Los Angeles,Clippers,Milwaukee,Bucks,Regular Season,0,0,24.0,8,1,7,4,3,0,0,2,2,-14,11,4,0.364,0,0,0.0,1,0,0.0,112,91,0
+1709,2000,20000562,2001-01-18 22:30:00,Los Angeles,Clippers,Boston,Celtics,Regular Season,1,0,35.0,14,0,11,8,3,3,0,4,2,-6,7,5,0.714,0,0,0.0,6,4,0.667,79,82,0
+1709,2000,20000605,2001-01-24 22:30:00,Los Angeles,Clippers,Seattle,SuperSonics,Regular Season,1,0,24.0,6,0,8,6,2,2,0,0,4,-1,6,3,0.5,0,0,0.0,2,0,0.0,110,114,0
+1709,2000,20000627,2001-01-27 22:30:00,Los Angeles,Clippers,Sacramento,Kings,Regular Season,1,0,26.0,10,1,5,3,2,2,0,0,0,-13,12,5,0.417,0,0,0.0,0,0,0.0,89,101,0
+1709,2000,20000636,2001-01-29 22:30:00,Los Angeles,Clippers,San Antonio,Spurs,Regular Season,1,0,23.0,8,0,4,1,3,4,0,1,2,-19,9,3,0.333,0,0,0.0,2,2,1.0,67,96,0
+1709,2000,20000652,2001-01-31 20:30:00,Los Angeles,Clippers,San Antonio,Spurs,Regular Season,0,0,28.0,14,0,6,6,0,7,0,4,5,-10,14,6,0.429,0,0,0.0,2,2,1.0,92,70,0
+1709,2000,20000657,2001-02-01 20:30:00,Los Angeles,Clippers,Houston,Rockets,Regular Season,0,1,24.0,8,0,6,4,2,2,0,0,2,20,9,4,0.444,0,0,0.0,0,0,0.0,84,101,0
+1709,2000,20000676,2001-02-03 22:30:00,Los Angeles,Clippers,Portland,Trail Blazers,Regular Season,1,1,25.0,6,0,4,2,2,1,0,1,4,-4,6,2,0.333,0,0,0.0,2,2,1.0,90,89,0
+1709,2000,20000688,2001-02-05 22:30:00,Los Angeles,Clippers,Chicago,Bulls,Regular Season,1,1,33.0,21,1,6,4,2,2,2,2,4,18,12,9,0.75,0,0,0.0,4,3,0.75,102,82,0
+1709,2000,20000703,2001-02-07 22:30:00,Los Angeles,Clippers,Golden State,Warriors,Regular Season,0,0,32.0,11,1,10,7,3,2,0,1,5,-6,14,5,0.357,0,0,0.0,2,1,0.5,89,88,0
+1709,2000,20000711,2001-02-13 19:30:00,Los Angeles,Clippers,Miami,Heat,Regular Season,0,0,25.0,12,0,6,5,1,1,1,2,6,4,11,6,0.545,0,0,0.0,0,0,0.0,101,99,0
+1709,2000,20000724,2001-02-14 19:30:00,Los Angeles,Clippers,Orlando,Magic,Regular Season,0,0,33.0,10,0,11,9,2,1,0,1,1,-8,10,4,0.4,0,0,0.0,2,2,1.0,114,101,0
+1709,2000,20000737,2001-02-16 19:00:00,Los Angeles,Clippers,Philadelphia,76ers,Regular Season,0,0,30.0,6,1,3,1,2,4,0,3,5,-7,7,3,0.429,0,0,0.0,0,0,0.0,108,93,0
+1709,2000,20000749,2001-02-18 13:00:00,Los Angeles,Clippers,New Jersey,Nets,Regular Season,0,0,17.0,4,0,0,0,0,1,1,2,3,-14,6,2,0.333,0,0,0.0,2,0,0.0,102,96,0
+1709,2000,20000759,2001-02-19 19:30:00,Los Angeles,Clippers,Detroit,Pistons,Regular Season,0,1,32.0,12,0,7,6,1,1,0,5,5,4,8,5,0.625,0,0,0.0,2,2,1.0,106,111,0
+1709,2000,20000774,2001-02-21 19:30:00,Los Angeles,Clippers,Cleveland,Cavaliers,Regular Season,0,1,23.0,7,1,10,6,4,0,0,0,2,0,13,3,0.231,0,0,0.0,2,1,0.5,94,100,0
+1709,2000,20000781,2001-02-22 20:30:00,Los Angeles,Clippers,Chicago,Bulls,Regular Season,0,1,25.0,8,0,9,4,5,0,0,1,1,-3,10,4,0.4,0,0,0.0,0,0,0.0,80,93,0
+1709,2000,20000800,2001-02-24 22:30:00,Los Angeles,Clippers,Portland,Trail Blazers,Regular Season,1,1,45.0,24,4,9,8,1,3,0,1,4,5,20,12,0.6,0,0,0.0,0,0,0.0,123,120,0
+1709,2000,20000815,2001-02-26 22:30:00,Los Angeles,Clippers,Dallas,Mavericks,Regular Season,1,0,26.0,6,0,4,4,0,2,0,0,5,-13,5,3,0.6,0,0,0.0,0,0,0.0,92,103,0
+1709,2000,20000820,2001-02-27 22:30:00,Los Angeles,Clippers,Sacramento,Kings,Regular Season,0,0,25.0,8,0,9,5,4,2,1,3,6,-7,13,4,0.308,0,0,0.0,0,0,0.0,106,93,0
+1709,2000,20000836,2001-03-01 22:00:00,Los Angeles,Clippers,Portland,Trail Blazers,Regular Season,0,0,34.0,13,3,8,6,2,1,1,1,0,-7,11,5,0.455,0,0,0.0,4,3,0.75,94,81,0
+1709,2000,20000846,2001-03-02 22:30:00,Los Angeles,Clippers,Sacramento,Kings,Regular Season,1,1,23.0,6,0,2,1,1,1,1,4,3,-8,5,3,0.6,0,0,0.0,2,0,0.0,88,81,0
+1709,2000,20000865,2001-03-05 22:30:00,Los Angeles,Clippers,Denver,Nuggets,Regular Season,1,1,15.0,8,0,7,5,2,1,1,1,3,1,7,4,0.571,0,0,0.0,0,0,0.0,99,86,0
+1709,2000,20000886,2001-03-08 20:30:00,Los Angeles,Clippers,Houston,Rockets,Regular Season,0,0,25.0,11,0,5,4,1,1,1,4,4,-5,8,4,0.5,0,0,0.0,4,3,0.75,99,87,0
+1709,2000,20000909,2001-03-11 20:30:00,Los Angeles,Clippers,Dallas,Mavericks,Regular Season,0,0,24.0,13,1,6,4,2,1,2,3,1,-19,8,4,0.5,0,0,0.0,8,5,0.625,111,93,0
+1709,2000,20000916,2001-03-12 20:30:00,Los Angeles,Clippers,San Antonio,Spurs,Regular Season,0,0,23.0,4,1,7,3,4,1,1,3,2,-18,10,1,0.1,0,0,0.0,2,2,1.0,99,81,0
+1709,2000,20000949,2001-03-16 22:30:00,Los Angeles,Clippers,Golden State,Warriors,Regular Season,1,1,27.0,3,4,8,5,3,4,1,4,2,12,4,1,0.25,0,0,0.0,2,1,0.5,94,76,0
+1709,2000,20000963,2001-03-18 21:00:00,Los Angeles,Clippers,Utah,Jazz,Regular Season,1,0,24.0,6,0,4,2,2,2,1,2,5,-12,6,3,0.5,0,0,0.0,2,0,0.0,96,111,0
+1709,2000,20000975,2001-03-20 22:30:00,Los Angeles,Clippers,Philadelphia,76ers,Regular Season,1,1,37.0,12,2,12,11,1,4,0,2,4,16,10,5,0.5,0,0,0.0,2,2,1.0,88,77,0
+1709,2000,20000988,2001-03-22 22:30:00,Los Angeles,Clippers,Houston,Rockets,Regular Season,1,1,30.0,20,0,8,5,3,4,0,1,3,8,16,9,0.563,0,0,0.0,8,2,0.25,97,92,0
+1709,2000,20001016,2001-03-26 22:00:00,Los Angeles,Clippers,Portland,Trail Blazers,Regular Season,0,0,25.0,6,0,4,4,0,0,0,1,2,-15,3,1,0.333,0,0,0.0,4,4,1.0,104,96,0
+1709,2000,20001023,2001-03-27 22:30:00,Los Angeles,Clippers,Detroit,Pistons,Regular Season,1,1,24.0,5,0,2,2,0,0,2,5,4,1,2,1,0.5,0,0,0.0,6,3,0.5,101,94,0
+1709,2000,20001047,2001-03-30 22:00:00,Los Angeles,Clippers,Seattle,SuperSonics,Regular Season,0,0,31.0,16,1,8,6,2,3,0,2,1,-14,11,8,0.727,0,0,0.0,0,0,0.0,94,84,0
+1709,2000,20001052,2001-03-31 22:30:00,Los Angeles,Clippers,Cleveland,Cavaliers,Regular Season,1,1,25.0,8,4,8,5,3,2,0,1,6,5,11,4,0.364,0,0,0.0,2,0,0.0,104,97,0
+1709,2000,20001081,2001-04-04 22:00:00,Los Angeles,Clippers,Vancouver,Grizzlies,Regular Season,0,0,31.0,6,0,5,3,2,1,2,2,1,-15,10,3,0.3,0,0,0.0,0,0,0.0,86,78,0
+1709,2000,20001094,2001-04-06 22:30:00,Los Angeles,Clippers,Milwaukee,Bucks,Regular Season,1,1,31.0,13,0,11,4,7,0,0,4,0,-8,10,5,0.5,0,0,0.0,4,3,0.75,113,110,0
+1709,2000,20001103,2001-04-07 22:30:00,Los Angeles,Clippers,San Antonio,Spurs,Regular Season,1,0,20.0,2,1,1,1,0,0,0,3,4,-13,5,1,0.2,0,0,0.0,0,0,0.0,83,93,0
+1709,2000,20001122,2001-04-10 22:30:00,Los Angeles,Clippers,Sacramento,Kings,Regular Season,0,0,28.0,13,1,8,5,3,1,0,2,4,-21,9,6,0.667,0,0,0.0,3,1,0.333,116,109,0
+1709,2000,20001147,2001-04-13 22:30:00,Los Angeles,Clippers,Minnesota,Timberwolves,Regular Season,1,1,39.0,10,1,19,11,8,1,0,1,3,18,17,5,0.294,0,0,0.0,3,0,0.0,111,105,0
+1709,2000,20001152,2001-04-14 22:30:00,Los Angeles,Clippers,Golden State,Warriors,Regular Season,0,1,22.0,6,0,6,5,1,0,0,1,4,11,7,2,0.286,0,0,0.0,4,2,0.5,94,106,0
+1709,2000,20001167,2001-04-16 22:30:00,Los Angeles,Clippers,Phoenix,Suns,Regular Season,1,1,36.0,13,0,9,7,2,2,0,3,3,21,13,6,0.462,0,0,0.0,2,1,0.5,100,80,0
+1709,2000,20001176,2001-04-17 21:00:00,Los Angeles,Clippers,Utah,Jazz,Regular Season,0,0,32.0,8,0,6,2,4,0,0,3,4,-2,10,3,0.3,0,0,0.0,4,2,0.5,97,92,0
+1709,2001,20100008,2001-10-30 20:30:00,Los Angeles,Clippers,San Antonio,Spurs,Regular Season,0,0,23.0,4,0,7,6,1,0,1,1,5,1,8,2,0.25,0,0,0.0,0,0,0.0,109,98,0
+1709,2001,20100021,2001-11-01 20:30:00,Los Angeles,Clippers,Houston,Rockets,Regular Season,0,0,28.0,7,0,8,7,1,2,0,0,3,-5,6,3,0.5,0,0,0.0,2,1,0.5,98,92,0
+1709,2001,20100044,2001-11-03 22:30:00,Los Angeles,Clippers,Golden State,Warriors,Regular Season,1,0,27.0,10,2,7,6,1,2,0,3,4,-3,10,5,0.5,0,0,0.0,2,0,0.0,108,110,0
+1709,2001,20100053,2001-11-05 22:30:00,Los Angeles,Clippers,Atlanta,Hawks,Regular Season,1,1,30.0,7,1,12,9,3,4,3,2,5,9,8,2,0.25,0,0,0.0,4,3,0.75,109,86,0
+1709,2001,20100069,2001-11-07 22:30:00,Los Angeles,Clippers,Memphis,Grizzlies,Regular Season,1,1,17.0,2,1,5,3,2,5,0,2,5,4,2,1,0.5,0,0,0.0,0,0,0.0,108,92,0
+1709,2001,20100077,2001-11-08 22:00:00,Los Angeles,Clippers,Portland,Trail Blazers,Regular Season,0,0,20.0,0,1,8,8,0,2,0,1,3,0,2,0,0.0,0,0,0.0,0,0,0.0,119,101,0
+1709,2001,20100085,2001-11-10 15:30:00,Los Angeles,Clippers,Phoenix,Suns,Regular Season,1,1,26.0,11,1,6,5,1,2,0,1,1,3,7,5,0.714,0,0,0.0,4,1,0.25,111,102,0
+1709,2001,20100114,2001-11-14 22:30:00,Los Angeles,Clippers,Chicago,Bulls,Regular Season,1,1,28.0,8,1,5,4,1,1,1,2,3,3,6,4,0.667,0,0,0.0,0,0,0.0,106,102,0
+1709,2001,20100130,2001-11-16 22:30:00,Los Angeles,Clippers,Toronto,Raptors,Regular Season,1,0,34.0,5,1,10,8,2,1,1,4,2,10,4,2,0.5,0,0,0.0,2,1,0.5,85,94,0
+1709,2001,20100141,2001-11-18 15:30:00,Los Angeles,Clippers,New York,Knicks,Regular Season,1,1,24.0,7,2,6,5,1,3,0,1,4,1,6,3,0.5,0,0,0.0,2,1,0.5,99,86,0
+1709,2001,20100152,2001-11-20 22:30:00,Los Angeles,Clippers,Los Angeles,Lakers,Regular Season,1,0,21.0,4,0,5,4,1,2,1,1,5,-9,7,2,0.286,0,0,0.0,2,0,0.0,93,98,0
+1709,2001,20100167,2001-11-22 22:30:00,Los Angeles,Clippers,New Jersey,Nets,Regular Season,1,0,16.0,6,1,3,2,1,3,0,0,0,-10,5,3,0.6,0,0,0.0,0,0,0.0,90,95,0
+1709,2001,20100175,2001-11-23 21:00:00,Los Angeles,Clippers,Utah,Jazz,Regular Season,0,0,20.0,2,2,2,1,1,0,3,1,5,10,4,1,0.25,0,0,0.0,0,0,0.0,106,101,0
+1709,2001,20100189,2001-11-25 15:30:00,Los Angeles,Clippers,Houston,Rockets,Regular Season,1,1,28.0,9,0,9,6,3,2,1,1,2,10,7,4,0.571,0,0,0.0,2,1,0.5,90,83,0
+1709,2001,20100212,2001-11-28 22:30:00,Los Angeles,Clippers,Minnesota,Timberwolves,Regular Season,1,1,40.0,7,1,12,9,3,2,1,1,1,22,11,3,0.273,0,0,0.0,2,1,0.5,94,75,0
+1709,2001,20100222,2001-11-30 21:00:00,Los Angeles,Clippers,Denver,Nuggets,Regular Season,0,0,12.0,4,0,6,6,0,1,0,1,2,-7,1,1,1.0,0,0,0.0,2,2,1.0,96,93,0
+1709,2001,20100239,2001-12-02 21:00:00,Los Angeles,Clippers,Indiana,Pacers,Regular Season,1,1,30.0,12,0,11,7,4,5,2,1,2,31,9,5,0.556,0,0,0.0,2,2,1.0,103,72,0
+1709,2001,20100253,2001-12-04 22:30:00,Los Angeles,Clippers,Miami,Heat,Regular Season,1,1,32.0,11,2,9,5,4,6,0,1,6,12,9,4,0.444,0,0,0.0,4,3,0.75,87,83,0
+1709,2001,20100273,2001-12-07 22:30:00,Los Angeles,Clippers,Utah,Jazz,Regular Season,1,0,26.0,2,2,8,6,2,3,0,1,4,-1,3,1,0.333,0,0,0.0,0,0,0.0,86,102,0
+1709,2001,20100287,2001-12-09 21:00:00,Los Angeles,Clippers,Charlotte,Hornets,Regular Season,1,1,36.0,8,1,9,6,3,1,2,0,4,9,8,2,0.25,0,0,0.0,5,4,0.8,89,78,0
+1709,2001,20100290,2001-12-10 22:30:00,Los Angeles,Clippers,Orlando,Magic,Regular Season,1,1,14.0,2,1,5,3,2,0,0,0,2,-7,5,1,0.2,0,0,0.0,0,0,0.0,100,92,0
+1709,2001,20100306,2001-12-12 22:30:00,Los Angeles,Clippers,Seattle,SuperSonics,Regular Season,1,1,25.0,2,0,7,6,1,2,1,1,1,22,4,1,0.25,0,0,0.0,0,0,0.0,114,94,0
+1709,2001,20100320,2001-12-14 22:30:00,Los Angeles,Clippers,Los Angeles,Lakers,Regular Season,0,0,33.0,9,2,11,9,2,1,0,2,3,-8,8,4,0.5,0,0,0.0,2,1,0.5,110,80,0
+1709,2001,20100332,2001-12-16 15:30:00,Los Angeles,Clippers,Detroit,Pistons,Regular Season,1,1,27.0,0,0,13,10,3,2,1,2,1,4,4,0,0.0,0,0,0.0,0,0,0.0,82,77,0
+1709,2001,20100344,2001-12-18 20:00:00,Los Angeles,Clippers,Phoenix,Suns,Regular Season,0,1,20.0,6,0,8,7,1,0,0,1,2,6,6,3,0.5,0,0,0.0,0,0,0.0,92,96,0
+1709,2001,20100381,2001-12-22 22:30:00,Los Angeles,Clippers,Sacramento,Kings,Regular Season,1,1,27.0,13,0,11,8,3,2,0,3,0,-2,9,5,0.556,0,0,0.0,4,3,0.75,101,85,0
+1709,2001,20100398,2001-12-26 22:30:00,Los Angeles,Clippers,Philadelphia,76ers,Regular Season,1,0,34.0,16,1,9,8,1,1,0,2,2,-8,15,8,0.533,0,0,0.0,0,0,0.0,86,100,0
+1709,2001,20100406,2001-12-27 22:30:00,Los Angeles,Clippers,Seattle,SuperSonics,Regular Season,0,0,21.0,0,0,8,6,2,0,0,1,4,-11,2,0,0.0,0,0,0.0,0,0,0.0,101,90,0
+1709,2001,20100415,2001-12-29 15:30:00,Los Angeles,Clippers,Boston,Celtics,Regular Season,1,0,39.0,6,1,20,15,5,2,0,2,4,12,6,2,0.333,0,0,0.0,6,2,0.333,103,105,0
+1709,2001,20100433,2002-01-01 21:00:00,Los Angeles,Clippers,Portland,Trail Blazers,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,112,97,0
+1709,2001,20100442,2002-01-02 22:00:00,Los Angeles,Clippers,Sacramento,Kings,Regular Season,0,0,34.0,13,0,12,10,2,3,0,4,3,-11,13,5,0.385,0,0,0.0,4,3,0.75,105,91,0
+1709,2001,20100454,2002-01-04 21:00:00,Los Angeles,Clippers,Denver,Nuggets,Regular Season,0,1,23.0,2,0,6,5,1,2,0,0,1,7,3,1,0.333,0,0,0.0,0,0,0.0,80,82,0
+1709,2001,20100467,2002-01-05 22:30:00,Los Angeles,Clippers,Milwaukee,Bucks,Regular Season,1,1,38.0,13,1,12,8,4,1,1,1,1,24,10,6,0.6,0,0,0.0,2,1,0.5,86,83,0
+1709,2001,20100472,2002-01-07 19:00:00,Los Angeles,Clippers,Philadelphia,76ers,Regular Season,0,0,23.0,11,1,6,2,4,1,0,0,3,-20,10,5,0.5,0,0,0.0,2,1,0.5,116,92,0
+1709,2001,20100479,2002-01-08 19:00:00,Los Angeles,Clippers,Washington,Wizards,Regular Season,0,0,24.0,0,0,2,2,0,1,0,1,1,-7,4,0,0.0,0,0,0.0,0,0,0.0,96,88,0
+1709,2001,20100494,2002-01-10 19:30:00,Los Angeles,Clippers,New Jersey,Nets,Regular Season,0,0,31.0,12,0,10,8,2,1,0,3,1,-11,12,6,0.5,0,0,0.0,0,0,0.0,108,89,0
+1709,2001,20100505,2002-01-11 19:30:00,Los Angeles,Clippers,Charlotte,Hornets,Regular Season,0,0,43.0,5,1,11,8,3,4,1,4,3,11,8,1,0.125,0,0,0.0,4,3,0.75,92,91,0
+1709,2001,20100519,2002-01-13 15:00:00,Los Angeles,Clippers,Toronto,Raptors,Regular Season,0,1,40.0,16,0,11,8,3,3,0,5,3,-8,14,7,0.5,0,0,0.0,2,2,1.0,72,79,0
+1709,2001,20100532,2002-01-15 20:00:00,Los Angeles,Clippers,Minnesota,Timberwolves,Regular Season,0,0,23.0,2,1,8,4,4,3,0,0,2,-13,6,1,0.167,0,0,0.0,0,0,0.0,97,83,0
+1709,2001,20100556,2002-01-18 22:30:00,Los Angeles,Clippers,Cleveland,Cavaliers,Regular Season,1,1,33.0,19,1,11,7,4,0,1,5,4,6,13,7,0.538,0,0,0.0,6,5,0.833,109,103,0
+1709,2001,20100567,2002-01-19 22:00:00,Los Angeles,Clippers,Portland,Trail Blazers,Regular Season,0,0,27.0,7,2,7,6,1,2,0,0,2,-35,11,2,0.182,0,0,0.0,4,3,0.75,113,93,0
+1709,2001,20100581,2002-01-21 22:30:00,Los Angeles,Clippers,Denver,Nuggets,Regular Season,1,1,35.0,14,2,10,8,2,6,0,3,2,3,11,7,0.636,0,0,0.0,0,0,0.0,102,89,0
+1709,2001,20100595,2002-01-23 22:30:00,Los Angeles,Clippers,Los Angeles,Lakers,Regular Season,1,1,33.0,12,0,12,10,2,3,0,1,4,-12,12,5,0.417,0,0,0.0,2,2,1.0,95,90,0
+1709,2001,20100619,2002-01-26 22:30:00,Los Angeles,Clippers,Dallas,Mavericks,Regular Season,1,0,24.0,15,3,8,3,5,1,0,3,5,-5,12,7,0.583,0,0,0.0,1,1,1.0,112,133,0
+1709,2001,20100623,2002-01-28 20:00:00,Los Angeles,Clippers,Memphis,Grizzlies,Regular Season,0,0,40.0,27,1,8,7,1,1,0,3,2,-18,23,12,0.522,0,0,0.0,3,3,1.0,119,115,0
+1709,2001,20100630,2002-01-29 20:00:00,Los Angeles,Clippers,Dallas,Mavericks,Regular Season,0,1,28.0,6,0,4,4,0,1,0,5,3,1,7,3,0.429,0,0,0.0,0,0,0.0,100,117,0
+1709,2001,20100644,2002-01-31 20:30:00,Los Angeles,Clippers,San Antonio,Spurs,Regular Season,0,1,43.0,20,3,12,10,2,3,1,0,3,11,21,9,0.429,0,0,0.0,2,2,1.0,87,91,0
+1709,2001,20100660,2002-02-02 20:00:00,Los Angeles,Clippers,Atlanta,Hawks,Regular Season,0,0,40.0,18,1,14,12,2,1,1,5,3,-3,16,8,0.5,0,0,0.0,4,2,0.5,101,94,0
+1709,2001,20100669,2002-02-03 19:30:00,Los Angeles,Clippers,Boston,Celtics,Regular Season,0,0,44.0,27,0,15,14,1,2,2,2,4,-7,21,11,0.524,0,0,0.0,6,5,0.833,104,91,0
+1709,2001,20100678,2002-02-05 19:30:00,Los Angeles,Clippers,New York,Knicks,Regular Season,0,1,26.0,2,0,4,2,2,0,0,2,2,-22,7,1,0.143,0,0,0.0,0,0,0.0,110,112,0
+1709,2001,20100695,2002-02-07 19:30:00,Los Angeles,Clippers,Detroit,Pistons,Regular Season,0,0,23.0,0,0,4,4,0,0,0,1,2,-10,8,0,0.0,0,0,0.0,0,0,0.0,105,92,0
+1709,2001,20100721,2002-02-14 22:30:00,Los Angeles,Clippers,San Antonio,Spurs,Regular Season,1,0,36.0,15,2,12,7,5,3,1,3,2,-18,15,7,0.467,0,0,0.0,2,1,0.5,76,89,0
+1709,2001,20100735,2002-02-16 22:30:00,Los Angeles,Clippers,Dallas,Mavericks,Regular Season,1,1,42.0,15,3,11,9,2,4,0,3,3,5,18,7,0.389,0,0,0.0,2,1,0.5,119,110,0
+1709,2001,20100752,2002-02-18 22:30:00,Los Angeles,Clippers,Portland,Trail Blazers,Regular Season,1,0,46.0,15,1,15,13,2,2,2,2,1,-1,11,6,0.545,0,0,0.0,4,3,0.75,79,80,0
+1709,2001,20100760,2002-02-20 19:30:00,Los Angeles,Clippers,Miami,Heat,Regular Season,0,1,27.0,8,0,10,9,1,0,0,3,4,4,14,4,0.286,0,0,0.0,0,0,0.0,71,81,0
+1709,2001,20100769,2002-02-21 19:30:00,Los Angeles,Clippers,Orlando,Magic,Regular Season,0,0,24.0,12,0,4,3,1,1,0,1,0,-17,12,6,0.5,0,0,0.0,0,0,0.0,119,102,0
+1709,2001,20100785,2002-02-23 20:00:00,Los Angeles,Clippers,Indiana,Pacers,Regular Season,0,0,33.0,15,1,5,4,1,0,1,1,3,-12,20,6,0.3,0,0,0.0,4,3,0.75,106,88,0
+1709,2001,20100800,2002-02-25 20:00:00,Los Angeles,Clippers,Memphis,Grizzlies,Regular Season,0,1,22.0,4,3,6,6,0,1,0,2,1,4,6,2,0.333,0,0,0.0,0,0,0.0,77,90,0
+1709,2001,20100806,2002-02-26 20:30:00,Los Angeles,Clippers,Houston,Rockets,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,84,94,0
+1709,2001,20100837,2002-03-02 22:30:00,Los Angeles,Clippers,Golden State,Warriors,Regular Season,1,1,42.0,13,1,10,8,2,3,1,2,5,6,15,5,0.333,0,0,0.0,6,3,0.5,109,95,0
+1709,2001,20100864,2002-03-06 20:00:00,Los Angeles,Clippers,Milwaukee,Bucks,Regular Season,0,0,34.0,15,2,9,6,3,1,1,2,1,-9,18,7,0.389,0,0,0.0,3,1,0.333,92,86,0
+1709,2001,20100879,2002-03-08 20:30:00,Los Angeles,Clippers,Chicago,Bulls,Regular Season,0,1,42.0,30,1,16,12,4,3,2,2,0,5,23,13,0.565,0,0,0.0,6,4,0.667,90,94,0
+1709,2001,20100894,2002-03-10 15:00:00,Los Angeles,Clippers,Cleveland,Cavaliers,Regular Season,0,1,33.0,11,2,5,4,1,0,1,3,3,25,14,5,0.357,0,0,0.0,4,1,0.25,78,95,0
+1709,2001,20100902,2002-03-11 20:00:00,Los Angeles,Clippers,Minnesota,Timberwolves,Regular Season,0,1,25.0,4,0,5,4,1,0,0,1,5,6,6,2,0.333,0,0,0.0,0,0,0.0,99,108,0
+1709,2001,20100921,2002-03-13 22:30:00,Los Angeles,Clippers,Washington,Wizards,Regular Season,1,1,42.0,22,0,11,7,4,2,0,1,1,15,19,10,0.526,0,0,0.0,4,2,0.5,96,75,0
+1709,2001,20100934,2002-03-15 22:30:00,Los Angeles,Clippers,Los Angeles,Lakers,Regular Season,0,0,37.0,4,1,14,11,3,1,0,2,5,0,10,1,0.1,0,0,0.0,2,2,1.0,98,92,0
+1709,2001,20100942,2002-03-16 22:30:00,Los Angeles,Clippers,Seattle,SuperSonics,Regular Season,1,0,36.0,11,2,15,9,6,2,1,4,1,-4,14,5,0.357,0,0,0.0,2,1,0.5,87,95,0
+1709,2001,20100954,2002-03-18 22:30:00,Los Angeles,Clippers,Houston,Rockets,Regular Season,1,1,39.0,26,1,11,8,3,2,2,3,5,6,18,12,0.667,0,0,0.0,4,2,0.5,93,86,0
+1709,2001,20100978,2002-03-21 22:30:00,Los Angeles,Clippers,Golden State,Warriors,Regular Season,0,1,38.0,9,3,8,7,1,1,1,1,4,24,17,4,0.235,0,0,0.0,2,1,0.5,96,116,0
+1709,2001,20100993,2002-03-23 22:30:00,Los Angeles,Clippers,Phoenix,Suns,Regular Season,1,0,36.0,16,1,9,8,1,0,1,3,2,-7,13,7,0.538,0,0,0.0,4,2,0.5,94,97,0
+1709,2001,20101007,2002-03-25 22:30:00,Los Angeles,Clippers,San Antonio,Spurs,Regular Season,1,0,45.0,26,3,17,11,6,1,2,5,3,-10,26,11,0.423,0,0,0.0,8,4,0.5,85,91,0
+1709,2001,20101015,2002-03-26 22:30:00,Los Angeles,Clippers,Sacramento,Kings,Regular Season,0,0,32.0,23,2,10,10,0,4,0,4,5,-28,19,11,0.579,0,0,0.0,2,1,0.5,107,90,0
+1709,2001,20101038,2002-03-29 21:00:00,Los Angeles,Clippers,Phoenix,Suns,Regular Season,0,1,37.0,14,1,14,12,2,0,0,5,1,9,22,7,0.318,0,0,0.0,0,0,0.0,94,96,0
+1709,2001,20101047,2002-03-30 22:30:00,Los Angeles,Clippers,Utah,Jazz,Regular Season,1,0,41.0,28,4,7,4,3,1,2,4,2,-7,21,12,0.571,0,0,0.0,5,4,0.8,92,105,0
+1709,2001,20101075,2002-04-03 21:00:00,Los Angeles,Clippers,Utah,Jazz,Regular Season,0,0,34.0,7,0,7,6,1,2,1,3,1,-19,15,2,0.133,0,0,0.0,3,3,1.0,99,87,0
+1709,2001,20101078,2002-04-04 21:00:00,Los Angeles,Clippers,Dallas,Mavericks,Regular Season,0,0,34.0,19,3,8,5,3,2,1,7,2,-22,14,8,0.571,0,0,0.0,8,3,0.375,115,90,0
+1709,2001,20101104,2002-04-07 21:00:00,Los Angeles,Clippers,Denver,Nuggets,Regular Season,1,1,40.0,23,0,6,3,3,6,2,4,2,17,15,9,0.6,0,0,0.0,6,5,0.833,97,75,0
+1709,2001,20101111,2002-04-08 22:00:00,Los Angeles,Clippers,Seattle,SuperSonics,Regular Season,0,0,44.0,10,2,5,4,1,2,3,4,2,-3,8,4,0.5,0,0,0.0,2,2,1.0,102,100,0
+1709,2001,20101146,2002-04-12 22:30:00,Los Angeles,Clippers,Sacramento,Kings,Regular Season,1,0,38.0,21,1,7,7,0,0,1,3,3,-10,20,10,0.5,0,0,0.0,1,1,1.0,106,125,0
+1709,2001,20101152,2002-04-13 22:30:00,Los Angeles,Clippers,Minnesota,Timberwolves,Regular Season,1,0,34.0,13,2,8,6,2,2,0,5,5,-16,7,5,0.714,0,0,0.0,8,3,0.375,98,101,0
+1709,2001,20101175,2002-04-16 22:30:00,Los Angeles,Clippers,Memphis,Grizzlies,Regular Season,1,1,40.0,25,3,8,7,1,2,1,2,3,5,18,11,0.611,0,0,0.0,5,3,0.6,92,84,0
+1709,2001,20101189,2002-04-17 22:30:00,Los Angeles,Clippers,Golden State,Warriors,Regular Season,0,0,41.0,10,4,11,10,1,1,3,3,3,0,14,4,0.286,0,0,0.0,2,2,1.0,107,103,0
+1709,2002,20200016,2002-10-30 22:30:00,Los Angeles,Clippers,Cleveland,Cavaliers,Regular Season,1,0,39.0,18,0,13,10,3,2,0,1,2,-6,18,9,0.5,0,0,0.0,0,0,0.0,96,98,0
+1709,2002,20200029,2002-11-01 22:30:00,Los Angeles,Clippers,Los Angeles,Lakers,Regular Season,1,0,35.0,12,1,5,4,1,4,0,3,0,-12,12,6,0.5,0,0,0.0,0,0,0.0,93,108,0
+1709,2002,20200042,2002-11-03 15:30:00,Los Angeles,Clippers,Detroit,Pistons,Regular Season,1,1,45.0,19,1,20,18,2,3,2,4,4,11,11,6,0.545,0,0,0.0,10,7,0.7,74,72,0
+1709,2002,20200060,2002-11-06 19:00:00,Los Angeles,Clippers,Philadelphia,76ers,Regular Season,0,0,46.0,14,0,13,11,2,4,0,4,4,-5,16,6,0.375,0,0,0.0,4,2,0.5,101,99,0
+1709,2002,20200075,2002-11-08 19:30:00,Los Angeles,Clippers,New Jersey,Nets,Regular Season,0,0,39.0,18,2,11,9,2,3,0,3,3,-19,14,9,0.643,0,0,0.0,2,0,0.0,106,92,0
+1709,2002,20200093,2002-11-10 17:00:00,Los Angeles,Clippers,Orlando,Magic,Regular Season,0,1,35.0,21,3,10,8,2,1,0,5,2,-8,14,10,0.714,0,0,0.0,2,1,0.5,117,120,0
+1709,2002,20200103,2002-11-12 19:30:00,Los Angeles,Clippers,Miami,Heat,Regular Season,0,1,44.0,19,2,4,4,0,3,1,4,3,22,12,7,0.583,0,0,0.0,7,5,0.714,82,101,0
+1709,2002,20200116,2002-11-14 22:00:00,Los Angeles,Clippers,Orlando,Magic,Regular Season,1,0,32.0,16,1,6,6,0,1,0,3,2,-15,17,6,0.353,0,0,0.0,4,4,1.0,80,101,0
+1709,2002,20200124,2002-11-15 22:00:00,Los Angeles,Clippers,Portland,Trail Blazers,Regular Season,0,0,34.0,9,1,5,5,0,2,0,5,2,-27,10,3,0.3,0,0,0.0,6,3,0.5,112,88,0
+1709,2002,20200139,2002-11-17 15:30:00,Los Angeles,Clippers,Seattle,SuperSonics,Regular Season,1,0,38.0,8,1,13,11,2,1,0,6,4,-4,5,2,0.4,0,0,0.0,5,4,0.8,78,84,0
+1709,2002,20200147,2002-11-18 22:30:00,Los Angeles,Clippers,Golden State,Warriors,Regular Season,0,1,45.0,24,4,12,10,2,0,1,2,3,12,19,11,0.579,0,0,0.0,2,2,1.0,89,99,0
+1709,2002,20200164,2002-11-20 22:30:00,Los Angeles,Clippers,Sacramento,Kings,Regular Season,1,0,43.0,8,2,12,11,1,5,0,1,3,-3,14,4,0.286,0,0,0.0,0,0,0.0,89,93,0
+1709,2002,20200177,2002-11-22 22:30:00,Los Angeles,Clippers,Denver,Nuggets,Regular Season,0,0,42.0,12,1,8,7,1,1,1,1,2,-3,10,6,0.6,0,0,0.0,2,0,0.0,72,70,0
+1709,2002,20200190,2002-11-24 15:30:00,Los Angeles,Clippers,Houston,Rockets,Regular Season,1,1,28.0,10,2,4,3,1,0,0,2,4,4,6,3,0.5,0,0,0.0,6,4,0.667,90,89,0
+1709,2002,20200203,2002-11-26 22:30:00,Los Angeles,Clippers,Utah,Jazz,Regular Season,1,0,39.0,11,2,6,5,1,0,0,5,3,4,12,4,0.333,0,0,0.0,6,3,0.5,94,99,0
+1709,2002,20200217,2002-11-28 22:00:00,Los Angeles,Clippers,New Jersey,Nets,Regular Season,1,1,42.0,14,2,9,8,1,5,0,2,2,11,12,5,0.417,0,0,0.0,4,4,1.0,126,118,0
+1709,2002,20200227,2002-11-29 22:00:00,Los Angeles,Clippers,Sacramento,Kings,Regular Season,0,0,25.0,6,1,7,6,1,1,0,5,4,-20,7,3,0.429,0,0,0.0,0,0,0.0,107,94,0
+1709,2002,20200238,2002-12-01 15:30:00,Los Angeles,Clippers,Indiana,Pacers,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,87,92,0
+1709,2002,20200325,2002-12-13 20:30:00,Los Angeles,Clippers,San Antonio,Spurs,Regular Season,0,0,43.0,20,1,11,8,3,1,0,6,1,-18,18,9,0.5,0,0,0.0,2,2,1.0,97,84,0
+1709,2002,20200335,2002-12-14 20:30:00,Los Angeles,Clippers,Houston,Rockets,Regular Season,0,1,36.0,7,1,10,9,1,2,2,1,4,10,11,3,0.273,0,0,0.0,2,1,0.5,83,94,0
+1709,2002,20200348,2002-12-16 22:30:00,Los Angeles,Clippers,San Antonio,Spurs,Regular Season,1,1,38.0,17,2,18,15,3,4,1,3,6,11,12,8,0.667,0,0,0.0,2,1,0.5,91,79,0
+1709,2002,20200365,2002-12-18 22:30:00,Los Angeles,Clippers,Portland,Trail Blazers,Regular Season,1,0,41.0,10,2,10,9,1,1,2,2,2,0,16,5,0.313,0,0,0.0,0,0,0.0,93,97,0
+1709,2002,20200379,2002-12-20 22:30:00,Los Angeles,Clippers,Phoenix,Suns,Regular Season,1,0,27.0,2,4,6,6,0,1,1,2,4,-13,5,1,0.2,0,0,0.0,0,0,0.0,76,87,0
+1709,2002,20200390,2002-12-21 22:30:00,Los Angeles,Clippers,Denver,Nuggets,Regular Season,1,1,43.0,18,2,5,4,1,3,0,2,6,-1,11,6,0.545,0,0,0.0,11,6,0.545,92,89,0
+1709,2002,20200415,2002-12-27 21:00:00,Los Angeles,Clippers,Phoenix,Suns,Regular Season,0,0,31.0,6,0,8,7,1,3,0,6,0,-21,8,3,0.375,0,0,0.0,0,0,0.0,108,95,0
+1709,2002,20200428,2002-12-28 22:30:00,Los Angeles,Clippers,Golden State,Warriors,Regular Season,1,0,44.0,15,0,6,5,1,5,1,0,3,-10,13,7,0.538,0,0,0.0,2,1,0.5,92,99,0
+1709,2002,20200446,2002-12-31 21:00:00,Los Angeles,Clippers,Philadelphia,76ers,Regular Season,1,0,46.0,13,0,12,8,4,5,1,2,4,-8,18,6,0.333,0,0,0.0,2,1,0.5,75,83,0
+1709,2002,20200451,2003-01-02 20:30:00,Los Angeles,Clippers,Dallas,Mavericks,Regular Season,0,0,33.0,3,1,9,6,3,1,0,2,1,-5,10,1,0.1,0,0,0.0,1,1,1.0,102,92,0
+1709,2002,20200458,2003-01-03 20:00:00,Los Angeles,Clippers,Memphis,Grizzlies,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,116,111,0
+1709,2002,20200473,2003-01-05 15:30:00,Los Angeles,Clippers,San Antonio,Spurs,Regular Season,1,0,39.0,12,1,9,4,5,3,0,4,6,-1,19,5,0.263,0,0,0.0,2,2,1.0,86,94,0
+1709,2002,20200501,2003-01-08 22:30:00,Los Angeles,Clippers,Memphis,Grizzlies,Regular Season,1,1,35.0,6,1,10,8,2,2,1,1,2,12,8,3,0.375,0,0,0.0,0,0,0.0,103,95,0
+1709,2002,20200517,2003-01-10 22:30:00,Los Angeles,Clippers,Seattle,SuperSonics,Regular Season,0,1,42.0,13,1,8,8,0,3,0,2,5,0,11,4,0.364,0,0,0.0,6,5,0.833,88,90,0
+1709,2002,20200524,2003-01-12 15:30:00,Los Angeles,Clippers,Dallas,Mavericks,Regular Season,1,0,40.0,9,2,10,6,4,0,0,3,6,4,6,3,0.5,0,0,0.0,4,3,0.75,90,96,0
+1709,2002,20200551,2003-01-15 22:30:00,Los Angeles,Clippers,Minnesota,Timberwolves,Regular Season,1,0,28.0,4,0,7,7,0,2,0,1,1,-21,3,2,0.667,0,0,0.0,0,0,0.0,64,95,0
+1709,2002,20200573,2003-01-18 22:30:00,Los Angeles,Clippers,Sacramento,Kings,Regular Season,1,1,39.0,11,2,12,11,1,1,2,2,2,-12,13,5,0.385,0,0,0.0,2,1,0.5,112,107,0
+1709,2002,20200587,2003-01-20 22:00:00,Los Angeles,Clippers,Los Angeles,Lakers,Regular Season,0,0,26.0,15,1,3,3,0,0,1,1,6,-3,14,6,0.429,0,0,0.0,4,3,0.75,96,92,0
+1709,2002,20200601,2003-01-22 21:00:00,Los Angeles,Clippers,Utah,Jazz,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,89,96,0
+1709,2002,20200611,2003-01-24 20:00:00,Los Angeles,Clippers,Minnesota,Timberwolves,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,88,85,0
+1709,2002,20200626,2003-01-26 13:00:00,Los Angeles,Clippers,Indiana,Pacers,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,108,101,0
+1709,2002,20200631,2003-01-27 19:00:00,Los Angeles,Clippers,Cleveland,Cavaliers,Regular Season,0,0,38.0,17,0,9,7,2,3,0,1,4,-5,16,7,0.438,0,0,0.0,5,3,0.6,104,100,0
+1709,2002,20200652,2003-01-29 22:30:00,Los Angeles,Clippers,Chicago,Bulls,Regular Season,1,1,29.0,4,0,7,4,3,3,1,1,0,-7,15,2,0.133,0,0,0.0,0,0,0.0,77,75,0
+1709,2002,20200666,2003-01-31 22:30:00,Los Angeles,Clippers,Phoenix,Suns,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,92,98,0
+1709,2002,20200678,2003-02-02 13:30:00,Los Angeles,Clippers,Toronto,Raptors,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,100,86,0
+1709,2003,20300009,2003-10-29 20:00:00,Minnesota,Timberwolves,Milwaukee,Bucks,Regular Season,1,1,27.0,11,1,9,5,4,1,1,1,1,11,10,5,0.5,0,0,0.0,4,1,0.25,95,89,0
+1709,2003,20300022,2003-10-31 20:00:00,Minnesota,Timberwolves,New Jersey,Nets,Regular Season,0,0,21.0,6,0,1,0,1,2,0,6,4,-13,7,3,0.429,0,0,0.0,0,0,0.0,84,61,0
+1709,2003,20300031,2003-11-01 20:00:00,Minnesota,Timberwolves,Toronto,Raptors,Regular Season,1,1,25.0,14,0,6,5,1,4,0,2,3,11,11,7,0.636,0,0,0.0,0,0,0.0,73,56,0
+1709,2003,20300046,2003-11-03 21:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,0,0,29.0,2,0,8,6,2,2,1,0,5,-1,8,1,0.125,0,0,0.0,1,0,0.0,93,88,0
+1709,2003,20300058,2003-11-05 20:00:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,1,0,24.0,8,3,5,5,0,3,2,1,5,22,4,4,1.0,0,0,0.0,0,0,0.0,121,125,0
+1709,2003,20300069,2003-11-07 20:00:00,Minnesota,Timberwolves,Orlando,Magic,Regular Season,0,1,20.0,5,0,3,2,1,0,0,0,3,8,5,2,0.4,0,0,0.0,2,1,0.5,71,100,0
+1709,2003,20300077,2003-11-08 19:30:00,Minnesota,Timberwolves,Miami,Heat,Regular Season,0,1,10.0,0,0,0,0,0,0,0,2,2,-2,2,0,0.0,0,0,0.0,0,0,0.0,79,88,0
+1709,2003,20300097,2003-11-11 20:00:00,Minnesota,Timberwolves,Seattle,SuperSonics,Regular Season,1,0,32.0,8,0,6,2,4,3,1,2,4,1,10,4,0.4,0,0,0.0,0,0,0.0,87,89,0
+1709,2003,20300113,2003-11-13 20:30:00,Minnesota,Timberwolves,Chicago,Bulls,Regular Season,0,1,19.0,10,0,0,0,0,1,0,1,4,-5,8,4,0.5,0,0,0.0,2,2,1.0,89,92,0
+1709,2003,20300120,2003-11-14 20:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,1,0,7.0,2,0,1,1,0,0,0,3,2,-12,2,1,0.5,0,0,0.0,0,0,0.0,77,85,0
+1709,2003,20300148,2003-11-18 20:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,1,1,16.0,6,1,3,2,1,1,0,1,3,9,5,3,0.6,0,0,0.0,0,0,0.0,89,76,0
+1709,2003,20300166,2003-11-21 20:00:00,Minnesota,Timberwolves,Cleveland,Cavaliers,Regular Season,0,1,10.0,4,0,0,0,0,0,0,1,3,-7,4,1,0.25,0,0,0.0,2,2,1.0,83,97,0
+1709,2003,20300179,2003-11-22 20:00:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,103,91,0
+1709,2003,20300192,2003-11-25 19:00:00,Minnesota,Timberwolves,Indiana,Pacers,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,98,75,0
+1709,2003,20300204,2003-11-26 20:00:00,Minnesota,Timberwolves,New York,Knicks,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,92,97,0
+1709,2003,20300216,2003-11-28 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,0,1,18.0,6,0,0,0,0,2,0,0,4,4,9,2,0.222,0,0,0.0,2,2,1.0,98,102,0
+1709,2003,20300228,2003-11-29 20:30:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,0,0,32.0,10,1,7,6,1,4,0,1,2,14,11,5,0.455,0,0,0.0,0,0,0.0,92,88,0
+1709,2003,20300252,2003-12-03 21:00:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,0,1,19.0,4,0,6,3,3,1,0,3,1,1,5,2,0.4,0,0,0.0,0,0,0.0,79,92,0
+1709,2003,20300269,2003-12-05 22:30:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,109,112,0
+1709,2003,20300279,2003-12-07 15:30:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,94,96,0
+1709,2003,20300295,2003-12-09 20:00:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,95,98,0
+1709,2003,20300310,2003-12-12 19:00:00,Minnesota,Timberwolves,Washington,Wizards,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,91,110,0
+1709,2003,20300790,2004-02-20 20:00:00,Minnesota,Timberwolves,Detroit,Pistons,Regular Season,0,1,4.0,0,0,0,0,0,0,0,0,1,1,0,0,0.0,0,0,0.0,0,0,0.0,87,88,0
+1709,2003,20300805,2004-02-22 15:30:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,1,0,20.0,4,0,8,8,0,4,0,1,3,6,6,2,0.333,0,0,0.0,2,0,0.0,92,94,0
+1709,2003,20300819,2004-02-24 20:00:00,Minnesota,Timberwolves,Milwaukee,Bucks,Regular Season,0,1,14.0,6,1,2,2,0,2,1,0,2,-9,7,3,0.429,0,0,0.0,2,0,0.0,102,108,0
+1709,2003,20300827,2004-02-25 20:00:00,Minnesota,Timberwolves,New Jersey,Nets,Regular Season,1,1,30.0,5,2,11,10,1,2,0,1,2,13,6,1,0.167,0,0,0.0,6,3,0.5,81,68,0
+1709,2003,20300841,2004-02-27 20:00:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,1,1,32.0,11,0,5,5,0,2,0,0,4,19,8,5,0.625,0,0,0.0,2,1,0.5,91,81,0
+1709,2003,20300859,2004-02-29 19:30:00,Minnesota,Timberwolves,Philadelphia,76ers,Regular Season,0,0,16.0,0,0,8,4,4,0,0,1,1,-9,5,0,0.0,0,0,0.0,0,0,0.0,81,74,0
+1709,2003,20300879,2004-03-03 20:00:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,1,1,24.0,14,2,5,4,1,4,1,0,4,18,7,6,0.857,0,0,0.0,2,2,1.0,121,97,0
+1709,2003,20300891,2004-03-05 20:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,1,0,21.0,12,2,7,5,2,2,0,2,5,1,6,4,0.667,0,0,0.0,4,4,1.0,109,112,0
+1709,2003,20300908,2004-03-07 19:30:00,Minnesota,Timberwolves,Boston,Celtics,Regular Season,1,0,33.0,10,2,14,13,1,5,2,2,2,1,14,5,0.357,0,0,0.0,0,0,0.0,77,80,0
+1709,2003,20300925,2004-03-09 22:00:00,Minnesota,Timberwolves,Seattle,SuperSonics,Regular Season,0,1,25.0,6,0,10,7,3,1,0,2,3,1,6,3,0.5,0,0,0.0,0,0,0.0,92,105,0
+1709,2003,20300935,2004-03-10 22:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,0,0,26.0,8,0,6,5,1,2,1,1,3,-7,8,4,0.5,0,0,0.0,0,0,0.0,92,79,0
+1709,2003,20300943,2004-03-12 20:00:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,1,1,21.0,4,0,4,3,1,1,0,0,6,7,6,2,0.333,0,0,0.0,0,0,0.0,96,86,0
+1709,2003,20300959,2004-03-14 15:30:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,1,0,19.0,2,0,3,0,3,0,0,1,1,-7,4,1,0.25,0,0,0.0,0,0,0.0,83,92,0
+1709,2003,20300985,2004-03-18 21:30:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,0,0,16.0,2,1,7,6,1,0,0,3,2,-9,5,1,0.2,0,0,0.0,0,0,0.0,106,86,0
+1709,2003,20300994,2004-03-19 21:00:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,0,1,22.0,4,1,8,4,4,1,0,2,3,8,8,1,0.125,0,0,0.0,2,2,1.0,80,93,0
+1709,2003,20301005,2004-03-21 16:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,1,1,15.0,10,3,6,4,2,0,0,0,3,21,8,5,0.625,0,0,0.0,0,0,0.0,98,77,0
+1709,2003,20301020,2004-03-23 20:00:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,1,1,11.0,0,0,2,1,1,0,0,1,3,-8,3,0,0.0,0,0,0.0,0,0,0.0,86,81,0
+1709,2003,20301030,2004-03-24 21:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,0,0,12.0,8,0,4,3,1,0,0,1,5,-1,5,4,0.8,0,0,0.0,0,0,0.0,101,92,0
+1709,2003,20301046,2004-03-26 22:30:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,0,0,23.0,8,0,3,1,2,2,0,0,2,-26,9,4,0.444,0,0,0.0,2,0,0.0,90,73,0
+1709,2003,20301055,2004-03-27 22:30:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,0,1,12.0,7,0,1,1,0,0,1,2,3,-1,5,3,0.6,0,0,0.0,1,1,1.0,82,98,0
+1709,2003,20301068,2004-03-29 20:30:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,0,1,9.0,4,0,1,1,0,2,0,1,3,2,3,2,0.667,0,0,0.0,0,0,0.0,88,94,0
+1709,2003,20301083,2004-03-31 20:00:00,Minnesota,Timberwolves,Seattle,SuperSonics,Regular Season,1,1,21.0,2,0,11,9,2,2,1,1,4,8,4,1,0.25,0,0,0.0,0,0,0.0,90,83,0
+1709,2003,20301094,2004-04-02 20:00:00,Minnesota,Timberwolves,Washington,Wizards,Regular Season,1,1,24.0,12,2,12,5,7,2,2,0,2,19,13,6,0.462,0,0,0.0,0,0,0.0,91,73,0
+1709,2003,20301109,2004-04-04 15:30:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,1,1,30.0,12,0,14,7,7,1,0,0,3,14,11,4,0.364,0,0,0.0,7,4,0.571,90,82,0
+1709,2003,20301135,2004-04-08 22:00:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,0,1,28.0,11,0,9,2,7,1,0,1,6,9,10,4,0.4,0,0,0.0,6,3,0.5,86,94,0
+1709,2003,20301146,2004-04-09 22:30:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,0,1,25.0,2,0,11,8,3,1,1,4,4,20,5,1,0.2,0,0,0.0,0,0,0.0,74,92,0
+1709,2003,20301167,2004-04-12 20:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,1,1,34.0,10,0,9,6,3,4,0,1,5,17,5,3,0.6,0,0,0.0,6,4,0.667,104,90,0
+1709,2003,20301183,2004-04-14 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,0,1,28.0,8,2,9,6,3,3,1,2,6,15,7,2,0.286,0,0,0.0,6,4,0.667,90,107,0
+1709,2003,40300141,2004-04-18 21:30:00,Minnesota,Timberwolves,Denver,Nuggets,Playoffs,1,1,18.0,4,0,2,1,1,1,0,0,1,-4,3,2,0.667,0,0,0.0,0,0,0.0,106,92,0
+1709,2003,40300142,2004-04-21 21:30:00,Minnesota,Timberwolves,Denver,Nuggets,Playoffs,1,1,25.0,8,0,5,3,2,1,0,1,4,6,3,2,0.667,0,0,0.0,4,4,1.0,95,81,0
+1709,2003,40300143,2004-04-24 21:30:00,Minnesota,Timberwolves,Denver,Nuggets,Playoffs,0,0,10.0,2,2,1,1,0,0,0,0,5,-12,4,1,0.25,0,0,0.0,0,0,0.0,107,86,0
+1709,2003,40300144,2004-04-27 22:30:00,Minnesota,Timberwolves,Denver,Nuggets,Playoffs,0,1,11.0,0,0,3,3,0,1,0,2,3,-8,1,0,0.0,0,0,0.0,0,0,0.0,82,84,0
+1709,2003,40300145,2004-04-30 21:30:00,Minnesota,Timberwolves,Denver,Nuggets,Playoffs,1,1,14.0,0,0,2,0,2,2,0,2,2,13,1,0,0.0,0,0,0.0,0,0,0.0,102,91,0
+1709,2003,40300221,2004-05-04 21:30:00,Minnesota,Timberwolves,Sacramento,Kings,Playoffs,1,0,11.0,0,0,4,3,1,0,1,3,2,0,1,0,0.0,0,0,0.0,0,0,0.0,98,104,0
+1709,2003,40300222,2004-05-08 21:30:00,Minnesota,Timberwolves,Sacramento,Kings,Playoffs,1,1,15.0,2,0,5,4,1,1,0,0,3,-9,4,1,0.25,0,0,0.0,0,0,0.0,94,89,0
+1709,2003,40300223,2004-05-10 22:30:00,Minnesota,Timberwolves,Sacramento,Kings,Playoffs,0,1,9.0,2,0,0,0,0,0,1,0,3,-10,4,1,0.25,0,0,0.0,0,0,0.0,113,114,0
+1709,2003,40300224,2004-05-12 22:30:00,Minnesota,Timberwolves,Sacramento,Kings,Playoffs,0,0,3.0,0,0,2,1,1,0,0,3,1,-1,0,0,0.0,0,0,0.0,0,0,0.0,87,81,0
+1709,2003,40300225,2004-05-14 21:30:00,Minnesota,Timberwolves,Sacramento,Kings,Playoffs,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,86,74,0
+1709,2003,40300226,2004-05-16 15:30:00,Minnesota,Timberwolves,Sacramento,Kings,Playoffs,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,104,87,0
+1709,2003,40300227,2004-05-19 20:30:00,Minnesota,Timberwolves,Sacramento,Kings,Playoffs,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,83,80,0
+1709,2003,40300311,2004-05-21 21:00:00,Minnesota,Timberwolves,Los Angeles,Lakers,Playoffs,1,0,32.0,10,0,11,8,3,1,0,2,4,-11,7,4,0.571,0,0,0.0,2,2,1.0,88,97,0
+1709,2003,40300312,2004-05-23 20:30:00,Minnesota,Timberwolves,Los Angeles,Lakers,Playoffs,1,1,8.0,0,0,1,1,0,1,0,1,4,-2,0,0,0.0,0,0,0.0,0,0,0.0,87,71,0
+1709,2003,40300313,2004-05-25 21:00:00,Minnesota,Timberwolves,Los Angeles,Lakers,Playoffs,0,0,16.0,0,0,2,2,0,0,0,1,4,4,4,0,0.0,1,0,0.0,0,0,0.0,100,89,0
+1709,2003,40300314,2004-05-27 21:00:00,Minnesota,Timberwolves,Los Angeles,Lakers,Playoffs,0,0,9.0,0,0,3,1,2,0,0,0,5,-1,1,0,0.0,0,0,0.0,0,0,0.0,92,85,0
+1709,2003,40300315,2004-05-29 20:30:00,Minnesota,Timberwolves,Los Angeles,Lakers,Playoffs,1,1,18.0,1,0,7,5,2,2,0,2,5,5,3,0,0.0,0,0,0.0,2,1,0.5,98,96,0
+1709,2003,40300316,2004-05-31 21:00:00,Minnesota,Timberwolves,Los Angeles,Lakers,Playoffs,0,0,16.0,2,0,4,3,1,1,0,0,4,3,1,1,1.0,0,0,0.0,0,0,0.0,96,90,0
+1709,2004,10400066,2004-10-22 20:00:00,Minnesota,Timberwolves,New York,Knicks,Preseason,1,1,5.0,17,1,5,2,3,4,0,1,3,0,12,7,0.582,0,0,0.0,3,3,1.0,102,82,0
+1709,2004,10400074,2004-10-23 20:00:00,Minnesota,Timberwolves,Indiana,Pacers,Preseason,1,0,5.0,12,0,5,5,0,0,0,4,3,0,8,3,0.375,0,0,0.0,7,6,0.856,104,106,0
+1709,2004,10400102,2004-10-27 20:00:00,Minnesota,Timberwolves,Milwaukee,Bucks,Preseason,1,0,5.0,10,2,10,9,1,2,0,2,5,0,11,3,0.273,0,0,0.0,4,4,1.0,75,76,0
+1709,2004,10400116,2004-10-29 20:00:00,Minnesota,Timberwolves,Detroit,Pistons,Preseason,1,1,5.0,7,2,4,4,0,0,0,1,5,0,4,2,0.5,0,0,0.0,3,3,1.0,102,95,0
+1709,2004,20400011,2004-11-03 20:00:00,Minnesota,Timberwolves,New York,Knicks,Regular Season,1,1,30.0,11,0,8,8,0,1,0,1,5,-5,8,4,0.5,0,0,0.0,4,3,0.75,99,93,0
+1709,2004,20400019,2004-11-04 22:30:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,0,0,36.0,8,0,12,9,3,1,0,1,2,-13,12,4,0.333,0,0,0.0,0,0,0.0,94,92,0
+1709,2004,20400036,2004-11-06 20:00:00,Minnesota,Timberwolves,New Orleans,Hornets,Regular Season,1,1,16.0,4,0,3,2,1,1,0,2,5,-6,4,2,0.5,0,0,0.0,0,0,0.0,99,92,0
+1709,2004,20400054,2004-11-09 20:00:00,Minnesota,Timberwolves,Indiana,Pacers,Regular Season,1,0,21.0,2,1,6,4,2,0,0,3,2,-4,3,1,0.333,0,0,0.0,0,0,0.0,101,102,0
+1709,2004,20400070,2004-11-11 20:30:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,0,1,20.0,12,0,5,3,2,0,1,0,5,-16,7,5,0.714,0,0,0.0,3,2,0.667,91,96,0
+1709,2004,20400101,2004-11-16 20:00:00,Minnesota,Timberwolves,Miami,Heat,Regular Season,1,1,20.0,5,0,9,5,4,0,0,1,4,14,7,1,0.143,0,0,0.0,4,3,0.75,108,97,0
+1709,2004,20400110,2004-11-17 19:30:00,Minnesota,Timberwolves,Detroit,Pistons,Regular Season,0,0,20.0,4,0,2,2,0,2,0,2,5,4,3,2,0.667,0,0,0.0,1,0,0.0,93,85,0
+1709,2004,20400134,2004-11-20 20:00:00,Minnesota,Timberwolves,New Orleans,Hornets,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,94,99,0
+1709,2004,20400147,2004-11-22 20:30:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,0,1,15.0,2,0,2,2,0,0,0,0,1,3,1,1,1.0,0,0,0.0,0,0,0.0,82,83,0
+1709,2004,20400155,2004-11-23 20:00:00,Minnesota,Timberwolves,Seattle,SuperSonics,Regular Season,1,0,8.0,0,1,0,0,0,1,0,1,1,-4,0,0,0.0,0,0,0.0,0,0,0.0,92,103,0
+1709,2004,20400169,2004-11-25 20:00:00,Minnesota,Timberwolves,Indiana,Pacers,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,106,102,0
+1709,2004,20400177,2004-11-26 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,115,90,0
+1709,2004,20400196,2004-11-28 21:00:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,0,1,16.0,4,1,4,3,1,2,0,2,0,-3,4,2,0.5,0,0,0.0,0,0,0.0,110,121,0
+1709,2004,20400221,2004-12-01 22:30:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,0,1,11.0,6,0,4,2,2,0,0,0,1,-1,3,3,1.0,0,0,0.0,0,0,0.0,99,107,0
+1709,2004,20400230,2004-12-03 21:00:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,0,1,14.0,4,0,4,2,2,2,0,1,1,1,6,2,0.333,0,0,0.0,2,0,0.0,93,97,0
+1709,2004,20400243,2004-12-04 22:30:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,0,1,6.0,4,0,1,1,0,0,0,0,4,1,3,2,0.667,0,0,0.0,0,0,0.0,100,107,0
+1709,2004,20400259,2004-12-07 20:00:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,1,0,10.0,0,2,2,1,1,0,0,0,1,-6,3,0,0.0,0,0,0.0,0,0,0.0,87,97,0
+1709,2004,20400263,2004-12-08 19:00:00,Minnesota,Timberwolves,Philadelphia,76ers,Regular Season,0,1,14.0,8,0,3,3,0,1,2,2,1,6,4,2,0.5,0,0,0.0,4,4,1.0,84,119,0
+1709,2004,20400282,2004-12-10 20:00:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,1,1,13.0,4,1,4,3,1,1,0,1,3,4,2,2,1.0,0,0,0.0,0,0,0.0,113,105,0
+1709,2004,20400290,2004-12-11 20:30:00,Minnesota,Timberwolves,Chicago,Bulls,Regular Season,0,0,13.0,4,0,6,3,3,0,0,1,4,-3,4,2,0.5,0,0,0.0,0,0,0.0,99,88,0
+1709,2004,20400312,2004-12-14 20:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,1,1,18.0,4,0,5,5,0,1,0,2,2,-1,5,2,0.4,0,0,0.0,0,0,0.0,100,89,0
+1709,2004,20400317,2004-12-15 19:00:00,Minnesota,Timberwolves,Toronto,Raptors,Regular Season,0,0,20.0,8,0,7,4,3,0,0,0,4,6,10,4,0.4,0,0,0.0,0,0,0.0,96,90,0
+1709,2004,20400336,2004-12-17 20:00:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,1,1,13.0,2,0,5,2,3,0,0,0,5,1,4,1,0.25,0,0,0.0,0,0,0.0,113,86,0
+1709,2004,20400361,2004-12-21 19:00:00,Minnesota,Timberwolves,Cleveland,Cavaliers,Regular Season,0,0,15.0,2,0,2,0,2,0,0,0,1,-9,2,0,0.0,0,0,0.0,2,2,1.0,107,97,0
+1709,2004,20400378,2004-12-23 20:00:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,0,0,26.0,9,0,12,7,5,2,0,0,5,-18,8,4,0.5,0,0,0.0,2,1,0.5,96,82,0
+1709,2004,20400387,2004-12-26 20:00:00,Minnesota,Timberwolves,Washington,Wizards,Regular Season,1,1,24.0,8,0,4,2,2,0,0,0,3,16,7,4,0.571,0,0,0.0,0,0,0.0,109,74,0
+1709,2004,20400412,2004-12-29 19:30:00,Minnesota,Timberwolves,New York,Knicks,Regular Season,0,0,13.0,2,0,3,2,1,1,0,2,0,-10,3,1,0.333,0,0,0.0,0,0,0.0,100,87,0
+1709,2004,20400429,2005-01-01 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,95,104,0
+1709,2004,20400451,2005-01-04 20:00:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,1,0,10.0,0,1,0,0,0,0,1,1,3,-4,3,0,0.0,0,0,0.0,0,0,0.0,115,122,0
+1709,2004,20400455,2005-01-05 19:00:00,Minnesota,Timberwolves,Charlotte,Bobcats,Regular Season,0,0,21.0,7,2,8,5,3,0,0,3,5,6,5,3,0.6,0,0,0.0,2,1,0.5,102,84,0
+1709,2004,20400474,2005-01-07 20:00:00,Minnesota,Timberwolves,Philadelphia,76ers,Regular Season,1,1,15.0,2,1,3,2,1,1,1,2,3,2,2,0,0.0,0,0,0.0,2,2,1.0,89,84,0
+1709,2004,20400481,2005-01-08 19:00:00,Minnesota,Timberwolves,Washington,Wizards,Regular Season,0,0,15.0,10,0,2,1,1,0,1,0,5,10,8,5,0.625,0,0,0.0,0,0,0.0,117,114,0
+1709,2004,20400494,2005-01-10 20:00:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,1,0,34.0,8,1,7,6,1,0,0,1,2,-9,8,4,0.5,0,0,0.0,1,0,0.0,96,105,0
+1709,2004,20400508,2005-01-12 20:00:00,Minnesota,Timberwolves,Orlando,Magic,Regular Season,1,0,20.0,8,2,8,3,5,1,0,0,2,-5,7,3,0.429,0,0,0.0,2,2,1.0,80,87,0
+1709,2004,20400527,2005-01-14 22:30:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,0,1,11.0,4,0,1,1,0,0,0,1,4,3,5,2,0.4,0,0,0.0,0,0,0.0,83,93,0
+1709,2004,20400536,2005-01-15 20:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,92,84,0
+1709,2004,20400551,2005-01-17 18:00:00,Minnesota,Timberwolves,Toronto,Raptors,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,91,100,0
+1709,2004,20400569,2005-01-19 22:30:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,93,90,0
+1709,2004,20400590,2005-01-22 22:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,83,92,0
+1709,2004,20400602,2005-01-24 20:00:00,Minnesota,Timberwolves,Detroit,Pistons,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,86,83,0
+1709,2004,20400619,2005-01-26 20:00:00,Minnesota,Timberwolves,Atlanta,Hawks,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,104,87,0
+1709,2004,20400633,2005-01-28 20:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,1,1,7.0,2,0,2,1,1,0,0,1,2,-2,4,1,0.25,0,0,0.0,0,0,0.0,93,91,0
+1709,2004,20400650,2005-01-30 15:30:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,1,0,5.0,0,0,3,3,0,2,0,0,0,0,3,0,0.0,0,0,0.0,0,0,0.0,84,94,0
+1709,2004,20400662,2005-02-01 20:00:00,Minnesota,Timberwolves,Milwaukee,Bucks,Regular Season,0,0,24.0,4,1,3,1,2,2,0,0,4,-11,4,2,0.5,0,0,0.0,0,0,0.0,91,86,0
+1709,2004,20400674,2005-02-02 20:00:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,1,0,12.0,4,0,5,4,1,0,0,2,4,-15,3,2,0.667,0,0,0.0,0,0,0.0,79,108,0
+1709,2004,20400685,2005-02-04 21:30:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,1,0,8.0,0,1,2,2,0,0,0,0,6,4,0,0,0.0,0,0,0.0,0,0,0.0,113,119,0
+1709,2004,20400701,2005-02-06 13:00:00,Minnesota,Timberwolves,Boston,Celtics,Regular Season,1,0,32.0,21,0,9,8,1,1,0,1,4,-2,16,8,0.5,0,0,0.0,5,5,1.0,100,103,0
+1709,2004,20400712,2005-02-08 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,0,0,20.0,2,1,5,3,2,1,0,2,2,-11,2,0,0.0,0,0,0.0,2,2,1.0,108,96,0
+1709,2004,20400724,2005-02-09 20:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,1,1,17.0,6,0,4,3,1,0,1,1,5,11,6,3,0.5,0,0,0.0,0,0,0.0,98,92,0
+1709,2004,20400739,2005-02-11 21:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,0,0,24.0,9,2,1,1,0,1,1,0,4,-8,7,4,0.571,0,0,0.0,2,1,0.5,100,82,0
+1709,2004,20400747,2005-02-13 15:30:00,Minnesota,Timberwolves,Chicago,Bulls,Regular Season,1,0,26.0,4,0,8,5,3,0,0,2,6,-8,6,2,0.333,0,0,0.0,0,0,0.0,83,87,0
+1709,2004,20400764,2005-02-15 20:00:00,Minnesota,Timberwolves,New Jersey,Nets,Regular Season,1,1,31.0,17,0,12,7,5,2,1,0,4,20,11,7,0.636,0,0,0.0,3,3,1.0,82,71,0
+1709,2004,20400780,2005-02-17 20:00:00,Minnesota,Timberwolves,Cleveland,Cavaliers,Regular Season,1,1,26.0,4,1,3,1,2,3,0,2,3,2,9,2,0.222,0,0,0.0,0,0,0.0,94,88,0
+1709,2004,20400803,2005-02-24 22:30:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,0,0,32.0,8,0,11,8,3,4,0,4,6,-4,4,3,0.75,0,0,0.0,2,2,1.0,92,86,0
+1709,2004,20400827,2005-02-27 20:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,83,91,0
+1709,2004,20400846,2005-03-02 20:00:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,93,99,0
+1709,2004,20400861,2005-03-04 20:00:00,Minnesota,Timberwolves,Milwaukee,Bucks,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,103,97,0
+1709,2004,20400874,2005-03-06 18:00:00,Minnesota,Timberwolves,Boston,Celtics,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,97,99,0
+1709,2004,20400890,2005-03-08 20:00:00,Minnesota,Timberwolves,Charlotte,Bobcats,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,102,97,0
+1709,2004,20400902,2005-03-10 19:00:00,Minnesota,Timberwolves,Miami,Heat,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,107,90,0
+1709,2004,20400906,2005-03-11 19:00:00,Minnesota,Timberwolves,Orlando,Magic,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,96,101,0
+1709,2004,20400920,2005-03-13 13:00:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,93,102,0
+1709,2004,20400941,2005-03-15 20:30:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,0,1,17.0,8,0,9,5,4,1,0,0,2,8,9,3,0.333,0,0,0.0,2,2,1.0,91,100,0
+1709,2004,20400951,2005-03-16 21:00:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,0,0,24.0,2,0,1,1,0,2,2,3,4,-20,3,1,0.333,0,0,0.0,0,0,0.0,89,73,0
+1709,2004,20400962,2005-03-18 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,0,0,23.0,8,0,3,3,0,1,2,1,2,0,7,4,0.571,0,0,0.0,0,0,0.0,88,83,0
+1709,2004,20400981,2005-03-20 19:30:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,1,1,11.0,2,1,2,0,2,1,0,0,4,2,2,1,0.5,0,0,0.0,0,0,0.0,94,86,0
+1709,2004,20401003,2005-03-23 20:00:00,Minnesota,Timberwolves,New Orleans,Hornets,Regular Season,1,1,8.0,0,0,1,1,0,0,0,0,4,8,2,0,0.0,0,0,0.0,0,0,0.0,107,102,0
+1709,2004,20401022,2005-03-26 13:00:00,Minnesota,Timberwolves,New Jersey,Nets,Regular Season,0,1,21.0,11,1,8,3,5,2,0,1,3,1,7,5,0.714,0,0,0.0,3,1,0.333,75,96,0
+1709,2004,20401034,2005-03-27 15:30:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,1,1,16.0,2,1,3,2,1,1,0,0,4,-4,8,1,0.125,0,0,0.0,0,0,0.0,89,85,0
+1709,2004,20401065,2005-03-31 22:30:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,0,1,30.0,10,0,11,8,3,2,1,1,3,-1,9,4,0.444,0,0,0.0,3,2,0.667,96,105,0
+1709,2004,20401076,2005-04-01 21:00:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,0,0,19.0,9,1,6,4,2,0,0,3,2,-22,10,4,0.4,0,0,0.0,2,1,0.5,107,98,0
+1709,2004,20401087,2005-04-03 15:30:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,0,1,23.0,15,0,5,5,0,2,0,1,2,9,8,7,0.875,0,0,0.0,2,1,0.5,100,112,0
+1709,2004,20401114,2005-04-06 21:30:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,1,1,26.0,10,1,6,4,2,1,0,2,3,30,8,4,0.5,0,0,0.0,4,2,0.5,111,86,0
+1709,2004,20401127,2005-04-08 21:30:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,1,0,21.0,3,0,7,6,1,1,0,2,4,-1,5,1,0.2,0,0,0.0,2,1,0.5,104,107,0
+1709,2004,20401133,2005-04-09 19:00:00,Minnesota,Timberwolves,Atlanta,Hawks,Regular Season,0,0,38.0,17,1,13,12,1,2,0,2,1,0,13,8,0.615,0,0,0.0,4,1,0.25,105,98,0
+1709,2004,20401165,2005-04-13 20:00:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,1,1,21.0,4,0,6,6,0,3,0,0,4,-3,7,2,0.286,0,0,0.0,0,0,0.0,116,100,0
+1709,2004,20401180,2005-04-15 21:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,0,1,25.0,6,0,7,4,3,2,0,3,5,7,7,2,0.286,0,0,0.0,2,2,1.0,84,100,0
+1709,2004,20401195,2005-04-17 15:30:00,Minnesota,Timberwolves,Seattle,SuperSonics,Regular Season,1,0,15.0,2,2,5,1,4,0,0,2,1,-11,3,1,0.333,0,0,0.0,0,0,0.0,94,109,0
+1709,2004,20401204,2005-04-18 20:00:00,Minnesota,Timberwolves,New Orleans,Hornets,Regular Season,0,1,20.0,12,1,7,5,2,0,0,1,2,-2,8,6,0.75,0,0,0.0,2,0,0.0,99,102,0
+1709,2004,20401226,2005-04-20 20:00:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,1,1,27.0,10,1,14,8,6,1,1,1,4,13,11,5,0.455,0,0,0.0,0,0,0.0,95,73,0
+1709,2005,10500011,2005-10-12 20:00:00,Minnesota,Timberwolves,Milwaukee,Bucks,Preseason,1,0,19.0,10,0,6,6,0,2,0,2,1,0,10,5,0.5,0,0,0.0,0,0,0.0,89,92,0
+1709,2005,10500023,2005-10-14 20:00:00,Minnesota,Timberwolves,Indiana,Pacers,Preseason,0,0,22.0,6,1,6,6,0,1,1,1,1,0,9,2,0.222,0,0,0.0,2,2,1.0,93,84,0
+1709,2005,10500044,2005-10-17 20:30:00,Minnesota,Timberwolves,Chicago,Bulls,Preseason,0,1,6.0,7,0,5,4,1,0,0,2,5,0,3,2,0.667,0,0,0.0,3,3,1.0,89,97,0
+1709,2005,10500063,2005-10-20 20:00:00,Minnesota,Timberwolves,Indiana,Pacers,Preseason,1,0,26.0,18,0,4,3,1,4,1,3,4,0,13,9,0.691,0,0,0.0,0,0,0.0,76,93,0
+1709,2005,10500079,2005-10-22 20:30:00,Minnesota,Timberwolves,Milwaukee,Bucks,Preseason,0,1,22.0,10,0,7,6,1,0,1,1,1,0,11,3,0.273,0,0,0.0,5,4,0.8,85,89,0
+1709,2005,10500099,2005-10-26 20:00:00,Minnesota,Timberwolves,Chicago,Bulls,Preseason,1,1,20.0,13,0,8,6,2,2,0,2,2,0,9,5,0.556,0,0,0.0,4,3,0.75,100,92,0
+1709,2005,10500121,2005-10-28 20:00:00,Minnesota,Timberwolves,Detroit,Pistons,Preseason,1,1,25.0,13,0,10,9,1,2,0,3,3,0,6,4,0.667,0,0,0.0,7,5,0.713,96,92,0
+1709,2005,20500011,2005-11-02 20:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,1,1,22.0,3,0,8,5,3,2,0,0,2,2,5,1,0.2,0,0,0.0,2,1,0.5,90,86,0
+1709,2005,20500030,2005-11-04 22:30:00,Minnesota,Timberwolves,Seattle,SuperSonics,Regular Season,0,0,38.0,11,0,10,5,5,1,0,6,3,-6,11,5,0.455,0,0,0.0,2,1,0.5,107,102,0
+1709,2005,20500042,2005-11-05 22:30:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,0,0,24.0,13,1,5,3,2,1,0,0,2,-5,12,6,0.5,0,0,0.0,1,1,1.0,100,99,0
+1709,2005,20500049,2005-11-07 20:00:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,1,1,23.0,10,0,4,4,0,2,0,0,3,6,8,5,0.625,0,0,0.0,0,0,0.0,93,78,0
+1709,2005,20500064,2005-11-09 20:00:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,1,1,17.0,6,0,5,2,3,0,0,1,4,-10,6,3,0.5,0,0,0.0,0,0,0.0,88,74,0
+1709,2005,20500093,2005-11-13 21:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,0,0,12.0,2,0,1,1,0,0,0,1,0,-9,5,1,0.2,0,0,0.0,0,0,0.0,102,91,0
+1709,2005,20500104,2005-11-15 20:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,1,0,31.0,10,1,6,2,4,1,1,1,4,6,8,3,0.375,0,0,0.0,5,4,0.8,89,94,0
+1709,2005,20500119,2005-11-17 19:00:00,Minnesota,Timberwolves,Washington,Wizards,Regular Season,1,1,28.0,14,0,6,6,0,1,1,2,2,2,11,5,0.455,0,0,0.0,4,4,1.0,109,98,0
+1709,2005,20500135,2005-11-19 20:00:00,Minnesota,Timberwolves,Charlotte,Bobcats,Regular Season,1,1,28.0,18,2,8,7,1,4,1,2,5,9,14,9,0.643,0,0,0.0,2,0,0.0,102,89,0
+1709,2005,20500163,2005-11-23 20:00:00,Minnesota,Timberwolves,Oklahoma City,Hornets,Regular Season,0,0,35.0,11,0,8,7,1,2,1,1,1,-3,10,5,0.5,0,0,0.0,2,1,0.5,84,80,0
+1709,2005,20500175,2005-11-25 20:00:00,Minnesota,Timberwolves,Milwaukee,Bucks,Regular Season,1,1,23.0,0,1,4,4,0,1,0,0,3,-6,2,0,0.0,0,0,0.0,0,0,0.0,99,91,0
+1709,2005,20500185,2005-11-26 19:30:00,Minnesota,Timberwolves,Cleveland,Cavaliers,Regular Season,0,1,23.0,0,1,3,3,0,1,1,1,3,-3,5,0,0.0,0,0,0.0,0,0,0.0,85,89,0
+1709,2005,20500200,2005-11-29 20:00:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,1,0,23.0,5,0,6,6,0,0,0,2,2,-4,3,2,0.667,0,0,0.0,2,1,0.5,84,93,0
+1709,2005,20500228,2005-12-02 22:30:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,0,1,24.0,4,0,4,2,2,0,2,1,3,-12,7,2,0.286,0,0,0.0,0,0,0.0,108,113,0
+1709,2005,20500241,2005-12-04 21:00:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,0,1,21.0,13,0,3,2,1,1,1,1,2,6,13,6,0.462,0,0,0.0,2,1,0.5,77,85,0
+1709,2005,20500247,2005-12-05 21:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,0,1,20.0,6,0,4,4,0,0,0,1,5,5,6,3,0.5,0,0,0.0,0,0,0.0,77,91,0
+1709,2005,20500265,2005-12-07 22:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,0,1,24.0,8,0,3,3,0,1,0,2,5,5,10,4,0.4,0,0,0.0,0,0,0.0,74,84,0
+1709,2005,20500286,2005-12-10 20:00:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,1,1,23.0,2,1,3,2,1,0,1,0,3,11,3,1,0.333,0,0,0.0,0,0,0.0,95,82,0
+1709,2005,20500295,2005-12-12 19:00:00,Minnesota,Timberwolves,Philadelphia,76ers,Regular Season,0,0,27.0,8,2,10,10,0,3,2,1,2,-1,8,4,0.5,0,0,0.0,0,0,0.0,90,89,0
+1709,2005,20500303,2005-12-13 20:00:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,1,0,27.0,6,1,9,7,2,0,0,1,6,-2,4,3,0.75,0,0,0.0,0,0,0.0,91,93,0
+1709,2005,20500320,2005-12-15 20:00:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,1,0,27.0,7,0,6,4,2,0,2,1,3,-17,8,3,0.375,0,0,0.0,2,1,0.5,88,90,0
+1709,2005,20500344,2005-12-18 20:30:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,0,0,26.0,3,1,10,7,3,0,1,3,3,10,5,1,0.2,0,0,0.0,6,1,0.167,102,95,0
+1709,2005,20500366,2005-12-21 20:00:00,Minnesota,Timberwolves,Oklahoma City,Hornets,Regular Season,1,1,23.0,5,1,10,9,1,0,1,0,4,21,3,2,0.667,0,0,0.0,3,1,0.333,88,69,0
+1709,2005,20500379,2005-12-23 20:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,1,0,13.0,2,0,0,0,0,2,0,2,6,-3,3,1,0.333,0,0,0.0,0,0,0.0,83,91,0
+1709,2005,20500434,2006-01-01 18:00:00,Minnesota,Timberwolves,Miami,Heat,Regular Season,0,0,19.0,6,1,9,2,7,1,1,1,1,-9,5,3,0.6,0,0,0.0,0,0,0.0,97,70,0
+1709,2005,20500452,2006-01-04 20:00:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,1,1,20.0,0,1,4,3,1,0,0,2,5,4,0,0,0.0,0,0,0.0,0,0,0.0,91,78,0
+1709,2005,20500466,2006-01-06 20:00:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,0,0,26.0,7,0,6,5,1,1,1,1,3,-6,5,3,0.6,0,0,0.0,2,1,0.5,83,77,0
+1709,2005,20500478,2006-01-07 20:30:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,0,0,16.0,4,0,4,4,0,0,0,2,3,-12,2,2,1.0,0,0,0.0,0,0,0.0,83,79,0
+1709,2005,20500494,2006-01-10 20:00:00,Minnesota,Timberwolves,Milwaukee,Bucks,Regular Season,0,0,20.0,4,1,3,2,1,1,1,1,5,-9,5,2,0.4,0,0,0.0,0,0,0.0,95,92,0
+1709,2005,20500505,2006-01-11 20:00:00,Minnesota,Timberwolves,Chicago,Bulls,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,99,93,0
+1709,2005,20500519,2006-01-13 20:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,103,89,0
+1709,2005,20500536,2006-01-16 13:00:00,Minnesota,Timberwolves,New York,Knicks,Regular Season,0,1,24.0,0,1,6,6,0,0,0,2,4,-5,0,0,0.0,0,0,0.0,2,0,0.0,90,96,0
+1709,2005,20500554,2006-01-18 19:30:00,Minnesota,Timberwolves,Boston,Celtics,Regular Season,0,0,24.0,5,1,9,5,4,1,1,1,3,7,5,2,0.4,0,0,0.0,2,1,0.5,103,96,0
+1709,2005,20500570,2006-01-20 20:00:00,Minnesota,Timberwolves,Indiana,Pacers,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,90,85,0
+1709,2005,20500585,2006-01-22 13:00:00,Minnesota,Timberwolves,Philadelphia,76ers,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,84,86,0
+1709,2005,20500602,2006-01-24 20:00:00,Minnesota,Timberwolves,Detroit,Pistons,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,83,107,0
+1709,2005,20500611,2006-01-25 21:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,0,0,6.0,0,0,2,2,0,0,0,1,0,-13,3,0,0.0,0,0,0.0,0,0,0.0,107,87,0
+1709,2005,20500621,2006-01-27 19:30:00,Boston,Celtics,Sacramento,Kings,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,84,74,0
+1709,2005,20500643,2006-01-29 15:30:00,Boston,Celtics,Milwaukee,Bucks,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,83,79,0
+1709,2005,20500652,2006-01-30 20:00:00,Boston,Celtics,Minnesota,Timberwolves,Regular Season,0,0,3.0,2,0,0,0,0,0,0,0,0,-6,1,1,1.0,0,0,0.0,0,0,0.0,110,85,0
+1709,2005,20500665,2006-02-01 19:30:00,Boston,Celtics,Phoenix,Suns,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,94,102,0
+1709,2005,20500678,2006-02-03 19:30:00,Boston,Celtics,Los Angeles,Clippers,Regular Season,1,0,15.0,10,1,4,2,2,0,0,0,0,-5,12,5,0.417,0,0,0.0,0,0,0.0,81,98,0
+1709,2005,20500686,2006-02-04 19:00:00,Boston,Celtics,Orlando,Magic,Regular Season,0,0,9.0,0,1,1,1,0,0,1,1,1,-9,0,0,0.0,0,0,0.0,0,0,0.0,100,91,0
+1709,2005,20500702,2006-02-06 19:30:00,Boston,Celtics,Miami,Heat,Regular Season,0,0,21.0,2,1,4,4,0,0,0,2,5,-24,3,1,0.333,0,0,0.0,0,0,0.0,114,98,0
+1709,2005,20500727,2006-02-10 19:30:00,Boston,Celtics,Portland,Trail Blazers,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,115,83,0
+1709,2005,20500746,2006-02-12 18:00:00,Boston,Celtics,Orlando,Magic,Regular Season,1,1,3.0,0,0,2,2,0,0,0,0,3,2,1,0,0.0,0,0,0.0,0,0,0.0,102,94,0
+1709,2005,20500767,2006-02-15 19:30:00,Boston,Celtics,Cleveland,Cavaliers,Regular Season,1,0,6.0,0,1,4,4,0,2,0,0,0,-5,1,0,0.0,0,0,0.0,0,0,0.0,109,113,0
+1709,2005,20500788,2006-02-21 21:00:00,Boston,Celtics,Utah,Jazz,Regular Season,0,1,23.0,12,0,11,9,2,2,1,2,3,25,7,5,0.714,0,0,0.0,2,2,1.0,83,103,0
+1709,2005,20500798,2006-02-22 21:00:00,Boston,Celtics,Phoenix,Suns,Regular Season,0,0,6.0,0,0,1,1,0,0,0,1,2,-7,1,0,0.0,0,0,0.0,0,0,0.0,103,94,0
+1709,2005,20500812,2006-02-24 22:00:00,Boston,Celtics,Portland,Trail Blazers,Regular Season,0,1,6.0,0,0,0,0,0,0,0,0,1,3,0,0,0.0,0,0,0.0,0,0,0.0,96,102,0
+1709,2005,20500826,2006-02-26 19:30:00,Boston,Celtics,Los Angeles,Lakers,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,111,112,0
+1709,2005,20500845,2006-03-01 19:30:00,Boston,Celtics,Miami,Heat,Regular Season,1,0,1.0,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,96,103,0
+1709,2005,20500859,2006-03-03 19:30:00,Boston,Celtics,Indiana,Pacers,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,99,98,0
+1709,2005,20500874,2006-03-05 18:00:00,Boston,Celtics,Toronto,Raptors,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,111,105,0
+1709,2005,20500889,2006-03-07 19:00:00,Boston,Celtics,Washington,Wizards,Regular Season,0,1,10.0,2,0,1,1,0,1,0,1,1,8,2,1,0.5,0,0,0.0,0,0,0.0,115,116,0
+1709,2005,20500898,2006-03-08 19:30:00,Boston,Celtics,Philadelphia,76ers,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,104,101,0
+1709,2005,20500912,2006-03-10 19:30:00,Boston,Celtics,Milwaukee,Bucks,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,86,92,0
+1709,2005,20500960,2006-03-16 20:00:00,Boston,Celtics,Miami,Heat,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,107,104,0
+1709,2005,20500966,2006-03-17 19:00:00,Boston,Celtics,Orlando,Magic,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,84,77,0
+1709,2005,20500982,2006-03-19 15:30:00,Boston,Celtics,Indiana,Pacers,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,88,103,0
+1709,2005,20500988,2006-03-20 19:30:00,Boston,Celtics,Los Angeles,Lakers,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,97,105,0
+1709,2005,20501022,2006-03-24 19:30:00,Boston,Celtics,Cleveland,Cavaliers,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,94,82,0
+1709,2005,20501031,2006-03-26 16:00:00,Boston,Celtics,Chicago,Bulls,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,97,101,0
+1709,2005,20501059,2006-03-29 19:30:00,Boston,Celtics,New York,Knicks,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,98,123,0
+1709,2005,20501080,2006-04-01 20:30:00,Boston,Celtics,Chicago,Bulls,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,100,94,0
+1709,2005,20501095,2006-04-04 19:00:00,Boston,Celtics,Toronto,Raptors,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,120,124,0
+1709,2005,20501108,2006-04-05 19:00:00,Boston,Celtics,Washington,Wizards,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,91,108,0
+1709,2005,20501121,2006-04-07 19:00:00,Boston,Celtics,Philadelphia,76ers,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,99,109,0
+1709,2005,20501139,2006-04-09 16:00:00,Boston,Celtics,New York,Knicks,Regular Season,1,0,12.0,1,1,2,2,0,0,0,2,2,-14,2,0,0.0,0,0,0.0,2,1,0.5,86,101,0
+1709,2005,20501164,2006-04-12 19:00:00,Boston,Celtics,Indiana,Pacers,Regular Season,0,0,7.0,2,0,3,2,1,0,0,0,0,-1,2,1,0.5,0,0,0.0,0,0,0.0,117,112,0
+1709,2005,20501179,2006-04-14 19:30:00,Boston,Celtics,New Jersey,Nets,Regular Season,1,0,5.0,4,0,0,0,0,0,0,1,0,1,3,2,0.667,0,0,0.0,0,0,0.0,74,79,0
+1709,2005,20501199,2006-04-16 20:00:00,Boston,Celtics,New Jersey,Nets,Regular Season,0,0,15.0,6,1,3,3,0,0,0,2,1,-10,3,2,0.667,0,0,0.0,4,2,0.5,95,93,0
+1709,2005,20501205,2006-04-17 19:30:00,Boston,Celtics,Cleveland,Cavaliers,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,88,93,0
+1709,2005,20501219,2006-04-19 19:30:00,Boston,Celtics,Miami,Heat,Regular Season,1,1,18.0,4,0,5,5,0,1,1,2,2,-8,7,2,0.286,0,0,0.0,0,0,0.0,85,78,0
+1709,2006,10600009,2006-10-10 19:00:00,Boston,Celtics,Cleveland,Cavaliers,Preseason,0,1,9.0,5,0,10,5,5,1,0,2,1,0,2,1,0.5,0,0,0.0,4,3,0.75,93,109,0
+1709,2006,10600017,2006-10-11 19:00:00,Boston,Celtics,Toronto,Raptors,Preseason,0,0,10.0,2,0,4,3,1,0,0,3,2,0,1,1,1.0,0,0,0.0,0,0,0.0,118,112,0
+1709,2006,10600054,2006-10-17 19:30:00,Boston,Celtics,New York,Knicks,Preseason,0,0,13.0,0,0,3,3,0,0,1,0,4,0,0,0,0.0,0,0,0.0,0,0,0.0,116,108,0
+1709,2006,10600059,2006-10-18 19:30:00,Boston,Celtics,New Jersey,Nets,Preseason,1,1,8.0,0,0,1,1,0,2,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,94,90,0
+1709,2006,10600106,2006-10-25 19:30:00,Boston,Celtics,Toronto,Raptors,Preseason,1,0,7.0,0,0,1,1,0,2,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,102,106,0
+1709,2006,20600006,2006-11-01 19:30:00,Boston,Celtics,Oklahoma City,Hornets,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,87,91,0
+1709,2006,20600021,2006-11-03 19:30:00,Boston,Celtics,Detroit,Pistons,Regular Season,1,0,18.0,2,0,3,2,1,1,2,1,1,5,2,1,0.5,0,0,0.0,0,0,0.0,88,101,0
+1709,2006,20600031,2006-11-04 19:00:00,Boston,Celtics,Washington,Wizards,Regular Season,0,0,7.0,0,0,2,1,1,0,0,1,2,-2,0,0,0.0,0,0,0.0,0,0,0.0,124,117,0
+1709,2006,20600061,2006-11-08 19:30:00,Boston,Celtics,Charlotte,Bobcats,Regular Season,1,1,15.0,8,0,3,2,1,0,1,0,4,-3,6,4,0.667,0,0,0.0,0,0,0.0,110,108,0
+1709,2006,20600077,2006-11-10 19:30:00,Boston,Celtics,Utah,Jazz,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,100,107,0
+1709,2006,20600083,2006-11-11 19:30:00,Boston,Celtics,Cleveland,Cavaliers,Regular Season,0,0,17.0,6,0,2,2,0,1,2,0,4,-3,7,3,0.429,0,0,0.0,0,0,0.0,94,93,0
+1709,2006,20600097,2006-11-13 19:30:00,Boston,Celtics,Orlando,Magic,Regular Season,1,0,7.0,0,0,2,1,1,0,1,0,0,-1,3,0,0.0,0,0,0.0,0,0,0.0,89,92,0
+1709,2006,20600110,2006-11-15 19:30:00,Boston,Celtics,Indiana,Pacers,Regular Season,1,1,10.0,4,0,4,3,1,1,0,0,3,11,5,2,0.4,0,0,0.0,0,0,0.0,114,88,0
+1709,2006,20600367,2006-12-20 19:30:00,Boston,Celtics,Golden State,Warriors,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,95,96,0
+1709,2006,20600384,2006-12-22 20:00:00,Boston,Celtics,Philadelphia,76ers,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,83,98,0
+1709,2006,20600410,2006-12-26 21:00:00,Boston,Celtics,Denver,Nuggets,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,116,105,0
+1709,2006,20600425,2006-12-27 22:30:00,Boston,Celtics,Los Angeles,Clippers,Regular Season,0,0,4.0,0,1,0,0,0,0,0,1,1,3,0,0,0.0,0,0,0.0,0,0,0.0,100,77,0
+1709,2006,20600457,2006-12-31 22:00:00,Boston,Celtics,Seattle,SuperSonics,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,101,95,0
+1709,2006,20600459,2007-01-01 22:00:00,Boston,Celtics,Portland,Trail Blazers,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,81,89,0
+1709,2006,20600469,2007-01-03 19:30:00,Boston,Celtics,Cleveland,Cavaliers,Regular Season,1,0,3.0,0,0,1,1,0,1,0,0,1,-4,0,0,0.0,0,0,0.0,0,0,0.0,104,107,0
+1709,2006,20600483,2007-01-05 20:00:00,Boston,Celtics,Memphis,Grizzlies,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,119,128,0
+1709,2006,20600501,2007-01-07 18:00:00,Boston,Celtics,Orlando,Magic,Regular Season,0,0,3.0,0,0,0,0,0,0,0,0,3,-1,0,0,0.0,0,0,0.0,0,0,0.0,87,79,0
+1709,2006,20600518,2007-01-10 19:30:00,Boston,Celtics,Indiana,Pacers,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,84,97,0
+1709,2006,20600532,2007-01-12 19:30:00,Boston,Celtics,Toronto,Raptors,Regular Season,1,0,19.0,3,2,5,4,1,1,0,1,2,-1,2,1,0.5,0,0,0.0,1,1,1.0,86,95,0
+1709,2006,20600543,2007-01-13 19:30:00,Boston,Celtics,Detroit,Pistons,Regular Season,0,0,17.0,1,0,3,2,1,1,0,1,3,-9,2,0,0.0,0,0,0.0,2,1,0.5,81,73,0
+1709,2006,20600558,2007-01-15 14:00:00,Boston,Celtics,Atlanta,Hawks,Regular Season,0,0,6.0,0,0,1,1,0,1,0,0,2,-4,0,0,0.0,0,0,0.0,0,0,0.0,100,96,0
+1709,2006,20600584,2007-01-19 19:30:00,Boston,Celtics,Sacramento,Kings,Regular Season,1,0,12.0,0,1,7,4,3,1,1,0,3,5,1,0,0.0,0,0,0.0,0,0,0.0,91,96,0
+1709,2006,20600595,2007-01-20 20:00:00,Boston,Celtics,Washington,Wizards,Regular Season,0,0,6.0,0,0,0,0,0,1,0,1,1,-7,0,0,0.0,0,0,0.0,0,0,0.0,115,110,0
+1709,2006,20600609,2007-01-22 19:30:00,Boston,Celtics,San Antonio,Spurs,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,89,93,0
+1709,2006,20600625,2007-01-24 19:30:00,Boston,Celtics,Atlanta,Hawks,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,76,82,0
+1709,2006,20600634,2007-01-26 19:00:00,Boston,Celtics,Toronto,Raptors,Regular Season,0,0,3.0,0,0,1,1,0,1,0,1,2,-4,0,0,0.0,0,0,0.0,0,0,0.0,96,90,0
+1709,2006,20600658,2007-01-28 18:00:00,Boston,Celtics,Washington,Wizards,Regular Season,1,0,6.0,0,0,0,0,0,1,0,0,1,-1,1,0,0.0,0,0,0.0,0,0,0.0,91,105,0
+1709,2006,20600670,2007-01-30 19:00:00,Boston,Celtics,Indiana,Pacers,Regular Season,0,0,14.0,8,0,2,2,0,0,0,2,4,-5,7,4,0.571,0,0,0.0,0,0,0.0,103,96,0
+1709,2006,20600678,2007-01-31 19:30:00,Boston,Celtics,Los Angeles,Lakers,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,98,111,0
+1709,2006,20600692,2007-02-02 19:30:00,Boston,Celtics,Los Angeles,Clippers,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,89,100,0
+1709,2006,20600721,2007-02-06 19:30:00,Boston,Celtics,Detroit,Pistons,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,109,102,0
+1709,2006,20600731,2007-02-07 19:30:00,Boston,Celtics,Miami,Heat,Regular Season,1,0,10.0,0,0,3,3,0,0,0,0,1,-4,2,0,0.0,0,0,0.0,0,0,0.0,79,91,0
+1709,2006,20600743,2007-02-09 19:30:00,Boston,Celtics,New Jersey,Nets,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,78,92,0
+1709,2006,20600760,2007-02-11 18:00:00,Boston,Celtics,Minnesota,Timberwolves,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,109,107,0
+1709,2006,20600780,2007-02-14 19:30:00,Boston,Celtics,Milwaukee,Bucks,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,117,97,0
+1709,2006,20600796,2007-02-20 22:00:00,Boston,Celtics,Sacramento,Kings,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,104,101,0
+1709,2006,20600808,2007-02-21 21:00:00,Boston,Celtics,Phoenix,Suns,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,118,108,0
+1709,2006,20600825,2007-02-23 22:30:00,Boston,Celtics,Los Angeles,Lakers,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,122,96,0
+1709,2006,20600831,2007-02-24 21:00:00,Boston,Celtics,Utah,Jazz,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,105,87,0
+1709,2006,20600845,2007-02-26 20:30:00,Boston,Celtics,Houston,Rockets,Regular Season,0,1,4.0,0,0,0,0,0,0,0,0,1,-3,0,0,0.0,0,0,0.0,0,0,0.0,72,77,0
+1709,2006,20600857,2007-02-28 19:30:00,Boston,Celtics,New York,Knicks,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,102,94,0
+1709,2006,20600879,2007-03-03 13:00:00,Boston,Celtics,New Jersey,Nets,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,88,96,0
+1709,2006,20600887,2007-03-04 12:30:00,Boston,Celtics,Minnesota,Timberwolves,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,124,117,0
+1709,2006,20600910,2007-03-07 19:30:00,Boston,Celtics,Houston,Rockets,Regular Season,1,0,10.0,0,1,2,0,2,0,1,4,2,-4,1,0,0.0,0,0,0.0,0,0,0.0,80,111,0
+1709,2006,20600920,2007-03-09 19:30:00,Boston,Celtics,Seattle,SuperSonics,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,118,103,0
+1709,2006,20600936,2007-03-11 18:00:00,Boston,Celtics,Chicago,Bulls,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,78,94,0
+1709,2006,20600954,2007-03-13 20:30:00,Boston,Celtics,Chicago,Bulls,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,95,87,0
+1709,2006,20600962,2007-03-14 19:30:00,Boston,Celtics,Atlanta,Hawks,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,109,88,0
+1709,2006,20600975,2007-03-16 20:30:00,Boston,Celtics,Dallas,Mavericks,Regular Season,0,0,2.0,0,0,1,1,0,0,0,0,2,3,0,0,0.0,0,0,0.0,0,0,0.0,106,101,0
+1709,2006,20600984,2007-03-17 20:00:00,Boston,Celtics,San Antonio,Spurs,Regular Season,0,1,22.0,8,0,5,3,2,2,0,2,4,4,7,4,0.571,0,0,0.0,0,0,0.0,85,91,0
+1709,2006,20600996,2007-03-19 20:00:00,Boston,Celtics,Oklahoma City,Hornets,Regular Season,0,0,4.0,0,0,1,1,0,0,0,2,1,-6,0,0,0.0,0,0,0.0,0,0,0.0,106,88,0
+1709,2006,20601009,2007-03-21 19:30:00,Boston,Celtics,Charlotte,Bobcats,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,84,92,0
+1709,2006,20601024,2007-03-23 19:30:00,Boston,Celtics,Dallas,Mavericks,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,95,109,0
+1709,2006,20601045,2007-03-26 19:30:00,Boston,Celtics,Toronto,Raptors,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,95,87,0
+1709,2006,20601061,2007-03-28 19:30:00,Boston,Celtics,Orlando,Magic,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,105,96,0
+1709,2006,20601072,2007-03-30 19:00:00,Boston,Celtics,Philadelphia,76ers,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,88,82,0
+1709,2006,20601094,2007-04-01 18:00:00,Boston,Celtics,Cleveland,Cavaliers,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,98,96,0

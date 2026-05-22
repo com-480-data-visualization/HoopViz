@@ -1,0 +1,539 @@
+personId,season,gameId,gameDateTimeEst,playerteamCity,playerteamName,opponentteamCity,opponentteamName,gameType,home,win,numMinutes,points,assists,reboundsTotal,reboundsDefensive,reboundsOffensive,blocks,steals,turnovers,foulsPersonal,plusMinusPoints,fieldGoalsAttempted,fieldGoalsMade,fieldGoalsPercentage,threePointersAttempted,threePointersMade,threePointersPercentage,freeThrowsAttempted,freeThrowsMade,freeThrowsPercentage,homeScore,awayScore,attendance
+202682,0,11200056,,Minnesota,,,,Pre Season,0,0,14.0,1,1,5,5,0,0,0,2,1,0,3,0,0.0,0,0,0.0,2,1,0.5,0,0,0
+202682,0,11300008,,Minnesota,,,,Pre Season,0,0,30.0,21,0,9,6,3,2,0,0,2,0,15,7,0.467,0,0,0.0,12,7,0.583,0,0,0
+202682,0,11400075,,Sacramento,,,,Pre Season,0,0,21.066666666666666,12,0,2,2,0,0,0,1,0,14,3,2,0.667,2,1,0.5,8,7,0.875,0,0,0
+202682,0,11500021,,New York,,,,Pre Season,0,0,14.85,6,1,4,3,1,0,0,2,0,12,4,2,0.5,3,1,0.333,4,1,0.25,0,0,0
+202682,2011,11100007,2011-12-17 20:00:00,Minnesota,Timberwolves,Milwaukee,Bucks,Preseason,1,1,21.0,14,0,2,2,0,0,0,0,1,0,8,5,0.625,4,3,0.75,1,1,1.0,117,96,0
+202682,2011,11100026,2011-12-21 20:00:00,Minnesota,Timberwolves,Milwaukee,Bucks,Preseason,0,1,14.0,4,0,3,3,0,1,1,3,2,0,4,2,0.5,1,0,0.0,0,0,0.0,84,85,0
+202682,2011,21100011,2011-12-26 20:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Regular Season,1,0,23.0,13,1,6,4,2,0,1,2,3,-4,14,6,0.429,4,0,0.0,2,1,0.5,100,104,0
+202682,2011,21100020,2011-12-27 20:30:00,Minnesota,Timberwolves,Milwaukee,Bucks,Regular Season,0,0,18.0,3,1,5,4,1,0,0,4,2,-3,3,1,0.333,1,0,0.0,2,1,0.5,98,95,0
+202682,2011,21100045,2011-12-30 20:00:00,Minnesota,Timberwolves,Miami,Heat,Regular Season,1,0,20.0,10,0,4,2,2,0,1,2,0,4,6,4,0.667,3,2,0.667,2,0,0.0,101,103,0
+202682,2011,21100061,2012-01-01 19:00:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,1,1,15.0,4,0,7,5,2,0,3,0,1,12,3,1,0.333,0,0,0.0,4,2,0.5,99,82,0
+202682,2011,21100072,2012-01-02 20:00:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,1,1,11.0,7,0,1,1,0,0,0,1,3,-2,3,3,1.0,1,1,1.0,0,0,0.0,106,96,0
+202682,2011,21100089,2012-01-04 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,1,0,15.0,6,1,2,2,0,0,0,0,2,5,4,2,0.5,3,1,0.333,2,1,0.5,86,90,0
+202682,2011,21100106,2012-01-06 20:00:00,Minnesota,Timberwolves,Cleveland,Cavaliers,Regular Season,1,0,26.0,12,1,4,3,1,2,1,0,1,-7,8,4,0.5,1,0,0.0,5,4,0.8,87,98,0
+202682,2011,21100120,2012-01-08 13:00:00,Minnesota,Timberwolves,Washington,Wizards,Regular Season,0,1,30.0,14,0,7,5,2,0,0,1,2,29,12,5,0.417,7,4,0.571,0,0,0.0,72,93,0
+202682,2011,21100126,2012-01-09 19:00:00,Minnesota,Timberwolves,Toronto,Raptors,Regular Season,0,0,28.0,13,2,8,5,3,1,1,2,3,7,11,4,0.364,3,0,0.0,5,5,1.0,97,87,0
+202682,2011,21100138,2012-01-10 20:00:00,Minnesota,Timberwolves,Chicago,Bulls,Regular Season,1,0,21.0,5,0,2,1,1,1,1,1,1,-12,7,1,0.143,3,1,0.333,5,2,0.4,100,111,0
+202682,2011,21100163,2012-01-13 20:00:00,Minnesota,Timberwolves,New Orleans,Hornets,Regular Season,0,1,15.0,4,0,4,1,3,0,0,1,1,-13,4,1,0.25,2,0,0.0,2,2,1.0,80,87,0
+202682,2011,21100172,2012-01-14 19:00:00,Minnesota,Timberwolves,Atlanta,Hawks,Regular Season,0,0,7.0,2,1,1,0,1,0,1,0,0,1,4,1,0.25,1,0,0.0,0,0,0.0,93,91,0
+202682,2011,21100193,2012-01-16 20:00:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,1,1,9.0,2,2,2,2,0,0,0,0,1,-4,3,0,0.0,2,0,0.0,2,2,1.0,99,86,0
+202682,2011,21100210,2012-01-18 20:00:00,Minnesota,Timberwolves,Detroit,Pistons,Regular Season,1,1,15.0,8,1,4,3,1,1,0,0,0,-3,6,2,0.333,0,0,0.0,7,4,0.571,93,85,0
+202682,2011,21100225,2012-01-20 22:30:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,0,1,14.0,9,2,4,3,1,0,0,1,2,17,8,4,0.5,1,0,0.0,1,1,1.0,98,101,0
+202682,2011,21100236,2012-01-21 21:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,0,0,28.0,15,1,8,4,4,0,2,1,2,3,11,6,0.545,1,0,0.0,4,3,0.75,108,98,0
+202682,2011,21100248,2012-01-23 20:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,1,0,36.0,11,0,7,6,1,0,0,4,1,-11,9,3,0.333,0,0,0.0,8,5,0.625,92,107,0
+202682,2011,21100264,2012-01-25 20:30:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,0,1,24.0,10,2,6,4,2,0,0,0,1,6,7,4,0.571,2,1,0.5,3,1,0.333,90,105,0
+202682,2011,21100280,2012-01-27 20:00:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,1,1,18.0,12,0,3,2,1,0,0,2,1,-4,10,6,0.6,2,0,0.0,0,0,0.0,87,79,0
+202682,2011,21100297,2012-01-29 19:00:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,1,0,10.0,2,0,0,0,0,0,0,0,0,-4,4,1,0.25,1,0,0.0,0,0,0.0,101,106,0
+202682,2011,21100304,2012-01-30 20:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,0,1,6.0,0,0,0,0,0,0,0,0,1,-8,1,0,0.0,0,0,0.0,0,0,0.0,108,120,0
+202682,2011,21100322,2012-02-01 20:00:00,Minnesota,Timberwolves,Indiana,Pacers,Regular Season,1,0,10.0,4,0,1,1,0,0,0,1,0,-11,3,2,0.667,1,0,0.0,1,0,0.0,99,109,0
+202682,2011,21100335,2012-02-03 19:30:00,Minnesota,Timberwolves,New Jersey,Nets,Regular Season,0,1,6.0,4,0,1,1,0,0,0,0,0,3,2,1,0.5,0,0,0.0,2,2,1.0,105,108,0
+202682,2011,21100348,2012-02-04 20:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,1,1,13.0,6,0,5,2,3,1,0,1,0,8,7,2,0.286,1,0,0.0,2,2,1.0,100,91,0
+202682,2011,21100371,2012-02-07 20:00:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,1,1,26.0,14,1,8,6,2,3,1,0,1,11,10,5,0.5,2,1,0.5,8,3,0.375,86,84,0
+202682,2011,21100380,2012-02-08 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,0,0,30.0,13,0,9,8,1,1,1,2,3,-13,13,6,0.462,2,0,0.0,1,1,1.0,85,80,0
+202682,2011,21100398,2012-02-10 20:00:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,1,0,25.0,6,0,5,2,3,0,2,3,2,6,6,2,0.333,1,0,0.0,2,2,1.0,97,104,0
+202682,2011,21100404,2012-02-11 20:00:00,Minnesota,Timberwolves,New York,Knicks,Regular Season,1,0,13.0,6,1,3,3,0,0,1,3,2,3,6,3,0.5,0,0,0.0,0,0,0.0,98,100,0
+202682,2011,21100415,2012-02-13 19:00:00,Minnesota,Timberwolves,Orlando,Magic,Regular Season,0,0,20.0,5,0,6,5,1,0,0,0,1,-5,5,1,0.2,1,0,0.0,4,3,0.75,102,89,0
+202682,2011,21100437,2012-02-15 20:00:00,Minnesota,Timberwolves,Charlotte,Bobcats,Regular Season,1,1,8.0,4,0,3,3,0,0,0,0,2,2,3,2,0.667,0,0,0.0,0,0,0.0,102,90,0
+202682,2011,21100452,2012-02-17 20:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,0,1,9.0,3,0,0,0,0,0,0,0,0,2,2,1,0.5,0,0,0.0,2,1,0.5,98,111,0
+202682,2011,21100467,2012-02-19 19:00:00,Minnesota,Timberwolves,Philadelphia,76ers,Regular Season,1,1,17.0,2,0,3,3,0,0,0,1,0,0,3,1,0.333,0,0,0.0,0,0,0.0,92,91,0
+202682,2011,21100476,2012-02-20 21:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,0,0,22.0,5,1,4,3,1,2,0,0,0,8,2,2,1.0,0,0,0.0,1,1,1.0,103,101,0
+202682,2011,21100495,2012-02-22 20:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,1,1,20.0,13,0,9,6,3,1,0,1,1,14,8,4,0.5,2,1,0.5,5,4,0.8,100,98,0
+202682,2011,21100511,2012-02-28 22:30:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,0,1,27.0,27,0,5,4,1,1,0,1,3,26,10,9,0.9,4,4,1.0,5,5,1.0,97,109,0
+202682,2011,21100523,2012-02-29 22:30:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,0,0,27.0,10,1,7,6,1,0,0,2,4,-4,8,4,0.5,4,2,0.5,2,0,0.0,104,85,0
+202682,2011,21100525,2012-03-01 21:00:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,0,0,18.0,6,0,3,1,2,1,3,2,1,-4,10,2,0.2,2,0,0.0,6,2,0.333,104,95,0
+202682,2011,21100545,2012-03-03 22:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,0,1,22.0,15,0,4,3,1,0,0,0,1,-9,8,5,0.625,2,1,0.5,4,4,1.0,110,122,0
+202682,2011,21100560,2012-03-05 20:00:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,1,1,24.0,15,1,9,7,2,0,0,1,2,-18,9,4,0.444,7,3,0.429,5,4,0.8,95,94,0
+202682,2011,21100577,2012-03-07 20:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,1,1,33.0,9,0,11,8,3,0,0,0,0,6,12,4,0.333,2,0,0.0,2,1,0.5,106,94,0
+202682,2011,21100589,2012-03-09 20:00:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,1,0,42.0,22,2,10,7,3,0,1,3,2,-3,19,9,0.474,3,1,0.333,5,3,0.6,102,105,0
+202682,2011,21100600,2012-03-10 20:00:00,Minnesota,Timberwolves,New Orleans,Hornets,Regular Season,1,0,21.0,7,3,4,2,2,0,0,1,0,-7,6,2,0.333,1,0,0.0,5,3,0.6,89,95,0
+202682,2011,21100616,2012-03-12 22:00:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,0,1,21.0,19,0,8,7,1,2,2,0,2,6,10,7,0.7,3,2,0.667,4,3,0.75,124,127,0
+202682,2011,21100641,2012-03-15 21:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,0,0,16.0,3,0,6,6,0,1,0,1,1,-8,4,1,0.25,3,1,0.333,0,0,0.0,111,105,0
+202682,2011,21100652,2012-03-16 22:30:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,0,0,18.0,6,2,6,5,1,0,1,1,2,-10,6,3,0.5,2,0,0.0,0,0,0.0,97,92,0
+202682,2011,21100665,2012-03-18 18:00:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,0,0,32.0,16,2,9,7,2,0,0,0,2,-11,8,5,0.625,5,2,0.4,4,4,1.0,115,99,0
+202682,2011,21100675,2012-03-19 22:30:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,0,1,36.0,6,1,11,11,0,3,1,4,1,5,9,2,0.222,2,0,0.0,2,2,1.0,93,97,0
+202682,2011,21100690,2012-03-21 20:30:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,0,0,36.0,9,0,7,5,2,0,0,1,2,-10,12,4,0.333,1,0,0.0,2,1,0.5,116,100,0
+202682,2011,21100706,2012-03-23 20:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Regular Season,0,0,23.0,12,0,2,2,0,1,0,1,1,-6,8,4,0.5,4,1,0.25,6,3,0.5,149,140,0
+202682,2011,21100720,2012-03-25 15:30:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,1,1,17.0,7,3,1,0,1,0,0,0,3,0,5,2,0.4,3,1,0.333,2,2,1.0,117,100,0
+202682,2011,21100738,2012-03-27 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,0,0,40.0,14,1,7,6,1,0,0,2,3,-6,15,4,0.267,6,1,0.167,6,5,0.833,93,86,0
+202682,2011,21100745,2012-03-28 19:00:00,Minnesota,Timberwolves,Charlotte,Bobcats,Regular Season,0,1,22.0,5,0,2,2,0,0,0,1,3,9,11,2,0.182,2,0,0.0,2,1,0.5,83,88,0
+202682,2011,21100765,2012-03-30 20:00:00,Minnesota,Timberwolves,Boston,Celtics,Regular Season,1,0,38.0,14,0,7,5,2,0,1,5,3,-19,14,5,0.357,4,1,0.25,4,3,0.75,79,100,0
+202682,2011,21100783,2012-04-01 21:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,0,0,42.0,21,1,6,4,2,0,0,3,1,-15,16,8,0.5,3,0,0.0,7,5,0.714,119,106,0
+202682,2011,21100789,2012-04-02 22:00:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,0,0,21.0,8,0,3,2,1,2,1,1,1,-3,10,3,0.3,3,1,0.333,2,1,0.5,116,108,0
+202682,2011,21100806,2012-04-04 20:00:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,1,0,12.0,3,1,4,3,1,1,0,2,1,6,3,0,0.0,1,0,0.0,4,3,0.75,94,97,0
+202682,2011,21100830,2012-04-07 20:00:00,Minnesota,Timberwolves,New Orleans,Hornets,Regular Season,0,0,15.0,4,0,1,1,0,1,1,0,1,-11,5,2,0.4,1,0,0.0,0,0,0.0,99,90,0
+202682,2011,21100848,2012-04-09 21:00:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,1,0,17.0,10,0,3,2,1,0,0,0,0,-17,7,4,0.571,0,0,0.0,2,2,1.0,90,114,0
+202682,2011,21100867,2012-04-11 21:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,0,0,37.0,27,0,8,8,0,1,1,5,3,-4,20,10,0.5,9,3,0.333,4,4,1.0,113,107,0
+202682,2011,21100871,2012-04-12 20:00:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,1,0,25.0,4,0,5,5,0,2,0,4,5,-17,7,1,0.143,3,1,0.333,2,1,0.5,82,95,0
+202682,2011,21100890,2012-04-14 20:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Regular Season,1,0,12.0,3,1,1,1,0,0,0,0,3,-15,4,0,0.0,1,0,0.0,4,3,0.75,110,115,0
+202682,2011,21100905,2012-04-16 19:00:00,Minnesota,Timberwolves,Indiana,Pacers,Regular Season,0,0,29.0,13,1,10,8,2,1,1,2,3,4,15,3,0.2,6,0,0.0,8,7,0.875,111,88,0
+202682,2011,21100916,2012-04-17 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,1,0,6.0,2,0,2,1,1,1,0,0,1,1,3,0,0.0,0,0,0.0,4,2,0.5,84,91,0
+202682,2011,21100933,2012-04-19 19:30:00,Minnesota,Timberwolves,Detroit,Pistons,Regular Season,0,1,16.0,11,0,4,3,1,0,0,0,0,5,6,3,0.5,1,0,0.0,6,5,0.833,80,91,0
+202682,2011,21100957,2012-04-22 19:00:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,1,0,11.0,4,0,1,0,1,0,0,0,0,-10,5,1,0.2,0,0,0.0,2,2,1.0,88,93,0
+202682,2011,21100987,2012-04-26 20:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,1,0,15.0,4,0,2,2,0,0,1,0,0,-5,5,1,0.2,2,0,0.0,2,2,1.0,102,131,0
+202682,2012,11200020,2012-10-10 20:00:00,Minnesota,Timberwolves,Indiana,Pacers,Preseason,1,1,13.0,9,0,2,2,0,0,1,3,0,0,7,4,0.57,3,1,0.333,0,0,0.0,84,70,0
+202682,2012,11200031,2012-10-12 19:00:00,Minnesota,Timberwolves,Indiana,Pacers,Preseason,0,0,38.0,25,2,6,4,2,1,3,2,3,0,19,9,0.473,3,2,0.667,5,5,1.0,96,91,0
+202682,2012,11200038,2012-10-13 20:00:00,Minnesota,Timberwolves,Chicago,Bulls,Preseason,1,1,23.0,2,0,7,4,3,1,0,1,4,0,8,0,0.0,2,0,0.0,4,2,0.5,82,75,0
+202682,2012,11200073,2012-10-19 20:00:00,Minnesota,Timberwolves,Chicago,Bulls,Preseason,0,0,24.0,5,1,3,3,0,1,0,4,4,0,6,2,0.333,2,0,0.0,2,1,0.5,92,81,0
+202682,2012,11200102,2012-10-24 20:00:00,Minnesota,Timberwolves,Detroit,Pistons,Preseason,1,1,22.0,18,0,2,2,0,0,1,2,4,0,12,5,0.416,4,1,0.25,9,7,0.778,95,76,0
+202682,2012,11200112,2012-10-26 20:00:00,Minnesota,Timberwolves,Milwaukee,Bucks,Preseason,0,1,21.0,13,1,6,4,2,0,0,2,2,0,11,5,0.455,1,0,0.0,6,3,0.5,76,100,0
+202682,2012,21200023,2012-11-02 20:00:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,1,1,21.0,8,0,7,3,4,1,0,0,1,-11,12,3,0.25,1,0,0.0,4,2,0.5,92,80,0
+202682,2012,21200038,2012-11-04 18:00:00,Minnesota,Timberwolves,Toronto,Raptors,Regular Season,0,0,25.0,9,1,8,7,1,0,0,1,1,-5,7,3,0.429,1,1,1.0,4,2,0.5,105,86,0
+202682,2012,21200043,2012-11-05 19:30:00,Minnesota,Timberwolves,Brooklyn,Nets,Regular Season,0,1,18.0,8,1,2,1,1,0,0,0,0,-12,12,3,0.25,1,0,0.0,2,2,1.0,96,107,0
+202682,2012,21200060,2012-11-07 20:00:00,Minnesota,Timberwolves,Orlando,Magic,Regular Season,1,1,30.0,14,1,6,4,2,0,2,0,0,24,10,5,0.5,5,2,0.4,2,2,1.0,90,75,0
+202682,2012,21200076,2012-11-09 20:00:00,Minnesota,Timberwolves,Indiana,Pacers,Regular Season,1,1,26.0,15,1,1,1,0,0,0,3,1,7,9,6,0.667,2,1,0.5,2,2,1.0,96,94,0
+202682,2012,21200084,2012-11-10 20:00:00,Minnesota,Timberwolves,Chicago,Bulls,Regular Season,0,0,21.0,2,0,6,5,1,0,0,1,1,-6,10,0,0.0,1,0,0.0,2,2,1.0,87,80,0
+202682,2012,21200100,2012-11-12 20:30:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,0,1,12.0,4,0,5,5,0,2,0,3,1,2,2,1,0.5,0,0,0.0,2,2,1.0,82,90,0
+202682,2012,21200114,2012-11-14 20:00:00,Minnesota,Timberwolves,Charlotte,Bobcats,Regular Season,1,0,23.0,10,2,9,6,3,1,0,2,1,-6,12,3,0.25,1,0,0.0,7,4,0.571,87,89,0
+202682,2012,21200126,2012-11-16 20:00:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,1,0,37.0,23,2,7,6,1,4,0,3,1,-8,16,8,0.5,2,1,0.5,6,6,1.0,98,106,0
+202682,2012,21200166,2012-11-21 20:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,94,101,0
+202682,2012,21200182,2012-11-23 22:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,103,95,0
+202682,2012,21200190,2012-11-24 22:30:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,0,0,10.0,10,0,0,0,0,2,1,1,3,2,6,4,0.667,4,2,0.5,0,0,0.0,96,85,0
+202682,2012,21200207,2012-11-27 22:00:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,89,97,0
+202682,2012,21200219,2012-11-28 22:30:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,0,0,11.0,4,0,5,4,1,1,0,2,2,3,5,2,0.4,3,0,0.0,0,0,0.0,101,95,0
+202682,2012,21200230,2012-11-30 20:00:00,Minnesota,Timberwolves,Milwaukee,Bucks,Regular Season,1,1,15.0,7,0,10,8,2,1,0,2,0,-2,4,2,0.5,3,1,0.333,4,2,0.5,95,85,0
+202682,2012,21200251,2012-12-04 19:00:00,Minnesota,Timberwolves,Philadelphia,76ers,Regular Season,0,1,15.0,10,0,4,4,0,0,0,0,2,5,5,3,0.6,4,3,0.75,4,1,0.25,88,105,0
+202682,2012,21200259,2012-12-05 19:30:00,Minnesota,Timberwolves,Boston,Celtics,Regular Season,0,0,10.0,2,0,3,3,0,0,0,0,1,4,2,1,0.5,1,0,0.0,0,0,0.0,104,94,0
+202682,2012,21200276,2012-12-07 20:00:00,Minnesota,Timberwolves,Cleveland,Cavaliers,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,91,73,0
+202682,2012,21200319,2012-12-12 20:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,1,1,12.0,6,0,1,0,1,0,0,0,1,8,6,2,0.333,1,0,0.0,2,2,1.0,108,105,0
+202682,2012,21200331,2012-12-14 20:00:00,Minnesota,Timberwolves,New Orleans,Hornets,Regular Season,0,1,8.0,2,0,0,0,0,0,0,2,1,-2,2,1,0.5,1,0,0.0,0,0,0.0,102,113,0
+202682,2012,21200342,2012-12-15 20:00:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,1,1,18.0,16,0,6,4,2,0,0,1,0,16,9,5,0.556,2,0,0.0,6,6,1.0,114,106,0
+202682,2012,21200350,2012-12-17 19:00:00,Minnesota,Timberwolves,Orlando,Magic,Regular Season,0,0,10.0,4,0,4,4,0,0,1,0,1,0,3,2,0.667,1,0,0.0,0,0,0.0,102,93,0
+202682,2012,21200359,2012-12-18 19:30:00,Minnesota,Timberwolves,Miami,Heat,Regular Season,0,0,21.0,8,0,3,3,0,0,1,1,4,-9,6,2,0.333,3,1,0.333,4,3,0.75,103,92,0
+202682,2012,21200377,2012-12-20 19:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Regular Season,1,1,4.0,2,0,1,1,0,0,0,0,0,-3,2,1,0.5,0,0,0.0,2,0,0.0,99,93,0
+202682,2012,21200400,2012-12-23 17:00:00,Minnesota,Timberwolves,New York,Knicks,Regular Season,0,0,11.0,5,0,5,4,1,0,0,1,0,-4,3,1,0.333,2,1,0.5,2,2,1.0,94,91,0
+202682,2012,21200417,2012-12-26 20:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,1,0,16.0,9,0,4,3,1,0,0,0,1,4,7,3,0.429,3,2,0.667,2,1,0.5,84,87,0
+202682,2012,21200444,2012-12-29 20:00:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,1,1,13.0,10,1,1,0,1,1,0,1,0,-5,6,3,0.5,3,2,0.667,3,2,0.667,111,107,0
+202682,2012,21200473,2013-01-02 21:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,0,0,17.0,7,1,2,1,1,2,2,1,2,-18,5,2,0.4,1,0,0.0,4,3,0.75,106,84,0
+202682,2012,21200477,2013-01-03 21:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,0,1,17.0,8,0,4,3,1,0,0,1,1,6,7,3,0.429,1,0,0.0,2,2,1.0,97,101,0
+202682,2012,21200494,2013-01-05 20:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,1,0,17.0,18,0,6,5,1,0,2,3,0,4,10,6,0.6,3,2,0.667,5,4,0.8,97,102,0
+202682,2012,21200515,2013-01-08 20:00:00,Minnesota,Timberwolves,Atlanta,Hawks,Regular Season,1,1,21.0,17,1,1,1,0,0,0,0,1,5,13,7,0.538,5,3,0.6,0,0,0.0,108,103,0
+202682,2012,21200523,2013-01-09 20:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Regular Season,0,0,27.0,14,0,11,9,2,0,1,1,1,-23,15,7,0.467,1,0,0.0,0,0,0.0,106,84,0
+202682,2012,21200536,2013-01-11 20:00:00,Minnesota,Timberwolves,New Orleans,Hornets,Regular Season,0,0,24.0,9,0,3,3,0,0,1,0,2,-12,7,3,0.429,2,0,0.0,3,3,1.0,104,92,0
+202682,2012,21200552,2013-01-13 19:00:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,0,0,24.0,8,0,4,2,2,0,0,0,1,-17,9,3,0.333,3,1,0.333,2,1,0.5,106,88,0
+202682,2012,21200560,2013-01-14 20:30:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,0,0,25.0,9,0,4,2,2,0,2,1,1,1,10,4,0.4,3,0,0.0,2,1,0.5,113,98,0
+202682,2012,21200581,2013-01-17 20:00:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,1,0,31.0,10,1,7,4,3,2,1,2,4,-15,9,3,0.333,2,0,0.0,4,4,1.0,77,90,0
+202682,2012,21200597,2013-01-19 20:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,1,1,29.0,11,1,5,5,0,0,1,3,1,12,9,3,0.333,3,1,0.333,4,4,1.0,92,79,0
+202682,2012,21200608,2013-01-21 14:00:00,Minnesota,Timberwolves,Atlanta,Hawks,Regular Season,0,0,37.0,17,0,4,2,2,1,1,1,3,-16,14,7,0.5,4,1,0.25,2,2,1.0,104,96,0
+202682,2012,21200623,2013-01-23 20:00:00,Minnesota,Timberwolves,Brooklyn,Nets,Regular Season,1,0,23.0,9,0,6,4,2,0,0,0,0,-2,11,4,0.364,0,0,0.0,1,1,1.0,83,91,0
+202682,2012,21200632,2013-01-25 19:00:00,Minnesota,Timberwolves,Washington,Wizards,Regular Season,0,0,30.0,18,1,11,8,3,0,1,0,1,0,17,6,0.353,3,1,0.333,8,5,0.625,114,101,0
+202682,2012,21200645,2013-01-26 19:30:00,Minnesota,Timberwolves,Charlotte,Bobcats,Regular Season,0,0,18.0,5,1,2,2,0,0,0,2,0,11,8,2,0.25,2,1,0.5,2,0,0.0,102,101,0
+202682,2012,21200677,2013-01-30 20:00:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,1,0,12.0,5,0,0,0,0,0,0,1,5,-11,3,2,0.667,2,1,0.5,0,0,0.0,90,96,0
+202682,2012,21200695,2013-02-01 21:30:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,1,0,31.0,15,0,9,7,2,0,1,1,2,-4,14,6,0.429,4,2,0.5,4,1,0.25,100,111,0
+202682,2012,21200700,2013-02-02 20:00:00,Minnesota,Timberwolves,New Orleans,Hornets,Regular Season,1,1,13.0,5,0,3,2,1,0,1,1,1,6,3,1,0.333,1,0,0.0,4,3,0.75,115,86,0
+202682,2012,21200713,2013-02-04 20:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,1,0,19.0,1,0,4,2,2,0,3,1,3,-6,5,0,0.0,1,0,0.0,2,1,0.5,98,100,0
+202682,2012,21200731,2013-02-06 21:00:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,1,0,27.0,15,0,12,11,1,0,0,1,1,-4,12,5,0.417,5,2,0.4,4,3,0.75,94,104,0
+202682,2012,21200745,2013-02-08 20:00:00,Minnesota,Timberwolves,New York,Knicks,Regular Season,1,0,33.0,19,1,6,5,1,1,1,0,5,4,17,8,0.471,6,0,0.0,4,3,0.75,94,100,0
+202682,2012,21200757,2013-02-10 18:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,0,0,25.0,9,1,6,6,0,0,2,1,3,-15,11,4,0.364,3,0,0.0,2,1,0.5,105,88,0
+202682,2012,21200763,2013-02-11 19:00:00,Minnesota,Timberwolves,Cleveland,Cavaliers,Regular Season,0,1,16.0,13,1,5,5,0,1,0,1,4,1,9,4,0.444,2,1,0.5,5,4,0.8,92,100,0
+202682,2012,21200784,2013-02-13 20:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,1,0,36.0,24,0,16,12,4,1,0,1,3,6,17,7,0.412,5,2,0.4,11,8,0.727,93,97,0
+202682,2012,21200805,2013-02-20 20:00:00,Minnesota,Timberwolves,Philadelphia,76ers,Regular Season,1,1,35.0,17,1,8,8,0,0,1,2,0,0,12,7,0.583,4,2,0.5,2,1,0.5,94,87,0
+202682,2012,21200819,2013-02-22 20:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Regular Season,0,0,22.0,9,2,5,2,3,0,1,1,2,-16,14,3,0.214,2,0,0.0,3,3,1.0,127,111,0
+202682,2012,21200832,2013-02-24 15:30:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,1,0,37.0,23,0,12,8,4,1,0,1,3,12,15,9,0.6,1,0,0.0,5,5,1.0,99,100,0
+202682,2012,21200849,2013-02-26 21:00:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,0,0,39.0,21,0,12,11,1,1,2,3,3,2,16,8,0.5,6,2,0.333,10,3,0.3,84,83,0
+202682,2012,21200863,2013-02-28 22:30:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,0,0,39.0,15,1,8,8,0,1,0,3,2,-26,14,6,0.429,4,1,0.25,2,2,1.0,116,94,0
+202682,2012,21200879,2013-03-02 22:00:00,Minnesota,Timberwolves,Portland,Trail Blazers,Regular Season,0,0,39.0,23,0,8,7,1,3,0,1,2,-9,20,9,0.45,4,0,0.0,8,5,0.625,109,94,0
+202682,2012,21200892,2013-03-04 20:00:00,Minnesota,Timberwolves,Miami,Heat,Regular Season,1,0,45.0,25,1,10,7,3,0,0,3,3,-15,22,10,0.455,3,1,0.333,4,4,1.0,81,97,0
+202682,2012,21200907,2013-03-06 20:00:00,Minnesota,Timberwolves,Washington,Wizards,Regular Season,1,1,36.0,16,0,8,8,0,0,2,2,2,8,12,4,0.333,3,1,0.333,11,7,0.636,87,82,0
+202682,2012,21200931,2013-03-09 21:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,0,0,28.0,13,1,6,5,1,0,0,1,2,-11,14,4,0.286,1,0,0.0,9,5,0.556,111,88,0
+202682,2012,21200940,2013-03-10 19:00:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,1,0,37.0,18,3,9,8,1,0,0,2,2,-9,17,7,0.412,2,0,0.0,5,4,0.8,77,100,0
+202682,2012,21200954,2013-03-12 20:00:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,1,1,23.0,13,0,5,4,1,1,0,3,0,-2,10,5,0.5,1,0,0.0,7,3,0.429,107,83,0
+202682,2012,21200958,2013-03-13 19:00:00,Minnesota,Timberwolves,Indiana,Pacers,Regular Season,0,0,27.0,10,1,5,4,1,1,0,0,3,-17,9,4,0.444,1,1,1.0,2,1,0.5,107,91,0
+202682,2012,21200973,2013-03-15 20:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,0,0,31.0,19,1,4,1,3,0,0,4,3,-12,14,7,0.5,5,2,0.4,4,3,0.75,108,100,0
+202682,2012,21200989,2013-03-17 19:00:00,Minnesota,Timberwolves,New Orleans,Hornets,Regular Season,1,1,37.0,28,0,7,5,2,1,1,5,3,12,16,9,0.563,5,3,0.6,10,7,0.7,97,95,0
+202682,2012,21201000,2013-03-18 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,0,0,26.0,8,1,6,5,1,0,0,2,1,-16,12,3,0.25,5,1,0.2,1,1,1.0,92,77,0
+202682,2012,21201021,2013-03-21 22:00:00,Minnesota,Timberwolves,Sacramento,Kings,Regular Season,0,0,25.0,12,1,3,1,2,1,0,0,0,-8,16,6,0.375,3,0,0.0,0,0,0.0,101,98,0
+202682,2012,21201031,2013-03-22 22:00:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,0,1,14.0,4,1,6,6,0,0,0,1,0,9,2,0,0.0,1,0,0.0,4,4,1.0,86,117,0
+202682,2012,21201044,2013-03-24 19:00:00,Minnesota,Timberwolves,Chicago,Bulls,Regular Season,1,0,38.0,28,0,5,5,0,2,2,3,3,-3,18,11,0.611,5,3,0.6,4,3,0.75,97,104,0
+202682,2012,21201055,2013-03-26 19:30:00,Minnesota,Timberwolves,Detroit,Pistons,Regular Season,0,1,17.0,6,0,5,5,0,0,0,1,3,18,3,2,0.667,3,2,0.667,0,0,0.0,82,105,0
+202682,2012,21201066,2013-03-27 20:00:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,1,0,29.0,15,0,6,3,3,0,0,3,0,-7,12,6,0.5,2,1,0.5,5,2,0.4,117,120,0
+202682,2012,21201081,2013-03-29 20:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Regular Season,1,1,26.0,6,2,9,8,1,0,0,0,2,3,8,2,0.25,2,1,0.5,2,1,0.5,101,93,0
+202682,2012,21201089,2013-03-30 20:00:00,Minnesota,Timberwolves,Memphis,Grizzlies,Regular Season,1,0,36.0,19,1,4,3,1,0,0,2,3,-15,16,6,0.375,4,0,0.0,12,7,0.583,86,99,0
+202682,2012,21201105,2013-04-01 20:00:00,Minnesota,Timberwolves,Boston,Celtics,Regular Season,1,1,24.0,11,2,3,3,0,3,1,0,1,20,9,5,0.556,2,1,0.5,0,0,0.0,110,100,0
+202682,2012,21201116,2013-04-03 20:00:00,Minnesota,Timberwolves,Milwaukee,Bucks,Regular Season,0,1,18.0,15,3,6,3,3,0,0,1,2,8,12,7,0.583,2,1,0.5,0,0,0.0,98,107,0
+202682,2012,21201132,2013-04-05 20:00:00,Minnesota,Timberwolves,Toronto,Raptors,Regular Season,1,0,20.0,8,1,5,3,2,0,0,2,0,11,4,1,0.25,1,0,0.0,6,6,1.0,93,95,0
+202682,2012,21201141,2013-04-06 20:00:00,Minnesota,Timberwolves,Detroit,Pistons,Regular Season,1,1,17.0,14,0,2,2,0,0,0,1,4,-6,9,6,0.667,2,1,0.5,1,1,1.0,107,101,0
+202682,2012,21201163,2013-04-09 22:30:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,0,0,20.0,5,0,0,0,0,0,0,0,1,-21,8,2,0.25,1,1,1.0,0,0,0.0,105,89,0
+202682,2012,21201173,2013-04-10 22:30:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,0,0,36.0,13,1,10,6,4,1,3,1,1,-16,12,3,0.25,4,1,0.25,6,6,1.0,111,95,0
+202682,2012,21201187,2013-04-12 21:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,0,0,22.0,11,0,6,3,3,0,0,1,1,-5,9,4,0.444,2,1,0.5,2,2,1.0,107,100,0
+202682,2012,21201193,2013-04-13 20:00:00,Minnesota,Timberwolves,Phoenix,Suns,Regular Season,1,1,23.0,15,0,6,4,2,0,4,3,1,-2,12,7,0.583,2,1,0.5,0,0,0.0,105,93,0
+202682,2012,21201210,2013-04-15 20:00:00,Minnesota,Timberwolves,Utah,Jazz,Regular Season,1,0,40.0,18,0,6,5,1,0,1,0,3,-16,13,7,0.538,2,0,0.0,6,4,0.667,80,96,0
+202682,2012,21201225,2013-04-17 20:00:00,Minnesota,Timberwolves,San Antonio,Spurs,Regular Season,0,1,32.0,21,4,6,6,0,0,1,2,3,17,15,7,0.467,4,2,0.5,6,5,0.833,95,108,0
+202682,2013,11300022,2013-10-09 19:00:00,Minnesota,Timberwolves,Toronto,Raptors,Preseason,0,1,28.0,8,0,4,4,0,1,0,3,4,0,7,2,0.285,2,0,0.0,6,4,0.667,89,101,0
+202682,2013,11300038,2013-10-12 20:00:00,Minnesota,Timberwolves,Toronto,Raptors,Preseason,1,0,21.0,11,1,0,0,0,0,1,2,1,0,6,3,0.5,1,1,1.0,6,4,0.667,97,104,0
+202682,2013,11300081,2013-10-20 18:00:00,Minnesota,Timberwolves,Boston,Celtics,Preseason,1,1,23.0,5,2,7,6,1,1,0,0,0,0,5,2,0.4,1,0,0.0,1,1,1.0,104,89,0
+202682,2013,11300095,2013-10-23 19:00:00,Minnesota,Timberwolves,Philadelphia,76ers,Preseason,0,1,10.0,8,0,3,3,0,0,0,1,1,0,5,3,0.599,1,1,1.0,1,1,1.0,102,125,0
+202682,2013,11300106,2013-10-24 19:30:00,Minnesota,Timberwolves,Detroit,Pistons,Preseason,0,0,19.0,6,1,3,2,1,0,1,3,4,0,7,2,0.285,3,0,0.0,2,2,1.0,99,98,0
+202682,2013,21300010,2013-10-30 20:00:00,Minnesota,Timberwolves,Orlando,Magic,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,120,115,0
+202682,2013,21300027,2013-11-01 20:00:00,Minnesota,Timberwolves,Oklahoma City,Thunder,Regular Season,1,1,27.0,10,0,7,7,0,2,1,2,2,6,6,4,0.667,1,0,0.0,2,2,1.0,100,81,0
+202682,2013,21300045,2013-11-03 19:30:00,Minnesota,Timberwolves,New York,Knicks,Regular Season,0,1,20.0,6,0,1,1,0,0,0,0,0,-15,5,2,0.4,2,1,0.5,2,1,0.5,100,109,0
+202682,2013,21300047,2013-11-04 19:00:00,Minnesota,Timberwolves,Cleveland,Cavaliers,Regular Season,0,0,22.0,13,0,2,2,0,0,1,0,0,2,9,5,0.556,1,0,0.0,4,3,0.75,93,92,0
+202682,2013,21300067,2013-11-06 20:00:00,Minnesota,Timberwolves,Golden State,Warriors,Regular Season,1,0,18.0,0,0,2,2,0,0,1,0,1,-12,6,0,0.0,3,0,0.0,0,0,0.0,93,106,0
+202682,2013,21300080,2013-11-08 20:00:00,Minnesota,Timberwolves,Dallas,Mavericks,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,116,108,0
+202682,2013,21300097,2013-11-10 21:30:00,Minnesota,Timberwolves,Los Angeles,Lakers,Regular Season,0,1,3.0,0,0,0,0,0,0,0,1,0,1,1,0,0.0,0,0,0.0,0,0,0.0,90,113,0
+202682,2013,21300106,2013-11-11 22:30:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,0,0,11.0,6,0,0,0,0,0,0,0,1,-9,5,2,0.4,3,0,0.0,2,2,1.0,109,107,0
+202682,2013,21300115,2013-11-13 20:00:00,Minnesota,Timberwolves,Cleveland,Cavaliers,Regular Season,1,1,21.0,9,0,3,3,0,2,0,2,2,10,7,3,0.429,2,1,0.5,2,2,1.0,124,95,0
+202682,2013,21300131,2013-11-15 20:00:00,Minnesota,Timberwolves,Denver,Nuggets,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,117,113,0
+202682,2013,21300142,2013-11-16 20:00:00,Minnesota,Timberwolves,Boston,Celtics,Regular Season,1,1,2.0,0,1,0,0,0,0,0,0,0,0,2,0,0.0,0,0,0.0,0,0,0.0,106,88,0
+202682,2013,21300156,2013-11-19 19:00:00,Minnesota,Timberwolves,Washington,Wizards,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,104,100,0
+202682,2013,21300168,2013-11-20 20:00:00,Minnesota,Timberwolves,Los Angeles,Clippers,Regular Season,1,0,10.0,4,0,4,3,1,0,0,0,1,-8,4,0,0.0,1,0,0.0,4,4,1.0,98,102,0
+202682,2013,21300182,2013-11-22 20:00:00,Minnesota,Timberwolves,Brooklyn,Nets,Regular Season,1,1,15.0,6,0,5,3,2,0,1,0,1,-4,7,3,0.429,1,0,0.0,0,0,0.0,111,81,0
+202682,2013,21300192,2013-11-23 20:00:00,Minnesota,Timberwolves,Houston,Rockets,Regular Season,0,0,8.0,0,0,2,2,0,0,0,1,1,4,2,0,0.0,1,0,0.0,0,0,0.0,112,101,0
+202682,2013,21300203,2013-11-25 19:00:00,Minnesota,Timberwolves,Indiana,Pacers,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,98,84,0
+202682,2013,21300240,2013-11-29 22:00:00,Sacramento,Kings,Los Angeles,Clippers,Regular Season,1,0,32.0,12,4,6,6,0,0,0,1,3,1,13,6,0.462,2,0,0.0,1,0,0.0,98,104,0
+202682,2013,21300251,2013-12-01 18:00:00,Sacramento,Kings,Golden State,Warriors,Regular Season,1,0,21.0,4,0,7,7,0,0,1,2,2,-3,3,1,0.333,1,0,0.0,2,2,1.0,113,115,0
+202682,2013,21300267,2013-12-03 22:00:00,Sacramento,Kings,Oklahoma City,Thunder,Regular Season,1,0,26.0,13,0,0,0,0,0,1,1,1,-3,10,5,0.5,2,0,0.0,4,3,0.75,95,97,0
+202682,2013,21300289,2013-12-06 22:00:00,Sacramento,Kings,Los Angeles,Lakers,Regular Season,1,0,25.0,9,2,9,6,3,0,0,2,2,-12,5,2,0.4,0,0,0.0,6,5,0.833,100,106,0
+202682,2013,21300297,2013-12-07 21:00:00,Sacramento,Kings,Utah,Jazz,Regular Season,0,1,26.0,8,1,4,3,1,0,1,0,4,-3,6,2,0.333,0,0,0.0,5,4,0.8,102,112,0
+202682,2013,21300309,2013-12-09 22:00:00,Sacramento,Kings,Dallas,Mavericks,Regular Season,1,1,35.0,31,0,5,4,1,0,5,2,2,22,16,12,0.75,5,3,0.6,6,4,0.667,112,97,0
+202682,2013,21300325,2013-12-11 22:00:00,Sacramento,Kings,Utah,Jazz,Regular Season,1,0,32.0,13,1,7,6,1,1,0,2,1,-13,11,6,0.545,2,0,0.0,2,1,0.5,101,122,0
+202682,2013,21300340,2013-12-13 21:00:00,Sacramento,Kings,Phoenix,Suns,Regular Season,0,0,30.0,14,1,4,3,1,0,1,1,3,19,10,4,0.4,3,2,0.667,4,4,1.0,116,107,0
+202682,2013,21300350,2013-12-15 18:00:00,Sacramento,Kings,Houston,Rockets,Regular Season,1,1,23.0,11,0,6,4,2,1,1,0,0,8,10,3,0.3,3,1,0.333,6,4,0.667,106,91,0
+202682,2013,21300364,2013-12-17 19:00:00,Sacramento,Kings,Charlotte,Bobcats,Regular Season,0,0,22.0,5,1,0,0,0,0,1,1,3,-5,4,2,0.5,1,0,0.0,1,1,1.0,95,87,0
+202682,2013,21300372,2013-12-18 19:30:00,Sacramento,Kings,Atlanta,Hawks,Regular Season,0,0,25.0,12,3,2,2,0,0,0,1,0,-12,8,3,0.375,4,2,0.5,4,4,1.0,124,107,0
+202682,2013,21300387,2013-12-20 19:30:00,Sacramento,Kings,Miami,Heat,Regular Season,0,0,27.0,7,3,2,2,0,0,3,0,2,-16,5,3,0.6,1,0,0.0,5,1,0.2,122,103,0
+202682,2013,21300395,2013-12-21 19:00:00,Sacramento,Kings,Orlando,Magic,Regular Season,0,1,11.0,1,0,3,3,0,0,0,0,1,-10,1,0,0.0,0,0,0.0,2,1,0.5,100,105,0
+202682,2013,21300417,2013-12-23 22:00:00,Sacramento,Kings,New Orleans,Pelicans,Regular Season,1,0,24.0,7,1,2,2,0,0,1,0,1,-4,3,2,0.667,0,0,0.0,3,3,1.0,100,113,0
+202682,2013,21300434,2013-12-27 22:00:00,Sacramento,Kings,Miami,Heat,Regular Season,1,1,27.0,2,0,2,2,0,0,0,1,1,14,4,1,0.25,1,0,0.0,0,0,0.0,108,103,0
+202682,2013,21300451,2013-12-29 19:00:00,Sacramento,Kings,San Antonio,Spurs,Regular Season,0,0,13.0,3,0,4,2,2,0,0,0,3,-1,3,1,0.333,0,0,0.0,2,1,0.5,112,104,0
+202682,2013,21300464,2013-12-31 19:00:00,Sacramento,Kings,Houston,Rockets,Regular Season,0,1,18.0,0,2,1,1,0,1,1,2,0,-4,1,0,0.0,0,0,0.0,0,0,0.0,106,110,0
+202682,2013,21300481,2014-01-02 22:00:00,Sacramento,Kings,Philadelphia,76ers,Regular Season,1,0,25.0,11,0,2,0,2,3,0,2,3,-11,7,4,0.571,1,0,0.0,4,3,0.75,104,113,0
+202682,2013,21300497,2014-01-04 22:00:00,Sacramento,Kings,Charlotte,Bobcats,Regular Season,1,0,17.0,5,0,2,1,1,1,2,0,2,-11,4,2,0.5,1,1,1.0,0,0,0.0,103,113,0
+202682,2013,21300519,2014-01-07 22:00:00,Sacramento,Kings,Portland,Trail Blazers,Regular Season,1,1,30.0,14,0,5,5,0,0,1,0,2,-2,7,4,0.571,1,0,0.0,10,6,0.6,123,119,0
+202682,2013,21300540,2014-01-10 22:00:00,Sacramento,Kings,Orlando,Magic,Regular Season,1,1,32.0,14,0,6,4,2,0,0,1,2,6,11,7,0.636,1,0,0.0,0,0,0.0,103,83,0
+202682,2013,21300552,2014-01-12 18:00:00,Sacramento,Kings,Cleveland,Cavaliers,Regular Season,1,1,18.0,13,0,2,1,1,0,0,2,1,22,6,4,0.667,3,2,0.667,5,3,0.6,124,80,0
+202682,2013,21300563,2014-01-14 19:00:00,Sacramento,Kings,Indiana,Pacers,Regular Season,0,0,25.0,9,2,6,2,4,1,0,1,2,-17,11,4,0.364,2,0,0.0,4,1,0.25,116,92,0
+202682,2013,21300571,2014-01-15 20:00:00,Sacramento,Kings,Minnesota,Timberwolves,Regular Season,0,1,28.0,16,2,5,3,2,0,1,1,3,-6,11,7,0.636,1,0,0.0,3,2,0.667,108,111,0
+202682,2013,21300588,2014-01-17 20:00:00,Sacramento,Kings,Memphis,Grizzlies,Regular Season,0,0,26.0,10,1,5,3,2,0,1,0,1,4,7,4,0.571,0,0,0.0,2,2,1.0,91,90,0
+202682,2013,21300603,2014-01-19 19:00:00,Sacramento,Kings,Oklahoma City,Thunder,Regular Season,0,0,30.0,5,2,3,2,1,0,2,3,3,-9,5,1,0.2,1,0,0.0,4,3,0.75,108,93,0
+202682,2013,21300618,2014-01-21 20:00:00,Sacramento,Kings,New Orleans,Pelicans,Regular Season,0,1,22.0,8,0,1,1,0,0,1,0,1,-6,5,3,0.6,1,0,0.0,3,2,0.667,97,114,0
+202682,2013,21300627,2014-01-22 20:00:00,Sacramento,Kings,Houston,Rockets,Regular Season,0,0,39.0,22,1,11,7,4,0,0,1,1,-23,15,7,0.467,6,3,0.5,8,5,0.625,119,98,0
+202682,2013,21300644,2014-01-24 22:00:00,Sacramento,Kings,Indiana,Pacers,Regular Season,1,0,34.0,7,1,11,5,6,0,1,2,5,-22,9,2,0.222,1,0,0.0,7,3,0.429,111,116,0
+202682,2013,21300661,2014-01-26 21:00:00,Sacramento,Kings,Denver,Nuggets,Regular Season,1,0,31.0,12,0,8,8,0,1,2,2,0,-1,5,3,0.6,0,0,0.0,7,6,0.857,117,125,0
+202682,2013,21300667,2014-01-27 21:00:00,Sacramento,Kings,Utah,Jazz,Regular Season,0,0,38.0,17,2,15,13,2,1,0,2,2,5,13,5,0.385,2,1,0.5,8,6,0.75,106,99,0
+202682,2013,21300684,2014-01-29 22:00:00,Sacramento,Kings,Memphis,Grizzlies,Regular Season,1,0,19.0,8,0,1,1,0,0,1,1,2,-13,7,2,0.286,1,0,0.0,4,4,1.0,89,99,0
+202682,2013,21300693,2014-01-31 20:30:00,Sacramento,Kings,Dallas,Mavericks,Regular Season,0,0,23.0,5,1,7,6,1,0,0,1,4,-8,6,1,0.167,2,0,0.0,4,3,0.75,107,103,0
+202682,2013,21300704,2014-02-01 20:30:00,Sacramento,Kings,San Antonio,Spurs,Regular Season,0,0,24.0,14,0,1,1,0,1,1,5,5,-7,5,3,0.6,1,1,1.0,8,7,0.875,95,93,0
+202682,2013,21300720,2014-02-03 22:00:00,Sacramento,Kings,Chicago,Bulls,Regular Season,1,1,24.0,5,0,9,8,1,0,1,1,2,12,4,1,0.25,0,0,0.0,4,3,0.75,99,70,0
+202682,2013,21300735,2014-02-05 22:00:00,Sacramento,Kings,Toronto,Raptors,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,109,101,0
+202682,2013,21300743,2014-02-07 19:30:00,Sacramento,Kings,Boston,Celtics,Regular Season,0,0,42.0,11,3,12,8,4,1,1,0,2,-3,11,2,0.182,3,0,0.0,7,7,1.0,99,89,0
+202682,2013,21300762,2014-02-09 18:00:00,Sacramento,Kings,Washington,Wizards,Regular Season,0,0,19.0,6,0,2,2,0,0,0,1,0,-5,2,2,1.0,0,0,0.0,2,2,1.0,93,84,0
+202682,2013,21300771,2014-02-11 19:00:00,Sacramento,Kings,Cleveland,Cavaliers,Regular Season,0,0,26.0,10,2,3,2,1,1,1,1,3,-10,10,4,0.4,2,0,0.0,2,2,1.0,109,99,0
+202682,2013,21300783,2014-02-12 19:30:00,Sacramento,Kings,New York,Knicks,Regular Season,0,1,37.0,14,0,4,3,1,0,0,2,1,15,8,5,0.625,2,0,0.0,4,4,1.0,101,106,0
+202682,2013,21300810,2014-02-19 22:00:00,Sacramento,Kings,Golden State,Warriors,Regular Season,1,0,17.0,4,0,3,3,0,0,0,1,0,-7,4,1,0.25,1,0,0.0,2,2,1.0,92,101,0
+202682,2013,21300831,2014-02-22 22:00:00,Sacramento,Kings,Boston,Celtics,Regular Season,1,1,24.0,10,1,2,2,0,0,0,0,1,-2,7,4,0.571,0,0,0.0,2,2,1.0,105,98,0
+202682,2013,21300837,2014-02-23 20:00:00,Sacramento,Kings,Denver,Nuggets,Regular Season,0,1,21.0,2,0,2,2,0,0,0,0,0,-12,4,0,0.0,2,0,0.0,4,2,0.5,95,109,0
+202682,2013,21300852,2014-02-25 22:00:00,Sacramento,Kings,Houston,Rockets,Regular Season,1,0,22.0,10,0,4,3,1,0,0,2,3,2,5,2,0.4,1,0,0.0,6,6,1.0,103,129,0
+202682,2013,21300872,2014-02-28 22:30:00,Sacramento,Kings,Los Angeles,Lakers,Regular Season,0,0,39.0,26,2,12,8,4,0,2,0,0,-3,20,10,0.5,2,0,0.0,10,6,0.6,126,122,0
+202682,2013,21300881,2014-03-01 22:00:00,Sacramento,Kings,Minnesota,Timberwolves,Regular Season,1,0,21.0,6,0,1,1,0,0,0,0,3,10,3,1,0.333,0,0,0.0,7,4,0.571,97,108,0
+202682,2013,21300897,2014-03-03 22:00:00,Sacramento,Kings,New Orleans,Pelicans,Regular Season,1,1,14.0,0,0,1,0,1,1,0,1,1,-6,3,0,0.0,0,0,0.0,0,0,0.0,96,89,0
+202682,2013,21300910,2014-03-05 20:00:00,Sacramento,Kings,Milwaukee,Bucks,Regular Season,0,1,12.0,2,1,1,1,0,0,0,0,0,9,3,1,0.333,0,0,0.0,1,0,0.0,102,116,0
+202682,2013,21300919,2014-03-07 19:00:00,Sacramento,Kings,Toronto,Raptors,Regular Season,0,0,20.0,2,1,4,3,1,0,0,2,2,5,5,1,0.2,0,0,0.0,1,0,0.0,99,87,0
+202682,2013,21300938,2014-03-09 18:00:00,Sacramento,Kings,Brooklyn,Nets,Regular Season,0,0,19.0,8,1,4,3,1,0,0,1,1,-10,5,3,0.6,1,1,1.0,2,1,0.5,104,89,0
+202682,2013,21300951,2014-03-11 19:30:00,Sacramento,Kings,Detroit,Pistons,Regular Season,0,0,21.0,10,2,5,4,1,0,0,1,1,-7,4,3,0.75,1,1,1.0,4,3,0.75,99,89,0
+202682,2013,21300959,2014-03-12 19:00:00,Sacramento,Kings,Philadelphia,76ers,Regular Season,0,1,31.0,5,1,6,6,0,0,2,2,3,9,5,1,0.2,3,1,0.333,4,2,0.5,98,115,0
+202682,2013,21300986,2014-03-15 20:00:00,Sacramento,Kings,Chicago,Bulls,Regular Season,0,0,18.0,3,0,5,4,1,0,0,1,1,-2,3,1,0.333,0,0,0.0,3,1,0.333,94,87,0
+202682,2013,21300991,2014-03-16 19:00:00,Sacramento,Kings,Minnesota,Timberwolves,Regular Season,0,0,28.0,26,0,11,10,1,0,1,3,1,11,15,8,0.533,4,2,0.5,10,8,0.8,104,102,0
+202682,2013,21301006,2014-03-18 22:00:00,Sacramento,Kings,Washington,Wizards,Regular Season,1,1,31.0,8,2,1,1,0,0,2,2,2,6,5,2,0.4,2,1,0.5,4,3,0.75,117,111,0
+202682,2013,21301030,2014-03-21 22:00:00,Sacramento,Kings,San Antonio,Spurs,Regular Season,1,0,26.0,4,2,6,5,1,0,0,0,0,-14,4,2,0.5,0,0,0.0,0,0,0.0,79,99,0
+202682,2013,21301043,2014-03-23 18:00:00,Sacramento,Kings,Milwaukee,Bucks,Regular Season,1,1,24.0,2,1,2,2,0,0,0,0,1,-16,3,0,0.0,2,0,0.0,2,2,1.0,124,107,0
+202682,2013,21301069,2014-03-26 22:00:00,Sacramento,Kings,New York,Knicks,Regular Season,1,0,30.0,6,1,5,2,3,0,2,0,1,-1,3,1,0.333,0,0,0.0,7,4,0.571,99,107,0
+202682,2013,21301083,2014-03-28 20:00:00,Sacramento,Kings,Oklahoma City,Thunder,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,94,81,0
+202682,2013,21301090,2014-03-29 20:30:00,Sacramento,Kings,Dallas,Mavericks,Regular Season,0,0,10.0,4,0,2,2,0,0,0,0,1,1,2,1,0.5,1,0,0.0,2,2,1.0,103,100,0
+202682,2013,21301108,2014-03-31 20:00:00,Sacramento,Kings,New Orleans,Pelicans,Regular Season,0,1,8.0,2,0,0,0,0,0,0,1,0,-15,2,1,0.5,0,0,0.0,0,0,0.0,97,102,0
+202682,2013,21301126,2014-04-02 22:00:00,Sacramento,Kings,Los Angeles,Lakers,Regular Season,1,1,10.0,1,0,3,3,0,1,0,1,0,4,2,0,0.0,0,0,0.0,2,1,0.5,107,102,0
+202682,2013,21301141,2014-04-04 22:30:00,Sacramento,Kings,Golden State,Warriors,Regular Season,0,0,23.0,6,0,10,8,2,0,1,3,0,-17,9,3,0.333,1,0,0.0,0,0,0.0,102,69,0
+202682,2013,21301151,2014-04-06 18:00:00,Sacramento,Kings,Dallas,Mavericks,Regular Season,1,0,13.0,5,0,4,4,0,0,0,1,2,4,3,1,0.333,1,1,1.0,2,2,1.0,91,93,0
+202682,2013,21301160,2014-04-08 22:00:00,Sacramento,Kings,Oklahoma City,Thunder,Regular Season,1,0,20.0,1,0,2,2,0,0,0,0,1,-24,0,0,0.0,0,0,0.0,2,1,0.5,92,107,0
+202682,2013,21301172,2014-04-09 22:00:00,Sacramento,Kings,Portland,Trail Blazers,Regular Season,0,0,29.0,7,2,8,4,4,0,0,1,1,5,9,2,0.222,1,0,0.0,4,3,0.75,100,99,0
+202682,2013,21301189,2014-04-12 15:30:00,Sacramento,Kings,Los Angeles,Clippers,Regular Season,0,0,4.0,2,0,1,1,0,0,0,0,1,-1,1,1,1.0,0,0,0.0,0,0,0.0,117,101,0
+202682,2013,21301202,2014-04-13 21:00:00,Sacramento,Kings,Minnesota,Timberwolves,Regular Season,1,1,39.0,13,1,4,3,1,0,1,2,1,16,9,4,0.444,2,1,0.5,7,4,0.571,106,103,0
+202682,2013,21301229,2014-04-16 22:30:00,Sacramento,Kings,Phoenix,Suns,Regular Season,1,0,30.0,7,1,3,3,0,1,1,0,1,12,8,3,0.375,2,0,0.0,2,1,0.5,99,104,0
+202682,2014,11400002,2014-10-05 19:00:00,Sacramento,Kings,Toronto,Raptors,Preseason,0,0,15.0,6,2,2,1,1,0,0,1,1,-6,5,2,0.4,1,0,0.0,2,2,1.0,99,94,0
+202682,2014,11400010,2014-10-07 22:00:00,Sacramento,Kings,Toronto,Raptors,Preseason,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,113,106,0
+202682,2014,11400039,2014-10-12 01:00:00,Sacramento,Kings,Brooklyn,Nets,Preseason,1,0,20.0,5,1,3,3,0,0,0,0,1,-4,7,2,0.286,1,0,0.0,4,1,0.25,95,97,0
+202682,2014,11400058,2014-10-15 07:30:00,Sacramento,Kings,Brooklyn,Nets,Preseason,0,0,18.0,10,1,0,0,0,0,0,2,4,-10,4,3,0.75,0,0,0.0,5,4,0.8,129,117,0
+202682,2014,11400091,2014-10-20 20:30:00,Sacramento,Kings,San Antonio,Spurs,Preseason,0,0,25.0,4,0,1,1,0,0,1,0,2,-17,6,2,0.333,1,0,0.0,0,0,0.0,106,99,0
+202682,2014,11400115,2014-10-24 22:00:00,Sacramento,Kings,Los Angeles,Lakers,Preseason,0,1,25.0,14,0,1,0,1,0,1,1,1,-9,10,5,0.5,4,2,0.5,2,2,1.0,92,93,0
+202682,2014,21400014,2014-10-29 22:00:00,Sacramento,Kings,Golden State,Warriors,Regular Season,1,0,12.0,2,0,2,1,1,0,1,0,2,-16,4,1,0.25,2,0,0.0,0,0,0.0,77,95,0
+202682,2014,21400025,2014-10-31 22:00:00,Sacramento,Kings,Portland,Trail Blazers,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,103,94,0
+202682,2014,21400039,2014-11-02 15:30:00,Sacramento,Kings,Los Angeles,Clippers,Regular Season,0,1,3.0,1,0,0,0,0,1,0,1,0,-6,0,0,0.0,0,0,0.0,2,1,0.5,92,98,0
+202682,2014,21400047,2014-11-03 21:00:00,Sacramento,Kings,Denver,Nuggets,Regular Season,0,1,10.0,5,1,4,3,1,0,1,1,1,1,4,1,0.25,1,0,0.0,4,3,0.75,105,110,0
+202682,2014,21400067,2014-11-05 22:00:00,Sacramento,Kings,Denver,Nuggets,Regular Season,1,1,5.0,0,1,0,0,0,0,0,1,2,-6,0,0,0.0,0,0,0.0,0,0,0.0,131,109,0
+202682,2014,21400079,2014-11-07 21:00:00,Sacramento,Kings,Phoenix,Suns,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,112,114,0
+202682,2014,21400092,2014-11-09 19:00:00,Sacramento,Kings,Oklahoma City,Thunder,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,101,93,0
+202682,2014,21400106,2014-11-11 20:30:00,Sacramento,Kings,Dallas,Mavericks,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,3,-4,1,0,0.0,0,0,0.0,0,0,0.0,106,98,0
+202682,2014,21400118,2014-11-13 20:00:00,Sacramento,Kings,Memphis,Grizzlies,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,111,110,0
+202682,2014,21400139,2014-11-15 22:00:00,Sacramento,Kings,San Antonio,Spurs,Regular Season,1,1,4.0,3,0,0,0,0,0,0,0,0,-8,2,1,0.5,1,0,0.0,2,1,0.5,94,91,0
+202682,2014,21400158,2014-11-18 22:00:00,Sacramento,Kings,New Orleans,Pelicans,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,100,106,0
+202682,2014,21400171,2014-11-20 22:30:00,Sacramento,Kings,Chicago,Bulls,Regular Season,1,1,22.0,10,2,2,2,0,0,0,0,0,11,9,4,0.444,0,0,0.0,4,2,0.5,103,88,0
+202682,2014,21400189,2014-11-22 20:00:00,Sacramento,Kings,Minnesota,Timberwolves,Regular Season,0,1,30.0,12,0,6,5,1,0,0,3,1,-2,7,4,0.571,2,1,0.5,4,3,0.75,101,113,0
+202682,2014,21400208,2014-11-25 20:00:00,Sacramento,Kings,New Orleans,Pelicans,Regular Season,0,1,16.0,0,0,2,2,0,0,0,0,1,-3,5,0,0.0,1,0,0.0,0,0,0.0,89,99,0
+202682,2014,21400217,2014-11-26 20:00:00,Sacramento,Kings,Houston,Rockets,Regular Season,0,0,9.0,7,0,0,0,0,0,0,2,0,-10,2,2,1.0,1,1,1.0,5,2,0.4,102,89,0
+202682,2014,21400231,2014-11-28 20:30:00,Sacramento,Kings,San Antonio,Spurs,Regular Season,0,0,17.0,9,0,4,3,1,0,0,0,2,-2,6,3,0.5,2,1,0.5,2,2,1.0,112,104,0
+202682,2014,21400244,2014-11-30 18:00:00,Sacramento,Kings,Memphis,Grizzlies,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,85,97,0
+202682,2014,21400261,2014-12-02 22:00:00,Sacramento,Kings,Toronto,Raptors,Regular Season,1,0,14.0,18,0,4,1,3,0,0,0,2,6,12,8,0.667,3,1,0.333,3,1,0.333,109,117,0
+202682,2014,21400287,2014-12-05 22:00:00,Sacramento,Kings,Indiana,Pacers,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,102,101,0
+202682,2014,21400292,2014-12-06 22:00:00,Sacramento,Kings,Orlando,Magic,Regular Season,1,0,16.0,14,0,1,1,0,0,0,1,1,6,8,6,0.75,1,1,1.0,1,1,1.0,96,105,0
+202682,2014,21400306,2014-12-08 22:00:00,Sacramento,Kings,Utah,Jazz,Regular Season,1,1,14.0,7,0,1,0,1,0,0,1,0,4,7,3,0.429,1,1,1.0,0,0,0.0,101,92,0
+202682,2014,21400315,2014-12-09 22:30:00,Sacramento,Kings,Los Angeles,Lakers,Regular Season,0,0,21.0,6,0,3,3,0,0,1,3,1,-11,4,2,0.5,1,0,0.0,6,2,0.333,98,95,0
+202682,2014,21400327,2014-12-11 22:30:00,Sacramento,Kings,Houston,Rockets,Regular Season,1,0,33.0,17,1,5,3,2,0,0,1,3,-9,12,5,0.417,4,2,0.5,6,5,0.833,109,113,0
+202682,2014,21400347,2014-12-13 22:00:00,Sacramento,Kings,Detroit,Pistons,Regular Season,1,0,23.0,8,1,6,4,2,0,2,0,0,-9,11,3,0.273,2,0,0.0,4,2,0.5,90,95,0
+202682,2014,21400368,2014-12-16 22:30:00,Sacramento,Kings,Oklahoma City,Thunder,Regular Season,1,0,17.0,8,0,1,1,0,0,1,0,0,10,5,1,0.2,2,0,0.0,6,6,1.0,92,104,0
+202682,2014,21400381,2014-12-18 22:00:00,Sacramento,Kings,Milwaukee,Bucks,Regular Season,1,0,23.0,9,0,3,3,0,0,0,2,0,2,5,2,0.4,4,2,0.5,4,3,0.75,107,108,0
+202682,2014,21400402,2014-12-21 18:00:00,Sacramento,Kings,Los Angeles,Lakers,Regular Season,1,1,15.0,5,1,2,2,0,0,1,0,0,-7,5,2,0.4,1,0,0.0,1,1,1.0,108,101,0
+202682,2014,21400415,2014-12-22 22:30:00,Sacramento,Kings,Golden State,Warriors,Regular Season,0,0,17.0,3,0,0,0,0,0,0,0,0,-18,6,1,0.167,1,0,0.0,2,1,0.5,128,108,0
+202682,2014,21400442,2014-12-26 22:00:00,Sacramento,Kings,Phoenix,Suns,Regular Season,1,0,22.0,16,0,5,4,1,0,1,1,0,-7,9,7,0.778,2,1,0.5,3,1,0.333,106,115,0
+202682,2014,21400451,2014-12-27 22:00:00,Sacramento,Kings,New York,Knicks,Regular Season,1,1,15.0,4,0,1,1,0,0,1,0,3,-6,3,1,0.333,1,0,0.0,2,2,1.0,135,129,0
+202682,2014,21400461,2014-12-29 19:30:00,Sacramento,Kings,Brooklyn,Nets,Regular Season,0,0,8.0,2,0,0,0,0,0,1,1,0,-5,3,1,0.333,1,0,0.0,0,0,0.0,107,99,0
+202682,2014,21400475,2014-12-31 13:00:00,Sacramento,Kings,Boston,Celtics,Regular Season,0,0,16.0,2,0,2,2,0,0,0,1,0,-8,5,1,0.2,2,0,0.0,0,0,0.0,106,84,0
+202682,2014,21400483,2015-01-01 20:00:00,Sacramento,Kings,Minnesota,Timberwolves,Regular Season,0,1,30.0,17,3,5,4,1,1,2,2,1,13,10,6,0.6,6,3,0.5,2,2,1.0,107,110,0
+202682,2014,21400504,2015-01-04 18:00:00,Sacramento,Kings,Detroit,Pistons,Regular Season,0,0,23.0,12,1,2,2,0,0,0,0,0,-8,9,5,0.556,2,0,0.0,4,2,0.5,114,95,0
+202682,2014,21400532,2015-01-07 22:00:00,Sacramento,Kings,Oklahoma City,Thunder,Regular Season,1,1,26.0,4,1,6,5,1,0,1,1,0,-7,4,1,0.25,2,1,0.5,2,1,0.5,104,83,0
+202682,2014,21400546,2015-01-09 22:00:00,Sacramento,Kings,Denver,Nuggets,Regular Season,1,0,12.0,0,0,4,4,0,0,0,0,0,7,0,0,0.0,0,0,0.0,2,0,0.0,108,118,0
+202682,2014,21400561,2015-01-11 21:00:00,Sacramento,Kings,Cleveland,Cavaliers,Regular Season,1,1,16.0,5,0,3,3,0,0,0,0,0,-4,6,2,0.333,3,1,0.333,0,0,0.0,103,84,0
+202682,2014,21400572,2015-01-13 22:00:00,Sacramento,Kings,Dallas,Mavericks,Regular Season,1,0,36.0,12,2,10,9,1,0,2,1,2,-6,12,5,0.417,2,0,0.0,4,2,0.5,104,108,0
+202682,2014,21400598,2015-01-16 22:00:00,Sacramento,Kings,Miami,Heat,Regular Season,1,0,33.0,10,1,6,3,3,0,1,0,0,-15,11,5,0.455,1,0,0.0,0,0,0.0,83,95,0
+202682,2014,21400607,2015-01-17 22:00:00,Sacramento,Kings,Los Angeles,Clippers,Regular Season,1,0,27.0,13,2,5,3,2,0,0,1,3,1,10,5,0.5,3,0,0.0,4,3,0.75,108,117,0
+202682,2014,21400621,2015-01-19 22:00:00,Sacramento,Kings,Portland,Trail Blazers,Regular Season,0,0,24.0,6,0,1,1,0,0,0,0,2,-12,5,2,0.4,1,0,0.0,2,2,1.0,98,94,0
+202682,2014,21400635,2015-01-21 22:00:00,Sacramento,Kings,Brooklyn,Nets,Regular Season,1,0,11.0,6,0,1,1,0,0,0,0,0,-15,4,2,0.5,0,0,0.0,3,2,0.667,100,103,0
+202682,2014,21400651,2015-01-23 22:30:00,Sacramento,Kings,Golden State,Warriors,Regular Season,0,0,22.0,9,2,5,4,1,0,0,1,1,-18,5,2,0.4,2,0,0.0,6,5,0.833,126,101,0
+202682,2014,21400684,2015-01-28 19:30:00,Sacramento,Kings,Toronto,Raptors,Regular Season,0,0,12.0,4,0,1,1,0,0,0,0,0,-5,3,1,0.333,1,0,0.0,2,2,1.0,119,102,0
+202682,2014,21400700,2015-01-30 19:30:00,Sacramento,Kings,Cleveland,Cavaliers,Regular Season,0,0,6.0,2,0,0,0,0,0,0,0,0,-1,3,1,0.333,1,0,0.0,0,0,0.0,101,90,0
+202682,2014,21400705,2015-01-31 19:00:00,Sacramento,Kings,Indiana,Pacers,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,94,99,0
+202682,2014,21400730,2015-02-03 22:00:00,Sacramento,Kings,Golden State,Warriors,Regular Season,1,0,21.0,2,0,3,3,0,0,0,1,1,-2,3,1,0.333,0,0,0.0,0,0,0.0,96,121,0
+202682,2014,21400744,2015-02-05 22:00:00,Sacramento,Kings,Dallas,Mavericks,Regular Season,1,0,19.0,7,1,1,1,0,0,0,0,0,-7,4,3,0.75,1,1,1.0,0,0,0.0,78,101,0
+202682,2014,21400764,2015-02-07 21:00:00,Sacramento,Kings,Utah,Jazz,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,102,90,0
+202682,2014,21400773,2015-02-08 21:00:00,Sacramento,Kings,Phoenix,Suns,Regular Season,1,1,28.0,4,1,6,6,0,0,1,0,1,-6,7,2,0.286,1,0,0.0,0,0,0.0,85,83,0
+202682,2014,21400785,2015-02-10 20:00:00,Sacramento,Kings,Chicago,Bulls,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,104,86,0
+202682,2014,21400792,2015-02-11 20:00:00,Sacramento,Kings,Milwaukee,Bucks,Regular Season,0,0,30.0,11,3,4,4,0,0,1,1,4,-2,7,3,0.429,4,1,0.25,6,4,0.667,111,103,0
+202682,2014,21400813,2015-02-20 22:00:00,Sacramento,Kings,Boston,Celtics,Regular Season,1,1,16.0,11,1,5,4,1,0,1,0,2,10,9,5,0.556,3,1,0.333,0,0,0.0,109,101,0
+202682,2014,21400820,2015-02-21 22:00:00,Sacramento,Kings,Los Angeles,Clippers,Regular Season,0,0,18.0,7,0,4,4,0,0,1,0,1,-26,5,1,0.2,2,0,0.0,6,5,0.833,126,99,0
+202682,2014,21400852,2015-02-25 22:00:00,Sacramento,Kings,Memphis,Grizzlies,Regular Season,1,1,15.0,8,0,1,1,0,0,0,2,1,7,5,3,0.6,3,2,0.667,0,0,0.0,102,90,0
+202682,2014,21400867,2015-02-27 22:00:00,Sacramento,Kings,San Antonio,Spurs,Regular Season,1,0,7.0,0,0,1,1,0,0,0,1,2,-4,2,0,0.0,0,0,0.0,0,0,0.0,96,107,0
+202682,2014,21400879,2015-03-01 18:00:00,Sacramento,Kings,Portland,Trail Blazers,Regular Season,1,0,22.0,18,0,1,1,0,0,0,1,0,-13,12,7,0.583,2,0,0.0,5,4,0.8,99,110,0
+202682,2014,21400669,2015-03-03 19:00:00,Sacramento,Kings,New York,Knicks,Regular Season,0,1,28.0,17,2,3,2,1,0,1,1,2,17,12,7,0.583,5,3,0.6,2,0,0.0,86,124,0
+202682,2014,21400906,2015-03-04 20:30:00,Sacramento,Kings,San Antonio,Spurs,Regular Season,0,0,18.0,11,0,1,1,0,0,0,1,2,-15,4,1,0.25,1,1,1.0,8,8,1.0,112,85,0
+202682,2014,21400913,2015-03-06 19:00:00,Sacramento,Kings,Orlando,Magic,Regular Season,0,0,13.0,6,0,2,1,1,0,0,1,0,-5,4,2,0.5,4,2,0.5,0,0,0.0,119,114,0
+202682,2014,21400925,2015-03-07 19:30:00,Sacramento,Kings,Miami,Heat,Regular Season,0,0,18.0,10,0,2,2,0,0,1,2,0,-8,7,3,0.429,3,2,0.667,2,2,1.0,114,109,0
+202682,2014,21400939,2015-03-09 19:30:00,Sacramento,Kings,Atlanta,Hawks,Regular Season,0,0,19.0,6,0,2,2,0,0,1,0,0,-10,4,2,0.5,2,0,0.0,2,2,1.0,130,105,0
+202682,2014,21400952,2015-03-11 19:00:00,Sacramento,Kings,Charlotte,Hornets,Regular Season,0,1,23.0,3,1,1,1,0,0,1,1,2,20,5,1,0.2,5,1,0.2,0,0,0.0,106,113,0
+202682,2014,21400968,2015-03-13 19:00:00,Sacramento,Kings,Philadelphia,76ers,Regular Season,0,0,30.0,15,0,3,1,2,0,1,0,0,-3,9,5,0.556,5,2,0.4,4,3,0.75,114,107,0
+202682,2014,21400977,2015-03-14 19:00:00,Sacramento,Kings,Washington,Wizards,Regular Season,0,0,33.0,15,1,1,1,0,0,0,2,0,-10,11,6,0.545,6,3,0.5,0,0,0.0,113,97,0
+202682,2014,21400998,2015-03-16 22:00:00,Sacramento,Kings,Atlanta,Hawks,Regular Season,1,0,14.0,0,1,4,4,0,0,0,1,1,-5,5,0,0.0,2,0,0.0,0,0,0.0,103,110,0
+202682,2014,21401013,2015-03-18 22:00:00,Sacramento,Kings,Los Angeles,Clippers,Regular Season,1,0,23.0,11,1,1,1,0,0,0,2,1,1,6,3,0.5,3,1,0.333,5,4,0.8,105,116,0
+202682,2014,21401029,2015-03-20 22:00:00,Sacramento,Kings,Charlotte,Hornets,Regular Season,1,1,24.0,13,2,2,2,0,0,0,0,1,4,8,4,0.5,4,1,0.25,6,4,0.667,101,91,0
+202682,2014,21401042,2015-03-22 18:00:00,Sacramento,Kings,Washington,Wizards,Regular Season,1,1,17.0,8,3,3,3,0,1,0,2,0,7,6,3,0.5,0,0,0.0,3,2,0.667,109,86,0
+202682,2014,21401058,2015-03-24 22:00:00,Sacramento,Kings,Philadelphia,76ers,Regular Season,1,1,14.0,8,0,4,2,2,0,0,0,0,8,5,2,0.4,2,1,0.5,4,3,0.75,107,106,0
+202682,2014,21401072,2015-03-25 22:00:00,Sacramento,Kings,Phoenix,Suns,Regular Season,0,1,28.0,12,1,4,4,0,0,0,2,4,9,8,4,0.5,3,1,0.333,4,3,0.75,99,108,0
+202682,2014,21401083,2015-03-27 20:00:00,Sacramento,Kings,New Orleans,Pelicans,Regular Season,0,0,16.0,3,1,0,0,0,0,0,0,0,-19,4,1,0.25,1,1,1.0,0,0,0.0,102,88,0
+202682,2014,21401105,2015-03-30 20:00:00,Sacramento,Kings,Memphis,Grizzlies,Regular Season,0,0,23.0,10,0,5,3,2,0,0,1,1,-9,14,4,0.286,3,0,0.0,4,2,0.5,97,83,0
+202682,2014,21401117,2015-04-01 20:00:00,Sacramento,Kings,Houston,Rockets,Regular Season,0,0,20.0,10,2,5,3,2,0,0,1,0,-12,11,4,0.364,2,2,1.0,2,0,0.0,115,111,0
+202682,2014,21401135,2015-04-03 22:00:00,Sacramento,Kings,New Orleans,Pelicans,Regular Season,1,0,26.0,10,0,1,1,0,0,0,0,2,-9,7,3,0.429,2,0,0.0,5,4,0.8,95,101,0
+202682,2014,21401152,2015-04-05 21:00:00,Sacramento,Kings,Utah,Jazz,Regular Season,1,0,26.0,9,0,0,0,0,0,2,1,1,-9,7,4,0.571,3,1,0.333,1,0,0.0,95,101,0
+202682,2014,21401158,2015-04-07 22:00:00,Sacramento,Kings,Minnesota,Timberwolves,Regular Season,1,1,31.0,18,1,8,5,3,1,0,1,1,8,12,8,0.667,2,0,0.0,4,2,0.5,116,111,0
+202682,2014,21401170,2015-04-08 21:00:00,Sacramento,Kings,Utah,Jazz,Regular Season,0,0,28.0,14,1,5,4,1,0,3,0,0,-2,11,5,0.455,7,3,0.429,4,1,0.25,103,91,0
+202682,2014,21401183,2015-04-10 20:00:00,Sacramento,Kings,Oklahoma City,Thunder,Regular Season,0,0,26.0,17,1,6,3,3,0,0,2,2,-19,15,5,0.333,4,0,0.0,9,7,0.778,116,103,0
+202682,2014,21401196,2015-04-12 17:00:00,Sacramento,Kings,Denver,Nuggets,Regular Season,0,0,29.0,13,2,3,2,1,0,3,1,1,-14,11,4,0.364,3,0,0.0,5,5,1.0,122,111,0
+202682,2014,21401211,2015-04-13 22:00:00,Sacramento,Kings,Los Angeles,Lakers,Regular Season,1,1,28.0,20,2,1,1,0,0,1,1,1,12,12,6,0.5,4,1,0.25,9,7,0.778,102,92,0
+202682,2014,21401230,2015-04-15 22:30:00,Sacramento,Kings,Los Angeles,Lakers,Regular Season,0,1,33.0,22,3,6,6,0,0,0,2,2,12,16,9,0.563,4,2,0.5,4,2,0.5,99,122,0
+202682,2015,11500031,2015-10-09 19:00:00,New York,Knicks,Washington,Wizards,Preseason,0,1,21.0,23,0,4,3,1,0,1,3,3,-1,11,7,0.636,3,0,0.0,9,9,1.0,104,115,0
+202682,2015,11500047,2015-10-12 19:30:00,New York,Knicks,Philadelphia,76ers,Preseason,1,1,25.0,21,1,3,3,0,0,1,6,0,8,12,8,0.667,2,2,1.0,3,3,1.0,94,88,0
+202682,2015,11500067,2015-10-16 19:30:00,New York,Knicks,Boston,Celtics,Preseason,1,1,27.0,19,0,5,4,1,1,1,1,2,8,14,7,0.5,5,3,0.6,4,2,0.5,101,95,0
+202682,2015,11500070,2015-10-17 19:00:00,New York,Knicks,Charlotte,Hornets,Preseason,0,0,19.0,14,2,5,5,0,0,0,0,0,2,10,6,0.6,4,2,0.5,1,0,0.0,97,93,0
+202682,2015,11500100,2015-10-22 19:30:00,New York,Knicks,Boston,Celtics,Preseason,0,0,19.0,14,2,2,2,0,1,1,3,3,-2,9,4,0.444,6,2,0.333,6,4,0.667,99,85,0
+202682,2015,21500012,2015-10-28 20:00:00,New York,Knicks,Milwaukee,Bucks,Regular Season,0,1,21.0,24,1,7,3,4,1,0,2,1,20,17,8,0.471,3,1,0.333,9,7,0.778,97,122,0
+202682,2015,21500019,2015-10-29 20:00:00,New York,Knicks,Atlanta,Hawks,Regular Season,1,0,18.0,9,0,2,2,0,0,1,1,0,-2,9,3,0.333,3,0,0.0,4,3,0.75,101,112,0
+202682,2015,21500034,2015-10-31 19:00:00,New York,Knicks,Washington,Wizards,Regular Season,0,1,15.0,7,1,1,1,0,0,1,1,2,2,5,2,0.4,2,1,0.5,4,2,0.5,110,117,0
+202682,2015,21500048,2015-11-02 19:30:00,New York,Knicks,San Antonio,Spurs,Regular Season,1,0,10.0,6,0,2,2,0,1,0,1,0,-12,7,3,0.429,1,0,0.0,0,0,0.0,84,94,0
+202682,2015,21500063,2015-11-04 20:00:00,New York,Knicks,Cleveland,Cavaliers,Regular Season,0,0,10.0,7,0,2,2,0,0,0,1,1,1,4,2,0.5,1,1,1.0,2,2,1.0,96,86,0
+202682,2015,21500079,2015-11-06 19:30:00,New York,Knicks,Milwaukee,Bucks,Regular Season,1,0,20.0,15,0,1,0,1,0,1,0,1,-4,11,4,0.364,3,0,0.0,8,7,0.875,92,99,0
+202682,2015,21500095,2015-11-08 15:30:00,New York,Knicks,Los Angeles,Lakers,Regular Season,1,1,15.0,6,1,1,1,0,0,0,1,0,-3,4,1,0.25,0,0,0.0,6,4,0.667,99,95,0
+202682,2015,21500109,2015-11-10 19:30:00,New York,Knicks,Toronto,Raptors,Regular Season,0,1,7.0,5,3,2,2,0,0,1,0,0,-2,3,1,0.333,2,1,0.5,2,2,1.0,109,111,0
+202682,2015,21500113,2015-11-11 19:00:00,New York,Knicks,Charlotte,Hornets,Regular Season,0,0,4.0,0,0,0,0,0,0,2,2,1,-12,1,0,0.0,0,0,0.0,0,0,0.0,95,93,0
+202682,2015,21500130,2015-11-13 19:30:00,New York,Knicks,Cleveland,Cavaliers,Regular Season,1,0,16.0,5,1,7,6,1,1,2,0,1,-7,6,1,0.167,2,0,0.0,6,3,0.5,84,90,0
+202682,2015,21500145,2015-11-15 12:00:00,New York,Knicks,New Orleans,Pelicans,Regular Season,1,1,5.0,0,2,2,1,1,0,1,0,1,2,2,0,0.0,0,0,0.0,0,0,0.0,95,87,0
+202682,2015,21500162,2015-11-17 19:30:00,New York,Knicks,Charlotte,Hornets,Regular Season,1,1,5.0,4,0,0,0,0,1,0,0,1,-15,3,1,0.333,0,0,0.0,2,2,1.0,102,94,0
+202682,2015,21500183,2015-11-20 20:00:00,New York,Knicks,Oklahoma City,Thunder,Regular Season,0,1,15.0,9,2,3,3,0,0,0,1,1,1,5,3,0.6,3,2,0.667,4,1,0.25,90,93,0
+202682,2015,21500194,2015-11-21 20:00:00,New York,Knicks,Houston,Rockets,Regular Season,0,1,10.0,6,0,4,3,1,0,0,0,1,-5,5,1,0.2,2,0,0.0,4,4,1.0,102,107,0
+202682,2015,21500204,2015-11-23 19:30:00,New York,Knicks,Miami,Heat,Regular Season,0,0,4.0,0,0,1,1,0,0,0,0,0,-9,0,0,0.0,0,0,0.0,0,0,0.0,95,78,0
+202682,2015,21500216,2015-11-25 19:00:00,New York,Knicks,Orlando,Magic,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,100,91,0
+202682,2015,21500230,2015-11-27 19:30:00,New York,Knicks,Miami,Heat,Regular Season,1,0,17.0,9,0,2,2,0,0,0,1,1,-6,6,3,0.5,3,1,0.333,2,2,1.0,78,97,0
+202682,2015,21500252,2015-11-29 19:30:00,New York,Knicks,Houston,Rockets,Regular Season,1,0,15.0,12,1,4,4,0,0,0,1,2,2,5,4,0.8,1,1,1.0,3,3,1.0,111,116,0
+202682,2015,21500271,2015-12-02 19:30:00,New York,Knicks,Philadelphia,76ers,Regular Season,1,1,18.0,8,1,2,1,1,0,0,0,1,5,7,3,0.429,2,0,0.0,4,2,0.5,99,87,0
+202682,2015,21500283,2015-12-04 19:00:00,New York,Knicks,Brooklyn,Nets,Regular Season,1,1,16.0,8,0,0,0,0,0,1,0,1,3,7,3,0.429,3,0,0.0,2,2,1.0,108,91,0
+202682,2015,21500295,2015-12-05 20:30:00,New York,Knicks,Milwaukee,Bucks,Regular Season,0,0,12.0,7,0,3,2,1,0,0,0,1,11,6,3,0.5,2,1,0.5,0,0,0.0,106,91,0
+202682,2015,21500307,2015-12-07 19:30:00,New York,Knicks,Dallas,Mavericks,Regular Season,1,0,10.0,4,2,2,2,0,0,0,0,1,-3,4,2,0.5,1,0,0.0,0,0,0.0,97,104,0
+202682,2015,21500327,2015-12-09 21:00:00,New York,Knicks,Utah,Jazz,Regular Season,0,0,19.0,7,1,2,2,0,0,0,0,3,-5,8,3,0.375,2,1,0.5,0,0,0.0,106,85,0
+202682,2015,21500332,2015-12-10 22:30:00,New York,Knicks,Sacramento,Kings,Regular Season,0,0,6.0,0,0,1,1,0,0,0,0,0,-6,2,0,0.0,1,0,0.0,0,0,0.0,99,97,0
+202682,2015,21500352,2015-12-12 22:00:00,New York,Knicks,Portland,Trail Blazers,Regular Season,0,1,13.0,10,4,4,4,0,0,0,0,1,19,6,3,0.5,4,3,0.75,2,1,0.5,110,112,0
+202682,2015,21500375,2015-12-16 19:30:00,New York,Knicks,Minnesota,Timberwolves,Regular Season,1,1,11.0,3,1,1,1,0,0,0,0,0,1,4,1,0.25,1,0,0.0,2,1,0.5,107,102,0
+202682,2015,21500388,2015-12-18 19:00:00,New York,Knicks,Philadelphia,76ers,Regular Season,0,1,22.0,17,0,3,3,0,0,1,1,4,-2,11,7,0.636,3,1,0.333,4,2,0.5,97,107,0
+202682,2015,21500400,2015-12-19 19:30:00,New York,Knicks,Chicago,Bulls,Regular Season,1,1,16.0,9,0,6,4,2,0,0,1,0,2,6,2,0.333,1,0,0.0,7,5,0.714,107,91,0
+202682,2015,21500412,2015-12-21 19:30:00,New York,Knicks,Orlando,Magic,Regular Season,1,0,10.0,5,0,2,2,0,0,0,0,2,3,5,2,0.4,2,0,0.0,2,1,0.5,99,107,0
+202682,2015,21500424,2015-12-23 19:00:00,New York,Knicks,Cleveland,Cavaliers,Regular Season,0,0,20.0,11,1,3,3,0,2,0,2,1,1,6,2,0.333,2,0,0.0,7,7,1.0,91,84,0
+202682,2015,21500442,2015-12-26 19:30:00,New York,Knicks,Atlanta,Hawks,Regular Season,0,0,21.0,12,0,5,4,1,0,0,0,1,-13,8,5,0.625,2,1,0.5,2,1,0.5,117,98,0
+202682,2015,21500454,2015-12-27 19:00:00,New York,Knicks,Boston,Celtics,Regular Season,0,0,23.0,10,1,4,3,1,0,1,1,3,-5,8,4,0.5,2,0,0.0,3,2,0.667,100,91,0
+202682,2015,21500469,2015-12-29 19:30:00,New York,Knicks,Detroit,Pistons,Regular Season,1,1,18.0,18,1,4,4,0,0,0,0,0,9,9,5,0.556,2,1,0.5,9,7,0.778,108,96,0
+202682,2015,21500493,2016-01-01 20:00:00,New York,Knicks,Chicago,Bulls,Regular Season,0,0,16.0,6,2,1,1,0,0,0,1,0,-17,4,1,0.25,2,0,0.0,6,4,0.667,108,81,0
+202682,2015,21500506,2016-01-03 15:30:00,New York,Knicks,Atlanta,Hawks,Regular Season,1,1,20.0,6,3,5,5,0,0,0,0,2,12,7,3,0.429,2,0,0.0,0,0,0.0,111,97,0
+202682,2015,21500521,2016-01-05 20:00:00,New York,Knicks,Atlanta,Hawks,Regular Season,0,1,15.0,15,1,4,3,1,0,0,0,0,-2,6,3,0.5,3,1,0.333,8,8,1.0,101,107,0
+202682,2015,21500525,2016-01-06 19:00:00,New York,Knicks,Miami,Heat,Regular Season,0,1,17.0,13,0,8,8,0,0,1,1,1,-7,8,5,0.625,2,1,0.5,2,2,1.0,90,98,0
+202682,2015,21500546,2016-01-08 20:30:00,New York,Knicks,San Antonio,Spurs,Regular Season,0,0,10.0,0,0,3,3,0,0,0,1,0,-8,3,0,0.0,2,0,0.0,0,0,0.0,100,99,0
+202682,2015,21500562,2016-01-10 19:30:00,New York,Knicks,Milwaukee,Bucks,Regular Season,1,1,24.0,8,1,6,6,0,0,0,1,0,0,9,4,0.444,1,0,0.0,0,0,0.0,100,88,0
+202682,2015,21500571,2016-01-12 19:30:00,New York,Knicks,Boston,Celtics,Regular Season,1,1,28.0,15,0,10,9,1,0,0,2,0,7,11,5,0.455,2,0,0.0,5,5,1.0,120,114,0
+202682,2015,21500579,2016-01-13 19:30:00,New York,Knicks,Brooklyn,Nets,Regular Season,0,0,31.0,31,0,7,6,1,0,2,3,0,8,17,11,0.647,3,0,0.0,11,9,0.818,110,104,0
+202682,2015,21500607,2016-01-16 20:00:00,New York,Knicks,Memphis,Grizzlies,Regular Season,0,0,26.0,13,1,4,3,1,0,2,0,1,-1,9,4,0.444,2,0,0.0,7,5,0.714,103,95,0
+202682,2015,21500615,2016-01-18 13:00:00,New York,Knicks,Philadelphia,76ers,Regular Season,1,1,14.0,7,1,2,2,0,0,0,1,1,-6,4,2,0.5,1,0,0.0,3,3,1.0,119,113,0
+202682,2015,21500632,2016-01-20 19:30:00,New York,Knicks,Utah,Jazz,Regular Season,1,1,28.0,18,1,6,4,2,0,0,1,0,10,13,6,0.462,2,1,0.5,6,5,0.833,118,111,0
+202682,2015,21500648,2016-01-22 19:30:00,New York,Knicks,Los Angeles,Clippers,Regular Season,1,0,28.0,9,0,7,6,1,0,1,2,3,-23,9,4,0.444,3,0,0.0,1,1,1.0,88,116,0
+202682,2015,21500655,2016-01-23 19:00:00,New York,Knicks,Charlotte,Hornets,Regular Season,0,0,34.0,19,4,14,10,4,0,1,1,2,-8,16,5,0.313,5,1,0.2,14,8,0.571,97,84,0
+202682,2015,21500679,2016-01-26 19:30:00,New York,Knicks,Oklahoma City,Thunder,Regular Season,1,0,36.0,19,4,10,10,0,0,0,0,1,-1,15,7,0.467,4,2,0.5,4,3,0.75,122,128,0
+202682,2015,21500694,2016-01-28 20:00:00,New York,Knicks,Toronto,Raptors,Regular Season,0,0,27.0,6,2,5,4,1,0,1,0,0,-14,12,3,0.25,3,0,0.0,0,0,0.0,103,93,0
+202682,2015,21500700,2016-01-29 19:30:00,New York,Knicks,Phoenix,Suns,Regular Season,1,1,18.0,10,0,8,6,2,0,0,1,0,-9,6,2,0.333,1,0,0.0,6,6,1.0,102,84,0
+202682,2015,21500718,2016-01-31 19:30:00,New York,Knicks,Golden State,Warriors,Regular Season,1,0,23.0,11,1,6,3,3,0,0,0,2,-14,12,4,0.333,3,1,0.333,2,2,1.0,95,116,0
+202682,2015,21500730,2016-02-02 19:30:00,New York,Knicks,Boston,Celtics,Regular Season,1,0,11.0,6,1,2,1,1,0,0,0,1,-2,7,3,0.429,2,0,0.0,0,0,0.0,89,97,0
+202682,2015,21500746,2016-02-04 19:00:00,New York,Knicks,Detroit,Pistons,Regular Season,0,0,5.0,3,0,1,1,0,0,0,0,0,-6,3,1,0.333,1,0,0.0,2,1,0.5,111,105,0
+202682,2015,21500756,2016-02-05 19:30:00,New York,Knicks,Memphis,Grizzlies,Regular Season,1,0,15.0,2,0,2,1,1,0,0,0,1,-1,4,1,0.25,0,0,0.0,0,0,0.0,85,91,0
+202682,2015,21500770,2016-02-07 13:00:00,New York,Knicks,Denver,Nuggets,Regular Season,1,0,13.0,6,0,3,3,0,0,0,1,0,-1,4,1,0.25,2,0,0.0,6,4,0.667,96,101,0
+202682,2015,21500785,2016-02-09 20:00:00,New York,Knicks,Washington,Wizards,Regular Season,1,0,9.0,6,0,2,2,0,0,0,0,0,-1,2,2,1.0,0,0,0.0,2,2,1.0,108,111,0
+202682,2015,21500807,2016-02-19 19:30:00,New York,Knicks,Brooklyn,Nets,Regular Season,0,0,11.0,6,1,2,2,0,0,0,1,0,-8,5,2,0.4,3,2,0.667,0,0,0.0,109,98,0
+202682,2015,21500821,2016-02-20 20:00:00,New York,Knicks,Minnesota,Timberwolves,Regular Season,0,1,11.0,4,0,2,2,0,0,0,2,0,-8,2,1,0.5,0,0,0.0,3,2,0.667,95,103,0
+202682,2015,21500835,2016-02-22 19:30:00,New York,Knicks,Toronto,Raptors,Regular Season,1,0,14.0,6,0,0,0,0,0,1,1,0,-16,3,2,0.667,1,0,0.0,4,2,0.5,95,122,0
+202682,2015,21500846,2016-02-24 19:00:00,New York,Knicks,Indiana,Pacers,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,108,105,0
+202682,2015,21500863,2016-02-26 19:30:00,New York,Knicks,Orlando,Magic,Regular Season,1,1,20.0,11,0,3,3,0,0,0,1,1,5,4,2,0.5,2,0,0.0,8,7,0.875,108,95,0
+202682,2015,21500883,2016-02-28 19:30:00,New York,Knicks,Miami,Heat,Regular Season,1,0,11.0,5,0,1,1,0,1,0,1,0,-10,5,2,0.4,0,0,0.0,1,1,1.0,81,98,0
+202682,2015,21500893,2016-03-01 19:30:00,New York,Knicks,Portland,Trail Blazers,Regular Season,1,0,17.0,5,1,5,3,2,0,1,0,0,-17,7,2,0.286,0,0,0.0,3,1,0.333,85,104,0
+202682,2015,21500915,2016-03-04 19:30:00,New York,Knicks,Boston,Celtics,Regular Season,0,0,4.0,3,1,1,1,0,0,0,0,1,-8,3,1,0.333,1,1,1.0,0,0,0.0,105,104,0
+202682,2015,21500923,2016-03-05 19:00:00,New York,Knicks,Detroit,Pistons,Regular Season,1,1,19.0,10,0,3,3,0,0,1,0,3,-5,8,3,0.375,2,0,0.0,5,4,0.8,102,89,0
+202682,2015,21500946,2016-03-08 21:00:00,New York,Knicks,Denver,Nuggets,Regular Season,0,0,21.0,15,3,4,3,1,0,0,1,0,-9,10,5,0.5,4,3,0.75,2,2,1.0,110,94,0
+202682,2015,21500956,2016-03-09 21:00:00,New York,Knicks,Phoenix,Suns,Regular Season,0,1,17.0,18,2,1,1,0,0,1,1,0,24,10,8,0.8,3,2,0.667,0,0,0.0,97,128,0
+202682,2015,21500972,2016-03-11 22:30:00,New York,Knicks,Los Angeles,Clippers,Regular Season,0,0,15.0,13,1,6,4,2,0,0,0,0,-4,9,4,0.444,1,0,0.0,7,5,0.714,101,94,0
+202682,2015,21500987,2016-03-13 21:30:00,New York,Knicks,Los Angeles,Lakers,Regular Season,0,1,31.0,8,1,9,9,0,1,2,0,2,9,10,3,0.3,1,0,0.0,6,2,0.333,87,90,0
+202682,2015,21501011,2016-03-16 22:30:00,New York,Knicks,Golden State,Warriors,Regular Season,0,0,13.0,6,2,2,2,0,0,0,0,0,-23,3,2,0.667,1,1,1.0,2,1,0.5,121,85,0
+202682,2015,21501032,2016-03-19 19:00:00,New York,Knicks,Washington,Wizards,Regular Season,0,0,17.0,5,3,2,2,0,0,0,2,1,4,7,2,0.286,3,1,0.333,0,0,0.0,99,89,0
+202682,2015,21501042,2016-03-20 19:30:00,New York,Knicks,Sacramento,Kings,Regular Season,1,0,21.0,11,2,3,3,0,1,0,1,2,-15,9,4,0.444,1,0,0.0,3,3,1.0,80,88,0
+202682,2015,21501060,2016-03-23 20:00:00,New York,Knicks,Chicago,Bulls,Regular Season,0,1,14.0,10,1,1,0,1,0,0,0,1,0,7,5,0.714,1,0,0.0,0,0,0.0,107,115,0
+202682,2015,21501070,2016-03-24 19:30:00,New York,Knicks,Chicago,Bulls,Regular Season,1,1,16.0,13,0,3,3,0,0,0,2,1,-1,8,5,0.625,3,1,0.333,2,2,1.0,106,94,0
+202682,2015,21501086,2016-03-26 19:30:00,New York,Knicks,Cleveland,Cavaliers,Regular Season,1,0,24.0,11,2,8,7,1,0,1,1,2,-5,7,2,0.286,1,0,0.0,9,7,0.778,93,107,0
+202682,2015,21501102,2016-03-28 20:00:00,New York,Knicks,New Orleans,Pelicans,Regular Season,0,0,15.0,4,0,2,2,0,0,0,2,0,1,4,2,0.5,0,0,0.0,0,0,0.0,99,91,0
+202682,2015,21501117,2016-03-30 20:30:00,New York,Knicks,Dallas,Mavericks,Regular Season,0,0,34.0,15,2,8,5,3,0,0,4,1,12,8,5,0.625,0,0,0.0,6,5,0.833,91,89,0
+202682,2015,21501130,2016-04-01 19:30:00,New York,Knicks,Brooklyn,Nets,Regular Season,1,1,23.0,16,1,1,1,0,0,0,0,2,-2,8,5,0.625,4,4,1.0,2,2,1.0,105,91,0
+202682,2015,21501151,2016-04-03 19:30:00,New York,Knicks,Indiana,Pacers,Regular Season,1,0,27.0,12,2,6,6,0,0,0,1,0,-9,13,5,0.385,3,1,0.333,2,1,0.5,87,92,0
+202682,2015,21501169,2016-04-06 19:30:00,New York,Knicks,Charlotte,Hornets,Regular Season,1,0,32.0,17,1,10,7,3,0,0,2,1,-7,15,7,0.467,4,1,0.25,2,2,1.0,97,111,0
+202682,2015,21501180,2016-04-08 19:00:00,New York,Knicks,Philadelphia,76ers,Regular Season,0,1,25.0,11,1,9,9,0,0,1,1,1,1,10,5,0.5,1,0,0.0,1,1,1.0,102,109,0
+202682,2015,21501202,2016-04-10 19:30:00,New York,Knicks,Toronto,Raptors,Regular Season,1,0,22.0,8,0,4,3,1,0,0,1,0,1,8,3,0.375,1,0,0.0,2,2,1.0,89,93,0
+202682,2015,21501212,2016-04-12 19:00:00,New York,Knicks,Indiana,Pacers,Regular Season,0,0,31.0,21,2,1,1,0,0,1,3,2,-2,11,8,0.727,7,4,0.571,1,1,1.0,102,90,0
+202682,2016,11600012,2016-10-04 19:00:00,Miami,Heat,Washington,Wizards,Preseason,0,1,23.0,7,2,3,2,1,0,1,2,2,-4,8,2,0.25,3,1,0.333,2,2,1.0,95,106,0
+202682,2016,11600032,2016-10-08 20:30:00,Miami,Heat,Minnesota,Timberwolves,Preseason,1,0,28.0,14,3,6,6,0,1,2,0,2,-2,10,5,0.5,5,2,0.4,3,2,0.667,100,109,0
+202682,2016,11600045,2016-10-11 19:30:00,Miami,Heat,Brooklyn,Nets,Preseason,1,1,24.0,10,1,6,6,0,2,0,0,0,37,8,4,0.5,5,2,0.4,0,0,0.0,121,100,0
+202682,2016,11600065,2016-10-14 20:30:00,Miami,Heat,San Antonio,Spurs,Preseason,0,1,22.0,10,0,3,3,0,0,0,1,0,9,8,3,0.375,6,1,0.167,3,3,1.0,100,108,0
+202682,2016,11600071,2016-10-15 19:30:00,Miami,Heat,Minnesota,Timberwolves,Preseason,1,0,21.0,6,2,3,3,0,0,0,1,0,-8,8,3,0.375,2,0,0.0,0,0,0.0,96,101,0
+202682,2016,11600084,2016-10-18 19:30:00,Miami,Heat,Orlando,Magic,Preseason,1,1,26.0,8,1,7,6,1,0,1,0,3,1,7,3,0.429,2,1,0.5,1,1,1.0,107,77,0
+202682,2016,11600092,2016-10-20 19:00:00,Miami,Heat,Charlotte,Hornets,Preseason,0,0,25.0,13,4,4,4,0,0,0,0,3,-3,9,4,0.444,7,3,0.429,4,2,0.5,96,88,0
+202682,2016,11600100,2016-10-21 19:30:00,Miami,Heat,Philadelphia,76ers,Preseason,1,0,24.0,8,0,5,5,0,1,1,1,1,-3,7,3,0.429,3,1,0.333,2,1,0.5,110,113,0
+202682,2016,21600004,2016-10-26 19:00:00,Miami,Heat,Orlando,Magic,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,96,108,0
+202682,2016,21600022,2016-10-28 20:00:00,Miami,Heat,Charlotte,Hornets,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,91,97,0
+202682,2016,21600037,2016-10-30 18:00:00,Miami,Heat,San Antonio,Spurs,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,99,106,0
+202682,2016,21600049,2016-11-01 19:30:00,Miami,Heat,Sacramento,Kings,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,108,96,0
+202682,2016,21600071,2016-11-04 19:30:00,Miami,Heat,Toronto,Raptors,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,96,87,0
+202682,2016,21600097,2016-11-07 20:00:00,Miami,Heat,Oklahoma City,Thunder,Regular Season,0,0,3.0,0,0,1,1,0,0,0,0,0,4,0,0,0.0,0,0,0.0,0,0,0.0,97,85,0
+202682,2016,21600118,2016-11-10 20:00:00,Miami,Heat,Chicago,Bulls,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,95,98,0
+202682,2016,21600136,2016-11-12 20:00:00,Miami,Heat,Utah,Jazz,Regular Season,1,0,20.0,11,1,4,3,1,1,0,0,0,-4,8,5,0.625,2,1,0.5,2,0,0.0,91,102,0
+202682,2016,21600150,2016-11-14 20:30:00,Miami,Heat,San Antonio,Spurs,Regular Season,0,0,15.0,5,0,1,1,0,0,1,1,1,-3,6,2,0.333,2,0,0.0,2,1,0.5,94,90,0
+202682,2016,21600154,2016-11-15 19:30:00,Miami,Heat,Atlanta,Hawks,Regular Season,1,0,18.0,6,1,1,1,0,0,1,0,3,-15,8,3,0.375,2,0,0.0,0,0,0.0,90,93,0
+202682,2016,21600170,2016-11-17 19:30:00,Miami,Heat,Milwaukee,Bucks,Regular Season,1,1,14.0,2,1,2,0,2,0,0,0,1,-3,5,1,0.2,1,0,0.0,0,0,0.0,96,73,0
+202682,2016,21600186,2016-11-19 19:00:00,Miami,Heat,Washington,Wizards,Regular Season,0,1,16.0,12,0,5,3,2,0,0,1,1,11,9,5,0.556,4,2,0.5,0,0,0.0,111,114,0
+202682,2016,21600199,2016-11-21 19:00:00,Miami,Heat,Philadelphia,76ers,Regular Season,0,0,18.0,7,0,1,0,1,0,0,0,0,4,6,2,0.333,2,1,0.5,4,2,0.5,101,94,0
+202682,2016,21600218,2016-11-23 19:30:00,Miami,Heat,Detroit,Pistons,Regular Season,0,0,12.0,5,0,2,1,1,0,0,0,1,-12,5,2,0.4,2,0,0.0,2,1,0.5,107,84,0
+202682,2016,21600233,2016-11-25 20:00:00,Miami,Heat,Memphis,Grizzlies,Regular Season,0,1,13.0,0,1,2,2,0,0,1,0,0,12,5,0,0.0,2,0,0.0,0,0,0.0,81,90,0
+202682,2016,21600243,2016-11-26 20:00:00,Miami,Heat,Memphis,Grizzlies,Regular Season,1,0,15.0,13,0,2,1,1,1,0,0,1,0,9,5,0.556,5,1,0.2,2,2,1.0,107,110,0
+202682,2016,21600256,2016-11-28 19:30:00,Miami,Heat,Boston,Celtics,Regular Season,1,0,21.0,9,0,4,4,0,0,0,0,1,-9,9,3,0.333,3,0,0.0,6,3,0.5,104,112,0
+202682,2016,21600273,2016-11-30 21:00:00,Miami,Heat,Denver,Nuggets,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,98,106,0
+202682,2016,21600280,2016-12-01 21:00:00,Miami,Heat,Utah,Jazz,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,110,111,0
+202682,2016,21600298,2016-12-03 22:00:00,Miami,Heat,Portland,Trail Blazers,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,99,92,0
+202682,2016,21600316,2016-12-06 19:30:00,Miami,Heat,New York,Knicks,Regular Season,1,0,15.0,5,0,3,3,0,0,1,1,4,2,5,1,0.2,2,0,0.0,4,3,0.75,103,114,0
+202682,2016,21600324,2016-12-07 19:30:00,Miami,Heat,Atlanta,Hawks,Regular Season,0,0,20.0,3,0,5,5,0,2,0,3,2,14,5,1,0.2,3,0,0.0,2,1,0.5,103,95,0
+202682,2016,21600338,2016-12-09 19:30:00,Miami,Heat,Cleveland,Cavaliers,Regular Season,0,0,31.0,17,1,2,1,1,0,2,0,2,-18,11,6,0.545,2,0,0.0,7,5,0.714,114,84,0
+202682,2016,21600350,2016-12-10 20:00:00,Miami,Heat,Chicago,Bulls,Regular Season,0,0,25.0,10,1,8,5,3,0,0,1,0,1,9,3,0.333,1,0,0.0,6,4,0.667,105,100,0
+202682,2016,21600363,2016-12-12 19:30:00,Miami,Heat,Washington,Wizards,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,112,101,0
+202682,2016,21600377,2016-12-14 19:00:00,Miami,Heat,Indiana,Pacers,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,95,89,0
+202682,2016,21600397,2016-12-16 20:00:00,Miami,Heat,Los Angeles,Clippers,Regular Season,1,0,2.0,3,0,1,0,1,0,0,0,1,-1,2,1,0.5,0,0,0.0,1,1,1.0,98,102,0
+202682,2016,21600410,2016-12-18 18:00:00,Miami,Heat,Boston,Celtics,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,95,105,0
+202682,2016,21600422,2016-12-20 19:30:00,Miami,Heat,Orlando,Magic,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,130,136,0
+202682,2016,21600439,2016-12-22 20:00:00,Miami,Heat,Los Angeles,Lakers,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,115,107,0
+202682,2016,21600449,2016-12-23 20:00:00,Miami,Heat,New Orleans,Pelicans,Regular Season,0,0,8.0,5,1,5,5,0,0,0,1,0,2,3,2,0.667,2,1,0.5,0,0,0.0,91,87,0
+202682,2016,21600473,2016-12-27 19:30:00,Miami,Heat,Oklahoma City,Thunder,Regular Season,1,0,15.0,9,0,2,2,0,0,1,1,0,-2,4,4,1.0,1,1,1.0,0,0,0.0,94,106,0
+202682,2016,21600486,2016-12-29 19:00:00,Miami,Heat,Charlotte,Hornets,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,91,82,0
+202682,2016,21600494,2016-12-30 19:30:00,Miami,Heat,Boston,Celtics,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,117,114,0
+202682,2016,21600509,2017-01-01 18:00:00,Miami,Heat,Detroit,Pistons,Regular Season,1,0,12.0,10,2,6,6,0,0,0,0,1,-2,6,4,0.667,2,1,0.5,2,1,0.5,98,107,0
+202682,2016,21600527,2017-01-03 21:00:00,Miami,Heat,Phoenix,Suns,Regular Season,0,0,24.0,3,1,4,2,2,0,1,0,3,0,7,0,0.0,1,0,0.0,4,3,0.75,99,90,0
+202682,2016,21600535,2017-01-04 22:30:00,Miami,Heat,Sacramento,Kings,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,102,107,0
+202682,2016,21600549,2017-01-06 22:30:00,Miami,Heat,Los Angeles,Lakers,Regular Season,0,0,15.0,6,2,6,5,1,1,0,0,3,7,7,1,0.143,3,0,0.0,6,4,0.667,127,100,0
+202682,2016,21600561,2017-01-08 15:30:00,Miami,Heat,Los Angeles,Clippers,Regular Season,0,0,21.0,2,2,3,3,0,0,1,2,4,-13,5,1,0.2,1,0,0.0,0,0,0.0,98,86,0
+202682,2016,21600578,2017-01-10 22:30:00,Miami,Heat,Golden State,Warriors,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,107,95,0
+202682,2016,21600594,2017-01-13 20:00:00,Miami,Heat,Milwaukee,Bucks,Regular Season,0,0,6.0,3,0,2,2,0,0,0,1,2,-3,1,1,1.0,1,1,1.0,0,0,0.0,116,108,0
+202682,2016,21600623,2017-01-17 19:30:00,Miami,Heat,Houston,Rockets,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,109,103,0
+202682,2016,21600637,2017-01-19 19:30:00,Miami,Heat,Dallas,Mavericks,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,99,95,0
+202682,2016,21600655,2017-01-21 19:30:00,Miami,Heat,Milwaukee,Bucks,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,109,97,0
+202682,2016,21600668,2017-01-23 19:30:00,Miami,Heat,Golden State,Warriors,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,105,102,0
+202682,2016,21600682,2017-01-25 19:30:00,Miami,Heat,Brooklyn,Nets,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,106,109,0
+202682,2016,21600700,2017-01-27 20:00:00,Miami,Heat,Chicago,Bulls,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,88,100,0
+202682,2016,21600705,2017-01-28 19:30:00,Miami,Heat,Detroit,Pistons,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,116,103,0
+202682,2016,21600719,2017-01-30 19:30:00,Miami,Heat,Brooklyn,Nets,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,104,96,0
+202682,2016,21600734,2017-02-01 19:30:00,Miami,Heat,Atlanta,Hawks,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,116,93,0
+202682,2016,21600758,2017-02-04 19:30:00,Miami,Heat,Philadelphia,76ers,Regular Season,1,1,7.0,2,0,1,1,0,0,0,2,2,-6,2,1,0.5,1,0,0.0,0,0,0.0,125,102,0
+202682,2016,21600796,2017-02-09 20:00:00,Cleveland,Cavaliers,Oklahoma City,Thunder,Regular Season,0,0,21.0,12,1,0,0,0,0,0,1,3,2,3,3,1.0,0,0,0.0,8,6,0.75,118,109,0
+202682,2016,21600811,2017-02-11 19:30:00,Cleveland,Cavaliers,Denver,Nuggets,Regular Season,1,1,20.0,7,0,1,1,0,0,0,1,0,-1,3,2,0.667,2,1,0.5,2,2,1.0,125,109,0
+202682,2016,21600832,2017-02-14 20:00:00,Cleveland,Cavaliers,Minnesota,Timberwolves,Regular Season,0,1,22.0,13,0,6,6,0,0,1,0,3,15,7,5,0.714,1,0,0.0,5,3,0.6,108,116,0
+202682,2016,21600835,2017-02-15 19:00:00,Cleveland,Cavaliers,Indiana,Pacers,Regular Season,1,1,26.0,7,2,5,5,0,0,0,0,0,14,7,2,0.286,5,2,0.4,2,1,0.5,113,104,0
+202682,2016,21600853,2017-02-23 20:00:00,Cleveland,Cavaliers,New York,Knicks,Regular Season,1,1,26.0,10,2,1,1,0,0,1,0,1,15,8,4,0.5,5,2,0.4,0,0,0.0,119,104,0
+202682,2016,21600871,2017-02-25 20:30:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,1,0,22.0,8,2,4,4,0,0,0,0,0,-21,7,3,0.429,2,0,0.0,4,2,0.5,99,117,0
+202682,2016,21600884,2017-02-27 19:00:00,Cleveland,Cavaliers,Milwaukee,Bucks,Regular Season,1,1,27.0,14,0,7,6,1,0,0,2,2,4,7,5,0.714,4,2,0.5,2,2,1.0,102,95,0
+202682,2016,21600901,2017-03-01 20:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,0,0,31.0,13,0,3,3,0,1,1,2,2,-2,10,5,0.5,5,2,0.4,2,1,0.5,103,99,0
+202682,2016,21600913,2017-03-03 19:00:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,0,1,18.0,9,1,1,1,0,1,1,1,1,-1,5,3,0.6,4,3,0.75,0,0,0.0,130,135,0
+202682,2016,21600921,2017-03-04 20:00:00,Cleveland,Cavaliers,Miami,Heat,Regular Season,0,0,28.0,10,0,6,5,1,0,0,3,2,-13,5,2,0.4,2,1,0.5,6,5,0.833,120,92,0
+202682,2016,21600936,2017-03-06 19:00:00,Cleveland,Cavaliers,Miami,Heat,Regular Season,1,0,19.0,3,1,4,3,1,0,1,1,1,-16,3,1,0.333,2,1,0.5,0,0,0.0,98,106,0
+202682,2016,21600960,2017-03-09 19:30:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,0,0,8.0,2,1,1,1,0,0,0,0,0,-20,4,1,0.25,3,0,0.0,0,0,0.0,106,101,0
+202682,2016,21600977,2017-03-11 19:00:00,Cleveland,Cavaliers,Orlando,Magic,Regular Season,0,1,16.0,5,0,4,4,0,0,0,0,2,3,4,2,0.5,2,0,0.0,2,1,0.5,104,116,0
+202682,2016,21600989,2017-03-12 21:00:00,Cleveland,Cavaliers,Houston,Rockets,Regular Season,0,0,10.0,5,0,1,1,0,0,0,0,2,2,2,2,1.0,1,1,1.0,0,0,0.0,117,112,0
+202682,2016,21600999,2017-03-14 19:00:00,Cleveland,Cavaliers,Detroit,Pistons,Regular Season,1,1,21.0,13,1,0,0,0,0,0,0,2,13,8,4,0.5,5,3,0.6,4,2,0.5,128,96,0
+202682,2016,21601014,2017-03-16 19:00:00,Cleveland,Cavaliers,Utah,Jazz,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,91,83,0
+202682,2016,21601031,2017-03-18 20:30:00,Cleveland,Cavaliers,Los Angeles,Clippers,Regular Season,0,0,23.0,2,0,4,4,0,0,0,1,3,-11,5,1,0.2,2,0,0.0,0,0,0.0,108,78,0
+202682,2016,21601043,2017-03-19 21:30:00,Cleveland,Cavaliers,Los Angeles,Lakers,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,120,125,0
+202682,2016,21601064,2017-03-22 21:00:00,Cleveland,Cavaliers,Denver,Nuggets,Regular Season,0,0,6.0,2,0,0,0,0,0,0,0,0,6,2,1,0.5,1,0,0.0,0,0,0.0,126,113,0
+202682,2016,21601073,2017-03-24 19:00:00,Cleveland,Cavaliers,Charlotte,Hornets,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,105,112,0
+202682,2016,21601083,2017-03-25 19:30:00,Cleveland,Cavaliers,Washington,Wizards,Regular Season,1,0,2.0,2,0,0,0,0,0,0,0,0,0,1,1,1.0,0,0,0.0,0,0,0.0,115,127,0
+202682,2016,21601099,2017-03-27 20:00:00,Cleveland,Cavaliers,San Antonio,Spurs,Regular Season,0,0,13.0,2,0,2,2,0,0,0,0,1,0,4,1,0.25,1,0,0.0,0,0,0.0,103,74,0
+202682,2016,21601122,2017-03-30 20:00:00,Cleveland,Cavaliers,Chicago,Bulls,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,99,93,0
+202682,2016,21601128,2017-03-31 19:30:00,Cleveland,Cavaliers,Philadelphia,76ers,Regular Season,1,1,10.0,5,0,2,2,0,0,0,1,1,-12,3,2,0.667,2,1,0.5,0,0,0.0,122,105,0
+202682,2016,21601150,2017-04-02 18:00:00,Cleveland,Cavaliers,Indiana,Pacers,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,135,130,0
+202682,2016,21601156,2017-04-04 19:00:00,Cleveland,Cavaliers,Orlando,Magic,Regular Season,1,1,4.0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0.0,0,0,0.0,122,102,0
+202682,2016,21601169,2017-04-05 20:00:00,Cleveland,Cavaliers,Boston,Celtics,Regular Season,0,1,4.0,0,0,0,0,0,0,0,1,0,-3,0,0,0.0,0,0,0.0,0,0,0.0,91,114,0
+202682,2016,21601179,2017-04-07 19:30:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,1,0,1.0,2,0,0,0,0,0,0,0,0,6,1,1,1.0,0,0,0.0,0,0,0.0,100,114,0
+202682,2016,21601197,2017-04-09 15:30:00,Cleveland,Cavaliers,Atlanta,Hawks,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,126,125,0
+202682,2016,21601205,2017-04-10 19:30:00,Cleveland,Cavaliers,Miami,Heat,Regular Season,0,0,10.0,0,0,1,1,0,0,0,0,1,-4,0,0,0.0,0,0,0.0,0,0,0.0,124,121,0
+202682,2016,21601218,2017-04-12 20:00:00,Cleveland,Cavaliers,Toronto,Raptors,Regular Season,1,0,27.0,10,3,4,4,0,0,0,0,0,-2,8,3,0.375,3,2,0.667,2,2,1.0,83,98,0
+202682,2016,41600111,2017-04-15 15:00:00,Cleveland,Cavaliers,Indiana,Pacers,Playoffs,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,109,108,0
+202682,2016,41600112,2017-04-17 19:00:00,Cleveland,Cavaliers,Indiana,Pacers,Playoffs,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,117,111,0
+202682,2016,41600113,2017-04-20 19:00:00,Cleveland,Cavaliers,Indiana,Pacers,Playoffs,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,114,119,0
+202682,2016,41600114,2017-04-23 13:00:00,Cleveland,Cavaliers,Indiana,Pacers,Playoffs,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,102,106,0
+202682,2016,41600211,2017-05-01 19:00:00,Cleveland,Cavaliers,Toronto,Raptors,Playoffs,1,1,3.0,0,0,0,0,0,1,0,1,0,-9,0,0,0.0,0,0,0.0,0,0,0.0,116,105,0
+202682,2016,41600212,2017-05-03 19:00:00,Cleveland,Cavaliers,Toronto,Raptors,Playoffs,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,125,103,0
+202682,2016,41600213,2017-05-05 19:00:00,Cleveland,Cavaliers,Toronto,Raptors,Playoffs,0,1,3.0,5,0,0,0,0,0,0,1,0,0,2,2,1.0,1,1,1.0,0,0,0.0,94,115,0
+202682,2016,41600214,2017-05-07 15:30:00,Cleveland,Cavaliers,Toronto,Raptors,Playoffs,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,102,109,0
+202682,2016,41600301,2017-05-17 20:30:00,Cleveland,Cavaliers,Boston,Celtics,Playoffs,0,1,3.0,3,0,1,1,0,0,0,0,0,-4,1,1,1.0,1,1,1.0,0,0,0.0,104,117,0
+202682,2016,41600302,2017-05-19 20:30:00,Cleveland,Cavaliers,Boston,Celtics,Playoffs,0,1,9.0,4,1,1,0,1,0,0,0,0,-4,4,2,0.5,1,0,0.0,0,0,0.0,86,130,0
+202682,2016,41600303,2017-05-21 20:30:00,Cleveland,Cavaliers,Boston,Celtics,Playoffs,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,108,111,0
+202682,2016,41600304,2017-05-23 20:30:00,Cleveland,Cavaliers,Boston,Celtics,Playoffs,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,112,99,0
+202682,2016,41600305,2017-05-25 20:30:00,Cleveland,Cavaliers,Boston,Celtics,Playoffs,0,1,8.0,2,2,0,0,0,0,0,1,0,-4,2,1,0.5,0,0,0.0,0,0,0.0,102,135,0
+202682,2016,41600401,2017-06-01 21:00:00,Cleveland,Cavaliers,Golden State,Warriors,Playoffs,0,0,4.0,0,0,0,0,0,0,0,0,0,-1,2,0,0.0,0,0,0.0,0,0,0.0,113,91,0
+202682,2016,41600402,2017-06-04 20:00:00,Cleveland,Cavaliers,Golden State,Warriors,Playoffs,0,0,3.0,5,0,0,0,0,0,0,0,0,0,3,2,0.667,1,1,1.0,0,0,0.0,132,113,0
+202682,2016,41600403,2017-06-07 21:00:00,Cleveland,Cavaliers,Golden State,Warriors,Playoffs,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,113,118,0
+202682,2016,41600404,2017-06-09 21:00:00,Cleveland,Cavaliers,Golden State,Warriors,Playoffs,1,1,2.0,2,1,1,1,0,0,0,0,0,0,1,0,0.0,1,0,0.0,2,2,1.0,137,116,0
+202682,2016,41600405,2017-06-12 21:00:00,Cleveland,Cavaliers,Golden State,Warriors,Playoffs,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,129,120,0
+202682,2017,21700983,2018-03-09 21:00:00,Los Angeles,Lakers,Denver,Nuggets,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,125,116,0
+202682,2017,21701000,2018-03-11 21:00:00,Los Angeles,Lakers,Cleveland,Cavaliers,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,127,113,0
+202682,2017,21701015,2018-03-13 22:30:00,Los Angeles,Lakers,Denver,Nuggets,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,112,103,0
+202682,2017,21701019,2018-03-14 22:30:00,Los Angeles,Lakers,Golden State,Warriors,Regular Season,0,0,8.0,2,0,1,1,0,0,0,0,0,-5,4,1,0.25,2,0,0.0,0,0,0.0,117,106,0
+202682,2017,21701034,2018-03-16 22:30:00,Los Angeles,Lakers,Miami,Heat,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,91,92,0

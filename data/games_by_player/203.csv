@@ -1,0 +1,925 @@
+personId,season,gameId,gameDateTimeEst,playerteamCity,playerteamName,opponentteamCity,opponentteamName,gameType,home,win,numMinutes,points,assists,reboundsTotal,reboundsDefensive,reboundsOffensive,blocks,steals,turnovers,foulsPersonal,plusMinusPoints,fieldGoalsAttempted,fieldGoalsMade,fieldGoalsPercentage,threePointersAttempted,threePointersMade,threePointersPercentage,freeThrowsAttempted,freeThrowsMade,freeThrowsPercentage,homeScore,awayScore,attendance
+203,1986,28600071,1986-11-12 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,0,21.0,8,4,4,2,2,0,0,0,3,0,9,4,0.444,1,0,0.0,0,0,0.0,122,97,0
+203,1986,28600089,1986-11-15 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,1,15.0,6,2,5,5,0,0,1,1,4,0,6,3,0.5,0,0,0.0,0,0,0.0,121,127,0
+203,1986,28600104,1986-11-18 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,1,1,17.0,6,6,2,1,1,1,1,0,0,0,5,3,0.599,0,0,0.0,2,0,0.0,119,105,0
+203,1986,28600114,1986-11-20 20:00:00,Seattle,SuperSonics,Milwaukee,Bucks,Regular Season,1,0,28.0,8,3,3,3,0,2,4,3,4,0,6,3,0.5,1,0,0.0,3,2,0.667,105,116,0
+203,1986,28600130,1986-11-22 20:00:00,Seattle,SuperSonics,Indiana,Pacers,Regular Season,1,1,23.0,6,3,3,1,2,0,3,7,3,0,4,3,0.75,0,0,0.0,0,0,0.0,121,111,0
+203,1986,28600142,1986-11-25 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,1,1,19.0,1,2,5,5,0,1,1,2,2,0,1,0,0.0,0,0,0.0,4,1,0.25,113,103,0
+203,1986,28600144,1986-11-26 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,0,0,18.0,3,2,1,1,0,0,0,3,5,0,5,1,0.2,0,0,0.0,2,1,0.5,127,91,0
+203,1986,28600159,1986-11-28 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,1,14.0,4,7,2,2,0,0,2,0,6,0,2,1,0.5,0,0,0.0,2,2,1.0,104,117,0
+203,1986,28600179,1986-12-02 20:00:00,Seattle,SuperSonics,Chicago,Bulls,Regular Season,1,0,15.0,6,3,4,2,2,0,0,0,5,0,4,3,0.75,0,0,0.0,0,0,0.0,109,115,0
+203,1986,28600187,1986-12-04 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,0,1,18.0,5,3,4,3,1,0,0,0,4,0,4,1,0.25,0,0,0.0,4,3,0.75,102,109,0
+203,1986,28600200,1986-12-06 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,0,1,27.0,4,7,10,7,3,1,4,0,4,0,3,2,0.667,0,0,0.0,0,0,0.0,80,136,0
+203,1986,28600222,1986-12-10 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,0,0,28.0,7,5,8,7,1,3,1,4,4,0,6,3,0.5,1,0,0.0,2,1,0.5,101,94,0
+203,1986,28600227,1986-12-11 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,1,1,22.0,7,9,0,0,0,3,1,1,5,0,3,3,1.0,0,0,0.0,1,1,1.0,113,107,0
+203,1986,28600240,1986-12-13 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,1,0,30.0,4,11,5,4,1,0,0,4,5,0,4,1,0.25,0,0,0.0,4,2,0.5,109,126,0
+203,1986,28600256,1986-12-16 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,0,28.0,5,5,6,4,2,1,0,4,3,0,7,2,0.285,0,0,0.0,2,1,0.5,126,118,0
+203,1986,28600266,1986-12-18 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,1,1,11.0,0,3,2,2,0,3,1,2,4,0,2,0,0.0,0,0,0.0,0,0,0.0,114,100,0
+203,1986,28600270,1986-12-19 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,1,11.0,1,1,1,0,1,0,1,2,4,0,0,0,0.0,0,0,0.0,2,1,0.5,106,108,0
+203,1986,28600285,1986-12-21 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,0,24.0,10,3,8,4,4,1,1,4,4,0,3,3,1.0,0,0,0.0,8,4,0.5,112,121,0
+203,1986,28600290,1986-12-23 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,1,29.0,5,5,8,6,2,1,0,0,4,0,5,2,0.4,0,0,0.0,3,1,0.333,127,116,0
+203,1986,28600301,1986-12-26 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,1,1,27.0,0,4,4,3,1,0,2,2,1,0,0,0,0.0,0,0,0.0,0,0,0.0,113,107,0
+203,1986,28600318,1986-12-28 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,0,19.0,6,5,6,3,3,0,3,3,3,0,4,2,0.5,0,0,0.0,4,2,0.5,118,127,0
+203,1986,28600332,1986-12-30 20:00:00,Seattle,SuperSonics,Boston,Celtics,Regular Season,1,0,31.0,6,12,4,4,0,0,4,2,5,0,3,3,1.0,0,0,0.0,0,0,0.0,102,104,0
+203,1986,28600341,1987-01-02 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,0,0,19.0,2,2,1,1,0,0,0,4,5,0,0,0,0.0,0,0,0.0,2,2,1.0,117,107,0
+203,1986,28600345,1987-01-03 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,0,0,22.0,6,4,6,1,5,1,2,2,5,0,7,3,0.428,0,0,0.0,0,0,0.0,138,114,0
+203,1986,28600361,1987-01-06 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,1,11.0,0,4,3,3,0,0,0,1,0,0,3,0,0.0,0,0,0.0,0,0,0.0,138,108,0
+203,1986,28600371,1987-01-08 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,1,25.0,12,5,1,1,0,0,2,3,5,0,7,5,0.713,0,0,0.0,4,2,0.5,108,115,0
+203,1986,28600393,1987-01-11 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,1,1,26.0,3,12,6,2,4,1,2,2,3,0,5,1,0.2,0,0,0.0,2,1,0.5,127,111,0
+203,1986,28600397,1987-01-13 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,0,0,13.0,0,3,1,1,0,0,1,1,3,0,3,0,0.0,1,0,0.0,0,0,0.0,117,109,0
+203,1986,28600409,1987-01-14 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,1,1,36.0,1,11,6,4,2,2,1,0,4,0,3,0,0.0,0,0,0.0,2,1,0.5,130,104,0
+203,1986,28600418,1987-01-16 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,1,31.0,14,12,4,1,3,0,3,1,4,0,7,7,1.0,0,0,0.0,1,0,0.0,134,100,0
+203,1986,28600422,1987-01-17 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,0,0,32.0,4,8,4,1,3,2,4,2,5,0,4,2,0.5,0,0,0.0,0,0,0.0,125,115,0
+203,1986,28600443,1987-01-21 20:00:00,Seattle,SuperSonics,Philadelphia,76ers,Regular Season,0,0,40.0,10,12,7,6,1,1,1,4,4,0,7,5,0.713,0,0,0.0,2,0,0.0,129,123,0
+203,1986,28600456,1987-01-23 20:00:00,Seattle,SuperSonics,New Jersey,Nets,Regular Season,0,1,37.0,7,12,4,2,2,1,3,2,2,0,11,3,0.273,0,0,0.0,1,1,1.0,120,125,0
+203,1986,28600466,1987-01-24 20:00:00,Seattle,SuperSonics,Atlanta,Hawks,Regular Season,0,0,22.0,1,5,9,8,1,0,3,1,2,0,3,0,0.0,0,0,0.0,2,1,0.5,97,87,0
+203,1986,28600473,1987-01-26 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,0,1,32.0,7,8,7,7,0,1,3,5,5,0,2,1,0.5,0,0,0.0,6,5,0.832,95,108,0
+203,1986,28600486,1987-01-28 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,1,1,10.0,5,6,1,0,1,0,1,1,2,0,2,2,1.0,0,0,0.0,1,1,1.0,125,101,0
+203,1986,28600542,1987-02-10 20:00:00,Seattle,SuperSonics,Atlanta,Hawks,Regular Season,1,0,18.0,0,8,2,1,1,0,3,0,6,0,2,0,0.0,0,0,0.0,0,0,0.0,113,125,0
+203,1986,28600558,1987-02-12 20:00:00,Seattle,SuperSonics,Milwaukee,Bucks,Regular Season,0,0,37.0,5,13,4,3,1,0,1,0,5,0,4,2,0.5,0,0,0.0,2,1,0.5,106,104,0
+203,1986,28600561,1987-02-13 20:00:00,Seattle,SuperSonics,Chicago,Bulls,Regular Season,0,0,21.0,2,10,3,3,0,0,0,1,6,0,2,1,0.5,0,0,0.0,0,0,0.0,106,98,0
+203,1986,28600576,1987-02-16 20:00:00,Seattle,SuperSonics,Cleveland,Cavaliers,Regular Season,0,0,24.0,4,5,3,1,2,1,0,0,1,0,3,2,0.667,0,0,0.0,0,0,0.0,105,94,0
+203,1986,28600590,1987-02-18 20:00:00,Seattle,SuperSonics,Indiana,Pacers,Regular Season,0,0,25.0,8,6,3,1,2,0,2,2,1,0,7,3,0.428,0,0,0.0,2,2,1.0,105,88,0
+203,1986,28600597,1987-02-19 20:00:00,Seattle,SuperSonics,Detroit,Pistons,Regular Season,0,0,22.0,4,6,2,1,1,0,0,3,1,0,2,1,0.5,1,0,0.0,2,2,1.0,117,105,0
+203,1986,28600609,1987-02-21 20:00:00,Seattle,SuperSonics,Washington,Bullets,Regular Season,1,1,39.0,7,13,7,5,2,0,1,2,4,0,3,1,0.333,0,0,0.0,8,5,0.625,110,93,0
+203,1986,28600620,1987-02-23 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,1,1,41.0,8,25,8,8,0,4,1,3,2,0,5,3,0.599,1,0,0.0,2,2,1.0,124,112,0
+203,1986,28600627,1987-02-24 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,0,0,19.0,2,5,1,1,0,1,3,4,3,0,4,1,0.25,0,0,0.0,0,0,0.0,133,103,0
+203,1986,28600637,1987-02-26 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,1,31.0,5,10,6,5,1,2,1,1,1,0,5,1,0.2,0,0,0.0,4,3,0.75,106,100,0
+203,1986,28600646,1987-02-28 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,1,35.0,7,6,4,2,2,0,2,3,3,0,5,3,0.599,0,0,0.0,2,1,0.5,105,112,0
+203,1986,28600660,1987-03-02 20:00:00,Seattle,SuperSonics,Cleveland,Cavaliers,Regular Season,1,1,35.0,6,16,9,2,7,0,5,4,4,0,6,3,0.5,0,0,0.0,0,0,0.0,123,107,0
+203,1986,28600671,1987-03-04 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,0,24.0,4,9,0,0,0,0,0,0,5,0,5,2,0.4,0,0,0.0,0,0,0.0,138,124,0
+203,1986,28600677,1987-03-05 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,1,40.0,6,10,9,6,3,1,2,1,4,0,6,3,0.5,0,0,0.0,0,0,0.0,127,122,0
+203,1986,28600690,1987-03-07 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,1,1,36.0,7,11,4,4,0,1,2,2,3,0,4,3,0.75,0,0,0.0,2,1,0.5,118,115,0
+203,1986,28600703,1987-03-10 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,0,1,36.0,2,14,10,8,2,0,3,7,2,0,5,1,0.2,1,0,0.0,0,0,0.0,127,136,0
+203,1986,28600709,1987-03-11 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,0,0,38.0,10,15,7,7,0,0,5,4,1,0,6,4,0.667,0,0,0.0,2,2,1.0,130,117,0
+203,1986,28600721,1987-03-13 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,0,0,37.0,9,9,5,5,0,1,2,3,0,0,3,3,1.0,0,0,0.0,5,3,0.599,108,104,0
+203,1986,28600731,1987-03-15 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,0,0,27.0,2,3,5,4,1,0,2,2,4,0,1,0,0.0,0,0,0.0,4,2,0.5,107,106,0
+203,1986,28600740,1987-03-16 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,1,1,40.0,4,8,8,1,7,0,1,2,3,0,8,2,0.25,0,0,0.0,0,0,0.0,122,111,0
+203,1986,28600758,1987-03-19 20:00:00,Seattle,SuperSonics,Washington,Bullets,Regular Season,0,0,36.0,15,6,9,3,6,0,1,3,3,0,10,4,0.4,0,0,0.0,8,7,0.875,110,106,0
+203,1986,28600765,1987-03-20 20:00:00,Seattle,SuperSonics,Boston,Celtics,Regular Season,0,0,34.0,2,7,4,3,1,1,2,1,1,0,4,1,0.25,1,0,0.0,0,0,0.0,112,108,0
+203,1986,28600782,1987-03-23 20:00:00,Seattle,SuperSonics,New York,Knicks,Regular Season,0,1,39.0,8,11,11,9,2,1,1,2,2,0,5,2,0.4,0,0,0.0,8,4,0.5,121,126,0
+203,1986,28600800,1987-03-26 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,0,0,34.0,6,10,4,3,1,0,1,2,2,0,3,1,0.333,0,0,0.0,8,4,0.5,123,113,0
+203,1986,28600804,1987-03-27 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,0,39.0,6,14,6,4,2,0,4,3,3,0,4,3,0.75,0,0,0.0,0,0,0.0,105,106,0
+203,1986,28600817,1987-03-29 20:00:00,Seattle,SuperSonics,Detroit,Pistons,Regular Season,1,0,40.0,7,10,4,2,2,1,4,3,3,0,4,2,0.5,0,0,0.0,4,3,0.75,107,108,0
+203,1986,28600821,1987-03-31 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,1,1,34.0,6,21,3,2,1,0,3,2,4,0,5,3,0.599,0,0,0.0,0,0,0.0,132,129,0
+203,1986,28600840,1987-04-02 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,1,0,35.0,2,16,6,6,0,0,4,5,2,0,4,1,0.25,0,0,0.0,0,0,0.0,114,117,0
+203,1986,28600854,1987-04-04 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,0,34.0,5,15,5,2,3,1,1,4,3,0,6,2,0.333,0,0,0.0,2,1,0.5,123,126,0
+203,1986,28600867,1987-04-07 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,0,21.0,2,8,2,2,0,0,2,4,6,0,2,1,0.5,0,0,0.0,0,0,0.0,125,127,0
+203,1986,28600887,1987-04-10 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,0,37.0,7,6,4,2,2,0,0,2,4,0,3,2,0.667,0,0,0.0,4,3,0.75,121,115,0
+203,1986,28600912,1987-04-14 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,1,1,32.0,4,9,2,2,0,0,3,2,4,0,3,2,0.667,0,0,0.0,1,0,0.0,103,102,0
+203,1986,28600924,1987-04-16 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,0,1,32.0,0,12,5,5,0,0,3,2,4,0,0,0,0.0,0,0,0.0,0,0,0.0,87,118,0
+203,1986,28600933,1987-04-18 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,0,36.0,11,16,5,4,1,1,1,2,5,0,7,4,0.57,0,0,0.0,3,3,1.0,127,132,0
+203,1986,28600940,1987-04-19 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,1,33.0,10,11,6,6,0,2,3,1,2,0,5,4,0.8,0,0,0.0,2,2,1.0,104,110,0
+203,1986,48600003,1987-04-23 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Playoffs,0,0,15.0,2,4,1,1,0,1,0,3,6,0,3,1,0.333,0,0,0.0,0,0,0.0,151,129,0
+203,1986,48600010,1987-04-25 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Playoffs,0,1,27.0,2,8,5,5,0,2,1,1,2,0,2,1,0.5,0,0,0.0,0,0,0.0,110,112,0
+203,1986,48600019,1987-04-28 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Playoffs,1,1,33.0,6,9,7,6,1,1,1,1,2,0,5,2,0.4,0,0,0.0,6,2,0.333,117,107,0
+203,1986,48600025,1987-04-30 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Playoffs,1,1,28.0,8,9,4,4,0,1,1,2,2,0,4,2,0.5,0,0,0.0,4,4,1.0,124,98,0
+203,1986,48600030,1987-05-02 20:00:00,Seattle,SuperSonics,Houston,Rockets,Playoffs,0,1,32.0,5,8,4,4,0,2,1,0,3,0,5,2,0.4,0,0,0.0,2,1,0.5,106,111,0
+203,1986,48600037,1987-05-05 20:00:00,Seattle,SuperSonics,Houston,Rockets,Playoffs,0,1,17.0,2,6,2,0,2,0,0,3,3,0,1,1,1.0,0,0,0.0,0,0,0.0,97,99,0
+203,1986,48600039,1987-05-07 20:00:00,Seattle,SuperSonics,Houston,Rockets,Playoffs,1,0,23.0,4,4,5,3,2,1,2,1,1,0,5,2,0.4,0,0,0.0,0,0,0.0,84,102,0
+203,1986,48600043,1987-05-09 20:00:00,Seattle,SuperSonics,Houston,Rockets,Playoffs,1,1,25.0,4,10,2,1,1,0,1,2,3,0,2,1,0.5,0,0,0.0,2,2,1.0,117,102,0
+203,1986,48600048,1987-05-12 20:00:00,Seattle,SuperSonics,Houston,Rockets,Playoffs,0,0,16.0,5,5,3,3,0,0,1,0,2,0,4,2,0.5,0,0,0.0,2,1,0.5,112,107,0
+203,1986,48600052,1987-05-14 20:00:00,Seattle,SuperSonics,Houston,Rockets,Playoffs,1,1,36.0,0,16,8,6,2,0,3,1,3,0,5,0,0.0,0,0,0.0,0,0,0.0,128,125,0
+203,1986,48600054,1987-05-16 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Playoffs,0,0,20.0,4,8,3,1,2,1,1,3,3,0,6,2,0.333,0,0,0.0,0,0,0.0,92,87,0
+203,1986,48600057,1987-05-19 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Playoffs,0,0,34.0,15,7,6,3,3,1,1,2,4,0,7,4,0.57,0,0,0.0,8,7,0.875,112,104,0
+203,1986,48600060,1987-05-23 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Playoffs,1,0,22.0,10,15,3,3,0,0,1,3,4,0,7,5,0.713,0,0,0.0,0,0,0.0,121,122,0
+203,1986,48600062,1987-05-25 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Playoffs,1,0,28.0,4,3,1,1,0,0,0,4,4,0,6,2,0.333,0,0,0.0,0,0,0.0,102,133,0
+203,1987,28700004,1987-11-06 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,0,19.0,0,12,1,1,0,0,4,2,3,0,0,0,0.0,0,0,0.0,0,0,0.0,113,109,0
+203,1987,28700018,1987-11-07 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,1,28.0,10,10,7,5,2,0,1,6,0,0,9,3,0.333,0,0,0.0,6,4,0.667,112,96,0
+203,1987,28700024,1987-11-10 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,1,0,21.0,4,5,3,2,1,1,2,3,2,0,5,2,0.4,0,0,0.0,1,0,0.0,101,117,0
+203,1987,28700042,1987-11-12 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,0,0,25.0,9,9,5,3,2,0,0,0,5,0,8,4,0.5,1,0,0.0,2,1,0.5,123,118,0
+203,1987,28700047,1987-11-13 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,0,1,24.0,6,11,2,0,2,0,1,0,5,0,6,3,0.5,0,0,0.0,0,0,0.0,95,103,0
+203,1987,28700061,1987-11-15 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,0,0,19.0,4,6,4,4,0,1,2,4,3,0,3,1,0.333,0,0,0.0,2,2,1.0,108,106,0
+203,1987,28700073,1987-11-18 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,1,33.0,6,8,6,6,0,2,3,1,5,0,5,2,0.4,0,0,0.0,3,2,0.667,120,114,0
+203,1987,28700088,1987-11-20 20:00:00,Seattle,SuperSonics,Milwaukee,Bucks,Regular Season,1,1,28.0,6,10,11,6,5,1,0,4,1,0,5,3,0.599,1,0,0.0,1,0,0.0,99,97,0
+203,1987,28700096,1987-11-21 20:00:00,Seattle,SuperSonics,Washington,Bullets,Regular Season,1,1,21.0,6,5,3,1,2,0,3,4,3,0,4,2,0.5,0,0,0.0,2,2,1.0,124,103,0
+203,1987,28700107,1987-11-24 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,1,1,36.0,11,10,8,6,2,0,1,2,1,0,6,3,0.5,0,0,0.0,6,5,0.832,103,85,0
+203,1987,28700124,1987-11-27 20:00:00,Seattle,SuperSonics,Boston,Celtics,Regular Season,0,0,29.0,3,10,3,3,0,0,1,4,5,0,3,1,0.333,0,0,0.0,2,1,0.5,117,112,0
+203,1987,28700134,1987-11-28 20:00:00,Seattle,SuperSonics,Indiana,Pacers,Regular Season,0,0,29.0,6,8,4,3,1,0,2,2,5,0,6,3,0.5,0,0,0.0,2,0,0.0,131,115,0
+203,1987,28700144,1987-12-01 20:00:00,Seattle,SuperSonics,New York,Knicks,Regular Season,0,1,28.0,4,5,4,2,2,0,0,5,6,0,4,2,0.5,0,0,0.0,0,0,0.0,109,112,0
+203,1987,28700152,1987-12-02 20:00:00,Seattle,SuperSonics,Cleveland,Cavaliers,Regular Season,0,0,21.0,6,3,3,2,1,0,0,2,2,0,4,3,0.75,0,0,0.0,0,0,0.0,104,102,0
+203,1987,28700164,1987-12-04 20:00:00,Seattle,SuperSonics,Philadelphia,76ers,Regular Season,0,0,27.0,6,8,1,1,0,0,3,3,2,0,4,3,0.75,0,0,0.0,0,0,0.0,118,105,0
+203,1987,28700170,1987-12-05 20:00:00,Seattle,SuperSonics,Washington,Bullets,Regular Season,0,1,30.0,7,5,4,3,1,0,1,4,4,0,7,3,0.428,0,0,0.0,2,1,0.5,99,115,0
+203,1987,28700177,1987-12-08 20:00:00,Seattle,SuperSonics,Cleveland,Cavaliers,Regular Season,1,1,32.0,7,10,2,1,1,0,4,3,3,0,1,1,1.0,0,0,0.0,6,5,0.832,107,96,0
+203,1987,28700196,1987-12-10 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,0,0,17.0,4,2,3,1,2,1,1,0,3,0,6,1,0.167,0,0,0.0,2,2,1.0,113,96,0
+203,1987,28700205,1987-12-12 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,1,1,33.0,9,11,6,4,2,1,4,2,3,0,8,4,0.5,0,0,0.0,2,1,0.5,116,95,0
+203,1987,28700214,1987-12-14 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,0,0,21.0,0,7,4,2,2,1,1,2,3,0,1,0,0.0,0,0,0.0,0,0,0.0,116,95,0
+203,1987,28700220,1987-12-15 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,0,20.0,8,7,0,0,0,0,0,1,5,0,3,3,1.0,0,0,0.0,2,2,1.0,128,109,0
+203,1987,28700230,1987-12-17 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,1,1,32.0,6,6,1,1,0,1,2,1,2,0,4,3,0.75,0,0,0.0,0,0,0.0,114,109,0
+203,1987,28700244,1987-12-19 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,1,27.0,8,7,1,1,0,0,1,0,1,0,5,3,0.599,1,1,1.0,1,1,1.0,102,129,0
+203,1987,28700247,1987-12-20 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,0,17.0,2,2,3,3,0,0,0,4,1,0,4,1,0.25,0,0,0.0,0,0,0.0,103,94,0
+203,1987,28700261,1987-12-23 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,1,35.0,7,9,5,2,3,1,1,1,4,0,9,3,0.333,0,0,0.0,2,1,0.5,102,103,0
+203,1987,28700281,1987-12-26 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,0,0,15.0,4,5,2,2,0,2,0,4,1,0,2,2,1.0,0,0,0.0,0,0,0.0,115,111,0
+203,1987,28700285,1987-12-28 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,1,13.0,1,4,1,0,1,0,0,1,1,0,2,0,0.0,0,0,0.0,2,1,0.5,108,100,0
+203,1987,28700298,1987-12-30 20:00:00,Seattle,SuperSonics,Boston,Celtics,Regular Season,1,1,19.0,2,5,3,1,2,0,1,1,2,0,2,1,0.5,0,0,0.0,0,0,0.0,111,105,0
+203,1987,28700307,1988-01-02 20:00:00,Seattle,SuperSonics,Philadelphia,76ers,Regular Season,1,1,21.0,8,5,1,1,0,0,1,1,3,0,5,3,0.599,0,0,0.0,3,2,0.667,116,114,0
+203,1987,28700320,1988-01-05 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,0,20.0,6,7,1,1,0,0,0,0,2,0,3,3,1.0,0,0,0.0,0,0,0.0,126,114,0
+203,1987,28700328,1988-01-06 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,1,1,30.0,6,9,2,1,1,1,0,2,1,0,5,2,0.4,0,0,0.0,2,2,1.0,110,95,0
+203,1987,28700353,1988-01-09 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,1,1,25.0,0,12,1,0,1,0,2,1,3,0,2,0,0.0,0,0,0.0,0,0,0.0,141,133,0
+203,1987,28700356,1988-01-10 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,0,0,36.0,10,11,2,1,1,0,1,2,1,0,7,4,0.57,1,1,1.0,2,1,0.5,109,108,0
+203,1987,28700368,1988-01-13 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,1,28.0,10,9,4,1,3,1,4,3,3,0,6,4,0.667,0,0,0.0,3,2,0.667,144,115,0
+203,1987,28700381,1988-01-15 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,1,1,36.0,12,9,7,5,2,1,3,3,2,0,8,6,0.75,1,0,0.0,0,0,0.0,124,105,0
+203,1987,28700388,1988-01-16 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,0,1,32.0,5,15,7,5,2,0,6,3,4,0,6,2,0.333,0,0,0.0,2,1,0.5,112,114,0
+203,1987,28700398,1988-01-18 20:00:00,Seattle,SuperSonics,Indiana,Pacers,Regular Season,1,1,39.0,16,15,11,9,2,0,4,3,4,0,7,5,0.713,1,1,1.0,9,5,0.556,115,105,0
+203,1987,28700405,1988-01-20 20:00:00,Seattle,SuperSonics,New York,Knicks,Regular Season,1,1,44.0,12,7,2,1,1,0,4,3,2,0,7,4,0.57,0,0,0.0,5,4,0.8,108,96,0
+203,1987,28700415,1988-01-22 20:00:00,Seattle,SuperSonics,Detroit,Pistons,Regular Season,1,1,36.0,11,14,5,3,2,3,3,4,1,0,8,3,0.375,1,0,0.0,7,5,0.713,109,106,0
+203,1987,28700429,1988-01-24 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,1,0,34.0,2,11,0,0,0,1,3,4,4,0,5,1,0.2,0,0,0.0,0,0,0.0,109,116,0
+203,1987,28700436,1988-01-26 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,0,1,22.0,4,5,5,3,2,1,0,0,3,0,3,1,0.333,0,0,0.0,2,2,1.0,100,116,0
+203,1987,28700459,1988-01-29 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,0,0,30.0,2,10,5,4,1,0,2,0,1,0,3,1,0.333,0,0,0.0,0,0,0.0,117,109,0
+203,1987,28700465,1988-01-30 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,0,0,34.0,2,11,4,3,1,1,1,0,2,0,3,1,0.333,0,0,0.0,2,0,0.0,112,102,0
+203,1987,28700474,1988-02-01 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,0,0,22.0,2,10,2,0,2,0,0,1,3,0,0,0,0.0,0,0,0.0,2,2,1.0,105,100,0
+203,1987,28700496,1988-02-04 20:00:00,Seattle,SuperSonics,Atlanta,Hawks,Regular Season,1,0,33.0,11,14,8,3,5,1,2,2,2,0,6,3,0.5,0,0,0.0,8,5,0.625,109,119,0
+203,1987,28700497,1988-02-09 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,0,28.0,7,9,3,3,0,0,2,1,2,0,5,3,0.599,0,0,0.0,2,1,0.5,139,123,0
+203,1987,28700514,1988-02-11 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,1,1,42.0,16,16,9,6,3,0,2,3,2,0,11,7,0.636,0,0,0.0,3,2,0.667,120,115,0
+203,1987,28700527,1988-02-13 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,0,30.0,11,7,2,1,1,0,3,4,5,0,6,4,0.667,1,1,1.0,2,2,1.0,109,95,0
+203,1987,28700538,1988-02-15 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,1,0,14.0,0,2,1,1,0,0,1,2,5,0,2,0,0.0,0,0,0.0,0,0,0.0,122,128,0
+203,1987,28700550,1988-02-17 20:00:00,Seattle,SuperSonics,Milwaukee,Bucks,Regular Season,0,0,27.0,3,13,3,2,1,0,3,3,3,0,4,1,0.25,0,0,0.0,2,1,0.5,115,93,0
+203,1987,28700559,1988-02-18 20:00:00,Seattle,SuperSonics,Detroit,Pistons,Regular Season,0,0,35.0,10,9,4,4,0,0,3,2,3,0,11,4,0.363,1,0,0.0,4,2,0.5,108,95,0
+203,1987,28700571,1988-02-20 20:00:00,Seattle,SuperSonics,New Jersey,Nets,Regular Season,0,1,30.0,8,8,8,6,2,0,3,3,2,0,5,4,0.8,0,0,0.0,0,0,0.0,101,113,0
+203,1987,28700574,1988-02-21 20:00:00,Seattle,SuperSonics,Atlanta,Hawks,Regular Season,0,0,37.0,14,15,3,2,1,1,2,3,3,0,11,7,0.636,1,0,0.0,0,0,0.0,129,113,0
+203,1987,28700588,1988-02-23 20:00:00,Seattle,SuperSonics,Chicago,Bulls,Regular Season,0,0,43.0,6,11,7,6,1,1,4,3,4,0,9,3,0.333,1,0,0.0,0,0,0.0,104,97,0
+203,1987,28700607,1988-02-26 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,1,1,38.0,9,14,13,5,8,0,6,1,3,0,8,3,0.375,0,0,0.0,4,3,0.75,133,130,0
+203,1987,28700612,1988-02-27 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,1,35.0,21,7,2,2,0,1,2,2,3,0,11,6,0.545,1,0,0.0,13,9,0.691,114,111,0
+203,1987,28700627,1988-03-01 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,1,1,41.0,9,17,9,4,5,1,1,2,4,0,12,4,0.333,2,0,0.0,2,1,0.5,114,100,0
+203,1987,28700643,1988-03-04 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,1,0,27.0,2,5,2,1,1,0,3,3,5,0,3,1,0.333,0,0,0.0,0,0,0.0,110,125,0
+203,1987,28700654,1988-03-05 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,0,36.0,9,12,7,6,1,0,1,4,4,0,5,3,0.599,0,0,0.0,4,3,0.75,102,115,0
+203,1987,28700668,1988-03-08 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,1,38.0,11,10,2,2,0,1,1,1,5,0,8,5,0.625,1,0,0.0,2,1,0.5,116,121,0
+203,1987,28700675,1988-03-09 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,0,1,38.0,14,9,3,1,2,3,4,1,4,0,8,2,0.25,0,0,0.0,10,10,1.0,97,106,0
+203,1987,28700692,1988-03-13 20:00:00,Seattle,SuperSonics,New Jersey,Nets,Regular Season,1,1,40.0,12,11,5,3,2,1,3,4,1,0,8,5,0.625,1,1,1.0,1,1,1.0,115,102,0
+203,1987,28700709,1988-03-15 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,0,38.0,9,13,6,6,0,1,3,3,5,0,9,3,0.333,2,1,0.5,2,2,1.0,111,90,0
+203,1987,28700721,1988-03-17 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,0,0,32.0,10,8,4,4,0,1,3,2,4,0,8,5,0.625,0,0,0.0,0,0,0.0,115,106,0
+203,1987,28700722,1988-03-18 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,0,1,26.0,11,5,5,3,2,0,2,2,1,0,7,3,0.428,0,0,0.0,5,5,1.0,110,118,0
+203,1987,28700738,1988-03-20 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,0,0,36.0,12,6,4,3,1,2,2,5,4,0,10,5,0.5,2,1,0.5,2,1,0.5,108,95,0
+203,1987,28700756,1988-03-23 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,1,37.0,9,11,3,2,1,0,5,3,2,0,7,4,0.57,0,0,0.0,2,1,0.5,118,108,0
+203,1987,28700772,1988-03-26 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,1,1,25.0,11,8,0,0,0,0,1,1,3,0,9,5,0.556,0,0,0.0,2,1,0.5,131,98,0
+203,1987,28700785,1988-03-29 20:00:00,Seattle,SuperSonics,Chicago,Bulls,Regular Season,1,1,38.0,14,11,7,4,3,0,3,2,3,0,8,6,0.75,0,0,0.0,2,2,1.0,106,103,0
+203,1987,28700798,1988-03-31 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,1,0,37.0,16,6,5,3,2,1,6,1,3,0,11,5,0.455,1,1,1.0,8,5,0.625,115,117,0
+203,1987,28700806,1988-04-02 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,1,22.0,10,6,6,4,2,0,2,1,4,0,8,4,0.5,0,0,0.0,2,2,1.0,151,107,0
+203,1987,28700819,1988-04-05 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,0,38.0,17,4,3,3,0,1,2,4,4,0,12,4,0.333,2,1,0.5,11,8,0.726,94,90,0
+203,1987,28700829,1988-04-06 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,1,30.0,2,11,3,3,0,1,3,2,3,0,4,0,0.0,0,0,0.0,4,2,0.5,114,102,0
+203,1987,28700839,1988-04-08 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,1,35.0,10,5,5,3,2,1,4,4,4,0,8,4,0.5,0,0,0.0,2,2,1.0,114,100,0
+203,1987,28700847,1988-04-09 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,1,0,24.0,9,2,3,1,2,1,0,2,4,0,4,3,0.75,0,0,0.0,4,3,0.75,104,108,0
+203,1987,28700870,1988-04-13 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,1,1,34.0,6,10,4,2,2,1,5,1,4,0,9,3,0.333,0,0,0.0,2,0,0.0,113,92,0
+203,1987,28700889,1988-04-15 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,1,1,38.0,10,8,3,2,1,1,1,4,1,0,7,4,0.57,0,0,0.0,3,2,0.667,115,88,0
+203,1987,28700895,1988-04-16 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,0,46.0,14,14,9,4,5,1,0,5,3,0,13,4,0.307,1,0,0.0,6,6,1.0,121,119,0
+203,1987,28700909,1988-04-19 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,0,0,33.0,4,3,3,1,2,2,1,1,2,0,10,2,0.2,0,0,0.0,0,0,0.0,134,114,0
+203,1987,28700915,1988-04-20 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,1,25.0,6,8,8,6,2,1,2,2,4,0,4,1,0.25,0,0,0.0,4,4,1.0,121,98,0
+203,1987,28700929,1988-04-22 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,1,0,33.0,5,10,3,1,2,0,4,2,0,0,6,2,0.333,0,0,0.0,2,1,0.5,109,110,0
+203,1987,28700942,1988-04-24 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,0,1,26.0,6,4,4,4,0,1,1,2,0,0,5,3,0.599,0,0,0.0,0,0,0.0,100,109,0
+203,1987,48700006,1988-04-29 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Playoffs,0,0,29.0,11,8,4,3,1,0,0,2,2,0,8,3,0.375,0,0,0.0,7,5,0.713,126,123,0
+203,1987,48700014,1988-05-01 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Playoffs,0,1,24.0,9,6,6,3,3,0,0,1,4,0,9,4,0.444,0,0,0.0,1,1,1.0,91,111,0
+203,1987,48700019,1988-05-03 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Playoffs,1,0,29.0,3,9,3,3,0,1,0,0,3,0,7,1,0.142,0,0,0.0,4,1,0.25,114,125,0
+203,1987,48700028,1988-05-05 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Playoffs,1,1,25.0,8,6,3,2,1,1,2,0,0,0,6,3,0.5,0,0,0.0,2,2,1.0,127,117,0
+203,1987,48700032,1988-05-07 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Playoffs,0,0,20.0,2,4,5,4,1,1,0,5,2,0,5,1,0.2,1,0,0.0,0,0,0.0,115,96,0
+203,1988,28800006,1988-11-04 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,0,1,25.0,5,5,1,1,0,1,1,5,4,0,4,2,0.5,0,0,0.0,2,1,0.5,97,104,0
+203,1988,28800013,1988-11-05 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,1,23.0,5,7,5,5,0,1,1,1,5,0,4,1,0.25,0,0,0.0,4,3,0.75,142,141,0
+203,1988,28800026,1988-11-08 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,0,1,18.0,0,4,2,2,0,0,0,1,1,0,2,0,0.0,0,0,0.0,0,0,0.0,75,97,0
+203,1988,28800131,1988-11-25 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,0,27.0,7,5,3,3,0,1,1,1,4,0,6,3,0.5,3,1,0.333,0,0,0.0,110,105,0
+203,1988,28800151,1988-11-29 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,1,1,32.0,2,10,4,4,0,0,2,1,3,0,5,1,0.2,0,0,0.0,2,0,0.0,109,102,0
+203,1988,28800165,1988-11-30 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,0,28.0,3,8,3,3,0,0,0,3,5,0,5,1,0.2,1,0,0.0,2,1,0.5,110,106,0
+203,1988,28800173,1988-12-02 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,1,1,28.0,6,13,2,1,1,0,6,3,0,0,6,3,0.5,1,0,0.0,0,0,0.0,154,104,0
+203,1988,28800180,1988-12-03 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,1,31.0,10,12,3,2,1,0,2,4,5,0,8,5,0.625,0,0,0.0,0,0,0.0,136,106,0
+203,1988,28800198,1988-12-06 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,0,1,32.0,8,6,3,1,2,0,4,4,1,0,9,3,0.333,1,0,0.0,2,2,1.0,107,112,0
+203,1988,28800207,1988-12-07 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,0,0,25.0,3,7,7,2,5,0,0,4,5,0,4,1,0.25,0,0,0.0,2,1,0.5,102,98,0
+203,1988,28800223,1988-12-10 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,0,0,24.0,2,9,1,1,0,0,2,1,3,0,5,1,0.2,0,0,0.0,0,0,0.0,110,91,0
+203,1988,28800238,1988-12-13 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,1,28.0,3,9,7,3,4,0,1,3,5,0,7,1,0.142,0,0,0.0,2,1,0.5,126,116,0
+203,1988,28800251,1988-12-15 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,1,1,32.0,15,10,5,5,0,1,5,2,4,0,7,4,0.57,0,0,0.0,9,7,0.778,122,107,0
+203,1988,28800270,1988-12-17 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,1,1,25.0,7,5,2,1,1,0,3,1,4,0,6,3,0.5,0,0,0.0,2,1,0.5,141,111,0
+203,1988,28800285,1988-12-20 20:00:00,Seattle,SuperSonics,Atlanta,Hawks,Regular Season,0,0,27.0,6,7,5,3,2,0,1,2,4,0,5,1,0.2,0,0,0.0,4,4,1.0,121,118,0
+203,1988,28800289,1988-12-21 20:00:00,Seattle,SuperSonics,Miami,Heat,Regular Season,0,1,30.0,7,10,3,2,1,1,0,2,4,0,5,3,0.599,1,0,0.0,3,1,0.333,101,109,0
+203,1988,28800306,1988-12-23 20:00:00,Seattle,SuperSonics,Cleveland,Cavaliers,Regular Season,0,0,27.0,2,5,1,1,0,2,0,4,2,0,8,1,0.125,3,0,0.0,0,0,0.0,119,107,0
+203,1988,28800315,1988-12-27 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,0,0,21.0,16,5,3,2,1,0,1,2,3,0,6,5,0.832,0,0,0.0,8,6,0.75,104,100,0
+203,1988,28800330,1988-12-29 20:00:00,Seattle,SuperSonics,Miami,Heat,Regular Season,1,1,31.0,10,8,8,6,2,1,7,2,1,0,5,3,0.599,1,0,0.0,9,4,0.444,129,99,0
+203,1988,28800342,1989-01-03 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,1,1,30.0,6,8,5,3,2,1,2,4,3,0,6,2,0.333,3,1,0.333,1,1,1.0,116,106,0
+203,1988,28800360,1989-01-05 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,1,1,29.0,2,11,4,2,2,0,2,1,1,0,3,1,0.333,0,0,0.0,0,0,0.0,120,106,0
+203,1988,28800380,1989-01-07 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,1,17.0,7,10,3,3,0,0,0,0,4,0,5,3,0.599,3,1,0.333,0,0,0.0,129,123,0
+203,1988,28800385,1989-01-09 20:00:00,Seattle,SuperSonics,Cleveland,Cavaliers,Regular Season,1,1,33.0,6,9,5,1,4,1,0,4,4,0,12,3,0.25,2,0,0.0,0,0,0.0,105,103,0
+203,1988,28800392,1989-01-10 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,0,27.0,6,5,2,2,0,0,1,4,2,0,4,2,0.5,2,2,1.0,0,0,0.0,125,109,0
+203,1988,28800402,1989-01-12 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,1,1,29.0,0,9,5,5,0,2,0,1,2,0,6,0,0.0,2,0,0.0,0,0,0.0,130,95,0
+203,1988,28800417,1989-01-14 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,0,1,35.0,4,14,3,2,1,1,2,2,5,0,6,2,0.333,1,0,0.0,2,0,0.0,93,102,0
+203,1988,28800434,1989-01-16 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,0,27.0,9,6,9,3,6,0,5,6,6,0,11,4,0.363,2,0,0.0,2,1,0.5,146,117,0
+203,1988,28800436,1989-01-17 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,1,1,35.0,10,11,8,4,4,1,2,2,1,0,10,4,0.4,0,0,0.0,3,2,0.667,130,107,0
+203,1988,28800452,1989-01-19 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,1,1,35.0,15,3,4,1,3,0,2,2,6,0,8,7,0.875,2,1,0.5,1,0,0.0,124,108,0
+203,1988,28800462,1989-01-21 20:00:00,Seattle,SuperSonics,New York,Knicks,Regular Season,1,1,39.0,13,10,6,1,5,1,4,3,2,0,10,6,0.599,2,1,0.5,3,0,0.0,121,119,0
+203,1988,28800476,1989-01-24 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,1,43.0,7,10,9,7,2,0,1,3,4,0,8,3,0.375,0,0,0.0,1,1,1.0,100,103,0
+203,1988,28800495,1989-01-27 20:00:00,Seattle,SuperSonics,Atlanta,Hawks,Regular Season,1,1,43.0,8,13,2,2,0,0,2,5,4,0,6,4,0.667,1,0,0.0,0,0,0.0,119,112,0
+203,1988,28800509,1989-01-29 20:00:00,Seattle,SuperSonics,Milwaukee,Bucks,Regular Season,1,1,34.0,12,9,3,1,2,0,1,3,2,0,5,3,0.599,2,1,0.5,7,5,0.713,112,106,0
+203,1988,28800516,1989-01-31 20:00:00,Seattle,SuperSonics,New Jersey,Nets,Regular Season,1,0,18.0,4,4,4,2,2,0,1,2,6,0,6,1,0.167,0,0,0.0,4,2,0.5,112,118,0
+203,1988,28800533,1989-02-02 20:00:00,Seattle,SuperSonics,Miami,Heat,Regular Season,0,1,39.0,6,13,3,3,0,3,2,3,1,0,7,2,0.285,1,0,0.0,2,2,1.0,93,100,0
+203,1988,28800543,1989-02-03 20:00:00,Seattle,SuperSonics,Charlotte,Hornets,Regular Season,0,0,30.0,7,8,8,5,3,1,4,3,4,0,5,1,0.2,0,0,0.0,5,5,1.0,108,106,0
+203,1988,28800551,1989-02-05 20:00:00,Seattle,SuperSonics,Boston,Celtics,Regular Season,0,1,38.0,10,8,6,3,3,0,1,3,3,0,9,5,0.556,2,0,0.0,0,0,0.0,87,89,0
+203,1988,28800563,1989-02-07 20:00:00,Seattle,SuperSonics,New Jersey,Nets,Regular Season,0,0,34.0,5,14,6,4,2,1,4,6,1,0,6,2,0.333,2,1,0.5,0,0,0.0,109,99,0
+203,1988,28800569,1989-02-08 20:00:00,Seattle,SuperSonics,Philadelphia,76ers,Regular Season,0,0,33.0,11,11,7,5,2,0,2,2,2,0,9,5,0.556,1,0,0.0,2,1,0.5,109,102,0
+203,1988,28800585,1989-02-14 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,1,1,33.0,10,12,14,10,4,2,3,3,2,0,7,2,0.285,1,0,0.0,6,6,1.0,129,113,0
+203,1988,28800593,1989-02-15 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,0,20.0,10,8,1,1,0,0,3,3,3,0,4,4,1.0,2,2,1.0,0,0,0.0,135,112,0
+203,1988,28800606,1989-02-17 20:00:00,Seattle,SuperSonics,Washington,Bullets,Regular Season,1,1,40.0,16,16,13,5,8,0,4,5,3,0,10,4,0.4,1,0,0.0,11,8,0.726,126,112,0
+203,1988,28800613,1989-02-18 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,1,38.0,3,19,5,3,2,0,1,3,1,0,2,1,0.5,1,0,0.0,4,1,0.25,115,116,0
+203,1988,28800632,1989-02-21 20:00:00,Seattle,SuperSonics,Boston,Celtics,Regular Season,1,1,39.0,7,13,4,1,3,2,1,4,2,0,9,3,0.333,1,0,0.0,1,1,1.0,96,91,0
+203,1988,28800660,1989-02-25 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,1,0,34.0,7,8,6,5,1,2,2,1,2,0,8,2,0.25,1,1,1.0,2,2,1.0,94,97,0
+203,1988,28800667,1989-02-27 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,0,1,39.0,12,9,5,4,1,0,3,3,4,0,7,4,0.57,0,0,0.0,8,4,0.5,107,116,0
+203,1988,28800673,1989-02-28 20:00:00,Seattle,SuperSonics,Indiana,Pacers,Regular Season,1,0,37.0,13,11,6,4,2,0,1,3,4,0,8,4,0.5,2,1,0.5,5,4,0.8,106,108,0
+203,1988,28800695,1989-03-03 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,1,1,34.0,6,14,7,7,0,1,4,7,2,0,7,2,0.285,1,0,0.0,6,2,0.333,118,108,0
+203,1988,28800704,1989-03-04 20:00:00,Seattle,SuperSonics,Philadelphia,76ers,Regular Season,1,1,20.0,0,7,3,2,1,0,1,4,4,0,0,0,0.0,0,0,0.0,0,0,0.0,118,104,0
+203,1988,28800720,1989-03-07 20:00:00,Seattle,SuperSonics,Indiana,Pacers,Regular Season,0,1,34.0,8,6,4,2,2,0,5,2,2,0,9,3,0.333,1,0,0.0,4,2,0.5,92,110,0
+203,1988,28800730,1989-03-08 20:00:00,Seattle,SuperSonics,Detroit,Pistons,Regular Season,0,0,30.0,8,6,7,4,3,0,2,2,3,0,7,3,0.428,0,0,0.0,4,2,0.5,112,96,0
+203,1988,28800739,1989-03-10 20:00:00,Seattle,SuperSonics,Milwaukee,Bucks,Regular Season,0,0,32.0,3,4,4,3,1,1,1,5,1,0,4,1,0.25,2,0,0.0,2,1,0.5,102,90,0
+203,1988,28800747,1989-03-11 20:00:00,Seattle,SuperSonics,Chicago,Bulls,Regular Season,0,0,33.0,6,9,4,2,2,1,1,2,2,0,10,2,0.2,1,0,0.0,2,2,1.0,105,88,0
+203,1988,28800761,1989-03-13 20:00:00,Seattle,SuperSonics,Washington,Bullets,Regular Season,0,0,39.0,7,14,5,2,3,0,2,6,3,0,7,3,0.428,0,0,0.0,1,1,1.0,106,101,0
+203,1988,28800769,1989-03-14 20:00:00,Seattle,SuperSonics,New York,Knicks,Regular Season,0,0,31.0,6,8,5,4,1,1,4,6,5,0,6,1,0.167,3,0,0.0,4,4,1.0,116,110,0
+203,1988,28800779,1989-03-16 20:00:00,Seattle,SuperSonics,Charlotte,Hornets,Regular Season,1,1,31.0,2,6,10,9,1,1,4,0,1,0,2,1,0.5,0,0,0.0,0,0,0.0,108,88,0
+203,1988,28800794,1989-03-18 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,0,28.0,1,9,5,2,3,0,0,4,3,0,3,0,0.0,1,0,0.0,2,1,0.5,122,104,0
+203,1988,28800808,1989-03-21 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,1,1,31.0,6,4,6,3,3,1,4,1,2,0,4,2,0.5,0,0,0.0,4,2,0.5,101,96,0
+203,1988,28800825,1989-03-23 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,1,1,27.0,0,10,6,5,1,0,1,3,3,0,2,0,0.0,0,0,0.0,0,0,0.0,115,112,0
+203,1988,28800841,1989-03-25 20:00:00,Seattle,SuperSonics,Chicago,Bulls,Regular Season,1,0,24.0,4,10,3,1,2,1,2,2,4,0,4,2,0.5,1,0,0.0,0,0,0.0,110,111,0
+203,1988,28800848,1989-03-27 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,0,0,26.0,9,2,3,3,0,1,0,2,1,0,10,4,0.4,1,0,0.0,1,1,1.0,124,105,0
+203,1988,28800854,1989-03-28 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,0,0,36.0,6,13,5,3,2,2,3,2,4,0,9,3,0.333,1,0,0.0,1,0,0.0,120,117,0
+203,1988,28800870,1989-03-30 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,0,0,32.0,9,9,8,6,2,2,1,2,5,0,6,4,0.667,1,0,0.0,2,1,0.5,123,116,0
+203,1988,28800880,1989-03-31 20:00:00,Seattle,SuperSonics,Detroit,Pistons,Regular Season,1,0,35.0,9,12,7,4,3,0,2,3,2,0,6,3,0.5,1,1,1.0,2,2,1.0,108,111,0
+203,1988,28800896,1989-04-04 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,1,0,33.0,9,8,0,0,0,1,1,2,3,0,10,4,0.4,0,0,0.0,3,1,0.333,97,115,0
+203,1988,28800910,1989-04-06 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,0,33.0,7,12,8,4,4,1,0,3,5,0,7,3,0.428,2,0,0.0,4,1,0.25,119,126,0
+203,1988,28800924,1989-04-08 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,0,1,27.0,8,9,6,5,1,0,2,2,5,0,5,3,0.599,0,0,0.0,3,2,0.667,90,114,0
+203,1988,28800934,1989-04-10 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,0,1,34.0,7,10,8,6,2,0,3,4,4,0,5,2,0.4,2,1,0.5,4,2,0.5,89,102,0
+203,1988,28800954,1989-04-13 20:00:00,Seattle,SuperSonics,Miami,Heat,Regular Season,1,1,34.0,13,13,8,4,4,0,5,2,3,0,8,5,0.625,0,0,0.0,3,3,1.0,116,111,0
+203,1988,28800968,1989-04-15 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,1,37.0,9,15,11,6,5,0,1,3,4,0,10,4,0.4,1,0,0.0,2,1,0.5,125,92,0
+203,1988,28800979,1989-04-17 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,1,45.0,9,14,9,6,3,1,4,4,5,0,11,3,0.273,1,0,0.0,3,3,1.0,109,116,0
+203,1988,28800987,1989-04-18 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,1,23.0,1,7,6,5,1,0,2,1,5,0,4,0,0.0,0,0,0.0,2,1,0.5,122,118,0
+203,1988,28800999,1989-04-20 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,1,39.0,13,11,7,5,2,0,2,4,3,0,6,5,0.832,1,0,0.0,4,3,0.75,124,118,0
+203,1988,28801005,1989-04-21 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,0,1,37.0,9,14,6,1,5,0,4,2,4,0,6,3,0.5,0,0,0.0,4,3,0.75,136,139,0
+203,1988,28801023,1989-04-23 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,0,34.0,14,13,3,1,2,1,2,1,1,0,13,7,0.538,1,0,0.0,1,0,0.0,121,117,0
+203,1988,48800006,1989-04-28 20:00:00,Seattle,SuperSonics,Houston,Rockets,Playoffs,1,1,28.0,8,11,2,2,0,0,2,2,5,0,7,4,0.57,0,0,0.0,2,0,0.0,111,107,0
+203,1988,48800012,1989-04-30 20:00:00,Seattle,SuperSonics,Houston,Rockets,Playoffs,1,1,22.0,8,8,3,1,2,0,1,3,1,0,7,3,0.428,0,0,0.0,2,2,1.0,109,97,0
+203,1988,48800024,1989-05-03 20:00:00,Seattle,SuperSonics,Houston,Rockets,Playoffs,0,0,27.0,15,10,7,5,2,4,3,3,4,0,8,5,0.625,0,0,0.0,8,5,0.625,126,107,0
+203,1988,48800025,1989-05-05 20:00:00,Seattle,SuperSonics,Houston,Rockets,Playoffs,0,1,34.0,6,10,5,3,2,1,3,7,3,0,4,1,0.25,0,0,0.0,4,4,1.0,96,98,0
+203,1988,48800029,1989-05-07 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Playoffs,0,0,28.0,11,12,3,1,2,0,0,3,4,0,5,3,0.599,0,0,0.0,7,5,0.713,113,102,0
+203,1988,48800035,1989-05-10 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Playoffs,0,0,6.0,0,1,1,1,0,0,0,0,1,0,1,0,0.0,0,0,0.0,2,0,0.0,130,108,0
+203,1988,48800039,1989-05-12 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Playoffs,1,0,16.0,2,3,1,1,0,0,0,0,1,0,2,1,0.5,1,0,0.0,0,0,0.0,86,91,0
+203,1988,48800043,1989-05-14 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Playoffs,1,0,39.0,4,8,3,2,1,0,1,1,2,0,6,2,0.333,1,0,0.0,0,0,0.0,95,97,0
+203,1989,28900012,1989-11-03 20:00:00,Seattle,SuperSonics,Minnesota,Timberwolves,Regular Season,1,1,14.0,2,4,2,1,1,0,1,2,2,0,5,1,0.2,0,0,0.0,0,0,0.0,106,94,0
+203,1989,28900016,1989-11-04 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,0,0,23.0,4,4,5,4,1,1,1,2,6,0,3,2,0.667,0,0,0.0,0,0,0.0,107,100,0
+203,1989,28900031,1989-11-07 20:00:00,Seattle,SuperSonics,Charlotte,Hornets,Regular Season,1,1,30.0,8,9,6,3,3,1,3,4,1,0,6,3,0.5,0,0,0.0,2,2,1.0,128,88,0
+203,1989,28900045,1989-11-09 20:00:00,Seattle,SuperSonics,Milwaukee,Bucks,Regular Season,0,0,51.0,8,10,6,4,2,4,2,6,4,0,3,1,0.333,0,0,0.0,8,6,0.75,155,154,0
+203,1989,28900060,1989-11-11 20:00:00,Seattle,SuperSonics,Chicago,Bulls,Regular Season,0,0,26.0,8,10,8,5,3,0,3,4,5,0,5,4,0.8,0,0,0.0,0,0,0.0,109,102,0
+203,1989,28900067,1989-11-12 20:00:00,Seattle,SuperSonics,Minnesota,Timberwolves,Regular Season,0,1,31.0,9,12,3,3,0,0,1,3,4,0,5,3,0.599,1,1,1.0,3,2,0.667,97,108,0
+203,1989,28900077,1989-11-14 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,1,0,39.0,11,5,4,1,3,1,2,6,3,0,8,5,0.625,0,0,0.0,1,1,1.0,109,113,0
+203,1989,28900091,1989-11-16 20:00:00,Seattle,SuperSonics,Washington,Bullets,Regular Season,1,1,24.0,1,4,3,1,2,0,1,2,4,0,3,0,0.0,0,0,0.0,2,1,0.5,111,98,0
+203,1989,28900111,1989-11-18 20:00:00,Seattle,SuperSonics,Chicago,Bulls,Regular Season,1,1,26.0,3,10,5,5,0,0,1,1,2,0,2,1,0.5,0,0,0.0,4,1,0.25,119,110,0
+203,1989,28900113,1989-11-19 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,0,21.0,4,1,2,2,0,1,1,3,4,0,4,2,0.5,0,0,0.0,0,0,0.0,119,109,0
+203,1989,28900122,1989-11-21 20:00:00,Seattle,SuperSonics,New Jersey,Nets,Regular Season,1,1,27.0,7,11,3,2,1,1,2,4,2,0,4,3,0.75,0,0,0.0,1,1,1.0,114,84,0
+203,1989,28900143,1989-11-24 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,0,0,20.0,7,4,5,3,2,1,0,1,4,0,5,3,0.599,1,0,0.0,2,1,0.5,122,109,0
+203,1989,28900155,1989-11-25 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,0,1,22.0,5,8,2,1,1,0,3,0,1,0,5,2,0.4,0,0,0.0,1,1,1.0,70,117,0
+203,1989,28900163,1989-11-28 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,0,0,41.0,12,14,11,5,6,0,0,5,4,0,12,4,0.333,1,0,0.0,4,4,1.0,117,104,0
+203,1989,28900183,1989-11-30 20:00:00,Seattle,SuperSonics,New York,Knicks,Regular Season,1,1,37.0,16,13,8,6,2,0,1,5,2,0,11,8,0.726,1,0,0.0,0,0,0.0,127,122,0
+203,1989,28900199,1989-12-02 20:00:00,Seattle,SuperSonics,Detroit,Pistons,Regular Season,1,1,39.0,6,14,8,7,1,0,2,3,3,0,4,3,0.75,0,0,0.0,0,0,0.0,120,95,0
+203,1989,28900206,1989-12-05 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,1,1,29.0,8,11,3,3,0,1,3,3,5,0,5,3,0.599,0,0,0.0,3,2,0.667,133,123,0
+203,1989,28900235,1989-12-09 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,1,1,26.0,2,6,7,4,3,1,4,6,6,0,4,1,0.25,0,0,0.0,0,0,0.0,104,100,0
+203,1989,28900263,1989-12-13 20:00:00,Seattle,SuperSonics,Boston,Celtics,Regular Season,0,0,31.0,6,7,4,2,2,0,2,2,2,0,7,3,0.428,0,0,0.0,0,0,0.0,109,97,0
+203,1989,28900277,1989-12-15 20:00:00,Seattle,SuperSonics,Cleveland,Cavaliers,Regular Season,0,0,26.0,9,3,6,4,2,0,1,2,3,0,7,3,0.428,0,0,0.0,4,3,0.75,120,101,0
+203,1989,28900286,1989-12-16 20:00:00,Seattle,SuperSonics,New York,Knicks,Regular Season,0,0,23.0,8,3,3,1,2,0,2,3,2,0,7,4,0.57,0,0,0.0,1,0,0.0,118,97,0
+203,1989,28900294,1989-12-19 20:00:00,Seattle,SuperSonics,Detroit,Pistons,Regular Season,0,0,24.0,4,7,2,2,0,1,1,1,4,0,5,2,0.4,0,0,0.0,0,0,0.0,94,77,0
+203,1989,28900311,1989-12-21 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,1,36.0,10,14,5,2,3,0,5,3,4,0,9,5,0.556,0,0,0.0,0,0,0.0,123,102,0
+203,1989,28900332,1989-12-23 20:00:00,Seattle,SuperSonics,Indiana,Pacers,Regular Season,1,0,36.0,8,11,3,2,1,0,3,3,2,0,6,3,0.5,0,0,0.0,2,2,1.0,95,98,0
+203,1989,28900349,1989-12-27 20:00:00,Seattle,SuperSonics,Philadelphia,76ers,Regular Season,1,1,13.0,6,6,3,1,2,0,0,2,6,0,5,3,0.599,0,0,0.0,0,0,0.0,110,106,0
+203,1989,28900358,1989-12-29 20:00:00,Seattle,SuperSonics,Boston,Celtics,Regular Season,1,0,31.0,7,7,1,1,0,0,0,3,5,0,4,3,0.75,0,0,0.0,2,1,0.5,89,96,0
+203,1989,28900390,1990-01-03 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,1,0,10.0,0,2,1,0,1,0,1,0,1,0,2,0,0.0,0,0,0.0,0,0,0.0,108,119,0
+203,1989,28900399,1990-01-05 20:00:00,Seattle,SuperSonics,Miami,Heat,Regular Season,1,1,18.0,6,5,2,2,0,0,5,2,4,0,2,2,1.0,0,0,0.0,2,2,1.0,140,110,0
+203,1989,28900414,1990-01-06 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,1,18.0,5,3,6,5,1,1,3,1,0,0,5,2,0.4,0,0,0.0,3,1,0.333,120,110,0
+203,1989,28900422,1990-01-08 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,0,0,17.0,2,1,6,5,1,1,0,1,1,0,5,1,0.2,0,0,0.0,0,0,0.0,110,96,0
+203,1989,28900424,1990-01-09 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,0,0,24.0,12,8,9,6,3,1,0,1,2,0,8,5,0.625,2,2,1.0,0,0,0.0,97,90,0
+203,1989,28900444,1990-01-11 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,1,1,31.0,8,10,8,8,0,1,1,1,5,0,4,0,0.0,0,0,0.0,10,8,0.8,98,87,0
+203,1989,28900459,1990-01-13 20:00:00,Seattle,SuperSonics,Atlanta,Hawks,Regular Season,1,1,22.0,10,6,5,3,2,0,1,3,4,0,6,3,0.5,0,0,0.0,4,4,1.0,113,106,0
+203,1989,28900466,1990-01-15 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,1,1,21.0,6,2,4,2,2,2,1,1,3,0,4,2,0.5,1,0,0.0,2,2,1.0,105,101,0
+203,1989,28900478,1990-01-17 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,0,26.0,4,9,3,2,1,0,2,2,5,0,7,2,0.285,1,0,0.0,0,0,0.0,100,90,0
+203,1989,28900490,1990-01-18 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,0,0,20.0,8,4,6,5,1,1,2,2,4,0,6,2,0.333,0,0,0.0,5,4,0.8,105,95,0
+203,1989,28900504,1990-01-20 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,0,26.0,5,6,3,3,0,0,2,0,3,0,5,2,0.4,0,0,0.0,4,1,0.25,117,98,0
+203,1989,28900532,1990-01-24 20:00:00,Seattle,SuperSonics,Milwaukee,Bucks,Regular Season,1,0,35.0,14,3,9,7,2,0,0,4,6,0,10,5,0.5,0,0,0.0,4,4,1.0,112,119,0
+203,1989,28900539,1990-01-26 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,0,33.0,6,6,3,2,1,0,1,4,5,0,7,3,0.428,1,0,0.0,2,0,0.0,114,102,0
+203,1989,28900548,1990-01-27 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,1,1,37.0,8,8,4,3,1,1,3,1,4,0,6,3,0.5,1,1,1.0,2,1,0.5,109,98,0
+203,1989,28900576,1990-01-31 20:00:00,Seattle,SuperSonics,Minnesota,Timberwolves,Regular Season,0,0,38.0,10,8,8,6,2,2,3,4,4,0,7,3,0.428,0,0,0.0,6,4,0.667,110,82,0
+203,1989,28900589,1990-02-02 20:00:00,Seattle,SuperSonics,Indiana,Pacers,Regular Season,0,1,33.0,4,4,6,4,2,1,2,1,4,0,5,1,0.2,0,0,0.0,2,2,1.0,86,87,0
+203,1989,28900594,1990-02-03 20:00:00,Seattle,SuperSonics,Washington,Bullets,Regular Season,0,1,31.0,3,8,6,5,1,1,1,3,2,0,3,0,0.0,0,0,0.0,4,3,0.75,92,94,0
+203,1989,28900607,1990-02-05 20:00:00,Seattle,SuperSonics,Charlotte,Hornets,Regular Season,0,1,37.0,14,4,6,4,2,1,2,4,4,0,10,6,0.599,1,0,0.0,2,2,1.0,100,101,0
+203,1989,28900622,1990-02-07 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,0,28.0,6,8,4,3,1,1,3,5,6,0,5,3,0.599,0,0,0.0,0,0,0.0,124,128,0
+203,1989,28900642,1990-02-13 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,0,38.0,8,15,6,4,2,1,1,2,4,0,9,4,0.444,1,0,0.0,0,0,0.0,106,110,0
+203,1989,28900652,1990-02-15 20:00:00,Seattle,SuperSonics,New Jersey,Nets,Regular Season,0,1,41.0,4,9,10,10,0,1,2,0,5,0,5,1,0.2,1,0,0.0,4,2,0.5,92,103,0
+203,1989,28900662,1990-02-16 20:00:00,Seattle,SuperSonics,Philadelphia,76ers,Regular Season,0,0,42.0,8,12,7,5,2,1,2,2,4,0,7,4,0.57,1,0,0.0,4,0,0.0,100,96,0
+203,1989,28900674,1990-02-18 20:00:00,Seattle,SuperSonics,Charlotte,Hornets,Regular Season,0,1,27.0,3,4,6,6,0,0,1,1,2,0,3,1,0.333,0,0,0.0,1,1,1.0,70,85,0
+203,1989,28900685,1990-02-20 20:00:00,Seattle,SuperSonics,Orlando,Magic,Regular Season,0,1,35.0,5,17,3,3,0,0,2,3,4,0,2,1,0.5,1,1,1.0,4,2,0.5,102,117,0
+203,1989,28900697,1990-02-21 20:00:00,Seattle,SuperSonics,Miami,Heat,Regular Season,0,1,38.0,14,7,9,8,1,0,1,1,3,0,8,5,0.625,1,1,1.0,3,3,1.0,85,92,0
+203,1989,28900712,1990-02-23 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,1,1,37.0,2,9,5,3,2,1,3,1,0,0,6,1,0.167,2,0,0.0,0,0,0.0,97,85,0
+203,1989,28900727,1990-02-25 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,1,37.0,8,8,4,3,1,1,2,2,6,0,7,3,0.428,1,1,1.0,2,1,0.5,110,102,0
+203,1989,28900734,1990-02-27 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,0,0,32.0,6,5,3,2,1,0,3,3,4,0,8,3,0.375,2,0,0.0,0,0,0.0,103,99,0
+203,1989,28900746,1990-02-28 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,1,0,32.0,19,7,5,5,0,0,1,0,3,0,13,8,0.614,4,3,0.75,0,0,0.0,107,112,0
+203,1989,28900757,1990-03-02 20:00:00,Seattle,SuperSonics,Minnesota,Timberwolves,Regular Season,1,1,34.0,2,10,5,3,2,1,1,1,3,0,3,1,0.333,1,0,0.0,2,0,0.0,99,83,0
+203,1989,28900766,1990-03-03 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,0,33.0,6,7,10,9,1,0,3,3,4,0,7,2,0.285,0,0,0.0,2,2,1.0,110,98,0
+203,1989,28900785,1990-03-06 20:00:00,Seattle,SuperSonics,Cleveland,Cavaliers,Regular Season,1,1,22.0,4,4,4,1,3,0,0,2,5,0,6,2,0.333,0,0,0.0,0,0,0.0,95,90,0
+203,1989,28900797,1990-03-08 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,0,0,27.0,5,3,9,6,3,0,3,5,2,0,7,2,0.285,0,0,0.0,3,1,0.333,111,97,0
+203,1989,28900805,1990-03-09 20:00:00,Seattle,SuperSonics,Atlanta,Hawks,Regular Season,0,0,27.0,8,6,2,1,1,0,2,2,3,0,4,3,0.75,0,0,0.0,4,2,0.5,107,97,0
+203,1989,28900824,1990-03-12 20:00:00,Seattle,SuperSonics,Orlando,Magic,Regular Season,1,1,35.0,15,11,9,7,2,0,3,2,4,0,8,7,0.875,1,0,0.0,3,1,0.333,130,105,0
+203,1989,28900839,1990-03-14 20:00:00,Seattle,SuperSonics,Charlotte,Hornets,Regular Season,1,1,39.0,4,13,10,7,3,0,1,4,5,0,2,2,1.0,0,0,0.0,0,0,0.0,103,100,0
+203,1989,28900846,1990-03-15 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,0,0,11.0,0,1,2,2,0,0,0,1,4,0,2,0,0.0,0,0,0.0,0,0,0.0,117,95,0
+203,1989,28900865,1990-03-18 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,1,28.0,2,7,4,3,1,0,2,3,5,0,3,1,0.333,0,0,0.0,0,0,0.0,116,121,0
+203,1989,28900876,1990-03-20 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,1,0,27.0,5,6,1,1,0,0,1,0,1,0,3,2,0.667,0,0,0.0,2,1,0.5,106,128,0
+203,1989,28900892,1990-03-22 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,1,32.0,4,16,8,4,4,0,0,3,3,0,5,2,0.4,0,0,0.0,0,0,0.0,125,118,0
+203,1989,28900906,1990-03-24 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,0,32.0,4,4,3,1,2,0,0,2,5,0,2,1,0.5,0,0,0.0,2,2,1.0,121,95,0
+203,1989,28900917,1990-03-25 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,0,29.0,4,6,5,3,2,0,1,1,3,0,6,1,0.167,0,0,0.0,2,2,1.0,116,94,0
+203,1989,28900926,1990-03-27 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,0,0,33.0,1,14,3,1,2,0,3,0,4,0,4,0,0.0,0,0,0.0,2,1,0.5,115,103,0
+203,1989,28900945,1990-03-30 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,1,26.0,16,3,4,2,2,0,2,1,5,0,8,6,0.75,1,1,1.0,4,3,0.75,139,108,0
+203,1989,28900964,1990-04-01 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,0,0,33.0,2,8,3,2,1,1,2,4,4,0,4,1,0.25,1,0,0.0,0,0,0.0,104,103,0
+203,1989,28900976,1990-04-03 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,1,22.0,9,4,5,2,3,0,2,2,3,0,5,4,0.8,0,0,0.0,2,1,0.5,136,134,0
+203,1989,28900984,1990-04-05 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,1,1,22.0,6,4,2,1,1,0,2,1,2,0,3,3,1.0,0,0,0.0,0,0,0.0,101,91,0
+203,1989,28900997,1990-04-06 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,0,0,26.0,8,8,7,5,2,1,3,1,3,0,9,3,0.333,1,0,0.0,3,2,0.667,119,103,0
+203,1989,28901011,1990-04-09 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,1,0,31.0,2,12,3,2,1,0,1,1,4,0,3,1,0.333,0,0,0.0,0,0,0.0,105,106,0
+203,1989,28901022,1990-04-10 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,0,0,16.0,4,3,3,1,2,0,2,2,5,0,3,2,0.667,0,0,0.0,0,0,0.0,114,102,0
+203,1989,28901032,1990-04-12 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,1,18.0,4,3,3,2,1,0,0,3,1,0,3,1,0.333,0,0,0.0,4,2,0.5,113,103,0
+203,1989,28901048,1990-04-14 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,1,29.0,5,6,11,4,7,0,2,3,3,0,6,2,0.333,0,0,0.0,4,1,0.25,96,89,0
+203,1989,28901064,1990-04-17 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,1,0,21.0,5,10,3,1,2,1,3,1,4,0,3,2,0.667,0,0,0.0,2,1,0.5,101,102,0
+203,1989,28901078,1990-04-19 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,0,1,23.0,2,8,2,2,0,0,1,2,6,0,3,1,0.333,0,0,0.0,0,0,0.0,118,130,0
+203,1989,28901091,1990-04-20 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,1,1,32.0,5,10,3,3,0,1,3,1,2,0,3,2,0.667,1,0,0.0,2,1,0.5,121,99,0
+203,1989,28901102,1990-04-22 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,0,22.0,4,5,4,1,3,0,1,2,4,0,4,2,0.5,0,0,0.0,0,0,0.0,124,122,0
+203,1990,29000052,1990-11-09 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,0,1,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,129,135,0
+203,1990,29000062,1990-11-10 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,0,7.0,0,1,1,1,0,0,0,1,3,0,3,0,0.0,0,0,0.0,0,0,0.0,100,117,0
+203,1990,29000080,1990-11-13 20:00:00,Seattle,SuperSonics,New York,Knicks,Regular Season,1,0,4.0,0,1,2,2,0,0,0,1,1,0,0,0,0.0,0,0,0.0,0,0,0.0,110,116,0
+203,1990,29000111,1990-11-17 20:00:00,Seattle,SuperSonics,Chicago,Bulls,Regular Season,1,0,23.0,5,4,4,2,2,1,0,0,3,0,5,2,0.4,1,1,1.0,0,0,0.0,95,116,0
+203,1990,29000114,1990-11-18 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,0,0,16.0,0,2,3,3,0,0,1,1,2,0,3,0,0.0,1,0,0.0,0,0,0.0,78,65,0
+203,1990,29000126,1990-11-20 20:00:00,Seattle,SuperSonics,New Jersey,Nets,Regular Season,1,1,13.0,2,3,3,3,0,0,1,0,4,0,3,1,0.333,1,0,0.0,0,0,0.0,105,88,0
+203,1990,29000140,1990-11-23 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,0,0,16.0,2,5,2,1,1,1,2,1,3,0,3,0,0.0,0,0,0.0,2,2,1.0,97,96,0
+203,1990,29000162,1990-11-27 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,1,0,16.0,9,2,6,2,4,0,4,1,1,0,8,4,0.5,1,1,1.0,0,0,0.0,111,124,0
+203,1990,29000182,1990-11-29 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,0,17.0,2,1,2,1,1,0,2,4,1,0,2,1,0.5,0,0,0.0,0,0,0.0,128,110,0
+203,1990,29000201,1990-12-01 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,0,19.0,4,4,3,3,0,0,0,0,4,0,2,2,1.0,0,0,0.0,0,0,0.0,124,130,0
+203,1990,29000207,1990-12-03 20:00:00,Seattle,SuperSonics,Boston,Celtics,Regular Season,0,0,20.0,5,0,3,1,2,1,2,1,4,0,5,2,0.4,0,0,0.0,3,1,0.333,135,102,0
+203,1990,29000212,1990-12-04 20:00:00,Seattle,SuperSonics,New Jersey,Nets,Regular Season,0,0,19.0,5,2,5,3,2,0,2,1,4,0,3,2,0.667,0,0,0.0,2,1,0.5,106,102,0
+203,1990,29000228,1990-12-06 20:00:00,Seattle,SuperSonics,Miami,Heat,Regular Season,0,1,16.0,3,6,2,2,0,0,2,1,4,0,3,1,0.333,0,0,0.0,2,1,0.5,103,105,0
+203,1990,29000237,1990-12-07 20:00:00,Seattle,SuperSonics,Orlando,Magic,Regular Season,0,0,19.0,4,3,0,0,0,0,0,1,6,0,2,2,1.0,0,0,0.0,0,0,0.0,106,100,0
+203,1990,29000249,1990-12-09 20:00:00,Seattle,SuperSonics,Milwaukee,Bucks,Regular Season,0,0,16.0,4,6,0,0,0,0,2,2,5,0,3,1,0.333,1,1,1.0,4,1,0.25,105,99,0
+203,1990,29000264,1990-12-12 20:00:00,Seattle,SuperSonics,Indiana,Pacers,Regular Season,1,1,23.0,3,9,4,4,0,0,1,2,2,0,1,0,0.0,0,0,0.0,4,3,0.75,99,90,0
+203,1990,29000269,1990-12-13 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,0,12.0,3,2,2,1,1,1,1,2,1,0,5,1,0.2,0,0,0.0,2,1,0.5,129,106,0
+203,1990,29000284,1990-12-15 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,1,1,25.0,8,10,2,0,2,0,2,0,4,0,7,3,0.428,1,0,0.0,2,2,1.0,106,105,0
+203,1990,29000302,1990-12-18 20:00:00,Seattle,SuperSonics,Orlando,Magic,Regular Season,1,1,29.0,5,14,8,6,2,1,4,1,1,0,4,2,0.5,1,1,1.0,0,0,0.0,122,105,0
+203,1990,29000317,1990-12-20 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,0,1,14.0,2,6,6,2,4,1,1,2,2,0,3,1,0.333,1,0,0.0,0,0,0.0,75,110,0
+203,1990,29000332,1990-12-22 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,1,1,22.0,0,9,3,3,0,0,0,3,4,0,5,0,0.0,1,0,0.0,0,0,0.0,121,93,0
+203,1990,29000348,1990-12-26 20:00:00,Seattle,SuperSonics,Cleveland,Cavaliers,Regular Season,0,1,9.0,0,1,0,0,0,0,0,4,2,0,2,0,0.0,1,0,0.0,0,0,0.0,97,99,0
+203,1990,29000355,1990-12-27 20:00:00,Seattle,SuperSonics,Washington,Bullets,Regular Season,0,1,12.0,4,4,4,2,2,0,0,3,1,0,4,1,0.25,0,0,0.0,2,2,1.0,120,125,0
+203,1990,29000375,1990-12-29 20:00:00,Seattle,SuperSonics,Chicago,Bulls,Regular Season,0,0,10.0,2,2,1,1,0,0,2,3,4,0,1,0,0.0,0,0,0.0,2,2,1.0,116,91,0
+203,1990,29000377,1990-12-30 20:00:00,Seattle,SuperSonics,Minnesota,Timberwolves,Regular Season,0,0,14.0,8,2,1,1,0,0,2,1,3,0,4,4,1.0,0,0,0.0,0,0,0.0,126,106,0
+203,1990,29000386,1991-01-02 20:00:00,Seattle,SuperSonics,Philadelphia,76ers,Regular Season,1,1,17.0,5,3,6,5,1,0,0,1,2,0,3,2,0.667,1,1,1.0,0,0,0.0,127,99,0
+203,1990,29000398,1991-01-04 20:00:00,Seattle,SuperSonics,Miami,Heat,Regular Season,1,1,13.0,3,3,1,1,0,0,1,2,1,0,2,1,0.5,1,0,0.0,2,1,0.5,112,86,0
+203,1990,29000416,1991-01-06 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,0,18.0,2,6,3,2,1,0,1,0,2,0,4,0,0.0,0,0,0.0,2,2,1.0,114,111,0
+203,1990,29000433,1991-01-08 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,1,1,23.0,1,10,3,3,0,1,0,1,2,0,2,0,0.0,1,0,0.0,2,1,0.5,96,88,0
+203,1990,29000444,1991-01-10 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,0,18.0,9,7,2,1,1,0,1,1,1,0,7,4,0.57,1,0,0.0,3,1,0.333,103,113,0
+203,1990,29000463,1991-01-12 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,0,0,12.0,2,5,5,1,4,1,1,2,2,0,5,1,0.2,1,0,0.0,0,0,0.0,101,85,0
+203,1990,29000476,1991-01-15 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,1,24.0,11,9,4,4,0,0,3,0,1,0,5,3,0.599,1,1,1.0,5,4,0.8,146,99,0
+203,1990,29000489,1991-01-18 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,0,9.0,0,1,0,0,0,0,0,2,1,0,1,0,0.0,0,0,0.0,0,0,0.0,105,96,0
+203,1990,29000502,1991-01-19 20:00:00,Seattle,SuperSonics,Washington,Bullets,Regular Season,1,1,23.0,7,8,5,5,0,0,3,0,2,0,5,3,0.599,3,1,0.333,0,0,0.0,111,89,0
+203,1990,29000518,1991-01-22 20:00:00,Seattle,SuperSonics,Milwaukee,Bucks,Regular Season,1,1,14.0,2,8,7,6,1,0,0,2,3,0,3,1,0.333,2,0,0.0,0,0,0.0,132,101,0
+203,1990,29000541,1991-01-25 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,0,25.0,6,7,2,1,1,0,2,1,6,0,5,3,0.599,1,0,0.0,0,0,0.0,128,113,0
+203,1990,29000548,1991-01-26 20:00:00,Seattle,SuperSonics,Atlanta,Hawks,Regular Season,1,1,19.0,7,9,1,1,0,0,1,2,2,0,4,3,0.75,2,1,0.5,0,0,0.0,103,102,0
+203,1990,29000560,1991-01-28 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,0,0,21.0,4,7,6,4,2,0,3,3,3,0,5,2,0.4,0,0,0.0,0,0,0.0,119,107,0
+203,1990,29000568,1991-01-29 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,0,0,22.0,0,8,3,3,0,0,1,2,4,0,3,0,0.0,1,0,0.0,0,0,0.0,117,112,0
+203,1990,29000575,1991-01-31 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,0,1,25.0,8,6,4,1,3,0,3,2,5,0,7,4,0.57,0,0,0.0,0,0,0.0,94,97,0
+203,1990,29000595,1991-02-02 20:00:00,Seattle,SuperSonics,Indiana,Pacers,Regular Season,0,0,12.0,4,2,3,2,1,0,2,2,2,0,5,2,0.4,0,0,0.0,0,0,0.0,106,100,0
+203,1990,29000603,1991-02-04 20:00:00,Seattle,SuperSonics,Charlotte,Hornets,Regular Season,0,1,22.0,8,3,2,1,1,0,1,3,2,0,5,3,0.599,2,1,0.5,1,1,1.0,93,100,0
+203,1990,29000621,1991-02-06 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,1,1,6.0,0,2,0,0,0,0,0,1,2,0,1,0,0.0,1,0,0.0,0,0,0.0,107,104,0
+203,1990,29000637,1991-02-12 20:00:00,Seattle,SuperSonics,Boston,Celtics,Regular Season,1,0,21.0,2,7,4,3,1,0,1,1,5,0,0,0,0.0,0,0,0.0,4,2,0.5,111,114,0
+203,1990,29000653,1991-02-14 20:00:00,Seattle,SuperSonics,Orlando,Magic,Regular Season,0,1,26.0,4,7,3,3,0,0,2,4,3,0,5,1,0.2,0,0,0.0,2,2,1.0,90,102,0
+203,1990,29000662,1991-02-16 20:00:00,Seattle,SuperSonics,Atlanta,Hawks,Regular Season,0,0,18.0,2,6,2,1,1,0,1,2,1,0,3,1,0.333,0,0,0.0,2,0,0.0,122,113,0
+203,1990,29000676,1991-02-18 20:00:00,Seattle,SuperSonics,Detroit,Pistons,Regular Season,0,0,15.0,3,7,1,0,1,0,2,4,1,0,4,1,0.25,2,1,0.5,0,0,0.0,85,83,0
+203,1990,29000681,1991-02-19 20:00:00,Seattle,SuperSonics,Philadelphia,76ers,Regular Season,0,0,13.0,2,3,3,3,0,0,2,2,1,0,1,1,1.0,0,0,0.0,0,0,0.0,107,104,0
+203,1990,29000698,1991-02-21 20:00:00,Seattle,SuperSonics,New York,Knicks,Regular Season,0,1,19.0,12,5,5,4,1,0,1,1,5,0,7,5,0.713,3,2,0.667,0,0,0.0,101,120,0
+203,1990,29000710,1991-02-23 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,0,13.0,0,6,0,0,0,0,1,1,2,0,2,0,0.0,1,0,0.0,0,0,0.0,110,120,0
+203,1990,29000717,1991-02-24 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,1,1,23.0,6,3,3,1,2,0,4,3,3,0,7,3,0.428,0,0,0.0,0,0,0.0,103,91,0
+203,1990,29000728,1991-02-26 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,1,1,29.0,5,9,5,5,0,1,5,3,2,0,5,2,0.4,3,1,0.333,0,0,0.0,93,81,0
+203,1990,29000752,1991-03-01 20:00:00,Seattle,SuperSonics,Charlotte,Hornets,Regular Season,1,1,20.0,2,9,2,1,1,0,1,0,2,0,3,1,0.333,0,0,0.0,0,0,0.0,122,105,0
+203,1990,29000761,1991-03-02 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,1,1,25.0,8,8,3,1,2,1,3,1,0,0,3,3,1.0,0,0,0.0,2,2,1.0,120,106,0
+203,1990,29000772,1991-03-04 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,1,19.0,4,2,3,3,0,1,0,2,2,0,5,2,0.4,0,0,0.0,0,0,0.0,99,105,0
+203,1990,29000783,1991-03-05 20:00:00,Seattle,SuperSonics,Cleveland,Cavaliers,Regular Season,1,0,21.0,2,7,5,5,0,0,0,1,6,0,5,1,0.2,2,0,0.0,0,0,0.0,111,113,0
+203,1990,29000791,1991-03-07 20:00:00,Seattle,SuperSonics,Minnesota,Timberwolves,Regular Season,0,1,31.0,11,8,11,9,2,0,2,0,2,0,8,5,0.625,0,0,0.0,2,1,0.5,86,91,0
+203,1990,29000808,1991-03-09 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,0,0,16.0,5,3,2,2,0,0,0,3,1,0,4,2,0.5,0,0,0.0,2,1,0.5,112,99,0
+203,1990,29000822,1991-03-12 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,0,0,26.0,9,4,3,2,1,2,1,3,6,0,6,2,0.333,2,0,0.0,6,5,0.832,93,91,0
+203,1990,29000834,1991-03-13 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,0,0,13.0,4,4,5,1,4,1,0,3,1,0,4,2,0.5,0,0,0.0,0,0,0.0,98,96,0
+203,1990,29000845,1991-03-15 20:00:00,Seattle,SuperSonics,Minnesota,Timberwolves,Regular Season,1,0,18.0,3,3,5,4,1,1,0,2,6,0,4,1,0.25,1,1,1.0,0,0,0.0,96,100,0
+203,1990,29000855,1991-03-16 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,1,0,20.0,7,2,5,1,4,0,0,1,3,0,8,3,0.375,1,1,1.0,0,0,0.0,98,104,0
+203,1990,29000882,1991-03-20 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,1,1,20.0,7,2,6,5,1,0,0,1,1,0,6,3,0.5,2,1,0.5,0,0,0.0,114,106,0
+203,1990,29000895,1991-03-22 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,1,21.0,2,8,3,3,0,1,2,0,4,0,4,1,0.25,0,0,0.0,0,0,0.0,105,111,0
+203,1990,29000914,1991-03-24 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,0,23.0,5,3,1,1,0,0,1,1,4,0,5,2,0.4,0,0,0.0,4,1,0.25,113,96,0
+203,1990,29000929,1991-03-26 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,0,22.0,9,3,5,4,1,1,3,3,4,0,5,3,0.599,1,1,1.0,2,2,1.0,126,113,0
+203,1990,29000930,1991-03-27 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,0,22.0,2,2,5,5,0,1,1,2,6,0,5,1,0.2,0,0,0.0,0,0,0.0,107,112,0
+203,1990,29000948,1991-03-29 20:00:00,Seattle,SuperSonics,Minnesota,Timberwolves,Regular Season,1,1,25.0,8,3,7,6,1,0,0,0,3,0,3,3,1.0,0,0,0.0,6,2,0.333,117,107,0
+203,1990,29000952,1991-03-30 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,1,1,18.0,6,3,3,3,0,0,4,2,3,0,1,0,0.0,0,0,0.0,8,6,0.75,115,102,0
+203,1990,29000973,1991-04-03 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,1,1,28.0,6,6,5,4,1,0,0,2,2,0,3,3,1.0,0,0,0.0,0,0,0.0,106,91,0
+203,1990,29000988,1991-04-05 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,0,0,17.0,2,4,3,3,0,0,2,3,2,0,4,1,0.25,0,0,0.0,0,0,0.0,109,90,0
+203,1990,29001007,1991-04-07 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,0,1,21.0,6,3,5,3,2,0,1,3,4,0,6,3,0.5,0,0,0.0,2,0,0.0,117,124,0
+203,1990,29001009,1991-04-08 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,1,19.0,7,8,1,1,0,0,4,1,0,0,4,2,0.5,0,0,0.0,4,3,0.75,118,112,0
+203,1990,29001023,1991-04-10 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,1,1,8.0,2,1,1,1,0,0,0,0,0,0,2,1,0.5,0,0,0.0,0,0,0.0,140,108,0
+203,1990,29001058,1991-04-15 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,1,0,16.0,2,1,2,0,2,0,3,2,4,0,1,1,1.0,0,0,0.0,1,0,0.0,93,97,0
+203,1990,29001077,1991-04-18 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,0,0,25.0,10,3,4,2,2,0,0,1,2,0,9,4,0.444,1,0,0.0,2,2,1.0,130,103,0
+203,1990,29001081,1991-04-19 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,1,21.0,6,7,3,3,0,0,1,0,5,0,5,3,0.599,1,0,0.0,0,0,0.0,104,93,0
+203,1990,29001101,1991-04-21 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,0,27.0,8,8,3,2,1,2,2,1,3,0,5,3,0.599,0,0,0.0,4,2,0.5,103,100,0
+203,1990,49000007,1991-04-26 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Playoffs,0,0,10.0,1,2,0,0,0,0,0,1,2,0,1,0,0.0,1,0,0.0,2,1,0.5,110,102,0
+203,1990,49000016,1991-04-28 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Playoffs,0,0,26.0,2,6,3,2,1,0,1,1,5,0,3,1,0.333,0,0,0.0,0,0,0.0,115,106,0
+203,1990,49000021,1991-04-30 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Playoffs,1,1,20.0,5,6,7,5,2,1,2,0,4,0,7,2,0.285,1,0,0.0,2,1,0.5,102,99,0
+203,1990,49000026,1991-05-02 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Playoffs,1,1,21.0,2,3,7,4,3,0,3,0,1,0,4,1,0.25,0,0,0.0,0,0,0.0,101,89,0
+203,1990,49000031,1991-05-04 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Playoffs,0,0,18.0,4,5,1,1,0,0,0,1,3,0,8,2,0.25,0,0,0.0,0,0,0.0,119,107,0
+203,1991,29100008,1991-11-01 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,0,5.0,2,0,2,2,0,0,1,0,0,0,2,1,0.5,1,0,0.0,0,0,0.0,95,99,0
+203,1991,29100025,1991-11-03 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,1,0,31.0,9,10,1,0,1,0,0,1,3,0,5,3,0.599,2,0,0.0,3,3,1.0,98,106,0
+203,1991,29100037,1991-11-05 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,1,1,11.0,3,4,2,2,0,0,2,1,2,0,3,1,0.333,1,0,0.0,2,1,0.5,98,87,0
+203,1991,29100051,1991-11-07 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,0,1,17.0,6,2,2,2,0,0,1,0,3,0,3,2,0.667,0,0,0.0,2,2,1.0,95,103,0
+203,1991,29100065,1991-11-09 20:00:00,Seattle,SuperSonics,Indiana,Pacers,Regular Season,1,1,16.0,4,3,3,1,2,0,2,1,3,0,3,2,0.667,1,0,0.0,0,0,0.0,118,111,0
+203,1991,29100117,1991-11-17 20:00:00,Seattle,SuperSonics,Minnesota,Timberwolves,Regular Season,0,1,5.0,0,4,1,1,0,0,1,1,1,0,2,0,0.0,0,0,0.0,0,0,0.0,91,101,0
+203,1991,29100120,1991-11-19 20:00:00,Seattle,SuperSonics,Washington,Bullets,Regular Season,0,1,13.0,0,4,2,2,0,2,2,2,2,0,2,0,0.0,1,0,0.0,0,0,0.0,106,113,0
+203,1991,29100137,1991-11-20 20:00:00,Seattle,SuperSonics,Detroit,Pistons,Regular Season,0,1,19.0,0,4,2,2,0,0,0,1,4,0,1,0,0.0,0,0,0.0,0,0,0.0,86,91,0
+203,1991,29100143,1991-11-22 20:00:00,Seattle,SuperSonics,Chicago,Bulls,Regular Season,1,0,17.0,3,2,2,1,1,0,2,1,1,0,5,1,0.2,2,1,0.5,2,0,0.0,109,112,0
+203,1991,29100163,1991-11-24 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,0,0,20.0,11,5,6,2,4,0,4,3,2,0,9,4,0.444,0,0,0.0,3,3,1.0,89,86,0
+203,1991,29100168,1991-11-26 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,1,17.0,0,9,2,1,1,0,3,2,2,0,1,0,0.0,0,0,0.0,0,0,0.0,136,130,0
+203,1991,29100191,1991-11-29 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,0,0,16.0,2,2,4,4,0,0,2,3,4,0,4,1,0.25,2,0,0.0,0,0,0.0,101,90,0
+203,1991,29100199,1991-11-30 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,0,0,33.0,10,3,10,5,5,0,1,2,3,0,13,5,0.385,2,0,0.0,0,0,0.0,119,101,0
+203,1991,29100211,1991-12-03 20:00:00,Seattle,SuperSonics,Washington,Bullets,Regular Season,1,1,21.0,4,2,3,2,1,0,1,0,2,0,2,1,0.5,0,0,0.0,2,2,1.0,91,90,0
+203,1991,29100230,1991-12-06 20:00:00,Seattle,SuperSonics,Minnesota,Timberwolves,Regular Season,1,1,15.0,0,1,1,1,0,1,0,1,5,0,2,0,0.0,0,0,0.0,0,0,0.0,96,94,0
+203,1991,29100245,1991-12-07 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,1,1,20.0,1,6,2,1,1,1,2,1,4,0,1,0,0.0,1,0,0.0,2,1,0.5,104,101,0
+203,1991,29100253,1991-12-10 20:00:00,Seattle,SuperSonics,Chicago,Bulls,Regular Season,0,0,22.0,5,4,1,1,0,0,0,0,3,0,5,2,0.4,0,0,0.0,3,1,0.333,108,103,0
+203,1991,29100266,1991-12-11 20:00:00,Seattle,SuperSonics,New York,Knicks,Regular Season,0,0,20.0,13,3,7,5,2,0,2,3,3,0,9,6,0.667,0,0,0.0,1,1,1.0,96,87,0
+203,1991,29100275,1991-12-13 20:00:00,Seattle,SuperSonics,Boston,Celtics,Regular Season,0,0,22.0,2,8,3,1,2,0,1,1,3,0,3,1,0.333,0,0,0.0,0,0,0.0,117,97,0
+203,1991,29100289,1991-12-14 20:00:00,Seattle,SuperSonics,Philadelphia,76ers,Regular Season,0,0,17.0,10,8,3,3,0,0,1,3,4,0,6,4,0.667,2,2,1.0,0,0,0.0,104,95,0
+203,1991,29100301,1991-12-17 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,1,1,20.0,16,6,4,2,2,1,1,1,3,0,10,7,0.699,2,0,0.0,2,2,1.0,116,99,0
+203,1991,29100318,1991-12-19 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,1,15.0,4,4,2,1,1,0,2,3,1,0,3,2,0.667,0,0,0.0,0,0,0.0,119,106,0
+203,1991,29100355,1991-12-26 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,0,1,17.0,7,3,2,2,0,0,2,3,2,0,4,3,0.75,1,0,0.0,2,1,0.5,106,115,0
+203,1991,29100368,1991-12-27 20:00:00,Seattle,SuperSonics,Boston,Celtics,Regular Season,1,0,12.0,0,0,1,1,0,0,1,0,2,0,0,0,0.0,0,0,0.0,0,0,0.0,87,110,0
+203,1991,29100395,1992-01-02 20:00:00,Seattle,SuperSonics,Miami,Heat,Regular Season,1,1,18.0,4,4,4,2,2,1,0,3,1,0,3,2,0.667,1,0,0.0,0,0,0.0,113,109,0
+203,1991,29100410,1992-01-04 20:00:00,Seattle,SuperSonics,Philadelphia,76ers,Regular Season,1,0,14.0,0,3,1,1,0,0,0,3,2,0,2,0,0.0,1,0,0.0,0,0,0.0,93,112,0
+203,1991,29100425,1992-01-07 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,0,1,14.0,3,1,6,5,1,2,1,1,2,0,2,1,0.5,0,0,0.0,2,1,0.5,99,106,0
+203,1991,29100434,1992-01-08 20:00:00,Seattle,SuperSonics,Orlando,Magic,Regular Season,1,0,16.0,3,5,3,1,2,0,0,4,2,0,2,1,0.5,0,0,0.0,2,1,0.5,103,104,0
+203,1991,29100446,1992-01-10 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,0,1,22.0,1,2,1,1,0,0,1,0,5,0,2,0,0.0,2,0,0.0,2,1,0.5,82,94,0
+203,1991,29100456,1992-01-11 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,0,0,22.0,6,8,2,2,0,0,3,0,2,0,4,3,0.75,0,0,0.0,0,0,0.0,119,115,0
+203,1991,29100465,1992-01-13 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,0,0,17.0,0,3,0,0,0,1,1,0,3,0,2,0,0.0,1,0,0.0,0,0,0.0,98,94,0
+203,1991,29100477,1992-01-14 20:00:00,Seattle,SuperSonics,Charlotte,Hornets,Regular Season,1,0,22.0,0,5,5,3,2,1,0,1,3,0,6,0,0.0,2,0,0.0,0,0,0.0,116,117,0
+203,1991,29100563,1992-01-28 20:00:00,Seattle,SuperSonics,Orlando,Magic,Regular Season,0,1,22.0,2,4,4,2,2,0,1,0,5,0,4,1,0.25,1,0,0.0,0,0,0.0,97,102,0
+203,1991,29100576,1992-01-29 20:00:00,Seattle,SuperSonics,Miami,Heat,Regular Season,0,0,28.0,0,3,1,1,0,0,4,2,4,0,2,0,0.0,0,0,0.0,0,0,0.0,119,114,0
+203,1991,29100580,1992-01-31 20:00:00,Seattle,SuperSonics,Charlotte,Hornets,Regular Season,0,1,19.0,8,8,5,1,4,1,1,1,4,0,5,3,0.599,0,0,0.0,2,2,1.0,105,122,0
+203,1991,29100604,1992-02-02 20:00:00,Seattle,SuperSonics,Milwaukee,Bucks,Regular Season,0,0,23.0,7,3,5,4,1,1,3,4,6,0,6,2,0.333,1,1,1.0,2,2,1.0,122,106,0
+203,1991,29100605,1992-02-03 20:00:00,Seattle,SuperSonics,Atlanta,Hawks,Regular Season,0,1,17.0,0,5,3,2,1,1,2,1,2,0,4,0,0.0,0,0,0.0,0,0,0.0,110,112,0
+203,1991,29100616,1992-02-05 20:00:00,Seattle,SuperSonics,New Jersey,Nets,Regular Season,0,1,30.0,2,4,4,1,3,1,1,0,5,0,5,1,0.2,0,0,0.0,0,0,0.0,85,95,0
+203,1991,29100633,1992-02-11 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,1,1,33.0,10,4,6,4,2,0,1,4,4,0,9,4,0.444,2,0,0.0,2,2,1.0,105,99,0
+203,1991,29100662,1992-02-14 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,1,1,28.0,0,8,5,4,1,0,3,2,1,0,5,0,0.0,2,0,0.0,0,0,0.0,108,91,0
+203,1991,29100666,1992-02-15 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,0,29.0,10,6,3,1,2,0,2,5,4,0,12,5,0.416,2,0,0.0,3,0,0.0,140,122,0
+203,1991,29100686,1992-02-17 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,1,15.0,6,2,2,1,1,0,1,1,3,0,5,2,0.4,0,0,0.0,2,2,1.0,98,96,0
+203,1991,29100704,1992-02-20 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,1,1,19.0,5,4,0,0,0,1,0,0,4,0,3,2,0.667,0,0,0.0,2,1,0.5,105,103,0
+203,1991,29100720,1992-02-22 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,1,32.0,20,8,5,4,1,0,2,2,3,0,12,8,0.667,3,2,0.667,3,2,0.667,113,104,0
+203,1991,29100733,1992-02-24 20:00:00,Seattle,SuperSonics,Minnesota,Timberwolves,Regular Season,0,1,33.0,8,8,8,6,2,2,3,3,2,0,8,4,0.5,0,0,0.0,0,0,0.0,91,106,0
+203,1991,29100751,1992-02-27 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,0,1,36.0,12,7,3,3,0,4,3,1,4,0,8,5,0.625,2,1,0.5,2,1,0.5,124,130,0
+203,1991,29100764,1992-02-29 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,0,0,28.0,9,3,1,0,1,0,1,0,4,0,9,4,0.444,3,1,0.333,2,0,0.0,115,110,0
+203,1991,29100769,1992-03-01 20:00:00,Seattle,SuperSonics,Cleveland,Cavaliers,Regular Season,1,1,28.0,7,2,9,4,5,0,2,3,2,0,9,3,0.333,2,1,0.5,0,0,0.0,113,107,0
+203,1991,29100780,1992-03-03 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,1,29.0,5,2,5,4,1,0,0,4,0,0,6,2,0.333,3,0,0.0,4,1,0.25,111,92,0
+203,1991,29100797,1992-03-05 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,0,24.0,6,4,6,2,4,0,0,2,6,0,9,3,0.333,1,0,0.0,0,0,0.0,118,105,0
+203,1991,29100813,1992-03-07 20:00:00,Seattle,SuperSonics,New Jersey,Nets,Regular Season,1,1,30.0,14,7,6,3,3,0,4,3,5,0,11,7,0.636,1,0,0.0,0,0,0.0,109,98,0
+203,1991,29100823,1992-03-08 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,0,25.0,10,2,4,2,2,1,1,2,5,0,5,2,0.4,2,1,0.5,6,5,0.832,109,97,0
+203,1991,29100833,1992-03-10 20:00:00,Seattle,SuperSonics,Detroit,Pistons,Regular Season,1,0,27.0,6,5,3,2,1,0,3,0,6,0,5,3,0.599,1,0,0.0,0,0,0.0,92,98,0
+203,1991,29100844,1992-03-11 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,0,1,23.0,10,4,2,1,1,0,5,0,1,0,6,4,0.667,2,2,1.0,3,0,0.0,96,104,0
+203,1991,29100870,1992-03-15 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,1,1,32.0,4,3,4,2,2,0,2,2,5,0,6,2,0.333,1,0,0.0,0,0,0.0,109,100,0
+203,1991,29100876,1992-03-17 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,0,16.0,4,3,3,2,1,0,1,1,1,0,5,2,0.4,1,0,0.0,0,0,0.0,107,119,0
+203,1991,29100892,1992-03-19 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,0,1,24.0,4,4,2,2,0,1,4,1,2,0,6,2,0.333,3,0,0.0,0,0,0.0,91,112,0
+203,1991,29100906,1992-03-21 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,0,0,17.0,4,4,1,1,0,0,1,0,3,0,3,2,0.667,0,0,0.0,0,0,0.0,101,96,0
+203,1991,29100913,1992-03-22 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,0,1,33.0,13,8,6,4,2,0,1,1,4,0,9,5,0.556,3,2,0.667,1,1,1.0,105,113,0
+203,1991,29100928,1992-03-24 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,1,1,22.0,7,7,4,2,2,1,2,1,2,0,7,3,0.428,2,1,0.5,0,0,0.0,128,106,0
+203,1991,29100942,1992-03-27 20:00:00,Seattle,SuperSonics,Milwaukee,Bucks,Regular Season,1,1,26.0,10,6,7,5,2,0,1,2,3,0,10,3,0.299,6,2,0.333,2,2,1.0,96,95,0
+203,1991,29100951,1992-03-28 20:00:00,Seattle,SuperSonics,New York,Knicks,Regular Season,1,0,21.0,3,6,0,0,0,1,0,0,1,0,5,1,0.2,4,1,0.25,0,0,0.0,87,92,0
+203,1991,29100972,1992-03-31 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,1,1,36.0,16,8,6,6,0,0,2,1,1,0,11,7,0.636,3,2,0.667,0,0,0.0,122,103,0
+203,1991,29100985,1992-04-02 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,0,1,32.0,9,7,3,3,0,0,2,2,4,0,7,3,0.428,4,2,0.5,2,1,0.5,103,111,0
+203,1991,29100999,1992-04-03 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,1,38.0,8,11,2,1,1,1,5,3,4,0,10,3,0.299,3,0,0.0,2,2,1.0,91,96,0
+203,1991,29101023,1992-04-07 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,1,1,33.0,5,6,2,1,1,0,1,1,2,0,5,2,0.4,2,1,0.5,2,0,0.0,117,88,0
+203,1991,29101031,1992-04-09 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,1,29.0,14,12,7,5,2,1,6,2,3,0,9,6,0.667,3,2,0.667,0,0,0.0,119,104,0
+203,1991,29101043,1992-04-10 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,0,33.0,10,12,5,3,2,0,4,3,6,0,10,4,0.4,1,0,0.0,2,2,1.0,113,106,0
+203,1991,29101055,1992-04-12 20:00:00,Seattle,SuperSonics,Minnesota,Timberwolves,Regular Season,1,1,28.0,10,10,4,3,1,1,3,2,3,0,6,4,0.667,3,2,0.667,0,0,0.0,126,116,0
+203,1991,29101070,1992-04-14 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,0,25.0,6,3,5,1,4,0,4,1,5,0,10,3,0.299,1,0,0.0,0,0,0.0,122,100,0
+203,1991,29101087,1992-04-17 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,1,1,25.0,8,9,5,4,1,0,2,1,4,0,6,2,0.333,2,0,0.0,4,4,1.0,130,106,0
+203,1991,29101103,1992-04-19 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,0,38.0,14,9,6,3,3,1,5,2,3,0,11,5,0.455,3,0,0.0,6,4,0.667,108,106,0
+203,1991,49100003,1992-04-23 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Playoffs,0,1,24.0,4,3,3,3,0,1,1,4,4,0,5,2,0.4,3,0,0.0,0,0,0.0,109,117,0
+203,1991,49100011,1992-04-25 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Playoffs,0,0,24.0,11,3,3,3,0,0,0,3,6,0,9,4,0.444,5,2,0.4,2,1,0.5,115,101,0
+203,1991,49100018,1992-04-28 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Playoffs,1,1,34.0,11,10,4,2,2,0,4,4,4,0,7,3,0.428,5,2,0.4,4,3,0.75,129,128,0
+203,1991,49100027,1992-04-30 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Playoffs,1,1,21.0,11,10,8,4,4,1,2,2,5,0,17,5,0.293,3,0,0.0,1,1,1.0,119,116,0
+203,1991,49100036,1992-05-06 20:00:00,Seattle,SuperSonics,Utah,Jazz,Playoffs,0,0,27.0,17,8,2,1,1,0,1,4,2,0,11,7,0.636,3,1,0.333,2,2,1.0,108,100,0
+203,1991,49100039,1992-05-08 20:00:00,Seattle,SuperSonics,Utah,Jazz,Playoffs,0,0,25.0,4,2,1,0,1,0,1,1,5,0,8,2,0.25,1,0,0.0,0,0,0.0,103,97,0
+203,1991,49100043,1992-05-10 20:00:00,Seattle,SuperSonics,Utah,Jazz,Playoffs,1,1,25.0,8,6,5,1,4,1,0,0,1,0,10,4,0.4,3,0,0.0,0,0,0.0,104,98,0
+203,1991,49100047,1992-05-12 20:00:00,Seattle,SuperSonics,Utah,Jazz,Playoffs,1,0,33.0,10,9,3,3,0,0,3,4,4,0,8,4,0.5,1,0,0.0,3,2,0.667,83,89,0
+203,1991,49100051,1992-05-14 20:00:00,Seattle,SuperSonics,Utah,Jazz,Playoffs,0,0,33.0,10,12,4,2,2,0,4,0,4,0,8,4,0.5,2,1,0.5,2,1,0.5,111,100,0
+203,1992,29200010,1992-11-06 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,0,1,29.0,9,8,4,3,1,0,2,3,2,0,9,3,0.333,2,0,0.0,3,3,1.0,94,111,0
+203,1992,29200014,1992-11-07 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,1,1,33.0,24,5,7,3,4,0,5,4,5,0,11,9,0.817,2,2,1.0,4,4,1.0,89,85,0
+203,1992,29200047,1992-11-12 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,1,1,24.0,7,3,4,2,2,3,3,2,3,0,11,3,0.273,1,0,0.0,2,1,0.5,114,102,0
+203,1992,29200060,1992-11-14 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,1,1,28.0,13,5,4,4,0,1,4,4,1,0,6,4,0.667,3,2,0.667,4,3,0.75,133,117,0
+203,1992,29200072,1992-11-16 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,0,31.0,9,8,6,3,3,0,2,3,6,0,10,4,0.4,5,1,0.2,0,0,0.0,117,108,0
+203,1992,29200075,1992-11-17 20:00:00,Seattle,SuperSonics,New York,Knicks,Regular Season,1,1,20.0,4,4,4,4,0,1,2,2,6,0,4,2,0.5,0,0,0.0,0,0,0.0,100,90,0
+203,1992,29200091,1992-11-19 20:00:00,Seattle,SuperSonics,Chicago,Bulls,Regular Season,1,0,34.0,0,5,7,4,3,0,0,1,3,0,7,0,0.0,0,0,0.0,2,0,0.0,99,108,0
+203,1992,29200101,1992-11-21 20:00:00,Seattle,SuperSonics,Detroit,Pistons,Regular Season,1,1,6.0,0,1,1,1,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,138,101,0
+203,1992,29200214,1992-12-08 20:00:00,Seattle,SuperSonics,New York,Knicks,Regular Season,0,0,27.0,4,3,4,4,0,0,4,4,3,0,4,1,0.25,0,0,0.0,2,2,1.0,100,88,0
+203,1992,29200220,1992-12-09 20:00:00,Seattle,SuperSonics,Philadelphia,76ers,Regular Season,0,0,23.0,9,1,6,3,3,0,1,1,6,0,10,4,0.4,2,1,0.5,0,0,0.0,115,104,0
+203,1992,29200234,1992-12-11 20:00:00,Seattle,SuperSonics,Boston,Celtics,Regular Season,0,1,29.0,6,6,2,2,0,0,3,1,2,0,4,1,0.25,1,0,0.0,4,4,1.0,90,100,0
+203,1992,29200239,1992-12-12 20:00:00,Seattle,SuperSonics,Cleveland,Cavaliers,Regular Season,0,0,27.0,4,6,2,2,0,0,3,3,6,0,7,1,0.142,4,0,0.0,2,2,1.0,97,93,0
+203,1992,29200253,1992-12-15 20:00:00,Seattle,SuperSonics,Milwaukee,Bucks,Regular Season,1,1,24.0,7,7,2,2,0,0,2,0,3,0,5,3,0.599,2,1,0.5,0,0,0.0,108,100,0
+203,1992,29200275,1992-12-18 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,1,33.0,8,15,7,4,3,1,1,1,4,0,10,4,0.4,1,0,0.0,1,0,0.0,126,109,0
+203,1992,29200288,1992-12-19 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,1,1,31.0,7,14,7,6,1,0,2,1,5,0,7,3,0.428,2,0,0.0,2,1,0.5,121,101,0
+203,1992,29200303,1992-12-22 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,1,34.0,9,2,6,5,1,0,1,3,4,0,5,3,0.599,1,0,0.0,6,3,0.5,96,107,0
+203,1992,29200316,1992-12-23 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,1,32.0,2,7,2,2,0,0,3,3,4,0,4,1,0.25,0,0,0.0,0,0,0.0,79,80,0
+203,1992,29200327,1992-12-26 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,0,33.0,15,6,7,6,1,1,5,2,3,0,10,7,0.699,1,0,0.0,2,1,0.5,113,110,0
+203,1992,29200341,1992-12-29 20:00:00,Seattle,SuperSonics,Boston,Celtics,Regular Season,1,1,26.0,9,3,3,3,0,1,1,3,2,0,5,4,0.8,1,1,1.0,0,0,0.0,111,87,0
+203,1992,29200366,1993-01-02 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,1,31.0,5,5,7,4,3,0,4,0,3,0,4,2,0.5,1,1,1.0,0,0,0.0,108,104,0
+203,1992,29200375,1993-01-05 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,1,32.0,21,2,5,2,3,1,4,0,3,0,13,9,0.691,3,1,0.333,3,2,0.667,116,106,0
+203,1992,29200397,1993-01-08 20:00:00,Seattle,SuperSonics,Minnesota,Timberwolves,Regular Season,0,1,29.0,2,5,4,4,0,1,1,2,2,0,6,1,0.167,1,0,0.0,2,0,0.0,93,98,0
+203,1992,29200406,1993-01-09 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,0,1,25.0,10,2,5,3,2,0,0,0,4,0,5,4,0.8,2,1,0.5,2,1,0.5,95,107,0
+203,1992,29200422,1993-01-12 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,1,26.0,0,5,1,1,0,0,4,1,5,0,4,0,0.0,1,0,0.0,0,0,0.0,122,113,0
+203,1992,29200439,1993-01-14 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,0,0,26.0,9,2,3,2,1,0,2,3,3,0,6,3,0.5,1,1,1.0,4,2,0.5,96,89,0
+203,1992,29200447,1993-01-15 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,1,1,19.0,7,4,2,1,1,0,2,2,2,0,3,2,0.667,1,1,1.0,2,2,1.0,123,104,0
+203,1992,29200462,1993-01-17 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,0,30.0,17,3,5,4,1,0,1,4,3,0,10,7,0.699,2,2,1.0,1,1,1.0,109,97,0
+203,1992,29200465,1993-01-18 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,1,1,20.0,7,1,3,3,0,0,2,2,1,0,7,2,0.285,1,0,0.0,5,3,0.599,106,96,0
+203,1992,29200481,1993-01-20 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,1,28.0,6,4,3,2,1,1,1,1,3,0,8,3,0.375,2,0,0.0,0,0,0.0,101,111,0
+203,1992,29200496,1993-01-22 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,1,27.0,4,2,6,6,0,0,1,3,6,0,3,2,0.667,0,0,0.0,0,0,0.0,114,118,0
+203,1992,29200505,1993-01-24 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,0,0,29.0,8,4,5,2,3,0,2,3,5,0,10,2,0.2,0,0,0.0,5,4,0.8,116,95,0
+203,1992,29200527,1993-01-27 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,1,0,32.0,13,8,4,3,1,1,4,2,2,0,11,6,0.545,1,1,1.0,0,0,0.0,99,119,0
+203,1992,29200551,1993-01-30 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,1,24.0,2,8,5,4,1,1,3,2,3,0,2,1,0.5,0,0,0.0,0,0,0.0,108,86,0
+203,1992,29200555,1993-02-01 20:00:00,Seattle,SuperSonics,Charlotte,Hornets,Regular Season,0,0,32.0,9,3,6,5,1,0,3,3,2,0,8,3,0.375,1,0,0.0,3,3,1.0,112,100,0
+203,1992,29200566,1993-02-02 20:00:00,Seattle,SuperSonics,Atlanta,Hawks,Regular Season,0,0,42.0,10,13,2,1,1,1,4,3,2,0,8,3,0.375,2,1,0.5,4,3,0.75,118,109,0
+203,1992,29200575,1993-02-04 20:00:00,Seattle,SuperSonics,New Jersey,Nets,Regular Season,0,0,42.0,9,6,3,1,2,0,5,5,4,0,7,3,0.428,3,2,0.667,2,1,0.5,113,103,0
+203,1992,29200590,1993-02-06 20:00:00,Seattle,SuperSonics,Washington,Bullets,Regular Season,0,1,36.0,7,8,11,9,2,1,3,2,3,0,7,3,0.428,0,0,0.0,2,1,0.5,92,120,0
+203,1992,29200596,1993-02-07 20:00:00,Seattle,SuperSonics,Detroit,Pistons,Regular Season,0,1,32.0,6,11,4,3,1,0,3,3,4,0,9,3,0.333,1,0,0.0,0,0,0.0,101,103,0
+203,1992,29200609,1993-02-09 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,0,36.0,10,7,3,1,2,0,1,1,4,0,11,4,0.363,1,0,0.0,2,2,1.0,92,96,0
+203,1992,29200623,1993-02-11 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,1,0,14.0,0,5,3,3,0,0,0,0,3,0,2,0,0.0,0,0,0.0,0,0,0.0,96,101,0
+203,1992,29200633,1993-02-13 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,1,30.0,6,6,2,1,1,1,2,2,3,0,6,3,0.5,0,0,0.0,2,0,0.0,95,94,0
+203,1992,29200656,1993-02-16 20:00:00,Seattle,SuperSonics,Washington,Bullets,Regular Season,1,1,23.0,5,4,2,2,0,0,3,1,5,0,3,2,0.667,1,0,0.0,2,1,0.5,112,102,0
+203,1992,29200671,1993-02-18 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,1,27.0,3,11,5,4,1,0,1,0,3,0,1,1,1.0,0,0,0.0,2,1,0.5,116,131,0
+203,1992,29200684,1993-02-23 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,0,1,28.0,16,4,5,1,4,2,5,1,4,0,11,6,0.545,0,0,0.0,4,4,1.0,99,103,0
+203,1992,29200693,1993-02-24 20:00:00,Seattle,SuperSonics,Minnesota,Timberwolves,Regular Season,0,1,22.0,4,4,7,4,3,2,2,3,3,0,5,2,0.4,0,0,0.0,0,0,0.0,77,89,0
+203,1992,29200708,1993-02-26 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,0,1,25.0,10,5,2,1,1,1,3,1,3,0,6,5,0.832,0,0,0.0,0,0,0.0,120,141,0
+203,1992,29200715,1993-02-27 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,1,34.0,16,3,3,3,0,1,4,1,2,0,9,7,0.778,1,1,1.0,4,1,0.25,109,92,0
+203,1992,29200733,1993-03-02 20:00:00,Seattle,SuperSonics,Cleveland,Cavaliers,Regular Season,1,1,31.0,4,8,1,1,0,0,3,3,3,0,3,2,0.667,0,0,0.0,0,0,0.0,108,105,0
+203,1992,29200747,1993-03-04 20:00:00,Seattle,SuperSonics,Charlotte,Hornets,Regular Season,1,1,18.0,9,8,5,4,1,0,3,1,2,0,6,4,0.667,0,0,0.0,1,1,1.0,138,112,0
+203,1992,29200760,1993-03-06 20:00:00,Seattle,SuperSonics,Philadelphia,76ers,Regular Season,1,1,23.0,10,5,5,5,0,0,2,1,0,0,4,4,1.0,2,2,1.0,0,0,0.0,149,93,0
+203,1992,29200775,1993-03-08 20:00:00,Seattle,SuperSonics,Indiana,Pacers,Regular Season,0,0,25.0,10,5,3,2,1,0,1,0,3,0,10,4,0.4,1,1,1.0,1,1,1.0,105,99,0
+203,1992,29200778,1993-03-09 20:00:00,Seattle,SuperSonics,Chicago,Bulls,Regular Season,0,0,22.0,0,3,3,3,0,1,2,3,4,0,5,0,0.0,0,0,0.0,0,0,0.0,86,83,0
+203,1992,29200791,1993-03-11 20:00:00,Seattle,SuperSonics,Milwaukee,Bucks,Regular Season,0,1,28.0,2,5,2,1,1,0,2,0,3,0,2,1,0.5,0,0,0.0,0,0,0.0,105,116,0
+203,1992,29200807,1993-03-13 20:00:00,Seattle,SuperSonics,Miami,Heat,Regular Season,0,0,23.0,3,2,4,2,2,0,2,2,5,0,4,1,0.25,0,0,0.0,2,1,0.5,106,102,0
+203,1992,29200813,1993-03-14 20:00:00,Seattle,SuperSonics,Orlando,Magic,Regular Season,0,1,20.0,8,1,4,2,2,0,2,0,2,0,7,3,0.428,0,0,0.0,2,2,1.0,97,105,0
+203,1992,29200829,1993-03-16 20:00:00,Seattle,SuperSonics,Miami,Heat,Regular Season,1,1,35.0,6,7,10,9,1,1,3,2,2,0,4,1,0.25,0,0,0.0,5,4,0.8,98,85,0
+203,1992,29200840,1993-03-18 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,1,1,25.0,10,4,7,4,3,0,3,3,2,0,9,5,0.556,0,0,0.0,0,0,0.0,131,111,0
+203,1992,29200846,1993-03-19 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,0,1,30.0,8,10,4,4,0,1,1,2,5,0,6,3,0.5,0,0,0.0,2,2,1.0,97,108,0
+203,1992,29200862,1993-03-21 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,0,1,33.0,8,4,3,3,0,1,7,2,4,0,5,3,0.599,0,0,0.0,2,2,1.0,89,100,0
+203,1992,29200877,1993-03-23 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,0,32.0,11,9,3,2,1,0,1,2,6,0,6,5,0.832,0,0,0.0,1,1,1.0,99,108,0
+203,1992,29200902,1993-03-27 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,1,1,17.0,6,4,3,3,0,0,1,1,1,0,4,1,0.25,1,0,0.0,6,4,0.667,112,108,0
+203,1992,29200919,1993-03-30 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,0,0,16.0,2,4,2,2,0,0,0,3,3,0,3,1,0.333,0,0,0.0,0,0,0.0,99,97,0
+203,1992,29200932,1993-03-31 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,0,1,19.0,12,0,3,0,3,1,2,1,4,0,5,4,0.8,1,1,1.0,4,3,0.75,96,103,0
+203,1992,29200950,1993-04-03 20:00:00,Seattle,SuperSonics,Atlanta,Hawks,Regular Season,1,1,24.0,8,6,2,2,0,0,2,1,1,0,7,4,0.57,0,0,0.0,1,0,0.0,129,105,0
+203,1992,29200966,1993-04-06 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,1,0,22.0,4,4,4,3,1,0,0,0,4,0,3,0,0.0,1,0,0.0,4,4,1.0,107,109,0
+203,1992,29200989,1993-04-09 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,1,1,24.0,9,7,3,2,1,1,2,1,3,0,7,4,0.57,0,0,0.0,2,1,0.5,111,97,0
+203,1992,29201001,1993-04-11 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,0,32.0,11,6,4,2,2,0,2,3,3,0,11,4,0.363,1,1,1.0,2,2,1.0,98,96,0
+203,1992,29201019,1993-04-13 20:00:00,Seattle,SuperSonics,Minnesota,Timberwolves,Regular Season,1,1,20.0,2,8,3,3,0,1,5,2,3,0,2,0,0.0,0,0,0.0,2,2,1.0,129,95,0
+203,1992,29201041,1993-04-16 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,1,18.0,7,3,4,4,0,0,3,5,5,0,7,3,0.428,0,0,0.0,2,1,0.5,102,108,0
+203,1992,29201049,1993-04-17 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,1,0,33.0,7,7,8,6,2,0,1,1,2,0,6,2,0.333,2,0,0.0,3,3,1.0,81,86,0
+203,1992,29201057,1993-04-19 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,1,1,26.0,9,2,4,1,3,1,0,2,5,0,3,3,1.0,0,0,0.0,3,3,1.0,96,89,0
+203,1992,29201077,1993-04-22 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,0,1,34.0,11,6,7,5,2,1,4,5,3,0,12,5,0.416,2,0,0.0,2,1,0.5,98,100,0
+203,1992,29201092,1993-04-23 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,1,1,22.0,1,2,4,4,0,1,5,1,4,0,3,0,0.0,0,0,0.0,2,1,0.5,122,93,0
+203,1992,49200006,1993-04-30 20:00:00,Seattle,SuperSonics,Utah,Jazz,Playoffs,1,1,27.0,3,9,5,4,1,0,3,1,2,0,7,1,0.142,1,0,0.0,2,1,0.5,99,85,0
+203,1992,49200013,1993-05-02 20:00:00,Seattle,SuperSonics,Utah,Jazz,Playoffs,1,0,22.0,0,7,3,2,1,1,1,1,2,0,5,0,0.0,2,0,0.0,0,0,0.0,85,89,0
+203,1992,49200020,1993-05-04 20:00:00,Seattle,SuperSonics,Utah,Jazz,Playoffs,0,0,18.0,0,2,2,1,1,0,1,2,4,0,3,0,0.0,2,0,0.0,0,0,0.0,90,80,0
+203,1992,49200028,1993-05-06 20:00:00,Seattle,SuperSonics,Utah,Jazz,Playoffs,0,1,18.0,2,4,2,1,1,0,1,0,4,0,4,1,0.25,0,0,0.0,0,0,0.0,80,93,0
+203,1992,49200033,1993-05-08 20:00:00,Seattle,SuperSonics,Utah,Jazz,Playoffs,1,1,20.0,16,1,3,2,1,0,2,1,4,0,9,6,0.667,2,1,0.5,4,3,0.75,100,92,0
+203,1992,49200037,1993-05-10 20:00:00,Seattle,SuperSonics,Houston,Rockets,Playoffs,1,1,16.0,2,10,3,3,0,0,2,1,0,0,0,0,0.0,0,0,0.0,2,2,1.0,99,90,0
+203,1992,49200040,1993-05-12 20:00:00,Seattle,SuperSonics,Houston,Rockets,Playoffs,1,1,23.0,4,3,3,3,0,1,2,0,0,0,3,2,0.667,0,0,0.0,2,0,0.0,111,100,0
+203,1992,49200046,1993-05-15 20:00:00,Seattle,SuperSonics,Houston,Rockets,Playoffs,0,0,24.0,6,4,2,0,2,1,3,0,2,0,3,2,0.667,2,2,1.0,4,0,0.0,97,79,0
+203,1992,49200048,1993-05-16 20:00:00,Seattle,SuperSonics,Houston,Rockets,Playoffs,0,0,30.0,13,8,3,2,1,0,4,0,2,0,11,5,0.455,3,1,0.333,2,2,1.0,103,92,0
+203,1992,49200052,1993-05-18 20:00:00,Seattle,SuperSonics,Houston,Rockets,Playoffs,1,1,17.0,4,5,1,1,0,1,1,0,2,0,3,1,0.333,1,0,0.0,2,2,1.0,120,95,0
+203,1992,49200056,1993-05-20 20:00:00,Seattle,SuperSonics,Houston,Rockets,Playoffs,0,0,27.0,2,3,4,4,0,1,3,2,1,0,6,1,0.167,1,0,0.0,0,0,0.0,103,90,0
+203,1992,49200057,1993-05-22 20:00:00,Seattle,SuperSonics,Houston,Rockets,Playoffs,1,1,20.0,4,6,7,5,2,0,3,1,3,0,3,2,0.667,1,0,0.0,0,0,0.0,103,100,0
+203,1992,49200059,1993-05-24 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Playoffs,0,0,28.0,6,7,6,4,2,2,4,0,3,0,12,3,0.25,1,0,0.0,0,0,0.0,105,91,0
+203,1992,49200061,1993-05-26 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Playoffs,0,1,18.0,0,6,8,6,2,0,1,3,3,0,4,0,0.0,1,0,0.0,0,0,0.0,99,103,0
+203,1992,49200062,1993-05-28 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Playoffs,1,0,23.0,6,5,4,2,2,1,0,4,3,0,6,2,0.333,3,0,0.0,4,2,0.5,97,104,0
+203,1992,49200064,1993-05-30 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Playoffs,1,1,22.0,6,5,5,3,2,0,6,1,3,0,7,3,0.428,0,0,0.0,0,0,0.0,120,101,0
+203,1992,49200066,1993-06-01 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Playoffs,0,0,19.0,3,7,2,0,2,1,1,1,4,0,3,1,0.333,1,0,0.0,2,1,0.5,120,114,0
+203,1992,49200068,1993-06-03 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Playoffs,1,1,20.0,5,4,3,2,1,2,1,5,6,0,6,2,0.333,1,0,0.0,2,1,0.5,118,102,0
+203,1992,49200070,1993-06-05 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Playoffs,0,0,23.0,9,7,1,1,0,0,1,1,6,0,8,3,0.375,2,1,0.5,4,2,0.5,123,110,0
+203,1993,29300016,1993-11-06 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,1,1,29.0,15,11,6,6,0,0,1,3,5,0,9,7,0.778,3,1,0.333,1,0,0.0,129,101,0
+203,1993,29300029,1993-11-08 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,0,1,19.0,3,1,3,2,1,0,0,3,3,0,4,1,0.25,0,0,0.0,2,1,0.5,100,101,0
+203,1993,29300037,1993-11-09 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,1,29.0,4,3,6,6,0,0,0,3,2,0,7,2,0.285,3,0,0.0,0,0,0.0,118,86,0
+203,1993,29300050,1993-11-11 20:00:00,Seattle,SuperSonics,Cleveland,Cavaliers,Regular Season,1,1,25.0,7,6,5,5,0,1,4,4,4,0,3,2,0.667,2,1,0.5,2,2,1.0,115,102,0
+203,1993,29300063,1993-11-13 20:00:00,Seattle,SuperSonics,Atlanta,Hawks,Regular Season,1,1,32.0,3,8,3,2,1,1,4,0,4,0,4,1,0.25,3,1,0.333,0,0,0.0,97,89,0
+203,1993,29300083,1993-11-16 20:00:00,Seattle,SuperSonics,Chicago,Bulls,Regular Season,1,1,28.0,7,10,2,2,0,1,4,4,1,0,6,3,0.5,2,1,0.5,0,0,0.0,95,94,0
+203,1993,29300105,1993-11-19 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,1,1,23.0,3,4,2,2,0,0,2,0,3,0,2,1,0.5,1,1,1.0,0,0,0.0,116,87,0
+203,1993,29300114,1993-11-20 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,1,32.0,19,7,8,8,0,0,3,2,4,0,9,7,0.778,4,3,0.75,3,2,0.667,97,112,0
+203,1993,29300139,1993-11-24 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,0,1,37.0,13,11,2,2,0,1,8,2,3,0,7,5,0.713,1,1,1.0,2,2,1.0,93,120,0
+203,1993,29300145,1993-11-26 20:00:00,Seattle,SuperSonics,Minnesota,Timberwolves,Regular Season,0,1,33.0,8,11,5,5,0,0,5,2,3,0,8,4,0.5,2,0,0.0,0,0,0.0,92,110,0
+203,1993,29300160,1993-11-27 20:00:00,Seattle,SuperSonics,Cleveland,Cavaliers,Regular Season,0,0,30.0,5,7,5,4,1,0,3,0,5,0,7,1,0.142,2,1,0.5,4,2,0.5,101,90,0
+203,1993,29300171,1993-11-30 20:00:00,Seattle,SuperSonics,Philadelphia,76ers,Regular Season,0,1,34.0,11,4,6,5,1,0,3,4,5,0,12,5,0.416,3,1,0.333,0,0,0.0,80,92,0
+203,1993,29300181,1993-12-02 20:00:00,Seattle,SuperSonics,Washington,Bullets,Regular Season,0,1,27.0,16,3,2,1,1,1,3,2,5,0,8,7,0.875,1,1,1.0,4,1,0.25,95,105,0
+203,1993,29300197,1993-12-04 20:00:00,Seattle,SuperSonics,Minnesota,Timberwolves,Regular Season,1,1,25.0,12,2,3,1,2,0,6,0,3,0,11,5,0.455,4,2,0.5,2,0,0.0,99,82,0
+203,1993,29300205,1993-12-06 20:00:00,Seattle,SuperSonics,Washington,Bullets,Regular Season,1,1,33.0,11,7,4,3,1,3,4,3,3,0,9,5,0.556,3,1,0.333,1,0,0.0,103,96,0
+203,1993,29300220,1993-12-08 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,0,1,28.0,6,7,6,3,3,0,3,2,3,0,4,2,0.5,2,2,1.0,0,0,0.0,107,109,0
+203,1993,29300228,1993-12-09 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,0,1,24.0,6,7,3,3,0,0,3,2,2,0,4,2,0.5,2,2,1.0,0,0,0.0,93,125,0
+203,1993,29300241,1993-12-11 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,0,0,35.0,7,3,4,3,1,0,4,0,5,0,8,3,0.375,2,0,0.0,2,1,0.5,82,75,0
+203,1993,29300257,1993-12-14 20:00:00,Seattle,SuperSonics,Orlando,Magic,Regular Season,1,1,23.0,11,8,2,2,0,1,4,4,3,0,7,5,0.713,1,1,1.0,0,0,0.0,124,100,0
+203,1993,29300282,1993-12-17 20:00:00,Seattle,SuperSonics,Milwaukee,Bucks,Regular Season,1,1,27.0,6,7,3,3,0,1,5,1,4,0,5,2,0.4,3,2,0.667,0,0,0.0,127,97,0
+203,1993,29300292,1993-12-18 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,1,28.0,10,7,5,4,1,0,2,3,4,0,8,4,0.5,4,2,0.5,0,0,0.0,126,111,0
+203,1993,29300305,1993-12-21 20:00:00,Seattle,SuperSonics,Indiana,Pacers,Regular Season,1,1,30.0,0,7,3,2,1,0,4,3,2,0,4,0,0.0,2,0,0.0,0,0,0.0,91,88,0
+203,1993,29300322,1993-12-23 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,0,30.0,13,8,4,3,1,0,5,1,2,0,15,6,0.4,6,1,0.167,0,0,0.0,86,87,0
+203,1993,29300347,1993-12-28 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,1,1,22.0,0,9,2,2,0,0,2,2,0,0,3,0,0.0,0,0,0.0,0,0,0.0,112,97,0
+203,1993,29300352,1993-12-29 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,1,22.0,1,5,3,3,0,1,1,3,4,0,3,0,0.0,1,0,0.0,2,1,0.5,92,99,0
+203,1993,29300378,1994-01-04 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,1,24.0,4,3,9,8,1,0,4,0,2,0,2,1,0.5,1,0,0.0,2,2,1.0,106,112,0
+203,1993,29300391,1994-01-05 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,0,1,17.0,6,3,2,2,0,0,2,0,2,0,6,3,0.5,0,0,0.0,0,0,0.0,98,106,0
+203,1993,29300404,1994-01-07 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,1,1,24.0,12,6,6,5,1,0,5,2,4,0,6,5,0.832,2,2,1.0,0,0,0.0,102,93,0
+203,1993,29300411,1994-01-08 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,1,1,29.0,8,10,8,7,1,0,5,2,4,0,7,4,0.57,1,0,0.0,0,0,0.0,108,87,0
+203,1993,29300428,1994-01-11 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,0,22.0,3,2,3,2,1,0,1,2,1,0,3,1,0.333,0,0,0.0,2,1,0.5,108,99,0
+203,1993,29300447,1994-01-14 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,0,23.0,3,4,3,1,2,1,0,0,3,0,6,1,0.167,2,1,0.5,0,0,0.0,121,100,0
+203,1993,29300454,1994-01-15 20:00:00,Seattle,SuperSonics,Miami,Heat,Regular Season,1,1,18.0,0,4,5,4,1,0,1,2,1,0,2,0,0.0,0,0,0.0,0,0,0.0,97,78,0
+203,1993,29300487,1994-01-19 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,0,1,4.0,0,1,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,95,114,0
+203,1993,29300497,1994-01-21 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,0,1,20.0,0,3,4,3,1,0,2,1,2,0,1,0,0.0,0,0,0.0,0,0,0.0,87,91,0
+203,1993,29300502,1994-01-22 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,0,0,25.0,4,4,3,2,1,0,0,2,5,0,8,2,0.25,2,0,0.0,0,0,0.0,98,91,0
+203,1993,29300516,1994-01-24 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,0,0,28.0,10,2,3,2,1,0,3,0,4,0,8,5,0.625,0,0,0.0,0,0,0.0,95,90,0
+203,1993,29300522,1994-01-25 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,1,0,26.0,4,6,6,4,2,1,3,1,1,0,9,2,0.222,2,0,0.0,0,0,0.0,103,111,0
+203,1993,29300537,1994-01-27 20:00:00,Seattle,SuperSonics,New Jersey,Nets,Regular Season,1,1,25.0,6,5,3,2,1,0,6,1,1,0,5,2,0.4,1,0,0.0,2,2,1.0,102,92,0
+203,1993,29300546,1994-01-29 20:00:00,Seattle,SuperSonics,New York,Knicks,Regular Season,1,0,23.0,2,5,1,1,0,0,1,4,4,0,3,0,0.0,0,0,0.0,2,2,1.0,92,106,0
+203,1993,29300563,1994-02-01 20:00:00,Seattle,SuperSonics,New Jersey,Nets,Regular Season,0,0,25.0,5,7,3,1,2,0,0,0,3,0,5,2,0.4,2,1,0.5,0,0,0.0,104,103,0
+203,1993,29300577,1994-02-02 20:00:00,Seattle,SuperSonics,Boston,Celtics,Regular Season,0,1,25.0,0,8,5,4,1,0,6,3,1,0,2,0,0.0,2,0,0.0,0,0,0.0,84,97,0
+203,1993,29300586,1994-02-04 20:00:00,Seattle,SuperSonics,Detroit,Pistons,Regular Season,0,1,26.0,4,5,3,3,0,0,7,0,3,0,3,2,0.667,0,0,0.0,3,0,0.0,84,108,0
+203,1993,29300595,1994-02-05 20:00:00,Seattle,SuperSonics,Milwaukee,Bucks,Regular Season,0,1,24.0,10,4,1,1,0,0,0,3,2,0,8,4,0.5,3,1,0.333,1,1,1.0,94,115,0
+203,1993,29300625,1994-02-09 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,1,27.0,8,5,7,7,0,0,0,1,1,0,3,3,1.0,1,1,1.0,2,1,0.5,115,94,0
+203,1993,29300635,1994-02-15 20:00:00,Seattle,SuperSonics,Philadelphia,76ers,Regular Season,1,1,22.0,4,8,8,5,3,0,3,3,0,0,5,2,0.4,0,0,0.0,0,0,0.0,133,105,0
+203,1993,29300658,1994-02-17 20:00:00,Seattle,SuperSonics,Miami,Heat,Regular Season,0,0,22.0,2,1,3,3,0,1,2,1,3,0,2,1,0.5,0,0,0.0,0,0,0.0,115,112,0
+203,1993,29300659,1994-02-18 20:00:00,Seattle,SuperSonics,Orlando,Magic,Regular Season,0,0,28.0,6,6,6,6,0,1,3,4,4,0,7,2,0.285,2,0,0.0,2,2,1.0,124,93,0
+203,1993,29300680,1994-02-20 20:00:00,Seattle,SuperSonics,Indiana,Pacers,Regular Season,0,0,26.0,2,9,3,3,0,0,4,1,5,0,3,1,0.333,1,0,0.0,0,0,0.0,101,95,0
+203,1993,29300688,1994-02-22 20:00:00,Seattle,SuperSonics,New York,Knicks,Regular Season,0,1,13.0,5,0,3,3,0,0,0,2,2,0,2,2,1.0,1,1,1.0,0,0,0.0,82,93,0
+203,1993,29300772,1994-03-06 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,0,1,13.0,0,6,4,3,1,0,3,2,1,0,1,0,0.0,1,0,0.0,0,0,0.0,85,102,0
+203,1993,29300819,1994-03-13 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,1,33.0,13,8,1,1,0,1,4,1,3,0,9,5,0.556,5,3,0.599,0,0,0.0,114,102,0
+203,1993,29300830,1994-03-15 20:00:00,Seattle,SuperSonics,Detroit,Pistons,Regular Season,1,0,39.0,5,9,7,7,0,0,3,0,2,0,5,2,0.4,1,0,0.0,2,1,0.5,87,89,0
+203,1993,29300842,1994-03-17 20:00:00,Seattle,SuperSonics,Minnesota,Timberwolves,Regular Season,0,1,22.0,2,5,2,2,0,1,3,1,1,0,2,0,0.0,2,0,0.0,2,2,1.0,92,107,0
+203,1993,29300848,1994-03-18 20:00:00,Seattle,SuperSonics,Chicago,Bulls,Regular Season,0,0,28.0,8,3,6,5,1,1,5,1,5,0,4,3,0.75,1,1,1.0,2,1,0.5,87,84,0
+203,1993,29300863,1994-03-20 20:00:00,Seattle,SuperSonics,Charlotte,Hornets,Regular Season,0,1,21.0,4,5,2,1,1,0,1,0,3,0,6,2,0.333,1,0,0.0,0,0,0.0,115,124,0
+203,1993,29300876,1994-03-22 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,1,1,29.0,6,6,4,4,0,0,2,2,2,0,4,3,0.75,0,0,0.0,0,0,0.0,105,89,0
+203,1993,29300893,1994-03-24 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,1,22.0,8,4,3,2,1,0,5,2,2,0,6,3,0.5,4,2,0.5,0,0,0.0,116,106,0
+203,1993,29300909,1994-03-26 20:00:00,Seattle,SuperSonics,Minnesota,Timberwolves,Regular Season,1,1,21.0,4,4,2,2,0,2,3,1,6,0,3,2,0.667,1,0,0.0,0,0,0.0,113,93,0
+203,1993,29300918,1994-03-28 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,1,22.0,10,6,2,2,0,0,3,1,2,0,8,4,0.5,3,2,0.667,1,0,0.0,111,97,0
+203,1993,29300920,1994-03-29 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,1,25.0,2,4,2,1,1,0,2,0,3,0,5,1,0.2,2,0,0.0,0,0,0.0,100,114,0
+203,1993,29300938,1994-03-31 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,1,1,24.0,2,3,3,3,0,0,2,2,0,0,3,1,0.333,1,0,0.0,0,0,0.0,95,92,0
+203,1993,29300953,1994-04-02 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,1,33.0,4,3,3,3,0,0,5,3,2,0,8,2,0.25,3,0,0.0,0,0,0.0,119,109,0
+203,1993,29300966,1994-04-05 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,1,1,31.0,9,4,3,1,2,0,2,1,1,0,6,4,0.667,2,1,0.5,0,0,0.0,86,79,0
+203,1993,29300984,1994-04-07 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,0,0,34.0,6,4,4,4,0,1,1,1,4,0,4,2,0.5,1,1,1.0,4,1,0.25,104,90,0
+203,1993,29300989,1994-04-08 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,1,1,26.0,7,1,6,4,2,0,6,4,2,0,7,3,0.428,3,1,0.333,0,0,0.0,111,93,0
+203,1993,29301004,1994-04-10 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,1,27.0,5,4,4,3,1,0,2,2,5,0,5,2,0.4,2,1,0.5,0,0,0.0,111,108,0
+203,1993,29301013,1994-04-12 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,0,1,27.0,2,5,3,2,1,0,3,4,1,0,3,0,0.0,0,0,0.0,2,2,1.0,101,116,0
+203,1993,29301029,1994-04-14 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,1,1,29.0,12,6,3,3,0,1,6,3,3,0,8,4,0.5,8,4,0.5,0,0,0.0,150,101,0
+203,1993,29301043,1994-04-16 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,1,1,19.0,6,2,3,3,0,0,4,2,2,0,5,2,0.4,4,2,0.5,0,0,0.0,100,97,0
+203,1993,29301062,1994-04-19 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,0,27.0,6,3,2,2,0,0,0,0,3,0,5,2,0.4,4,2,0.5,0,0,0.0,122,116,0
+203,1993,29301070,1994-04-20 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,1,31.0,7,9,5,5,0,0,6,3,3,0,6,3,0.5,0,0,0.0,1,1,1.0,90,112,0
+203,1993,29301085,1994-04-22 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,1,1,27.0,2,5,9,4,5,0,3,0,3,0,3,1,0.333,2,0,0.0,0,0,0.0,94,87,0
+203,1993,29301104,1994-04-24 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,1,26.0,2,4,5,5,0,0,1,2,2,0,6,1,0.167,2,0,0.0,0,0,0.0,108,110,0
+203,1993,49300002,1994-04-28 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Playoffs,1,1,23.0,3,3,4,2,2,0,1,1,5,0,4,1,0.25,1,1,1.0,0,0,0.0,106,82,0
+203,1993,49300011,1994-04-30 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Playoffs,1,1,19.0,6,2,4,4,0,1,1,0,2,0,3,2,0.667,2,1,0.5,2,1,0.5,97,87,0
+203,1993,49300017,1994-05-02 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Playoffs,0,0,24.0,8,1,3,1,2,0,2,0,6,0,5,3,0.599,4,2,0.5,2,0,0.0,110,93,0
+203,1993,49300025,1994-05-05 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Playoffs,0,0,23.0,2,2,2,2,0,0,2,3,4,0,7,1,0.142,2,0,0.0,0,0,0.0,94,85,0
+203,1993,49300030,1994-05-07 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Playoffs,1,0,20.0,2,2,3,1,2,0,0,1,1,0,6,1,0.167,2,0,0.0,0,0,0.0,94,98,0
+203,1994,29400013,1994-11-05 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,1,1,21.0,3,4,3,3,0,0,3,0,4,0,3,1,0.333,1,1,1.0,0,0,0.0,110,103,0
+203,1994,29400040,1994-11-09 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,1,0,31.0,8,5,2,2,0,0,4,2,6,0,6,3,0.5,4,2,0.5,0,0,0.0,100,108,0
+203,1994,29400047,1994-11-11 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,1,26.0,6,6,5,3,2,1,6,3,3,0,4,2,0.5,3,2,0.667,0,0,0.0,129,123,0
+203,1994,29400066,1994-11-13 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,1,1,22.0,2,6,0,0,0,2,3,1,2,0,4,1,0.25,2,0,0.0,0,0,0.0,115,90,0
+203,1994,29400073,1994-11-15 20:00:00,Seattle,SuperSonics,New Jersey,Nets,Regular Season,0,0,16.0,1,1,3,3,0,0,1,1,6,0,4,0,0.0,2,0,0.0,2,1,0.5,112,106,0
+203,1994,29400081,1994-11-16 20:00:00,Seattle,SuperSonics,Boston,Celtics,Regular Season,0,0,32.0,10,7,6,5,1,0,3,3,3,0,6,4,0.667,4,2,0.5,0,0,0.0,120,93,0
+203,1994,29400098,1994-11-18 20:00:00,Seattle,SuperSonics,Indiana,Pacers,Regular Season,0,0,25.0,4,2,3,3,0,1,0,0,2,0,6,2,0.333,3,0,0.0,0,0,0.0,94,87,0
+203,1994,29400104,1994-11-19 20:00:00,Seattle,SuperSonics,Milwaukee,Bucks,Regular Season,0,1,26.0,8,6,5,4,1,0,3,4,4,0,5,4,0.8,0,0,0.0,0,0,0.0,96,120,0
+203,1994,29400117,1994-11-22 20:00:00,Seattle,SuperSonics,New Jersey,Nets,Regular Season,1,1,22.0,5,3,1,1,0,0,4,1,5,0,6,2,0.333,2,1,0.5,0,0,0.0,104,97,0
+203,1994,29400121,1994-11-23 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,0,0,29.0,7,6,2,2,0,2,3,1,1,0,4,2,0.5,2,1,0.5,2,2,1.0,113,103,0
+203,1994,29400137,1994-11-25 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,0,1,19.0,0,3,4,4,0,0,0,0,3,0,5,0,0.0,2,0,0.0,0,0,0.0,94,114,0
+203,1994,29400146,1994-11-26 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,0,1,29.0,0,4,0,0,0,0,0,2,3,0,3,0,0.0,1,0,0.0,0,0,0.0,94,98,0
+203,1994,29400156,1994-11-28 20:00:00,Seattle,SuperSonics,Indiana,Pacers,Regular Season,1,1,26.0,5,6,3,2,1,0,4,1,5,0,5,2,0.4,4,1,0.25,0,0,0.0,118,99,0
+203,1994,29400171,1994-11-30 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,1,1,27.0,8,4,3,2,1,0,3,2,3,0,7,3,0.428,2,0,0.0,2,2,1.0,109,100,0
+203,1994,29400189,1994-12-03 20:00:00,Seattle,SuperSonics,Milwaukee,Bucks,Regular Season,1,1,27.0,4,9,3,3,0,1,1,2,4,0,3,2,0.667,1,0,0.0,0,0,0.0,111,108,0
+203,1994,29400202,1994-12-06 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,1,1,22.0,5,7,3,2,1,1,0,0,3,0,3,2,0.667,1,1,1.0,0,0,0.0,103,90,0
+203,1994,29400215,1994-12-08 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,0,0,18.0,0,6,2,2,0,0,0,1,6,0,2,0,0.0,1,0,0.0,0,0,0.0,103,91,0
+203,1994,29400227,1994-12-10 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,0,1,43.0,15,5,9,7,2,0,1,4,5,0,10,6,0.599,3,3,1.0,0,0,0.0,127,132,0
+203,1994,29400261,1994-12-14 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,0,28.0,10,4,8,6,2,1,2,2,5,0,9,4,0.444,4,2,0.5,0,0,0.0,111,93,0
+203,1994,29400266,1994-12-15 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,1,20.0,9,5,3,0,3,0,2,1,3,0,7,4,0.57,1,1,1.0,0,0,0.0,114,103,0
+203,1994,29400281,1994-12-17 20:00:00,Seattle,SuperSonics,Orlando,Magic,Regular Season,1,1,4.0,0,2,2,2,0,0,0,0,0,0,1,0,0.0,1,0,0.0,0,0,0.0,124,84,0
+203,1994,29400311,1994-12-22 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,1,1,2.0,0,0,1,1,0,0,0,0,0,0,1,0,0.0,1,0,0.0,0,0,0.0,103,101,0
+203,1994,29400326,1994-12-25 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,0,0,19.0,0,2,1,1,0,1,0,0,6,0,3,0,0.0,2,0,0.0,0,0,0.0,105,96,0
+203,1994,29400332,1994-12-26 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,1,1,23.0,5,5,6,4,2,1,3,1,4,0,4,2,0.5,1,0,0.0,2,1,0.5,123,103,0
+203,1994,29400347,1994-12-28 20:00:00,Seattle,SuperSonics,Philadelphia,76ers,Regular Season,1,1,27.0,6,10,5,3,2,1,5,2,3,0,7,3,0.428,1,0,0.0,0,0,0.0,121,102,0
+203,1994,29400352,1994-12-29 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,0,7.0,0,3,0,0,0,1,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,96,95,0
+203,1994,29400377,1995-01-03 20:00:00,Seattle,SuperSonics,Washington,Bullets,Regular Season,0,1,29.0,11,9,5,4,1,1,6,2,2,0,9,4,0.444,3,1,0.333,2,2,1.0,107,121,0
+203,1994,29400382,1995-01-04 20:00:00,Seattle,SuperSonics,Cleveland,Cavaliers,Regular Season,0,1,23.0,9,2,5,5,0,0,0,2,2,0,4,3,0.75,3,2,0.667,2,1,0.5,85,116,0
+203,1994,29400398,1995-01-06 20:00:00,Seattle,SuperSonics,Chicago,Bulls,Regular Season,0,1,24.0,5,1,2,2,0,0,2,2,5,0,5,1,0.2,4,1,0.25,2,2,1.0,101,108,0
+203,1994,29400420,1995-01-10 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,1,30.0,4,13,8,6,2,1,0,1,5,0,8,2,0.25,6,0,0.0,0,0,0.0,118,128,0
+203,1994,29400457,1995-01-15 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,1,25.0,8,7,3,1,2,0,3,3,5,0,5,3,0.599,4,2,0.5,0,0,0.0,131,124,0
+203,1994,29400468,1995-01-17 20:00:00,Seattle,SuperSonics,Cleveland,Cavaliers,Regular Season,1,1,26.0,2,7,3,2,1,1,1,2,2,0,5,1,0.2,2,0,0.0,0,0,0.0,115,91,0
+203,1994,29400483,1995-01-19 20:00:00,Seattle,SuperSonics,Minnesota,Timberwolves,Regular Season,0,1,28.0,8,5,6,5,1,2,2,0,3,0,5,4,0.8,0,0,0.0,1,0,0.0,87,102,0
+203,1994,29400500,1995-01-21 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,0,1,21.0,9,4,4,2,2,2,3,1,1,0,6,3,0.5,0,0,0.0,3,3,1.0,91,117,0
+203,1994,29400518,1995-01-24 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,1,26.0,11,5,7,6,1,1,1,0,2,0,6,4,0.667,4,3,0.75,0,0,0.0,111,89,0
+203,1994,29400532,1995-01-26 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,1,0,29.0,9,5,6,5,1,2,2,1,4,0,6,4,0.667,1,1,1.0,0,0,0.0,108,120,0
+203,1994,29400547,1995-01-28 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,1,0,26.0,4,3,4,2,2,0,0,2,2,0,5,1,0.2,1,1,1.0,2,1,0.5,121,128,0
+203,1994,29400555,1995-01-30 20:00:00,Seattle,SuperSonics,Philadelphia,76ers,Regular Season,0,1,25.0,6,9,3,1,2,0,0,3,6,0,4,2,0.5,2,1,0.5,2,1,0.5,104,109,0
+203,1994,29400578,1995-02-02 20:00:00,Seattle,SuperSonics,Orlando,Magic,Regular Season,0,1,26.0,3,8,6,5,1,3,0,1,3,0,6,1,0.167,1,0,0.0,2,1,0.5,103,106,0
+203,1994,29400584,1995-02-03 20:00:00,Seattle,SuperSonics,Atlanta,Hawks,Regular Season,0,1,20.0,3,3,3,3,0,1,1,1,3,0,3,1,0.333,3,1,0.333,0,0,0.0,98,121,0
+203,1994,29400600,1995-02-05 20:00:00,Seattle,SuperSonics,Miami,Heat,Regular Season,0,1,31.0,10,12,6,6,0,0,4,1,4,0,4,4,1.0,2,2,1.0,0,0,0.0,109,136,0
+203,1994,29400608,1995-02-07 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,1,0,30.0,13,2,4,3,1,0,1,2,2,0,7,6,0.856,1,1,1.0,0,0,0.0,103,106,0
+203,1994,29400628,1995-02-09 20:00:00,Seattle,SuperSonics,Chicago,Bulls,Regular Season,1,1,30.0,10,6,6,6,0,1,5,2,2,0,8,4,0.5,4,1,0.25,2,1,0.5,126,118,0
+203,1994,29400637,1995-02-14 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,1,31.0,6,10,6,6,0,0,2,0,3,0,8,3,0.375,2,0,0.0,0,0,0.0,118,108,0
+203,1994,29400641,1995-02-15 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,0,28.0,4,5,1,1,0,0,5,2,6,0,7,2,0.285,1,0,0.0,0,0,0.0,102,96,0
+203,1994,29400654,1995-02-17 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,0,25.0,2,4,4,3,1,0,1,2,4,0,1,1,1.0,0,0,0.0,0,0,0.0,114,109,0
+203,1994,29400665,1995-02-18 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,1,26.0,8,5,4,2,2,0,2,2,4,0,5,2,0.4,1,0,0.0,4,4,1.0,117,129,0
+203,1994,29400682,1995-02-20 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,1,0,28.0,0,2,3,2,1,1,1,1,3,0,4,0,0.0,2,0,0.0,0,0,0.0,105,108,0
+203,1994,29400693,1995-02-22 20:00:00,Seattle,SuperSonics,Minnesota,Timberwolves,Regular Season,1,1,27.0,4,3,1,1,0,3,3,2,2,0,2,2,1.0,0,0,0.0,0,0,0.0,120,104,0
+203,1994,29400706,1995-02-24 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,1,23.0,2,3,2,2,0,0,3,0,4,0,2,1,0.5,1,0,0.0,0,0,0.0,90,86,0
+203,1994,29400729,1995-02-27 20:00:00,Seattle,SuperSonics,Charlotte,Hornets,Regular Season,1,0,20.0,6,1,5,5,0,0,1,1,3,0,3,2,0.667,2,2,1.0,0,0,0.0,114,116,0
+203,1994,29400748,1995-03-02 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,0,1,24.0,0,5,4,4,0,1,2,1,3,0,3,0,0.0,0,0,0.0,0,0,0.0,88,116,0
+203,1994,29400755,1995-03-03 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,0,30.0,4,8,7,5,2,1,2,0,2,0,4,2,0.5,1,0,0.0,0,0,0.0,122,118,0
+203,1994,29400775,1995-03-06 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,0,30.0,5,8,3,2,1,0,1,1,4,0,7,2,0.285,5,1,0.2,4,0,0.0,103,106,0
+203,1994,29400791,1995-03-08 20:00:00,Seattle,SuperSonics,Minnesota,Timberwolves,Regular Season,0,1,29.0,5,7,1,1,0,0,3,3,5,0,2,2,1.0,0,0,0.0,2,1,0.5,104,118,0
+203,1994,29400793,1995-03-09 20:00:00,Seattle,SuperSonics,Charlotte,Hornets,Regular Season,0,0,14.0,2,2,2,2,0,0,0,2,2,0,3,1,0.333,0,0,0.0,0,0,0.0,112,99,0
+203,1994,29400809,1995-03-11 20:00:00,Seattle,SuperSonics,New York,Knicks,Regular Season,0,1,23.0,2,3,5,4,1,0,0,0,1,0,3,1,0.333,1,0,0.0,0,0,0.0,84,96,0
+203,1994,29400814,1995-03-12 20:00:00,Seattle,SuperSonics,Detroit,Pistons,Regular Season,0,1,33.0,5,8,4,4,0,0,2,4,3,0,5,2,0.4,1,0,0.0,1,1,1.0,94,134,0
+203,1994,29400830,1995-03-14 20:00:00,Seattle,SuperSonics,Boston,Celtics,Regular Season,1,1,33.0,8,9,5,4,1,1,0,3,4,0,8,3,0.375,4,2,0.5,0,0,0.0,113,93,0
+203,1994,29400843,1995-03-16 20:00:00,Seattle,SuperSonics,Miami,Heat,Regular Season,1,1,34.0,3,4,4,3,1,0,2,5,5,0,5,1,0.2,3,1,0.333,0,0,0.0,103,78,0
+203,1994,29400858,1995-03-18 20:00:00,Seattle,SuperSonics,Detroit,Pistons,Regular Season,1,1,27.0,12,9,1,1,0,0,1,2,5,0,7,4,0.57,5,3,0.599,2,1,0.5,133,110,0
+203,1994,29400873,1995-03-20 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,0,0,31.0,10,4,2,2,0,1,3,0,4,0,7,5,0.713,1,0,0.0,0,0,0.0,104,96,0
+203,1994,29400880,1995-03-21 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,0,1,35.0,7,6,7,6,1,2,6,2,2,0,5,3,0.599,1,0,0.0,2,1,0.5,102,104,0
+203,1994,29400895,1995-03-23 20:00:00,Seattle,SuperSonics,Washington,Bullets,Regular Season,1,1,31.0,7,7,8,7,1,1,2,0,4,0,7,2,0.285,4,1,0.25,2,2,1.0,108,103,0
+203,1994,29400903,1995-03-24 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,1,21.0,4,2,2,1,1,0,2,2,5,0,3,2,0.667,0,0,0.0,0,0,0.0,118,122,0
+203,1994,29400917,1995-03-26 20:00:00,Seattle,SuperSonics,New York,Knicks,Regular Season,1,1,20.0,0,2,4,3,1,3,1,1,3,0,1,0,0.0,0,0,0.0,0,0,0.0,93,82,0
+203,1994,29400932,1995-03-29 20:00:00,Seattle,SuperSonics,Minnesota,Timberwolves,Regular Season,1,1,30.0,3,4,5,4,1,0,3,2,2,0,5,1,0.2,4,1,0.25,0,0,0.0,109,92,0
+203,1994,29400944,1995-03-31 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,1,1,29.0,5,5,3,1,2,3,5,3,4,0,7,2,0.285,2,1,0.5,0,0,0.0,120,95,0
+203,1994,29400960,1995-04-02 20:00:00,Seattle,SuperSonics,Atlanta,Hawks,Regular Season,1,1,27.0,8,6,4,3,1,1,3,2,5,0,5,3,0.599,3,2,0.667,0,0,0.0,105,83,0
+203,1994,29400970,1995-04-04 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,0,0,33.0,5,3,4,2,2,0,4,2,2,0,6,2,0.333,3,1,0.333,2,0,0.0,114,92,0
+203,1994,29400985,1995-04-06 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,0,1,20.0,0,2,1,1,0,0,0,0,6,0,4,0,0.0,1,0,0.0,0,0,0.0,100,106,0
+203,1994,29400997,1995-04-08 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,0,1,31.0,4,7,5,3,2,0,5,4,4,0,6,2,0.333,1,0,0.0,0,0,0.0,98,125,0
+203,1994,29401012,1995-04-11 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,0,34.0,0,4,4,3,1,1,3,0,4,0,5,0,0.0,3,0,0.0,0,0,0.0,90,96,0
+203,1994,29401033,1995-04-13 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,1,1,32.0,10,15,4,3,1,2,1,2,2,0,6,4,0.667,1,0,0.0,2,2,1.0,133,112,0
+203,1994,29401043,1995-04-15 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,1,34.0,8,7,4,3,1,1,6,2,4,0,13,4,0.307,2,0,0.0,2,0,0.0,99,115,0
+203,1994,29401058,1995-04-17 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,0,29.0,7,5,4,3,1,1,1,5,4,0,5,2,0.4,2,1,0.5,2,2,1.0,93,97,0
+203,1994,29401066,1995-04-18 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,1,36.0,8,13,2,2,0,0,1,2,2,0,6,3,0.5,3,2,0.667,0,0,0.0,97,113,0
+203,1994,29401076,1995-04-20 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,1,1,23.0,4,5,4,3,1,1,3,1,1,0,5,1,0.2,0,0,0.0,4,2,0.5,111,101,0
+203,1994,29401091,1995-04-21 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,0,0,23.0,2,2,3,1,2,0,3,3,5,0,3,1,0.333,2,0,0.0,1,0,0.0,105,97,0
+203,1994,29401098,1995-04-23 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,0,26.0,3,4,6,5,1,1,0,2,6,0,5,1,0.2,3,1,0.333,2,0,0.0,105,100,0
+203,1994,49400002,1995-04-27 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Playoffs,1,1,30.0,6,8,6,5,1,1,5,2,3,0,5,2,0.4,2,0,0.0,2,2,1.0,96,71,0
+203,1994,49400011,1995-04-29 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Playoffs,1,0,32.0,6,5,8,4,4,0,2,2,2,0,7,3,0.428,2,0,0.0,0,0,0.0,82,84,0
+203,1994,49400017,1995-05-01 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Playoffs,0,0,27.0,2,10,3,2,1,1,0,2,4,0,4,1,0.25,1,0,0.0,0,0,0.0,105,101,0
+203,1994,49400026,1995-05-04 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Playoffs,0,0,24.0,5,6,1,0,1,0,3,1,4,0,7,2,0.285,3,1,0.333,0,0,0.0,114,110,0
+203,1995,29500135,1995-11-21 20:00:00,Seattle,SuperSonics,Toronto,Raptors,Regular Season,0,0,19.0,5,4,2,2,0,1,3,1,2,0,4,2,0.5,2,1,0.5,0,0,0.0,102,97,0
+203,1995,29500142,1995-11-22 20:00:00,Seattle,SuperSonics,Minnesota,Timberwolves,Regular Season,0,1,23.0,5,5,3,3,0,1,3,6,1,0,4,2,0.5,3,1,0.333,0,0,0.0,97,106,0
+203,1995,29500152,1995-11-24 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,1,1,16.0,2,1,2,2,0,0,0,1,3,0,2,1,0.5,1,0,0.0,0,0,0.0,112,100,0
+203,1995,29500172,1995-11-26 20:00:00,Seattle,SuperSonics,Chicago,Bulls,Regular Season,1,1,22.0,9,0,2,1,1,1,2,1,6,0,6,4,0.667,1,1,1.0,0,0,0.0,97,92,0
+203,1995,29500187,1995-11-28 20:00:00,Seattle,SuperSonics,Indiana,Pacers,Regular Season,1,0,27.0,7,7,5,4,1,0,2,2,3,0,5,3,0.599,3,1,0.333,0,0,0.0,101,102,0
+203,1995,29500297,1995-12-15 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,1,20.0,0,2,1,1,0,0,2,1,0,0,4,0,0.0,3,0,0.0,0,0,0.0,108,101,0
+203,1995,29500329,1995-12-19 20:00:00,Seattle,SuperSonics,Vancouver,Grizzlies,Regular Season,0,0,24.0,7,4,3,3,0,0,1,0,3,0,2,2,1.0,1,1,1.0,2,2,1.0,94,93,0
+203,1995,29500338,1995-12-21 20:00:00,Seattle,SuperSonics,Vancouver,Grizzlies,Regular Season,1,1,17.0,5,2,0,0,0,0,2,1,1,0,7,2,0.285,3,1,0.333,0,0,0.0,92,68,0
+203,1995,29500360,1995-12-23 20:00:00,Seattle,SuperSonics,Washington,Bullets,Regular Season,1,1,21.0,8,0,6,3,3,1,3,1,6,0,5,3,0.599,2,2,1.0,2,0,0.0,118,100,0
+203,1995,29500379,1995-12-27 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,1,32.0,3,7,1,1,0,0,2,1,1,0,6,1,0.167,2,1,0.5,0,0,0.0,99,83,0
+203,1995,29500398,1995-12-29 20:00:00,Seattle,SuperSonics,Boston,Celtics,Regular Season,1,1,22.0,5,4,4,3,1,3,1,0,3,0,3,2,0.667,2,1,0.5,0,0,0.0,124,85,0
+203,1995,29500403,1995-12-30 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,1,35.0,7,5,7,7,0,0,3,3,5,0,2,1,0.5,2,1,0.5,4,4,1.0,112,123,0
+203,1995,29500417,1996-01-02 20:00:00,Seattle,SuperSonics,Atlanta,Hawks,Regular Season,0,1,33.0,4,6,5,4,1,2,2,1,3,0,9,2,0.222,2,0,0.0,0,0,0.0,88,111,0
+203,1995,29500426,1996-01-04 20:00:00,Seattle,SuperSonics,Miami,Heat,Regular Season,0,1,34.0,0,5,4,3,1,0,2,1,4,0,5,0,0.0,1,0,0.0,0,0,0.0,81,84,0
+203,1995,29500441,1996-01-05 20:00:00,Seattle,SuperSonics,Orlando,Magic,Regular Season,0,0,29.0,7,5,7,5,2,0,1,0,1,0,6,3,0.5,2,1,0.5,0,0,0.0,115,93,0
+203,1995,29500458,1996-01-09 20:00:00,Seattle,SuperSonics,Milwaukee,Bucks,Regular Season,0,1,34.0,6,7,3,2,1,2,2,3,3,0,9,2,0.222,2,0,0.0,4,2,0.5,92,97,0
+203,1995,29500466,1996-01-10 20:00:00,Seattle,SuperSonics,Chicago,Bulls,Regular Season,0,0,34.0,9,5,5,3,2,1,1,3,4,0,8,3,0.375,4,1,0.25,2,2,1.0,113,87,0
+203,1995,29500478,1996-01-12 20:00:00,Seattle,SuperSonics,Miami,Heat,Regular Season,1,1,17.0,3,5,0,0,0,0,0,3,1,0,3,1,0.333,3,1,0.333,0,0,0.0,113,81,0
+203,1995,29500501,1996-01-15 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,1,21.0,6,5,6,3,3,0,3,0,1,0,7,3,0.428,3,0,0.0,0,0,0.0,95,104,0
+203,1995,29500512,1996-01-16 20:00:00,Seattle,SuperSonics,Cleveland,Cavaliers,Regular Season,1,1,28.0,7,3,6,5,1,0,0,0,3,0,3,2,0.667,1,1,1.0,4,2,0.5,99,90,0
+203,1995,29500533,1996-01-19 20:00:00,Seattle,SuperSonics,New York,Knicks,Regular Season,1,0,27.0,3,4,6,6,0,0,2,3,3,0,4,1,0.25,4,1,0.25,2,0,0.0,97,100,0
+203,1995,29500549,1996-01-21 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,1,1,30.0,5,6,8,7,1,0,0,2,2,0,4,2,0.5,3,1,0.333,0,0,0.0,108,101,0
+203,1995,29500565,1996-01-24 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,1,29.0,4,2,4,4,0,1,5,4,3,0,3,1,0.333,2,1,0.5,2,1,0.5,86,79,0
+203,1995,29500577,1996-01-26 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,1,1,27.0,6,4,4,4,0,0,1,1,4,0,5,2,0.4,4,2,0.5,0,0,0.0,94,93,0
+203,1995,29500594,1996-01-27 20:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,0,1,25.0,7,3,5,4,1,0,2,2,2,0,7,2,0.285,1,1,1.0,2,2,1.0,87,96,0
+203,1995,29500601,1996-01-29 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,1,19.0,4,3,4,4,0,0,1,3,2,0,4,2,0.5,1,0,0.0,0,0,0.0,88,92,0
+203,1995,29500607,1996-01-30 20:00:00,Seattle,SuperSonics,New Jersey,Nets,Regular Season,1,1,24.0,5,6,4,2,2,0,4,1,4,0,4,2,0.5,3,1,0.333,0,0,0.0,97,88,0
+203,1995,29500620,1996-02-01 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,0,0,21.0,2,5,7,7,0,0,1,4,2,0,3,0,0.0,1,0,0.0,2,2,1.0,103,100,0
+203,1995,29500639,1996-02-03 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,0,1,20.0,0,1,2,1,1,0,1,0,3,0,2,0,0.0,1,0,0.0,0,0,0.0,103,104,0
+203,1995,29500656,1996-02-06 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,1,1,26.0,5,8,3,2,1,0,3,1,2,0,5,2,0.4,3,1,0.333,0,0,0.0,99,94,0
+203,1995,29500686,1996-02-13 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,1,21.0,3,2,6,4,2,0,0,1,4,0,4,1,0.25,2,0,0.0,2,1,0.5,98,102,0
+203,1995,29500692,1996-02-14 20:00:00,Seattle,SuperSonics,Minnesota,Timberwolves,Regular Season,1,1,8.0,0,4,1,1,0,0,4,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,130,93,0
+203,1995,29500711,1996-02-16 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,1,26.0,13,4,4,4,0,0,2,1,1,0,7,4,0.57,6,3,0.5,2,2,1.0,117,99,0
+203,1995,29500719,1996-02-18 20:00:00,Seattle,SuperSonics,Vancouver,Grizzlies,Regular Season,0,1,21.0,10,6,3,3,0,0,4,0,3,0,5,4,0.8,2,2,1.0,0,0,0.0,109,118,0
+203,1995,29500730,1996-02-19 20:00:00,Seattle,SuperSonics,Atlanta,Hawks,Regular Season,1,1,30.0,1,6,7,6,1,0,2,2,5,0,4,0,0.0,4,0,0.0,2,1,0.5,102,94,0
+203,1995,29500751,1996-02-22 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,1,9.0,3,0,0,0,0,0,1,0,2,0,1,1,1.0,1,1,1.0,0,0,0.0,106,90,0
+203,1995,29500797,1996-02-28 20:00:00,Seattle,SuperSonics,Detroit,Pistons,Regular Season,1,1,18.0,5,1,3,3,0,0,0,2,3,0,5,2,0.4,3,1,0.333,0,0,0.0,94,80,0
+203,1995,29500811,1996-03-01 20:00:00,Seattle,SuperSonics,Boston,Celtics,Regular Season,0,1,8.0,0,2,2,1,1,0,0,0,1,0,2,0,0.0,1,0,0.0,0,0,0.0,96,106,0
+203,1995,29500910,1996-03-15 20:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,1,1,10.0,0,1,1,1,0,0,2,1,4,0,2,0,0.0,2,0,0.0,0,0,0.0,120,97,0
+203,1995,29500955,1996-03-21 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,1,1,17.0,2,1,3,2,1,0,2,2,1,0,2,1,0.5,0,0,0.0,0,0,0.0,104,93,0
+203,1995,29500970,1996-03-23 20:00:00,Seattle,SuperSonics,Philadelphia,76ers,Regular Season,1,1,8.0,3,2,2,2,0,0,1,1,1,0,1,1,1.0,1,1,1.0,0,0,0.0,129,89,0
+203,1995,29500973,1996-03-24 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,0,1,22.0,7,9,1,0,1,0,4,0,4,0,5,2,0.4,2,1,0.5,2,2,1.0,110,112,0
+203,1995,29500989,1996-03-26 20:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,1,17.0,7,2,5,4,1,0,1,2,2,0,4,3,0.75,1,1,1.0,0,0,0.0,102,114,0
+203,1995,29500996,1996-03-27 20:00:00,Seattle,SuperSonics,Charlotte,Hornets,Regular Season,1,1,18.0,11,0,3,3,0,0,2,1,1,0,6,4,0.667,4,3,0.75,0,0,0.0,132,95,0
+203,1995,29501020,1996-03-30 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,1,1,23.0,2,5,5,3,2,0,1,0,0,0,4,1,0.25,3,0,0.0,0,0,0.0,100,98,0
+203,1995,29501040,1996-04-02 20:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,0,1,22.0,12,1,7,5,2,0,2,3,5,0,8,4,0.5,3,0,0.0,4,4,1.0,91,100,0
+203,1995,29501051,1996-04-03 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,1,1,24.0,5,2,7,6,1,0,0,0,1,0,5,2,0.4,2,1,0.5,0,0,0.0,118,103,0
+203,1995,29501064,1996-04-05 20:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,1,31.0,13,3,4,2,2,0,1,1,6,0,7,5,0.713,4,3,0.75,0,0,0.0,130,121,0
+203,1995,29501074,1996-04-06 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,0,24.0,8,3,2,2,0,1,0,2,4,0,4,3,0.75,2,1,0.5,1,1,1.0,95,92,0
+203,1995,29501082,1996-04-08 20:00:00,Seattle,SuperSonics,New York,Knicks,Regular Season,0,1,20.0,4,5,6,5,1,1,1,2,2,0,2,1,0.5,1,1,1.0,2,1,0.5,98,108,0
+203,1995,29501105,1996-04-10 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,1,1,23.0,0,7,3,2,1,1,3,1,2,0,5,0,0.0,4,0,0.0,0,0,0.0,108,89,0
+203,1995,29501119,1996-04-13 20:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,0,0,24.0,0,2,5,4,1,0,1,0,2,0,2,0,0.0,1,0,0.0,0,0,0.0,84,81,0
+203,1995,29501135,1996-04-15 20:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,0,1,21.0,5,1,3,3,0,1,3,1,0,0,4,2,0.5,2,1,0.5,0,0,0.0,106,112,0
+203,1995,29501152,1996-04-17 20:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,1,30.0,11,2,4,3,1,0,2,0,3,0,5,4,0.8,3,3,1.0,0,0,0.0,96,90,0
+203,1995,29501171,1996-04-19 20:00:00,Seattle,SuperSonics,Minnesota,Timberwolves,Regular Season,1,1,30.0,4,2,4,4,0,1,1,2,4,0,3,2,0.667,1,0,0.0,0,0,0.0,94,86,0
+203,1995,49500005,1996-04-26 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Playoffs,1,1,23.0,12,5,1,1,0,0,0,0,1,0,6,4,0.667,5,4,0.8,0,0,0.0,97,85,0
+203,1995,49500016,1996-04-28 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Playoffs,1,0,22.0,3,5,6,5,1,1,1,2,2,0,3,1,0.333,1,1,1.0,0,0,0.0,81,90,0
+203,1995,49500019,1996-04-30 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Playoffs,0,1,20.0,7,1,4,4,0,0,0,0,3,0,5,3,0.599,2,1,0.5,0,0,0.0,89,96,0
+203,1995,49500026,1996-05-02 20:00:00,Seattle,SuperSonics,Sacramento,Kings,Playoffs,0,1,28.0,4,3,5,4,1,1,3,1,1,0,1,1,1.0,1,1,1.0,2,1,0.5,87,101,0
+203,1995,49500030,1996-05-04 20:00:00,Seattle,SuperSonics,Houston,Rockets,Playoffs,1,1,23.0,6,5,7,7,0,0,4,2,1,0,5,2,0.4,5,2,0.4,0,0,0.0,108,75,0
+203,1995,49500034,1996-05-06 20:00:00,Seattle,SuperSonics,Houston,Rockets,Playoffs,1,1,24.0,15,3,4,4,0,0,0,1,1,0,6,5,0.832,5,5,1.0,0,0,0.0,105,101,0
+203,1995,49500039,1996-05-10 20:00:00,Seattle,SuperSonics,Houston,Rockets,Playoffs,0,1,23.0,0,2,2,1,1,0,1,1,1,0,1,0,0.0,0,0,0.0,0,0,0.0,112,115,0
+203,1995,49500043,1996-05-12 20:00:00,Seattle,SuperSonics,Houston,Rockets,Playoffs,0,1,31.0,6,5,5,4,1,2,4,0,2,0,6,1,0.167,4,1,0.25,4,3,0.75,107,114,0
+203,1995,49500052,1996-05-18 20:00:00,Seattle,SuperSonics,Utah,Jazz,Playoffs,1,1,27.0,3,5,4,3,1,1,2,2,3,0,3,1,0.333,2,1,0.5,0,0,0.0,102,72,0
+203,1995,49500054,1996-05-20 20:00:00,Seattle,SuperSonics,Utah,Jazz,Playoffs,1,1,30.0,9,4,5,4,1,0,1,1,2,0,7,4,0.57,2,0,0.0,2,1,0.5,91,87,0
+203,1995,49500056,1996-05-24 20:00:00,Seattle,SuperSonics,Utah,Jazz,Playoffs,0,0,24.0,0,2,4,3,1,0,0,2,3,0,5,0,0.0,3,0,0.0,2,0,0.0,96,76,0
+203,1995,49500058,1996-05-26 20:00:00,Seattle,SuperSonics,Utah,Jazz,Playoffs,0,1,19.0,2,0,3,2,1,0,1,2,3,0,2,1,0.5,0,0,0.0,0,0,0.0,86,88,0
+203,1995,49500060,1996-05-28 20:00:00,Seattle,SuperSonics,Utah,Jazz,Playoffs,1,0,16.0,4,2,6,2,4,0,0,0,2,0,7,1,0.142,3,0,0.0,2,2,1.0,95,98,0
+203,1995,49500061,1996-05-30 20:00:00,Seattle,SuperSonics,Utah,Jazz,Playoffs,0,0,12.0,0,2,3,2,1,0,3,2,1,0,2,0,0.0,0,0,0.0,0,0,0.0,118,83,0
+203,1995,49500062,1996-06-02 20:00:00,Seattle,SuperSonics,Utah,Jazz,Playoffs,1,1,12.0,2,2,0,0,0,0,1,1,2,0,3,1,0.333,2,0,0.0,0,0,0.0,90,86,0
+203,1995,49500063,1996-06-05 20:00:00,Seattle,SuperSonics,Chicago,Bulls,Playoffs,0,0,6.0,0,1,1,1,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,107,90,0
+203,1995,49500066,1996-06-12 20:00:00,Seattle,SuperSonics,Chicago,Bulls,Playoffs,1,1,14.0,8,3,3,3,0,0,0,1,2,0,3,2,0.667,3,2,0.667,2,2,1.0,107,86,0
+203,1995,49500067,1996-06-14 20:00:00,Seattle,SuperSonics,Chicago,Bulls,Playoffs,1,1,21.0,3,2,6,6,0,0,1,1,4,0,1,1,1.0,1,1,1.0,0,0,0.0,89,78,0
+203,1995,49500068,1996-06-16 20:00:00,Seattle,SuperSonics,Chicago,Bulls,Playoffs,0,0,10.0,0,0,1,1,0,0,1,1,0,0,3,0,0.0,1,0,0.0,0,0,0.0,87,75,0
+203,1996,29600011,1996-11-01 21:00:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,0,0,16.0,0,3,3,1,2,0,0,1,5,-11,4,0,0.0,3,0,0.0,0,0,0.0,99,91,0
+203,1996,29600024,1996-11-02 22:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,1,19.0,5,4,3,3,0,0,2,0,1,18,1,1,1.0,1,1,1.0,2,2,1.0,104,93,0
+203,1996,29600040,1996-11-05 22:00:00,Seattle,SuperSonics,Atlanta,Hawks,Regular Season,1,0,18.0,6,2,4,3,1,0,0,3,4,-11,5,2,0.4,2,2,1.0,0,0,0.0,95,117,0
+203,1996,29600049,1996-11-07 21:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,1,22.0,4,4,5,5,0,0,1,1,2,11,5,2,0.4,3,0,0.0,0,0,0.0,98,103,0
+203,1996,29600060,1996-11-08 20:30:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,0,1,21.0,8,1,5,5,0,0,1,1,1,6,4,3,0.75,1,0,0.0,2,2,1.0,75,87,0
+203,1996,29600087,1996-11-12 22:00:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,121,102,0
+203,1996,29600101,1996-11-14 22:30:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,78,94,0
+203,1996,29600294,1996-12-12 20:30:00,Seattle,SuperSonics,Milwaukee,Bucks,Regular Season,0,0,18.0,3,5,1,1,0,2,1,2,2,10,4,1,0.25,2,1,0.5,0,0,0.0,100,97,0
+203,1996,29600693,1997-02-11 22:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,1,16.0,3,5,1,1,0,1,3,0,1,7,4,1,0.25,3,1,0.333,0,0,0.0,108,81,0
+203,1996,29600714,1997-02-14 22:00:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,1,1,21.0,6,5,2,1,1,0,1,0,1,6,5,2,0.4,2,2,1.0,0,0,0.0,105,85,0
+203,1996,29600727,1997-02-16 15:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,1,21.0,3,2,1,1,0,1,2,0,5,15,4,1,0.25,3,1,0.333,0,0,0.0,91,102,0
+203,1996,29600735,1997-02-17 22:00:00,Seattle,SuperSonics,Boston,Celtics,Regular Season,1,1,18.0,5,4,3,3,0,0,1,1,1,4,4,2,0.5,3,1,0.333,0,0,0.0,113,108,0
+203,1996,29600768,1997-02-21 22:00:00,Seattle,SuperSonics,New York,Knicks,Regular Season,1,1,17.0,2,4,2,2,0,0,0,0,4,9,2,0,0.0,2,0,0.0,2,2,1.0,84,64,0
+203,1996,29600779,1997-02-23 15:30:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,0,1,19.0,2,3,2,2,0,0,3,2,3,8,3,1,0.333,1,0,0.0,0,0,0.0,87,89,0
+203,1996,29600789,1997-02-25 19:30:00,Seattle,SuperSonics,Cleveland,Cavaliers,Regular Season,0,1,19.0,6,4,2,2,0,0,2,2,1,7,3,2,0.667,2,1,0.5,2,1,0.5,66,72,0
+203,1996,29600798,1997-02-26 20:00:00,Seattle,SuperSonics,Indiana,Pacers,Regular Season,0,0,20.0,0,3,2,2,0,0,1,1,3,-1,2,0,0.0,2,0,0.0,0,0,0.0,92,78,0
+203,1996,29600812,1997-02-28 20:00:00,Seattle,SuperSonics,Miami,Heat,Regular Season,0,1,24.0,2,5,4,4,0,0,3,1,3,-6,5,1,0.2,3,0,0.0,2,0,0.0,95,96,0
+203,1996,29600825,1997-03-02 15:30:00,Seattle,SuperSonics,Orlando,Magic,Regular Season,0,1,17.0,3,5,2,2,0,0,2,0,5,3,3,1,0.333,2,0,0.0,2,1,0.5,101,109,0
+203,1996,29600847,1997-03-04 20:00:00,Seattle,SuperSonics,Orlando,Magic,Regular Season,1,0,24.0,5,3,0,0,0,0,0,2,1,0,3,2,0.667,2,1,0.5,0,0,0.0,89,101,0
+203,1996,29600872,1997-03-07 22:00:00,Seattle,SuperSonics,New Jersey,Nets,Regular Season,1,1,20.0,2,4,3,1,2,0,1,0,2,18,3,1,0.333,1,0,0.0,0,0,0.0,109,90,0
+203,1996,29600886,1997-03-09 15:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,0,27.0,2,3,1,1,0,0,1,0,1,-1,4,1,0.25,1,0,0.0,0,0,0.0,103,93,0
+203,1996,29600899,1997-03-11 22:00:00,Seattle,SuperSonics,Detroit,Pistons,Regular Season,1,1,20.0,3,5,4,4,0,0,0,0,2,1,3,1,0.333,3,1,0.333,0,0,0.0,93,80,0
+203,1996,29600906,1997-03-13 20:00:00,Seattle,SuperSonics,Minnesota,Timberwolves,Regular Season,0,1,19.0,9,2,4,3,1,0,1,2,2,15,6,3,0.5,2,1,0.5,2,2,1.0,92,108,0
+203,1996,29600916,1997-03-14 19:30:00,Seattle,SuperSonics,Atlanta,Hawks,Regular Season,0,1,22.0,5,4,3,2,1,1,4,2,1,4,4,2,0.5,1,1,1.0,2,0,0.0,91,97,0
+203,1996,29600931,1997-03-16 19:00:00,Seattle,SuperSonics,Detroit,Pistons,Regular Season,0,0,23.0,6,7,3,3,0,0,0,1,2,-3,4,1,0.25,3,1,0.333,4,3,0.75,86,83,0
+203,1996,29600948,1997-03-18 20:00:00,Seattle,SuperSonics,Chicago,Bulls,Regular Season,0,0,27.0,0,0,3,2,1,0,1,0,1,-8,2,0,0.0,1,0,0.0,0,0,0.0,89,87,0
+203,1996,29600965,1997-03-20 22:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,1,16.0,8,7,7,6,1,0,4,0,2,4,6,3,0.5,5,2,0.4,0,0,0.0,123,97,0
+203,1996,29600982,1997-03-22 22:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,1,1,31.0,11,6,4,4,0,0,6,2,1,20,8,5,0.625,2,1,0.5,1,0,0.0,113,99,0
+203,1996,29600990,1997-03-23 21:00:00,Seattle,SuperSonics,Vancouver,Grizzlies,Regular Season,0,1,17.0,4,5,4,4,0,0,1,0,2,10,3,1,0.333,2,1,0.5,2,1,0.5,92,106,0
+203,1996,29601000,1997-03-25 22:30:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,1,14.0,9,6,3,3,0,0,1,0,1,27,3,3,1.0,1,1,1.0,2,2,1.0,89,126,0
+203,1996,29601009,1997-03-26 22:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,0,28.0,13,4,5,4,1,0,3,0,3,3,10,5,0.5,8,3,0.375,0,0,0.0,107,109,0
+203,1996,29601024,1997-03-28 22:30:00,Seattle,SuperSonics,Minnesota,Timberwolves,Regular Season,1,1,23.0,4,3,6,5,1,0,3,2,0,10,4,2,0.5,2,0,0.0,0,0,0.0,92,81,0
+203,1996,29601036,1997-03-30 21:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,0,31.0,5,4,3,3,0,0,3,3,1,8,2,2,1.0,1,1,1.0,0,0,0.0,107,106,0
+203,1996,29601046,1997-04-01 20:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,1,0,32.0,9,2,4,4,0,0,0,2,5,8,5,3,0.6,4,3,0.75,0,0,0.0,97,99,0
+203,1996,29601061,1997-04-03 22:00:00,Seattle,SuperSonics,Milwaukee,Bucks,Regular Season,1,1,25.0,2,7,6,5,1,1,3,0,3,21,3,0,0.0,2,0,0.0,2,2,1.0,103,80,0
+203,1996,29601078,1997-04-05 15:30:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,1,1,24.0,5,4,6,4,2,0,1,0,4,10,4,2,0.5,3,1,0.333,0,0,0.0,103,84,0
+203,1996,29601085,1997-04-06 21:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,113,101,0
+203,1996,29601109,1997-04-10 20:30:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,0,1,16.0,5,3,3,3,0,0,0,0,0,14,3,2,0.667,0,0,0.0,2,1,0.5,82,90,0
+203,1996,29601130,1997-04-12 15:30:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,0,1,19.0,2,1,1,1,0,0,0,0,0,-7,5,1,0.2,2,0,0.0,0,0,0.0,91,96,0
+203,1996,29601134,1997-04-13 15:30:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,0,0,20.0,2,1,3,3,0,0,2,1,2,-12,6,1,0.167,3,0,0.0,0,0,0.0,113,73,0
+203,1996,29601150,1997-04-15 22:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,108,88,0
+203,1996,29601160,1997-04-17 21:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,104,108,0
+203,1996,49600007,1997-04-25 21:30:00,Seattle,SuperSonics,Phoenix,Suns,Playoffs,1,0,19.0,0,0,2,2,0,0,1,1,4,2,0,0,0.0,0,0,0.0,0,0,0.0,101,106,0
+203,1996,49600016,1997-04-27 22:30:00,Seattle,SuperSonics,Phoenix,Suns,Playoffs,1,1,14.0,0,2,3,2,1,0,0,1,5,-10,2,0,0.0,2,0,0.0,0,0,0.0,122,78,0
+203,1996,49600022,1997-04-29 22:30:00,Seattle,SuperSonics,Phoenix,Suns,Playoffs,0,0,5.0,0,1,0,0,0,0,0,0,2,-2,0,0,0.0,0,0,0.0,0,0,0.0,110,103,0
+203,1996,49600029,1997-05-01 22:30:00,Seattle,SuperSonics,Phoenix,Suns,Playoffs,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,115,122,0
+203,1996,49600034,1997-05-03 15:30:00,Seattle,SuperSonics,Phoenix,Suns,Playoffs,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,116,92,0
+203,1996,49600042,1997-05-05 20:00:00,Seattle,SuperSonics,Houston,Rockets,Playoffs,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,112,102,0
+203,1996,49600046,1997-05-07 21:30:00,Seattle,SuperSonics,Houston,Rockets,Playoffs,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,101,106,0
+203,1996,49600050,1997-05-09 22:30:00,Seattle,SuperSonics,Houston,Rockets,Playoffs,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,93,97,0
+203,1996,49600055,1997-05-11 15:00:00,Seattle,SuperSonics,Houston,Rockets,Playoffs,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,106,110,0
+203,1996,49600059,1997-05-13 19:00:00,Seattle,SuperSonics,Houston,Rockets,Playoffs,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,94,100,0
+203,1996,49600063,1997-05-15 21:00:00,Seattle,SuperSonics,Houston,Rockets,Playoffs,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,99,96,0
+203,1996,49600066,1997-05-17 15:30:00,Seattle,SuperSonics,Houston,Rockets,Playoffs,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,96,91,0
+203,1997,29700750,1998-02-18 22:00:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,1,1,22.0,9,7,2,0,2,0,3,1,3,25,6,3,0.5,5,3,0.6,0,0,0.0,101,95,0
+203,1997,29700767,1998-02-20 22:00:00,Seattle,SuperSonics,Boston,Celtics,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,96,106,0
+203,1997,29700782,1998-02-22 20:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,1,1,7.0,0,0,4,3,1,0,0,0,0,1,3,0,0.0,2,0,0.0,0,0,0.0,88,68,0
+203,1997,29700786,1998-02-23 22:30:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,0,1,25.0,0,1,5,4,1,0,1,0,3,1,4,0,0.0,1,0,0.0,0,0,0.0,100,101,0
+203,1997,29700816,1998-02-27 22:00:00,Seattle,SuperSonics,Atlanta,Hawks,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,90,88,0
+203,1997,29700829,1998-03-01 15:30:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,89,87,0
+203,1997,29700836,1998-03-03 20:00:00,Seattle,SuperSonics,Miami,Heat,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,91,97,0
+203,1997,29700845,1998-03-04 19:30:00,Seattle,SuperSonics,Orlando,Magic,Regular Season,0,0,5.0,0,3,1,0,1,0,0,0,0,2,1,0,0.0,0,0,0.0,0,0,0.0,96,83,0
+203,1997,29700860,1998-03-06 19:30:00,Seattle,SuperSonics,Charlotte,Hornets,Regular Season,0,0,12.0,2,4,1,1,0,0,0,0,5,-8,3,1,0.333,0,0,0.0,0,0,0.0,104,98,0
+203,1997,29700874,1998-03-08 15:00:00,Seattle,SuperSonics,Minnesota,Timberwolves,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,98,99,0
+203,1997,29700889,1998-03-10 22:00:00,Seattle,SuperSonics,Toronto,Raptors,Regular Season,1,1,15.0,0,4,1,0,1,0,0,1,1,-3,4,0,0.0,1,0,0.0,0,0,0.0,111,93,0
+203,1997,29700919,1998-03-14 15:30:00,Seattle,SuperSonics,Minnesota,Timberwolves,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,114,80,0
+203,1997,29700933,1998-03-16 22:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,1,1,9.0,0,2,0,0,0,0,1,1,5,-3,1,0,0.0,1,0,0.0,0,0,0.0,101,89,0
+203,1997,29700949,1998-03-18 22:00:00,Seattle,SuperSonics,Los Angeles,Clippers,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,99,80,0
+203,1997,29700967,1998-03-20 22:30:00,Seattle,SuperSonics,Los Angeles,Lakers,Regular Season,0,0,12.0,0,1,0,0,0,1,0,0,0,-8,3,0,0.0,1,0,0.0,0,0,0.0,93,80,0
+203,1997,29700970,1998-03-21 21:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,109,102,0
+203,1997,29700986,1998-03-23 22:00:00,Seattle,SuperSonics,Sacramento,Kings,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,109,83,0
+203,1997,29701004,1998-03-25 22:00:00,Seattle,SuperSonics,Washington,Wizards,Regular Season,1,1,14.0,7,6,3,3,0,2,1,0,1,4,6,3,0.5,3,1,0.333,0,0,0.0,133,109,0
+203,1997,29701007,1998-03-26 22:30:00,Seattle,SuperSonics,Golden State,Warriors,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,98,91,0
+203,1997,29701023,1998-03-28 22:00:00,Seattle,SuperSonics,New York,Knicks,Regular Season,1,1,12.0,6,3,2,1,1,0,0,1,1,17,2,2,1.0,2,2,1.0,0,0,0.0,104,78,0
+203,1997,29701046,1998-03-31 22:30:00,Seattle,SuperSonics,Utah,Jazz,Regular Season,1,1,16.0,6,4,1,1,0,0,1,1,3,5,4,2,0.5,2,2,1.0,0,0,0.0,88,86,0
+203,1997,29701059,1998-04-02 22:00:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,107,86,0
+203,1997,29701070,1998-04-03 22:00:00,Seattle,SuperSonics,Vancouver,Grizzlies,Regular Season,0,1,11.0,8,4,1,1,0,0,2,1,2,13,3,3,1.0,1,1,1.0,1,1,1.0,98,138,0
+203,1997,29701083,1998-04-05 21:00:00,Seattle,SuperSonics,Denver,Nuggets,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,83,87,0
+203,1997,29701089,1998-04-06 22:00:00,Seattle,SuperSonics,Phoenix,Suns,Regular Season,1,0,22.0,8,4,3,3,0,0,3,0,4,1,8,3,0.375,6,2,0.333,0,0,0.0,92,102,0
+203,1997,29701110,1998-04-09 20:30:00,Seattle,SuperSonics,Dallas,Mavericks,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,101,103,0
+203,1997,29701118,1998-04-10 20:30:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,0,0,16.0,3,3,5,3,2,0,0,2,0,2,4,1,0.25,2,1,0.5,0,0,0.0,99,84,0
+203,1997,29701134,1998-04-12 15:30:00,Seattle,SuperSonics,Houston,Rockets,Regular Season,1,1,19.0,2,4,2,1,1,1,1,0,3,1,5,1,0.2,3,0,0.0,0,0,0.0,103,95,0
+203,1997,29701149,1998-04-14 22:00:00,Seattle,SuperSonics,Vancouver,Grizzlies,Regular Season,1,1,13.0,3,2,1,1,0,0,0,0,1,7,2,1,0.5,1,1,1.0,0,0,0.0,110,98,0
+203,1997,29701174,1998-04-17 22:00:00,Seattle,SuperSonics,San Antonio,Spurs,Regular Season,1,0,24.0,8,1,4,3,1,0,0,4,5,-4,6,3,0.5,3,2,0.667,0,0,0.0,87,89,0
+203,1997,29701189,1998-04-19 15:30:00,Seattle,SuperSonics,Portland,Trail Blazers,Regular Season,0,1,12.0,0,2,4,2,2,0,1,0,4,10,2,0,0.0,0,0,0.0,0,0,0.0,82,90,0
+203,1997,49700007,1998-04-24 21:30:00,Seattle,SuperSonics,Minnesota,Timberwolves,Playoffs,1,1,14.0,0,1,4,4,0,0,0,0,2,6,2,0,0.0,2,0,0.0,0,0,0.0,108,83,0
+203,1997,49700016,1998-04-26 21:00:00,Seattle,SuperSonics,Minnesota,Timberwolves,Playoffs,1,0,20.0,7,6,2,1,1,1,1,1,4,2,6,3,0.5,3,1,0.333,0,0,0.0,93,98,0
+203,1997,49700021,1998-04-28 21:30:00,Seattle,SuperSonics,Minnesota,Timberwolves,Playoffs,0,0,14.0,2,2,2,2,0,0,1,0,3,-16,2,1,0.5,1,0,0.0,0,0,0.0,98,90,0
+203,1997,49700028,1998-04-30 21:30:00,Seattle,SuperSonics,Minnesota,Timberwolves,Playoffs,0,1,13.0,2,3,1,1,0,0,0,0,1,7,2,1,0.5,0,0,0.0,0,0,0.0,88,92,0
+203,1997,49700033,1998-05-02 15:30:00,Seattle,SuperSonics,Minnesota,Timberwolves,Playoffs,1,1,14.0,2,1,5,4,1,0,1,0,2,-1,1,0,0.0,1,0,0.0,2,2,1.0,97,84,0
+203,1997,49700042,1998-05-04 21:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Playoffs,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,106,92,0
+203,1997,49700046,1998-05-06 22:30:00,Seattle,SuperSonics,Los Angeles,Lakers,Playoffs,1,0,9.0,0,0,0,0,0,1,0,1,4,-12,2,0,0.0,2,0,0.0,0,0,0.0,68,92,0
+203,1997,49700050,1998-05-08 22:30:00,Seattle,SuperSonics,Los Angeles,Lakers,Playoffs,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,119,103,0
+203,1997,49700054,1998-05-10 15:00:00,Seattle,SuperSonics,Los Angeles,Lakers,Playoffs,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,112,100,0
+203,1997,49700059,1998-05-12 22:30:00,Seattle,SuperSonics,Los Angeles,Lakers,Playoffs,1,0,13.0,3,2,2,2,0,0,0,0,1,6,3,1,0.333,3,1,0.333,0,0,0.0,95,110,0

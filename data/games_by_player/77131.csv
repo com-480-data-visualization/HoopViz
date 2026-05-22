@@ -1,0 +1,306 @@
+personId,season,gameId,gameDateTimeEst,playerteamCity,playerteamName,opponentteamCity,opponentteamName,gameType,home,win,numMinutes,points,assists,reboundsTotal,reboundsDefensive,reboundsOffensive,blocks,steals,turnovers,foulsPersonal,plusMinusPoints,fieldGoalsAttempted,fieldGoalsMade,fieldGoalsPercentage,threePointersAttempted,threePointersMade,threePointersPercentage,freeThrowsAttempted,freeThrowsMade,freeThrowsPercentage,homeScore,awayScore,attendance
+77131,1958,25800006,1958-10-25 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,0,1,0.0,7,0,5,0,0,0,0,0,6,0,10,3,0.299,0,0,0.0,3,1,0.333,109,110,0
+77131,1958,25800009,1958-10-26 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,1,0,0.0,7,2,4,0,0,0,0,0,5,0,8,3,0.375,0,0,0.0,1,1,1.0,94,100,0
+77131,1958,25800015,1958-11-01 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,0,1,0.0,0,1,1,0,0,0,0,0,3,0,2,0,0.0,0,0,0.0,1,0,0.0,92,111,0
+77131,1958,25800016,1958-11-02 19:00:00,Philadelphia,Warriors,Detroit,Pistons,Regular Season,1,0,0.0,7,0,4,0,0,0,0,0,4,0,7,2,0.285,0,0,0.0,4,3,0.75,91,107,0
+77131,1958,25800020,1958-11-06 19:00:00,Philadelphia,Warriors,Minneapolis,Lakers,Regular Season,0,0,0.0,1,0,1,0,0,0,0,0,0,0,2,0,0.0,0,0,0.0,1,1,1.0,103,101,0
+77131,1958,25800023,1958-11-08 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,1,0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,98,103,0
+77131,1958,25800027,1958-11-09 19:00:00,Philadelphia,Warriors,Cincinnati,Royals,Regular Season,0,1,0.0,5,0,4,0,0,0,0,0,3,0,8,2,0.25,0,0,0.0,1,1,1.0,92,106,0
+77131,1958,25800033,1958-11-14 19:00:00,Philadelphia,Warriors,St. Louis,Hawks,Regular Season,0,0,0.0,6,1,3,0,0,0,0,0,5,0,9,2,0.222,0,0,0.0,2,2,1.0,110,100,0
+77131,1958,25800035,1958-11-15 19:00:00,Philadelphia,Warriors,Minneapolis,Lakers,Regular Season,1,1,0.0,7,1,2,0,0,0,0,0,2,0,7,1,0.142,0,0,0.0,9,5,0.556,106,101,0
+77131,1958,25800044,1958-11-21 19:00:00,Philadelphia,Warriors,Cincinnati,Royals,Regular Season,1,1,0.0,8,3,4,0,0,0,0,0,3,0,9,3,0.333,0,0,0.0,2,2,1.0,108,90,0
+77131,1958,25800046,1958-11-22 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,0,0,15.0,6,3,3,0,0,0,0,0,1,0,8,3,0.375,0,0,0.0,0,0,0.0,105,100,0
+77131,1958,25800050,1958-11-23 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,1,1,0.0,4,1,6,0,0,0,0,0,2,0,10,2,0.2,0,0,0.0,1,0,0.0,110,107,0
+77131,1958,25800054,1958-11-25 19:00:00,Philadelphia,Warriors,St. Louis,Hawks,Regular Season,1,1,0.0,0,1,7,0,0,0,0,0,6,0,16,0,0.0,0,0,0.0,3,0,0.0,106,105,0
+77131,1958,25800060,1958-11-27 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,1,0,0.0,12,4,6,0,0,0,0,0,4,0,14,4,0.285,0,0,0.0,4,4,1.0,94,107,0
+77131,1958,25800064,1958-11-29 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,0,0,0.0,11,0,0,0,0,0,0,0,4,0,0,4,0.0,0,0,0.0,4,3,0.75,115,103,0
+77131,1958,25800067,1958-11-30 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,1,1,0.0,19,2,6,0,0,0,0,0,6,0,14,7,0.5,0,0,0.0,7,5,0.713,103,100,0
+77131,1958,25800069,1958-12-02 19:00:00,Philadelphia,Warriors,Detroit,Pistons,Regular Season,0,0,0.0,8,2,5,0,0,0,0,0,0,0,8,3,0.375,0,0,0.0,3,2,0.667,95,91,0
+77131,1958,25800075,1958-12-04 19:00:00,Philadelphia,Warriors,St. Louis,Hawks,Regular Season,1,0,21.0,4,2,6,0,0,0,0,0,2,0,7,2,0.285,0,0,0.0,1,0,0.0,92,107,0
+77131,1958,25800078,1958-12-06 19:00:00,Philadelphia,Warriors,St. Louis,Hawks,Regular Season,0,0,0.0,4,0,2,0,0,0,0,0,4,0,3,2,0.667,0,0,0.0,0,0,0.0,107,97,0
+77131,1958,25800082,1958-12-07 19:00:00,Philadelphia,Warriors,Cincinnati,Royals,Regular Season,0,1,0.0,22,3,5,0,0,0,0,0,5,0,14,10,0.713,0,0,0.0,4,2,0.5,90,103,0
+77131,1958,25800084,1958-12-09 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,0,0,0.0,7,4,7,0,0,0,0,0,2,0,13,2,0.153,0,0,0.0,4,3,0.75,106,90,0
+77131,1958,25800085,1958-12-10 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,0,0,13.0,0,1,4,0,0,0,0,0,4,0,4,0,0.0,0,0,0.0,1,0,0.0,100,97,0
+77131,1958,25800088,1958-12-11 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,1,0,0.0,4,1,0,0,0,0,0,0,0,0,3,2,0.667,0,0,0.0,0,0,0.0,114,123,0
+77131,1958,25800093,1958-12-12 19:00:00,Philadelphia,Warriors,Detroit,Pistons,Regular Season,0,0,0.0,3,0,0,0,0,0,0,0,0,0,0,1,0.0,0,0,0.0,1,1,1.0,97,95,0
+77131,1958,25800094,1958-12-13 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,0,0,0.0,5,0,3,0,0,0,0,0,2,0,6,2,0.333,0,0,0.0,2,1,0.5,115,100,0
+77131,1958,25800107,1958-12-20 19:00:00,Philadelphia,Warriors,Minneapolis,Lakers,Regular Season,0,0,0.0,8,1,0,0,0,0,0,0,2,0,5,3,0.599,0,0,0.0,3,2,0.667,99,88,0
+77131,1958,25800109,1958-12-21 19:00:00,Philadelphia,Warriors,St. Louis,Hawks,Regular Season,0,0,7.0,2,1,2,0,0,0,0,0,3,0,3,1,0.333,0,0,0.0,2,0,0.0,98,86,0
+77131,1958,25800114,1958-12-26 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,1,1,0.0,2,0,0,0,0,0,0,0,3,0,2,1,0.5,0,0,0.0,0,0,0.0,106,93,0
+77131,1958,25800116,1958-12-27 19:00:00,Philadelphia,Warriors,St. Louis,Hawks,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,114,108,0
+77131,1958,25800122,1958-12-29 19:00:00,Philadelphia,Warriors,Minneapolis,Lakers,Regular Season,1,1,0.0,2,1,2,0,0,0,0,0,1,0,4,1,0.25,0,0,0.0,1,0,0.0,95,93,0
+77131,1958,25800124,1958-12-30 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,1,1,0.0,0,0,1,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,112,105,0
+77131,1958,25800128,1959-01-02 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,1,0,0.0,13,2,4,0,0,0,0,0,3,0,9,4,0.444,0,0,0.0,6,5,0.832,107,117,0
+77131,1958,25800135,1959-01-04 19:00:00,Philadelphia,Warriors,Minneapolis,Lakers,Regular Season,1,0,0.0,16,4,5,0,0,0,0,0,4,0,11,4,0.363,0,0,0.0,12,8,0.667,95,111,0
+77131,1958,25800139,1959-01-06 19:00:00,Philadelphia,Warriors,Detroit,Pistons,Regular Season,1,0,0.0,1,0,0,0,0,0,0,0,5,0,3,0,0.0,0,0,0.0,3,1,0.333,105,107,0
+77131,1958,25800142,1959-01-07 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,0,0,0.0,7,1,3,0,0,0,0,0,0,0,4,2,0.5,0,0,0.0,4,3,0.75,111,99,0
+77131,1958,25800149,1959-01-10 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,1,1,0.0,8,1,7,0,0,0,0,0,5,0,9,3,0.333,0,0,0.0,3,2,0.667,103,97,0
+77131,1958,25800153,1959-01-11 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,0,0,0.0,0,0,1,0,0,0,0,0,0,0,3,0,0.0,0,0,0.0,0,0,0.0,111,105,0
+77131,1958,25800160,1959-01-14 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,0,0,0.0,2,3,5,0,0,0,0,0,1,0,6,0,0.0,0,0,0.0,4,2,0.5,119,104,0
+77131,1958,25800162,1959-01-15 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,91,95,0
+77131,1958,25800163,1959-01-16 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,1,1,0.0,1,2,2,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,1,1,1.0,105,98,0
+77131,1958,25800167,1959-01-17 19:00:00,Philadelphia,Warriors,Detroit,Pistons,Regular Season,0,1,0.0,6,1,3,0,0,0,0,0,4,0,6,3,0.5,0,0,0.0,0,0,0.0,104,106,0
+77131,1958,25800170,1959-01-18 19:00:00,Philadelphia,Warriors,Minneapolis,Lakers,Regular Season,0,0,0.0,4,2,2,0,0,0,0,0,2,0,2,2,1.0,0,0,0.0,1,0,0.0,119,98,0
+77131,1958,25800176,1959-01-21 19:00:00,Philadelphia,Warriors,Detroit,Pistons,Regular Season,1,1,0.0,8,2,7,0,0,0,0,0,2,0,10,4,0.4,0,0,0.0,0,0,0.0,112,105,0
+77131,1958,25800178,1959-01-24 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,0,0,16.0,10,0,5,0,0,0,0,0,2,0,9,5,0.556,0,0,0.0,1,0,0.0,132,104,0
+77131,1958,25800182,1959-01-25 19:00:00,Philadelphia,Warriors,Minneapolis,Lakers,Regular Season,1,1,0.0,15,3,3,0,0,0,0,0,5,0,10,4,0.4,0,0,0.0,9,7,0.778,125,111,0
+77131,1958,25800184,1959-01-26 19:00:00,Philadelphia,Warriors,Detroit,Pistons,Regular Season,1,1,0.0,7,1,5,0,0,0,0,0,4,0,5,3,0.599,0,0,0.0,1,1,1.0,102,98,0
+77131,1958,25800187,1959-01-27 19:00:00,Philadelphia,Warriors,Cincinnati,Royals,Regular Season,0,0,0.0,6,1,2,0,0,0,0,0,2,0,15,3,0.2,0,0,0.0,1,0,0.0,100,92,0
+77131,1958,25800190,1959-01-28 19:00:00,Philadelphia,Warriors,Cincinnati,Royals,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,1,0,2,0,0.0,0,0,0.0,0,0,0.0,99,84,0
+77131,1958,25800199,1959-02-01 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,0,1,0.0,9,0,2,0,0,0,0,0,3,0,7,4,0.57,0,0,0.0,3,1,0.333,105,113,0
+77131,1958,25800202,1959-02-03 19:00:00,Philadelphia,Warriors,Cincinnati,Royals,Regular Season,0,0,0.0,10,1,5,0,0,0,0,0,1,0,7,4,0.57,0,0,0.0,5,2,0.4,120,103,0
+77131,1958,25800205,1959-02-04 19:00:00,Philadelphia,Warriors,Detroit,Pistons,Regular Season,0,0,0.0,13,5,5,0,0,0,0,0,3,0,12,3,0.25,0,0,0.0,9,7,0.778,119,117,0
+77131,1958,25800208,1959-02-05 19:00:00,Philadelphia,Warriors,St. Louis,Hawks,Regular Season,1,1,0.0,1,2,0,0,0,0,0,0,3,0,0,0,0.0,0,0,0.0,3,1,0.333,106,95,0
+77131,1958,25800212,1959-02-07 19:00:00,Philadelphia,Warriors,Minneapolis,Lakers,Regular Season,0,0,0.0,16,1,3,0,0,0,0,0,5,0,13,5,0.385,0,0,0.0,8,6,0.75,109,97,0
+77131,1958,25800216,1959-02-08 19:00:00,Philadelphia,Warriors,St. Louis,Hawks,Regular Season,0,0,0.0,5,1,4,0,0,0,0,0,4,0,6,2,0.333,0,0,0.0,3,1,0.333,100,93,0
+77131,1958,25800218,1959-02-09 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,1,1,0.0,17,2,7,0,0,0,0,0,2,0,12,6,0.5,0,0,0.0,6,5,0.832,121,113,0
+77131,1958,25800222,1959-02-11 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,0,0,16.0,0,0,3,0,0,0,0,0,5,0,4,0,0.0,0,0,0.0,0,0,0.0,120,118,0
+77131,1958,25800230,1959-02-14 19:00:00,Philadelphia,Warriors,Cincinnati,Royals,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,106,94,0
+77131,1958,25800231,1959-02-15 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,121,101,0
+77131,1958,25800237,1959-02-17 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,0,0,0.0,1,1,1,0,0,0,0,0,0,0,2,0,0.0,0,0,0.0,1,1,1.0,95,84,0
+77131,1958,25800244,1959-02-21 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,1,1,0.0,7,1,1,0,0,0,0,0,1,0,6,2,0.333,0,0,0.0,5,3,0.599,113,112,0
+77131,1958,25800249,1959-02-22 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,0,0,0.0,3,5,1,0,0,0,0,0,2,0,5,1,0.2,0,0,0.0,3,1,0.333,111,90,0
+77131,1958,25800252,1959-02-25 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,1,1,0.0,7,1,7,0,0,0,0,0,1,0,10,2,0.2,0,0,0.0,4,3,0.75,134,123,0
+77131,1958,25800256,1959-02-26 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,0,0,0.0,11,2,6,0,0,0,0,0,1,0,9,5,0.556,0,0,0.0,2,1,0.5,125,109,0
+77131,1958,25800265,1959-03-01 19:00:00,Philadelphia,Warriors,Minneapolis,Lakers,Regular Season,0,0,0.0,6,1,2,0,0,0,0,0,1,0,2,2,1.0,0,0,0.0,3,2,0.667,100,98,0
+77131,1958,25800277,1959-03-06 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,1,1,0.0,8,3,3,0,0,0,0,0,3,0,10,3,0.299,0,0,0.0,4,2,0.5,118,114,0
+77131,1958,25800280,1959-03-07 19:00:00,Philadelphia,Warriors,Cincinnati,Royals,Regular Season,1,1,0.0,11,0,3,0,0,0,0,0,6,0,11,5,0.455,0,0,0.0,1,1,1.0,93,86,0
+77131,1958,25800284,1959-03-08 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,0,0,0.0,28,1,1,0,0,0,0,0,5,0,21,11,0.524,0,0,0.0,13,6,0.462,133,103,0
+77131,1958,25800286,1959-03-10 19:00:00,Philadelphia,Warriors,Cincinnati,Royals,Regular Season,0,1,0.0,20,0,5,0,0,0,0,0,4,0,15,9,0.599,0,0,0.0,5,2,0.4,96,102,0
+77131,1959,25900003,1959-10-24 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,0,1,0.0,5,4,0,0,0,0,0,0,3,0,6,2,0.333,0,0,0.0,2,1,0.5,109,118,0
+77131,1959,25900010,1959-10-31 19:00:00,Philadelphia,Warriors,Detroit,Pistons,Regular Season,1,1,0.0,6,0,3,0,0,0,0,0,1,0,4,2,0.5,0,0,0.0,3,2,0.667,120,112,0
+77131,1959,25900018,1959-11-04 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,1,1,0.0,13,0,7,0,0,0,0,0,4,0,15,6,0.4,0,0,0.0,1,1,1.0,124,113,0
+77131,1959,25900023,1959-11-07 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,0,0,0.0,5,1,2,0,0,0,0,0,2,0,6,2,0.333,0,0,0.0,1,1,1.0,115,106,0
+77131,1959,25900027,1959-11-08 19:00:00,Philadelphia,Warriors,Cincinnati,Royals,Regular Season,1,1,0.0,10,0,3,0,0,0,0,0,4,0,10,3,0.299,0,0,0.0,8,4,0.5,134,106,0
+77131,1959,25900028,1959-11-10 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,1,1,0.0,2,1,1,0,0,0,0,0,3,0,3,1,0.333,0,0,0.0,4,0,0.0,126,125,0
+77131,1959,25900032,1959-11-11 19:00:00,Philadelphia,Warriors,Detroit,Pistons,Regular Season,0,1,0.0,8,2,5,0,0,0,0,0,3,0,10,4,0.4,0,0,0.0,1,0,0.0,105,119,0
+77131,1959,25900033,1959-11-12 19:00:00,Philadelphia,Warriors,Cincinnati,Royals,Regular Season,0,1,0.0,16,1,4,0,0,0,0,0,6,0,17,6,0.352,0,0,0.0,4,4,1.0,116,124,0
+77131,1959,25900039,1959-11-14 19:00:00,Philadelphia,Warriors,Minneapolis,Lakers,Regular Season,1,1,0.0,12,0,5,0,0,0,0,0,5,0,13,4,0.307,0,0,0.0,6,4,0.667,104,98,0
+77131,1959,25900041,1959-11-15 19:00:00,Philadelphia,Warriors,Minneapolis,Lakers,Regular Season,0,0,0.0,10,4,6,0,0,0,0,0,3,0,13,5,0.385,0,0,0.0,1,0,0.0,106,100,0
+77131,1959,25900050,1959-11-20 19:00:00,Philadelphia,Warriors,St. Louis,Hawks,Regular Season,1,0,0.0,15,4,2,0,0,0,0,0,3,0,10,6,0.599,0,0,0.0,7,3,0.428,117,118,0
+77131,1959,25900055,1959-11-21 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,0,0,0.0,0,0,4,0,0,0,0,0,2,0,2,0,0.0,0,0,0.0,0,0,0.0,116,107,0
+77131,1959,25900058,1959-11-22 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,1,1,0.0,2,2,1,0,0,0,0,0,1,0,1,1,1.0,0,0,0.0,0,0,0.0,114,103,0
+77131,1959,25900062,1959-11-25 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,0,1,4.0,0,3,3,0,0,0,0,0,3,0,1,0,0.0,0,0,0.0,0,0,0.0,113,123,0
+77131,1959,25900065,1959-11-26 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,1,1,0.0,12,1,4,0,0,0,0,0,3,0,7,5,0.713,0,0,0.0,3,2,0.667,143,130,0
+77131,1959,25900069,1959-11-28 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,0,1,0.0,0,0,1,0,0,0,0,0,1,0,3,0,0.0,0,0,0.0,0,0,0.0,108,109,0
+77131,1959,25900072,1959-11-29 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,1,0,0.0,19,4,4,0,0,0,0,0,5,0,22,9,0.408,0,0,0.0,2,1,0.5,126,127,0
+77131,1959,25900079,1959-12-03 19:00:00,Philadelphia,Warriors,Minneapolis,Lakers,Regular Season,1,1,0.0,0,0,4,0,0,0,0,0,1,0,2,0,0.0,0,0,0.0,0,0,0.0,123,109,0
+77131,1959,25900080,1959-12-04 19:00:00,Philadelphia,Warriors,St. Louis,Hawks,Regular Season,1,1,0.0,1,1,3,0,0,0,0,0,1,0,2,0,0.0,0,0,0.0,1,1,1.0,124,112,0
+77131,1959,25900083,1959-12-05 19:00:00,Philadelphia,Warriors,St. Louis,Hawks,Regular Season,0,0,0.0,3,1,3,0,0,0,0,0,0,0,5,1,0.2,0,0,0.0,2,1,0.5,113,112,0
+77131,1959,25900086,1959-12-06 19:00:00,Philadelphia,Warriors,Detroit,Pistons,Regular Season,1,1,0.0,28,2,9,0,0,0,0,0,4,0,23,12,0.522,0,0,0.0,7,4,0.57,118,116,0
+77131,1959,25900093,1959-12-09 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,0,0,24.0,1,4,4,0,0,0,0,0,1,0,4,0,0.0,0,0,0.0,2,1,0.5,137,116,0
+77131,1959,25900095,1959-12-10 19:00:00,Philadelphia,Warriors,Cincinnati,Royals,Regular Season,1,1,0.0,3,2,7,0,0,0,0,0,6,0,7,1,0.142,0,0,0.0,4,1,0.25,131,112,0
+77131,1959,25900099,1959-12-12 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,1,0,0.0,10,3,3,0,0,0,0,0,2,0,6,4,0.667,0,0,0.0,3,2,0.667,117,126,0
+77131,1959,25900102,1959-12-13 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,0,0,24.0,11,5,7,0,0,0,0,0,2,0,11,3,0.273,0,0,0.0,7,5,0.713,150,121,0
+77131,1959,25900105,1959-12-15 19:00:00,Philadelphia,Warriors,Cincinnati,Royals,Regular Season,1,1,0.0,5,1,2,0,0,0,0,0,5,0,3,2,0.667,0,0,0.0,1,1,1.0,131,107,0
+77131,1959,25900108,1959-12-16 19:00:00,Philadelphia,Warriors,Cincinnati,Royals,Regular Season,0,1,0.0,13,2,7,0,0,0,0,0,1,0,12,5,0.416,0,0,0.0,5,3,0.599,105,114,0
+77131,1959,25900113,1959-12-19 19:00:00,Philadelphia,Warriors,St. Louis,Hawks,Regular Season,0,0,0.0,2,0,1,0,0,0,0,0,1,0,2,1,0.5,0,0,0.0,3,0,0.0,102,89,0
+77131,1959,25900119,1959-12-25 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,1,1,0.0,13,0,3,0,0,0,0,0,0,0,15,6,0.4,0,0,0.0,5,1,0.2,129,121,0
+77131,1959,25900123,1959-12-26 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,1,0,0.0,15,1,4,0,0,0,0,0,6,0,9,4,0.444,0,0,0.0,12,7,0.582,116,122,0
+77131,1959,25900130,1959-12-28 19:00:00,Philadelphia,Warriors,Cincinnati,Royals,Regular Season,1,1,0.0,9,1,2,0,0,0,0,0,5,0,15,3,0.2,0,0,0.0,3,3,1.0,109,104,0
+77131,1959,25900133,1959-12-30 19:00:00,Philadelphia,Warriors,Minneapolis,Lakers,Regular Season,1,1,0.0,2,2,7,0,0,0,0,0,1,0,3,1,0.333,0,0,0.0,0,0,0.0,122,107,0
+77131,1959,25900140,1960-01-02 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,1,1,0.0,0,5,2,0,0,0,0,0,4,0,0,0,0.0,0,0,0.0,0,0,0.0,118,117,0
+77131,1959,25900147,1960-01-05 19:00:00,Philadelphia,Warriors,Minneapolis,Lakers,Regular Season,1,1,0.0,12,4,3,0,0,0,0,0,5,0,9,4,0.444,0,0,0.0,6,4,0.667,126,111,0
+77131,1959,25900150,1960-01-06 19:00:00,Philadelphia,Warriors,St. Louis,Hawks,Regular Season,1,1,7.0,0,1,1,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,121,101,0
+77131,1959,25900152,1960-01-07 19:00:00,Philadelphia,Warriors,Detroit,Pistons,Regular Season,1,1,0.0,20,5,6,0,0,0,0,0,3,0,20,9,0.45,0,0,0.0,4,2,0.5,120,105,0
+77131,1959,25900155,1960-01-09 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,1,1,0.0,8,9,6,0,0,0,0,0,2,0,20,4,0.2,0,0,0.0,2,0,0.0,119,112,0
+77131,1959,25900161,1960-01-10 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,0,1,0.0,22,4,13,0,0,0,0,0,3,0,23,11,0.477,0,0,0.0,1,0,0.0,103,116,0
+77131,1959,25900164,1960-01-12 19:00:00,Philadelphia,Warriors,St. Louis,Hawks,Regular Season,1,1,0.0,7,1,2,0,0,0,0,0,4,0,8,2,0.25,0,0,0.0,3,3,1.0,126,108,0
+77131,1959,25900165,1960-01-13 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,1,1,0.0,13,3,12,0,0,0,0,0,6,0,15,5,0.333,0,0,0.0,5,3,0.599,132,131,0
+77131,1959,25900172,1960-01-15 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,1,0,0.0,4,4,6,0,0,0,0,0,5,0,8,2,0.25,0,0,0.0,0,0,0.0,112,124,0
+77131,1959,25900175,1960-01-17 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,0,0,7.0,0,1,3,0,0,0,0,0,0,0,4,0,0.0,0,0,0.0,0,0,0.0,129,123,0
+77131,1959,25900179,1960-01-19 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,1,1,0.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,114,93,0
+77131,1959,25900181,1960-01-20 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,0,1,0.0,0,0,0,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,123,129,0
+77131,1959,25900184,1960-01-23 19:00:00,Philadelphia,Warriors,Detroit,Pistons,Regular Season,0,0,0.0,4,1,2,0,0,0,0,0,2,0,5,2,0.4,0,0,0.0,1,0,0.0,130,110,0
+77131,1959,25900189,1960-01-24 19:00:00,Philadelphia,Warriors,Cincinnati,Royals,Regular Season,0,1,0.0,4,4,1,0,0,0,0,0,5,0,4,1,0.25,0,0,0.0,2,2,1.0,95,104,0
+77131,1959,25900190,1960-01-25 19:00:00,Philadelphia,Warriors,Detroit,Pistons,Regular Season,1,1,0.0,14,4,8,0,0,0,0,0,5,0,15,6,0.4,0,0,0.0,3,2,0.667,127,117,0
+77131,1959,25900193,1960-01-27 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,1,1,0.0,13,4,6,0,0,0,0,0,1,0,15,4,0.267,0,0,0.0,5,5,1.0,129,117,0
+77131,1959,25900198,1960-01-29 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,1,1,0.0,12,2,5,0,0,0,0,0,4,0,12,3,0.25,0,0,0.0,8,6,0.75,124,116,0
+77131,1959,25900201,1960-01-30 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,0,0,0.0,7,2,3,0,0,0,0,0,1,0,3,1,0.333,0,0,0.0,8,5,0.625,115,108,0
+77131,1959,25900206,1960-01-31 19:00:00,Philadelphia,Warriors,Minneapolis,Lakers,Regular Season,1,1,0.0,16,4,9,0,0,0,0,0,4,0,11,6,0.545,0,0,0.0,7,4,0.57,114,104,0
+77131,1959,25900207,1960-02-01 19:00:00,Philadelphia,Warriors,Minneapolis,Lakers,Regular Season,1,1,0.0,5,3,5,0,0,0,0,0,2,0,6,2,0.333,0,0,0.0,1,1,1.0,103,96,0
+77131,1959,25900209,1960-02-02 19:00:00,Philadelphia,Warriors,Cincinnati,Royals,Regular Season,1,1,0.0,12,1,2,0,0,0,0,0,6,0,10,5,0.5,0,0,0.0,2,2,1.0,109,107,0
+77131,1959,25900214,1960-02-04 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,0,0,0.0,7,1,2,0,0,0,0,0,3,0,9,1,0.111,0,0,0.0,5,5,1.0,137,110,0
+77131,1959,25900218,1960-02-06 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,1,1,0.0,5,0,3,0,0,0,0,0,1,0,2,1,0.5,0,0,0.0,4,3,0.75,129,126,0
+77131,1959,25900223,1960-02-07 19:00:00,Philadelphia,Warriors,St. Louis,Hawks,Regular Season,0,0,0.0,4,2,2,0,0,0,0,0,4,0,9,2,0.222,0,0,0.0,0,0,0.0,130,108,0
+77131,1959,25900225,1960-02-09 19:00:00,Philadelphia,Warriors,Detroit,Pistons,Regular Season,0,0,0.0,0,4,4,0,0,0,0,0,0,0,4,0,0.0,0,0,0.0,0,0,0.0,122,113,0
+77131,1959,25900230,1960-02-10 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,0,0,0.0,17,2,8,0,0,0,0,0,5,0,13,6,0.462,0,0,0.0,9,5,0.556,125,117,0
+77131,1959,25900233,1960-02-11 19:00:00,Philadelphia,Warriors,St. Louis,Hawks,Regular Season,1,1,0.0,18,3,3,0,0,0,0,0,3,0,13,7,0.538,0,0,0.0,8,4,0.5,139,120,0
+77131,1959,25900237,1960-02-13 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,0,0,23.0,20,2,6,0,0,0,0,0,1,0,15,9,0.599,0,0,0.0,4,2,0.5,122,120,0
+77131,1959,25900241,1960-02-14 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,1,0,0.0,2,3,2,0,0,0,0,0,2,0,2,1,0.5,0,0,0.0,0,0,0.0,115,125,0
+77131,1959,25900245,1960-02-16 19:00:00,Philadelphia,Warriors,Cincinnati,Royals,Regular Season,0,1,0.0,4,1,3,0,0,0,0,0,2,0,4,2,0.5,0,0,0.0,0,0,0.0,112,117,0
+77131,1959,25900248,1960-02-17 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,1,1,0.0,0,0,3,0,0,0,0,0,0,0,2,0,0.0,0,0,0.0,2,0,0.0,123,116,0
+77131,1959,25900249,1960-02-18 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,0,0,0.0,6,1,3,0,0,0,0,0,1,0,8,3,0.375,0,0,0.0,1,0,0.0,136,122,0
+77131,1959,25900255,1960-02-20 19:00:00,Philadelphia,Warriors,Minneapolis,Lakers,Regular Season,1,1,0.0,3,1,4,0,0,0,0,0,1,0,3,1,0.333,0,0,0.0,2,1,0.5,122,106,0
+77131,1959,25900257,1960-02-21 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,0,1,0.0,5,3,0,0,0,0,0,0,4,0,5,2,0.4,0,0,0.0,1,1,1.0,122,129,0
+77131,1959,25900264,1960-02-23 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,1,1,9.0,0,0,2,0,0,0,0,0,3,0,0,0,0.0,0,0,0.0,0,0,0.0,126,108,0
+77131,1959,25900268,1960-02-25 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,1,1,0.0,8,2,5,0,0,0,0,0,0,0,9,3,0.333,0,0,0.0,2,2,1.0,131,121,0
+77131,1959,25900275,1960-02-27 19:00:00,Philadelphia,Warriors,Minneapolis,Lakers,Regular Season,0,0,0.0,9,0,2,0,0,0,0,0,0,0,9,4,0.444,0,0,0.0,1,1,1.0,109,91,0
+77131,1959,25900277,1960-02-28 19:00:00,Philadelphia,Warriors,Detroit,Pistons,Regular Season,0,1,0.0,20,2,5,0,0,0,0,0,6,0,18,8,0.444,0,0,0.0,5,4,0.8,111,113,0
+77131,1959,25900282,1960-03-02 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,0,0,9.0,4,1,1,0,0,0,0,0,1,0,9,2,0.222,0,0,0.0,0,0,0.0,133,119,0
+77131,1959,25900287,1960-03-03 19:00:00,Philadelphia,Warriors,Detroit,Pistons,Regular Season,1,1,0.0,7,3,2,0,0,0,0,0,1,0,8,3,0.375,0,0,0.0,1,1,1.0,110,101,0
+77131,1959,25900288,1960-03-04 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,1,1,0.0,19,2,4,0,0,0,0,0,2,0,17,8,0.47,0,0,0.0,3,3,1.0,136,134,0
+77131,1959,25900293,1960-03-06 19:00:00,Philadelphia,Warriors,St. Louis,Hawks,Regular Season,0,0,0.0,16,3,5,0,0,0,0,0,3,0,22,8,0.363,0,0,0.0,1,0,0.0,128,109,0
+77131,1959,25900297,1960-03-09 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,0,0,0.0,17,3,8,0,0,0,0,0,3,0,14,8,0.57,0,0,0.0,3,1,0.333,137,126,0
+77131,1959,45900211,1960-03-11 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Playoffs,1,1,0.0,7,0,4,0,0,0,0,0,2,0,7,3,0.428,0,0,0.0,2,1,0.5,115,92,0
+77131,1959,45900212,1960-03-13 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Playoffs,0,0,0.0,17,0,5,0,0,0,0,0,3,0,7,6,0.856,0,0,0.0,8,5,0.625,125,119,0
+77131,1959,45900213,1960-03-14 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Playoffs,1,1,0.0,7,6,8,0,0,0,0,0,3,0,9,3,0.333,0,0,0.0,1,1,1.0,132,112,0
+77131,1959,45900321,1960-03-16 19:00:00,Philadelphia,Warriors,Boston,Celtics,Playoffs,0,0,13.0,8,2,2,0,0,0,0,0,2,0,5,2,0.4,0,0,0.0,4,4,1.0,111,105,0
+77131,1959,45900322,1960-03-18 19:00:00,Philadelphia,Warriors,Boston,Celtics,Playoffs,1,1,37.0,15,5,6,0,0,0,0,0,3,0,13,5,0.385,0,0,0.0,12,5,0.416,115,110,0
+77131,1959,45900323,1960-03-19 19:00:00,Philadelphia,Warriors,Boston,Celtics,Playoffs,0,0,20.0,10,1,5,0,0,0,0,0,3,0,9,4,0.444,0,0,0.0,9,2,0.222,120,90,0
+77131,1959,45900324,1960-03-20 19:00:00,Philadelphia,Warriors,Boston,Celtics,Playoffs,1,0,25.0,14,0,6,0,0,0,0,0,6,0,12,4,0.333,0,0,0.0,11,6,0.545,104,112,0
+77131,1959,45900325,1960-03-22 19:00:00,Philadelphia,Warriors,Boston,Celtics,Playoffs,0,1,14.0,0,2,4,0,0,0,0,0,2,0,2,0,0.0,0,0,0.0,0,0,0.0,107,128,0
+77131,1959,45900326,1960-03-24 19:00:00,Philadelphia,Warriors,Boston,Celtics,Playoffs,1,0,16.0,2,5,5,0,0,0,0,0,2,0,3,1,0.333,0,0,0.0,0,0,0.0,117,119,0
+77131,1960,26000003,1960-10-22 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,0,1,0.0,15,2,7,0,0,0,0,0,2,0,12,5,0.416,0,0,0.0,6,5,0.832,123,133,0
+77131,1960,26000013,1960-10-28 19:00:00,Philadelphia,Warriors,Los Angeles,Lakers,Regular Season,1,1,0.0,10,1,6,0,0,0,0,0,5,0,16,3,0.188,0,0,0.0,7,4,0.57,122,120,0
+77131,1960,26000017,1960-10-29 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,0,1,27.0,18,3,5,0,0,0,0,0,3,0,13,6,0.462,0,0,0.0,8,6,0.75,103,131,0
+77131,1960,26000019,1960-11-01 19:00:00,Philadelphia,Warriors,Cincinnati,Royals,Regular Season,0,1,0.0,14,3,3,0,0,0,0,0,3,0,15,6,0.4,0,0,0.0,2,2,1.0,113,131,0
+77131,1960,26000022,1960-11-04 19:00:00,Philadelphia,Warriors,Detroit,Pistons,Regular Season,1,1,0.0,27,7,9,0,0,0,0,0,5,0,26,13,0.5,0,0,0.0,2,1,0.5,136,121,0
+77131,1960,26000023,1960-11-05 19:00:00,Philadelphia,Warriors,Detroit,Pistons,Regular Season,1,1,0.0,10,3,5,0,0,0,0,0,4,0,7,3,0.428,0,0,0.0,5,4,0.8,130,123,0
+77131,1960,26000030,1960-11-09 19:00:00,Philadelphia,Warriors,Los Angeles,Lakers,Regular Season,1,1,0.0,6,1,2,0,0,0,0,0,3,0,9,2,0.222,0,0,0.0,2,2,1.0,125,118,0
+77131,1960,26000031,1960-11-10 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,0,1,0.0,10,2,5,0,0,0,0,0,3,0,11,4,0.363,0,0,0.0,4,2,0.5,112,116,0
+77131,1960,26000032,1960-11-11 19:00:00,Philadelphia,Warriors,St. Louis,Hawks,Regular Season,1,1,0.0,15,3,6,0,0,0,0,0,5,0,19,6,0.316,0,0,0.0,7,3,0.428,117,112,0
+77131,1960,26000038,1960-11-12 19:00:00,Philadelphia,Warriors,St. Louis,Hawks,Regular Season,0,0,0.0,9,0,3,0,0,0,0,0,4,0,5,4,0.8,0,0,0.0,10,1,0.1,107,105,0
+77131,1960,26000041,1960-11-15 19:00:00,Philadelphia,Warriors,Cincinnati,Royals,Regular Season,0,0,0.0,20,1,9,0,0,0,0,0,2,0,25,8,0.32,0,0,0.0,6,4,0.667,124,115,0
+77131,1960,26000043,1960-11-16 19:00:00,Philadelphia,Warriors,Detroit,Pistons,Regular Season,0,0,0.0,4,5,10,0,0,0,0,0,1,0,11,1,0.09,0,0,0.0,3,2,0.667,119,118,0
+77131,1960,26000046,1960-11-17 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,1,0,0.0,15,6,5,0,0,0,0,0,4,0,11,7,0.636,0,0,0.0,1,1,1.0,105,106,0
+77131,1960,26000049,1960-11-18 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,0,1,0.0,9,6,3,0,0,0,0,0,2,0,10,3,0.299,0,0,0.0,3,3,1.0,99,101,0
+77131,1960,26000052,1960-11-19 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,1,1,0.0,6,1,3,0,0,0,0,0,2,0,6,3,0.5,0,0,0.0,0,0,0.0,121,111,0
+77131,1960,26000061,1960-11-24 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,1,0,0.0,15,1,7,0,0,0,0,0,4,0,11,3,0.273,0,0,0.0,13,9,0.691,129,132,0
+77131,1960,26000069,1960-11-26 19:00:00,Philadelphia,Warriors,Cincinnati,Royals,Regular Season,1,1,0.0,5,0,2,0,0,0,0,0,1,0,5,2,0.4,0,0,0.0,2,1,0.5,138,108,0
+77131,1960,26000071,1960-11-27 19:00:00,Philadelphia,Warriors,Los Angeles,Lakers,Regular Season,0,1,0.0,11,0,3,0,0,0,0,0,5,0,14,4,0.285,0,0,0.0,6,3,0.5,106,113,0
+77131,1960,26000072,1960-11-28 19:00:00,Philadelphia,Warriors,Los Angeles,Lakers,Regular Season,0,0,0.0,3,0,1,0,0,0,0,0,2,0,2,1,0.5,0,0,0.0,1,1,1.0,137,112,0
+77131,1960,26000073,1960-11-29 19:00:00,Philadelphia,Warriors,Los Angeles,Lakers,Regular Season,1,1,0.0,10,3,6,0,0,0,0,0,5,0,9,3,0.333,0,0,0.0,4,4,1.0,122,121,0
+77131,1960,26000080,1960-12-01 19:00:00,Philadelphia,Warriors,Los Angeles,Lakers,Regular Season,1,1,0.0,6,5,7,0,0,0,0,0,6,0,10,3,0.299,0,0,0.0,0,0,0.0,117,114,0
+77131,1960,26000084,1960-12-03 19:00:00,Philadelphia,Warriors,St. Louis,Hawks,Regular Season,1,0,0.0,19,3,5,0,0,0,0,0,3,0,23,8,0.347,0,0,0.0,5,3,0.599,127,131,0
+77131,1960,26000091,1960-12-06 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,0,1,0.0,6,6,0,0,0,0,0,0,1,0,7,3,0.428,0,0,0.0,2,0,0.0,107,113,0
+77131,1960,26000096,1960-12-08 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,1,1,0.0,8,6,2,0,0,0,0,0,5,0,14,3,0.213,0,0,0.0,4,2,0.5,114,111,0
+77131,1960,26000101,1960-12-10 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,1,1,0.0,2,0,5,0,0,0,0,0,4,0,8,1,0.125,0,0,0.0,1,0,0.0,102,97,0
+77131,1960,26000102,1960-12-11 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,0,0,0.0,6,0,1,0,0,0,0,0,1,0,9,3,0.333,0,0,0.0,0,0,0.0,132,121,0
+77131,1960,26000105,1960-12-13 19:00:00,Philadelphia,Warriors,Detroit,Pistons,Regular Season,1,1,0.0,6,2,1,0,0,0,0,0,3,0,9,2,0.222,0,0,0.0,2,2,1.0,110,108,0
+77131,1960,26000107,1960-12-14 19:00:00,Philadelphia,Warriors,Detroit,Pistons,Regular Season,0,0,0.0,10,2,5,0,0,0,0,0,3,0,12,5,0.416,0,0,0.0,2,0,0.0,134,126,0
+77131,1960,26000112,1960-12-16 19:00:00,Philadelphia,Warriors,St. Louis,Hawks,Regular Season,0,0,4.0,0,0,1,0,0,0,0,0,0,0,3,0,0.0,0,0,0.0,0,0,0.0,112,107,0
+77131,1960,26000116,1960-12-18 19:00:00,Philadelphia,Warriors,Cincinnati,Royals,Regular Season,0,1,0.0,15,1,3,0,0,0,0,0,3,0,8,4,0.5,0,0,0.0,7,7,1.0,112,128,0
+77131,1960,26000122,1960-12-21 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,1,1,0.0,4,1,5,0,0,0,0,0,3,0,10,2,0.2,0,0,0.0,0,0,0.0,122,117,0
+77131,1960,26000128,1960-12-26 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,0,0,11.0,5,1,3,0,0,0,0,0,0,0,8,1,0.125,0,0,0.0,3,3,1.0,119,115,0
+77131,1960,26000132,1960-12-27 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,1,1,0.0,2,4,3,0,0,0,0,0,3,0,5,1,0.2,0,0,0.0,0,0,0.0,116,101,0
+77131,1960,26000136,1960-12-29 19:00:00,Philadelphia,Warriors,Cincinnati,Royals,Regular Season,1,1,0.0,8,3,3,0,0,0,0,0,2,0,5,3,0.599,0,0,0.0,3,2,0.667,128,124,0
+77131,1960,26000139,1960-12-30 19:00:00,Philadelphia,Warriors,Cincinnati,Royals,Regular Season,1,0,0.0,4,1,3,0,0,0,0,0,4,0,10,2,0.2,0,0,0.0,1,0,0.0,130,136,0
+77131,1960,26000147,1961-01-02 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,1,1,0.0,19,5,6,0,0,0,0,0,5,0,19,9,0.473,0,0,0.0,4,1,0.25,131,115,0
+77131,1960,26000149,1961-01-03 19:00:00,Philadelphia,Warriors,Detroit,Pistons,Regular Season,1,1,0.0,7,4,4,0,0,0,0,0,0,0,5,2,0.4,0,0,0.0,9,3,0.333,128,125,0
+77131,1960,26000153,1961-01-05 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,1,1,0.0,12,4,6,0,0,0,0,0,4,0,13,6,0.462,0,0,0.0,2,0,0.0,139,127,0
+77131,1960,26000160,1961-01-08 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,0,0,0.0,11,2,4,0,0,0,0,0,2,0,14,4,0.285,0,0,0.0,6,3,0.5,121,119,0
+77131,1960,26000171,1961-01-12 19:00:00,Philadelphia,Warriors,St. Louis,Hawks,Regular Season,1,1,0.0,1,1,3,0,0,0,0,0,2,0,4,0,0.0,0,0,0.0,1,1,1.0,111,102,0
+77131,1960,26000172,1961-01-13 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,0,0,33.0,19,2,7,0,0,0,0,0,6,0,13,7,0.538,0,0,0.0,8,5,0.625,123,121,0
+77131,1960,26000175,1961-01-14 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,1,1,0.0,19,2,7,0,0,0,0,0,6,0,13,7,0.538,0,0,0.0,8,5,0.625,116,113,0
+77131,1960,26000179,1961-01-15 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,0,0,2.0,0,0,1,0,0,0,0,0,0,0,1,0,0.0,0,0,0.0,0,0,0.0,116,113,0
+77131,1960,26000182,1961-01-18 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,0,0,0.0,4,2,1,0,0,0,0,0,4,0,5,2,0.4,0,0,0.0,0,0,0.0,129,118,0
+77131,1960,26000184,1961-01-19 19:00:00,Philadelphia,Warriors,St. Louis,Hawks,Regular Season,1,1,25.0,20,2,4,0,0,0,0,0,4,0,19,9,0.473,0,0,0.0,4,2,0.5,129,127,0
+77131,1960,26000190,1961-01-21 19:00:00,Philadelphia,Warriors,Los Angeles,Lakers,Regular Season,1,1,0.0,12,3,11,0,0,0,0,0,4,0,15,5,0.333,0,0,0.0,2,2,1.0,136,111,0
+77131,1960,26000192,1961-01-22 19:00:00,Philadelphia,Warriors,Detroit,Pistons,Regular Season,0,0,0.0,8,3,6,0,0,0,0,0,2,0,12,3,0.25,0,0,0.0,4,2,0.5,136,128,0
+77131,1960,26000195,1961-01-24 19:00:00,Philadelphia,Warriors,St. Louis,Hawks,Regular Season,0,0,0.0,9,1,0,0,0,0,0,0,4,0,9,4,0.444,0,0,0.0,1,1,1.0,114,112,0
+77131,1960,26000202,1961-01-26 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,1,0,0.0,3,0,1,0,0,0,0,0,2,0,3,1,0.333,0,0,0.0,1,1,1.0,121,129,0
+77131,1960,26000204,1961-01-27 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,0,0,0.0,0,3,3,0,0,0,0,0,1,0,3,0,0.0,0,0,0.0,0,0,0.0,130,119,0
+77131,1960,26000207,1961-01-28 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,1,1,0.0,15,4,10,0,0,0,0,0,2,0,17,7,0.411,0,0,0.0,4,1,0.25,114,108,0
+77131,1960,26000208,1961-01-29 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,0,0,25.0,1,3,3,0,0,0,0,0,2,0,6,0,0.0,0,0,0.0,2,1,0.5,128,115,0
+77131,1960,26000218,1961-02-01 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,0,1,28.0,19,4,0,0,0,0,0,0,0,0,15,7,0.467,0,0,0.0,7,5,0.713,113,122,0
+77131,1960,26000219,1961-02-02 19:00:00,Philadelphia,Warriors,Cincinnati,Royals,Regular Season,1,1,0.0,12,5,4,0,0,0,0,0,3,0,10,5,0.5,0,0,0.0,2,2,1.0,133,118,0
+77131,1960,26000221,1961-02-03 19:00:00,Philadelphia,Warriors,Cincinnati,Royals,Regular Season,1,1,0.0,22,1,3,0,0,0,0,0,3,0,18,10,0.556,0,0,0.0,4,2,0.5,136,135,0
+77131,1960,26000226,1961-02-05 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,1,1,0.0,18,6,6,0,0,0,0,0,3,0,18,8,0.444,0,0,0.0,2,2,1.0,136,128,0
+77131,1960,26000231,1961-02-07 19:00:00,Philadelphia,Warriors,St. Louis,Hawks,Regular Season,0,0,25.0,11,1,3,0,0,0,0,0,4,0,9,5,0.556,0,0,0.0,2,1,0.5,127,124,0
+77131,1960,26000234,1961-02-08 19:00:00,Philadelphia,Warriors,Detroit,Pistons,Regular Season,0,0,0.0,0,1,4,0,0,0,0,0,0,0,3,0,0.0,0,0,0.0,0,0,0.0,125,123,0
+77131,1960,26000237,1961-02-09 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,1,0,0.0,16,2,6,0,0,0,0,0,5,0,12,6,0.5,0,0,0.0,7,4,0.57,126,136,0
+77131,1960,26000241,1961-02-10 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,0,1,0.0,13,4,6,0,0,0,0,0,5,0,13,5,0.385,0,0,0.0,3,3,1.0,131,133,0
+77131,1960,26000245,1961-02-12 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,0,0,23.0,8,0,0,0,0,0,0,0,4,0,15,3,0.2,0,0,0.0,3,2,0.667,136,125,0
+77131,1960,26000253,1961-02-15 19:00:00,Philadelphia,Warriors,St. Louis,Hawks,Regular Season,0,0,27.0,9,4,3,0,0,0,0,0,2,0,13,2,0.153,0,0,0.0,10,5,0.5,135,98,0
+77131,1960,26000255,1961-02-16 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,1,1,0.0,22,3,8,0,0,0,0,0,4,0,20,8,0.4,0,0,0.0,10,6,0.599,121,111,0
+77131,1960,26000258,1961-02-17 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,1,0,0.0,7,1,6,0,0,0,0,0,5,0,7,3,0.428,0,0,0.0,6,1,0.167,128,133,0
+77131,1960,26000261,1961-02-18 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,0,0,0.0,6,0,5,0,0,0,0,0,2,0,8,3,0.375,0,0,0.0,2,0,0.0,129,110,0
+77131,1960,26000269,1961-02-21 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,0,1,0.0,7,6,7,0,0,0,0,0,4,0,9,2,0.222,0,0,0.0,3,3,1.0,112,114,0
+77131,1960,26000270,1961-02-22 19:00:00,Philadelphia,Warriors,Cincinnati,Royals,Regular Season,1,1,0.0,5,3,4,0,0,0,0,0,2,0,6,2,0.333,0,0,0.0,1,1,1.0,132,131,0
+77131,1960,26000273,1961-02-23 19:00:00,Philadelphia,Warriors,Detroit,Pistons,Regular Season,1,1,0.0,2,2,2,0,0,0,0,0,3,0,5,1,0.2,0,0,0.0,0,0,0.0,129,121,0
+77131,1960,26000277,1961-02-25 19:00:00,Philadelphia,Warriors,Cincinnati,Royals,Regular Season,0,1,0.0,6,0,5,0,0,0,0,0,5,0,11,3,0.273,0,0,0.0,1,0,0.0,120,129,0
+77131,1960,26000280,1961-02-26 19:00:00,Philadelphia,Warriors,Los Angeles,Lakers,Regular Season,0,0,0.0,13,8,3,0,0,0,0,0,6,0,11,5,0.455,0,0,0.0,4,3,0.75,121,116,0
+77131,1960,26000283,1961-02-27 19:00:00,Philadelphia,Warriors,Los Angeles,Lakers,Regular Season,0,1,0.0,11,6,2,0,0,0,0,0,4,0,14,5,0.356,0,0,0.0,2,1,0.5,88,113,0
+77131,1960,26000285,1961-02-28 19:00:00,Philadelphia,Warriors,Los Angeles,Lakers,Regular Season,1,1,0.0,23,5,14,0,0,0,0,0,4,0,17,10,0.587,0,0,0.0,4,3,0.75,123,108,0
+77131,1960,26000287,1961-03-01 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,0,0,0.0,11,1,2,0,0,0,0,0,3,0,8,4,0.5,0,0,0.0,4,3,0.75,149,128,0
+77131,1960,26000292,1961-03-03 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,1,1,0.0,1,0,3,0,0,0,0,0,2,0,4,0,0.0,0,0,0.0,2,1,0.5,123,116,0
+77131,1960,26000294,1961-03-04 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Regular Season,1,1,0.0,14,4,3,0,0,0,0,0,5,0,11,5,0.455,0,0,0.0,11,4,0.363,116,115,0
+77131,1960,26000297,1961-03-05 19:00:00,Philadelphia,Warriors,Boston,Celtics,Regular Season,0,0,27.0,12,4,5,0,0,0,0,0,0,0,16,5,0.313,0,0,0.0,9,2,0.222,146,129,0
+77131,1960,26000307,1961-03-09 19:00:00,Philadelphia,Warriors,New York,Knicks,Regular Season,1,1,0.0,2,1,4,0,0,0,0,0,3,0,3,1,0.333,0,0,0.0,0,0,0.0,135,126,0
+77131,1960,26000310,1961-03-10 19:00:00,Philadelphia,Warriors,Detroit,Pistons,Regular Season,0,0,0.0,3,1,0,0,0,0,0,0,4,0,9,1,0.111,0,0,0.0,2,1,0.5,120,103,0
+77131,1960,26000313,1961-03-11 19:00:00,Philadelphia,Warriors,St. Louis,Hawks,Regular Season,0,0,20.0,8,3,5,0,0,0,0,0,2,0,9,3,0.333,0,0,0.0,4,2,0.5,130,87,0
+77131,1960,46000211,1961-03-14 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Playoffs,1,0,0.0,9,1,5,0,0,0,0,0,4,0,13,4,0.307,0,0,0.0,1,1,1.0,107,115,0
+77131,1960,46000212,1961-03-16 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Playoffs,0,0,0.0,4,0,4,0,0,0,0,0,6,0,4,1,0.25,0,0,0.0,4,2,0.5,115,114,0
+77131,1960,46000213,1961-03-18 19:00:00,Philadelphia,Warriors,Syracuse,Nationals,Playoffs,1,0,0.0,7,0,1,0,0,0,0,0,1,0,5,2,0.4,0,0,0.0,4,3,0.75,103,106,0
+77131,1961,26100003,1961-10-19 19:00:00,Chicago,Packers,New York,Knicks,Regular Season,0,0,0.0,3,0,0,0,0,0,0,0,4,0,0,0,0.0,0,0,0.0,4,3,0.75,120,103,0
+77131,1961,26100006,1961-10-21 19:00:00,Chicago,Packers,Syracuse,Nationals,Regular Season,0,0,0.0,7,0,0,0,0,0,0,0,2,0,0,1,0.0,0,0,0.0,7,5,0.713,123,103,0
+77131,1961,26100016,1961-10-27 19:00:00,Chicago,Packers,St. Louis,Hawks,Regular Season,1,1,0.0,4,0,0,0,0,0,0,0,1,0,0,1,0.0,0,0,0.0,4,2,0.5,117,106,0
+77131,1961,26100020,1961-10-28 19:00:00,Chicago,Packers,St. Louis,Hawks,Regular Season,0,0,28.0,7,0,4,0,0,0,0,0,3,0,8,2,0.25,0,0,0.0,4,3,0.75,122,95,0
+77131,1961,26100026,1961-11-03 19:00:00,Chicago,Packers,New York,Knicks,Regular Season,1,1,0.0,11,0,0,0,0,0,0,0,6,0,0,3,0.0,0,0,0.0,6,5,0.832,129,118,0
+77131,1961,26100031,1961-11-04 19:00:00,Chicago,Packers,Los Angeles,Lakers,Regular Season,1,0,0.0,9,0,0,0,0,0,0,0,3,0,0,1,0.0,0,0,0.0,9,7,0.778,112,125,0
+77131,1961,26100038,1961-11-08 19:00:00,Chicago,Packers,New York,Knicks,Regular Season,0,0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0.0,3,0,0.0,130,108,0
+77131,1961,26100042,1961-11-10 19:00:00,Chicago,Packers,Cincinnati,Royals,Regular Season,0,0,0.0,0,0,1,0,0,0,0,0,1,0,1,0,0.0,0,0,0.0,0,0,0.0,122,117,0
+77131,1961,26100049,1961-11-13 19:00:00,Chicago,Packers,Los Angeles,Lakers,Regular Season,0,0,0.0,9,0,0,0,0,0,0,0,3,0,0,4,0.0,0,0,0.0,1,1,1.0,127,113,0
+77131,1961,26100055,1961-11-15 19:00:00,Chicago,Packers,Los Angeles,Lakers,Regular Season,0,0,0.0,8,0,0,0,0,0,0,0,4,0,10,3,0.299,0,0,0.0,2,2,1.0,133,118,0
+77131,1961,26100067,1961-11-21 19:00:00,Chicago,Packers,New York,Knicks,Regular Season,0,1,0.0,16,0,0,0,0,0,0,0,4,0,0,7,0.0,0,0,0.0,6,2,0.333,107,109,0
+77131,1961,26100079,1961-11-25 19:00:00,Chicago,Packers,Philadelphia,Warriors,Regular Season,0,0,0.0,12,0,6,0,0,0,0,0,3,0,8,5,0.625,0,0,0.0,5,2,0.4,134,102,0
+77131,1961,26100089,1961-12-01 19:00:00,Chicago,Packers,Boston,Celtics,Regular Season,0,0,28.0,16,2,0,0,0,0,0,0,3,0,14,5,0.356,0,0,0.0,9,6,0.667,140,121,0
+77131,1961,26100094,1961-12-02 19:00:00,Chicago,Packers,Syracuse,Nationals,Regular Season,0,0,0.0,33,0,0,0,0,0,0,0,6,0,0,13,0.0,0,0,0.0,15,7,0.467,132,118,0
+77131,1961,26100100,1961-12-05 19:00:00,Chicago,Packers,St. Louis,Hawks,Regular Season,1,1,36.0,8,0,8,0,0,0,0,0,4,0,16,3,0.188,0,0,0.0,2,2,1.0,101,99,0
+77131,1961,26100108,1961-12-08 19:00:00,Chicago,Packers,Detroit,Pistons,Regular Season,0,0,0.0,7,0,0,0,0,0,0,0,4,0,0,3,0.0,0,0,0.0,1,1,1.0,133,107,0
+77131,1961,26100109,1961-12-09 19:00:00,Chicago,Packers,Philadelphia,Warriors,Regular Season,0,0,0.0,22,1,8,0,0,0,0,0,4,0,10,7,0.699,0,0,0.0,10,8,0.8,135,113,0
+77131,1961,26100113,1961-12-10 19:00:00,Chicago,Packers,Philadelphia,Warriors,Regular Season,1,0,0.0,15,2,3,0,0,0,0,0,3,0,18,5,0.278,0,0,0.0,9,5,0.556,109,118,0
+77131,1961,26100116,1961-12-11 19:00:00,Chicago,Packers,Cincinnati,Royals,Regular Season,0,0,0.0,5,0,3,0,0,0,0,0,4,0,11,2,0.181,0,0,0.0,2,1,0.5,133,117,0
+77131,1961,26100122,1961-12-13 19:00:00,Chicago,Packers,New York,Knicks,Regular Season,1,1,0.0,12,0,0,0,0,0,0,0,4,0,0,3,0.0,0,0,0.0,9,6,0.667,113,112,0
+77131,1961,26100124,1961-12-14 19:00:00,Chicago,Packers,Boston,Celtics,Regular Season,0,0,0.0,18,0,0,0,0,0,0,0,3,0,0,8,0.0,0,0,0.0,5,2,0.4,123,108,0
+77131,1961,26100127,1961-12-15 19:00:00,Chicago,Packers,Los Angeles,Lakers,Regular Season,1,1,0.0,11,0,0,0,0,0,0,0,4,0,0,4,0.0,0,0,0.0,4,3,0.75,97,94,0
+77131,1961,26100130,1961-12-16 19:00:00,Chicago,Packers,Philadelphia,Warriors,Regular Season,1,0,0.0,14,2,1,0,0,0,0,0,3,0,9,7,0.778,0,0,0.0,0,0,0.0,110,112,0
+77131,1961,26100139,1961-12-20 19:00:00,Chicago,Packers,Los Angeles,Lakers,Regular Season,0,0,0.0,9,0,0,0,0,0,0,0,4,0,0,3,0.0,0,0,0.0,4,3,0.75,102,98,0
+77131,1961,26100147,1961-12-25 19:00:00,Chicago,Packers,Detroit,Pistons,Regular Season,1,1,0.0,2,0,0,0,0,0,0,0,3,0,0,1,0.0,0,0,0.0,1,0,0.0,118,97,0
+77131,1961,26100151,1961-12-26 19:00:00,Chicago,Packers,Detroit,Pistons,Regular Season,1,1,0.0,11,0,0,0,0,0,0,0,6,0,0,4,0.0,0,0,0.0,4,3,0.75,108,101,0
+77131,1961,26100155,1961-12-27 19:00:00,Chicago,Packers,Detroit,Pistons,Regular Season,0,0,0.0,6,0,0,0,0,0,0,0,4,0,0,3,0.0,0,0,0.0,0,0,0.0,121,93,0
+77131,1961,26100160,1961-12-29 19:00:00,Chicago,Packers,St. Louis,Hawks,Regular Season,1,0,20.0,10,0,4,0,0,0,0,0,3,0,10,4,0.4,0,0,0.0,2,2,1.0,103,120,0
+77131,1961,26100165,1961-12-30 19:00:00,Chicago,Packers,St. Louis,Hawks,Regular Season,0,0,0.0,13,0,0,0,0,0,0,0,5,0,0,4,0.0,0,0,0.0,9,5,0.556,101,92,0
+77131,1961,26100170,1962-01-02 19:00:00,Chicago,Packers,Syracuse,Nationals,Regular Season,1,0,0.0,16,0,0,0,0,0,0,0,3,0,0,6,0.0,0,0,0.0,9,4,0.444,102,127,0
+77131,1961,26100179,1962-01-06 19:00:00,Chicago,Packers,Syracuse,Nationals,Regular Season,0,0,0.0,6,0,0,0,0,0,0,0,3,0,0,3,0.0,0,0,0.0,1,0,0.0,120,102,0
+77131,1961,26100193,1962-01-12 19:00:00,Chicago,Packers,Detroit,Pistons,Regular Season,1,0,0.0,4,0,0,0,0,0,0,0,3,0,0,2,0.0,0,0,0.0,1,0,0.0,99,102,0
+77131,1961,26100194,1962-01-13 19:00:00,Chicago,Packers,Philadelphia,Warriors,Regular Season,0,0,0.0,14,2,6,0,0,0,0,0,2,0,11,5,0.455,0,0,0.0,7,4,0.57,135,117,0
+77131,1961,26100206,1962-01-18 19:00:00,Chicago,Packers,Syracuse,Nationals,Regular Season,0,0,0.0,9,0,0,0,0,0,0,0,2,0,0,4,0.0,0,0,0.0,2,1,0.5,118,111,0
+77131,1961,26100212,1962-01-20 19:00:00,Chicago,Packers,St. Louis,Hawks,Regular Season,0,0,0.0,10,0,0,0,0,0,0,0,5,0,0,4,0.0,0,0,0.0,6,2,0.333,116,112,0
+77131,1961,26100218,1962-01-21 19:00:00,Chicago,Packers,Los Angeles,Lakers,Regular Season,1,0,0.0,2,0,0,0,0,0,0,0,1,0,0,0,0.0,0,0,0.0,3,2,0.667,111,112,0
+77131,1961,26100220,1962-01-22 19:00:00,Chicago,Packers,New York,Knicks,Regular Season,1,0,0.0,10,0,0,0,0,0,0,0,3,0,0,5,0.0,0,0,0.0,3,0,0.0,94,131,0
+77131,1961,26100222,1962-01-23 19:00:00,Chicago,Packers,New York,Knicks,Regular Season,0,1,0.0,17,0,0,0,0,0,0,0,6,0,0,8,0.0,0,0,0.0,2,1,0.5,103,109,0
+77131,1961,26100226,1962-01-24 19:00:00,Chicago,Packers,Philadelphia,Warriors,Regular Season,0,0,0.0,13,4,11,0,0,0,0,0,6,0,16,6,0.375,0,0,0.0,4,1,0.25,122,108,0
+77131,1961,26100229,1962-01-25 19:00:00,Chicago,Packers,New York,Knicks,Regular Season,1,0,0.0,12,0,0,0,0,0,0,0,5,0,0,3,0.0,0,0,0.0,8,6,0.75,102,117,0
+77131,1961,26100235,1962-01-27 19:00:00,Chicago,Packers,Syracuse,Nationals,Regular Season,1,0,0.0,10,0,0,0,0,0,0,0,5,0,0,5,0.0,0,0,0.0,1,0,0.0,102,107,0
+77131,1961,26100238,1962-01-28 19:00:00,Chicago,Packers,Los Angeles,Lakers,Regular Season,0,0,0.0,17,0,11,0,0,0,0,0,5,0,17,7,0.411,0,0,0.0,6,3,0.5,124,109,0
+77131,1961,26100242,1962-01-30 19:00:00,Chicago,Packers,Los Angeles,Lakers,Regular Season,0,0,0.0,3,0,2,0,0,0,0,0,2,0,3,1,0.333,0,0,0.0,1,1,1.0,107,92,0
+77131,1961,26100244,1962-01-31 19:00:00,Chicago,Packers,Boston,Celtics,Regular Season,1,0,0.0,4,0,0,0,0,0,0,0,3,0,0,2,0.0,0,0,0.0,0,0,0.0,115,122,0
+77131,1961,26100251,1962-02-02 19:00:00,Chicago,Packers,Detroit,Pistons,Regular Season,1,1,0.0,22,0,0,0,0,0,0,0,5,0,0,9,0.0,0,0,0.0,7,4,0.57,112,96,0
+77131,1961,26100255,1962-02-03 19:00:00,Chicago,Packers,Detroit,Pistons,Regular Season,0,0,0.0,21,0,0,0,0,0,0,0,3,0,0,8,0.0,0,0,0.0,7,5,0.713,116,109,0
+77131,1961,26100259,1962-02-04 19:00:00,Chicago,Packers,Los Angeles,Lakers,Regular Season,1,1,0.0,20,0,0,0,0,0,0,0,2,0,0,9,0.0,0,0,0.0,2,2,1.0,113,105,0
+77131,1961,26100261,1962-02-05 19:00:00,Chicago,Packers,Boston,Celtics,Regular Season,1,0,0.0,18,0,0,0,0,0,0,0,3,0,0,6,0.0,0,0,0.0,12,6,0.5,111,127,0
+77131,1961,26100262,1962-02-06 19:00:00,Chicago,Packers,Syracuse,Nationals,Regular Season,0,0,0.0,17,0,0,0,0,0,0,0,3,0,0,4,0.0,0,0,0.0,16,9,0.562,127,123,0
+77131,1961,26100273,1962-02-10 19:00:00,Chicago,Packers,New York,Knicks,Regular Season,1,1,0.0,18,5,7,0,0,0,0,0,1,0,14,7,0.5,0,0,0.0,7,4,0.57,126,111,0
+77131,1961,26100276,1962-02-11 19:00:00,Chicago,Packers,Boston,Celtics,Regular Season,0,0,28.0,21,3,11,0,0,0,0,0,0,0,14,5,0.356,0,0,0.0,19,11,0.578,148,115,0
+77131,1961,26100281,1962-02-13 19:00:00,Chicago,Packers,Boston,Celtics,Regular Season,0,0,0.0,25,0,0,0,0,0,0,0,5,0,0,7,0.0,0,0,0.0,14,11,0.786,138,117,0
+77131,1961,26100282,1962-02-14 19:00:00,Chicago,Packers,Cincinnati,Royals,Regular Season,1,1,0.0,23,0,6,0,0,0,0,0,5,0,13,7,0.538,0,0,0.0,17,9,0.529,125,121,0
+77131,1961,26100286,1962-02-15 19:00:00,Chicago,Packers,Syracuse,Nationals,Regular Season,1,1,0.0,24,0,0,0,0,0,0,0,4,0,0,8,0.0,0,0,0.0,9,8,0.889,126,121,0
+77131,1961,26100289,1962-02-16 19:00:00,Chicago,Packers,Syracuse,Nationals,Regular Season,1,0,0.0,12,0,0,0,0,0,0,0,5,0,0,4,0.0,0,0,0.0,8,4,0.5,106,132,0
+77131,1961,26100291,1962-02-17 19:00:00,Chicago,Packers,Syracuse,Nationals,Regular Season,0,0,0.0,27,0,0,0,0,0,0,0,3,0,0,8,0.0,0,0,0.0,17,11,0.647,136,127,0
+77131,1961,26100296,1962-02-18 19:00:00,Chicago,Packers,Cincinnati,Royals,Regular Season,0,0,0.0,26,0,8,0,0,0,0,0,4,0,18,10,0.556,0,0,0.0,11,6,0.545,138,121,0
+77131,1961,26100300,1962-02-20 19:00:00,Chicago,Packers,Philadelphia,Warriors,Regular Season,0,0,0.0,23,6,11,0,0,0,0,0,3,0,14,8,0.57,0,0,0.0,10,7,0.699,112,107,0
+77131,1961,26100303,1962-02-21 19:00:00,Chicago,Packers,Cincinnati,Royals,Regular Season,1,0,0.0,29,0,5,0,0,0,0,0,4,0,16,9,0.562,0,0,0.0,16,11,0.687,125,153,0
+77131,1961,26100311,1962-02-23 19:00:00,Chicago,Packers,Los Angeles,Lakers,Regular Season,0,0,0.0,20,0,0,0,0,0,0,0,5,0,0,9,0.0,0,0,0.0,3,2,0.667,124,117,0
+77131,1961,26100313,1962-02-24 19:00:00,Chicago,Packers,St. Louis,Hawks,Regular Season,1,1,0.0,16,0,0,0,0,0,0,0,3,0,0,6,0.0,0,0,0.0,7,4,0.57,129,119,0
+77131,1961,26100324,1962-02-27 19:00:00,Chicago,Packers,Boston,Celtics,Regular Season,0,0,42.0,32,0,7,0,0,0,0,0,3,0,21,10,0.475,0,0,0.0,16,12,0.75,115,100,0
+77131,1961,26100326,1962-02-28 19:00:00,Chicago,Packers,Philadelphia,Warriors,Regular Season,1,0,0.0,29,2,6,0,0,0,0,0,3,0,22,10,0.455,0,0,0.0,10,9,0.9,119,128,0
+77131,1961,26100333,1962-03-03 19:00:00,Chicago,Packers,Cincinnati,Royals,Regular Season,1,0,0.0,21,0,7,0,0,0,0,0,5,0,22,8,0.363,0,0,0.0,8,5,0.625,119,126,0
+77131,1961,26100337,1962-03-04 19:00:00,Chicago,Packers,Detroit,Pistons,Regular Season,1,0,0.0,21,0,0,0,0,0,0,0,0,0,0,8,0.0,0,0,0.0,5,5,1.0,116,133,0
+77131,1961,26100343,1962-03-08 19:00:00,Chicago,Packers,Boston,Celtics,Regular Season,1,0,0.0,15,0,0,0,0,0,0,0,3,0,0,4,0.0,0,0,0.0,9,7,0.778,102,108,0
+77131,1961,26100344,1962-03-09 19:00:00,Chicago,Packers,St. Louis,Hawks,Regular Season,0,0,0.0,23,0,1,0,0,0,0,0,4,0,13,8,0.614,0,0,0.0,9,7,0.778,124,120,0
+77131,1961,26100347,1962-03-10 19:00:00,Chicago,Packers,New York,Knicks,Regular Season,1,1,0.0,17,0,0,0,0,0,0,0,5,0,0,8,0.0,0,0,0.0,2,1,0.5,128,116,0
+77131,1961,26100353,1962-03-12 19:00:00,Chicago,Packers,Detroit,Pistons,Regular Season,0,0,0.0,19,0,0,0,0,0,0,0,2,0,0,6,0.0,0,0,0.0,10,7,0.699,121,116,0
+77131,1961,26100355,1962-03-13 19:00:00,Chicago,Packers,St. Louis,Hawks,Regular Season,0,1,24.0,14,0,2,0,0,0,0,0,4,0,10,5,0.5,0,0,0.0,6,4,0.667,118,124,0
+77131,1961,26100359,1962-03-14 19:00:00,Chicago,Packers,Philadelphia,Warriors,Regular Season,1,0,0.0,16,4,7,0,0,0,0,0,3,0,18,7,0.389,0,0,0.0,8,2,0.25,115,119,0
