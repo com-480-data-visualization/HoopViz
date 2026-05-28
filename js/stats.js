@@ -1281,14 +1281,10 @@ export function updateTeamStats(container, built, seasonsLoader, metadataLoader,
 
   const teamAvgEl = container.querySelector('.team-averages');
   if (teamAvgEl) {
-    loadCsv('./data/team_games.csv').then(rows => {
+    loadCsv('./data/team_seasons.csv').then(rows => {
       if (String(teamId) !== summaryTargetId || String(currentYear) !== summaryTargetYear) return;
-      const games = rows.filter(r =>
-        r.season === String(currentYear) &&
-        r.teamId === String(teamId) &&
-        r.gameType === gameType
-      );
-      renderTeamAverages(teamAvgEl, games, colorA);
+      const seasonRow = findTeamSeasonRow(rows, currentYear, teamId, gameType);
+      renderTeamSeasonStats(teamAvgEl, seasonRow, colorA);
     }).catch(() => {
       teamAvgEl.innerHTML = '';
     });
@@ -1308,11 +1304,6 @@ async function loadPlayerGames(personId) {
   const rows = await d3.csv(`data/games_by_player/${personId}.csv`);
   _gamesCache.set(personId, rows);
   return rows;
-}
-
-function colAvg(rows, field) {
-  const vals = rows.map(r => +r[field]).filter(v => isFinite(v));
-  return vals.length ? vals.reduce((a, b) => a + b, 0) / vals.length : 0;
 }
 
 function fmt(v, d = 1) {
@@ -1361,40 +1352,85 @@ function wireShotFilterControls(container, onChange) {
   });
 }
 
-function renderAverages(el, games, teamColor) {
+function findPlayerSeasonRow(playerSeasons, year, playerId, gameType) {
+  return playerSeasons.find((row) =>
+    +row.season === +year &&
+    String(row.personId) === String(playerId) &&
+    row.gameType === gameType
+  );
+}
+
+function findTeamSeasonRow(teamSeasons, year, teamId, gameType) {
+  return teamSeasons.find((row) =>
+    +row.season === +year &&
+    String(row.teamId) === String(teamId) &&
+    row.gameType === gameType
+  );
+}
+
+function renderPlayerSeasonStats(el, seasonRow, teamColor) {
+  if (!el) return;
   el.innerHTML = '';
-  if (!games.length) return;
-  const wins = games.filter(r => +r.win === 1).length;
-  const losses = games.length - wins;
+  if (!seasonRow) return;
+
+  const hasValue = (value) => value !== null && value !== undefined && value !== '';
+  const toNumber = (value) => coerceNumber(value) ?? 0;
+  const gamesPlayed = toNumber(seasonRow.gamesPlayed);
+  const wins = toNumber(seasonRow.win);
+  const losses = Math.max(0, gamesPlayed - wins);
+
+  const perGame = (avgKey, totalKey) => {
+    if (hasValue(seasonRow[avgKey])) return toNumber(seasonRow[avgKey]);
+    if (totalKey && gamesPlayed) return toNumber(seasonRow[totalKey]) / gamesPlayed;
+    return 0;
+  };
+  const percent = (pctKey, madeKey, attemptKey) => {
+    if (hasValue(seasonRow[pctKey])) return toNumber(seasonRow[pctKey]) * 100;
+    const attempts = toNumber(seasonRow[attemptKey]);
+    return attempts ? (toNumber(seasonRow[madeKey]) / attempts) * 100 : 0;
+  };
+
+  const pointsPerGame = perGame('points', 'pointsTotal');
+  const assistsPerGame = perGame('assists', 'assistsTotal');
+  const reboundsPerGame = perGame('rebounds', 'reboundsTotal');
+  const stealsPerGame = perGame('steals', 'stealsTotal');
+  const blocksPerGame = perGame('blocks', 'blocksTotal');
+  const turnoversPerGame = perGame('turnovers', 'turnoversTotal');
+  const foulsPerGame = perGame('foulsPersonal');
+  const minutesPerGame = perGame('numMinutes');
+  const plusMinus = toNumber(seasonRow.plusMinusPoints);
+  const fieldGoalsPct = percent('fieldGoalsPercentage', 'fieldGoalsMade', 'fieldGoalsAttempted');
+  const threePointersPct = percent('threePointersPercentage', 'threePointersMade', 'threePointersAttempted');
+  const freeThrowsPct = percent('freeThrowsPercentage', 'freeThrowsMade', 'freeThrowsAttempted');
 
   const sections = [
     {
       title: 'Overview',
       rows: [
-        ['Games', `${games.length}`],
-        ['Record', `${wins}W – ${losses}L`],
-        ['Min / game', `${fmt(colAvg(games, 'numMinutes'), 1)}`],
-        ['Plus / minus', fmtPM(colAvg(games, 'plusMinusPoints'))],
+        ['Games', `${gamesPlayed.toFixed(0)}`],
+        ['Record', `${wins.toFixed(0)}W – ${losses.toFixed(0)}L`],
+        ['Min / game', `${fmt(minutesPerGame, 1)}`],
+        ['Plus / minus', fmtPM(plusMinus)],
       ],
     },
     {
       title: 'Scoring',
       rows: [
-        ['Points / game', fmt(colAvg(games, 'points'), 1), true],
-        ['FG%', `${fmt(colAvg(games, 'fieldGoalsPercentage') * 100, 1)}%`],
-        ['3P%', `${fmt(colAvg(games, 'threePointersPercentage') * 100, 1)}%`],
-        ['FT%', `${fmt(colAvg(games, 'freeThrowsPercentage') * 100, 1)}%`],
+        ['Points / game', fmt(pointsPerGame, 1), true],
+        ['FG%', `${fmt(Number.isFinite(fieldGoalsPct) ? fieldGoalsPct : 0, 1)}%`],
+        ['3P%', `${fmt(Number.isFinite(threePointersPct) ? threePointersPct : 0, 1)}%`],
+        ['FT%', `${fmt(Number.isFinite(freeThrowsPct) ? freeThrowsPct : 0, 1)}%`],
       ],
     },
     {
       title: 'Contribution',
       rows: [
-        ['Rebounds / game', fmt(colAvg(games, 'reboundsTotal'), 1), true],
-        ['Assists / game', fmt(colAvg(games, 'assists'), 1), true],
-        ['Steals / game', fmt(colAvg(games, 'steals'), 1)],
-        ['Blocks / game', fmt(colAvg(games, 'blocks'), 1)],
-        ['Turnovers / game', fmt(colAvg(games, 'turnovers'), 1)],
-        ['Fouls / game', fmt(colAvg(games, 'foulsPersonal'), 1)],
+        ['Rebounds / game', fmt(reboundsPerGame, 1), true],
+        ['Assists / game', fmt(assistsPerGame, 1), true],
+        ['Steals / game', fmt(stealsPerGame, 1)],
+        ['Blocks / game', fmt(blocksPerGame, 1)],
+        ['Turnovers / game', fmt(turnoversPerGame, 1)],
+        ['Fouls / game', fmt(foulsPerGame, 1)],
       ],
     },
   ];
@@ -1427,40 +1463,69 @@ function renderAverages(el, games, teamColor) {
   });
 }
 
-function renderTeamAverages(el, games, teamColor) {
+function renderTeamSeasonStats(el, seasonRow, teamColor) {
+  if (!el) return;
   el.innerHTML = '';
-  if (!games.length) return;
-  const wins = games.filter(r => +r.win === 1).length;
-  const losses = games.length - wins;
+  if (!seasonRow) return;
+
+  const hasValue = (value) => value !== null && value !== undefined && value !== '';
+  const toNumber = (value) => coerceNumber(value) ?? 0;
+  const gamesPlayed = toNumber(seasonRow.gamesPlayed);
+  const wins = hasValue(seasonRow.win) ? toNumber(seasonRow.win) : Math.max(0, gamesPlayed - toNumber(seasonRow.losses));
+  const losses = hasValue(seasonRow.losses) ? toNumber(seasonRow.losses) : Math.max(0, gamesPlayed - wins);
+
+  const perGame = (avgKey, totalKey) => {
+    if (hasValue(seasonRow[avgKey])) return toNumber(seasonRow[avgKey]);
+    if (totalKey && gamesPlayed) return toNumber(seasonRow[totalKey]) / gamesPlayed;
+    return 0;
+  };
+  const percent = (pctKey, madeKey, attemptKey) => {
+    if (hasValue(seasonRow[pctKey])) return toNumber(seasonRow[pctKey]) * 100;
+    const attempts = toNumber(seasonRow[attemptKey]);
+    return attempts ? (toNumber(seasonRow[madeKey]) / attempts) * 100 : 0;
+  };
+
+  const pointsPerGame = perGame('teamScore', 'teamScoreTotal');
+  const pointsAllowedPerGame = perGame('opponentScore', 'opponentScoreTotal');
+  const assistsPerGame = perGame('assists', 'assistsTotal');
+  const reboundsPerGame = perGame('rebounds', 'reboundsTotal');
+  const stealsPerGame = perGame('steals', 'stealsTotal');
+  const blocksPerGame = perGame('blocks', 'blocksTotal');
+  const turnoversPerGame = perGame('turnovers', 'turnoversTotal');
+  const foulsPerGame = perGame('foulsPersonal');
+  const plusMinus = perGame('plusMinusPoints');
+  const fieldGoalsPct = percent('fieldGoalsPercentage', 'fieldGoalsMade', 'fieldGoalsAttempted');
+  const threePointersPct = percent('threePointersPercentage', 'threePointersMade', 'threePointersAttempted');
+  const freeThrowsPct = percent('freeThrowsPercentage', 'freeThrowsMade', 'freeThrowsAttempted');
 
   const sections = [
     {
       title: 'Overview',
       rows: [
-        ['Games', `${games.length}`],
-        ['Record', `${wins}W – ${losses}L`],
-        ['Points / game', fmt(colAvg(games, 'teamScore'), 1), true],
-        ['Points Allowed / game', fmt(colAvg(games, 'opponentScore'), 1)],
-        ['Plus / minus', fmtPM(colAvg(games, 'plusMinusPoints'))],
+        ['Games', `${gamesPlayed.toFixed(0)}`],
+        ['Record', `${wins.toFixed(0)}W – ${losses.toFixed(0)}L`],
+        ['Points / game', fmt(pointsPerGame, 1), true],
+        ['Points Allowed / game', fmt(pointsAllowedPerGame, 1)],
+        ['Plus / minus', fmtPM(plusMinus)],
       ],
     },
     {
       title: 'Shooting',
       rows: [
-        ['FG%', `${fmt(colAvg(games, 'fieldGoalsPercentage') * 100, 1)}%`],
-        ['3P%', `${fmt(colAvg(games, 'threePointersPercentage') * 100, 1)}%`],
-        ['FT%', `${fmt(colAvg(games, 'freeThrowsPercentage') * 100, 1)}%`],
+        ['FG%', `${fmt(Number.isFinite(fieldGoalsPct) ? fieldGoalsPct : 0, 1)}%`],
+        ['3P%', `${fmt(Number.isFinite(threePointersPct) ? threePointersPct : 0, 1)}%`],
+        ['FT%', `${fmt(Number.isFinite(freeThrowsPct) ? freeThrowsPct : 0, 1)}%`],
       ],
     },
     {
       title: 'Other',
       rows: [
-        ['Rebounds / game', fmt(colAvg(games, 'rebounds'), 1), true],
-        ['Assists / game', fmt(colAvg(games, 'assists'), 1), true],
-        ['Steals / game', fmt(colAvg(games, 'steals'), 1)],
-        ['Blocks / game', fmt(colAvg(games, 'blocks'), 1)],
-        ['Turnovers / game', fmt(colAvg(games, 'turnovers'), 1)],
-        ['Fouls / game', fmt(colAvg(games, 'foulsPersonal'), 1)],
+        ['Rebounds / game', fmt(reboundsPerGame, 1), true],
+        ['Assists / game', fmt(assistsPerGame, 1), true],
+        ['Steals / game', fmt(stealsPerGame, 1)],
+        ['Blocks / game', fmt(blocksPerGame, 1)],
+        ['Turnovers / game', fmt(turnoversPerGame, 1)],
+        ['Fouls / game', fmt(foulsPerGame, 1)],
       ],
     },
   ];
@@ -1503,97 +1568,6 @@ function isDateInSeason(dateStr, gameType) {
   }
   // Regular Season: mid-October to mid-April
   return (monthDay >= "10-15") || (monthDay <= "04-15");
-}
-
-function renderCalendarHeatmap(games, currentYear, statsAreaEl, color = '#0f3285', onGameHover = null, onGameLeave = null, gameType = "Regular Season") {
-  if (calInstance) {
-    try { calInstance.destroy(); } catch (e) {}
-    calInstance = null;
-  }
-
-  gamesByDate = new Map();
-  const source = [];
-  games.forEach(r => {
-    const dateStr = r.gameDateTimeEst ? r.gameDateTimeEst.slice(0, 10) : null;
-    if (!dateStr || !isDateInSeason(dateStr, gameType)) return;
-    gamesByDate.set(dateStr, r);
-    source.push({ date: dateStr, value: +r.points });
-  });
-
-  const maxPts = d3.max(games, d => +d.points) || 40;
-
-  try {
-    calInstance = new window.CalHeatmap();
-
-    calInstance.on('mouseover', (event, timestamp, value) => {
-      if (value == null) return;
-      const d = new Date(timestamp);
-      const dateStr = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
-      if (event.target?.tagName === 'rect') {
-        event.target.style.stroke = color;
-        event.target.style.strokeWidth = '2px';
-      }
-      d3.select('#player-games-chart').selectAll('rect')
-        .filter(d => d?.gameDateTimeEst?.slice(0, 10) === dateStr)
-        .attr('fill', color);
-      const game = gamesByDate.get(dateStr);
-      if (game) {
-        showGamePopup(event, game, statsAreaEl);
-        if (onGameHover) onGameHover(game.gameId);
-      }
-    });
-
-    calInstance.on('mouseout', (event, timestamp, value) => {
-      if (event.target?.tagName === 'rect') {
-        event.target.style.stroke = '';
-        event.target.style.strokeWidth = '';
-      }
-      d3.select('#player-games-chart').selectAll('rect')
-        .attr('fill', d => d && +d.win === 1 ? GAME_WIN_COLOR : GAME_LOSS_COLOR);
-      const popup = statsAreaEl.querySelector('.game-popup');
-      if (popup) popup.style.display = 'none';
-      if (onGameLeave) onGameLeave();
-    });
-
-    const startDate = gameType === "Playoffs"
-      ? new Date(currentYear, 3, 15)
-      : new Date(currentYear, 9, 15);
-    const monthRange = gameType === "Playoffs" ? 3 : 6;
-
-    calInstance.paint({
-      itemSelector: '#player-calendar',
-      data: {
-        source,
-        x: 'date',
-        y: 'value',
-        defaultValue: null,
-      },
-      date: { start: startDate },
-      range: monthRange,
-      domain: {
-        type: 'month',
-        gutter: 6,
-        label: { text: 'MMM', position: 'top' },
-      },
-      subDomain: {
-        type: 'ghDay',
-        radius: 2,
-        width: 14,
-        height: 14,
-        gutter: 2,
-      },
-      scale: {
-        color: {
-          range: ['#ffffff', color],
-          type: 'linear',
-          domain: [0, maxPts],
-        },
-      },
-      theme: 'dark',
-    });
-  } catch (e) {
-    console.error('CalHeatmap error:', e);
-  }
 }
 
 function showGamePopup(event, game, statsAreaEl) {
@@ -1914,6 +1888,11 @@ export function updatePlayerStats(container, built, seasonsLoader, metadataLoade
         .text("Loading...");
 
     const reqId = ++playerStatsReqId;
+    const playerStatsEl = container.querySelector('.player-averages');
+    const playerSeasonsPromise = loadCsv('./data/player_seasons.csv');
+    const playerSeasonRowPromise = playerSeasonsPromise.then((playerSeasons) =>
+      findPlayerSeasonRow(playerSeasons, currentYear, playerId, gameType)
+    );
     let allShots = [];
 
     const gameContext = { gamesById: new Map(), teamColor: '#005ce6' };
@@ -1982,12 +1961,23 @@ export function updatePlayerStats(container, built, seasonsLoader, metadataLoade
           .text(errorMsg);
     });
 
-      Promise.all([
+    // Load season data from CSV to get player stats
+    playerSeasonRowPromise.then((playerSeasonRow) => {
+      if (reqId !== playerStatsReqId) return;
+      if (playerSeasonRow) {
+        renderPlayerSeasonStats(playerStatsEl, playerSeasonRow, statsArea.style.background || '#005ce6');
+      }
+    }).catch((err) => {
+      console.error('Error loading player seasons:', err);
+    });
+
+    Promise.all([
       loadPlayerGames(playerId),
       loadCsv('./data/team_seasons.csv'),
       loadCsv('./data/team_metadata.csv'),
       loadCsv('./data/team_games.csv'),
-    ]).then(([allGames, teamSeasons, teamMeta, teamGames]) => {
+      playerSeasonRowPromise,
+    ]).then(([allGames, teamSeasons, teamMeta, teamGames, playerSeasonRow]) => {
       if (reqId !== playerStatsReqId) return;
 
       const games = allGames
@@ -2051,13 +2041,17 @@ export function updatePlayerStats(container, built, seasonsLoader, metadataLoade
         if (legendPlayer) legendPlayer.style.color = colorA;
         if (legendAverage) legendAverage.style.color = colorB;
         built.radar.update(dataPoints, TRANSITION_TIME, built);
-        renderAverages(container.querySelector('.player-averages'), games, colorA);
+        if (playerSeasonRow) {
+          renderPlayerSeasonStats(playerStatsEl, playerSeasonRow, colorA);
+        }
         wireGameHistoryMetricSelector(container, document.getElementById('player-games-chart'), games, colorA, onGameHover, onGameLeave);
         return;
       }
 
       renderTopTeamLogos(container, []);
-      renderAverages(container.querySelector('.player-averages'), games, '#005ce6');
+      if (playerSeasonRow) {
+        renderPlayerSeasonStats(playerStatsEl, playerSeasonRow, '#005ce6');
+      }
       wireGameHistoryMetricSelector(container, document.getElementById('player-games-chart'), games, '#005ce6', onGameHover, onGameLeave);
       });
     });
